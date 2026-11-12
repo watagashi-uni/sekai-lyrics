@@ -113,12 +113,17 @@ function projectReadings(project) {
   return byText
 }
 
+function projectTokens(readings, value) {
+  return [...(readings.get(value)?.values() || [])].filter(Boolean)
+}
+
 function exactProjectRuby(line, readings) {
   const { value, offsets } = normalize(line.text)
-  return [...(readings.get(value)?.values() || [])].flatMap(span => {
-    if (!span) return []
-    return [{ from: offsets[span.from].from, to: offsets[span.to - 1].to, reading: span.reading }]
-  })
+  return projectTokens(readings, value).map(span => ({
+    from: offsets[span.from].from,
+    to: offsets[span.to - 1].to,
+    reading: span.reading,
+  }))
 }
 
 function parseLrc(lrc, duration) {
@@ -153,6 +158,13 @@ for (const folder of (await readdir(root)).filter(name => /^\d+$/.test(name))) {
   const sourceLines = (source ? JSON.parse(source).lines : []).filter(line => Number.isFinite(line.start) && Number.isFinite(line.end))
   const canonical = sourceLines.map(line => sourceLine(line, line.segments, line.japanese)).filter(Boolean).sort((a, b) => a.start - b.start)
   const display = sourceLines.map(line => sourceLine(line, line.display_segments ?? line.segments, line.display_text ?? line.display_japanese ?? line.japanese)).filter(Boolean).sort((a, b) => a.start - b.start)
+  // A timed project line can be present without its original segments. Restore its
+  // readings using the whole project line, then let the time-aligned projection
+  // locate the matching subphrase when the playback LRC has split that line.
+  const timedUpstream = sourceLines.map(line => {
+    const { value } = normalize(line.japanese)
+    return { value, ruby: projectTokens(readings, value), start: line.start, end: line.end }
+  }).filter(line => line.value).sort((a, b) => a.start - b.start)
   const file = path.join(dir, 'lyrics.json')
   const original = await readFile(file, 'utf8')
   const data = JSON.parse(original)
@@ -161,7 +173,11 @@ for (const folder of (await readdir(root)).filter(name => /^\d+$/.test(name))) {
   const rubyLines = []
   for (const line of lines) {
     const ruby = project(line, display)
-    const fallback = [...project(line, canonical), ...exactProjectRuby(line, readings)]
+    const fallback = [
+      ...project(line, canonical),
+      ...exactProjectRuby(line, readings),
+      ...project(line, timedUpstream),
+    ]
     for (const span of fallback) {
       if (!ruby.some(other => other.from < span.to && other.to > span.from)) ruby.push(span)
     }
