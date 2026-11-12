@@ -12,6 +12,8 @@
 6. 执行 `node scripts/build-playback.mjs` 和 `node scripts/validate.mjs`。
 7. 发布时先上传新增哈希文件，确认可读后再更新 `version.json`。
 
+`add-furigana.mjs` 默认从每首歌的 `game.bilingual.json` 提取读音。有原项目完整数据时，可传入 `music_<ID>.json` 所在目录，从相同歌词的完整版和其它演唱版本补齐读音。重建播放文件时直接运行 `build-playback.mjs`，它会保留 `lyrics.json` 中已经保存的注音。
+
 构建脚本会按 `lyrics.json` 的原始字节计算 SHA-256，取前 16 个十六进制字符作为文件名。仅改变 JSON 排版也会改变哈希。已发布的哈希文件不覆盖；旧文件可以暂时保留，供缓存着旧索引的客户端读取。
 
 Excel 是本次快照报告，构建脚本不会自动更新它。不要在只修改了 JSON 后宣称报告也已更新。新版本应记录新的快照日期，并重新核对已收录、纯音乐和未收录歌曲的统计。

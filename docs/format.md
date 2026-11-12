@@ -14,6 +14,7 @@
 | `lines` | 双语 JSON 模式的播放行 |
 | `lrc` / `translationLrc` | LRC 模式的原文／译文 |
 | `wordLines` | LRC 模式的逐字增强行，`cueStart` 指向原始 LRC 时间 |
+| `rubyLines` | LRC 模式的可选注音行，通过 `cueStart` 和 `text` 对应原始 LRC 行 |
 | `performers` | `performerId` 与显示名称的对应表 |
 | `credits` | 已保存的译者等署名 |
 | `sources` | `[来源URL, 许可名, 许可URL]` 数组；更详细的来源见 `sources.json` |
@@ -36,6 +37,12 @@
 - 没有 `words` 或数组为空时，整行使用逐句高亮。
 
 `segments` 含 `text` 和 `performerIds`；`performers` 提供名字。行上的 `performerIds` 补充行级标记。不要把同一歌曲中一个版本的分唱标记套到另一版本。
+
+### ふりがな
+
+双语 JSON 在播放行中使用可选的 `ruby` 数组。LRC 模式在 `rubyLines` 中保存 `{ cueStart, text, ruby }`，在应用逐字时间轴之前匹配原始 LRC 行。每项为 `{ from, to, reading }`，沿用逐字单元的 UTF-16 偏移，标记 `text` 的读音范围。
+
+注音字段可以缺省，资源仍使用 `v: 1` 索引及现有 `format`。旧播放器会忽略注音字段，普通 LRC 文件保持原格式。注音来自原项目已有读音，可对应到播放文字时才附加。
 
 ## LRC
 

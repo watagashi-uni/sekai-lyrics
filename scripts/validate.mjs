@@ -54,6 +54,17 @@ for (const song of catalog.songs) {
     }
     if (line.words?.length) timed++
   }
+  const rubyLines = data.format === 'lrc' ? data.rubyLines || [] : data.lines
+  for (const line of rubyLines) {
+    if (data.format === 'lrc') assert.ok(Number.isFinite(line.cueStart) && line.cueStart >= 0 && line.cueStart <= data.duration)
+    let cursor = 0
+    for (const span of line.ruby || []) {
+      assert.ok(Number.isInteger(span.from) && Number.isInteger(span.to))
+      assert.ok(span.from >= cursor && span.to > span.from && span.to <= line.text.length)
+      assert.ok(typeof span.reading === 'string' && span.reading.trim())
+      cursor = span.to
+    }
+  }
   assert.equal(song.hasWordTiming, timed > 0)
   assert.equal(song.wordTimedLines, timed)
   assert.equal(song.wordUnits, units)

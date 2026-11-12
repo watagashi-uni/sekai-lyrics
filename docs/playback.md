@@ -6,7 +6,10 @@
 2. 请求 `/lyrics/<musicId>.<hash>.json`。
 3. 按 `format` 读取 `lines` 或解析 `lrc`。
 4. LRC 模式用 `wordLines` 的 `cueStart` 和 `text` 找到对应 LRC 行，将其 `words`、`start`、`end` 合入。译文行按时间标签对应到同一时间的原文行（先按原始 LRC 时间对应，再合入逐字轴的 `start`），每行译文只显示在这一行下；没有对应译文行的原文行不显示译文，不要沿用上一行的译文。
-5. 根据 `audio.currentTime` 确定活动行；有 `words` 的句子逐字高亮，没有的逐句高亮。
+5. 双语 JSON 直接读取每行的可选 `ruby`。LRC 模式用 `rubyLines` 的 `cueStart` 和 `text` 匹配原始 LRC 行，在应用逐字轴的时间偏移之前完成匹配。
+6. 根据 `audio.currentTime` 确定活动行。有 `words` 的句子逐字高亮，其余逐句高亮。
+
+注音的 `from` 和 `to` 是原始 `text` 的 UTF-16 范围，使用 `<ruby>` 和 `<rt>` 渲染。注音层不计入原文偏移。遇到跨注音边界的逐字单元，按原单元时间推进高亮，按文字范围绘制各片段。数据没有注音字段时直接显示原文。
 
 建议资源响应头：
 
