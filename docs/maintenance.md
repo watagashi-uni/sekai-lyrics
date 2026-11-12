@@ -9,8 +9,9 @@
 3. 保留原项目分唱及来源署名；必要时同步更新 `sources.json`。
 4. LRC 歌曲的译文要逐行对应：`translationLrc` 的每一行使用所翻译原文行的时间标签，同一时间标签只有一行；一句译文跨几行原文时按原文行拆开，拆不开的整句放在第一行。`game.lrc`、`game.zh-CN.lrc` 与 `lyrics.json` 的 `lrc`、`translationLrc` 必须完全一致。
 5. 更新 `catalog.json` 的统计，重新生成覆盖报告。
-6. 执行 `node scripts/build-playback.mjs` 和 `node scripts/validate.mjs`。
-7. 发布时先上传新增哈希文件，确认可读后再更新 `version.json`。
+6. 更新罗马音：`uv run --no-project --with Janome==0.5.0 python scripts/add-romaji.py`（文字或注音改动后需要重跑；内容不变的文件不会被改写）。
+7. 执行 `node scripts/build-playback.mjs` 和 `node scripts/validate.mjs`。
+8. 发布时先上传新增哈希文件，确认可读后再更新 `version.json`。
 
 `add-furigana.mjs` 默认从每首歌的 `game.bilingual.json` 提取读音。有原项目完整数据时，可传入 `music_<ID>.json` 所在目录，从相同歌词的完整版和其它演唱版本补齐读音。播放 LRC 拆分原项目歌词行时，先恢复原项目整行的读音，再按时间和匹配片段映射到各播放行。重建播放文件时直接运行 `build-playback.mjs`，它会保留 `lyrics.json` 中已经保存的注音。
 

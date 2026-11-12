@@ -15,6 +15,7 @@
 | `lrc` / `translationLrc` | LRC 模式的原文／译文 |
 | `wordLines` | LRC 模式的逐字增强行，`cueStart` 指向原始 LRC 时间 |
 | `rubyLines` | LRC 模式的可选注音行，通过 `cueStart` 和 `text` 对应原始 LRC 行 |
+| `romajiLines` | LRC 模式的可选罗马音行 `{ cueStart, text, romaji }`，与 `rubyLines` 一样对应原始 LRC 行 |
 | `performers` | `performerId` 与显示名称的对应表 |
 | `credits` | 已保存的译者等署名 |
 | `sources` | `[来源URL, 许可名, 许可URL]` 数组；更详细的来源见 `sources.json` |
@@ -41,6 +42,10 @@
 ### ふりがな
 
 双语 JSON 在播放行中使用可选的 `ruby` 数组。LRC 模式在 `rubyLines` 中保存 `{ cueStart, text, ruby }`，在应用逐字时间轴之前匹配原始 LRC 行。每项为 `{ from, to, reading }`，沿用逐字单元的 UTF-16 偏移，标记 `text` 的读音范围。
+
+### 罗马音
+
+双语 JSON 的播放行带可选的 `romaji` 字符串；LRC 模式使用 `romajiLines`。罗马音由 `scripts/add-romaji.py` 生成：有注音的部分按注音读，其余按 Janome 词典读，助词 は/へ/を 读作 wa/e/o，词与词之间以空格分开。纯英文或符号的行，以及含有词典读不出的汉字的行，不带罗马音。这些都是新增字段，不认识它们的播放器会直接忽略。
 
 注音字段可以缺省，资源仍使用 `v: 1` 索引及现有 `format`。旧播放器会忽略注音字段，普通 LRC 文件保持原格式。注音来自原项目已有读音，可对应到播放文字时才附加。
 
