@@ -7,9 +7,10 @@
 1. 更新对应成品文件，保留参考版本、音频起点和来源信息。
 2. 逐字单元只能使用实际保存的时间，核对 UTF-16 文字范围和发生位置；不能因为一句歌词相同，就误套另一遍副歌的时间。
 3. 保留原项目分唱及来源署名；必要时同步更新 `sources.json`。
-4. 更新 `catalog.json` 的统计，重新生成覆盖报告。
-5. 执行 `node scripts/build-playback.mjs` 和 `node scripts/validate.mjs`。
-6. 发布时先上传新增哈希文件，确认可读后再更新 `version.json`。
+4. LRC 歌曲的译文要逐行对应：`translationLrc` 的每一行使用所翻译原文行的时间标签，同一时间标签只有一行；一句译文跨几行原文时按原文行拆开，拆不开的整句放在第一行。`game.lrc`、`game.zh-CN.lrc` 与 `lyrics.json` 的 `lrc`、`translationLrc` 必须完全一致。
+5. 更新 `catalog.json` 的统计，重新生成覆盖报告。
+6. 执行 `node scripts/build-playback.mjs` 和 `node scripts/validate.mjs`。
+7. 发布时先上传新增哈希文件，确认可读后再更新 `version.json`。
 
 构建脚本会按 `lyrics.json` 的原始字节计算 SHA-256，取前 16 个十六进制字符作为文件名。仅改变 JSON 排版也会改变哈希。已发布的哈希文件不覆盖；旧文件可以暂时保留，供缓存着旧索引的客户端读取。
 

@@ -6,6 +6,11 @@ import assert from 'node:assert/strict'
 
 const root = fileURLToPath(new URL('../', import.meta.url))
 const json = async p => JSON.parse(await readFile(path.join(root, p), 'utf8'))
+/** Timestamps of the LRC rows that carry text. */
+const timedStamps = text => (text || '').split(/\r?\n/).flatMap((row) => {
+  const stamps = [...row.matchAll(/\[\d+:\d+(?:\.\d+)?\]/g)].map(match => match[0])
+  return row.replace(/\[\d+:\d+(?:\.\d+)?\]/g, '').trim() ? stamps : []
+})
 const index = await json('playback/version.json')
 const catalog = await json('catalog.json')
 assert.equal(index.v, 1)
@@ -23,8 +28,17 @@ for (const song of catalog.songs) {
   assert.equal(data.musicId, mid)
   assert.ok(Number.isFinite(data.duration) && data.duration > 0)
   assert.ok(['lrc', 'bilingual_json'].includes(data.format))
-  if (data.format === 'lrc') assert.ok(data.lrc?.includes('['))
-  else assert.ok(data.lines?.length)
+  if (data.format === 'lrc') {
+    assert.ok(data.lrc?.includes('['))
+    // The standalone LRC files carry the same text as the playback fields.
+    assert.equal(await readFile(path.join(root, folder, 'game.lrc'), 'utf8'), data.lrc, `game.lrc ${mid}`)
+    assert.equal(await readFile(path.join(root, folder, 'game.zh-CN.lrc'), 'utf8'), data.translationLrc ?? '', `game.zh-CN.lrc ${mid}`)
+    // Each translation row sits on the timestamp of the lyric line it translates, one row per line,
+    // so a player never has to stretch one translation over the lines that follow it.
+    const lyricStamps = new Set(timedStamps(data.lrc)), translationStamps = timedStamps(data.translationLrc)
+    for (const stamp of translationStamps) assert.ok(lyricStamps.has(stamp), `translation row ${stamp} of ${mid} is not on a lyric line`)
+    assert.equal(new Set(translationStamps).size, translationStamps.length, `two translation rows share a timestamp in ${mid}`)
+  } else assert.ok(data.lines?.length)
   let timed = 0, units = 0
   for (const line of data.format === 'lrc' ? data.wordLines || [] : data.lines) {
     assert.ok(Number.isFinite(line.start) && Number.isFinite(line.end) && line.end >= line.start)

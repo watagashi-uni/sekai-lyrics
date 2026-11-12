@@ -5,7 +5,7 @@
 1. 请求 `/lyrics/version.json`，得到 `songs[musicId]`。
 2. 请求 `/lyrics/<musicId>.<hash>.json`。
 3. 按 `format` 读取 `lines` 或解析 `lrc`。
-4. LRC 模式用 `wordLines` 的 `cueStart` 和 `text` 找到对应 LRC 行，将其 `words`、`start`、`end` 合入。中文仍按原始 LRC 句段对应。
+4. LRC 模式用 `wordLines` 的 `cueStart` 和 `text` 找到对应 LRC 行，将其 `words`、`start`、`end` 合入。译文行按时间标签对应到同一时间的原文行（先按原始 LRC 时间对应，再合入逐字轴的 `start`），每行译文只显示在这一行下；没有对应译文行的原文行不显示译文，不要沿用上一行的译文。
 5. 根据 `audio.currentTime` 确定活动行；有 `words` 的句子逐字高亮，没有的逐句高亮。
 
 建议资源响应头：
