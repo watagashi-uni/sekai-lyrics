@@ -1,0 +1,1222 @@
+{
+  "music_id": 662,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-17",
+      "name": "宵崎奏"
+    },
+    {
+      "performerId": "歌唱者-18",
+      "name": "朝比奈まふゆ"
+    },
+    {
+      "performerId": "歌唱者-19",
+      "name": "東雲絵名"
+    },
+    {
+      "performerId": "歌唱者-20",
+      "name": "暁山瑞希"
+    },
+    {
+      "performerId": "歌唱者-21",
+      "name": "初音ミク"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 10.581,
+      "end": 16.33,
+      "japanese": "綺麗に伸びてと育んだのに",
+      "zh-CN": "明明用心培育希望它能美丽生长",
+      "segments": [
+        {
+          "text": "綺麗に伸びてと育んだのに",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "綺麗",
+              "reading": "きれい"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "伸",
+              "reading": "の"
+            },
+            {
+              "text": "びてと"
+            },
+            {
+              "text": "育",
+              "reading": "はぐく"
+            },
+            {
+              "text": "んだのに"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 16.321,
+      "end": 22.027,
+      "japanese": "雨にやられ死んでしまう",
+      "zh-CN": "却遭暴雨摧残无情枯萎死尽",
+      "segments": [
+        {
+          "text": "雨にやられ死んでしまう",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "雨",
+              "reading": "あめ"
+            },
+            {
+              "text": "にやられ"
+            },
+            {
+              "text": "死",
+              "reading": "し"
+            },
+            {
+              "text": "んでしまう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 22.027,
+      "end": 28.214,
+      "japanese": "求められたとおりにはかったのに",
+      "zh-CN": "明明严格按照要求分毫不差地度量",
+      "segments": [
+        {
+          "text": "求められたとおりにはかったのに",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "求",
+              "reading": "もと"
+            },
+            {
+              "text": "められたとおりにはかったのに"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 28.209,
+      "end": 33.655,
+      "japanese": "漏れ出して呪ってしまう",
+      "zh-CN": "却满溢泄漏因而心生诅咒",
+      "segments": [
+        {
+          "text": "漏れ出して呪ってしまう",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "漏",
+              "reading": "も"
+            },
+            {
+              "text": "れ"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "して"
+            },
+            {
+              "text": "呪",
+              "reading": "のろ"
+            },
+            {
+              "text": "ってしまう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 33.65,
+      "end": 36.514,
+      "japanese": "痛んだ胸も弾んだ息も",
+      "zh-CN": "隐隐作痛的心口也好 急促起伏的呼吸也罢",
+      "segments": [
+        {
+          "text": "痛んだ胸も弾んだ息も",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "痛",
+              "reading": "いた"
+            },
+            {
+              "text": "んだ"
+            },
+            {
+              "text": "胸",
+              "reading": "むね"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "弾",
+              "reading": "はず"
+            },
+            {
+              "text": "んだ"
+            },
+            {
+              "text": "息",
+              "reading": "いき"
+            },
+            {
+              "text": "も"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 36.521,
+      "end": 39.768,
+      "japanese": "一つ残らずあなたのせいね",
+      "zh-CN": "毫无保留全都怪你不好呢",
+      "segments": [
+        {
+          "text": "一つ残らずあなたのせいね",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "一",
+              "reading": "ひと"
+            },
+            {
+              "text": "つ"
+            },
+            {
+              "text": "残",
+              "reading": "のこ"
+            },
+            {
+              "text": "らずあなたのせいね"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 39.768,
+      "end": 42.574,
+      "japanese": "幸福だけ願うからこそ",
+      "zh-CN": "正因唯独期盼着幸福",
+      "segments": [
+        {
+          "text": "幸福だけ願うからこそ",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "幸福",
+              "reading": "こうふく"
+            },
+            {
+              "text": "だけ"
+            },
+            {
+              "text": "願",
+              "reading": "ねが"
+            },
+            {
+              "text": "うからこそ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 42.701,
+      "end": 45.968,
+      "japanese": "いつかくる最期",
+      "zh-CN": "终将来临的末路终局",
+      "segments": [
+        {
+          "text": "いつかくる",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "いつかくる"
+            }
+          ]
+        },
+        {
+          "text": "最期",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-18",
+            "歌唱者-19",
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "最期",
+              "reading": "さいご"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 45.968,
+      "end": 48.833,
+      "japanese": "恨んだはずの花も愛おしいと",
+      "zh-CN": "连曾怨恨的花朵也觉得怜爱动人",
+      "segments": [
+        {
+          "text": "恨んだはずの花も愛おしいと",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-19",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "恨",
+              "reading": "うら"
+            },
+            {
+              "text": "んだはずの"
+            },
+            {
+              "text": "花",
+              "reading": "はな"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "愛",
+              "reading": "いと"
+            },
+            {
+              "text": "おしいと"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 48.822,
+      "end": 51.888,
+      "japanese": "そう想うのはあなたのせいね",
+      "zh-CN": "会产生这般念头全都是因为你呢",
+      "segments": [
+        {
+          "text": "そう想うのはあなたのせいね",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-19",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "そう"
+            },
+            {
+              "text": "想",
+              "reading": "おも"
+            },
+            {
+              "text": "うのはあなたのせいね"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 51.888,
+      "end": 55.214,
+      "japanese": "踏み出すほど痛むとしても",
+      "zh-CN": "纵然每迈出一步都伴随着剧烈痛楚",
+      "segments": [
+        {
+          "text": "踏み出すほど痛むとしても",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-20",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "踏",
+              "reading": "ふ"
+            },
+            {
+              "text": "み"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "すほど"
+            },
+            {
+              "text": "痛",
+              "reading": "いた"
+            },
+            {
+              "text": "むとしても"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 55.027,
+      "end": 58.233,
+      "japanese": "歩いていこう",
+      "zh-CN": "也要坚定前行",
+      "segments": [
+        {
+          "text": "歩いていこう",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-20",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "歩",
+              "reading": "ある"
+            },
+            {
+              "text": "いていこう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 58.222,
+      "end": 60.947,
+      "japanese": "こんなにも辛いのなら知らなきゃよかった",
+      "zh-CN": "若是这般痛苦难熬早知便不去知晓",
+      "segments": [
+        {
+          "text": "こんなにも辛いのなら",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "こんなにも"
+            },
+            {
+              "text": "辛",
+              "reading": "つら"
+            },
+            {
+              "text": "いのなら"
+            }
+          ]
+        },
+        {
+          "text": "知らなきゃよかった",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "知",
+              "reading": "し"
+            },
+            {
+              "text": "らなきゃよかった"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 61.0,
+      "end": 64.405,
+      "japanese": "いっそ捨てられたのならどんなによかった",
+      "zh-CN": "若索性被彻底抛弃那该有多好",
+      "segments": [
+        {
+          "text": "いっそ捨てられたのなら",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "いっそ"
+            },
+            {
+              "text": "捨",
+              "reading": "す"
+            },
+            {
+              "text": "てられたのなら"
+            }
+          ]
+        },
+        {
+          "text": "どんなによかった",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "どんなによかった"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 64.405,
+      "end": 67.209,
+      "japanese": "それでも僕はあなたに 出会えてよかった",
+      "zh-CN": "纵然如此能够与你相逢真是太好了",
+      "segments": [
+        {
+          "text": "それでも僕はあなたに ",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "それでも"
+            },
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "はあなたに "
+            }
+          ]
+        },
+        {
+          "text": "出会えてよかった",
+          "performerIds": [
+            "歌唱者-19",
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "出会",
+              "reading": "であ"
+            },
+            {
+              "text": "えてよかった"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 66.941,
+      "end": 73.63,
+      "japanese": "懲りずにまた縋ってしまう",
+      "zh-CN": "屡教不改又再次死死依附依仗",
+      "segments": [
+        {
+          "text": "懲りずにまた",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "懲",
+              "reading": "こ"
+            },
+            {
+              "text": "りずにまた"
+            }
+          ]
+        },
+        {
+          "text": "縋ってしまう",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-18",
+            "歌唱者-19",
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "縋",
+              "reading": "すが"
+            },
+            {
+              "text": "ってしまう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 74.0,
+      "end": 76.56,
+      "japanese": "痛んだ胸も弾んだ息も",
+      "zh-CN": "隐隐作痛的心口也好 急促起伏的呼吸也罢",
+      "segments": [
+        {
+          "text": "痛んだ胸も",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "痛",
+              "reading": "いた"
+            },
+            {
+              "text": "んだ"
+            },
+            {
+              "text": "胸",
+              "reading": "むね"
+            },
+            {
+              "text": "も"
+            }
+          ]
+        },
+        {
+          "text": "弾んだ息も",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "弾",
+              "reading": "はず"
+            },
+            {
+              "text": "んだ"
+            },
+            {
+              "text": "息",
+              "reading": "いき"
+            },
+            {
+              "text": "も"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 76.701,
+      "end": 79.787,
+      "japanese": "一つ残らずあなたのせいね",
+      "zh-CN": "毫无保留全都怪你不好呢",
+      "segments": [
+        {
+          "text": "一つ残らずあなたのせいね",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "一",
+              "reading": "ひと"
+            },
+            {
+              "text": "つ"
+            },
+            {
+              "text": "残",
+              "reading": "のこ"
+            },
+            {
+              "text": "らずあなたのせいね"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 79.787,
+      "end": 82.693,
+      "japanese": "幸福だけ願うからこそ",
+      "zh-CN": "正因唯独期盼着幸福",
+      "segments": [
+        {
+          "text": "幸福だけ願うからこそ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "幸福",
+              "reading": "こうふく"
+            },
+            {
+              "text": "だけ"
+            },
+            {
+              "text": "願",
+              "reading": "ねが"
+            },
+            {
+              "text": "うからこそ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 84.262,
+      "end": 86.106,
+      "japanese": "いつかくる最期",
+      "zh-CN": "终将来临的末路终局",
+      "segments": [
+        {
+          "text": "いつかくる",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "いつかくる"
+            }
+          ]
+        },
+        {
+          "text": "最期",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-18",
+            "歌唱者-19",
+            "歌唱者-20",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "最期",
+              "reading": "さいご"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 86.106,
+      "end": 88.692,
+      "japanese": "恨んだはずの花も愛おしいと",
+      "zh-CN": "连曾怨恨的花朵也觉得怜爱动人",
+      "segments": [
+        {
+          "text": "恨んだはずの花も愛おしいと",
+          "performerIds": [
+            "歌唱者-19",
+            "歌唱者-20",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "恨",
+              "reading": "うら"
+            },
+            {
+              "text": "んだはずの"
+            },
+            {
+              "text": "花",
+              "reading": "はな"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "愛",
+              "reading": "いと"
+            },
+            {
+              "text": "おしいと"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 88.22,
+      "end": 92.048,
+      "japanese": "そう想うのはあなたのせいね",
+      "zh-CN": "会产生这般念头全都是因为你呢",
+      "segments": [
+        {
+          "text": "そう想うのはあなたのせいね",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-20",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "そう"
+            },
+            {
+              "text": "想",
+              "reading": "おも"
+            },
+            {
+              "text": "うのはあなたのせいね"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000023",
+      "order": 22,
+      "index": 22,
+      "start": 92.048,
+      "end": 95.174,
+      "japanese": "踏み出すほど痛むとしても",
+      "zh-CN": "纵然每迈出一步都伴随着剧烈痛楚",
+      "segments": [
+        {
+          "text": "踏み出すほど痛むとしても",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-20",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "踏",
+              "reading": "ふ"
+            },
+            {
+              "text": "み"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "すほど"
+            },
+            {
+              "text": "痛",
+              "reading": "いた"
+            },
+            {
+              "text": "むとしても"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000024",
+      "order": 23,
+      "index": 23,
+      "start": 94.661,
+      "end": 97.787,
+      "japanese": "歩いていこう",
+      "zh-CN": "也要坚定前行",
+      "segments": [
+        {
+          "text": "歩いていこう",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-20",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "歩",
+              "reading": "ある"
+            },
+            {
+              "text": "いていこう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000025",
+      "order": 24,
+      "index": 24,
+      "start": 97.787,
+      "end": 100.452,
+      "japanese": "弱くてごめんね",
+      "zh-CN": "如此软弱真是对不起呢",
+      "segments": [
+        {
+          "text": "弱くてごめんね",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "弱",
+              "reading": "よわ"
+            },
+            {
+              "text": "くてごめんね"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000026",
+      "order": 25,
+      "index": 25,
+      "start": 100.941,
+      "end": 103.945,
+      "japanese": "ずるくてごめんね",
+      "zh-CN": "这般狡黠真是对不起呢",
+      "segments": [
+        {
+          "text": "ずるくてごめんね",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "ずるくてごめんね"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000027",
+      "order": 26,
+      "index": 26,
+      "start": 103.961,
+      "end": 110.551,
+      "japanese": "それでもたまにはちょっと想い出してね",
+      "zh-CN": "纵然如此也偶尔稍微回想起我一下吧",
+      "segments": [
+        {
+          "text": "それでもたまにはちょっと想い出してね",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "それでもたまにはちょっと"
+            },
+            {
+              "text": "想",
+              "reading": "おも"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "してね"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000028",
+      "order": 27,
+      "index": 27,
+      "start": 110.542,
+      "end": 113.626,
+      "japanese": "忘れないでいてね",
+      "zh-CN": "请千万不要彻底忘却哦",
+      "segments": [
+        {
+          "text": "忘れないでいてね",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "忘",
+              "reading": "わす"
+            },
+            {
+              "text": "れないでいてね"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000029",
+      "order": 28,
+      "index": 28,
+      "start": 113.62,
+      "end": 117.866,
+      "japanese": "想い出してね",
+      "zh-CN": "请一定要回想起来哦",
+      "segments": [
+        {
+          "text": "想い出してね",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "想",
+              "reading": "おも"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "してね"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000030",
+      "order": 29,
+      "index": 29,
+      "start": 117.866,
+      "end": 123.533,
+      "japanese": "別れ道に立ったとわかったのに",
+      "zh-CN": "明明心知肚明已伫立在分岔路口",
+      "segments": [
+        {
+          "text": "別れ道に立ったとわかったのに",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "別",
+              "reading": "わか"
+            },
+            {
+              "text": "れ"
+            },
+            {
+              "text": "道",
+              "reading": "みち"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "立",
+              "reading": "た"
+            },
+            {
+              "text": "ったとわかったのに"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000031",
+      "order": 30,
+      "index": 30,
+      "start": 123.56,
+      "end": 127.77,
+      "japanese": "幸せを願ってしまう",
+      "zh-CN": "却依然在暗自祈愿着你的幸福",
+      "segments": [
+        {
+          "text": "幸せを願ってしまう",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "幸",
+              "reading": "しあわ"
+            },
+            {
+              "text": "せを"
+            },
+            {
+              "text": "願",
+              "reading": "ねが"
+            },
+            {
+              "text": "ってしまう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

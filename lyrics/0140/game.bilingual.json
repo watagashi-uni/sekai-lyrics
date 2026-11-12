@@ -1,0 +1,733 @@
+{
+  "music_id": 140,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-05",
+      "name": "花里みのり"
+    },
+    {
+      "performerId": "歌唱者-06",
+      "name": "桐谷遥"
+    },
+    {
+      "performerId": "歌唱者-07",
+      "name": "桃井愛莉"
+    },
+    {
+      "performerId": "歌唱者-08",
+      "name": "日野森雫"
+    },
+    {
+      "performerId": "歌唱者-23",
+      "name": "鏡音レン"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 33.395456,
+      "end": 35.9358,
+      "japanese": "いつから満たされない",
+      "zh-CN": "从何时起便不再满足",
+      "segments": [
+        {
+          "text": "いつから満たされない",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "いつから"
+            },
+            {
+              "text": "満",
+              "reading": "み"
+            },
+            {
+              "text": "たされない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 36.231189,
+      "end": 38.861651,
+      "japanese": "こんな日々だから傷ついて",
+      "zh-CN": "正因是这样的日常才会受伤",
+      "segments": [
+        {
+          "text": "こんな日々だから傷ついて",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "こんな"
+            },
+            {
+              "text": "日々",
+              "reading": "ひび"
+            },
+            {
+              "text": "だから"
+            },
+            {
+              "text": "傷",
+              "reading": "きず"
+            },
+            {
+              "text": "ついて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 39.417382,
+      "end": 41.902653,
+      "japanese": "すぐに踏み出せない",
+      "zh-CN": "无法立刻迈出脚步",
+      "segments": [
+        {
+          "text": "すぐに踏み出せない",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "すぐに"
+            },
+            {
+              "text": "踏",
+              "reading": "ふ"
+            },
+            {
+              "text": "み"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "せない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 41.902653,
+      "end": 44.543128,
+      "japanese": "正体が見えないまま",
+      "zh-CN": "依然看不清真正的面目",
+      "segments": [
+        {
+          "text": "正体が見えないまま",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "正体",
+              "reading": "しょうたい"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "えないまま"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 57.700445,
+      "end": 60.053542,
+      "japanese": "いつかの思い出も",
+      "zh-CN": "就连过往的那些回忆",
+      "segments": [
+        {
+          "text": "いつかの思い出も",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "いつかの"
+            },
+            {
+              "text": "思",
+              "reading": "おも"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "出",
+              "reading": "で"
+            },
+            {
+              "text": "も"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 60.590249,
+      "end": 63.146613,
+      "japanese": "たかが1000年の物語",
+      "zh-CN": "也不过是短短千年的物语",
+      "segments": [
+        {
+          "text": "たかが1000年の物語",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "たかが1000"
+            },
+            {
+              "text": "年",
+              "reading": "ねん"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "物語",
+              "reading": "ものがたり"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 63.762424,
+      "end": 66.269724,
+      "japanese": "深く呼吸して",
+      "zh-CN": "深深地呼吸",
+      "segments": [
+        {
+          "text": "深く呼吸して",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "深",
+              "reading": "ふか"
+            },
+            {
+              "text": "く"
+            },
+            {
+              "text": "呼吸",
+              "reading": "こきゅう"
+            },
+            {
+              "text": "して"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 66.269724,
+      "end": 68.958262,
+      "japanese": "深海に落ちていくの",
+      "zh-CN": "坠向深海之中",
+      "segments": [
+        {
+          "text": "深海に落ちていくの",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "深海",
+              "reading": "しんかい"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "落",
+              "reading": "お"
+            },
+            {
+              "text": "ちていくの"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 69.927538,
+      "end": 72.936498,
+      "japanese": "曖昧だったシーズンが去って",
+      "zh-CN": "那暧昧不清的季节已然远去",
+      "segments": [
+        {
+          "text": "曖昧だったシーズンが去って",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "曖昧",
+              "reading": "あいまい"
+            },
+            {
+              "text": "だったシーズンが"
+            },
+            {
+              "text": "去",
+              "reading": "さ"
+            },
+            {
+              "text": "って"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 72.936498,
+      "end": 74.620715,
+      "japanese": "僕のとなり",
+      "zh-CN": "在我的身旁",
+      "segments": [
+        {
+          "text": "僕のとなり",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "のとなり"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 75.848,
+      "end": 78.333,
+      "japanese": "望遠鏡で見せた",
+      "zh-CN": "曾用望远镜展示过的",
+      "segments": [
+        {
+          "text": "望遠鏡で見せた",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "望遠鏡",
+              "reading": "ぼうえんきょう"
+            },
+            {
+              "text": "で"
+            },
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "せた"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 78.321,
+      "end": 81.926,
+      "japanese": "景色見に行かなくちゃ",
+      "zh-CN": "必须得去看看那片风景才行",
+      "segments": [
+        {
+          "text": "景色見に行かなくちゃ",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "景色見",
+              "reading": "けしきみ"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "行",
+              "reading": "い"
+            },
+            {
+              "text": "かなくちゃ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 82.010441,
+      "end": 87.027044,
+      "japanese": "uh-　その声が心ごと潤して",
+      "zh-CN": "uh- 那道声音连同整颗心一并润泽",
+      "segments": [
+        {
+          "text": "uh-　その声が心ごと潤して",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "uh-　その"
+            },
+            {
+              "text": "声",
+              "reading": "こえ"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "心",
+              "reading": "こころ"
+            },
+            {
+              "text": "ごと"
+            },
+            {
+              "text": "潤",
+              "reading": "うるお"
+            },
+            {
+              "text": "して"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 86.488,
+      "end": 90.854,
+      "japanese": "絡まりあって惹かれ合って",
+      "zh-CN": "彼此交缠 互相吸引",
+      "segments": [
+        {
+          "text": "絡まりあって惹かれ合って",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "絡",
+              "reading": "から"
+            },
+            {
+              "text": "まりあって"
+            },
+            {
+              "text": "惹",
+              "reading": "ひ"
+            },
+            {
+              "text": "かれ"
+            },
+            {
+              "text": "合",
+              "reading": "あ"
+            },
+            {
+              "text": "って"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 90.846,
+      "end": 94.652,
+      "japanese": "また変わらず愛を唄う",
+      "zh-CN": "再次一如既往歌唱爱意",
+      "segments": [
+        {
+          "text": "また変わらず愛を唄う",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "また"
+            },
+            {
+              "text": "変",
+              "reading": "か"
+            },
+            {
+              "text": "わらず"
+            },
+            {
+              "text": "愛",
+              "reading": "あい"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "唄",
+              "reading": "うた"
+            },
+            {
+              "text": "う"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 94.085,
+      "end": 99.589,
+      "japanese": "you　きみの手を離さないルールとして",
+      "zh-CN": "you 作为绝不放开你的手的规则约定",
+      "segments": [
+        {
+          "text": "you　きみの手を離さないルールとして",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "you　きみの"
+            },
+            {
+              "text": "手",
+              "reading": "て"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "離",
+              "reading": "はな"
+            },
+            {
+              "text": "さないルールとして"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 99.581,
+      "end": 102.827,
+      "japanese": "サビついた最後のページを",
+      "zh-CN": "为了将锈迹斑驳的最后一页",
+      "segments": [
+        {
+          "text": "サビついた最後のページを",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "サビついた"
+            },
+            {
+              "text": "最後",
+              "reading": "さいご"
+            },
+            {
+              "text": "のページを"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 102.84,
+      "end": 105.828,
+      "japanese": "溶かすためのハート",
+      "zh-CN": "彻底消融的心",
+      "segments": [
+        {
+          "text": "溶かすためのハート",
+          "performerIds": [
+            "歌唱者-08",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "溶",
+              "reading": "と"
+            },
+            {
+              "text": "かすためのハート"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 105.828,
+      "end": 109.077,
+      "japanese": "このセカイを回す　唯一の魔法",
+      "zh-CN": "是让这个世界转动的 唯一魔法",
+      "segments": [
+        {
+          "text": "このセカイを回す　唯一の魔法",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "このセカイを"
+            },
+            {
+              "text": "回",
+              "reading": "まわ"
+            },
+            {
+              "text": "す　"
+            },
+            {
+              "text": "唯一",
+              "reading": "ゆいいつ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "魔法",
+              "reading": "まほう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

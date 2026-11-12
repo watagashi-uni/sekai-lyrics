@@ -1,0 +1,789 @@
+{
+  "music_id": 646,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-01",
+      "name": "星乃一歌"
+    },
+    {
+      "performerId": "歌唱者-02",
+      "name": "天馬咲希"
+    },
+    {
+      "performerId": "歌唱者-03",
+      "name": "望月穂波"
+    },
+    {
+      "performerId": "歌唱者-04",
+      "name": "日野森志歩"
+    },
+    {
+      "performerId": "歌唱者-22",
+      "name": "鏡音リン"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 27.508,
+      "end": 32.27,
+      "japanese": "少々妄想気味",
+      "zh-CN": "稍许有些爱胡思乱想",
+      "segments": [
+        {
+          "text": "少々妄想気味",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "少々妄想気味",
+              "reading": "しょうしょうもうそうぎみ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 27.508,
+      "end": 32.27,
+      "japanese": "他人はくだらないと言うけれど",
+      "zh-CN": "虽然旁人总说那无聊透顶",
+      "segments": [
+        {
+          "text": "他人はくだらないと言うけれど",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "他人",
+              "reading": "ひと"
+            },
+            {
+              "text": "はくだらないと"
+            },
+            {
+              "text": "言",
+              "reading": "い"
+            },
+            {
+              "text": "うけれど"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 32.27,
+      "end": 36.696,
+      "japanese": "胸に秘めた花は咲いたのです",
+      "zh-CN": "但深藏心中的花朵确已绽放盛开",
+      "segments": [
+        {
+          "text": "胸に秘めた花は咲いたのです",
+          "performerIds": [
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "胸",
+              "reading": "むね"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "秘",
+              "reading": "ひ"
+            },
+            {
+              "text": "めた"
+            },
+            {
+              "text": "花",
+              "reading": "はな"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "咲",
+              "reading": "さ"
+            },
+            {
+              "text": "いたのです"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 36.696,
+      "end": 41.597,
+      "japanese": "入手困難だろう　チケット",
+      "zh-CN": "难以入手的 入场门票",
+      "segments": [
+        {
+          "text": "入手困難だろう　チケット",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "入手困難",
+              "reading": "にゅうしゅこんなん"
+            },
+            {
+              "text": "だろう　チケット"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 36.696,
+      "end": 41.597,
+      "japanese": "確信ないなんて　トップシークレット",
+      "zh-CN": "毫无把握信心乃是 绝密档案",
+      "segments": [
+        {
+          "text": "確信ないなんて　トップシークレット",
+          "performerIds": [
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "確信",
+              "reading": "かくしん"
+            },
+            {
+              "text": "ないなんて　トップシークレット"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 41.597,
+      "end": 45.501,
+      "japanese": "一進一退。方向音痴な日々だ",
+      "zh-CN": "一进一退。宛如路痴一般的每一天",
+      "segments": [
+        {
+          "text": "一進一退。方向音痴な日々だ",
+          "performerIds": [
+            "歌唱者-03"
+          ],
+          "ruby": [
+            {
+              "text": "一進一退",
+              "reading": "いっしんいったい"
+            },
+            {
+              "text": "。"
+            },
+            {
+              "text": "方向音痴",
+              "reading": "ほうこうおんち"
+            },
+            {
+              "text": "な"
+            },
+            {
+              "text": "日々",
+              "reading": "ひび"
+            },
+            {
+              "text": "だ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 46.129,
+      "end": 51.531,
+      "japanese": "あー心臓がいたいよ",
+      "zh-CN": "啊——心脏好痛啊",
+      "segments": [
+        {
+          "text": "あー心臓がいたいよ",
+          "performerIds": [
+            "歌唱者-03"
+          ],
+          "ruby": [
+            {
+              "text": "あー"
+            },
+            {
+              "text": "心臓",
+              "reading": "しんぞう"
+            },
+            {
+              "text": "がいたいよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 46.129,
+      "end": 51.531,
+      "japanese": "きみの事想うと",
+      "zh-CN": "只要一想起你的事情",
+      "segments": [
+        {
+          "text": "きみの事想うと",
+          "performerIds": [
+            "歌唱者-03"
+          ],
+          "ruby": [
+            {
+              "text": "きみの"
+            },
+            {
+              "text": "事想",
+              "reading": "ことおも"
+            },
+            {
+              "text": "うと"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 51.531,
+      "end": 58.353,
+      "japanese": "私じゃたりない",
+      "zh-CN": "就会觉得自己远远不够",
+      "segments": [
+        {
+          "text": "私じゃたりない",
+          "performerIds": [
+            "歌唱者-03"
+          ],
+          "ruby": [
+            {
+              "text": "私",
+              "reading": "わたし"
+            },
+            {
+              "text": "じゃたりない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 51.531,
+      "end": 58.353,
+      "japanese": "何か探してしまう",
+      "zh-CN": "总想再去寻觅些什么",
+      "segments": [
+        {
+          "text": "何か探してしまう",
+          "performerIds": [
+            "歌唱者-03"
+          ],
+          "ruby": [
+            {
+              "text": "何",
+              "reading": "さ"
+            },
+            {
+              "text": "か"
+            },
+            {
+              "text": "探",
+              "reading": "が"
+            },
+            {
+              "text": "してしまう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 51.531,
+      "end": 58.353,
+      "japanese": "強くなりたくて",
+      "zh-CN": "想要变得更加坚强",
+      "segments": [
+        {
+          "text": "強くなりたくて",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "強",
+              "reading": "つよ"
+            },
+            {
+              "text": "くなりたくて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 58.353,
+      "end": 64.309,
+      "japanese": "誰かの用意したステージじゃ",
+      "zh-CN": "若是在别人准备好的现成舞台上",
+      "segments": [
+        {
+          "text": "誰かの用意したステージじゃ",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "誰",
+              "reading": "だれ"
+            },
+            {
+              "text": "かの"
+            },
+            {
+              "text": "用意",
+              "reading": "よい"
+            },
+            {
+              "text": "したステージじゃ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 58.353,
+      "end": 64.309,
+      "japanese": "つまらないでしょう？",
+      "zh-CN": "未免也太无趣了吧？",
+      "segments": [
+        {
+          "text": "つまらないでしょう？",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "つまらないでしょう？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 64.493,
+      "end": 73.209,
+      "japanese": "生涯最高の日まで",
+      "zh-CN": "直到迎来一生中最棒的那一天为止",
+      "segments": [
+        {
+          "text": "生涯最高の日まで",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-03",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "生涯最高",
+              "reading": "しょうがいさいこう"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "日",
+              "reading": "ひ"
+            },
+            {
+              "text": "まで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 64.493,
+      "end": 73.209,
+      "japanese": "寄り道をちょっとしてだけ",
+      "zh-CN": "稍微绕道顺路兜兜转转而已",
+      "segments": [
+        {
+          "text": "寄り道をちょっとしてだけ",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-03",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "寄",
+              "reading": "よ"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "道",
+              "reading": "みち"
+            },
+            {
+              "text": "をちょっとしてだけ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 73.209,
+      "end": 82.544,
+      "japanese": "透明なままのパレット",
+      "zh-CN": "依然保持透明纯净的调色盘",
+      "segments": [
+        {
+          "text": "透明なままのパレット",
+          "performerIds": [
+            "歌唱者-02",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "透明",
+              "reading": "とうめい"
+            },
+            {
+              "text": "なままのパレット"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 73.209,
+      "end": 82.544,
+      "japanese": "これはこれで綺麗だよね",
+      "zh-CN": "这样倒也别有一番美丽呢",
+      "segments": [
+        {
+          "text": "これはこれで綺麗だよね",
+          "performerIds": [
+            "歌唱者-02",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "これはこれで"
+            },
+            {
+              "text": "綺麗",
+              "reading": "きれい"
+            },
+            {
+              "text": "だよね"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 82.544,
+      "end": 91.581,
+      "japanese": "零れ落ちた涙で",
+      "zh-CN": "用簌簌滑落的滴滴泪水",
+      "segments": [
+        {
+          "text": "零れ落ちた涙で",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "零",
+              "reading": "こぼ"
+            },
+            {
+              "text": "れ"
+            },
+            {
+              "text": "落",
+              "reading": "お"
+            },
+            {
+              "text": "ちた"
+            },
+            {
+              "text": "涙",
+              "reading": "なみだ"
+            },
+            {
+              "text": "で"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 82.544,
+      "end": 91.581,
+      "japanese": "水しぶきあげて踊っちゃえ",
+      "zh-CN": "溅起片片水花尽情起舞吧",
+      "segments": [
+        {
+          "text": "水しぶきあげて",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "水",
+              "reading": "みず"
+            },
+            {
+              "text": "しぶきあげて"
+            }
+          ]
+        },
+        {
+          "text": "踊っちゃえ",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "踊",
+              "reading": "おど"
+            },
+            {
+              "text": "っちゃえ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 91.581,
+      "end": 100.14588,
+      "japanese": "お祝いの日のアップルパイを",
+      "zh-CN": "将庆祝之日的苹果派",
+      "segments": [
+        {
+          "text": "お祝いの日のアップルパイを",
+          "performerIds": [
+            "歌唱者-03",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "お"
+            },
+            {
+              "text": "祝",
+              "reading": "いわ"
+            },
+            {
+              "text": "いの"
+            },
+            {
+              "text": "日",
+              "reading": "ひ"
+            },
+            {
+              "text": "のアップルパイを"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 91.581,
+      "end": 100.14588,
+      "japanese": "焼きたてをたんと召し上がれ",
+      "zh-CN": "刚出炉热气腾腾的请尽情享用吧",
+      "segments": [
+        {
+          "text": "焼きたてをたんと召し上がれ",
+          "performerIds": [
+            "歌唱者-03",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "焼",
+              "reading": "や"
+            },
+            {
+              "text": "きたてをたんと"
+            },
+            {
+              "text": "召",
+              "reading": "め"
+            },
+            {
+              "text": "し"
+            },
+            {
+              "text": "上",
+              "reading": "あ"
+            },
+            {
+              "text": "がれ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 100.14588,
+      "end": 118.40975,
+      "japanese": "最高にデザートを",
+      "zh-CN": "奉上最棒的甜点",
+      "segments": [
+        {
+          "text": "最高にデザートを",
+          "performerIds": [
+            "歌唱者-03"
+          ],
+          "ruby": [
+            {
+              "text": "最高",
+              "reading": "さいこう"
+            },
+            {
+              "text": "にデザートを"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    }
+  ]
+}

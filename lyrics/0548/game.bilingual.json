@@ -1,0 +1,874 @@
+{
+  "music_id": 548,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-13",
+      "name": "天馬司"
+    },
+    {
+      "performerId": "歌唱者-14",
+      "name": "鳳えむ"
+    },
+    {
+      "performerId": "歌唱者-15",
+      "name": "草薙寧々"
+    },
+    {
+      "performerId": "歌唱者-16",
+      "name": "神代類"
+    },
+    {
+      "performerId": "歌唱者-23",
+      "name": "鏡音レン"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 15.422,
+      "end": 18.71,
+      "japanese": "夕立とカラスの群れを",
+      "zh-CN": "骤雨与乌鸦成群的身影",
+      "segments": [
+        {
+          "text": "夕立とカラスの群れを",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "夕立",
+              "reading": "ゆうだち"
+            },
+            {
+              "text": "とカラスの"
+            },
+            {
+              "text": "群",
+              "reading": "む"
+            },
+            {
+              "text": "れを"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 18.707,
+      "end": 22.313,
+      "japanese": "影が飲み込んでいました",
+      "zh-CN": "被阴影彻底吞噬入内",
+      "segments": [
+        {
+          "text": "影が飲み込んでいました",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "影",
+              "reading": "かげ"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "飲",
+              "reading": "の"
+            },
+            {
+              "text": "み"
+            },
+            {
+              "text": "込",
+              "reading": "こ"
+            },
+            {
+              "text": "んでいました"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 22.86,
+      "end": 25.726,
+      "japanese": "かみさまは覚えてますか",
+      "zh-CN": "神明大人您还记得吗",
+      "segments": [
+        {
+          "text": "かみさまは覚えてますか",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "かみさまは"
+            },
+            {
+              "text": "覚",
+              "reading": "おぼ"
+            },
+            {
+              "text": "えてますか"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 25.726,
+      "end": 29.373,
+      "japanese": "僕の声が聞こえますか",
+      "zh-CN": "能听见我的声音吗",
+      "segments": [
+        {
+          "text": "僕の声が聞こえますか",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "声",
+              "reading": "こえ"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "聞",
+              "reading": "き"
+            },
+            {
+              "text": "こえますか"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 29.368,
+      "end": 32.613,
+      "japanese": "貴方はいつからここにいて",
+      "zh-CN": "您究竟从何时起就在这里",
+      "segments": [
+        {
+          "text": "貴方はいつからここにいて",
+          "performerIds": [
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "貴方",
+              "reading": "あなた"
+            },
+            {
+              "text": "はいつからここにいて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 32.601,
+      "end": 36.047,
+      "japanese": "誰かの帰りを待っていた",
+      "zh-CN": "等待着某个人的归来",
+      "segments": [
+        {
+          "text": "誰かの帰りを待っていた",
+          "performerIds": [
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "誰",
+              "reading": "だれ"
+            },
+            {
+              "text": "かの"
+            },
+            {
+              "text": "帰",
+              "reading": "かえ"
+            },
+            {
+              "text": "りを"
+            },
+            {
+              "text": "待",
+              "reading": "ま"
+            },
+            {
+              "text": "っていた"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 36.061,
+      "end": 39.467,
+      "japanese": "生きたいな強くならなくちゃ",
+      "zh-CN": "想要好好活下去 必须变得更加坚强才行",
+      "segments": [
+        {
+          "text": "生きたいな強くならなくちゃ",
+          "performerIds": [
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "生",
+              "reading": "い"
+            },
+            {
+              "text": "きたいな"
+            },
+            {
+              "text": "強",
+              "reading": "つよ"
+            },
+            {
+              "text": "くならなくちゃ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 39.461,
+      "end": 42.707,
+      "japanese": "まずは、狼煙をあげてくれ",
+      "zh-CN": "首先，请为我点燃狼烟吧",
+      "segments": [
+        {
+          "text": "まずは、狼煙をあげてくれ",
+          "performerIds": [
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "まずは、"
+            },
+            {
+              "text": "狼煙",
+              "reading": "のろし"
+            },
+            {
+              "text": "をあげてくれ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 42.721,
+      "end": 45.806,
+      "japanese": "行かなくちゃ、ぼくのかみさま",
+      "zh-CN": "我必须得走了，我的神明大人",
+      "segments": [
+        {
+          "text": "行かなくちゃ、ぼくのかみさま",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "行",
+              "reading": "い"
+            },
+            {
+              "text": "かなくちゃ、ぼくのかみさま"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 48.062,
+      "end": 49.745,
+      "japanese": "かみさまが大好きでした",
+      "zh-CN": "我曾深爱着神明大人",
+      "segments": [
+        {
+          "text": "かみさまが大好きでした",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "かみさまが"
+            },
+            {
+              "text": "大好",
+              "reading": "だいす"
+            },
+            {
+              "text": "きでした"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 48.88,
+      "end": 53.183,
+      "japanese": "大人にはなれないぼくは",
+      "zh-CN": "无法成为大人的我",
+      "segments": [
+        {
+          "text": "大人にはなれないぼくは",
+          "performerIds": [
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "大人",
+              "reading": "おとな"
+            },
+            {
+              "text": "にはなれないぼくは"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 53.183,
+      "end": 57.747,
+      "japanese": "ぼくは、ぼくはまた貴方に会いに行く",
+      "zh-CN": "我啊，一定会再次前去与您相见",
+      "segments": [
+        {
+          "text": "ぼくは、ぼくはまた貴方に会いに行く",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "ぼくは、ぼくはまた"
+            },
+            {
+              "text": "貴方",
+              "reading": "あなた"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "会",
+              "reading": "あ"
+            },
+            {
+              "text": "いに"
+            },
+            {
+              "text": "行",
+              "reading": "ゆ"
+            },
+            {
+              "text": "く"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 70.48,
+      "end": 73.445,
+      "japanese": "ありがとね、大事にするね",
+      "zh-CN": "谢谢您，我会好好珍惜的",
+      "segments": [
+        {
+          "text": "ありがとね、大事にするね",
+          "performerIds": [
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "ありがとね、"
+            },
+            {
+              "text": "大事",
+              "reading": "だいじ"
+            },
+            {
+              "text": "にするね"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 73.1,
+      "end": 77.167,
+      "japanese": "しばらくは、寂しくなるね",
+      "zh-CN": "在这之后，难免会有些寂寞呢",
+      "segments": [
+        {
+          "text": "しばらくは、寂しくなるね",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "しばらくは、"
+            },
+            {
+              "text": "寂",
+              "reading": "さみ"
+            },
+            {
+              "text": "しくなるね"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 77.181,
+      "end": 80.447,
+      "japanese": "見えないね、煙が染みて",
+      "zh-CN": "看不清了呢，被烟雾刺痛了双眼",
+      "segments": [
+        {
+          "text": "見えないね、煙が染みて",
+          "performerIds": [
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "えないね、"
+            },
+            {
+              "text": "煙",
+              "reading": "けむり"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "染",
+              "reading": "し"
+            },
+            {
+              "text": "みて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 80.447,
+      "end": 84.033,
+      "japanese": "夜が来る前にさよなら",
+      "zh-CN": "赶在黑夜降临前说声再见",
+      "segments": [
+        {
+          "text": "夜が来る前にさよなら",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "夜",
+              "reading": "よる"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "来",
+              "reading": "く"
+            },
+            {
+              "text": "る"
+            },
+            {
+              "text": "前",
+              "reading": "まえ"
+            },
+            {
+              "text": "にさよなら"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 83.9,
+      "end": 87.24,
+      "japanese": "言わなくちゃ、ほら言葉にして",
+      "zh-CN": "必须说出口才行，快化作言语倾诉",
+      "segments": [
+        {
+          "text": "言わなくちゃ、ほら言葉にして",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "言",
+              "reading": "い"
+            },
+            {
+              "text": "わなくちゃ、ほら"
+            },
+            {
+              "text": "言葉",
+              "reading": "ことば"
+            },
+            {
+              "text": "にして"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 87.447,
+      "end": 89.771,
+      "japanese": "ぼくはそんな強くなくて",
+      "zh-CN": "我并没有那么坚强",
+      "segments": [
+        {
+          "text": "ぼくはそんな強くなくて",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "ぼくはそんな"
+            },
+            {
+              "text": "強",
+              "reading": "つよ"
+            },
+            {
+              "text": "くなくて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 90.26,
+      "end": 94.306,
+      "japanese": "見ていてね、忘れないからね",
+      "zh-CN": "请注视着我吧，我绝不会忘记的",
+      "segments": [
+        {
+          "text": "見ていてね、忘れないからね",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "ていてね、"
+            },
+            {
+              "text": "忘",
+              "reading": "わす"
+            },
+            {
+              "text": "れないからね"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 94.32,
+      "end": 97.79,
+      "japanese": "だから、狼煙をあげてくれ",
+      "zh-CN": "所以，请为我点燃狼烟吧",
+      "segments": [
+        {
+          "text": "だから、狼煙をあげてくれ",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "だから、"
+            },
+            {
+              "text": "狼煙",
+              "reading": "のろし"
+            },
+            {
+              "text": "をあげてくれ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 101.416,
+      "end": 104.18,
+      "japanese": "行かなくちゃ、ぼくのかみさま",
+      "zh-CN": "我必须得走了，我的神明大人",
+      "segments": [
+        {
+          "text": "行かなくちゃ、ぼくのかみさま",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-16",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "行",
+              "reading": "い"
+            },
+            {
+              "text": "かなくちゃ、ぼくのかみさま"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 104.334,
+      "end": 107.619,
+      "japanese": "かみさまが大好きでした",
+      "zh-CN": "我曾深爱着神明大人",
+      "segments": [
+        {
+          "text": "かみさまが大好きでした",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-16",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "かみさまが"
+            },
+            {
+              "text": "大好",
+              "reading": "だいす"
+            },
+            {
+              "text": "きでした"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000023",
+      "order": 22,
+      "index": 22,
+      "start": 108.48,
+      "end": 112.26,
+      "japanese": "ぼくはもっと話がしたい、だから",
+      "zh-CN": "我还想与您多聊聊天，所以",
+      "segments": [
+        {
+          "text": "ぼくはもっと話がしたい、だから",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-15",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "ぼくはもっと"
+            },
+            {
+              "text": "話",
+              "reading": "はなし"
+            },
+            {
+              "text": "がしたい、だから"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000024",
+      "order": 23,
+      "index": 23,
+      "start": 111.812,
+      "end": 115.298,
+      "japanese": "だから、また貴方に会いに行く",
+      "zh-CN": "所以，我还会再次前去与您相见",
+      "segments": [
+        {
+          "text": "だから、また貴方に会いに行く",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "だから、また"
+            },
+            {
+              "text": "貴方",
+              "reading": "あなた"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "会",
+              "reading": "あ"
+            },
+            {
+              "text": "いに"
+            },
+            {
+              "text": "行",
+              "reading": "ゆ"
+            },
+            {
+              "text": "く"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

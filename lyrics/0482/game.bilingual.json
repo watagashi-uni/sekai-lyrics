@@ -1,0 +1,1217 @@
+{
+  "music_id": 482,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-05",
+      "name": "花里みのり"
+    },
+    {
+      "performerId": "歌唱者-06",
+      "name": "桐谷遥"
+    },
+    {
+      "performerId": "歌唱者-07",
+      "name": "桃井愛莉"
+    },
+    {
+      "performerId": "歌唱者-08",
+      "name": "日野森雫"
+    },
+    {
+      "performerId": "歌唱者-21",
+      "name": "初音ミク"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 17.291,
+      "end": 22.063,
+      "japanese": "今日も布団を出られない",
+      "zh-CN": "今天也起不来床",
+      "segments": [
+        {
+          "text": "今日も布団を出られない",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "今日",
+              "reading": "きょう"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "布団",
+              "reading": "ふとん"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "出",
+              "reading": "で"
+            },
+            {
+              "text": "られない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 17.291,
+      "end": 22.063,
+      "japanese": "アラームを5つかける",
+      "zh-CN": "设了5个闹钟",
+      "segments": [
+        {
+          "text": "アラームを5つかける",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "アラームを5つかける"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 22.063,
+      "end": 27.32,
+      "japanese": "らんらら 欲望には逆らえない",
+      "zh-CN": "啦啦啦 根本无法违抗欲望",
+      "segments": [
+        {
+          "text": "らんらら ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "らんらら "
+            }
+          ]
+        },
+        {
+          "text": "欲望には逆らえない",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "欲望",
+              "reading": "よくぼう"
+            },
+            {
+              "text": "には"
+            },
+            {
+              "text": "逆",
+              "reading": "さか"
+            },
+            {
+              "text": "らえない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 22.063,
+      "end": 27.32,
+      "japanese": "まるでちっともお金が貯まらない",
+      "zh-CN": "简直是一点钱都存不下来",
+      "segments": [
+        {
+          "text": "まるでちっともお金が貯まらない",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "まるでちっともお"
+            },
+            {
+              "text": "金",
+              "reading": "かね"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "貯",
+              "reading": "た"
+            },
+            {
+              "text": "まらない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 27.944,
+      "end": 32.743,
+      "japanese": "口ではいつも謝る",
+      "zh-CN": "嘴上总是在道歉",
+      "segments": [
+        {
+          "text": "口ではいつも謝る",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "口",
+              "reading": "くち"
+            },
+            {
+              "text": "ではいつも"
+            },
+            {
+              "text": "謝",
+              "reading": "あやま"
+            },
+            {
+              "text": "る"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 27.944,
+      "end": 32.743,
+      "japanese": "けど心じゃ知らん顔",
+      "zh-CN": "心里却事不关己装作不知",
+      "segments": [
+        {
+          "text": "けど心じゃ知らん顔",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "けど"
+            },
+            {
+              "text": "心",
+              "reading": "こころ"
+            },
+            {
+              "text": "じゃ"
+            },
+            {
+              "text": "知",
+              "reading": "し"
+            },
+            {
+              "text": "らん"
+            },
+            {
+              "text": "顔",
+              "reading": "かお"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 32.743,
+      "end": 37.75,
+      "japanese": "らんらら 僕の気持ちが分かんない奴に",
+      "zh-CN": "啦啦啦 面对不懂我心情的家伙",
+      "segments": [
+        {
+          "text": "らんらら ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "らんらら "
+            }
+          ]
+        },
+        {
+          "text": "僕の気持ちが分かんない奴に",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "気持",
+              "reading": "きも"
+            },
+            {
+              "text": "ちが"
+            },
+            {
+              "text": "分",
+              "reading": "わ"
+            },
+            {
+              "text": "かんない"
+            },
+            {
+              "text": "奴",
+              "reading": "やつ"
+            },
+            {
+              "text": "に"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 32.743,
+      "end": 37.75,
+      "japanese": "説教食らっても効かない",
+      "zh-CN": "被说教一通也毫无效果",
+      "segments": [
+        {
+          "text": "説教食らっても効かない",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "説教食",
+              "reading": "せっきょうく"
+            },
+            {
+              "text": "らっても"
+            },
+            {
+              "text": "効",
+              "reading": "き"
+            },
+            {
+              "text": "かない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 38.581,
+      "end": 43.819,
+      "japanese": "ああ　だめになっていく　罪の意識薄れていく",
+      "zh-CN": "啊啊 渐渐变得颓废堕落 罪恶感日渐淡薄",
+      "segments": [
+        {
+          "text": "ああ　だめになっていく　罪の意識薄れていく",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ああ　だめになっていく　"
+            },
+            {
+              "text": "罪",
+              "reading": "つみ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "意識薄",
+              "reading": "いしきうす"
+            },
+            {
+              "text": "れていく"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 43.809498,
+      "end": 48.750908,
+      "japanese": "図太いくせメンタルは",
+      "zh-CN": "明明脸皮厚得很 心理承受力却",
+      "segments": [
+        {
+          "text": "図太いくせメンタルは",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "図太",
+              "reading": "ずぶと"
+            },
+            {
+              "text": "いくせメンタルは"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 43.809498,
+      "end": 48.750908,
+      "japanese": "弱い",
+      "zh-CN": "弱得不行",
+      "segments": [
+        {
+          "text": "弱い",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "弱",
+              "reading": "よわ"
+            },
+            {
+              "text": "い"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 48.750908,
+      "end": 52.011477,
+      "japanese": "だだだ　だだだ　だめにんげんだから",
+      "zh-CN": "废废废 废废废 因为是个废柴人类",
+      "segments": [
+        {
+          "text": "だだだ　",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "だだだ　"
+            }
+          ]
+        },
+        {
+          "text": "だだだ　だめにんげんだから",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "だだだ　だめにんげんだから"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 52.011477,
+      "end": 54.666383,
+      "japanese": "君の気持ち　分からない　知らない",
+      "zh-CN": "你的心情 搞不懂 也不想知道",
+      "segments": [
+        {
+          "text": "君の気持ち　分からない　知らない",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "気持",
+              "reading": "きも"
+            },
+            {
+              "text": "ち　"
+            },
+            {
+              "text": "分",
+              "reading": "わ"
+            },
+            {
+              "text": "からない　"
+            },
+            {
+              "text": "知",
+              "reading": "し"
+            },
+            {
+              "text": "らない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 54.666383,
+      "end": 57.404381,
+      "japanese": "だだだ　ダ・ヴィンチもびっくり",
+      "zh-CN": "废废废 达芬奇看了都目瞪口呆",
+      "segments": [
+        {
+          "text": "だだだ　ダ・ヴィンチもびっくり",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "だだだ　ダ・ヴィンチもびっくり"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 57.404381,
+      "end": 59.324483,
+      "japanese": "の凡人っぷりさ",
+      "zh-CN": "的凡庸至极啊",
+      "segments": [
+        {
+          "text": "の凡人っぷりさ",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "の"
+            },
+            {
+              "text": "凡人",
+              "reading": "ぼんじん"
+            },
+            {
+              "text": "っぷりさ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 59.500676,
+      "end": 62.800288,
+      "japanese": "だだだ　だだだ　だめみたい　ごめんね",
+      "zh-CN": "废废废 废废废 似乎已经完蛋了 抱歉呢",
+      "segments": [
+        {
+          "text": "だだだ　",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "だだだ　"
+            }
+          ]
+        },
+        {
+          "text": "だだだ　だめみたい　ごめんね",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "だだだ　だめみたい　ごめんね"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 62.800288,
+      "end": 65.323049,
+      "japanese": "僕はなんにも出来ない　出来ない",
+      "zh-CN": "我什么都做不到 做不到",
+      "segments": [
+        {
+          "text": "僕はなんにも出来ない　出来ない",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "はなんにも"
+            },
+            {
+              "text": "出来",
+              "reading": "でき"
+            },
+            {
+              "text": "ない　"
+            },
+            {
+              "text": "出来",
+              "reading": "でき"
+            },
+            {
+              "text": "ない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 65.323049,
+      "end": 68.097086,
+      "japanese": "だだだ　誰でも構わない",
+      "zh-CN": "谁谁谁 谁都无所谓",
+      "segments": [
+        {
+          "text": "だだだ　誰でも構わない",
+          "performerIds": [
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "だだだ　"
+            },
+            {
+              "text": "誰",
+              "reading": "だれ"
+            },
+            {
+              "text": "でも"
+            },
+            {
+              "text": "構",
+              "reading": "かま"
+            },
+            {
+              "text": "わない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 68.097086,
+      "end": 70.132314,
+      "japanese": "承認をちょうだい",
+      "zh-CN": "给我一点认可吧",
+      "segments": [
+        {
+          "text": "承認をちょうだい",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "承認",
+              "reading": "しょうにん"
+            },
+            {
+              "text": "をちょうだい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 70.132314,
+      "end": 72.614031,
+      "japanese": "騙すつもりはなかった",
+      "zh-CN": "我本没打算欺骗你的",
+      "segments": [
+        {
+          "text": "騙すつもりはなかった",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "騙",
+              "reading": "だま"
+            },
+            {
+              "text": "すつもりはなかった"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 73.46296,
+      "end": 75.448134,
+      "japanese": "だだだ　だめにんげん!",
+      "zh-CN": "废废废 废柴人类！",
+      "segments": [
+        {
+          "text": "だだだ　だめにんげん!",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "だだだ　だめにんげん!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 80.14676,
+      "end": 82.968849,
+      "japanese": "だだだ　だめにんげんだから",
+      "zh-CN": "废废废 因为是个废柴人类",
+      "segments": [
+        {
+          "text": "だだだ　だめにんげんだから",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "だだだ　だめにんげんだから"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000023",
+      "order": 22,
+      "index": 22,
+      "start": 82.968849,
+      "end": 85.595725,
+      "japanese": "生き方さえ分からない　知らない",
+      "zh-CN": "连活法都搞不懂 也不想知道",
+      "segments": [
+        {
+          "text": "生き方さえ分からない　知らない",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "生",
+              "reading": "い"
+            },
+            {
+              "text": "き"
+            },
+            {
+              "text": "方",
+              "reading": "かた"
+            },
+            {
+              "text": "さえ"
+            },
+            {
+              "text": "分",
+              "reading": "わ"
+            },
+            {
+              "text": "からない　"
+            },
+            {
+              "text": "知",
+              "reading": "し"
+            },
+            {
+              "text": "らない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000024",
+      "order": 23,
+      "index": 23,
+      "start": 85.595725,
+      "end": 88.375768,
+      "japanese": "だだだ　大事ならやらなきゃ ",
+      "zh-CN": "废废废 要是重要的话就非做不可",
+      "segments": [
+        {
+          "text": "だだだ　大事ならやらなきゃ ",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "だだだ　"
+            },
+            {
+              "text": "大事",
+              "reading": "だいじ"
+            },
+            {
+              "text": "ならやらなきゃ "
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000025",
+      "order": 24,
+      "index": 24,
+      "start": 88.375768,
+      "end": 90.202768,
+      "japanese": "だめになる前に",
+      "zh-CN": "在彻底完蛋之前",
+      "segments": [
+        {
+          "text": "だめになる前に",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "だめになる"
+            },
+            {
+              "text": "前",
+              "reading": "まえ"
+            },
+            {
+              "text": "に"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000026",
+      "order": 25,
+      "index": 25,
+      "start": 91.424,
+      "end": 93.655,
+      "japanese": "だだだ　だだだ　だめみたい　ごめんね",
+      "zh-CN": "废废废 废废废 看来还是不行 抱歉呢",
+      "segments": [
+        {
+          "text": "だだだ　",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "だだだ　"
+            }
+          ]
+        },
+        {
+          "text": "だだだ　だめみたい　ごめんね",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "だだだ　だめみたい　ごめんね"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000027",
+      "order": 26,
+      "index": 26,
+      "start": 93.78042,
+      "end": 96.311191,
+      "japanese": "僕はなんにも出来ない　出来ない",
+      "zh-CN": "我什么都做不到 做不到",
+      "segments": [
+        {
+          "text": "僕はなんにも出来ない　出来ない",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "はなんにも"
+            },
+            {
+              "text": "出来",
+              "reading": "でき"
+            },
+            {
+              "text": "ない　"
+            },
+            {
+              "text": "出来",
+              "reading": "でき"
+            },
+            {
+              "text": "ない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000028",
+      "order": 27,
+      "index": 27,
+      "start": 96.311191,
+      "end": 101.134471,
+      "japanese": "だだだ　誰でも構わない　承認をちょうだい",
+      "zh-CN": "谁谁谁 谁都无所谓 给我一点认可吧",
+      "segments": [
+        {
+          "text": "だだだ　誰でも構わない　承認をちょうだい",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "だだだ　"
+            },
+            {
+              "text": "誰",
+              "reading": "だれ"
+            },
+            {
+              "text": "でも"
+            },
+            {
+              "text": "構",
+              "reading": "かま"
+            },
+            {
+              "text": "わない　"
+            },
+            {
+              "text": "承認",
+              "reading": "しょうにん"
+            },
+            {
+              "text": "をちょうだい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000029",
+      "order": 28,
+      "index": 28,
+      "start": 101.134471,
+      "end": 103.59116,
+      "japanese": "こうなるはずじゃなかった",
+      "zh-CN": "本不该变成这样的",
+      "segments": [
+        {
+          "text": "こうなるはずじゃなかった",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "こうなるはずじゃなかった"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000030",
+      "order": 29,
+      "index": 29,
+      "start": 104.333,
+      "end": 107.089,
+      "japanese": "だだだ　だめだめ!",
+      "zh-CN": "废废废 不行不行！",
+      "segments": [
+        {
+          "text": "だだだ　",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "だだだ　"
+            }
+          ]
+        },
+        {
+          "text": "だめだめ!",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-07",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "だめだめ!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000031",
+      "order": 30,
+      "index": 30,
+      "start": 104.333,
+      "end": 107.089,
+      "japanese": "だだだ　だめだめ!",
+      "zh-CN": "废废废 不行不行！",
+      "segments": [
+        {
+          "text": "だだだ　",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "だだだ　"
+            }
+          ]
+        },
+        {
+          "text": "だめだめ!",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "だめだめ!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000032",
+      "order": 31,
+      "index": 31,
+      "start": 104.333,
+      "end": 107.089,
+      "japanese": "だだだ　だめだめ!",
+      "zh-CN": "废废废 不行不行！",
+      "segments": [
+        {
+          "text": "だだだ　",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "だだだ　"
+            }
+          ]
+        },
+        {
+          "text": "だめだめ!",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "だめだめ!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000033",
+      "order": 32,
+      "index": 32,
+      "start": 108.449,
+      "end": 130.34075,
+      "japanese": "だだだ　だめにんげん!",
+      "zh-CN": "废废废 废柴人类！",
+      "segments": [
+        {
+          "text": "だだだ　だめにんげん!",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "だだだ　だめにんげん!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    }
+  ]
+}

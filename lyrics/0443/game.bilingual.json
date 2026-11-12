@@ -1,0 +1,918 @@
+{
+  "music_id": 443,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-01",
+      "name": "星乃一歌"
+    },
+    {
+      "performerId": "歌唱者-02",
+      "name": "天馬咲希"
+    },
+    {
+      "performerId": "歌唱者-23",
+      "name": "鏡音レン"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 17.696733,
+      "end": 25.432431,
+      "japanese": "色付いた街外れ　蒼く光る湖畔　赤い実のお菓子屋",
+      "zh-CN": "染上斑斓色彩的街郊 泛着苍蓝幽光的湖畔 红果实的甜点铺",
+      "segments": [
+        {
+          "text": "色付いた街外れ　蒼く光る湖畔　赤い実のお菓子屋",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "色付",
+              "reading": "いろず"
+            },
+            {
+              "text": "いた"
+            },
+            {
+              "text": "街外",
+              "reading": "まちはず"
+            },
+            {
+              "text": "れ　"
+            },
+            {
+              "text": "蒼",
+              "reading": "あお"
+            },
+            {
+              "text": "く"
+            },
+            {
+              "text": "光",
+              "reading": "ひか"
+            },
+            {
+              "text": "る"
+            },
+            {
+              "text": "湖畔",
+              "reading": "こはん"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "赤",
+              "reading": "あか"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "実",
+              "reading": "み"
+            },
+            {
+              "text": "のお"
+            },
+            {
+              "text": "菓子屋",
+              "reading": "かしや"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 26.584,
+      "end": 29.048,
+      "japanese": "物憂げな街の隅　ひとり",
+      "zh-CN": "在神色郁郁的街角 孤身一人",
+      "segments": [
+        {
+          "text": "物憂げな街の隅　ひとり",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "物憂",
+              "reading": "ものう"
+            },
+            {
+              "text": "げな"
+            },
+            {
+              "text": "街",
+              "reading": "まち"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "隅",
+              "reading": "すみ"
+            },
+            {
+              "text": "　ひとり"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 28.971771,
+      "end": 33.998275,
+      "japanese": "赤い実のパイどうですか　自信作なの",
+      "zh-CN": "红果馅饼要来尝尝吗 是我的自信之作呢",
+      "segments": [
+        {
+          "text": "赤い実のパイどうですか　自信作なの",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "赤",
+              "reading": "あか"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "実",
+              "reading": "み"
+            },
+            {
+              "text": "のパイどうですか　"
+            },
+            {
+              "text": "自信作",
+              "reading": "じしんさく"
+            },
+            {
+              "text": "なの"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 33.998275,
+      "end": 41.119156,
+      "japanese": "そんなのひとつも売れないさ　少女を見て蔑む人達",
+      "zh-CN": "“那种东西一个也卖不出去的” 蔑视着少女的人们",
+      "segments": [
+        {
+          "text": "そんなのひとつも売れないさ　少女を見て蔑む人達",
+          "performerIds": [
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "そんなのひとつも"
+            },
+            {
+              "text": "売",
+              "reading": "う"
+            },
+            {
+              "text": "れないさ　"
+            },
+            {
+              "text": "少女",
+              "reading": "しょうじょ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "て"
+            },
+            {
+              "text": "蔑",
+              "reading": "さげす"
+            },
+            {
+              "text": "む"
+            },
+            {
+              "text": "人達",
+              "reading": "ひとたち"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 41.296103,
+      "end": 48.517954,
+      "japanese": "みんなと何も変わらないのに　美味しくできたのに",
+      "zh-CN": "明明和大家没有任何不同 明明做得那么美味",
+      "segments": [
+        {
+          "text": "みんなと何も変わらないのに　",
+          "performerIds": [
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "みんなと"
+            },
+            {
+              "text": "何",
+              "reading": "なに"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "変",
+              "reading": "か"
+            },
+            {
+              "text": "わらないのに　"
+            }
+          ]
+        },
+        {
+          "text": "美味しくできたのに",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "美味",
+              "reading": "おい"
+            },
+            {
+              "text": "しくできたのに"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 48.73389,
+      "end": 52.789683,
+      "japanese": "今日も声は届かないのね",
+      "zh-CN": "今天声音也依然无法传达呢",
+      "segments": [
+        {
+          "text": "今日も声は届かないのね",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "今日",
+              "reading": "きょう"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "声",
+              "reading": "こえ"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "届",
+              "reading": "とど"
+            },
+            {
+              "text": "かないのね"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 52.957633,
+      "end": 56.610546,
+      "japanese": "まるで透明になったみたいだわ",
+      "zh-CN": "简直就像变得透明了一样",
+      "segments": [
+        {
+          "text": "まるで透明になったみたいだわ",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "まるで"
+            },
+            {
+              "text": "透明",
+              "reading": "とうめい"
+            },
+            {
+              "text": "になったみたいだわ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 57.162381,
+      "end": 61.257163,
+      "japanese": "そうして誰もが知らぬ振りをした",
+      "zh-CN": "于是任谁都装作视而不见",
+      "segments": [
+        {
+          "text": "そうして誰もが知らぬ振りをした",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "そうして"
+            },
+            {
+              "text": "誰",
+              "reading": "だれ"
+            },
+            {
+              "text": "もが"
+            },
+            {
+              "text": "知",
+              "reading": "し"
+            },
+            {
+              "text": "らぬ"
+            },
+            {
+              "text": "振",
+              "reading": "ふ"
+            },
+            {
+              "text": "りをした"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 61.318145,
+      "end": 65.204988,
+      "japanese": "何故なら少女は呪われているから",
+      "zh-CN": "因为少女遭受了诅咒",
+      "segments": [
+        {
+          "text": "何故なら少女は呪われているから",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "何故",
+              "reading": "なぜ"
+            },
+            {
+              "text": "なら"
+            },
+            {
+              "text": "少女",
+              "reading": "しょうじょ"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "呪",
+              "reading": "のろ"
+            },
+            {
+              "text": "われているから"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 68.944,
+      "end": 79.824,
+      "japanese": "死んだ世界で唯ふたり生きていた遠い物語",
+      "zh-CN": "这是一个在死寂的世界里 唯独两人生存着的遥远故事",
+      "segments": [
+        {
+          "text": "死んだ世界で唯ふたり",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "死",
+              "reading": "し"
+            },
+            {
+              "text": "んだ"
+            },
+            {
+              "text": "世界",
+              "reading": "せかい"
+            },
+            {
+              "text": "で"
+            },
+            {
+              "text": "唯",
+              "reading": "ただ"
+            },
+            {
+              "text": "ふたり"
+            }
+          ]
+        },
+        {
+          "text": "生きていた遠い物語",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "生",
+              "reading": "い"
+            },
+            {
+              "text": "きていた"
+            },
+            {
+              "text": "遠",
+              "reading": "とお"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "物語",
+              "reading": "ものがたり"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 79.824,
+      "end": 83.841,
+      "japanese": "もう声は届かないのね",
+      "zh-CN": "声音已经再也传达不到了呢",
+      "segments": [
+        {
+          "text": "もう声は届かないのね",
+          "performerIds": [
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "もう"
+            },
+            {
+              "text": "声",
+              "reading": "こえ"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "届",
+              "reading": "とど"
+            },
+            {
+              "text": "かないのね"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 83.755565,
+      "end": 87.457463,
+      "japanese": "まるで透明になったみたいだわ",
+      "zh-CN": "简直就像变得透明了一样",
+      "segments": [
+        {
+          "text": "まるで透明になったみたいだわ",
+          "performerIds": [
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "まるで"
+            },
+            {
+              "text": "透明",
+              "reading": "とうめい"
+            },
+            {
+              "text": "になったみたいだわ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 88.160254,
+      "end": 92.135071,
+      "japanese": "そうして誰もが知らぬ振りをした",
+      "zh-CN": "于是任谁都装作视而不见",
+      "segments": [
+        {
+          "text": "そうして誰もが知らぬ振りをした",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "そうして"
+            },
+            {
+              "text": "誰",
+              "reading": "だれ"
+            },
+            {
+              "text": "もが"
+            },
+            {
+              "text": "知",
+              "reading": "し"
+            },
+            {
+              "text": "らぬ"
+            },
+            {
+              "text": "振",
+              "reading": "ふ"
+            },
+            {
+              "text": "りをした"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 92.177058,
+      "end": 95.864961,
+      "japanese": "何故なら世界が呪われているから",
+      "zh-CN": "因为整个世界都已被诅咒",
+      "segments": [
+        {
+          "text": "何故なら世界が",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "何故",
+              "reading": "なぜ"
+            },
+            {
+              "text": "なら"
+            },
+            {
+              "text": "世界",
+              "reading": "せかい"
+            },
+            {
+              "text": "が"
+            }
+          ]
+        },
+        {
+          "text": "呪われているから",
+          "performerIds": [
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "呪",
+              "reading": "のろ"
+            },
+            {
+              "text": "われているから"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 98.114291,
+      "end": 102.273054,
+      "japanese": "『永遠』の呪いは解かれていた",
+      "zh-CN": "“永恒”的诅咒早已被破除",
+      "segments": [
+        {
+          "text": "『永遠』の呪いは解かれていた",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "『"
+            },
+            {
+              "text": "永遠",
+              "reading": "えいえん"
+            },
+            {
+              "text": "』の"
+            },
+            {
+              "text": "呪",
+              "reading": "のろ"
+            },
+            {
+              "text": "いは"
+            },
+            {
+              "text": "解",
+              "reading": "と"
+            },
+            {
+              "text": "かれていた"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 102.433006,
+      "end": 106.142902,
+      "japanese": "まるでふたりの方が狂ったみたいだろう",
+      "zh-CN": "简直就像是他们两人发了疯一般吧",
+      "segments": [
+        {
+          "text": "まるでふたりの方が狂ったみたいだろう",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "まるでふたりの"
+            },
+            {
+              "text": "方",
+              "reading": "ほう"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "狂",
+              "reading": "くる"
+            },
+            {
+              "text": "ったみたいだろう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 106.693738,
+      "end": 110.749531,
+      "japanese": "そうしていつか笑うように眠る ",
+      "zh-CN": "于是某一天 他们含笑沉沉睡去",
+      "segments": [
+        {
+          "text": "そうしていつか笑うように眠る ",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "そうしていつか"
+            },
+            {
+              "text": "笑",
+              "reading": "わら"
+            },
+            {
+              "text": "うように"
+            },
+            {
+              "text": "眠",
+              "reading": "ねむ"
+            },
+            {
+              "text": "る "
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 110.88278,
+      "end": 115.253293,
+      "japanese": "何故ならふたりは放たれているから",
+      "zh-CN": "因为两人早已得到了解放",
+      "segments": [
+        {
+          "text": "何故ならふたりは放たれているから",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "何故",
+              "reading": "なぜ"
+            },
+            {
+              "text": "ならふたりは"
+            },
+            {
+              "text": "放",
+              "reading": "はな"
+            },
+            {
+              "text": "たれているから"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 115.213,
+      "end": 138.028,
+      "japanese": "死んだ世界で唯ふたりだけが幸せだった",
+      "zh-CN": "在死寂的世界里 唯独他们两人获得了幸福",
+      "segments": [
+        {
+          "text": "死んだ世界で唯ふたり",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "死",
+              "reading": "し"
+            },
+            {
+              "text": "んだ"
+            },
+            {
+              "text": "世界",
+              "reading": "せかい"
+            },
+            {
+              "text": "で"
+            },
+            {
+              "text": "唯",
+              "reading": "ただ"
+            },
+            {
+              "text": "ふたり"
+            }
+          ]
+        },
+        {
+          "text": "だけが",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "だけが"
+            }
+          ]
+        },
+        {
+          "text": "幸せだった",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "幸",
+              "reading": "しあわ"
+            },
+            {
+              "text": "せだった"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

@@ -1,0 +1,550 @@
+{
+  "music_id": 8,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-01",
+      "name": "星乃一歌"
+    },
+    {
+      "performerId": "歌唱者-02",
+      "name": "天馬咲希"
+    },
+    {
+      "performerId": "歌唱者-21",
+      "name": "初音ミク"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 38.92,
+      "end": 42.59,
+      "japanese": "得意げに呟いた",
+      "zh-CN": "自鸣得意地轻声呢喃",
+      "segments": [
+        {
+          "text": "得意げに呟いた",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "得意",
+              "reading": "とくい"
+            },
+            {
+              "text": "げに"
+            },
+            {
+              "text": "呟",
+              "reading": "つぶや"
+            },
+            {
+              "text": "いた"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 42.59,
+      "end": 46.37,
+      "japanese": "心配ないからと",
+      "zh-CN": "告诉对方不必担心",
+      "segments": [
+        {
+          "text": "心配ないからと",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "心配",
+              "reading": "しんぱい"
+            },
+            {
+              "text": "ないからと"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 46.350142,
+      "end": 50.400855,
+      "japanese": "人の少ないホームで",
+      "zh-CN": "在空旷冷清的站台上",
+      "segments": [
+        {
+          "text": "人の少ないホームで",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "人",
+              "reading": "ひと"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "少",
+              "reading": "すく"
+            },
+            {
+              "text": "ないホームで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 50.634723,
+      "end": 53.672008,
+      "japanese": "ヘタクソに強がった",
+      "zh-CN": "笨拙地逞着强",
+      "segments": [
+        {
+          "text": "ヘタクソに強がった",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "ヘタクソに"
+            },
+            {
+              "text": "強",
+              "reading": "つよ"
+            },
+            {
+              "text": "がった"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 53.96884,
+      "end": 57.476859,
+      "japanese": "唐突に鳴り響く",
+      "zh-CN": "突然响彻耳畔",
+      "segments": [
+        {
+          "text": "唐突に鳴り響く",
+          "performerIds": [
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "唐突",
+              "reading": "とうとつ"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "鳴",
+              "reading": "な"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "響",
+              "reading": "ひび"
+            },
+            {
+              "text": "く"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 57.884629,
+      "end": 61.259723,
+      "japanese": "僕を呼ぶ別れの音",
+      "zh-CN": "呼唤着我的离别汽笛",
+      "segments": [
+        {
+          "text": "僕を呼ぶ別れの音",
+          "performerIds": [
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "呼",
+              "reading": "よ"
+            },
+            {
+              "text": "ぶ"
+            },
+            {
+              "text": "別",
+              "reading": "わか"
+            },
+            {
+              "text": "れの"
+            },
+            {
+              "text": "音",
+              "reading": "おと"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 61.563551,
+      "end": 65.487336,
+      "japanese": "見慣れたその泣き顔も",
+      "zh-CN": "那张早已看惯的哭泣面容",
+      "segments": [
+        {
+          "text": "見慣れたその泣き顔も",
+          "performerIds": [
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "見慣",
+              "reading": "みな"
+            },
+            {
+              "text": "れたその"
+            },
+            {
+              "text": "泣",
+              "reading": "な"
+            },
+            {
+              "text": "き"
+            },
+            {
+              "text": "顔",
+              "reading": "がお"
+            },
+            {
+              "text": "も"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 65.783169,
+      "end": 69.748929,
+      "japanese": "しばらくは見れないね",
+      "zh-CN": "暂时也无法再见到了呢",
+      "segments": [
+        {
+          "text": "しばらくは見れないね",
+          "performerIds": [
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "しばらくは"
+            },
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "れないね"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 70.31,
+      "end": 74.86,
+      "japanese": "ah 声が遮られていく",
+      "zh-CN": "ah 声音渐渐被隔绝在窗外",
+      "segments": [
+        {
+          "text": "ah 声が遮られていく",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ah "
+            },
+            {
+              "text": "声",
+              "reading": "こえ"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "遮",
+              "reading": "さえぎ"
+            },
+            {
+              "text": "られていく"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 74.800077,
+      "end": 78.399045,
+      "japanese": "身振り手振りで伝える",
+      "zh-CN": "比划着手势拼命传达",
+      "segments": [
+        {
+          "text": "身振り手振りで伝える",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "身振",
+              "reading": "みぶ"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "手振",
+              "reading": "てぶ"
+            },
+            {
+              "text": "りで"
+            },
+            {
+              "text": "伝",
+              "reading": "つた"
+            },
+            {
+              "text": "える"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 78.70887,
+      "end": 83.573123,
+      "japanese": "「いってらっしゃい」のサイン",
+      "zh-CN": "一句“路上顺风”的示意",
+      "segments": [
+        {
+          "text": "「いってらっしゃい」のサイン",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "「いってらっしゃい」のサイン"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 84.914366,
+      "end": 89.011053,
+      "japanese": "少しずつ小さくなってく",
+      "zh-CN": "身影一点点变得渺小",
+      "segments": [
+        {
+          "text": "少しずつ小さくなってく",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "少",
+              "reading": "すこ"
+            },
+            {
+              "text": "しずつ"
+            },
+            {
+              "text": "小",
+              "reading": "ちい"
+            },
+            {
+              "text": "さくなってく"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 89.420821,
+      "end": 92.827897,
+      "japanese": "全部置いたまま",
+      "zh-CN": "将一切悉数留在原地",
+      "segments": [
+        {
+          "text": "全部置いたまま",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "全部置",
+              "reading": "ぜんぶお"
+            },
+            {
+              "text": "いたまま"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 93.103742,
+      "end": 97.376329,
+      "japanese": "悲しくなんかないさと",
+      "zh-CN": "默念着自己一点也不悲伤",
+      "segments": [
+        {
+          "text": "悲しくなんかないさと",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "悲",
+              "reading": "かな"
+            },
+            {
+              "text": "しくなんかないさと"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 97.863253,
+      "end": 100.710019,
+      "japanese": "イヤホンで閉じ込めたよ",
+      "zh-CN": "用耳机将情绪彻底封存",
+      "segments": [
+        {
+          "text": "イヤホンで閉じ込めたよ",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "イヤホンで"
+            },
+            {
+              "text": "閉",
+              "reading": "と"
+            },
+            {
+              "text": "じ"
+            },
+            {
+              "text": "込",
+              "reading": "こ"
+            },
+            {
+              "text": "めたよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

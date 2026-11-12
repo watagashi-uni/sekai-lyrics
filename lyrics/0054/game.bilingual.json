@@ -1,0 +1,728 @@
+{
+  "music_id": 54,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-09",
+      "name": "小豆沢こはね"
+    },
+    {
+      "performerId": "歌唱者-10",
+      "name": "白石杏"
+    },
+    {
+      "performerId": "歌唱者-11",
+      "name": "東雲彰人"
+    },
+    {
+      "performerId": "歌唱者-12",
+      "name": "青柳冬弥"
+    },
+    {
+      "performerId": "歌唱者-21",
+      "name": "初音ミク"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 19.502,
+      "end": 24.392,
+      "japanese": "ローリスクじゃ物足りなくなっちゃったし",
+      "zh-CN": "低风险早就让人觉得不够过瘾啦",
+      "segments": [
+        {
+          "text": "ローリスクじゃ物足りなくなっちゃったし",
+          "performerIds": [
+            "歌唱者-09"
+          ],
+          "ruby": [
+            {
+              "text": "ローリスクじゃ"
+            },
+            {
+              "text": "物足",
+              "reading": "ものた"
+            },
+            {
+              "text": "りなくなっちゃったし"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 24.388,
+      "end": 27.071,
+      "japanese": "有り余って笑っちゃうくらい",
+      "zh-CN": "甚至精力过剩得令人忍俊不禁",
+      "segments": [
+        {
+          "text": "有り余って笑っちゃうくらい",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "有",
+              "reading": "あ"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "余",
+              "reading": "あま"
+            },
+            {
+              "text": "って"
+            },
+            {
+              "text": "笑",
+              "reading": "わら"
+            },
+            {
+              "text": "っちゃうくらい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 27.071,
+      "end": 32.258,
+      "japanese": "なんも無いなんて言ったってしょうがないし",
+      "zh-CN": "就算嚷嚷着一无所有也无济于事",
+      "segments": [
+        {
+          "text": "なんも無いなんて言ったってしょうがないし",
+          "performerIds": [
+            "歌唱者-09"
+          ],
+          "ruby": [
+            {
+              "text": "なんも"
+            },
+            {
+              "text": "無",
+              "reading": "な"
+            },
+            {
+              "text": "いなんて"
+            },
+            {
+              "text": "言",
+              "reading": "い"
+            },
+            {
+              "text": "ったってしょうがないし"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 32.748,
+      "end": 34.904,
+      "japanese": "お手上げでHi-Five",
+      "zh-CN": "举手认输来个 Hi-Five",
+      "segments": [
+        {
+          "text": "お手上げでHi-Five",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "お"
+            },
+            {
+              "text": "手上",
+              "reading": "てあ"
+            },
+            {
+              "text": "げでHi-Five"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 34.38,
+      "end": 40.448,
+      "japanese": "前ならえで後に続いたってつまんねえ",
+      "zh-CN": "亦步亦趋跟在别人身后也太无聊了",
+      "segments": [
+        {
+          "text": "前ならえで後に続いたってつまんねえ",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "前",
+              "reading": "まえ"
+            },
+            {
+              "text": "ならえで"
+            },
+            {
+              "text": "後",
+              "reading": "あと"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "続",
+              "reading": "つづ"
+            },
+            {
+              "text": "いたってつまんねえ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 38.102,
+      "end": 44.524,
+      "japanese": "夢を語れ、追え！が　この街のStandard",
+      "zh-CN": "畅谈梦想、勇敢追寻！才是这条街道的 Standard",
+      "segments": [
+        {
+          "text": "夢を語れ、追え！が　この街のStandard",
+          "performerIds": [
+            "歌唱者-10",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "夢",
+              "reading": "ゆめ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "語",
+              "reading": "かた"
+            },
+            {
+              "text": "れ、"
+            },
+            {
+              "text": "追",
+              "reading": "お"
+            },
+            {
+              "text": "え！が　この"
+            },
+            {
+              "text": "街",
+              "reading": "まち"
+            },
+            {
+              "text": "のStandard"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 44.521,
+      "end": 48.706,
+      "japanese": "ただ見てたいだけ　なんてのは嘘です",
+      "zh-CN": "说什么“只是想在一旁看着”不过是谎话",
+      "segments": [
+        {
+          "text": "ただ見てたいだけ　なんてのは嘘です",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "ただ"
+            },
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "てたいだけ　なんてのは"
+            },
+            {
+              "text": "嘘",
+              "reading": "うそ"
+            },
+            {
+              "text": "です"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 48.706,
+      "end": 51.869,
+      "japanese": "そろそろマイク頂戴",
+      "zh-CN": "差不多该把麦克风交给我了吧",
+      "segments": [
+        {
+          "text": "そろそろマイク頂戴",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "そろそろマイク"
+            },
+            {
+              "text": "頂戴",
+              "reading": "ちょうだい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 50.344,
+      "end": 60.638,
+      "japanese": "どうせならもう後戻りもできないくらい　どうにかさせて",
+      "zh-CN": "既然如此 就让我彻底沦陷到无法回头的地步吧",
+      "segments": [
+        {
+          "text": "どうせならもう後戻りもできないくらい　どうにかさせて",
+          "performerIds": [
+            "歌唱者-09"
+          ],
+          "ruby": [
+            {
+              "text": "どうせならもう"
+            },
+            {
+              "text": "後戻",
+              "reading": "あともど"
+            },
+            {
+              "text": "りもできないくらい　どうにかさせて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 60.473,
+      "end": 62.896,
+      "japanese": "まだまだハマっていきたい",
+      "zh-CN": "还想更加更加深陷其中",
+      "segments": [
+        {
+          "text": "まだまだハマっていきたい",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "まだまだハマっていきたい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 62.602,
+      "end": 65.169,
+      "japanese": "なんか、まるで恋してるみたい",
+      "zh-CN": "总觉得 简直就像是坠入了爱河一般",
+      "segments": [
+        {
+          "text": "なんか、まるで恋してるみたい",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "なんか、まるで"
+            },
+            {
+              "text": "恋",
+              "reading": "こい"
+            },
+            {
+              "text": "してるみたい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 65.046,
+      "end": 67.891,
+      "japanese": "好きになっちゃったぁ　つってさ",
+      "zh-CN": "说着“已经喜欢上啦”",
+      "segments": [
+        {
+          "text": "好きになっちゃったぁ　つってさ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "好",
+              "reading": "す"
+            },
+            {
+              "text": "きになっちゃったぁ　つってさ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 68.561,
+      "end": 73.747,
+      "japanese": "ならこのまま (まま) キミを連れて",
+      "zh-CN": "那就这样（这样）带着你",
+      "segments": [
+        {
+          "text": "ならこのまま ",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-10",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ならこのまま "
+            }
+          ]
+        },
+        {
+          "text": "(まま) ",
+          "performerIds": [
+            "歌唱者-11",
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "(まま) "
+            }
+          ]
+        },
+        {
+          "text": "キミを連れて",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "キミを"
+            },
+            {
+              "text": "連",
+              "reading": "つ"
+            },
+            {
+              "text": "れて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 73.774,
+      "end": 75.837,
+      "japanese": "望むなら (なら)　どこまでも",
+      "zh-CN": "只要你渴望（渴望）去到天涯海角",
+      "segments": [
+        {
+          "text": "望むなら ",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-10",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "望",
+              "reading": "のぞ"
+            },
+            {
+              "text": "むなら "
+            }
+          ]
+        },
+        {
+          "text": "(なら)　",
+          "performerIds": [
+            "歌唱者-11",
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "(なら)　"
+            }
+          ]
+        },
+        {
+          "text": "どこまでも",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "どこまでも"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 76.083,
+      "end": 80.286,
+      "japanese": "＆ I Wanna (Wanna) 欲しがってばかりで結構 結構",
+      "zh-CN": "& I Wanna (Wanna) 尽管一味渴求也完全足够 足够",
+      "segments": [
+        {
+          "text": "＆ I Wanna ",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-10",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "＆ I Wanna "
+            }
+          ]
+        },
+        {
+          "text": "(Wanna) ",
+          "performerIds": [
+            "歌唱者-11",
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "(Wanna) "
+            }
+          ]
+        },
+        {
+          "text": "欲しがってばかりで",
+          "performerIds": [
+            "歌唱者-09"
+          ],
+          "ruby": [
+            {
+              "text": "欲",
+              "reading": "ほ"
+            },
+            {
+              "text": "しがってばかりで"
+            }
+          ]
+        },
+        {
+          "text": "結構 結構",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-10",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "結構",
+              "reading": "けっこう"
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "結構",
+              "reading": "けっこう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 84.84,
+      "end": 91.76,
+      "japanese": "もし叶うならこの先の世界を知りたい　行きたい",
+      "zh-CN": "若能实现 好想探知前方的世界 好想亲自前往",
+      "segments": [
+        {
+          "text": "もし叶うならこの先の世界を",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "もし"
+            },
+            {
+              "text": "叶",
+              "reading": "かな"
+            },
+            {
+              "text": "うならこの"
+            },
+            {
+              "text": "先",
+              "reading": "さき"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "世界",
+              "reading": "せかい"
+            },
+            {
+              "text": "を"
+            }
+          ]
+        },
+        {
+          "text": "知りたい　行きたい",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-10",
+            "歌唱者-11",
+            "歌唱者-12",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "知",
+              "reading": "し"
+            },
+            {
+              "text": "りたい　"
+            },
+            {
+              "text": "行",
+              "reading": "い"
+            },
+            {
+              "text": "きたい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 92.196,
+      "end": 98.06,
+      "japanese": "Ready Steady",
+      "zh-CN": "Ready Steady",
+      "segments": [
+        {
+          "text": "Ready Steady",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-10",
+            "歌唱者-11",
+            "歌唱者-12",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "Ready Steady"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    }
+  ]
+}

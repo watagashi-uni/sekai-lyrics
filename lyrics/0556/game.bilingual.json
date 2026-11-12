@@ -1,0 +1,624 @@
+{
+  "music_id": 556,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-17",
+      "name": "宵崎奏"
+    },
+    {
+      "performerId": "歌唱者-18",
+      "name": "朝比奈まふゆ"
+    },
+    {
+      "performerId": "歌唱者-19",
+      "name": "東雲絵名"
+    },
+    {
+      "performerId": "歌唱者-20",
+      "name": "暁山瑞希"
+    },
+    {
+      "performerId": "歌唱者-21",
+      "name": "初音ミク"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 29.56875,
+      "end": 36.06275,
+      "japanese": "むこうはどんな所なんだろうね？",
+      "zh-CN": "那边会是怎样的一处地方呢？",
+      "segments": [
+        {
+          "text": "むこうはどんな所なんだろうね？",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "むこうはどんな"
+            },
+            {
+              "text": "所",
+              "reading": "ところ"
+            },
+            {
+              "text": "なんだろうね？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 36.06275,
+      "end": 42.29475,
+      "japanese": "無事に着いたら　便りでも欲しいよ",
+      "zh-CN": "若是平安抵达 希望能收到你的只言片语啊",
+      "segments": [
+        {
+          "text": "無事に着いたら　便りでも欲しいよ",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "無事",
+              "reading": "ぶじ"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "着",
+              "reading": "つ"
+            },
+            {
+              "text": "いたら　"
+            },
+            {
+              "text": "便",
+              "reading": "たよ"
+            },
+            {
+              "text": "りでも"
+            },
+            {
+              "text": "欲",
+              "reading": "ほ"
+            },
+            {
+              "text": "しいよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 42.29475,
+      "end": 49.32475,
+      "japanese": "扉を開いて　彼方へと向かうあなたへ",
+      "zh-CN": "献给推开门扉 启程奔赴彼方的你",
+      "segments": [
+        {
+          "text": "扉を開いて　彼方へと向かうあなたへ",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "扉",
+              "reading": "とびら"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "開",
+              "reading": "ひら"
+            },
+            {
+              "text": "いて　"
+            },
+            {
+              "text": "彼方",
+              "reading": "かなた"
+            },
+            {
+              "text": "へと"
+            },
+            {
+              "text": "向",
+              "reading": "む"
+            },
+            {
+              "text": "かうあなたへ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 49.32475,
+      "end": 55.97275,
+      "japanese": "この歌声と祈りが　届けばいいなぁ",
+      "zh-CN": "若这份歌声与祈愿 能够传达给你就好了啊",
+      "segments": [
+        {
+          "text": "この歌声と祈りが　届けばいいなぁ",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "この"
+            },
+            {
+              "text": "歌声",
+              "reading": "うたごえ"
+            },
+            {
+              "text": "と"
+            },
+            {
+              "text": "祈",
+              "reading": "いの"
+            },
+            {
+              "text": "りが　"
+            },
+            {
+              "text": "届",
+              "reading": "とど"
+            },
+            {
+              "text": "けばいいなぁ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 55.97275,
+      "end": 62.17375,
+      "japanese": "雲ひとつないような　抜けるほど晴天の今日は",
+      "zh-CN": "万里无云 通透澄澈的晴空之下",
+      "segments": [
+        {
+          "text": "雲ひとつないような　抜けるほど晴天の今日は",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "雲",
+              "reading": "くも"
+            },
+            {
+              "text": "ひとつないような　"
+            },
+            {
+              "text": "抜",
+              "reading": "ぬ"
+            },
+            {
+              "text": "けるほど"
+            },
+            {
+              "text": "晴天",
+              "reading": "せいてん"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "今日",
+              "reading": "きょう"
+            },
+            {
+              "text": "は"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 62.17375,
+      "end": 68.90375,
+      "japanese": "悲しいくらいに　お別れ日和で",
+      "zh-CN": "今日竟是令人悲伤的 绝佳诀别之日",
+      "segments": [
+        {
+          "text": "悲しいくらいに　お別れ日和で",
+          "performerIds": [
+            "歌唱者-20",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "悲",
+              "reading": "かな"
+            },
+            {
+              "text": "しいくらいに　お"
+            },
+            {
+              "text": "別",
+              "reading": "わか"
+            },
+            {
+              "text": "れ"
+            },
+            {
+              "text": "日和",
+              "reading": "びより"
+            },
+            {
+              "text": "で"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 68.90375,
+      "end": 75.49275,
+      "japanese": "ありふれた人生を　紅く色付ける様な",
+      "zh-CN": "宛如为平淡无奇的人生 染上一抹嫣红",
+      "segments": [
+        {
+          "text": "ありふれた人生を　紅く色付ける様な",
+          "performerIds": [
+            "歌唱者-19",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ありふれた"
+            },
+            {
+              "text": "人生",
+              "reading": "じんせい"
+            },
+            {
+              "text": "を　"
+            },
+            {
+              "text": "紅",
+              "reading": "あか"
+            },
+            {
+              "text": "く"
+            },
+            {
+              "text": "色付",
+              "reading": "いろず"
+            },
+            {
+              "text": "ける"
+            },
+            {
+              "text": "様",
+              "reading": "よう"
+            },
+            {
+              "text": "な"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 75.49275,
+      "end": 81.09475,
+      "japanese": "たおやかな恋でした　たおやかな恋でした",
+      "zh-CN": "那是一段温柔缱绻的恋情 那是一段温柔缱绻的恋情",
+      "segments": [
+        {
+          "text": "たおやかな恋でした　たおやかな恋でした",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "たおやかな"
+            },
+            {
+              "text": "恋",
+              "reading": "こい"
+            },
+            {
+              "text": "でした　たおやかな"
+            },
+            {
+              "text": "恋",
+              "reading": "こい"
+            },
+            {
+              "text": "でした"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 81.09475,
+      "end": 88.80475,
+      "japanese": "さよなら",
+      "zh-CN": "再见啦",
+      "segments": [
+        {
+          "text": "さよなら",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "さよなら"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 88.80475,
+      "end": 95.42075,
+      "japanese": "またいつの日にか　出会えると信じられたら",
+      "zh-CN": "若能坚信有朝一日 终会再次与你相遇",
+      "segments": [
+        {
+          "text": "またいつの日にか　出会えると信じられたら",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "またいつの"
+            },
+            {
+              "text": "日",
+              "reading": "ひ"
+            },
+            {
+              "text": "にか　"
+            },
+            {
+              "text": "出会",
+              "reading": "であ"
+            },
+            {
+              "text": "えると"
+            },
+            {
+              "text": "信",
+              "reading": "しん"
+            },
+            {
+              "text": "じられたら"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 95.42075,
+      "end": 101.63675,
+      "japanese": "これからの日々も　変わらずやり過ごせるね",
+      "zh-CN": "从今往后的日子 也能一如既往地度过呢",
+      "segments": [
+        {
+          "text": "これからの日々も　変わらずやり過ごせるね",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "これからの"
+            },
+            {
+              "text": "日々",
+              "reading": "ひび"
+            },
+            {
+              "text": "も　"
+            },
+            {
+              "text": "変",
+              "reading": "か"
+            },
+            {
+              "text": "わらずやり"
+            },
+            {
+              "text": "過",
+              "reading": "す"
+            },
+            {
+              "text": "ごせるね"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 101.70325,
+      "end": 108.06825,
+      "japanese": "ありふれた人生を　紅く色付ける様な",
+      "zh-CN": "宛如为平淡无奇的人生 染上一抹嫣红",
+      "segments": [
+        {
+          "text": "ありふれた人生を　紅く色付ける様な",
+          "performerIds": [
+            "歌唱者-19",
+            "歌唱者-20",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ありふれた"
+            },
+            {
+              "text": "人生",
+              "reading": "じんせい"
+            },
+            {
+              "text": "を　"
+            },
+            {
+              "text": "紅",
+              "reading": "あか"
+            },
+            {
+              "text": "く"
+            },
+            {
+              "text": "色付",
+              "reading": "いろず"
+            },
+            {
+              "text": "ける"
+            },
+            {
+              "text": "様",
+              "reading": "よう"
+            },
+            {
+              "text": "な"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 108.28525,
+      "end": 113.82025,
+      "japanese": "たおやかな恋でした　たおやかな恋でした",
+      "zh-CN": "那是一段温柔缱绻的恋情 那是一段温柔缱绻的恋情",
+      "segments": [
+        {
+          "text": "たおやかな恋でした　たおやかな恋でした",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-18",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "たおやかな"
+            },
+            {
+              "text": "恋",
+              "reading": "こい"
+            },
+            {
+              "text": "でした　たおやかな"
+            },
+            {
+              "text": "恋",
+              "reading": "こい"
+            },
+            {
+              "text": "でした"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 113.86475,
+      "end": 138.99038,
+      "japanese": "さよなら",
+      "zh-CN": "再见啦",
+      "segments": [
+        {
+          "text": "さよなら",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "さよなら"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

@@ -1,0 +1,1012 @@
+{
+  "music_id": 107,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-05",
+      "name": "花里みのり"
+    },
+    {
+      "performerId": "歌唱者-08",
+      "name": "日野森雫"
+    },
+    {
+      "performerId": "歌唱者-21",
+      "name": "初音ミク"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 38.696851,
+      "end": 42.502471,
+      "japanese": "だって笑われてるから笑ってみたけど怒らせちゃうのなんで？",
+      "zh-CN": "因为被嘲笑了所以试着跟着笑 却又惹人发怒 到底是为什么？",
+      "segments": [
+        {
+          "text": "だって笑われてるから笑ってみたけど怒らせちゃうのなんで？",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "だって"
+            },
+            {
+              "text": "笑",
+              "reading": "わら"
+            },
+            {
+              "text": "われてるから"
+            },
+            {
+              "text": "笑",
+              "reading": "わら"
+            },
+            {
+              "text": "ってみたけど"
+            },
+            {
+              "text": "怒",
+              "reading": "おこ"
+            },
+            {
+              "text": "らせちゃうのなんで？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 42.502471,
+      "end": 46.256096,
+      "japanese": "いつも妄想するほどうまくいかなくて「ごめんなさい」ってなんで？",
+      "zh-CN": "总是不如妄想中顺利 到底为什么非得说“对不起”？",
+      "segments": [
+        {
+          "text": "いつも妄想するほどうまくいかなくて「ごめんなさい」ってなんで？",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "いつも"
+            },
+            {
+              "text": "妄想",
+              "reading": "もうそう"
+            },
+            {
+              "text": "するほどうまくいかなくて「ごめんなさい」ってなんで？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 46.256096,
+      "end": 49.960726,
+      "japanese": "ママに見せられないようなくしゃくしゃ頭に許してくださいって",
+      "zh-CN": "对着绝不能让妈妈看到的乱糟糟的脑袋 乞求着“请原谅我”",
+      "segments": [
+        {
+          "text": "ママに見せられないようなくしゃくしゃ頭に許してくださいって",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ママに"
+            },
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "せられないようなくしゃくしゃ"
+            },
+            {
+              "text": "頭",
+              "reading": "あたま"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "許",
+              "reading": "ゆる"
+            },
+            {
+              "text": "してくださいって"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 50.000722,
+      "end": 53.82734,
+      "japanese": "踏んだ方もそれなり心が痛いとか言ってたの、嘘ですか",
+      "zh-CN": "踩人的那一方也会隐隐心痛什么的 难道全都是谎言吗",
+      "segments": [
+        {
+          "text": "踏んだ方もそれなり心が痛いとか言ってたの、嘘ですか",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "踏",
+              "reading": "ふ"
+            },
+            {
+              "text": "んだ"
+            },
+            {
+              "text": "方",
+              "reading": "ほう"
+            },
+            {
+              "text": "もそれなり"
+            },
+            {
+              "text": "心",
+              "reading": "こころ"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "痛",
+              "reading": "いた"
+            },
+            {
+              "text": "いとか"
+            },
+            {
+              "text": "言",
+              "reading": "い"
+            },
+            {
+              "text": "ってたの、"
+            },
+            {
+              "text": "嘘",
+              "reading": "うそ"
+            },
+            {
+              "text": "ですか"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 54.041319,
+      "end": 55.980125,
+      "japanese": "出来ないそんな才能は無い",
+      "zh-CN": "做不到 没有那样的才能",
+      "segments": [
+        {
+          "text": "出来ないそんな才能は無い",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "出来",
+              "reading": "でき"
+            },
+            {
+              "text": "ないそんな"
+            },
+            {
+              "text": "才能",
+              "reading": "さいのう"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "無",
+              "reading": "な"
+            },
+            {
+              "text": "い"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 55.980125,
+      "end": 57.83094,
+      "japanese": "出来ないそんな才能も無い",
+      "zh-CN": "做不到 连那样的才能也不具备",
+      "segments": [
+        {
+          "text": "出来ないそんな才能も無い",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "出来",
+              "reading": "でき"
+            },
+            {
+              "text": "ないそんな"
+            },
+            {
+              "text": "才能",
+              "reading": "さいのう"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "無",
+              "reading": "な"
+            },
+            {
+              "text": "い"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 57.83094,
+      "end": 61.585565,
+      "japanese": "出来ないそんな才能なんてどこのお店でも売ってくれないし",
+      "zh-CN": "做不到 那种才能不管在哪家店铺都是买不到的啊",
+      "segments": [
+        {
+          "text": "出来ないそんな才能なんてどこのお店でも売ってくれないし",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "出来",
+              "reading": "でき"
+            },
+            {
+              "text": "ないそんな"
+            },
+            {
+              "text": "才能",
+              "reading": "さいのう"
+            },
+            {
+              "text": "なんてどこのお"
+            },
+            {
+              "text": "店",
+              "reading": "みせ"
+            },
+            {
+              "text": "でも"
+            },
+            {
+              "text": "売",
+              "reading": "う"
+            },
+            {
+              "text": "ってくれないし"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 61.585565,
+      "end": 65.422182,
+      "japanese": "天にまします神さまだってこんなガラクタ御手汚しですか",
+      "zh-CN": "就算是高居天上的神明 触碰这种废品也会弄脏贵手吗",
+      "segments": [
+        {
+          "text": "天にまします神さまだってこんなガラクタ御手汚しですか",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "天",
+              "reading": "てん"
+            },
+            {
+              "text": "にまします"
+            },
+            {
+              "text": "神",
+              "reading": "かみ"
+            },
+            {
+              "text": "さまだってこんなガラクタ"
+            },
+            {
+              "text": "御手汚",
+              "reading": "みてけが"
+            },
+            {
+              "text": "しですか"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 65.422182,
+      "end": 66.904034,
+      "japanese": "わたしだけが知ってる",
+      "zh-CN": "只有我一个人知晓",
+      "segments": [
+        {
+          "text": "わたしだけが知ってる",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "わたしだけが"
+            },
+            {
+              "text": "知",
+              "reading": "し"
+            },
+            {
+              "text": "ってる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 66.904034,
+      "end": 68.975827,
+      "japanese": "刹那に生まれた小っちゃな戴冠式",
+      "zh-CN": "刹那之间诞生的小小加冕典礼",
+      "segments": [
+        {
+          "text": "刹那に生まれた小っちゃな戴冠式",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "刹那",
+              "reading": "せつな"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "生",
+              "reading": "う"
+            },
+            {
+              "text": "まれた"
+            },
+            {
+              "text": "小",
+              "reading": "ち"
+            },
+            {
+              "text": "っちゃな"
+            },
+            {
+              "text": "戴冠式",
+              "reading": "たいかんしき"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 68.999491,
+      "end": 72.93704,
+      "japanese": "ねぇ凛とすましてるお姫様に",
+      "zh-CN": "呐 端庄傲然的公主殿下",
+      "segments": [
+        {
+          "text": "ねぇ凛とすましてるお姫様に",
+          "performerIds": [
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ねぇ"
+            },
+            {
+              "text": "凛",
+              "reading": "りん"
+            },
+            {
+              "text": "とすましてるお"
+            },
+            {
+              "text": "姫様",
+              "reading": "ひめさま"
+            },
+            {
+              "text": "に"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 68.999491,
+      "end": 72.93704,
+      "japanese": "でも取って代わらせてソーニャ ソーニャ",
+      "zh-CN": "也请让我取而代之吧 索尼娅 索尼娅",
+      "segments": [
+        {
+          "text": "でも",
+          "performerIds": [
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "でも"
+            }
+          ]
+        },
+        {
+          "text": "取って代わらせてソーニャ ソーニャ",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "取",
+              "reading": "と"
+            },
+            {
+              "text": "って"
+            },
+            {
+              "text": "代",
+              "reading": "か"
+            },
+            {
+              "text": "わらせてソーニャ ソーニャ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 72.959429,
+      "end": 76.517074,
+      "japanese": "だって嘘ばかり tiny tiny世界に罪とか",
+      "zh-CN": "毕竟满是谎言 tiny tiny 世界的罪孽之类",
+      "segments": [
+        {
+          "text": "だって嘘ばかり tiny tiny世界に罪とか",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "だって"
+            },
+            {
+              "text": "嘘",
+              "reading": "うそ"
+            },
+            {
+              "text": "ばかり tiny tiny"
+            },
+            {
+              "text": "世界",
+              "reading": "せかい"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "罪",
+              "reading": "つみ"
+            },
+            {
+              "text": "とか"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 76.671058,
+      "end": 80.523673,
+      "japanese": "放り出したってそれを恨んだって咎めなんかして損に得に？",
+      "zh-CN": "就算抛之脑后 就算心生怨恨 哪怕去问罪又能有什么得失？",
+      "segments": [
+        {
+          "text": "放り出したってそれを恨んだって咎めなんかして損に得に？",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "放",
+              "reading": "ほう"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "したってそれを"
+            },
+            {
+              "text": "恨",
+              "reading": "うら"
+            },
+            {
+              "text": "んだって"
+            },
+            {
+              "text": "咎",
+              "reading": "とが"
+            },
+            {
+              "text": "めなんかして"
+            },
+            {
+              "text": "損",
+              "reading": "そん"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "得",
+              "reading": "とく"
+            },
+            {
+              "text": "に？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 80.523673,
+      "end": 83.927333,
+      "japanese": "愛を説いて満足気な 教科書の慣用句",
+      "zh-CN": "自满地阐释着爱意的 教科书惯用语",
+      "segments": [
+        {
+          "text": "愛を説いて満足気な 教科書の慣用句",
+          "performerIds": [
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "愛",
+              "reading": "あい"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "説",
+              "reading": "と"
+            },
+            {
+              "text": "いて"
+            },
+            {
+              "text": "満足気",
+              "reading": "まんぞくげ"
+            },
+            {
+              "text": "な "
+            },
+            {
+              "text": "教科書",
+              "reading": "きょうかしょ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "慣用句",
+              "reading": "かにょうく"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 83.927333,
+      "end": 86.556071,
+      "japanese": "禁じてください 間違いでしたって",
+      "zh-CN": "请查禁吧 承认那全都是谬误",
+      "segments": [
+        {
+          "text": "禁じてください 間違いでしたって",
+          "performerIds": [
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "禁",
+              "reading": "きん"
+            },
+            {
+              "text": "じてください "
+            },
+            {
+              "text": "間違",
+              "reading": "まちが"
+            },
+            {
+              "text": "いでしたって"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 98.649684,
+      "end": 102.377312,
+      "japanese": "だって嘘ばかりtiny tiny世界に罪とか",
+      "zh-CN": "毕竟满是谎言 tiny tiny 世界的罪孽之类",
+      "segments": [
+        {
+          "text": "だって嘘ばかりtiny tiny世界に罪とか",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "だって"
+            },
+            {
+              "text": "嘘",
+              "reading": "うそ"
+            },
+            {
+              "text": "ばかりtiny tiny"
+            },
+            {
+              "text": "世界",
+              "reading": "せかい"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "罪",
+              "reading": "つみ"
+            },
+            {
+              "text": "とか"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 102.377312,
+      "end": 106.140936,
+      "japanese": "放り出したってそれを恨んだって咎めなんかして損に得に？",
+      "zh-CN": "就算抛之脑后 就算心生怨恨 哪怕去问罪又能有什么得失？",
+      "segments": [
+        {
+          "text": "放り出したってそれを恨んだって咎めなんかして損に得に？",
+          "performerIds": [
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "放",
+              "reading": "ほう"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "したってそれを"
+            },
+            {
+              "text": "恨",
+              "reading": "うら"
+            },
+            {
+              "text": "んだって"
+            },
+            {
+              "text": "咎",
+              "reading": "とが"
+            },
+            {
+              "text": "めなんかして"
+            },
+            {
+              "text": "損",
+              "reading": "そん"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "得",
+              "reading": "とく"
+            },
+            {
+              "text": "に？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 106.140936,
+      "end": 109.609589,
+      "japanese": "愛の教典ちんぷんかんぷん聖人の名文句を",
+      "zh-CN": "爱的教典让人摸不着头脑 圣人的名言警句",
+      "segments": [
+        {
+          "text": "愛の教典ちんぷんかんぷん聖人の名文句を",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "愛",
+              "reading": "あい"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "教典",
+              "reading": "きょうてん"
+            },
+            {
+              "text": "ちんぷんかんぷん"
+            },
+            {
+              "text": "聖人",
+              "reading": "せいじん"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "名文句",
+              "reading": "めいもんく"
+            },
+            {
+              "text": "を"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 109.609589,
+      "end": 113.434207,
+      "japanese": "「大げさ」ってつぶやいて簡単なことでしたって",
+      "zh-CN": "喃喃低语“真夸张” 本来就是很简单的事情",
+      "segments": [
+        {
+          "text": "「大げさ」ってつぶやいて",
+          "performerIds": [
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "「"
+            },
+            {
+              "text": "大",
+              "reading": "おう"
+            },
+            {
+              "text": "げさ」ってつぶやいて"
+            }
+          ]
+        },
+        {
+          "text": "簡単なことでしたって",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "簡単",
+              "reading": "かんたん"
+            },
+            {
+              "text": "なことでしたって"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 113.434207,
+      "end": 115.966954,
+      "japanese": "色づいてく花が今日、微笑んだって",
+      "zh-CN": "渐染色彩的花朵在今天绽放了微笑",
+      "segments": [
+        {
+          "text": "色づいてく花が今日、微笑んだって",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "色",
+              "reading": "いろ"
+            },
+            {
+              "text": "づいてく"
+            },
+            {
+              "text": "花",
+              "reading": "はな"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "今日",
+              "reading": "きょう"
+            },
+            {
+              "text": "、"
+            },
+            {
+              "text": "微笑",
+              "reading": "ほほえ"
+            },
+            {
+              "text": "んだって"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    }
+  ]
+}

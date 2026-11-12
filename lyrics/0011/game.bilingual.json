@@ -1,0 +1,903 @@
+{
+  "music_id": 11,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-05",
+      "name": "花里みのり"
+    },
+    {
+      "performerId": "歌唱者-07",
+      "name": "桃井愛莉"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 10.2585,
+      "end": 13.9055,
+      "japanese": "アア・・・マイクOK",
+      "zh-CN": "啊啊……麦克风OK",
+      "segments": [
+        {
+          "text": "アア・・・マイクOK",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "アア・・・マイクOK"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 13.9055,
+      "end": 14.6055,
+      "japanese": "いっくよー！",
+      "zh-CN": "要上啦——！",
+      "segments": [
+        {
+          "text": "いっくよー！",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "いっくよー！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 15.532862,
+      "end": 17.32005,
+      "japanese": "ミニスカートで襲撃だ！（キュン）",
+      "zh-CN": "穿着超短裙出击袭击！（心动）",
+      "segments": [
+        {
+          "text": "ミニスカートで襲撃だ！",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "ミニスカートで"
+            },
+            {
+              "text": "襲撃",
+              "reading": "しゅうげき"
+            },
+            {
+              "text": "だ！"
+            }
+          ]
+        },
+        {
+          "text": "（キュン）",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "（キュン）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 17.32005,
+      "end": 18.812372,
+      "japanese": "ギャップ萌えして衝撃だ！（キュン）",
+      "zh-CN": "反差萌带来强烈冲击！（心动）",
+      "segments": [
+        {
+          "text": "ギャップ萌えして衝撃だ！",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "ギャップ"
+            },
+            {
+              "text": "萌",
+              "reading": "も"
+            },
+            {
+              "text": "えして"
+            },
+            {
+              "text": "衝撃",
+              "reading": "しょうげき"
+            },
+            {
+              "text": "だ！"
+            }
+          ]
+        },
+        {
+          "text": "（キュン）",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "（キュン）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 18.812372,
+      "end": 22.0539,
+      "japanese": "恋の妄想　回路暴走　デマ デマ ホラ（ブーブー）",
+      "zh-CN": "恋爱的妄想 电路暴走 谣言 谣言 吹牛（嘘声）",
+      "segments": [
+        {
+          "text": "恋の妄想　回路暴走　デマ デマ ホラ",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "恋",
+              "reading": "こい"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "妄想",
+              "reading": "もうそう"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "回路暴走",
+              "reading": "かいろぼうそう"
+            },
+            {
+              "text": "　デマ デマ ホラ"
+            }
+          ]
+        },
+        {
+          "text": "（ブーブー）",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "（ブーブー）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 22.0539,
+      "end": 24.531775,
+      "japanese": "「だ、だ、だ、だ、大好き」　告ってちょーだいよ（ハイ　ハイ）",
+      "zh-CN": "“最、最、最、最、喜欢你” 快向我告白吧（嗨 嗨）",
+      "segments": [
+        {
+          "text": "「だ、だ、だ、だ、大好き」　告ってちょーだいよ",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "「だ、だ、だ、だ、"
+            },
+            {
+              "text": "大好",
+              "reading": "だいす"
+            },
+            {
+              "text": "き」　"
+            },
+            {
+              "text": "告",
+              "reading": "こく"
+            },
+            {
+              "text": "ってちょーだいよ"
+            }
+          ]
+        },
+        {
+          "text": "（ハイ　ハイ）",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "（ハイ　ハイ）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 24.724687,
+      "end": 27.049632,
+      "japanese": "だっちゅーけどクールに　ルーズビート聴かせて",
+      "zh-CN": "虽这么说但还要保持帅气 让我听听那随性节拍",
+      "segments": [
+        {
+          "text": "だっちゅーけどクールに　ルーズビート",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "だっちゅーけどクールに　ルーズビート"
+            }
+          ]
+        },
+        {
+          "text": "聴かせて",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "聴",
+              "reading": "き"
+            },
+            {
+              "text": "かせて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 27.719327,
+      "end": 28.662899,
+      "japanese": "バリバリチューン",
+      "zh-CN": "超带感曲调",
+      "segments": [
+        {
+          "text": "バリバリチューン",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "バリバリチューン"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 33.29,
+      "end": 34.8,
+      "japanese": "ププ ヘイ ヘイ ヘイ ヘイ ププ",
+      "zh-CN": "噗噗 嘿 嘿 嘿 嘿 噗噗",
+      "segments": [
+        {
+          "text": "ププ ",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "ププ "
+            }
+          ]
+        },
+        {
+          "text": "ヘイ ヘイ ヘイ ヘイ ",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "ヘイ ヘイ ヘイ ヘイ "
+            }
+          ]
+        },
+        {
+          "text": "ププ",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "ププ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "display_japanese": "ヘイ",
+      "display_zh-CN": "嘿",
+      "display_segments": [
+        {
+          "text": "ヘイ",
+          "performerIds": [
+            "歌唱者-07"
+          ]
+        }
+      ],
+      "partial_text": true,
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "index": 9,
+      "start": 39.86,
+      "end": 41.44,
+      "japanese": "「じゃじゃじゃじゃ～ん！」",
+      "zh-CN": "“锵锵锵锵——！”",
+      "segments": [
+        {
+          "text": "「じゃじゃじゃじゃ～ん！」",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "「じゃじゃじゃじゃ～ん！」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 41.686984,
+      "end": 44.747594,
+      "japanese": "切なくても　やるせなくても",
+      "zh-CN": "哪怕悲伤 哪怕无可奈何",
+      "segments": [
+        {
+          "text": "切なくても　やるせなくても",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "切",
+              "reading": "せつ"
+            },
+            {
+              "text": "なくても　やるせなくても"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 44.8385,
+      "end": 48.1785,
+      "japanese": "（カバディ、カバディ・・・Fight!）「もぅ！」",
+      "zh-CN": "（卡巴迪、卡巴迪……Fight!）“真是的！”",
+      "segments": [
+        {
+          "text": "（カバディ、カバディ・・・Fight!）「もぅ！」",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "（カバディ、カバディ・・・Fight!）「もぅ！」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 48.169041,
+      "end": 51.105707,
+      "japanese": "あの娘になんて　なれないから",
+      "zh-CN": "既然根本成不了那个女孩",
+      "segments": [
+        {
+          "text": "あの娘になんて　なれないから",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "あの"
+            },
+            {
+              "text": "娘",
+              "reading": "こ"
+            },
+            {
+              "text": "になんて　なれないから"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 51.3055,
+      "end": 54.1035,
+      "japanese": "（カバディ、カバディ・・・Fight!） ",
+      "zh-CN": "（卡巴迪、卡巴迪……Fight!）",
+      "segments": [
+        {
+          "text": "（カバディ、カバディ・・・Fight!） ",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "（カバディ、カバディ・・・Fight!） "
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 54.838012,
+      "end": 60.702349,
+      "japanese": "ありのままの自分を　愛せれば Que sera sera",
+      "zh-CN": "只要能去爱原本真实的自己 Que sera sera",
+      "segments": [
+        {
+          "text": "ありのままの自分を　",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "ありのままの"
+            },
+            {
+              "text": "自分",
+              "reading": "じぶん"
+            },
+            {
+              "text": "を　"
+            }
+          ]
+        },
+        {
+          "text": "愛せれば Que sera sera",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "愛",
+              "reading": "あい"
+            },
+            {
+              "text": "せれば Que sera sera"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 61.351054,
+      "end": 68.970594,
+      "japanese": "今はひとりぼっちの　君に歌をあげる",
+      "zh-CN": "献给如今形单影只的你这首歌曲",
+      "segments": [
+        {
+          "text": "今はひとりぼっちの　",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "今",
+              "reading": "いま"
+            },
+            {
+              "text": "はひとりぼっちの　"
+            }
+          ]
+        },
+        {
+          "text": "君に歌をあげる",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "歌",
+              "reading": "うた"
+            },
+            {
+              "text": "をあげる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 61.351054,
+      "end": 68.970594,
+      "japanese": "「ハイ！どうぞ」",
+      "zh-CN": "“嗨！请收下吧”",
+      "segments": [
+        {
+          "text": "「ハイ！どうぞ」",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "「ハイ！どうぞ」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 69.44238,
+      "end": 70.700808,
+      "japanese": "ビビビビビ・・・",
+      "zh-CN": "哔哔哔哔哔……",
+      "segments": [
+        {
+          "text": "ビビビビビ・・・",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "ビビビビビ・・・"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 70.700808,
+      "end": 73.935339,
+      "japanese": "ビバ！ ビバ！ ハッピー (chu lu chu chu)",
+      "zh-CN": "Viva！Viva！Happy (chu lu chu chu)",
+      "segments": [
+        {
+          "text": "ビバ！ ビバ！ ハッピー (chu lu chu chu)",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "ビバ！ ビバ！ ハッピー (chu lu chu chu)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 73.935339,
+      "end": 77.17187,
+      "japanese": "ビバ！ ビバ！ ハッピー (chu lu chu chu)",
+      "zh-CN": "Viva！Viva！Happy (chu lu chu chu)",
+      "segments": [
+        {
+          "text": "ビバ！ ビバ！ ハッピー (chu lu chu chu)",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "ビバ！ ビバ！ ハッピー (chu lu chu chu)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 77.1125,
+      "end": 82.05612,
+      "japanese": "イヤイヤ　争いはしない主義",
+      "zh-CN": "不要不要 奉行不参与争斗主义",
+      "segments": [
+        {
+          "text": "イヤイヤ　争いはしない主義",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "イヤイヤ　"
+            },
+            {
+              "text": "争",
+              "reading": "あらそ"
+            },
+            {
+              "text": "いはしない"
+            },
+            {
+              "text": "主義",
+              "reading": "しゅぎ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 82.37425,
+      "end": 83.60525,
+      "japanese": "No No Non Non ",
+      "zh-CN": "No No Non Non",
+      "segments": [
+        {
+          "text": "No No Non Non ",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "No No Non Non "
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000023",
+      "order": 22,
+      "index": 22,
+      "start": 83.613935,
+      "end": 86.843468,
+      "japanese": "ビバ！ ビバ！ ハッピー (chu lu chu chu)",
+      "zh-CN": "Viva！Viva！Happy (chu lu chu chu)",
+      "segments": [
+        {
+          "text": "ビバ！ ビバ！ ハッピー (chu lu chu chu)",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "ビバ！ ビバ！ ハッピー (chu lu chu chu)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000024",
+      "order": 23,
+      "index": 23,
+      "start": 86.843468,
+      "end": 90.089994,
+      "japanese": "ビバ！ ビバ！ ハッピー (chu lu chu chu)",
+      "zh-CN": "Viva！Viva！Happy (chu lu chu chu)",
+      "segments": [
+        {
+          "text": "ビバ！ ビバ！ ハッピー (chu lu chu chu)",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "ビバ！ ビバ！ ハッピー (chu lu chu chu)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000025",
+      "order": 24,
+      "index": 24,
+      "start": 90.05225,
+      "end": 93.68025,
+      "japanese": "ポロポロ　涙して",
+      "zh-CN": "扑嗒扑嗒 落下泪水",
+      "segments": [
+        {
+          "text": "ポロポロ　涙して",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "ポロポロ　"
+            },
+            {
+              "text": "涙",
+              "reading": "なみだ"
+            },
+            {
+              "text": "して"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000026",
+      "order": 25,
+      "index": 25,
+      "start": 93.68025,
+      "end": 96.66325,
+      "japanese": "「そんなに世間は甘くない！」",
+      "zh-CN": "“世道可没有那么简单！”",
+      "segments": [
+        {
+          "text": "「そんなに世間は甘くない！」",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "「そんなに"
+            },
+            {
+              "text": "世間",
+              "reading": "せけん"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "甘",
+              "reading": "あま"
+            },
+            {
+              "text": "くない！」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 26,
+      "start": 95.15,
+      "end": 97.186771,
+      "japanese": "ビビビビビバ！",
+      "zh-CN": "Viviviviviva！",
+      "segments": [
+        {
+          "text": "ビビビビビバ！",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "ビビビビビバ！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

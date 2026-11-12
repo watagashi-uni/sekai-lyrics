@@ -1,0 +1,899 @@
+{
+  "music_id": 743,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-04",
+      "name": "日野森志歩"
+    },
+    {
+      "performerId": "歌唱者-05",
+      "name": "花里みのり"
+    },
+    {
+      "performerId": "歌唱者-10",
+      "name": "白石杏"
+    },
+    {
+      "performerId": "歌唱者-13",
+      "name": "天馬司"
+    },
+    {
+      "performerId": "歌唱者-22",
+      "name": "鏡音リン"
+    },
+    {
+      "performerId": "歌唱者-23",
+      "name": "鏡音レン"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 16.863,
+      "end": 19.176,
+      "japanese": "いつから結果主義に変わっちゃった？",
+      "zh-CN": "到底从何时开始 人们都变得唯结果论了？",
+      "segments": [
+        {
+          "text": "いつから結果主義に変わっちゃった？",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "いつから"
+            },
+            {
+              "text": "結果主義",
+              "reading": "けっかしゅぎ"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "変",
+              "reading": "か"
+            },
+            {
+              "text": "わっちゃった？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 19.176,
+      "end": 20.305,
+      "japanese": "モチベーション　妄想",
+      "zh-CN": "驱动力 妄想",
+      "segments": [
+        {
+          "text": "モチベーション　",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "モチベーション　"
+            }
+          ]
+        },
+        {
+          "text": "妄想",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "妄想",
+              "reading": "もうそう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 20.305,
+      "end": 23.723,
+      "japanese": "止まない拍手喝采　Congratulations!",
+      "zh-CN": "永不停息的掌声雷动 Congratulations!",
+      "segments": [
+        {
+          "text": "止まない拍手喝采　Congratulations!",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "止",
+              "reading": "や"
+            },
+            {
+              "text": "まない"
+            },
+            {
+              "text": "拍手喝采",
+              "reading": "はくしゅかっさい"
+            },
+            {
+              "text": "　Congratulations!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 23.723,
+      "end": 25.179,
+      "japanese": "点数なんかは気にしない",
+      "zh-CN": "根本不在意分数如何",
+      "segments": [
+        {
+          "text": "点数なんかは気にしない",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "点数",
+              "reading": "てんすう"
+            },
+            {
+              "text": "なんかは"
+            },
+            {
+              "text": "気",
+              "reading": "き"
+            },
+            {
+              "text": "にしない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 25.179,
+      "end": 26.772,
+      "japanese": "だけど一度は手にしたい",
+      "zh-CN": "但也想亲手夺得一次",
+      "segments": [
+        {
+          "text": "だけど一度は手にしたい",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "だけど"
+            },
+            {
+              "text": "一度",
+              "reading": "いちど"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "手",
+              "reading": "て"
+            },
+            {
+              "text": "にしたい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 26.772,
+      "end": 30.37,
+      "japanese": "期待とプライド　意外とイージーじゃない",
+      "zh-CN": "期待与自尊 出乎意料地并不简单",
+      "segments": [
+        {
+          "text": "期待と",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "期待",
+              "reading": "きたい"
+            },
+            {
+              "text": "と"
+            }
+          ]
+        },
+        {
+          "text": "プライド　",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "プライド　"
+            }
+          ]
+        },
+        {
+          "text": "意外とイージーじゃない",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "意外",
+              "reading": "いがい"
+            },
+            {
+              "text": "とイージーじゃない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 30.37,
+      "end": 33.78,
+      "japanese": "夢を追いかける道のりで",
+      "zh-CN": "在追逐梦想的漫长路途上",
+      "segments": [
+        {
+          "text": "夢を追いかける道のりで",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "夢",
+              "reading": "ゆめ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "追",
+              "reading": "お"
+            },
+            {
+              "text": "いかける"
+            },
+            {
+              "text": "道",
+              "reading": "みち"
+            },
+            {
+              "text": "のりで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 33.78,
+      "end": 37.44,
+      "japanese": "捨てられないものばかり増えてきて",
+      "zh-CN": "无法舍弃的事物却越来越繁多",
+      "segments": [
+        {
+          "text": "捨てられないものばかり増えてきて",
+          "performerIds": [
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "捨",
+              "reading": "す"
+            },
+            {
+              "text": "てられないものばかり"
+            },
+            {
+              "text": "増",
+              "reading": "ふ"
+            },
+            {
+              "text": "えてきて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 37.44,
+      "end": 44.184,
+      "japanese": "一番底で埋もれてしまったんだ",
+      "zh-CN": "最终被掩埋在了最深的最底层",
+      "segments": [
+        {
+          "text": "一番",
+          "performerIds": [
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "一番",
+              "reading": "いちばん"
+            }
+          ]
+        },
+        {
+          "text": "底で埋もれてしまったんだ",
+          "performerIds": [
+            "歌唱者-04",
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "底",
+              "reading": "そこ"
+            },
+            {
+              "text": "で"
+            },
+            {
+              "text": "埋",
+              "reading": "う"
+            },
+            {
+              "text": "もれてしまったんだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 44.184,
+      "end": 51.394,
+      "japanese": "一体全体　何が正解？",
+      "zh-CN": "到底什么才是正确答案？",
+      "segments": [
+        {
+          "text": "一体全体　",
+          "performerIds": [
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "一体全体",
+              "reading": "いったいぜんたい"
+            },
+            {
+              "text": "　"
+            }
+          ]
+        },
+        {
+          "text": "何が正解？",
+          "performerIds": [
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "何",
+              "reading": "なに"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "正解",
+              "reading": "せいかい"
+            },
+            {
+              "text": "？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 51.394,
+      "end": 58.677,
+      "japanese": "単純明快　聞こえるかい？",
+      "zh-CN": "单纯明了 你听得见吗？",
+      "segments": [
+        {
+          "text": "単純明快　",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "単純明快",
+              "reading": "たんじゅんめいかい"
+            },
+            {
+              "text": "　"
+            }
+          ]
+        },
+        {
+          "text": "聞こえるかい？",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "聞",
+              "reading": "き"
+            },
+            {
+              "text": "こえるかい？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 58.677,
+      "end": 61.9,
+      "japanese": "もう一回　リマインドして",
+      "zh-CN": "再一次 重新唤醒记忆",
+      "segments": [
+        {
+          "text": "もう一回　リマインドして",
+          "performerIds": [
+            "歌唱者-04",
+            "歌唱者-05",
+            "歌唱者-10",
+            "歌唱者-13",
+            "歌唱者-22",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "もう"
+            },
+            {
+              "text": "一回",
+              "reading": "いっかい"
+            },
+            {
+              "text": "　リマインドして"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 61.9,
+      "end": 66.054,
+      "japanese": "楽しくて無我夢中な日々を",
+      "zh-CN": "追忆那快乐又全神贯注的日子",
+      "segments": [
+        {
+          "text": "楽しくて無我夢中な日々を",
+          "performerIds": [
+            "歌唱者-04",
+            "歌唱者-05",
+            "歌唱者-10",
+            "歌唱者-13",
+            "歌唱者-22",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "楽",
+              "reading": "たの"
+            },
+            {
+              "text": "しくて"
+            },
+            {
+              "text": "無我夢中",
+              "reading": "むがむちゅう"
+            },
+            {
+              "text": "な"
+            },
+            {
+              "text": "日々",
+              "reading": "ひび"
+            },
+            {
+              "text": "を"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 66.054,
+      "end": 68.821,
+      "japanese": "いつも描いていた",
+      "zh-CN": "将一直描绘在心中的",
+      "segments": [
+        {
+          "text": "いつも描いていた",
+          "performerIds": [
+            "歌唱者-04",
+            "歌唱者-05",
+            "歌唱者-10",
+            "歌唱者-13",
+            "歌唱者-22",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "いつも"
+            },
+            {
+              "text": "描",
+              "reading": "えが"
+            },
+            {
+              "text": "いていた"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 68.821,
+      "end": 73.235,
+      "japanese": "ウソ偽りのない気持ちを",
+      "zh-CN": "毫无虚假谎言的真情实感",
+      "segments": [
+        {
+          "text": "ウソ偽りのない気持ちを",
+          "performerIds": [
+            "歌唱者-04",
+            "歌唱者-05",
+            "歌唱者-10",
+            "歌唱者-13",
+            "歌唱者-22",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "ウソ"
+            },
+            {
+              "text": "偽",
+              "reading": "いつわ"
+            },
+            {
+              "text": "りのない"
+            },
+            {
+              "text": "気持",
+              "reading": "きも"
+            },
+            {
+              "text": "ちを"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 73.235,
+      "end": 76.075,
+      "japanese": "永遠にリピートして",
+      "zh-CN": "永远循环播放下去",
+      "segments": [
+        {
+          "text": "永遠にリピートして",
+          "performerIds": [
+            "歌唱者-04",
+            "歌唱者-05",
+            "歌唱者-10",
+            "歌唱者-13",
+            "歌唱者-22",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "永遠",
+              "reading": "えいえん"
+            },
+            {
+              "text": "にリピートして"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 76.075,
+      "end": 79.638,
+      "japanese": "鼓動が奏でるリズムを",
+      "zh-CN": "将心跳所奏响的节拍",
+      "segments": [
+        {
+          "text": "鼓動が奏でるリズムを",
+          "performerIds": [
+            "歌唱者-04",
+            "歌唱者-05",
+            "歌唱者-10",
+            "歌唱者-13",
+            "歌唱者-22",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "鼓動",
+              "reading": "こどう"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "奏",
+              "reading": "かな"
+            },
+            {
+              "text": "でるリズムを"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 79.638,
+      "end": 84.195,
+      "japanese": "ほら、あの日の心拍数で",
+      "zh-CN": "瞧啊，伴着那一天的脉搏心跳",
+      "segments": [
+        {
+          "text": "ほら、あの日の心拍数で",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "ほら、あの"
+            },
+            {
+              "text": "日",
+              "reading": "ひ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "心拍数",
+              "reading": "しんぱくすう"
+            },
+            {
+              "text": "で"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 84.195,
+      "end": 89.776,
+      "japanese": "今日も歌っている",
+      "zh-CN": "今天也依然在放声歌唱",
+      "segments": [
+        {
+          "text": "今日も",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "今日",
+              "reading": "きょう"
+            },
+            {
+              "text": "も"
+            }
+          ]
+        },
+        {
+          "text": "歌っている",
+          "performerIds": [
+            "歌唱者-04",
+            "歌唱者-05",
+            "歌唱者-10",
+            "歌唱者-13",
+            "歌唱者-22",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "歌",
+              "reading": "うた"
+            },
+            {
+              "text": "っている"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 89.776,
+      "end": 93.188,
+      "japanese": "奏でている",
+      "zh-CN": "奏响着旋律",
+      "segments": [
+        {
+          "text": "奏でている",
+          "performerIds": [
+            "歌唱者-04",
+            "歌唱者-05",
+            "歌唱者-10",
+            "歌唱者-13",
+            "歌唱者-22",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "奏",
+              "reading": "かな"
+            },
+            {
+              "text": "でている"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 93.188,
+      "end": 97.7,
+      "japanese": "ドリーマーズビート",
+      "zh-CN": "追梦者的节拍",
+      "segments": [
+        {
+          "text": "ドリーマーズビート",
+          "performerIds": [
+            "歌唱者-04",
+            "歌唱者-05",
+            "歌唱者-10",
+            "歌唱者-13",
+            "歌唱者-22",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "ドリーマーズビート"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 97.7,
+      "end": 98.15,
+      "japanese": "(Oh)",
+      "zh-CN": "(Oh)",
+      "segments": [
+        {
+          "text": "(Oh)",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "(Oh)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

@@ -1,0 +1,568 @@
+{
+  "music_id": 55,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-09",
+      "name": "小豆沢こはね"
+    },
+    {
+      "performerId": "歌唱者-10",
+      "name": "白石杏"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 29.763,
+      "end": 36.867,
+      "japanese": "ねぇ今日もすれ違い 焦っては躓いてばっか",
+      "zh-CN": "今天也总是错身而过 一着急就只会跌跌撞撞",
+      "segments": [
+        {
+          "text": "ねぇ今日もすれ違い 焦っては躓いてばっか",
+          "performerIds": [
+            "歌唱者-09"
+          ],
+          "ruby": [
+            {
+              "text": "ねぇ"
+            },
+            {
+              "text": "今日",
+              "reading": "きょう"
+            },
+            {
+              "text": "もすれ"
+            },
+            {
+              "text": "違",
+              "reading": "ちが"
+            },
+            {
+              "text": "い "
+            },
+            {
+              "text": "焦",
+              "reading": "あせ"
+            },
+            {
+              "text": "っては"
+            },
+            {
+              "text": "躓",
+              "reading": "つまず"
+            },
+            {
+              "text": "いてばっか"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 36.867,
+      "end": 43.464,
+      "japanese": "大丈夫 信じてよ 本番はこれからなんだから",
+      "zh-CN": "没事的 相信我吧 真正的舞台才正要开始",
+      "segments": [
+        {
+          "text": "大丈夫 信じてよ 本番はこれからなんだから",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "大丈夫",
+              "reading": "だいじょうぶ"
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "信",
+              "reading": "しん"
+            },
+            {
+              "text": "じてよ "
+            },
+            {
+              "text": "本番",
+              "reading": "ほんばん"
+            },
+            {
+              "text": "はこれからなんだから"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 43.464,
+      "end": 50.32,
+      "japanese": "がむしゃらに急いでも 簡単に行くはずも無いし",
+      "zh-CN": "就算不顾一切地往前赶 也不可能那么轻易顺利",
+      "segments": [
+        {
+          "text": "がむしゃらに急いでも 簡単に行くはずも無いし",
+          "performerIds": [
+            "歌唱者-09"
+          ],
+          "ruby": [
+            {
+              "text": "がむしゃらに"
+            },
+            {
+              "text": "急",
+              "reading": "いそ"
+            },
+            {
+              "text": "いでも "
+            },
+            {
+              "text": "簡単",
+              "reading": "かんたん"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "行",
+              "reading": "い"
+            },
+            {
+              "text": "くはずも"
+            },
+            {
+              "text": "無",
+              "reading": "な"
+            },
+            {
+              "text": "いし"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 50.32,
+      "end": 54.122,
+      "japanese": "大切なことは今 手を取って進むこと",
+      "zh-CN": "现在最重要的 是牵起手一起前进",
+      "segments": [
+        {
+          "text": "大切なことは今 手を取って進むこと",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "大切",
+              "reading": "たいせつ"
+            },
+            {
+              "text": "なことは"
+            },
+            {
+              "text": "今",
+              "reading": "いま"
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "手",
+              "reading": "て"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "取",
+              "reading": "と"
+            },
+            {
+              "text": "って"
+            },
+            {
+              "text": "進",
+              "reading": "すす"
+            },
+            {
+              "text": "むこと"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 56.857,
+      "end": 63.711,
+      "japanese": "同じ夢を見ていることを忘れないで（どんなときも）",
+      "zh-CN": "别忘了我们正看着同一个梦想（无论何时）",
+      "segments": [
+        {
+          "text": "同じ夢を見ていることを忘れないで",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "同",
+              "reading": "おな"
+            },
+            {
+              "text": "じ"
+            },
+            {
+              "text": "夢",
+              "reading": "ゆめ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "ていることを"
+            },
+            {
+              "text": "忘",
+              "reading": "わす"
+            },
+            {
+              "text": "れないで"
+            }
+          ]
+        },
+        {
+          "text": "（どんなときも）",
+          "performerIds": [
+            "歌唱者-09"
+          ],
+          "ruby": [
+            {
+              "text": "（どんなときも）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 63.711,
+      "end": 68.692,
+      "japanese": "不安も焦りも乗り越えて「僕らだけ」を歌うよ",
+      "zh-CN": "跨过不安和焦躁 唱出“只属于我们”的歌",
+      "segments": [
+        {
+          "text": "不安も焦りも乗り越えて「僕らだけ」を歌うよ",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "不安",
+              "reading": "ふあん"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "焦",
+              "reading": "あせ"
+            },
+            {
+              "text": "りも"
+            },
+            {
+              "text": "乗",
+              "reading": "の"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "越",
+              "reading": "こ"
+            },
+            {
+              "text": "えて「"
+            },
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "らだけ」を"
+            },
+            {
+              "text": "歌",
+              "reading": "うた"
+            },
+            {
+              "text": "うよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 72.085,
+      "end": 78.876,
+      "japanese": "描こう未来 掴もう夢 僕ら心合わせれば",
+      "zh-CN": "描绘未来 抓住梦想 只要我们心意相合",
+      "segments": [
+        {
+          "text": "描こう未来 掴もう夢 僕ら心合わせれば",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "描",
+              "reading": "えが"
+            },
+            {
+              "text": "こう"
+            },
+            {
+              "text": "未来",
+              "reading": "みらい"
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "掴",
+              "reading": "つか"
+            },
+            {
+              "text": "もう"
+            },
+            {
+              "text": "夢",
+              "reading": "ゆめ"
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "ら"
+            },
+            {
+              "text": "心合",
+              "reading": "こころあ"
+            },
+            {
+              "text": "わせれば"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 78.876,
+      "end": 85.741,
+      "japanese": "いつまでも どこまでも 進んで行ける（これから）",
+      "zh-CN": "无论多久 无论多远 都能继续前进（从今以后）",
+      "segments": [
+        {
+          "text": "いつまでも ",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "いつまでも "
+            }
+          ]
+        },
+        {
+          "text": "どこまでも ",
+          "performerIds": [
+            "歌唱者-09"
+          ],
+          "ruby": [
+            {
+              "text": "どこまでも "
+            }
+          ]
+        },
+        {
+          "text": "進んで行ける",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "進",
+              "reading": "すす"
+            },
+            {
+              "text": "んで"
+            },
+            {
+              "text": "行",
+              "reading": "い"
+            },
+            {
+              "text": "ける"
+            }
+          ]
+        },
+        {
+          "text": "（これから）",
+          "performerIds": [
+            "歌唱者-09"
+          ],
+          "ruby": [
+            {
+              "text": "（これから）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 85.741,
+      "end": 92.644,
+      "japanese": "輝くストーリー 色鮮やかに歌う声を重ねて",
+      "zh-CN": "让歌声交叠 为闪耀的故事染上鲜明色彩",
+      "segments": [
+        {
+          "text": "輝くストーリー 色鮮やかに歌う声を重ねて",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "輝",
+              "reading": "かがや"
+            },
+            {
+              "text": "くストーリー "
+            },
+            {
+              "text": "色鮮",
+              "reading": "いろあざ"
+            },
+            {
+              "text": "やかに"
+            },
+            {
+              "text": "歌",
+              "reading": "うた"
+            },
+            {
+              "text": "う"
+            },
+            {
+              "text": "声",
+              "reading": "こえ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "重",
+              "reading": "かさ"
+            },
+            {
+              "text": "ねて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 92.644,
+      "end": 98.424,
+      "japanese": "夢を叶えよう keep going forward!",
+      "zh-CN": "一起实现梦想吧 keep going forward!",
+      "segments": [
+        {
+          "text": "夢を叶えよう keep going forward!",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "夢",
+              "reading": "ゆめ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "叶",
+              "reading": "かな"
+            },
+            {
+              "text": "えよう keep going forward!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

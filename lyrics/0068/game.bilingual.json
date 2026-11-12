@@ -1,0 +1,845 @@
+{
+  "music_id": 68,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-14",
+      "name": "鳳えむ"
+    },
+    {
+      "performerId": "歌唱者-15",
+      "name": "草薙寧々"
+    },
+    {
+      "performerId": "歌唱者-21",
+      "name": "初音ミク"
+    }
+  ],
+  "lines": [
+    {
+      "index": 0,
+      "start": 28.832,
+      "end": 31.426,
+      "japanese": "DANCE! 自在のステップトゥステップだって",
+      "zh-CN": "起舞吧！ 自由自在地迈开每一步骤",
+      "segments": [
+        {
+          "text": "DANCE! ",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "DANCE! "
+            }
+          ]
+        },
+        {
+          "text": "自在のステップトゥステップだって",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "自在",
+              "reading": "じざい"
+            },
+            {
+              "text": "のステップトゥステップだって"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 1,
+      "start": 31.566866,
+      "end": 33.990396,
+      "japanese": "プログラムの範疇さ",
+      "zh-CN": "也不过是程序设定的范畴内",
+      "segments": [
+        {
+          "text": "プログラムの範疇さ",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "プログラムの"
+            },
+            {
+              "text": "範疇",
+              "reading": "はんちゅう"
+            },
+            {
+              "text": "さ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 2,
+      "start": 33.991397,
+      "end": 36.129747,
+      "japanese": "YOU! 呼吸を乱している？",
+      "zh-CN": "YOU! 呼吸乱了节拍吗？",
+      "segments": [
+        {
+          "text": "YOU! 呼吸を乱している？",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "YOU! "
+            },
+            {
+              "text": "呼吸",
+              "reading": "こきゅう"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "乱",
+              "reading": "みだ"
+            },
+            {
+              "text": "している？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 3,
+      "start": 36.130748,
+      "end": 38.303119,
+      "japanese": "なんて非効率的でしょう",
+      "zh-CN": "多么缺乏效率啊",
+      "segments": [
+        {
+          "text": "なんて非効率的でしょう",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "なんて"
+            },
+            {
+              "text": "非効率的",
+              "reading": "ひこうりつてき"
+            },
+            {
+              "text": "でしょう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 4,
+      "start": 38.30412,
+      "end": 44.080767,
+      "japanese": "ロボットダンス",
+      "zh-CN": "Robot dance",
+      "segments": [
+        {
+          "text": "ロボットダンス",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "ロボットダンス"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 5,
+      "start": 44.081768,
+      "end": 46.263145,
+      "japanese": "LOCK! 交わしてアイトゥアイ",
+      "zh-CN": "锁定！ 彼此视线深深交汇",
+      "segments": [
+        {
+          "text": "LOCK! 交わしてアイトゥアイ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "LOCK! "
+            },
+            {
+              "text": "交",
+              "reading": "か"
+            },
+            {
+              "text": "わしてアイトゥアイ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 6,
+      "start": 46.264146,
+      "end": 48.780735,
+      "japanese": "すでに次元も超えた戦場だ",
+      "zh-CN": "早已是超越次元的战场",
+      "segments": [
+        {
+          "text": "すでに次元も超えた戦場だ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "すでに"
+            },
+            {
+              "text": "次元",
+              "reading": "じげん"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "超",
+              "reading": "こ"
+            },
+            {
+              "text": "えた"
+            },
+            {
+              "text": "戦場",
+              "reading": "せんじょう"
+            },
+            {
+              "text": "だ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 7,
+      "start": 48.780735,
+      "end": 51.246292,
+      "japanese": "アイ 思考を乱している",
+      "zh-CN": "I 思绪彻底混乱",
+      "segments": [
+        {
+          "text": "アイ 思考を乱している",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "アイ "
+            },
+            {
+              "text": "思考",
+              "reading": "しこう"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "乱",
+              "reading": "みだ"
+            },
+            {
+              "text": "している"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 8,
+      "start": 51.247293,
+      "end": 52.642173,
+      "japanese": "胸が高鳴っていく",
+      "zh-CN": "胸口剧烈跳动",
+      "segments": [
+        {
+          "text": "胸が高鳴っていく",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "胸",
+              "reading": "むね"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "高鳴",
+              "reading": "たかな"
+            },
+            {
+              "text": "っていく"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 9,
+      "start": 52.643174,
+      "end": 54.338244,
+      "japanese": "インプット",
+      "zh-CN": "Input",
+      "segments": [
+        {
+          "text": "インプット",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "インプット"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 10,
+      "start": 54.339245,
+      "end": 55.380903,
+      "japanese": "UP SIDE",
+      "zh-CN": "上 方",
+      "segments": [
+        {
+          "text": "UP SIDE",
+          "performerIds": [
+            "歌唱者-15",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "UP SIDE"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 11,
+      "start": 55.381903,
+      "end": 56.608678,
+      "japanese": "UP SIDE DOWN",
+      "zh-CN": "上 下 颠 倒",
+      "segments": [
+        {
+          "text": "UP SIDE DOWN",
+          "performerIds": [
+            "歌唱者-15",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "UP SIDE DOWN"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 12,
+      "start": 56.609678,
+      "end": 59.106255,
+      "japanese": "UP SIDE DOWN SIDE UP AND DOWN",
+      "zh-CN": "上 方 下 方 上 下 颠 倒",
+      "segments": [
+        {
+          "text": "UP SIDE DOWN SIDE UP AND DOWN",
+          "performerIds": [
+            "歌唱者-15",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "UP SIDE DOWN SIDE UP AND DOWN"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 13,
+      "start": 59.107255,
+      "end": 60.184936,
+      "japanese": "LEFT SIDE",
+      "zh-CN": "左 侧",
+      "segments": [
+        {
+          "text": "LEFT SIDE",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "LEFT SIDE"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 14,
+      "start": 60.185937,
+      "end": 61.472749,
+      "japanese": "LEFT SIDE RIGHT",
+      "zh-CN": "左 侧 右 侧",
+      "segments": [
+        {
+          "text": "LEFT SIDE RIGHT",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "LEFT SIDE RIGHT"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 15,
+      "start": 61.47375,
+      "end": 64.341561,
+      "japanese": "LEFT RIGHT UP DOWN YOU AND ME",
+      "zh-CN": "左 右 上 下 你 与 我",
+      "segments": [
+        {
+          "text": "LEFT RIGHT UP DOWN ",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "LEFT RIGHT UP DOWN "
+            }
+          ]
+        },
+        {
+          "text": "YOU AND ME",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "YOU AND ME"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 16,
+      "start": 64.342561,
+      "end": 68.772358,
+      "japanese": "ときめく心のモーションが",
+      "zh-CN": "令人心动的动作指令",
+      "segments": [
+        {
+          "text": "ときめく心のモーションが",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ときめく"
+            },
+            {
+              "text": "心",
+              "reading": "こころ"
+            },
+            {
+              "text": "のモーションが"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 17,
+      "start": 68.773359,
+      "end": 74.389905,
+      "japanese": "あなたに共鳴して止まないの！",
+      "zh-CN": "与你产生共鸣久久不停！",
+      "segments": [
+        {
+          "text": "あなたに共鳴して止まないの！",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "あなたに"
+            },
+            {
+              "text": "共鳴",
+              "reading": "きょうめい"
+            },
+            {
+              "text": "して"
+            },
+            {
+              "text": "止",
+              "reading": "や"
+            },
+            {
+              "text": "まないの！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 18,
+      "start": 74.390906,
+      "end": 78.866732,
+      "japanese": "合理とは真逆のプログラム",
+      "zh-CN": "与合理背道而驰的程序",
+      "segments": [
+        {
+          "text": "合理とは真逆のプログラム",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "合理",
+              "reading": "ごうり"
+            },
+            {
+              "text": "とは"
+            },
+            {
+              "text": "真逆",
+              "reading": "まぎゃく"
+            },
+            {
+              "text": "のプログラム"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 19,
+      "start": 78.867733,
+      "end": 81.072125,
+      "japanese": "知りたい 知りたい",
+      "zh-CN": "想要知晓 想要知晓",
+      "segments": [
+        {
+          "text": "知りたい 知りたい",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "知",
+              "reading": "し"
+            },
+            {
+              "text": "りたい "
+            },
+            {
+              "text": "知",
+              "reading": "し"
+            },
+            {
+              "text": "りたい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 20,
+      "start": 81.073125,
+      "end": 84.540315,
+      "japanese": "ねえもっと 付きあって！",
+      "zh-CN": "呐 再多陪陪我吧！",
+      "segments": [
+        {
+          "text": "ねえもっと 付きあって！",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ねえもっと "
+            },
+            {
+              "text": "付",
+              "reading": "つ"
+            },
+            {
+              "text": "きあって！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 21,
+      "start": 84.399,
+      "end": 86.149,
+      "japanese": "ダンスロボットダンス",
+      "zh-CN": "Dance robot dance",
+      "segments": [
+        {
+          "text": "ダンスロボットダンス",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ダンスロボットダンス"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 22,
+      "start": 86.335858,
+      "end": 87.459567,
+      "japanese": "もーいいかい？",
+      "zh-CN": "准备好了吗？",
+      "segments": [
+        {
+          "text": "もーいいかい？",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "もーいいかい？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 23,
+      "start": 87.466572,
+      "end": 88.980528,
+      "japanese": "ダンスロボットダンス",
+      "zh-CN": "Dance robot dance",
+      "segments": [
+        {
+          "text": "ダンスロボットダンス",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ダンスロボットダンス"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 24,
+      "start": 88.990534,
+      "end": 89.821058,
+      "japanese": "まーだだよ",
+      "zh-CN": "还没好哦",
+      "segments": [
+        {
+          "text": "まーだだよ",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "まーだだよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 25,
+      "start": 89.826061,
+      "end": 91.01181,
+      "japanese": "ダンスロボットダンス",
+      "zh-CN": "Dance robot dance",
+      "segments": [
+        {
+          "text": "ダンスロボットダンス",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ダンスロボットダンス"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 26,
+      "start": 91.021816,
+      "end": 92.307628,
+      "japanese": "もーいいかい？",
+      "zh-CN": "准备好了吗？",
+      "segments": [
+        {
+          "text": "もーいいかい？",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "もーいいかい？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 27,
+      "start": 92.314633,
+      "end": 93.67249,
+      "japanese": "ダンスロボットダンス",
+      "zh-CN": "Dance robot dance",
+      "segments": [
+        {
+          "text": "ダンスロボットダンス",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ダンスロボットダンス"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 28,
+      "start": 93.682496,
+      "end": 94.737162,
+      "japanese": "もーいいよ！",
+      "zh-CN": "已经准备好啦！",
+      "segments": [
+        {
+          "text": "もーいいよ！",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "もーいいよ！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

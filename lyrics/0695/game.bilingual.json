@@ -1,0 +1,1267 @@
+{
+  "music_id": 695,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-01",
+      "name": "星乃一歌"
+    },
+    {
+      "performerId": "歌唱者-02",
+      "name": "天馬咲希"
+    },
+    {
+      "performerId": "歌唱者-03",
+      "name": "望月穂波"
+    },
+    {
+      "performerId": "歌唱者-04",
+      "name": "日野森志歩"
+    },
+    {
+      "performerId": "歌唱者-24",
+      "name": "巡音ルカ"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 9.539,
+      "end": 12.391,
+      "japanese": "最初から待ってた顛末を　",
+      "zh-CN": "从一开始就在等待的结局",
+      "segments": [
+        {
+          "text": "最初から待ってた顛末を　",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "最初",
+              "reading": "さいしょ"
+            },
+            {
+              "text": "から"
+            },
+            {
+              "text": "待",
+              "reading": "ま"
+            },
+            {
+              "text": "ってた"
+            },
+            {
+              "text": "顛末",
+              "reading": "てんまつ"
+            },
+            {
+              "text": "を　"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 12.391,
+      "end": 14.41,
+      "japanese": "この夜に見つけた",
+      "zh-CN": "终于在这个夜晚被发现",
+      "segments": [
+        {
+          "text": "この夜に見つけた",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "この"
+            },
+            {
+              "text": "夜",
+              "reading": "よる"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "つけた"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 14.41,
+      "end": 17.045,
+      "japanese": "慌てて隠して　",
+      "zh-CN": "慌慌张张地藏起来",
+      "segments": [
+        {
+          "text": "慌てて隠して　",
+          "performerIds": [
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "慌",
+              "reading": "あわ"
+            },
+            {
+              "text": "てて"
+            },
+            {
+              "text": "隠",
+              "reading": "かく"
+            },
+            {
+              "text": "して　"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 17.045,
+      "end": 19.602,
+      "japanese": "知らないフリを演じてる",
+      "zh-CN": "佯装毫不知情",
+      "segments": [
+        {
+          "text": "知らないフリを演じてる",
+          "performerIds": [
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "知",
+              "reading": "し"
+            },
+            {
+              "text": "らないフリを"
+            },
+            {
+              "text": "演",
+              "reading": "えん"
+            },
+            {
+              "text": "じてる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 20.215,
+      "end": 23.067,
+      "japanese": "そう例えばいつか四つ残ったピースのように　",
+      "zh-CN": "是啊 就像不知何时剩下的四块拼图",
+      "segments": [
+        {
+          "text": "そう例えばいつか四つ残ったピースのように　",
+          "performerIds": [
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "そう"
+            },
+            {
+              "text": "例",
+              "reading": "たと"
+            },
+            {
+              "text": "えばいつか"
+            },
+            {
+              "text": "四",
+              "reading": "よ"
+            },
+            {
+              "text": "つ"
+            },
+            {
+              "text": "残",
+              "reading": "のこ"
+            },
+            {
+              "text": "ったピースのように　"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 23.067,
+      "end": 27.733,
+      "japanese": "無理矢理に合わせた",
+      "zh-CN": "硬生生拼接在一起",
+      "segments": [
+        {
+          "text": "無理矢理に合わせた",
+          "performerIds": [
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "無理矢理",
+              "reading": "むりやり"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "合",
+              "reading": "あ"
+            },
+            {
+              "text": "わせた"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 23.067,
+      "end": 27.733,
+      "japanese": "形の合間に",
+      "zh-CN": "形状相接的缝隙中",
+      "segments": [
+        {
+          "text": "形の合間に",
+          "performerIds": [
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "形",
+              "reading": "かたち"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "合間",
+              "reading": "あいま"
+            },
+            {
+              "text": "に"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 27.733,
+      "end": 31.385,
+      "japanese": "窮屈をずっと感じている",
+      "zh-CN": "始终感到局促与窒息",
+      "segments": [
+        {
+          "text": "窮屈をずっと感じている",
+          "performerIds": [
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "窮屈",
+              "reading": "きゅうくつ"
+            },
+            {
+              "text": "をずっと"
+            },
+            {
+              "text": "感",
+              "reading": "かん"
+            },
+            {
+              "text": "じている"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 31.386,
+      "end": 35.236,
+      "japanese": "言えない　怖くなって言えない",
+      "zh-CN": "说不出口 害怕得说不出口",
+      "segments": [
+        {
+          "text": "言えない　",
+          "performerIds": [
+            "歌唱者-03",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "言",
+              "reading": "い"
+            },
+            {
+              "text": "えない　"
+            }
+          ]
+        },
+        {
+          "text": "怖くなって言えない",
+          "performerIds": [
+            "歌唱者-03"
+          ],
+          "ruby": [
+            {
+              "text": "怖",
+              "reading": "こわ"
+            },
+            {
+              "text": "くなって"
+            },
+            {
+              "text": "言",
+              "reading": "い"
+            },
+            {
+              "text": "えない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 35.236,
+      "end": 41.372,
+      "japanese": "なんだか崩れてしまいそうで　口を結んだの",
+      "zh-CN": "总觉得一切都会崩塌 于是紧紧闭上了嘴",
+      "segments": [
+        {
+          "text": "なんだか崩れてしまいそうで　口を結んだの",
+          "performerIds": [
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "なんだか"
+            },
+            {
+              "text": "崩",
+              "reading": "くず"
+            },
+            {
+              "text": "れてしまいそうで　"
+            },
+            {
+              "text": "口",
+              "reading": "くち"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "結",
+              "reading": "むす"
+            },
+            {
+              "text": "んだの"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 41.901,
+      "end": 45.91,
+      "japanese": "言えない　どうしかって言えない",
+      "zh-CN": "说不出口 怎么也说不出口",
+      "segments": [
+        {
+          "text": "言えない　",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "言",
+              "reading": "い"
+            },
+            {
+              "text": "えない　"
+            }
+          ]
+        },
+        {
+          "text": "どうしかって言えない",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "どうしかって"
+            },
+            {
+              "text": "言",
+              "reading": "い"
+            },
+            {
+              "text": "えない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 45.91,
+      "end": 50.197,
+      "japanese": "こんな心を解いてくれよ！",
+      "zh-CN": "快来解开这颗封闭的心吧！",
+      "segments": [
+        {
+          "text": "こんな心を解いてくれよ！",
+          "performerIds": [
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "こんな"
+            },
+            {
+              "text": "心",
+              "reading": "こころ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "解",
+              "reading": "ほど"
+            },
+            {
+              "text": "いてくれよ！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 51.207,
+      "end": 56.91,
+      "japanese": "変わらないものばかり求めて",
+      "zh-CN": "执着地追寻着一成不变的事物",
+      "segments": [
+        {
+          "text": "変わらないものばかり求めて",
+          "performerIds": [
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "変",
+              "reading": "か"
+            },
+            {
+              "text": "わらないものばかり"
+            },
+            {
+              "text": "求",
+              "reading": "もと"
+            },
+            {
+              "text": "めて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 56.91,
+      "end": 61.898,
+      "japanese": "運命の糸を繋いで結んだ　花になったな",
+      "zh-CN": "紧紧系住命运之线 化作了花朵啊",
+      "segments": [
+        {
+          "text": "運命の糸を繋いで結んだ　花になったな",
+          "performerIds": [
+            "歌唱者-02",
+            "歌唱者-03"
+          ],
+          "ruby": [
+            {
+              "text": "運命",
+              "reading": "うんめい"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "糸",
+              "reading": "いと"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "繋",
+              "reading": "つな"
+            },
+            {
+              "text": "いで"
+            },
+            {
+              "text": "結",
+              "reading": "むす"
+            },
+            {
+              "text": "んだ　"
+            },
+            {
+              "text": "花",
+              "reading": "はな"
+            },
+            {
+              "text": "になったな"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 61.898,
+      "end": 72.933,
+      "japanese": "今以上の希望を求めもっと",
+      "zh-CN": "渴求着超越当下的希望",
+      "segments": [
+        {
+          "text": "今以上の希望を求めもっと",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-04",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "今以上",
+              "reading": "いまいじょう"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "希望",
+              "reading": "きぼう"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "求",
+              "reading": "もと"
+            },
+            {
+              "text": "めもっと"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 61.898,
+      "end": 72.933,
+      "japanese": "絡ませ合った偶然の合間に",
+      "zh-CN": "在彼此交织的偶然间隙中",
+      "segments": [
+        {
+          "text": "絡ませ合った偶然の合間に",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "絡",
+              "reading": "から"
+            },
+            {
+              "text": "ませ"
+            },
+            {
+              "text": "合",
+              "reading": "あ"
+            },
+            {
+              "text": "った"
+            },
+            {
+              "text": "偶然",
+              "reading": "ぐうぜん"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "合間",
+              "reading": "あいま"
+            },
+            {
+              "text": "に"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 72.933,
+      "end": 76.683,
+      "japanese": "思い知った本当の希望に",
+      "zh-CN": "领悟到了真正的希望",
+      "segments": [
+        {
+          "text": "思い知った本当の希望に",
+          "performerIds": [
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "思",
+              "reading": "おも"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "知",
+              "reading": "し"
+            },
+            {
+              "text": "った"
+            },
+            {
+              "text": "本当",
+              "reading": "ほんとう"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "希望",
+              "reading": "きぼう"
+            },
+            {
+              "text": "に"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 79.32675,
+      "end": 83.05575,
+      "japanese": "言えない　怖くなって言えない",
+      "zh-CN": "说不出口 害怕得说不出口",
+      "segments": [
+        {
+          "text": "言えない　",
+          "performerIds": [
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "言",
+              "reading": "い"
+            },
+            {
+              "text": "えない　"
+            }
+          ]
+        },
+        {
+          "text": "怖くなって言えない",
+          "performerIds": [
+            "歌唱者-03"
+          ],
+          "ruby": [
+            {
+              "text": "怖",
+              "reading": "こわ"
+            },
+            {
+              "text": "くなって"
+            },
+            {
+              "text": "言",
+              "reading": "い"
+            },
+            {
+              "text": "えない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 83.05575,
+      "end": 84.91175,
+      "japanese": "口を結んだの",
+      "zh-CN": "紧紧闭上了嘴",
+      "segments": [
+        {
+          "text": "口を結んだの",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "口",
+              "reading": "くち"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "結",
+              "reading": "むす"
+            },
+            {
+              "text": "んだの"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 84.91175,
+      "end": 87.51475,
+      "japanese": "すぐに解いてくれよ！",
+      "zh-CN": "快点为我解开吧！",
+      "segments": [
+        {
+          "text": "すぐに解いてくれよ！",
+          "performerIds": [
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "すぐに"
+            },
+            {
+              "text": "解",
+              "reading": "ほど"
+            },
+            {
+              "text": "いてくれよ！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 88.54475,
+      "end": 94.26075,
+      "japanese": "変わらないものばかり求めて",
+      "zh-CN": "执着地追寻着一成不变的事物",
+      "segments": [
+        {
+          "text": "変わらないものばかり求めて",
+          "performerIds": [
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "変",
+              "reading": "か"
+            },
+            {
+              "text": "わらないものばかり"
+            },
+            {
+              "text": "求",
+              "reading": "もと"
+            },
+            {
+              "text": "めて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 94.26075,
+      "end": 99.31275,
+      "japanese": "運命の一、二の三で結んだ　花になったな",
+      "zh-CN": "随命运的一二三紧紧相系 化作了花朵啊",
+      "segments": [
+        {
+          "text": "運命の一、二の三で結んだ　花になったな",
+          "performerIds": [
+            "歌唱者-03",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "運命",
+              "reading": "うんめい"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "一",
+              "reading": "いち"
+            },
+            {
+              "text": "、"
+            },
+            {
+              "text": "二",
+              "reading": "に"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "三",
+              "reading": "さん"
+            },
+            {
+              "text": "で"
+            },
+            {
+              "text": "結",
+              "reading": "むす"
+            },
+            {
+              "text": "んだ　"
+            },
+            {
+              "text": "花",
+              "reading": "はな"
+            },
+            {
+              "text": "になったな"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000023",
+      "order": 22,
+      "index": 22,
+      "start": 99.31275,
+      "end": 110.23475,
+      "japanese": "今以上の希望を求めもっと",
+      "zh-CN": "渴求着超越当下的希望",
+      "segments": [
+        {
+          "text": "今以上の希望を求めもっと",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-04",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "今以上",
+              "reading": "いまいじょう"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "希望",
+              "reading": "きぼう"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "求",
+              "reading": "もと"
+            },
+            {
+              "text": "めもっと"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000024",
+      "order": 23,
+      "index": 23,
+      "start": 99.31275,
+      "end": 110.23475,
+      "japanese": "絡ませ合った偶然の合間に",
+      "zh-CN": "在彼此交织的偶然间隙中",
+      "segments": [
+        {
+          "text": "絡ませ合った偶然の合間に",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "絡",
+              "reading": "から"
+            },
+            {
+              "text": "ませ"
+            },
+            {
+              "text": "合",
+              "reading": "あ"
+            },
+            {
+              "text": "った"
+            },
+            {
+              "text": "偶然",
+              "reading": "ぐうぜん"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "合間",
+              "reading": "あいま"
+            },
+            {
+              "text": "に"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000025",
+      "order": 24,
+      "index": 24,
+      "start": 110.23475,
+      "end": 114.02075,
+      "japanese": "ああ　春を待った本当の心に",
+      "zh-CN": "啊 那静候春日的真心",
+      "segments": [
+        {
+          "text": "ああ　春を待った本当の心に",
+          "performerIds": [
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "ああ　"
+            },
+            {
+              "text": "春",
+              "reading": "はる"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "待",
+              "reading": "ま"
+            },
+            {
+              "text": "った"
+            },
+            {
+              "text": "本当",
+              "reading": "ほんとう"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "心",
+              "reading": "こころ"
+            },
+            {
+              "text": "に"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000026",
+      "order": 25,
+      "index": 25,
+      "start": 118.86775,
+      "end": 121.73175,
+      "japanese": "最初から待ってた顛末を",
+      "zh-CN": "从一开始就在等待的结局",
+      "segments": [
+        {
+          "text": "最初から待ってた顛末を",
+          "performerIds": [
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "最初",
+              "reading": "さいしょ"
+            },
+            {
+              "text": "から"
+            },
+            {
+              "text": "待",
+              "reading": "ま"
+            },
+            {
+              "text": "ってた"
+            },
+            {
+              "text": "顛末",
+              "reading": "てんまつ"
+            },
+            {
+              "text": "を"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000027",
+      "order": 26,
+      "index": 26,
+      "start": 121.73175,
+      "end": 123.75075,
+      "japanese": "この夜に見つけた",
+      "zh-CN": "终于在这个夜晚被发现",
+      "segments": [
+        {
+          "text": "この夜に見つけた",
+          "performerIds": [
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "この"
+            },
+            {
+              "text": "夜",
+              "reading": "よる"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "つけた"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000028",
+      "order": 27,
+      "index": 27,
+      "start": 123.75075,
+      "end": 126.37775,
+      "japanese": "慌てて隠して",
+      "zh-CN": "慌慌张张地藏起来",
+      "segments": [
+        {
+          "text": "慌てて隠して",
+          "performerIds": [
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "慌",
+              "reading": "あわ"
+            },
+            {
+              "text": "てて"
+            },
+            {
+              "text": "隠",
+              "reading": "かく"
+            },
+            {
+              "text": "して"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000029",
+      "order": 28,
+      "index": 28,
+      "start": 126.37775,
+      "end": 132.7155,
+      "japanese": "知らないフリを演じてる",
+      "zh-CN": "佯装毫不知情",
+      "segments": [
+        {
+          "text": "知らないフリを演じてる",
+          "performerIds": [
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "知",
+              "reading": "し"
+            },
+            {
+              "text": "らないフリを"
+            },
+            {
+              "text": "演",
+              "reading": "えん"
+            },
+            {
+              "text": "じてる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

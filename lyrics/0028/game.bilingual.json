@@ -1,0 +1,1365 @@
+{
+  "music_id": 28,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-11",
+      "name": "東雲彰人"
+    },
+    {
+      "performerId": "歌唱者-12",
+      "name": "青柳冬弥"
+    },
+    {
+      "performerId": "歌唱者-26",
+      "name": "KAITO"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 10.564,
+      "end": 25.31,
+      "japanese": "お幸せにどうぞ",
+      "zh-CN": "祝各位幸福",
+      "segments": [
+        {
+          "text": "お幸せにどうぞ",
+          "performerIds": [
+            "歌唱者-11",
+            "歌唱者-12",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "お"
+            },
+            {
+              "text": "幸",
+              "reading": "しあわ"
+            },
+            {
+              "text": "せにどうぞ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 25.31,
+      "end": 28.158,
+      "japanese": "まだ青い鳥をお探しの方は　Come on, now",
+      "zh-CN": "还在寻觅青鸟的各位 Come on, now",
+      "segments": [
+        {
+          "text": "まだ青い鳥をお探しの方は　Come on, now",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "まだ"
+            },
+            {
+              "text": "青",
+              "reading": "あお"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "鳥",
+              "reading": "とり"
+            },
+            {
+              "text": "をお"
+            },
+            {
+              "text": "探",
+              "reading": "さが"
+            },
+            {
+              "text": "しの"
+            },
+            {
+              "text": "方",
+              "reading": "かた"
+            },
+            {
+              "text": "は　Come on, now"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 28.158,
+      "end": 31.73,
+      "japanese": "諦めきれない方は来世で　Get a chance",
+      "zh-CN": "执迷不悟不肯放弃的各位 去来世 Get a chance 吧",
+      "segments": [
+        {
+          "text": "諦めきれない方は来世で　Get a chance",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "諦",
+              "reading": "あきら"
+            },
+            {
+              "text": "めきれない"
+            },
+            {
+              "text": "方",
+              "reading": "かた"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "来世",
+              "reading": "らいせ"
+            },
+            {
+              "text": "で　Get a chance"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 31.73,
+      "end": 34.534,
+      "japanese": "もう青い鳥が見える貴女は　It's too late",
+      "zh-CN": "已经能看见青鸟的您 It's too late",
+      "segments": [
+        {
+          "text": "もう青い鳥が見える貴女は　It's too late",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "もう"
+            },
+            {
+              "text": "青",
+              "reading": "あお"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "鳥",
+              "reading": "とり"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "える"
+            },
+            {
+              "text": "貴女",
+              "reading": "あなた"
+            },
+            {
+              "text": "は　It's too late"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 34.716568,
+      "end": 37.47615,
+      "japanese": "幻覚に被虐趣味に多幸症……",
+      "zh-CN": "幻觉 受虐癖 欣快症……",
+      "segments": [
+        {
+          "text": "幻覚に被虐趣味に多幸症……",
+          "performerIds": [
+            "歌唱者-11",
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "幻覚",
+              "reading": "げんかく"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "被虐",
+              "reading": "ひぎゃく"
+            },
+            {
+              "text": "趣味",
+              "reading": "しゅみ"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "多幸",
+              "reading": "たこう"
+            },
+            {
+              "text": "症",
+              "reading": "しょう"
+            },
+            {
+              "text": "……"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 37.627127,
+      "end": 40.131747,
+      "japanese": "妄想症　もうどうしよう",
+      "zh-CN": "妄想症 该如何是好呢",
+      "segments": [
+        {
+          "text": "妄想症　",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "妄想症",
+              "reading": "もうそうしょう"
+            },
+            {
+              "text": "　"
+            }
+          ]
+        },
+        {
+          "text": "もうどうしよう",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "もうどうしよう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 40.587678,
+      "end": 44.276119,
+      "japanese": "禁断症状　幸せが欲しい？　Got it!",
+      "zh-CN": "戒断症状 想要获得幸福？ Got it!",
+      "segments": [
+        {
+          "text": "禁断症状　幸せが欲しい？　Got it!",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "禁断症状",
+              "reading": "きんだんしょうじょう"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "幸",
+              "reading": "しあわ"
+            },
+            {
+              "text": "せが"
+            },
+            {
+              "text": "欲",
+              "reading": "ほ"
+            },
+            {
+              "text": "しい？　Got it!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 44.661061,
+      "end": 47.586618,
+      "japanese": "マジク？　not マジク！　種も仕掛けもメディカル",
+      "zh-CN": "魔术？ not 魔术！ 所有机关玄机全凭医学",
+      "segments": [
+        {
+          "text": "マジク？　not マジク！　種も仕掛けもメディカル",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "マジク？　not マジク！　"
+            },
+            {
+              "text": "種",
+              "reading": "たね"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "仕掛",
+              "reading": "しか"
+            },
+            {
+              "text": "けもメディカル"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 47.763591,
+      "end": 50.778134,
+      "japanese": "ココロもカラダも全部浸って頂戴",
+      "zh-CN": "身心全部都给我彻底沉浸其中吧",
+      "segments": [
+        {
+          "text": "ココロもカラダも全部浸って頂戴",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "ココロもカラダも"
+            },
+            {
+              "text": "全部浸",
+              "reading": "ぜんぶひた"
+            },
+            {
+              "text": "って"
+            },
+            {
+              "text": "頂戴",
+              "reading": "ちょうだい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 50.778134,
+      "end": 52.600858,
+      "japanese": "御呼びかい? (イエスマイドクター)",
+      "zh-CN": "是在召唤我吗？（遵命 我的医生）",
+      "segments": [
+        {
+          "text": "御呼びかい? ",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "御呼",
+              "reading": "およ"
+            },
+            {
+              "text": "びかい? "
+            }
+          ]
+        },
+        {
+          "text": "(イエスマイドクター)",
+          "performerIds": [
+            "歌唱者-11",
+            "歌唱者-12",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "(イエスマイドクター)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 52.600858,
+      "end": 54.405585,
+      "japanese": "御呼びかい? (イエスマイドクター)",
+      "zh-CN": "是在召唤我吗？（遵命 我的医生）",
+      "segments": [
+        {
+          "text": "御呼びかい? ",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "御呼",
+              "reading": "およ"
+            },
+            {
+              "text": "びかい? "
+            }
+          ]
+        },
+        {
+          "text": "(イエスマイドクター)",
+          "performerIds": [
+            "歌唱者-11",
+            "歌唱者-12",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "(イエスマイドクター)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 54.405585,
+      "end": 57.486118,
+      "japanese": "希代の鬼才の素敵なこの大・天・才!",
+      "zh-CN": "旷世鬼才 绝妙非凡的这位 大・天・才！",
+      "segments": [
+        {
+          "text": "希代の鬼才の素敵な",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "希代",
+              "reading": "きたい"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "鬼才",
+              "reading": "きさい"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "素敵",
+              "reading": "すてき"
+            },
+            {
+              "text": "な"
+            }
+          ]
+        },
+        {
+          "text": "この大・天・才!",
+          "performerIds": [
+            "歌唱者-11",
+            "歌唱者-12",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "この"
+            },
+            {
+              "text": "大",
+              "reading": "だい"
+            },
+            {
+              "text": "・"
+            },
+            {
+              "text": "天",
+              "reading": "てん"
+            },
+            {
+              "text": "・"
+            },
+            {
+              "text": "才",
+              "reading": "さい"
+            },
+            {
+              "text": "!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 57.622097,
+      "end": 57.957046,
+      "japanese": "Get on!",
+      "zh-CN": "上车吧！",
+      "segments": [
+        {
+          "text": "Get on!",
+          "performerIds": [
+            "歌唱者-11",
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "Get on!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 57.957046,
+      "end": 60.519658,
+      "japanese": "ドクター＝ファンクビート　登場だ　Ready!",
+      "zh-CN": "芬克节拍医生 闪亮登场 Ready!",
+      "segments": [
+        {
+          "text": "ドクター＝ファンクビート　登場だ　Ready!",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "ドクター＝ファンクビート　"
+            },
+            {
+              "text": "登場",
+              "reading": "とうじょう"
+            },
+            {
+              "text": "だ　Ready!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 61.043579,
+      "end": 64.13411,
+      "japanese": "名俳優　そこは良心なんだ痛むわけないだろう？",
+      "zh-CN": "名演员 那可是良心啊 怎么可能会感到痛呢？",
+      "segments": [
+        {
+          "text": "名俳優　そこは良心なんだ痛むわけないだろう？",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "名俳優",
+              "reading": "めいはいゆう"
+            },
+            {
+              "text": "　そこは"
+            },
+            {
+              "text": "良心",
+              "reading": "りょうしん"
+            },
+            {
+              "text": "なんだ"
+            },
+            {
+              "text": "痛",
+              "reading": "いた"
+            },
+            {
+              "text": "むわけないだろう？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 64.383073,
+      "end": 66.969681,
+      "japanese": "ドクター＝ファンクビート　御加減は　Lady?",
+      "zh-CN": "芬克节拍医生 身体感觉如何啊 Lady?",
+      "segments": [
+        {
+          "text": "ドクター＝ファンクビート　御加減は　Lady?",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "ドクター＝ファンクビート　"
+            },
+            {
+              "text": "御",
+              "reading": "ご"
+            },
+            {
+              "text": "加減",
+              "reading": "かげん"
+            },
+            {
+              "text": "は　Lady?"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 67.115659,
+      "end": 70.634126,
+      "japanese": "そのとおり現実は苦痛だらけ　ホント逝っちゃって",
+      "zh-CN": "没错 现实充满了痛苦 真是快升天了",
+      "segments": [
+        {
+          "text": "そのとおり現実は苦痛だらけ　ホント逝っちゃって",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "そのとおり"
+            },
+            {
+              "text": "現実",
+              "reading": "げんじつ"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "苦痛",
+              "reading": "くつう"
+            },
+            {
+              "text": "だらけ　ホント"
+            },
+            {
+              "text": "逝",
+              "reading": "い"
+            },
+            {
+              "text": "っちゃって"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 70.890087,
+      "end": 73.688663,
+      "japanese": "ハッピー＆ハッピー　お幸せにどうぞ",
+      "zh-CN": "快乐又幸福 祝各位幸福",
+      "segments": [
+        {
+          "text": "ハッピー＆ハッピー　",
+          "performerIds": [
+            "歌唱者-11",
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "ハッピー＆ハッピー　"
+            }
+          ]
+        },
+        {
+          "text": "お幸せにどうぞ",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "お"
+            },
+            {
+              "text": "幸",
+              "reading": "しあわ"
+            },
+            {
+              "text": "せにどうぞ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 87.024,
+      "end": 89.825,
+      "japanese": "ドクター＝ファンクビート　夢を見た",
+      "zh-CN": "芬克节拍医生 做了一场梦",
+      "segments": [
+        {
+          "text": "ドクター＝ファンクビート　",
+          "performerIds": [
+            "歌唱者-12",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "ドクター＝ファンクビート　"
+            }
+          ]
+        },
+        {
+          "text": "夢を見た",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "夢",
+              "reading": "ゆめ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "た"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 89.790495,
+      "end": 94.293813,
+      "japanese": "誰もが幸せになるコドモ騙しの妄想SHOW",
+      "zh-CN": "人人皆获幸福 哄弄小孩的妄想秀",
+      "segments": [
+        {
+          "text": "誰もが幸せになる",
+          "performerIds": [
+            "歌唱者-12",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "誰",
+              "reading": "だれ"
+            },
+            {
+              "text": "もが"
+            },
+            {
+              "text": "幸",
+              "reading": "しあわ"
+            },
+            {
+              "text": "せになる"
+            }
+          ]
+        },
+        {
+          "text": "コドモ",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "コドモ"
+            }
+          ]
+        },
+        {
+          "text": "騙しの妄想SHOW",
+          "performerIds": [
+            "歌唱者-12",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "騙",
+              "reading": "だま"
+            },
+            {
+              "text": "しの"
+            },
+            {
+              "text": "妄想",
+              "reading": "もうそう"
+            },
+            {
+              "text": "SHOW"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 94.638761,
+      "end": 97.974255,
+      "japanese": "誰もが不幸なのだ　その巫山戯たディストピアの中では",
+      "zh-CN": "人人皆是不幸的 在那荒谬可笑的反乌托邦之中",
+      "segments": [
+        {
+          "text": "誰もが不幸なのだ　その巫山戯たディストピアの中では",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "誰",
+              "reading": "だれ"
+            },
+            {
+              "text": "もが"
+            },
+            {
+              "text": "不幸",
+              "reading": "ふこう"
+            },
+            {
+              "text": "なのだ　その"
+            },
+            {
+              "text": "巫山戯",
+              "reading": "ふざけ"
+            },
+            {
+              "text": "たディストピアの"
+            },
+            {
+              "text": "中",
+              "reading": "なか"
+            },
+            {
+              "text": "では"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 97.76,
+      "end": 101.068,
+      "japanese": "そこでコイツだ『幸福の在り処』　出し惜しみはナンセンス",
+      "zh-CN": "这时就要靠这招『幸福的归宿』 藏着掖着毫无意义",
+      "segments": [
+        {
+          "text": "そこでコイツだ『幸福の在り処』　出し惜しみはナンセンス",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "そこでコイツだ『"
+            },
+            {
+              "text": "幸福",
+              "reading": "こうふく"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "在",
+              "reading": "あ"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "処",
+              "reading": "ところ"
+            },
+            {
+              "text": "』　"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "し"
+            },
+            {
+              "text": "惜",
+              "reading": "お"
+            },
+            {
+              "text": "しみはナンセンス"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000023",
+      "order": 22,
+      "index": 22,
+      "start": 100.9768,
+      "end": 104.131323,
+      "japanese": "さぁアナタもアナタもアナタもこれで逝きましょう",
+      "zh-CN": "来吧 你也 你也 你们全都在此升天吧",
+      "segments": [
+        {
+          "text": "さぁアナタ",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "さぁアナタ"
+            }
+          ]
+        },
+        {
+          "text": "もアナタ",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "もアナタ"
+            }
+          ]
+        },
+        {
+          "text": "もアナタ",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "もアナタ"
+            }
+          ]
+        },
+        {
+          "text": "もこれで逝きましょう",
+          "performerIds": [
+            "歌唱者-11",
+            "歌唱者-12",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "もこれで"
+            },
+            {
+              "text": "逝",
+              "reading": "ゆ"
+            },
+            {
+              "text": "きましょう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000024",
+      "order": 23,
+      "index": 23,
+      "start": 104.493,
+      "end": 109.253,
+      "japanese": "囚われの鉛姫　ようやく貴女の順番だ　Oh!! 申し遅れました",
+      "zh-CN": "被囚禁的铅之姬 终于轮到您了 Oh!! 容我迟来的自我介绍",
+      "segments": [
+        {
+          "text": "囚われの鉛姫　",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "囚",
+              "reading": "とら"
+            },
+            {
+              "text": "われの"
+            },
+            {
+              "text": "鉛",
+              "reading": "なまり"
+            },
+            {
+              "text": "姫",
+              "reading": "ひめ"
+            },
+            {
+              "text": "　"
+            }
+          ]
+        },
+        {
+          "text": "ようやく貴女の順番だ　",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "ようやく"
+            },
+            {
+              "text": "貴女",
+              "reading": "あなた"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "順番",
+              "reading": "じゅんばん"
+            },
+            {
+              "text": "だ　"
+            }
+          ]
+        },
+        {
+          "text": "Oh!! 申し遅れました",
+          "performerIds": [
+            "歌唱者-11",
+            "歌唱者-12",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "Oh!! "
+            },
+            {
+              "text": "申",
+              "reading": "もう"
+            },
+            {
+              "text": "し"
+            },
+            {
+              "text": "遅",
+              "reading": "おく"
+            },
+            {
+              "text": "れました"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000025",
+      "order": 24,
+      "index": 24,
+      "start": 109.124566,
+      "end": 114.326778,
+      "japanese": "もしもし幸せになりたいなら誰もが称えるその名のところへ",
+      "zh-CN": "喂喂 若想要获得幸福 就投奔向人人称颂的那个大名之下吧",
+      "segments": [
+        {
+          "text": "もしもし幸せになりたいなら",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "もしもし"
+            },
+            {
+              "text": "幸",
+              "reading": "しあわ"
+            },
+            {
+              "text": "せになりたいなら"
+            }
+          ]
+        },
+        {
+          "text": "誰もが称えるその名のところへ",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "誰",
+              "reading": "だれ"
+            },
+            {
+              "text": "もが"
+            },
+            {
+              "text": "称",
+              "reading": "たた"
+            },
+            {
+              "text": "えるその"
+            },
+            {
+              "text": "名",
+              "reading": "な"
+            },
+            {
+              "text": "のところへ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000026",
+      "order": 25,
+      "index": 25,
+      "start": 114.326778,
+      "end": 117.967226,
+      "japanese": "それがドクター＝ファンクビート",
+      "zh-CN": "那便是芬克节拍医生",
+      "segments": [
+        {
+          "text": "それがドクター＝ファンクビート",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "それがドクター＝ファンクビート"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000027",
+      "order": 26,
+      "index": 26,
+      "start": 118.352168,
+      "end": 122.727505,
+      "japanese": "大・天・才！（大・天・才！）",
+      "zh-CN": "大・天・才！（大・天・才！）",
+      "segments": [
+        {
+          "text": "大・天・才！",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "大",
+              "reading": "だい"
+            },
+            {
+              "text": "・"
+            },
+            {
+              "text": "天",
+              "reading": "てん"
+            },
+            {
+              "text": "・"
+            },
+            {
+              "text": "才",
+              "reading": "さい"
+            },
+            {
+              "text": "！"
+            }
+          ]
+        },
+        {
+          "text": "（大・天・才！）",
+          "performerIds": [
+            "歌唱者-11",
+            "歌唱者-12",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "（"
+            },
+            {
+              "text": "大",
+              "reading": "だい"
+            },
+            {
+              "text": "・"
+            },
+            {
+              "text": "天",
+              "reading": "てん"
+            },
+            {
+              "text": "・"
+            },
+            {
+              "text": "才",
+              "reading": "さい"
+            },
+            {
+              "text": "！）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000028",
+      "order": 27,
+      "index": 27,
+      "start": 129.955,
+      "end": 135.01812,
+      "japanese": "お幸せにどうぞ",
+      "zh-CN": "祝各位幸福",
+      "segments": [
+        {
+          "text": "お幸せにどうぞ",
+          "performerIds": [
+            "歌唱者-11",
+            "歌唱者-12",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "お"
+            },
+            {
+              "text": "幸",
+              "reading": "しあわ"
+            },
+            {
+              "text": "せにどうぞ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    }
+  ]
+}

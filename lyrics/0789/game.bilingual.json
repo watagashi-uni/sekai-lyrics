@@ -1,0 +1,1046 @@
+{
+  "music_id": 789,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-01",
+      "name": "星乃一歌"
+    },
+    {
+      "performerId": "歌唱者-02",
+      "name": "天馬咲希"
+    },
+    {
+      "performerId": "歌唱者-03",
+      "name": "望月穂波"
+    },
+    {
+      "performerId": "歌唱者-04",
+      "name": "日野森志歩"
+    },
+    {
+      "performerId": "歌唱者-22",
+      "name": "鏡音リン"
+    }
+  ],
+  "lines": [
+    {
+      "id": "line-1",
+      "order": 0,
+      "index": 0,
+      "start": 15.808,
+      "end": 18.59,
+      "japanese": "努力すれば 強く願えば",
+      "zh-CN": "只要努力，只要足够渴望",
+      "segments": [
+        {
+          "text": "努力すれば 強く願えば",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "努力",
+              "reading": "どりょく"
+            },
+            {
+              "text": "すれば "
+            },
+            {
+              "text": "強",
+              "reading": "つよ"
+            },
+            {
+              "text": "く"
+            },
+            {
+              "text": "願",
+              "reading": "ねが"
+            },
+            {
+              "text": "えば"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "line-2",
+      "order": 1,
+      "index": 1,
+      "start": 18.59,
+      "end": 21.412,
+      "japanese": "どちらも成せる気でいた",
+      "zh-CN": "我曾以为，两边都能够做到",
+      "segments": [
+        {
+          "text": "どちらも成せる気でいた",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "どちらも"
+            },
+            {
+              "text": "成",
+              "reading": "な"
+            },
+            {
+              "text": "せる"
+            },
+            {
+              "text": "気",
+              "reading": "き"
+            },
+            {
+              "text": "でいた"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "line-3",
+      "order": 2,
+      "index": 2,
+      "start": 21.412,
+      "end": 24.214,
+      "japanese": "ありったけの時間と生を",
+      "zh-CN": "把所有时间与生命",
+      "segments": [
+        {
+          "text": "ありったけの時間と生を",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "ありったけの"
+            },
+            {
+              "text": "時間",
+              "reading": "じかん"
+            },
+            {
+              "text": "と"
+            },
+            {
+              "text": "生",
+              "reading": "なま"
+            },
+            {
+              "text": "を"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "line-4",
+      "order": 3,
+      "index": 3,
+      "start": 24.214,
+      "end": 26.956,
+      "japanese": "払うけど 足りなくて",
+      "zh-CN": "尽数付出，却还是不够",
+      "segments": [
+        {
+          "text": "払うけど 足りなくて",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "払",
+              "reading": "はら"
+            },
+            {
+              "text": "うけど "
+            },
+            {
+              "text": "足",
+              "reading": "た"
+            },
+            {
+              "text": "りなくて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "line-5",
+      "order": 4,
+      "index": 4,
+      "start": 26.956,
+      "end": 30.138,
+      "japanese": "私が増えたら 賢かったら",
+      "zh-CN": "若能多出一个我，若我更聪明一些",
+      "segments": [
+        {
+          "text": "私が増えたら 賢かったら",
+          "performerIds": [
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "私",
+              "reading": "わたし"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "増",
+              "reading": "ふ"
+            },
+            {
+              "text": "えたら "
+            },
+            {
+              "text": "賢",
+              "reading": "かしこ"
+            },
+            {
+              "text": "かったら"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "line-6",
+      "order": 5,
+      "index": 5,
+      "start": 30.122,
+      "end": 32.546,
+      "japanese": "時が止まって くれたら",
+      "zh-CN": "若时间肯为我停下",
+      "segments": [
+        {
+          "text": "時が止まって くれたら",
+          "performerIds": [
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "時",
+              "reading": "とき"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "止",
+              "reading": "と"
+            },
+            {
+              "text": "まって くれたら"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "line-7",
+      "order": 6,
+      "index": 6,
+      "start": 32.541,
+      "end": 35.526,
+      "japanese": "絵空事描いて現実逃避",
+      "zh-CN": "描画空想，逃进不着边际的梦",
+      "segments": [
+        {
+          "text": "絵空事描いて現実逃避",
+          "performerIds": [
+            "歌唱者-03"
+          ],
+          "ruby": [
+            {
+              "text": "絵空事",
+              "reading": "えそらごと"
+            },
+            {
+              "text": "描",
+              "reading": "えが"
+            },
+            {
+              "text": "いて"
+            },
+            {
+              "text": "現実",
+              "reading": "げんじつ"
+            },
+            {
+              "text": "逃避",
+              "reading": "とうひ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "line-8",
+      "order": 7,
+      "index": 7,
+      "start": 35.526,
+      "end": 39.713,
+      "japanese": "自分に嫌気が差すな",
+      "zh-CN": "连我都开始厌恶这样的自己",
+      "segments": [
+        {
+          "text": "自分に嫌気が差すな",
+          "performerIds": [
+            "歌唱者-03"
+          ],
+          "ruby": [
+            {
+              "text": "自分",
+              "reading": "じぶん"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "嫌気",
+              "reading": "いやけ"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "差",
+              "reading": "さ"
+            },
+            {
+              "text": "すな"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "line-9",
+      "order": 8,
+      "index": 8,
+      "start": 39.701,
+      "end": 42.74,
+      "japanese": "望みが遠ざかってしまう",
+      "zh-CN": "心愿正离我越来越远",
+      "segments": [
+        {
+          "text": "望みが遠ざかってしまう",
+          "performerIds": [
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "望",
+              "reading": "のぞ"
+            },
+            {
+              "text": "みが"
+            },
+            {
+              "text": "遠",
+              "reading": "とお"
+            },
+            {
+              "text": "ざかってしまう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "line-10",
+      "order": 9,
+      "index": 9,
+      "start": 42.821,
+      "end": 50.529,
+      "japanese": "嫌だよ 嫌だ 置いてかないで",
+      "zh-CN": "不要　不要啊　别把我留在身后",
+      "segments": [
+        {
+          "text": "嫌だよ 嫌だ ",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "嫌",
+              "reading": "いや"
+            },
+            {
+              "text": "だよ "
+            },
+            {
+              "text": "嫌",
+              "reading": "いや"
+            },
+            {
+              "text": "だ "
+            }
+          ]
+        },
+        {
+          "text": "置いてかないで",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "置",
+              "reading": "お"
+            },
+            {
+              "text": "いてかないで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "line-11",
+      "order": 10,
+      "index": 10,
+      "start": 50.529,
+      "end": 55.394,
+      "japanese": "二方から注がれてくセカイを",
+      "zh-CN": "将从两方倾注而来的 SEKAI",
+      "segments": [
+        {
+          "text": "二方から注がれてくセカイを",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-04",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "二",
+              "reading": "に"
+            },
+            {
+              "text": "方",
+              "reading": "ぽう"
+            },
+            {
+              "text": "から"
+            },
+            {
+              "text": "注",
+              "reading": "そそ"
+            },
+            {
+              "text": "がれてくセカイを"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "line-12",
+      "order": 11,
+      "index": 11,
+      "start": 55.76,
+      "end": 60.646,
+      "japanese": "澱ませないように混ぜ合わせた",
+      "zh-CN": "一遍遍调和，只怕其中一方沉淀浑浊",
+      "segments": [
+        {
+          "text": "澱ませないように混ぜ合わせた",
+          "performerIds": [
+            "歌唱者-02",
+            "歌唱者-04",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "澱",
+              "reading": "よど"
+            },
+            {
+              "text": "ませないように"
+            },
+            {
+              "text": "混",
+              "reading": "ま"
+            },
+            {
+              "text": "ぜ"
+            },
+            {
+              "text": "合",
+              "reading": "あ"
+            },
+            {
+              "text": "わせた"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "line-13",
+      "order": 12,
+      "index": 12,
+      "start": 60.646,
+      "end": 67.955,
+      "japanese": "回らないバルブの前で大丈夫と",
+      "zh-CN": "面对再也拧不动的阀门，我反复说着“没关系”",
+      "segments": [
+        {
+          "text": "回らないバルブの前で大丈夫と",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-03",
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "回",
+              "reading": "まわ"
+            },
+            {
+              "text": "らないバルブの"
+            },
+            {
+              "text": "前",
+              "reading": "まえ"
+            },
+            {
+              "text": "で"
+            },
+            {
+              "text": "大丈夫",
+              "reading": "だいじょうぶ"
+            },
+            {
+              "text": "と"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "line-14",
+      "order": 13,
+      "index": 13,
+      "start": 67.955,
+      "end": 72.18,
+      "japanese": "繰り返し私に暗示を施した",
+      "zh-CN": "一次又一次，对自己施下暗示",
+      "segments": [
+        {
+          "text": "繰り返し私に暗示を施した",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "繰",
+              "reading": "く"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "返",
+              "reading": "かえ"
+            },
+            {
+              "text": "し"
+            },
+            {
+              "text": "私",
+              "reading": "わたし"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "暗示",
+              "reading": "あんじ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "施",
+              "reading": "ほどこ"
+            },
+            {
+              "text": "した"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "line-32",
+      "order": 31,
+      "index": 31,
+      "start": 74.583,
+      "end": 77.391,
+      "japanese": "決められない 決めたくない",
+      "zh-CN": "无法决定　也不愿决定",
+      "segments": [
+        {
+          "text": "決められない 決めたくない",
+          "performerIds": [
+            "歌唱者-03"
+          ],
+          "ruby": [
+            {
+              "text": "決",
+              "reading": "き"
+            },
+            {
+              "text": "められない "
+            },
+            {
+              "text": "決",
+              "reading": "き"
+            },
+            {
+              "text": "めたくない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "line-33",
+      "order": 32,
+      "index": 32,
+      "start": 77.388,
+      "end": 80.173,
+      "japanese": "どちらも大事なんだから",
+      "zh-CN": "因为两边都同样重要",
+      "segments": [
+        {
+          "text": "どちらも大事なんだから",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "どちらも"
+            },
+            {
+              "text": "大事",
+              "reading": "だいじ"
+            },
+            {
+              "text": "なんだから"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "line-34",
+      "order": 33,
+      "index": 33,
+      "start": 80.162,
+      "end": 82.967,
+      "japanese": "決めなくちゃ 選ばなきゃ",
+      "zh-CN": "可我必须决定　必须作出选择",
+      "segments": [
+        {
+          "text": "決めなくちゃ 選ばなきゃ",
+          "performerIds": [
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "決",
+              "reading": "き"
+            },
+            {
+              "text": "めなくちゃ "
+            },
+            {
+              "text": "選",
+              "reading": "えら"
+            },
+            {
+              "text": "ばなきゃ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "line-35",
+      "order": 34,
+      "index": 34,
+      "start": 82.981,
+      "end": 85.945,
+      "japanese": "そんなのわかってるよ",
+      "zh-CN": "这种事，我当然知道啊",
+      "segments": [
+        {
+          "text": "そんなのわかってるよ",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "そんなのわかってるよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "line-36",
+      "order": 35,
+      "index": 35,
+      "start": 85.941,
+      "end": 89.387,
+      "japanese": "応えられなくて 閉じ込めて",
+      "zh-CN": "无法回应，只好把一切锁在心里",
+      "segments": [
+        {
+          "text": "応えられなくて 閉じ込めて",
+          "performerIds": [
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "応",
+              "reading": "こた"
+            },
+            {
+              "text": "えられなくて "
+            },
+            {
+              "text": "閉",
+              "reading": "と"
+            },
+            {
+              "text": "じ"
+            },
+            {
+              "text": "込",
+              "reading": "こ"
+            },
+            {
+              "text": "めて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "line-37",
+      "order": 36,
+      "index": 36,
+      "start": 89.98,
+      "end": 96.22,
+      "japanese": "ごめんね と小さく告げる",
+      "zh-CN": "小声地说了一句“对不起”",
+      "segments": [
+        {
+          "text": "ごめんね と小さく告げる",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "ごめんね と"
+            },
+            {
+              "text": "小",
+              "reading": "ちい"
+            },
+            {
+              "text": "さく"
+            },
+            {
+              "text": "告",
+              "reading": "つ"
+            },
+            {
+              "text": "げる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 40,
+      "start": 96.174283,
+      "end": 102.379882,
+      "japanese": "流れのままに喉を下ってくセカイは",
+      "zh-CN": "那个顺着流势滑过喉咙的 SEKAI",
+      "segments": [
+        {
+          "text": "流れのままに",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "流",
+              "reading": "なが"
+            },
+            {
+              "text": "れのままに"
+            }
+          ]
+        },
+        {
+          "text": "喉を下ってくセカイは",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-04",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "喉",
+              "reading": "のど"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "下",
+              "reading": "くだ"
+            },
+            {
+              "text": "ってくセカイは"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "line-42",
+      "order": 41,
+      "index": 41,
+      "start": 102.88,
+      "end": 107.425,
+      "japanese": "つかえながら心まで辿る",
+      "zh-CN": "一路哽在胸口，却终于抵达了心底",
+      "segments": [
+        {
+          "text": "つかえながら心まで辿る",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-04",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "つかえながら"
+            },
+            {
+              "text": "心",
+              "reading": "こころ"
+            },
+            {
+              "text": "まで"
+            },
+            {
+              "text": "辿",
+              "reading": "たど"
+            },
+            {
+              "text": "る"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "line-43",
+      "order": 42,
+      "index": 42,
+      "start": 107.425,
+      "end": 115.393,
+      "japanese": "向こう側であなたが私を見てた",
+      "zh-CN": "在彼端，你正望着我",
+      "segments": [
+        {
+          "text": "向こう側であなたが私を見てた",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "向",
+              "reading": "む"
+            },
+            {
+              "text": "こう"
+            },
+            {
+              "text": "側",
+              "reading": "がわ"
+            },
+            {
+              "text": "であなたが"
+            },
+            {
+              "text": "私",
+              "reading": "わたし"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "てた"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "line-44",
+      "order": 43,
+      "index": 43,
+      "start": 115.0,
+      "end": 121.22,
+      "japanese": "目を逸らし これでよかったの と呟いた",
+      "zh-CN": "我别开目光，低声问：“这样就好了吗”",
+      "segments": [
+        {
+          "text": "目を逸らし これでよかったの ",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "目",
+              "reading": "め"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "逸",
+              "reading": "そ"
+            },
+            {
+              "text": "らし これでよかったの "
+            }
+          ]
+        },
+        {
+          "text": "と呟いた",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "と"
+            },
+            {
+              "text": "呟",
+              "reading": "つぶや"
+            },
+            {
+              "text": "いた"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "line-45",
+      "order": 44,
+      "index": 44,
+      "start": 123.937,
+      "end": 125.098,
+      "japanese": "よかったんだよ",
+      "zh-CN": "这样就好了啊",
+      "segments": [
+        {
+          "text": "よかったんだよ",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "よかったんだよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    }
+  ]
+}

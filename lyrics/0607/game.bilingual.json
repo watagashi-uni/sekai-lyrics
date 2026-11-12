@@ -1,0 +1,723 @@
+{
+  "music_id": 607,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-05",
+      "name": "花里みのり"
+    },
+    {
+      "performerId": "歌唱者-08",
+      "name": "日野森雫"
+    },
+    {
+      "performerId": "歌唱者-24",
+      "name": "巡音ルカ"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 8.951808,
+      "end": 16.674738,
+      "japanese": "また月が昇る 今日が終わりだす",
+      "zh-CN": "月亮再次升起 今天开始画上句点",
+      "segments": [
+        {
+          "text": "また月が昇る 今日が終わりだす",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "また"
+            },
+            {
+              "text": "月",
+              "reading": "つき"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "昇",
+              "reading": "のぼ"
+            },
+            {
+              "text": "る "
+            },
+            {
+              "text": "今日",
+              "reading": "きょう"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "終",
+              "reading": "お"
+            },
+            {
+              "text": "わりだす"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 17.144308,
+      "end": 24.647439,
+      "japanese": "願い奏でる 言葉をのみこむ",
+      "zh-CN": "奏响心愿 将话语吞入腹中",
+      "segments": [
+        {
+          "text": "願い奏でる 言葉をのみこむ",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "願",
+              "reading": "ねが"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "奏",
+              "reading": "かな"
+            },
+            {
+              "text": "でる "
+            },
+            {
+              "text": "言葉",
+              "reading": "ことば"
+            },
+            {
+              "text": "をのみこむ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 25.71646,
+      "end": 32.650113,
+      "japanese": "Friday Night 泣きだす 君はまだ大丈夫",
+      "zh-CN": "Friday Night 放声哭泣 你依然安然无恙",
+      "segments": [
+        {
+          "text": "Friday Night 泣きだす 君はまだ大丈夫",
+          "performerIds": [
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "Friday Night "
+            },
+            {
+              "text": "泣",
+              "reading": "な"
+            },
+            {
+              "text": "きだす "
+            },
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "はまだ"
+            },
+            {
+              "text": "大丈夫",
+              "reading": "だいじょうぶ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 32.909875,
+      "end": 40.622814,
+      "japanese": "駆け出せ足音 明日を変えたい",
+      "zh-CN": "飞奔而出的脚步声 想要改变明天",
+      "segments": [
+        {
+          "text": "駆け出せ足音 ",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "駆",
+              "reading": "か"
+            },
+            {
+              "text": "け"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "せ"
+            },
+            {
+              "text": "足音",
+              "reading": "あしおと"
+            },
+            {
+              "text": " "
+            }
+          ]
+        },
+        {
+          "text": "明日を変えたい",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "明日",
+              "reading": "あした"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "変",
+              "reading": "か"
+            },
+            {
+              "text": "えたい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 41.933,
+      "end": 44.88,
+      "japanese": "あぁなら なら",
+      "zh-CN": "啊啊若是 若是",
+      "segments": [
+        {
+          "text": "あぁ",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "あぁ"
+            }
+          ]
+        },
+        {
+          "text": "なら なら",
+          "performerIds": [
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "なら なら"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 44.870925,
+      "end": 47.558464,
+      "japanese": "まだ まだ まだ",
+      "zh-CN": "还能 还能 还能",
+      "segments": [
+        {
+          "text": "まだ まだ まだ",
+          "performerIds": [
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "まだ まだ まだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 48.557549,
+      "end": 56.460315,
+      "japanese": "遥か月を目指した今日の空は",
+      "zh-CN": "以遥远的明月为目标的今日夜空",
+      "segments": [
+        {
+          "text": "遥か月を目指した",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "遥",
+              "reading": "はる"
+            },
+            {
+              "text": "か"
+            },
+            {
+              "text": "月",
+              "reading": "つき"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "目指",
+              "reading": "めざ"
+            },
+            {
+              "text": "した"
+            }
+          ]
+        },
+        {
+          "text": "今日の空は",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "今日",
+              "reading": "きょう"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "空",
+              "reading": "そら"
+            },
+            {
+              "text": "は"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 56.610177,
+      "end": 67.300391,
+      "japanese": "彼方 西に流れた もう届かないや",
+      "zh-CN": "流向了西方彼方 再也触碰不到了啊",
+      "segments": [
+        {
+          "text": "彼方 西に流れた ",
+          "performerIds": [
+            "歌唱者-08",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "彼方",
+              "reading": "かなた"
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "西",
+              "reading": "にし"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "流",
+              "reading": "なが"
+            },
+            {
+              "text": "れた "
+            }
+          ]
+        },
+        {
+          "text": "もう届かないや",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "もう"
+            },
+            {
+              "text": "届",
+              "reading": "とど"
+            },
+            {
+              "text": "かないや"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 67.330363,
+      "end": 70.617354,
+      "japanese": "届かないや",
+      "zh-CN": "触碰不到了啊",
+      "segments": [
+        {
+          "text": "届かないや",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "届",
+              "reading": "とど"
+            },
+            {
+              "text": "かないや"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 72.589548,
+      "end": 80.602213,
+      "japanese": "涙 星を濡らした 今日の空は",
+      "zh-CN": "泪水浸湿了繁星 今日的天空",
+      "segments": [
+        {
+          "text": "涙 星を濡らした 今日の空は",
+          "performerIds": [
+            "歌唱者-08",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "涙",
+              "reading": "なみだ"
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "星",
+              "reading": "ほし"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "濡",
+              "reading": "ぬ"
+            },
+            {
+              "text": "らした "
+            },
+            {
+              "text": "今日",
+              "reading": "きょう"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "空",
+              "reading": "そら"
+            },
+            {
+              "text": "は"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 80.642176,
+      "end": 88.484996,
+      "japanese": "彼方 夜に流れた 「もう泣くなよ」",
+      "zh-CN": "流向了黑夜彼方 「别再哭了哦」",
+      "segments": [
+        {
+          "text": "彼方 夜に流れた ",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "彼方",
+              "reading": "かなた"
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "夜",
+              "reading": "よる"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "流",
+              "reading": "なが"
+            },
+            {
+              "text": "れた "
+            }
+          ]
+        },
+        {
+          "text": "「もう泣くなよ」",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "「もう"
+            },
+            {
+              "text": "泣",
+              "reading": "な"
+            },
+            {
+              "text": "くなよ」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 88.574914,
+      "end": 96.807377,
+      "japanese": "遥か月を目指した 今日の空は",
+      "zh-CN": "以遥远的明月为目标的 今日夜空",
+      "segments": [
+        {
+          "text": "遥か月を目指した 今日の空は",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-08",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "遥",
+              "reading": "はる"
+            },
+            {
+              "text": "か"
+            },
+            {
+              "text": "月",
+              "reading": "つき"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "目指",
+              "reading": "めざ"
+            },
+            {
+              "text": "した "
+            },
+            {
+              "text": "今日",
+              "reading": "きょう"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "空",
+              "reading": "そら"
+            },
+            {
+              "text": "は"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 96.756,
+      "end": 107.292,
+      "japanese": "数多 星を降らした あぁ　夢じゃないや！",
+      "zh-CN": "洒落了漫天繁星 啊啊 这绝非梦境啊！",
+      "segments": [
+        {
+          "text": "数多 星を降らした あぁ　夢じゃないや！",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-08",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "数多",
+              "reading": "あまた"
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "星",
+              "reading": "ほし"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "降",
+              "reading": "ふ"
+            },
+            {
+              "text": "らした あぁ　"
+            },
+            {
+              "text": "夢",
+              "reading": "ゆめ"
+            },
+            {
+              "text": "じゃないや！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 107.292,
+      "end": 115.142,
+      "japanese": "夢じゃないや",
+      "zh-CN": "绝非梦境啊",
+      "segments": [
+        {
+          "text": "夢じゃないや",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "夢",
+              "reading": "ゆめ"
+            },
+            {
+              "text": "じゃないや"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 115.34041,
+      "end": 121.354904,
+      "japanese": "あぁ　夢じゃないや！いや",
+      "zh-CN": "啊啊 绝非梦境啊！并非虚妄",
+      "segments": [
+        {
+          "text": "あぁ　夢じゃないや！いや",
+          "performerIds": [
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "あぁ　"
+            },
+            {
+              "text": "夢",
+              "reading": "ゆめ"
+            },
+            {
+              "text": "じゃないや！いや"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    }
+  ]
+}

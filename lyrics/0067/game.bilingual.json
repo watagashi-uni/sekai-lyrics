@@ -1,0 +1,527 @@
+{
+  "music_id": 67,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-17",
+      "name": "宵崎奏"
+    },
+    {
+      "performerId": "歌唱者-18",
+      "name": "朝比奈まふゆ"
+    },
+    {
+      "performerId": "歌唱者-21",
+      "name": "初音ミク"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 32.770227,
+      "end": 36.277249,
+      "japanese": "君のようなひとになりたいな",
+      "zh-CN": "好想成为像你那样的人啊",
+      "segments": [
+        {
+          "text": "君のようなひとになりたいな",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "のようなひとになりたいな"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 36.58834,
+      "end": 40.262412,
+      "japanese": "「僕らしいひと」になりたいな",
+      "zh-CN": "好想成为“富有自我特色的人”啊",
+      "segments": [
+        {
+          "text": "「僕らしいひと」になりたいな",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "「"
+            },
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "らしいひと」になりたいな"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 40.581505,
+      "end": 44.16755,
+      "japanese": "望むならそうすりゃいいけどさ",
+      "zh-CN": "只要期盼照着去做就好了",
+      "segments": [
+        {
+          "text": "望むならそうすりゃいいけどさ",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "望",
+              "reading": "のぞ"
+            },
+            {
+              "text": "むならそうすりゃいいけどさ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 44.358606,
+      "end": 48.38578,
+      "japanese": "でもそれってほんとにぼくなのかい",
+      "zh-CN": "但那真的还是真正的我吗",
+      "segments": [
+        {
+          "text": "でもそれってほんとにぼくなのかい",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "でもそれってほんとにぼくなのかい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 49.468096,
+      "end": 55.314801,
+      "japanese": "子供騙しな夢ひとつ",
+      "zh-CN": "仅仅是一个骗小孩的梦想",
+      "segments": [
+        {
+          "text": "子供騙しな夢ひとつ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "子供騙",
+              "reading": "こどもだま"
+            },
+            {
+              "text": "しな"
+            },
+            {
+              "text": "夢",
+              "reading": "ゆめ"
+            },
+            {
+              "text": "ひとつ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 57.306382,
+      "end": 64.323428,
+      "japanese": "こんな僕なら死ねばいいのに",
+      "zh-CN": "像我这样的人干脆死掉算了",
+      "segments": [
+        {
+          "text": "こんな僕なら",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "こんな"
+            },
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "なら"
+            }
+          ]
+        },
+        {
+          "text": "死ねばいいのに",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-18",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "死",
+              "reading": "し"
+            },
+            {
+              "text": "ねばいいのに"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 64.803568,
+      "end": 68.814738,
+      "japanese": "こんな僕が生きてるだけで",
+      "zh-CN": "像我这样的人光是活着",
+      "segments": [
+        {
+          "text": "こんな僕が生きてるだけで",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-18",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "こんな"
+            },
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "生",
+              "reading": "い"
+            },
+            {
+              "text": "きてるだけで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 68.814738,
+      "end": 72.599841,
+      "japanese": "何万人のひとが悲しんで",
+      "zh-CN": "就会让几万人感到悲伤",
+      "segments": [
+        {
+          "text": "何万人のひとが悲しんで",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-18",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "何万人",
+              "reading": "なんまんにん"
+            },
+            {
+              "text": "のひとが"
+            },
+            {
+              "text": "悲",
+              "reading": "かな"
+            },
+            {
+              "text": "しんで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 72.871921,
+      "end": 76.153878,
+      "japanese": "誰も僕を望まない",
+      "zh-CN": "谁也不曾期盼我的存在",
+      "segments": [
+        {
+          "text": "誰も僕を望まない",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "誰",
+              "reading": "だれ"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "望",
+              "reading": "のぞ"
+            },
+            {
+              "text": "まない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 76.384945,
+      "end": 80.354103,
+      "japanese": "そんな世界だったらいいのにな",
+      "zh-CN": "倘若是那样的世界该有多好啊",
+      "segments": [
+        {
+          "text": "そんな世界だったらいいのにな",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "そんな"
+            },
+            {
+              "text": "世界",
+              "reading": "せかい"
+            },
+            {
+              "text": "だったらいいのにな"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 80.85825,
+      "end": 84.635351,
+      "japanese": "こんな僕が消えちゃうだけで",
+      "zh-CN": "只要像我这样的人彻底消失",
+      "segments": [
+        {
+          "text": "こんな僕が消えちゃうだけで",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-18",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "こんな"
+            },
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "消",
+              "reading": "き"
+            },
+            {
+              "text": "えちゃうだけで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 84.900428,
+      "end": 88.597507,
+      "japanese": "何億人のひとが喜んで",
+      "zh-CN": "就会让数亿人欢呼雀跃",
+      "segments": [
+        {
+          "text": "何億人のひとが喜んで",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-18",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "何億人",
+              "reading": "なんおくにん"
+            },
+            {
+              "text": "のひとが"
+            },
+            {
+              "text": "喜",
+              "reading": "よろこ"
+            },
+            {
+              "text": "んで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 88.876588,
+      "end": 92.661692,
+      "japanese": "誰も何も憎まないなら",
+      "zh-CN": "谁也不会去憎恨任何事物的话",
+      "segments": [
+        {
+          "text": "誰も何も憎まないなら",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "誰",
+              "reading": "だれ"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "何",
+              "reading": "なに"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "憎",
+              "reading": "にく"
+            },
+            {
+              "text": "まないなら"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 92.886757,
+      "end": 96.49781,
+      "japanese": "そんなうれしいことはないな",
+      "zh-CN": "再没有比这更令人欣喜的事了",
+      "segments": [
+        {
+          "text": "そんなうれしい",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "そんなうれしい"
+            }
+          ]
+        },
+        {
+          "text": "ことはないな",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-18",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ことはないな"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

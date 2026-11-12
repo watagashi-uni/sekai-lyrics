@@ -1,0 +1,623 @@
+{
+  "music_id": 120,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-01",
+      "name": "星乃一歌"
+    },
+    {
+      "performerId": "歌唱者-02",
+      "name": "天馬咲希"
+    },
+    {
+      "performerId": "歌唱者-21",
+      "name": "初音ミク"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 31.456796,
+      "end": 36.560711,
+      "japanese": "何でもないと口をつぐんだ",
+      "zh-CN": "闭口不谈谎称什么事都没有",
+      "segments": [
+        {
+          "text": "何でもないと口をつぐんだ",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "何",
+              "reading": "なん"
+            },
+            {
+              "text": "でもないと"
+            },
+            {
+              "text": "口",
+              "reading": "くち"
+            },
+            {
+              "text": "をつぐんだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 36.560711,
+      "end": 41.564667,
+      "japanese": "ホントはちょっと足を止めたくて",
+      "zh-CN": "其实心中只是想稍稍停下脚步",
+      "segments": [
+        {
+          "text": "ホントはちょっと足を止めたくて",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "ホントはちょっと"
+            },
+            {
+              "text": "足",
+              "reading": "あし"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "止",
+              "reading": "と"
+            },
+            {
+              "text": "めたくて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 41.564667,
+      "end": 46.149793,
+      "japanese": "だけどもきみは早足ですっと前を行くから",
+      "zh-CN": "但你却迈着快步径直走在前方",
+      "segments": [
+        {
+          "text": "だけどもきみは早足ですっと前を行くから",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "だけどもきみは"
+            },
+            {
+              "text": "早足",
+              "reading": "はやあし"
+            },
+            {
+              "text": "ですっと"
+            },
+            {
+              "text": "前",
+              "reading": "まえ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "行",
+              "reading": "い"
+            },
+            {
+              "text": "くから"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 46.149793,
+      "end": 51.61656,
+      "japanese": "ぼくはそれを見つめてる",
+      "zh-CN": "我只能静静注视着你的背影",
+      "segments": [
+        {
+          "text": "ぼくはそれを見つめてる",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "ぼくはそれを"
+            },
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "つめてる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 51.61656,
+      "end": 56.516558,
+      "japanese": "最終便　きみは乗る　ぼくを置いてって",
+      "zh-CN": "末班车 你坐了上去 将我独自留下",
+      "segments": [
+        {
+          "text": "最終便　きみは乗る　",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "最終便",
+              "reading": "さいしゅうびん"
+            },
+            {
+              "text": "　きみは"
+            },
+            {
+              "text": "乗",
+              "reading": "の"
+            },
+            {
+              "text": "る　"
+            }
+          ]
+        },
+        {
+          "text": "ぼくを置いてって",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ぼくを"
+            },
+            {
+              "text": "置",
+              "reading": "お"
+            },
+            {
+              "text": "いてって"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 56.516558,
+      "end": 61.581489,
+      "japanese": "はしりだす　ゆっくりと　地面がずれていく",
+      "zh-CN": "启动驰骋 缓缓前行 地面渐渐后退错开",
+      "segments": [
+        {
+          "text": "はしりだす　ゆっくりと　",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "はしりだす　ゆっくりと　"
+            }
+          ]
+        },
+        {
+          "text": "地面がずれていく",
+          "performerIds": [
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "地面",
+              "reading": "じめん"
+            },
+            {
+              "text": "がずれていく"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 61.581489,
+      "end": 63.811578,
+      "japanese": "泣いちゃだめ　泣いちゃだめ",
+      "zh-CN": "不能哭 不能哭",
+      "segments": [
+        {
+          "text": "泣いちゃだめ　泣いちゃだめ",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "泣",
+              "reading": "な"
+            },
+            {
+              "text": "いちゃだめ　"
+            },
+            {
+              "text": "泣",
+              "reading": "な"
+            },
+            {
+              "text": "いちゃだめ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 63.811578,
+      "end": 66.029672,
+      "japanese": "でもホントは言いたいよ",
+      "zh-CN": "可是其实我好想对你说",
+      "segments": [
+        {
+          "text": "でもホントは言いたいよ",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "でもホントは"
+            },
+            {
+              "text": "言",
+              "reading": "い"
+            },
+            {
+              "text": "いたいよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 66.029672,
+      "end": 69.200376,
+      "japanese": "「いかないで」",
+      "zh-CN": "“请不要走”",
+      "segments": [
+        {
+          "text": "「いかないで」",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "「いかないで」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 69.200376,
+      "end": 74.103373,
+      "japanese": "遠くへと 消えていく ぼくを置いてって",
+      "zh-CN": "渐渐消逝在远方 将我独自留下",
+      "segments": [
+        {
+          "text": "遠くへと 消えていく ぼくを置いてって",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "遠",
+              "reading": "とお"
+            },
+            {
+              "text": "くへと "
+            },
+            {
+              "text": "消",
+              "reading": "き"
+            },
+            {
+              "text": "えていく ぼくを"
+            },
+            {
+              "text": "置",
+              "reading": "お"
+            },
+            {
+              "text": "いてって"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 74.103373,
+      "end": 79.176301,
+      "japanese": "もう随分 見えないよ 夜が崩れていく",
+      "zh-CN": "已经完全看不见了 夜色正在崩塌沦陷",
+      "segments": [
+        {
+          "text": "もう随分 見えないよ 夜が崩れていく",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "もう"
+            },
+            {
+              "text": "随分",
+              "reading": "ずいぶん"
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "えないよ "
+            },
+            {
+              "text": "夜",
+              "reading": "よる"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "崩",
+              "reading": "くず"
+            },
+            {
+              "text": "れていく"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 79.176301,
+      "end": 83.592496,
+      "japanese": "泣いちゃだめ 泣いちゃだめ でもホントは言いたいよ",
+      "zh-CN": "不能哭 不能哭 可是其实我好想对你说",
+      "segments": [
+        {
+          "text": "泣いちゃだめ 泣いちゃだめ でもホントは言いたいよ",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "泣",
+              "reading": "な"
+            },
+            {
+              "text": "いちゃだめ "
+            },
+            {
+              "text": "泣",
+              "reading": "な"
+            },
+            {
+              "text": "いちゃだめ でもホントは"
+            },
+            {
+              "text": "言",
+              "reading": "い"
+            },
+            {
+              "text": "いたいよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 83.592496,
+      "end": 86.87875,
+      "japanese": "「いかないで」",
+      "zh-CN": "“请不要走”",
+      "segments": [
+        {
+          "text": "「いかないで」",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "「いかないで」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 86.87875,
+      "end": 88.879758,
+      "japanese": "泣いちゃだめ　泣いちゃだめ",
+      "zh-CN": "不能哭 不能哭",
+      "segments": [
+        {
+          "text": "泣いちゃだめ　泣いちゃだめ",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "泣",
+              "reading": "な"
+            },
+            {
+              "text": "いちゃだめ　"
+            },
+            {
+              "text": "泣",
+              "reading": "な"
+            },
+            {
+              "text": "いちゃだめ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 88.879758,
+      "end": 91.082858,
+      "japanese": "でもホントは言いたいよ",
+      "zh-CN": "可是其实我好想对你说",
+      "segments": [
+        {
+          "text": "でもホントは言いたいよ",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "でもホントは"
+            },
+            {
+              "text": "言",
+              "reading": "い"
+            },
+            {
+              "text": "いたいよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 91.082858,
+      "end": 94.266558,
+      "japanese": "「いかないで」",
+      "zh-CN": "“请不要走”",
+      "segments": [
+        {
+          "text": "「いかないで」",
+          "performerIds": [
+            "歌唱者-02",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "「いかないで」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

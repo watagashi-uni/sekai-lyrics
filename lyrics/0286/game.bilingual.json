@@ -1,0 +1,595 @@
+{
+  "music_id": 286,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-01",
+      "name": "星乃一歌"
+    },
+    {
+      "performerId": "歌唱者-02",
+      "name": "天馬咲希"
+    },
+    {
+      "performerId": "歌唱者-03",
+      "name": "望月穂波"
+    },
+    {
+      "performerId": "歌唱者-04",
+      "name": "日野森志歩"
+    },
+    {
+      "performerId": "歌唱者-24",
+      "name": "巡音ルカ"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 20.335223,
+      "end": 25.682143,
+      "japanese": "B4の紙切れに収まる僕の人生を",
+      "zh-CN": "能容纳在B4纸片里的我的人生",
+      "segments": [
+        {
+          "text": "B4の紙切れに収まる僕の人生を",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "B4の"
+            },
+            {
+              "text": "紙切",
+              "reading": "かみき"
+            },
+            {
+              "text": "れに"
+            },
+            {
+              "text": "収",
+              "reading": "おさ"
+            },
+            {
+              "text": "まる"
+            },
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "人生",
+              "reading": "じんせい"
+            },
+            {
+              "text": "を"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 25.92205,
+      "end": 31.613836,
+      "japanese": "誰かに認めて欲しくって振りまく笑顔",
+      "zh-CN": "渴求得到谁人的认可而挤出的满脸笑容",
+      "segments": [
+        {
+          "text": "誰かに認めて欲しくって振りまく笑顔",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "誰",
+              "reading": "だれ"
+            },
+            {
+              "text": "かに"
+            },
+            {
+              "text": "認",
+              "reading": "みと"
+            },
+            {
+              "text": "めて"
+            },
+            {
+              "text": "欲",
+              "reading": "ほ"
+            },
+            {
+              "text": "しくって"
+            },
+            {
+              "text": "振",
+              "reading": "ふ"
+            },
+            {
+              "text": "りまく"
+            },
+            {
+              "text": "笑顔",
+              "reading": "えがお"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 31.820756,
+      "end": 36.742841,
+      "japanese": "計算じゃ割り切れないこの歪な難問が",
+      "zh-CN": "仅凭算计无法除尽的这道扭曲难题",
+      "segments": [
+        {
+          "text": "計算じゃ割り切れないこの歪な難問が",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "計算",
+              "reading": "けいさん"
+            },
+            {
+              "text": "じゃ"
+            },
+            {
+              "text": "割",
+              "reading": "わ"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "切",
+              "reading": "き"
+            },
+            {
+              "text": "れないこの"
+            },
+            {
+              "text": "歪",
+              "reading": "いびつ"
+            },
+            {
+              "text": "な"
+            },
+            {
+              "text": "難問",
+              "reading": "なんもん"
+            },
+            {
+              "text": "が"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 37.266637,
+      "end": 42.926435,
+      "japanese": "解けるまで居残りなんだ 出られないんだ",
+      "zh-CN": "在解开之前只能留堂 无法脱身",
+      "segments": [
+        {
+          "text": "解けるまで居残りなんだ ",
+          "performerIds": [
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "解",
+              "reading": "と"
+            },
+            {
+              "text": "けるまで"
+            },
+            {
+              "text": "居残",
+              "reading": "いのこ"
+            },
+            {
+              "text": "りなんだ "
+            }
+          ]
+        },
+        {
+          "text": "出られないんだ",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "出",
+              "reading": "で"
+            },
+            {
+              "text": "られないんだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 43.183336,
+      "end": 48.631216,
+      "japanese": "先頭は遠ざかる 一人取り残される",
+      "zh-CN": "领跑的人渐行渐远 唯独自己被抛在后头",
+      "segments": [
+        {
+          "text": "先頭は遠ざかる ",
+          "performerIds": [
+            "歌唱者-03"
+          ],
+          "ruby": [
+            {
+              "text": "先頭",
+              "reading": "せんとう"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "遠",
+              "reading": "とお"
+            },
+            {
+              "text": "ざかる "
+            }
+          ]
+        },
+        {
+          "text": "一人取り残される",
+          "performerIds": [
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "一人",
+              "reading": "ひとり"
+            },
+            {
+              "text": "取",
+              "reading": "と"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "残",
+              "reading": "のこ"
+            },
+            {
+              "text": "される"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 48.85413,
+      "end": 53.905165,
+      "japanese": "目の前のレールの向こうに憧れるだけ",
+      "zh-CN": "只能憧憬着眼前轨道对岸的风景",
+      "segments": [
+        {
+          "text": "目の前のレールの向こうに憧れるだけ",
+          "performerIds": [
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "目",
+              "reading": "め"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "前",
+              "reading": "まえ"
+            },
+            {
+              "text": "のレールの"
+            },
+            {
+              "text": "向",
+              "reading": "む"
+            },
+            {
+              "text": "こうに"
+            },
+            {
+              "text": "憧",
+              "reading": "あこが"
+            },
+            {
+              "text": "れるだけ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 53.905165,
+      "end": 54.680863,
+      "japanese": "だけど",
+      "zh-CN": "可是啊",
+      "segments": [
+        {
+          "text": "だけど",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "だけど"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 54.680863,
+      "end": 57.649708,
+      "japanese": "何がしたいかわからない",
+      "zh-CN": "不知道自己想做什么",
+      "segments": [
+        {
+          "text": "何がしたいかわからない",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "何",
+              "reading": "なに"
+            },
+            {
+              "text": "がしたいかわからない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 57.649708,
+      "end": 60.419631,
+      "japanese": "何ができるかわからない",
+      "zh-CN": "不知道自己能做什么",
+      "segments": [
+        {
+          "text": "何ができるかわからない",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "何",
+              "reading": "なに"
+            },
+            {
+              "text": "ができるかわからない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 60.419631,
+      "end": 65.036835,
+      "japanese": "そう言いながら這いつくばってここまで来たんだよ",
+      "zh-CN": "一边这么说着一边匍匐前行才终于走到这里",
+      "segments": [
+        {
+          "text": "そう言いながら這いつくばってここまで来たんだよ",
+          "performerIds": [
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "そう"
+            },
+            {
+              "text": "言",
+              "reading": "い"
+            },
+            {
+              "text": "いながら"
+            },
+            {
+              "text": "這",
+              "reading": "は"
+            },
+            {
+              "text": "いつくばってここまで"
+            },
+            {
+              "text": "来",
+              "reading": "き"
+            },
+            {
+              "text": "たんだよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 66.084,
+      "end": 68.984,
+      "japanese": "明日のことはわからない",
+      "zh-CN": "明天的事我一无所知",
+      "segments": [
+        {
+          "text": "明日のことはわからない",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "明日",
+              "reading": "あした"
+            },
+            {
+              "text": "のことはわからない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 68.984,
+      "end": 71.535,
+      "japanese": "昨日のことはかわらない",
+      "zh-CN": "昨天的事已无法改变",
+      "segments": [
+        {
+          "text": "昨日のことはかわらない",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-03",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "昨日",
+              "reading": "きのう"
+            },
+            {
+              "text": "のことはかわらない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 71.535,
+      "end": 81.005,
+      "japanese": "なら今日だけは この今だけは僕らの物",
+      "zh-CN": "那么唯独今天 唯独这当下属于我们",
+      "segments": [
+        {
+          "text": "なら今日だけは この今だけは僕らの物",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "なら"
+            },
+            {
+              "text": "今日",
+              "reading": "きょう"
+            },
+            {
+              "text": "だけは この"
+            },
+            {
+              "text": "今",
+              "reading": "いま"
+            },
+            {
+              "text": "だけは"
+            },
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "らの"
+            },
+            {
+              "text": "物",
+              "reading": "もの"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

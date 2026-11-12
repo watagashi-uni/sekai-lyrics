@@ -1,0 +1,945 @@
+{
+  "music_id": 395,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-01",
+      "name": "星乃一歌"
+    },
+    {
+      "performerId": "歌唱者-02",
+      "name": "天馬咲希"
+    },
+    {
+      "performerId": "歌唱者-24",
+      "name": "巡音ルカ"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 30.580765,
+      "end": 35.914063,
+      "japanese": "昨日も今日も晴天で 入道雲を見ていた",
+      "zh-CN": "昨天今天皆是晴空万里 凝望着朵朵积雨云",
+      "segments": [
+        {
+          "text": "昨日も今日も晴天で 入道雲を見ていた",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "昨日",
+              "reading": "きのう"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "今日",
+              "reading": "きょう"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "晴天",
+              "reading": "せいてん"
+            },
+            {
+              "text": "で "
+            },
+            {
+              "text": "入道雲",
+              "reading": "にゅうどうぐも"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "ていた"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 35.914063,
+      "end": 41.217342,
+      "japanese": "怠いくらいの快晴だ 徐に目を閉じて",
+      "zh-CN": "晴好得令人有些慵懒 缓缓合上双眼",
+      "segments": [
+        {
+          "text": "怠いくらいの快晴だ 徐に目を閉じて",
+          "performerIds": [
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "怠",
+              "reading": "だる"
+            },
+            {
+              "text": "いくらいの"
+            },
+            {
+              "text": "快晴",
+              "reading": "かいせい"
+            },
+            {
+              "text": "だ "
+            },
+            {
+              "text": "徐",
+              "reading": "おもむろ"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "目",
+              "reading": "め"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "閉",
+              "reading": "と"
+            },
+            {
+              "text": "じて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 41.217342,
+      "end": 46.680719,
+      "japanese": "「それ」はどうも簡単に 思い出せやしない様で",
+      "zh-CN": "「那件事」似乎怎么也 无法轻易回想起来",
+      "segments": [
+        {
+          "text": "「それ」はどうも簡単に 思い出せやしない様で",
+          "performerIds": [
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "「それ」はどうも"
+            },
+            {
+              "text": "簡単",
+              "reading": "かんたん"
+            },
+            {
+              "text": "に "
+            },
+            {
+              "text": "思",
+              "reading": "おも"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "せやしない"
+            },
+            {
+              "text": "様",
+              "reading": "よう"
+            },
+            {
+              "text": "で"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 46.680719,
+      "end": 51.142478,
+      "japanese": "年を取った現状に 浸ってたんだよ",
+      "zh-CN": "沉浸在自己已然长大的现状之中",
+      "segments": [
+        {
+          "text": "年を取った現状に 浸ってたんだよ",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "年",
+              "reading": "とし"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "取",
+              "reading": "と"
+            },
+            {
+              "text": "った"
+            },
+            {
+              "text": "現状",
+              "reading": "げんじょう"
+            },
+            {
+              "text": "に "
+            },
+            {
+              "text": "浸",
+              "reading": "ひた"
+            },
+            {
+              "text": "ってたんだよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 62.823,
+      "end": 67.174,
+      "japanese": "大人ぶった作戦だ 不思議な合図立てて",
+      "zh-CN": "故作大人的作战计划 互通不可思议的暗号",
+      "segments": [
+        {
+          "text": "大人ぶった作戦だ 不思議な合図立てて",
+          "performerIds": [
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "大人",
+              "reading": "おとな"
+            },
+            {
+              "text": "ぶった"
+            },
+            {
+              "text": "作戦",
+              "reading": "さくせん"
+            },
+            {
+              "text": "だ "
+            },
+            {
+              "text": "不思議",
+              "reading": "ふしぎ"
+            },
+            {
+              "text": "な"
+            },
+            {
+              "text": "合図立",
+              "reading": "あいずた"
+            },
+            {
+              "text": "てて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 68.223039,
+      "end": 73.696423,
+      "japanese": "「行こうか、今日も戦争だ」 立ち向かって　手を取った",
+      "zh-CN": "「走吧 今天也是一场恶战」 迎难而上 牵起彼此的手",
+      "segments": [
+        {
+          "text": "「行こうか、今日も戦争だ」 立ち向かって　手を取った",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "「"
+            },
+            {
+              "text": "行",
+              "reading": "い"
+            },
+            {
+              "text": "こうか、"
+            },
+            {
+              "text": "今日",
+              "reading": "きょう"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "戦争",
+              "reading": "せんそう"
+            },
+            {
+              "text": "だ」 "
+            },
+            {
+              "text": "立",
+              "reading": "た"
+            },
+            {
+              "text": "ち"
+            },
+            {
+              "text": "向",
+              "reading": "む"
+            },
+            {
+              "text": "かって　"
+            },
+            {
+              "text": "手",
+              "reading": "て"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "取",
+              "reading": "と"
+            },
+            {
+              "text": "った"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 73.696423,
+      "end": 79.048732,
+      "japanese": "理不尽なんて当然で 独りぼっち　強いられて",
+      "zh-CN": "不讲道理乃是家常便饭 被迫孤身一人",
+      "segments": [
+        {
+          "text": "理不尽なんて当然で 独りぼっち　強いられて",
+          "performerIds": [
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "理不尽",
+              "reading": "りふじん"
+            },
+            {
+              "text": "なんて"
+            },
+            {
+              "text": "当然",
+              "reading": "とうぜん"
+            },
+            {
+              "text": "で "
+            },
+            {
+              "text": "独",
+              "reading": "ひと"
+            },
+            {
+              "text": "りぼっち　"
+            },
+            {
+              "text": "強",
+              "reading": "し"
+            },
+            {
+              "text": "いられて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 79.048732,
+      "end": 83.491479,
+      "japanese": "迷った僕は 憂鬱になりそうになってさ",
+      "zh-CN": "迷茫彷徨的我 几乎快要陷入抑郁之中",
+      "segments": [
+        {
+          "text": "迷った僕は 憂鬱になりそうになってさ",
+          "performerIds": [
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "迷",
+              "reading": "まよ"
+            },
+            {
+              "text": "った"
+            },
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "は "
+            },
+            {
+              "text": "憂鬱",
+              "reading": "ゆううつ"
+            },
+            {
+              "text": "になりそうになってさ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 84.532123,
+      "end": 89.875426,
+      "japanese": "背高草を分けて 滲む太陽睨んで",
+      "zh-CN": "拨开高耸的杂草 凝视着泛着微光的烈日",
+      "segments": [
+        {
+          "text": "背高草を分けて ",
+          "performerIds": [
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "背高草",
+              "reading": "せいたかそう"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "分",
+              "reading": "わ"
+            },
+            {
+              "text": "けて "
+            }
+          ]
+        },
+        {
+          "text": "滲む太陽睨んで",
+          "performerIds": [
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "滲",
+              "reading": "にじ"
+            },
+            {
+              "text": "む"
+            },
+            {
+              "text": "太陽睨",
+              "reading": "たいようにら"
+            },
+            {
+              "text": "んで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 89.875426,
+      "end": 95.368823,
+      "japanese": "君はさ、こう言ったんだ 「孤独だったら、おいでよ」",
+      "zh-CN": "你啊 曾这样对我说「若是感到孤独 就过来吧」",
+      "segments": [
+        {
+          "text": "君はさ、こう言ったんだ 「孤独だったら、おいでよ」",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "はさ、こう"
+            },
+            {
+              "text": "言",
+              "reading": "い"
+            },
+            {
+              "text": "ったんだ 「"
+            },
+            {
+              "text": "孤独",
+              "reading": "こどく"
+            },
+            {
+              "text": "だったら、おいでよ」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 95.368823,
+      "end": 100.70212,
+      "japanese": "騒がしさがノックして 生まれた　感情さえも",
+      "zh-CN": "就连因热闹敲门而萌生的 这份情感",
+      "segments": [
+        {
+          "text": "騒がしさがノックして ",
+          "performerIds": [
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "騒",
+              "reading": "さわ"
+            },
+            {
+              "text": "がしさがノックして "
+            }
+          ]
+        },
+        {
+          "text": "生まれた　感情さえも",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "生",
+              "reading": "う"
+            },
+            {
+              "text": "まれた　"
+            },
+            {
+              "text": "感情",
+              "reading": "かんじょう"
+            },
+            {
+              "text": "さえも"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 100.70212,
+      "end": 105.184892,
+      "japanese": "頭に浮かんでは萎んだ 「幻なのかな？」",
+      "zh-CN": "也在脑海中浮现后渐渐萎缩「难道只是幻象吗？」",
+      "segments": [
+        {
+          "text": "頭に浮かんでは萎んだ 「幻なのかな？」",
+          "performerIds": [
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "頭",
+              "reading": "あたま"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "浮",
+              "reading": "う"
+            },
+            {
+              "text": "かんでは"
+            },
+            {
+              "text": "萎",
+              "reading": "しぼ"
+            },
+            {
+              "text": "んだ 「"
+            },
+            {
+              "text": "幻",
+              "reading": "まぼろし"
+            },
+            {
+              "text": "なのかな？」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 106.264,
+      "end": 110.184,
+      "japanese": "「涼しいね」って言い合った 夏空は透明だ",
+      "zh-CN": "互诉着「真凉爽呢」 夏日天空一片澄澈透明",
+      "segments": [
+        {
+          "text": "「涼しいね」って言い合った 夏空は透明だ",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "「"
+            },
+            {
+              "text": "涼",
+              "reading": "すず"
+            },
+            {
+              "text": "しいね」って"
+            },
+            {
+              "text": "言",
+              "reading": "い"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "合",
+              "reading": "あ"
+            },
+            {
+              "text": "った "
+            },
+            {
+              "text": "夏空",
+              "reading": "なつぞら"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "透明",
+              "reading": "とうめい"
+            },
+            {
+              "text": "だ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 111.345402,
+      "end": 115.768136,
+      "japanese": "泣かない様に、吸い込んで 「さようなら」しよう",
+      "zh-CN": "为了不掉下眼泪 深吸一口气 道一声「再见」吧",
+      "segments": [
+        {
+          "text": "泣かない様に、吸い込んで 「さようなら」しよう",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "泣",
+              "reading": "な"
+            },
+            {
+              "text": "かない"
+            },
+            {
+              "text": "様",
+              "reading": "よう"
+            },
+            {
+              "text": "に、"
+            },
+            {
+              "text": "吸",
+              "reading": "す"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "込",
+              "reading": "こ"
+            },
+            {
+              "text": "んで 「さようなら」しよう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 116.678699,
+      "end": 122.072034,
+      "japanese": "秘密基地に集まって 笑い合った夏の日に",
+      "zh-CN": "聚集在秘密基地里 欢笑相对的夏日",
+      "segments": [
+        {
+          "text": "秘密基地に集まって 笑い合った夏の日に",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "秘密基地",
+              "reading": "ひみつきっち"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "集",
+              "reading": "あつ"
+            },
+            {
+              "text": "まって "
+            },
+            {
+              "text": "笑",
+              "reading": "わら"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "合",
+              "reading": "あ"
+            },
+            {
+              "text": "った"
+            },
+            {
+              "text": "夏",
+              "reading": "なつ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "日",
+              "reading": "ひ"
+            },
+            {
+              "text": "に"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 122.072034,
+      "end": 127.125158,
+      "japanese": "「また何処かで思い出して 出逢えるかな」って",
+      "zh-CN": "「若能在某处再次回想起来 还能再次相遇吗」",
+      "segments": [
+        {
+          "text": "「また何処かで思い出して ",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "「また"
+            },
+            {
+              "text": "何処",
+              "reading": "どこ"
+            },
+            {
+              "text": "かで"
+            },
+            {
+              "text": "思",
+              "reading": "おも"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "して "
+            }
+          ]
+        },
+        {
+          "text": "出逢えるかな」って",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "出逢",
+              "reading": "であ"
+            },
+            {
+              "text": "えるかな」って"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 127.125158,
+      "end": 134.878952,
+      "japanese": "何度でも",
+      "zh-CN": "无论多少次",
+      "segments": [
+        {
+          "text": "何度でも",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "何度",
+              "reading": "なんど"
+            },
+            {
+              "text": "でも"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 127.125158,
+      "end": 134.878952,
+      "japanese": "描こう",
+      "zh-CN": "尽情描绘吧",
+      "segments": [
+        {
+          "text": "描こう",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "描",
+              "reading": "えが"
+            },
+            {
+              "text": "こう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    }
+  ]
+}

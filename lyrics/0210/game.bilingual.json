@@ -1,0 +1,886 @@
+{
+  "music_id": 210,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-11",
+      "name": "東雲彰人"
+    },
+    {
+      "performerId": "歌唱者-12",
+      "name": "青柳冬弥"
+    },
+    {
+      "performerId": "歌唱者-23",
+      "name": "鏡音レン"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 20.98975,
+      "end": 26.70075,
+      "japanese": "誰かが言った",
+      "zh-CN": "曾有人说过",
+      "segments": [
+        {
+          "text": "誰かが言った",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "誰",
+              "reading": "だれ"
+            },
+            {
+              "text": "かが"
+            },
+            {
+              "text": "言",
+              "reading": "い"
+            },
+            {
+              "text": "った"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 20.98975,
+      "end": 26.70075,
+      "japanese": "いつか空は灰になって落ちるって",
+      "zh-CN": "天空总有一天会化作灰烬坠落下来",
+      "segments": [
+        {
+          "text": "いつか空は灰になって落ちるって",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "いつか"
+            },
+            {
+              "text": "空",
+              "reading": "そら"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "灰",
+              "reading": "はい"
+            },
+            {
+              "text": "になって"
+            },
+            {
+              "text": "落",
+              "reading": "お"
+            },
+            {
+              "text": "ちるって"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 26.70075,
+      "end": 28.99675,
+      "japanese": "妄想の世の中で",
+      "zh-CN": "在这妄想的尘世之中",
+      "segments": [
+        {
+          "text": "妄想の世の中で",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "妄想",
+              "reading": "もうそう"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "世",
+              "reading": "よ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "中",
+              "reading": "なか"
+            },
+            {
+              "text": "で"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 26.70075,
+      "end": 28.99675,
+      "japanese": "日々を喰らっている",
+      "zh-CN": "吞噬虚度着每一个日常",
+      "segments": [
+        {
+          "text": "日々を喰らっている",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "日々",
+              "reading": "ひび"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "喰",
+              "reading": "く"
+            },
+            {
+              "text": "らっている"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 30.69975,
+      "end": 36.54175,
+      "japanese": "境界線を引いてしまうのも",
+      "zh-CN": "划清界线这种事情",
+      "segments": [
+        {
+          "text": "境界線を引いてしまうのも",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "境界線",
+              "reading": "きょうかいせん"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "引",
+              "reading": "ひ"
+            },
+            {
+              "text": "いてしまうのも"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 30.69975,
+      "end": 36.54175,
+      "japanese": "共感覚のせいにして",
+      "zh-CN": "也全都归咎于联觉通感",
+      "segments": [
+        {
+          "text": "共感覚のせいにして",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "共感覚",
+              "reading": "きょうかんかく"
+            },
+            {
+              "text": "のせいにして"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 36.54175,
+      "end": 38.99675,
+      "japanese": "街の灯の海で",
+      "zh-CN": "在街灯的无垠海洋之中",
+      "segments": [
+        {
+          "text": "街の灯の海で",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "街",
+              "reading": "まち"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "灯",
+              "reading": "ひ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "海",
+              "reading": "うみ"
+            },
+            {
+              "text": "で"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 36.54175,
+      "end": 38.99675,
+      "japanese": "居場所を探している",
+      "zh-CN": "苦苦寻觅着容身之所",
+      "segments": [
+        {
+          "text": "居場所を探している",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "居場所",
+              "reading": "いばしょ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "探",
+              "reading": "さが"
+            },
+            {
+              "text": "している"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 41.19775,
+      "end": 51.10375,
+      "japanese": "何処へ行くにも",
+      "zh-CN": "无论想要前往何方",
+      "segments": [
+        {
+          "text": "何処へ行くにも",
+          "performerIds": [
+            "歌唱者-11",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "何処",
+              "reading": "どこ"
+            },
+            {
+              "text": "へ"
+            },
+            {
+              "text": "行",
+              "reading": "ゆ"
+            },
+            {
+              "text": "くにも"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 41.19775,
+      "end": 51.10375,
+      "japanese": "この足は退屈に染まって動かない",
+      "zh-CN": "这双脚都被无聊染透动弹不得",
+      "segments": [
+        {
+          "text": "この足は",
+          "performerIds": [
+            "歌唱者-11",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "この"
+            },
+            {
+              "text": "足",
+              "reading": "あし"
+            },
+            {
+              "text": "は"
+            }
+          ]
+        },
+        {
+          "text": "退屈に染まって動かない",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "退屈",
+              "reading": "たいくつ"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "染",
+              "reading": "そ"
+            },
+            {
+              "text": "まって"
+            },
+            {
+              "text": "動",
+              "reading": "うご"
+            },
+            {
+              "text": "かない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 51.10375,
+      "end": 58.98675,
+      "japanese": "少しだけ先の景色が見たいだけなのにな",
+      "zh-CN": "明明不过是想看一看稍微前方一点的风景罢啦",
+      "segments": [
+        {
+          "text": "少しだけ先の景色が",
+          "performerIds": [
+            "歌唱者-12",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "少",
+              "reading": "すこ"
+            },
+            {
+              "text": "しだけ"
+            },
+            {
+              "text": "先",
+              "reading": "さき"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "景色",
+              "reading": "けしき"
+            },
+            {
+              "text": "が"
+            }
+          ]
+        },
+        {
+          "text": "見たいだけなのにな",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "たいだけなのにな"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 60.46575,
+      "end": 65.69075,
+      "japanese": "雨が降ったら　きっと　頬を濡らしてしまう",
+      "zh-CN": "天空若是下起雨来　必定　会将脸颊彻底打湿",
+      "segments": [
+        {
+          "text": "雨が降ったら　きっと　頬を濡らしてしまう",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "雨",
+              "reading": "あめ"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "降",
+              "reading": "ふ"
+            },
+            {
+              "text": "ったら　きっと　"
+            },
+            {
+              "text": "頬",
+              "reading": "ほお"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "濡",
+              "reading": "ぬ"
+            },
+            {
+              "text": "らしてしまう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 65.69075,
+      "end": 70.24575,
+      "japanese": "枯れてしまった　色ですら　愛しくなるのに",
+      "zh-CN": "明明哪怕是枯萎凋零的　色彩　也显得令人怜爱",
+      "segments": [
+        {
+          "text": "枯れてしまった　色ですら　愛しくなるのに",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "枯",
+              "reading": "か"
+            },
+            {
+              "text": "れてしまった　"
+            },
+            {
+              "text": "色",
+              "reading": "いろ"
+            },
+            {
+              "text": "ですら　"
+            },
+            {
+              "text": "愛",
+              "reading": "いと"
+            },
+            {
+              "text": "しくなるのに"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 70.24575,
+      "end": 75.43375,
+      "japanese": "目を瞑ったら　もっと　遠く霞んでしまう",
+      "zh-CN": "闭上双眼的话　更会　变得遥远模糊不清",
+      "segments": [
+        {
+          "text": "目を瞑ったら　もっと　遠く霞んでしまう",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "目",
+              "reading": "め"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "瞑",
+              "reading": "つむ"
+            },
+            {
+              "text": "ったら　もっと　"
+            },
+            {
+              "text": "遠",
+              "reading": "とお"
+            },
+            {
+              "text": "く"
+            },
+            {
+              "text": "霞",
+              "reading": "かす"
+            },
+            {
+              "text": "んでしまう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 75.43375,
+      "end": 79.30525,
+      "japanese": "煩くなった雨の音 笑い飛ばしてくれ！",
+      "zh-CN": "变得嘈杂烦乱的雨声　请付之一笑彻底吹散吧！",
+      "segments": [
+        {
+          "text": "煩くなった雨の音 ",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "煩",
+              "reading": "うるさ"
+            },
+            {
+              "text": "くなった"
+            },
+            {
+              "text": "雨",
+              "reading": "あめ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "音",
+              "reading": "おと"
+            },
+            {
+              "text": " "
+            }
+          ]
+        },
+        {
+          "text": "笑い飛ばしてくれ！",
+          "performerIds": [
+            "歌唱者-11",
+            "歌唱者-12",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "笑",
+              "reading": "わら"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "飛",
+              "reading": "と"
+            },
+            {
+              "text": "ばしてくれ！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 89.94075,
+      "end": 95.21875,
+      "japanese": "雨が降ったら　きっと　頬を濡らしてしまう",
+      "zh-CN": "天空若是下起雨来　必定　会将脸颊彻底打湿",
+      "segments": [
+        {
+          "text": "雨が降ったら　きっと　頬を濡らしてしまう",
+          "performerIds": [
+            "歌唱者-11",
+            "歌唱者-12",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "雨",
+              "reading": "あめ"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "降",
+              "reading": "ふ"
+            },
+            {
+              "text": "ったら　きっと　"
+            },
+            {
+              "text": "頬",
+              "reading": "ほお"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "濡",
+              "reading": "ぬ"
+            },
+            {
+              "text": "らしてしまう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 95.21875,
+      "end": 99.70375,
+      "japanese": "枯れてしまった　色ですら　愛しくなるのに",
+      "zh-CN": "明明哪怕是枯萎凋零的　色彩　也显得令人怜爱",
+      "segments": [
+        {
+          "text": "枯れてしまった　色ですら　愛しくなるのに",
+          "performerIds": [
+            "歌唱者-11",
+            "歌唱者-12",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "枯",
+              "reading": "か"
+            },
+            {
+              "text": "れてしまった　"
+            },
+            {
+              "text": "色",
+              "reading": "いろ"
+            },
+            {
+              "text": "ですら　"
+            },
+            {
+              "text": "愛",
+              "reading": "いと"
+            },
+            {
+              "text": "しくなるのに"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 99.70375,
+      "end": 105.05275,
+      "japanese": "目を瞑ったら　もっと　遠く霞んでしまう",
+      "zh-CN": "闭上双眼的话　更会　变得遥远模糊不清",
+      "segments": [
+        {
+          "text": "目を瞑ったら　もっと　遠く霞んでしまう",
+          "performerIds": [
+            "歌唱者-11",
+            "歌唱者-12",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "目",
+              "reading": "め"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "瞑",
+              "reading": "つむ"
+            },
+            {
+              "text": "ったら　もっと　"
+            },
+            {
+              "text": "遠",
+              "reading": "とお"
+            },
+            {
+              "text": "く"
+            },
+            {
+              "text": "霞",
+              "reading": "かす"
+            },
+            {
+              "text": "んでしまう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 105.05275,
+      "end": 110.40575,
+      "japanese": "煩くなった雨の音　笑い飛ばしてくれ！",
+      "zh-CN": "变得嘈杂烦乱的雨声　请付之一笑彻底吹散吧！",
+      "segments": [
+        {
+          "text": "煩くなった雨の音　笑い飛ばしてくれ！",
+          "performerIds": [
+            "歌唱者-11",
+            "歌唱者-12",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "煩",
+              "reading": "うるさ"
+            },
+            {
+              "text": "くなった"
+            },
+            {
+              "text": "雨",
+              "reading": "あめ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "音",
+              "reading": "おと"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "笑",
+              "reading": "わら"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "飛",
+              "reading": "と"
+            },
+            {
+              "text": "ばしてくれ！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

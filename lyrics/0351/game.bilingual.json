@@ -1,0 +1,1085 @@
+{
+  "music_id": 351,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-01",
+      "name": "星乃一歌"
+    },
+    {
+      "performerId": "歌唱者-02",
+      "name": "天馬咲希"
+    },
+    {
+      "performerId": "歌唱者-03",
+      "name": "望月穂波"
+    },
+    {
+      "performerId": "歌唱者-04",
+      "name": "日野森志歩"
+    },
+    {
+      "performerId": "歌唱者-25",
+      "name": "MEIKO"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 27.01625,
+      "end": 34.67625,
+      "japanese": "明日 宇宙人攻めてきて　この星全てを乗っ取っても",
+      "zh-CN": "哪怕明天外星人入侵 占领了这整颗星球",
+      "segments": [
+        {
+          "text": "明日 ",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-04",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "明日",
+              "reading": "あした"
+            },
+            {
+              "text": " "
+            }
+          ]
+        },
+        {
+          "text": "宇宙人攻めてきて　この星全てを乗っ取っても",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "宇宙人攻",
+              "reading": "うちゅうじんせ"
+            },
+            {
+              "text": "めてきて　この"
+            },
+            {
+              "text": "星全",
+              "reading": "ほしすべ"
+            },
+            {
+              "text": "てを"
+            },
+            {
+              "text": "乗",
+              "reading": "の"
+            },
+            {
+              "text": "っ"
+            },
+            {
+              "text": "取",
+              "reading": "と"
+            },
+            {
+              "text": "っても"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 34.805625,
+      "end": 40.452162,
+      "japanese": "絶対に守るから　心配しないで",
+      "zh-CN": "我也一定会保护你 不必担心",
+      "segments": [
+        {
+          "text": "絶対に守るから　心配しないで",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "絶対",
+              "reading": "ぜったい"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "守",
+              "reading": "まも"
+            },
+            {
+              "text": "るから　"
+            },
+            {
+              "text": "心配",
+              "reading": "しんぱい"
+            },
+            {
+              "text": "しないで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 40.88625,
+      "end": 48.34625,
+      "japanese": "明後日 チキュウジン増え過ぎて　人類火星に引っ越しだけど",
+      "zh-CN": "哪怕后天地球人过多 人类要全部搬去火星",
+      "segments": [
+        {
+          "text": "明後日 ",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-03",
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "明後日",
+              "reading": "あさって"
+            },
+            {
+              "text": " "
+            }
+          ]
+        },
+        {
+          "text": "チキュウジン増え過ぎて　人類火星に引っ越しだけど",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "チキュウジン"
+            },
+            {
+              "text": "増",
+              "reading": "ふ"
+            },
+            {
+              "text": "え"
+            },
+            {
+              "text": "過",
+              "reading": "す"
+            },
+            {
+              "text": "ぎて　"
+            },
+            {
+              "text": "人類火星",
+              "reading": "じんるいかせい"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "引",
+              "reading": "ひ"
+            },
+            {
+              "text": "っ"
+            },
+            {
+              "text": "越",
+              "reading": "こ"
+            },
+            {
+              "text": "しだけど"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 48.34625,
+      "end": 54.45625,
+      "japanese": "一緒に　世界に残るよ　ねえ大丈夫",
+      "zh-CN": "我也会陪你一同留在这个世界 放心没事的",
+      "segments": [
+        {
+          "text": "一緒に　",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-03"
+          ],
+          "ruby": [
+            {
+              "text": "一緒",
+              "reading": "いっしょ"
+            },
+            {
+              "text": "に　"
+            }
+          ]
+        },
+        {
+          "text": "世界に残るよ　ねえ大丈夫",
+          "performerIds": [
+            "歌唱者-02",
+            "歌唱者-03"
+          ],
+          "ruby": [
+            {
+              "text": "世界",
+              "reading": "せかい"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "残",
+              "reading": "のこ"
+            },
+            {
+              "text": "るよ　ねえ"
+            },
+            {
+              "text": "大丈夫",
+              "reading": "だいじょうぶ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 56.523841,
+      "end": 63.903235,
+      "japanese": "雨の日も　晴れの日も　悲しい事全部話して？",
+      "zh-CN": "无论是下雨天 还是晴朗天 把难过的事全都告诉我吧？",
+      "segments": [
+        {
+          "text": "雨の日も　",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-03"
+          ],
+          "ruby": [
+            {
+              "text": "雨",
+              "reading": "あめ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "日",
+              "reading": "ひ"
+            },
+            {
+              "text": "も　"
+            }
+          ]
+        },
+        {
+          "text": "晴れの日も　",
+          "performerIds": [
+            "歌唱者-02",
+            "歌唱者-03"
+          ],
+          "ruby": [
+            {
+              "text": "晴",
+              "reading": "は"
+            },
+            {
+              "text": "れの"
+            },
+            {
+              "text": "日",
+              "reading": "ひ"
+            },
+            {
+              "text": "も　"
+            }
+          ]
+        },
+        {
+          "text": "悲しい事全部話して？",
+          "performerIds": [
+            "歌唱者-02",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "悲",
+              "reading": "かな"
+            },
+            {
+              "text": "しい"
+            },
+            {
+              "text": "事全部話",
+              "reading": "ことぜんぶはな"
+            },
+            {
+              "text": "して？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 63.903235,
+      "end": 70.288711,
+      "japanese": "何時でも　どんな時でも　傍にいるね",
+      "zh-CN": "无论是何时 无论是怎样的时候 我都会陪在身旁",
+      "segments": [
+        {
+          "text": "何時でも　",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "何時",
+              "reading": "いつ"
+            },
+            {
+              "text": "でも　"
+            }
+          ]
+        },
+        {
+          "text": "どんな時でも　",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "どんな"
+            },
+            {
+              "text": "時",
+              "reading": "とき"
+            },
+            {
+              "text": "でも　"
+            }
+          ]
+        },
+        {
+          "text": "傍にいるね",
+          "performerIds": [
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "傍",
+              "reading": "そば"
+            },
+            {
+              "text": "にいるね"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 70.856664,
+      "end": 77.302135,
+      "japanese": "重なる夢の先に　みんなで歩いて行こうよ",
+      "zh-CN": "朝着交织的梦想彼端 大家一起并肩前行吧",
+      "segments": [
+        {
+          "text": "重なる夢の先に　",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "重",
+              "reading": "かさ"
+            },
+            {
+              "text": "なる"
+            },
+            {
+              "text": "夢",
+              "reading": "ゆめ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "先",
+              "reading": "さき"
+            },
+            {
+              "text": "に　"
+            }
+          ]
+        },
+        {
+          "text": "みんなで歩いて行こうよ",
+          "performerIds": [
+            "歌唱者-03"
+          ],
+          "ruby": [
+            {
+              "text": "みんなで"
+            },
+            {
+              "text": "歩",
+              "reading": "ある"
+            },
+            {
+              "text": "いて"
+            },
+            {
+              "text": "行",
+              "reading": "い"
+            },
+            {
+              "text": "こうよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 77.451123,
+      "end": 84.114575,
+      "japanese": "歌えない日の夜に　さよならさよなら",
+      "zh-CN": "向无法放声歌唱的日子 向长夜道别道别",
+      "segments": [
+        {
+          "text": "歌えない日の夜に　",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "歌",
+              "reading": "うた"
+            },
+            {
+              "text": "えない"
+            },
+            {
+              "text": "日",
+              "reading": "ひ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "夜",
+              "reading": "よる"
+            },
+            {
+              "text": "に　"
+            }
+          ]
+        },
+        {
+          "text": "さよならさよなら",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-04",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "さよならさよなら"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 84.38625,
+      "end": 97.29775,
+      "japanese": "これからも宜しくね　少しだけ恥ずかしいんだけど...",
+      "zh-CN": "今后也请多多关照 虽然稍微有点害羞……",
+      "segments": [
+        {
+          "text": "これからも宜しくね　",
+          "performerIds": [
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "これからも"
+            },
+            {
+              "text": "宜",
+              "reading": "よろ"
+            },
+            {
+              "text": "しくね　"
+            }
+          ]
+        },
+        {
+          "text": "少しだけ恥ずかしいんだけど...",
+          "performerIds": [
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "少",
+              "reading": "すこ"
+            },
+            {
+              "text": "しだけ"
+            },
+            {
+              "text": "恥",
+              "reading": "は"
+            },
+            {
+              "text": "ずかしいんだけど..."
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 84.38625,
+      "end": 97.29775,
+      "japanese": "もっと（もっと） 「あるがとう」　届けたいのさ",
+      "zh-CN": "想要将更多（更多）的「感谢」 传达给你",
+      "segments": [
+        {
+          "text": "もっと",
+          "performerIds": [
+            "歌唱者-02",
+            "歌唱者-03"
+          ],
+          "ruby": [
+            {
+              "text": "もっと"
+            }
+          ]
+        },
+        {
+          "text": "（もっと） ",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-04",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "（もっと） "
+            }
+          ]
+        },
+        {
+          "text": "「あるがとう」　届けたいのさ",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-03"
+          ],
+          "ruby": [
+            {
+              "text": "「あるがとう」　"
+            },
+            {
+              "text": "届",
+              "reading": "とど"
+            },
+            {
+              "text": "けたいのさ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 111.88425,
+      "end": 118.67425,
+      "japanese": "更なる∞の先に　んなで歩いて行こうよ",
+      "zh-CN": "朝着更加辽阔的无限彼端 大家一起并肩前行吧",
+      "segments": [
+        {
+          "text": "更なる∞の先に　",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "更",
+              "reading": "さら"
+            },
+            {
+              "text": "なる∞の"
+            },
+            {
+              "text": "先",
+              "reading": "むげんのさき"
+            },
+            {
+              "text": "に　"
+            }
+          ]
+        },
+        {
+          "text": "んなで歩いて行こうよ",
+          "performerIds": [
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "んなで"
+            },
+            {
+              "text": "歩",
+              "reading": "ある"
+            },
+            {
+              "text": "いて"
+            },
+            {
+              "text": "行",
+              "reading": "い"
+            },
+            {
+              "text": "こうよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 118.51585,
+      "end": 125.291294,
+      "japanese": "謡えない日の夜に　さよならさよなら",
+      "zh-CN": "向无法放声歌唱的日子 向长夜道别道别",
+      "segments": [
+        {
+          "text": "謡えない",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "謡",
+              "reading": "うた"
+            },
+            {
+              "text": "えない"
+            }
+          ]
+        },
+        {
+          "text": "日の夜に　",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-03",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "日",
+              "reading": "ひ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "夜",
+              "reading": "よる"
+            },
+            {
+              "text": "に　"
+            }
+          ]
+        },
+        {
+          "text": "さよならさよなら",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-04",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "さよならさよなら"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 125.54425,
+      "end": 140.31425,
+      "japanese": "此れからも宜しくね　ホンっトに恥ずかしいんだけど...",
+      "zh-CN": "今后也请多多关照 虽然真的一点都不好意思……",
+      "segments": [
+        {
+          "text": "此れからも宜しくね　",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-04",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "此",
+              "reading": "こ"
+            },
+            {
+              "text": "れからも"
+            },
+            {
+              "text": "宜",
+              "reading": "よろ"
+            },
+            {
+              "text": "しくね　"
+            }
+          ]
+        },
+        {
+          "text": "ホンっトに恥ずかしいんだけど...",
+          "performerIds": [
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "ホンっトに"
+            },
+            {
+              "text": "恥",
+              "reading": "は"
+            },
+            {
+              "text": "ずかしいんだけど..."
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 125.54425,
+      "end": 140.31425,
+      "japanese": "もっと（もっと） 「あるがとう」　届けたいのさ",
+      "zh-CN": "想要将更多（更多）的「感谢」 传达给你",
+      "segments": [
+        {
+          "text": "もっと",
+          "performerIds": [
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "もっと"
+            }
+          ]
+        },
+        {
+          "text": "（もっと） ",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-04",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "（もっと） "
+            }
+          ]
+        },
+        {
+          "text": "「あるがとう」　届けたいのさ",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "「あるがとう」　"
+            },
+            {
+              "text": "届",
+              "reading": "とど"
+            },
+            {
+              "text": "けたいのさ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "index": 14,
+      "start": 140.23301,
+      "end": 141.353027,
+      "japanese": "YEAH (YEAH)",
+      "zh-CN": "YEAH (YEAH)",
+      "segments": [
+        {
+          "text": "YEAH ",
+          "performerIds": [
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "YEAH "
+            }
+          ]
+        },
+        {
+          "text": "(YEAH)",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-04",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "(YEAH)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 142.28425,
+      "end": 148.70425,
+      "japanese": "今届けたいのさ",
+      "zh-CN": "此刻就想传达给你",
+      "segments": [
+        {
+          "text": "今届けたいのさ",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-04",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "今届",
+              "reading": "いまとど"
+            },
+            {
+              "text": "けたいのさ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 148.70425,
+      "end": 162.80425,
+      "japanese": "来月　来年　百年後も届",
+      "zh-CN": "下个月 明年 就算百年之后",
+      "segments": [
+        {
+          "text": "来月　",
+          "performerIds": [
+            "歌唱者-03"
+          ],
+          "ruby": [
+            {
+              "text": "来月",
+              "reading": "らいげつ"
+            },
+            {
+              "text": "　"
+            }
+          ]
+        },
+        {
+          "text": "来年　",
+          "performerIds": [
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "来年",
+              "reading": "らいねん"
+            },
+            {
+              "text": "　"
+            }
+          ]
+        },
+        {
+          "text": "百年後も届",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "百年後",
+              "reading": "ひゃくねんご"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "届",
+              "reading": "とど"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 148.70425,
+      "end": 162.80425,
+      "japanese": "けたいから",
+      "zh-CN": "也想要传递给你",
+      "segments": [
+        {
+          "text": "けたいから",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "けたいから"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 162.80425,
+      "end": 166.74425,
+      "japanese": "今届けたいのさ",
+      "zh-CN": "此刻就想传达给你",
+      "segments": [
+        {
+          "text": "今届けたいのさ",
+          "performerIds": [
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "今届",
+              "reading": "いまとど"
+            },
+            {
+              "text": "けたいのさ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

@@ -1,0 +1,809 @@
+{
+  "music_id": 154,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-06",
+      "name": "桐谷遥"
+    },
+    {
+      "performerId": "歌唱者-08",
+      "name": "日野森雫"
+    },
+    {
+      "performerId": "歌唱者-24",
+      "name": "巡音ルカ"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 9.41,
+      "end": 18.61,
+      "japanese": "そして君が知らずに　幸せな灰になった後で",
+      "zh-CN": "随后在你不经意间　化作幸福的尘灰之后",
+      "segments": [
+        {
+          "text": "そして君が知らずに　幸せな灰になった後で",
+          "performerIds": [
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "そして"
+            },
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "知",
+              "reading": "し"
+            },
+            {
+              "text": "らずに　"
+            },
+            {
+              "text": "幸",
+              "reading": "しあわ"
+            },
+            {
+              "text": "せな"
+            },
+            {
+              "text": "灰",
+              "reading": "はい"
+            },
+            {
+              "text": "になった"
+            },
+            {
+              "text": "後",
+              "reading": "あと"
+            },
+            {
+              "text": "で"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 18.61,
+      "end": 26.93,
+      "japanese": "僕は今更　君が好きだって",
+      "zh-CN": "我才事到如今　发觉自己喜欢着你",
+      "segments": [
+        {
+          "text": "僕は今更　君が好きだって",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-08",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "今更",
+              "reading": "いまさら"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "好",
+              "reading": "す"
+            },
+            {
+              "text": "きだって"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 39.84587,
+      "end": 43.963306,
+      "japanese": "「大人になりたくないよ」なんて大人ぶってさ",
+      "zh-CN": "说着「真不想长大成大人啊」装作懂事的模样",
+      "segments": [
+        {
+          "text": "「大人になりたくないよ」なんて大人ぶってさ",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "「"
+            },
+            {
+              "text": "大人",
+              "reading": "おとな"
+            },
+            {
+              "text": "になりたくないよ」なんて"
+            },
+            {
+              "text": "大人",
+              "reading": "おとな"
+            },
+            {
+              "text": "ぶってさ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 44.379451,
+      "end": 47.884673,
+      "japanese": "駆けた　少年の日",
+      "zh-CN": "奔跑而过的　年少岁月",
+      "segments": [
+        {
+          "text": "駆けた　少年の日",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "駆",
+              "reading": "か"
+            },
+            {
+              "text": "けた　"
+            },
+            {
+              "text": "少年",
+              "reading": "しょうねん"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "日",
+              "reading": "ひ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 49.725315,
+      "end": 54.12785,
+      "japanese": "どうやら僕に訪れた　悪戯は",
+      "zh-CN": "降临在我身上的这场恶作剧",
+      "segments": [
+        {
+          "text": "どうやら僕に訪れた　悪戯は",
+          "performerIds": [
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "どうやら"
+            },
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "訪",
+              "reading": "おどず"
+            },
+            {
+              "text": "れた　"
+            },
+            {
+              "text": "悪戯",
+              "reading": "いたずら"
+            },
+            {
+              "text": "は"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 54.70305,
+      "end": 59.739807,
+      "japanese": "相当タチの悪い　不老不死のおせっかい",
+      "zh-CN": "看来是相当恶劣的　长生不老的多管闲事",
+      "segments": [
+        {
+          "text": "相当タチの悪い　不老不死のおせっかい",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "相当",
+              "reading": "そうとう"
+            },
+            {
+              "text": "タチの"
+            },
+            {
+              "text": "悪",
+              "reading": "わる"
+            },
+            {
+              "text": "い　"
+            },
+            {
+              "text": "不老不死",
+              "reading": "ふろうふし"
+            },
+            {
+              "text": "のおせっかい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 60.15095,
+      "end": 63.467106,
+      "japanese": "神様ステキな　プレゼントをありがとう",
+      "zh-CN": "谢谢神明大人送给我这么美好的礼物",
+      "segments": [
+        {
+          "text": "神様ステキな　プレゼントをありがとう",
+          "performerIds": [
+            "歌唱者-08",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "神様",
+              "reading": "かみさま"
+            },
+            {
+              "text": "ステキな　プレゼントをありがとう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 63.467106,
+      "end": 68.280785,
+      "japanese": "なんて　到底　的外れな",
+      "zh-CN": "这种话　根本完全不着边际",
+      "segments": [
+        {
+          "text": "なんて　",
+          "performerIds": [
+            "歌唱者-08",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "なんて　"
+            }
+          ]
+        },
+        {
+          "text": "到底　的外れな",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "到底",
+              "reading": "とうてい"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "的外",
+              "reading": "まとはず"
+            },
+            {
+              "text": "れな"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 69.090067,
+      "end": 74.382912,
+      "japanese": "幼い冗談の奥に　大事に隠した",
+      "zh-CN": "深藏在幼稚玩笑背后的",
+      "segments": [
+        {
+          "text": "幼い冗談の奥に　大事に隠した",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "幼",
+              "reading": "おさな"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "冗談",
+              "reading": "じょうだん"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "奥",
+              "reading": "おく"
+            },
+            {
+              "text": "に　"
+            },
+            {
+              "text": "大事",
+              "reading": "だいじ"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "隠",
+              "reading": "かく"
+            },
+            {
+              "text": "した"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 74.847074,
+      "end": 78.21925,
+      "japanese": "片思いは　察してくれないんだ",
+      "zh-CN": "那份单相思　你却始终没有察觉到呢",
+      "segments": [
+        {
+          "text": "片思いは　察してくれないんだ",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "片思",
+              "reading": "かたおも"
+            },
+            {
+              "text": "いは　"
+            },
+            {
+              "text": "察",
+              "reading": "さ"
+            },
+            {
+              "text": "してくれないんだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 79.919843,
+      "end": 84.779538,
+      "japanese": "追い越してく　戻れない憧憬",
+      "zh-CN": "渐渐超越而过　无法回首的憧憬",
+      "segments": [
+        {
+          "text": "追い越してく　戻れない憧憬",
+          "performerIds": [
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "追",
+              "reading": "お"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "越",
+              "reading": "こ"
+            },
+            {
+              "text": "してく　"
+            },
+            {
+              "text": "戻",
+              "reading": "もど"
+            },
+            {
+              "text": "れない"
+            },
+            {
+              "text": "憧憬",
+              "reading": "しょうけい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 84.779538,
+      "end": 89.595217,
+      "japanese": "好きな人に　さよならを",
+      "zh-CN": "向心爱之人　道一声永别",
+      "segments": [
+        {
+          "text": "好きな人に　",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "好",
+              "reading": "す"
+            },
+            {
+              "text": "きな"
+            },
+            {
+              "text": "人",
+              "reading": "ひと"
+            },
+            {
+              "text": "に　"
+            }
+          ]
+        },
+        {
+          "text": "さよならを",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "さよならを"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 91.619848,
+      "end": 96.349497,
+      "japanese": "いつか見た夕焼けは　あんなにキレイだったのに",
+      "zh-CN": "曾经见过的夕阳余晖　明明是那般美丽",
+      "segments": [
+        {
+          "text": "いつか見た夕焼けは　あんなにキレイだったのに",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-08",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "いつか"
+            },
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "た"
+            },
+            {
+              "text": "夕焼",
+              "reading": "ゆうや"
+            },
+            {
+              "text": "けは　あんなにキレイだったのに"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 96.534561,
+      "end": 101.383252,
+      "japanese": "恋なんて呼ぶには　遠回りしすぎたよ",
+      "zh-CN": "如今若称之为恋情　却未免绕了太漫长的大远路",
+      "segments": [
+        {
+          "text": "恋なんて呼ぶには　遠回りしすぎたよ",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-08",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "恋",
+              "reading": "こい"
+            },
+            {
+              "text": "なんて"
+            },
+            {
+              "text": "呼",
+              "reading": "よ"
+            },
+            {
+              "text": "ぶには　"
+            },
+            {
+              "text": "遠回",
+              "reading": "とおまわ"
+            },
+            {
+              "text": "りしすぎたよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 101.543308,
+      "end": 107.726464,
+      "japanese": "そして　何もかもが　手遅れの灰になった後で",
+      "zh-CN": "随后　在一切都为时已晚　化作灰烬之后",
+      "segments": [
+        {
+          "text": "そして　何もかもが　手遅れの灰になった後で",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-08",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "そして　"
+            },
+            {
+              "text": "何",
+              "reading": "なに"
+            },
+            {
+              "text": "もかもが　"
+            },
+            {
+              "text": "手遅",
+              "reading": "ておく"
+            },
+            {
+              "text": "れの"
+            },
+            {
+              "text": "灰",
+              "reading": "はい"
+            },
+            {
+              "text": "になった"
+            },
+            {
+              "text": "後",
+              "reading": "あと"
+            },
+            {
+              "text": "で"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 108.217635,
+      "end": 113.518483,
+      "japanese": "僕は今更　君が好きだって",
+      "zh-CN": "我才事到如今　想要告诉你我喜欢你",
+      "segments": [
+        {
+          "text": "僕は今更　",
+          "performerIds": [
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "今更",
+              "reading": "いまさら"
+            },
+            {
+              "text": "　"
+            }
+          ]
+        },
+        {
+          "text": "君が好きだって",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "好",
+              "reading": "す"
+            },
+            {
+              "text": "きだって"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 114.006654,
+      "end": 119.127439,
+      "japanese": "君が好きだった　って言えたよ",
+      "zh-CN": "终于能够说出　我曾是那般喜欢你",
+      "segments": [
+        {
+          "text": "君が好きだった　って言え",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "好",
+              "reading": "す"
+            },
+            {
+              "text": "きだった　って"
+            },
+            {
+              "text": "言",
+              "reading": "い"
+            },
+            {
+              "text": "え"
+            }
+          ]
+        },
+        {
+          "text": "たよ",
+          "performerIds": [
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "たよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

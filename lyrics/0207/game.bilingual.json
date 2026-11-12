@@ -1,0 +1,850 @@
+{
+  "music_id": 207,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-01",
+      "name": "星乃一歌"
+    },
+    {
+      "performerId": "歌唱者-02",
+      "name": "天馬咲希"
+    },
+    {
+      "performerId": "歌唱者-03",
+      "name": "望月穂波"
+    },
+    {
+      "performerId": "歌唱者-04",
+      "name": "日野森志歩"
+    },
+    {
+      "performerId": "歌唱者-26",
+      "name": "KAITO"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 26.297,
+      "end": 26.497,
+      "japanese": "は!",
+      "zh-CN": "哈!",
+      "segments": [
+        {
+          "text": "は!",
+          "performerIds": [
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "は!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 26.78,
+      "end": 29.78,
+      "japanese": "和気あいあいと言葉交わすだけじゃ",
+      "zh-CN": "仅仅是一团和气地互道客套话",
+      "segments": [
+        {
+          "text": "和気あいあいと言葉交わすだけじゃ",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "和気",
+              "reading": "わき"
+            },
+            {
+              "text": "あいあいと"
+            },
+            {
+              "text": "言葉交",
+              "reading": "ことばか"
+            },
+            {
+              "text": "わすだけじゃ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 30.382,
+      "end": 33.568,
+      "japanese": "憧れや夢には近づけない",
+      "zh-CN": "可无法缩短与憧憬和梦想的距离",
+      "segments": [
+        {
+          "text": "憧れや夢には近づけない",
+          "performerIds": [
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "憧",
+              "reading": "あこが"
+            },
+            {
+              "text": "れや"
+            },
+            {
+              "text": "夢",
+              "reading": "ゆめ"
+            },
+            {
+              "text": "には"
+            },
+            {
+              "text": "近",
+              "reading": "ちか"
+            },
+            {
+              "text": "づけない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 33.45475,
+      "end": 36.60275,
+      "japanese": "鳴らすBeatでTalkingしようよ",
+      "zh-CN": "用奏响的Beat展开对话Talking吧",
+      "segments": [
+        {
+          "text": "鳴らすBeatでTalkingしようよ",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "鳴",
+              "reading": "な"
+            },
+            {
+              "text": "らすBeatでTalkingしようよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 36.2,
+      "end": 39.587,
+      "japanese": "馴れ合いはいらない（いらない）",
+      "zh-CN": "不需要虚情假意的附和互舔伤口（不需要）",
+      "segments": [
+        {
+          "text": "馴れ合いはいらない",
+          "performerIds": [
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "馴",
+              "reading": "な"
+            },
+            {
+              "text": "れ"
+            },
+            {
+              "text": "合",
+              "reading": "あ"
+            },
+            {
+              "text": "いはいらない"
+            }
+          ]
+        },
+        {
+          "text": "（いらない）",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "（いらない）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 39.6,
+      "end": 41.68,
+      "japanese": "転がる石のように",
+      "zh-CN": "宛如滚石一般",
+      "segments": [
+        {
+          "text": "転がる石のように",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "転",
+              "reading": "ころ"
+            },
+            {
+              "text": "がる"
+            },
+            {
+              "text": "石",
+              "reading": "いし"
+            },
+            {
+              "text": "のように"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 42.766,
+      "end": 46.218,
+      "japanese": "“I want to be legit”",
+      "zh-CN": "“I want to be legit”",
+      "segments": [
+        {
+          "text": "“I want to be legit”",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "“I want to be legit”"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 46.53,
+      "end": 50.378,
+      "japanese": "最後に笑えるように",
+      "zh-CN": "为了在最后能开怀大笑",
+      "segments": [
+        {
+          "text": "最後に笑えるように",
+          "performerIds": [
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "最後",
+              "reading": "さいご"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "笑",
+              "reading": "わら"
+            },
+            {
+              "text": "えるように"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 50.47875,
+      "end": 50.75075,
+      "japanese": "さあ",
+      "zh-CN": "来吧",
+      "segments": [
+        {
+          "text": "さあ",
+          "performerIds": [
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "さあ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 50.88675,
+      "end": 53.29475,
+      "japanese": "もう一回Try it Try it",
+      "zh-CN": "再试一次 Try it Try it",
+      "segments": [
+        {
+          "text": "もう一回",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "もう"
+            },
+            {
+              "text": "一回",
+              "reading": "いっかい"
+            }
+          ]
+        },
+        {
+          "text": "Try it Try it",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-04",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "Try it Try it"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 53.44875,
+      "end": 55.11775,
+      "japanese": "振り切ってPeaky Peaky",
+      "zh-CN": "彻底甩开极限 Peaky Peaky",
+      "segments": [
+        {
+          "text": "振り切って",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "振",
+              "reading": "ふ"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "切",
+              "reading": "き"
+            },
+            {
+              "text": "って"
+            }
+          ]
+        },
+        {
+          "text": "Peaky Peaky",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-04",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "Peaky Peaky"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 55.122,
+      "end": 57.432,
+      "japanese": "わかりあえなくたっていい",
+      "zh-CN": "就算无法互相理解也毫无关系",
+      "segments": [
+        {
+          "text": "わかりあえなくたっていい",
+          "performerIds": [
+            "歌唱者-02",
+            "歌唱者-04",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "わかりあえなくたっていい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 58.101,
+      "end": 59.906,
+      "japanese": "悲しみのリズムも",
+      "zh-CN": "连同悲伤的节奏",
+      "segments": [
+        {
+          "text": "悲しみのリズムも",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "悲",
+              "reading": "かな"
+            },
+            {
+              "text": "しみのリズムも"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 59.906,
+      "end": 61.523,
+      "japanese": "かき鳴らしBurning up",
+      "zh-CN": "一并尽情弹奏 Burning up",
+      "segments": [
+        {
+          "text": "かき鳴らしBurning up",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "かき"
+            },
+            {
+              "text": "鳴",
+              "reading": "な"
+            },
+            {
+              "text": "らしBurning up"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 61.73975,
+      "end": 64.51975,
+      "japanese": "響けセカイに",
+      "zh-CN": "在SEKAI中响彻吧",
+      "segments": [
+        {
+          "text": "響けセカイに",
+          "performerIds": [
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "響",
+              "reading": "ひび"
+            },
+            {
+              "text": "けセカイに"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 64.51975,
+      "end": 66.27813,
+      "japanese": "Our Fire Music",
+      "zh-CN": "Our Fire Music",
+      "segments": [
+        {
+          "text": "Our Fire Music",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "Our Fire Music"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 81.063,
+      "end": 84.912,
+      "japanese": "最高に笑えるように",
+      "zh-CN": "为了能够最开怀地欢笑",
+      "segments": [
+        {
+          "text": "最高に笑えるように",
+          "performerIds": [
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "最高",
+              "reading": "さいこう"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "笑",
+              "reading": "わら"
+            },
+            {
+              "text": "えるように"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 84.883,
+      "end": 86.85,
+      "japanese": "何万回でも",
+      "zh-CN": "纵然千千万万遍",
+      "segments": [
+        {
+          "text": "何万回でも",
+          "performerIds": [
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "何万回",
+              "reading": "なんまんかい"
+            },
+            {
+              "text": "でも"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 86.85,
+      "end": 89.154,
+      "japanese": "は! Try it Try it",
+      "zh-CN": "哈! Try it Try it",
+      "segments": [
+        {
+          "text": "は! ",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "は! "
+            }
+          ]
+        },
+        {
+          "text": "Try it Try it",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-04",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "Try it Try it"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 88.81125,
+      "end": 90.67525,
+      "japanese": "振り切ってPeaky Peaky",
+      "zh-CN": "彻底甩开极限 Peaky Peaky",
+      "segments": [
+        {
+          "text": "振り切って",
+          "performerIds": [
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "振",
+              "reading": "ふ"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "切",
+              "reading": "き"
+            },
+            {
+              "text": "って"
+            }
+          ]
+        },
+        {
+          "text": "Peaky Peaky",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-04",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "Peaky Peaky"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 91.02,
+      "end": 93.54,
+      "japanese": "わかりあえなくたっていい",
+      "zh-CN": "就算无法互相理解也毫无关系",
+      "segments": [
+        {
+          "text": "わかりあえなくたっていい",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-03",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "わかりあえなくたっていい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 93.55425,
+      "end": 95.34225,
+      "japanese": "悲しみのリズムも",
+      "zh-CN": "连同悲伤的节奏",
+      "segments": [
+        {
+          "text": "悲しみのリズムも",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "悲",
+              "reading": "かな"
+            },
+            {
+              "text": "しみのリズムも"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000023",
+      "order": 22,
+      "index": 22,
+      "start": 95.34225,
+      "end": 97.21925,
+      "japanese": "かき鳴らしてBurning up",
+      "zh-CN": "一并尽情弹奏 Burning up",
+      "segments": [
+        {
+          "text": "かき鳴らしてBurning up",
+          "performerIds": [
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "かき"
+            },
+            {
+              "text": "鳴",
+              "reading": "な"
+            },
+            {
+              "text": "らしてBurning up"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000024",
+      "order": 23,
+      "index": 23,
+      "start": 97.21925,
+      "end": 100.06825,
+      "japanese": "響けセカイに",
+      "zh-CN": "在SEKAI中响彻吧",
+      "segments": [
+        {
+          "text": "響けセカイに",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "響",
+              "reading": "ひび"
+            },
+            {
+              "text": "けセカイに"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000025",
+      "order": 24,
+      "index": 24,
+      "start": 100.06825,
+      "end": 101.74138,
+      "japanese": "Our Fire Music",
+      "zh-CN": "Our Fire Music",
+      "segments": [
+        {
+          "text": "Our Fire Music",
+          "performerIds": [
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "Our Fire Music"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

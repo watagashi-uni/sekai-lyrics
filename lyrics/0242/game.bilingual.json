@@ -1,0 +1,763 @@
+{
+  "music_id": 242,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-06",
+      "name": "桐谷遥"
+    },
+    {
+      "performerId": "歌唱者-07",
+      "name": "桃井愛莉"
+    },
+    {
+      "performerId": "歌唱者-21",
+      "name": "初音ミク"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 23.09057,
+      "end": 26.515288,
+      "japanese": "0と1が交差する地点",
+      "zh-CN": "0与1相互交错的交汇点",
+      "segments": [
+        {
+          "text": "0と1が交差する地点",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "0と1が"
+            },
+            {
+              "text": "交差",
+              "reading": "こうさ"
+            },
+            {
+              "text": "する"
+            },
+            {
+              "text": "地点",
+              "reading": "ちてん"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 26.515288,
+      "end": 30.039969,
+      "japanese": "間違いだらけの　コミュニケーション",
+      "zh-CN": "尽是差错谬误的 错乱沟通",
+      "segments": [
+        {
+          "text": "間違いだらけの　",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "間違",
+              "reading": "まちが"
+            },
+            {
+              "text": "いだらけの　"
+            }
+          ]
+        },
+        {
+          "text": "コミュニケーション",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "コミュニケーション"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 30.039969,
+      "end": 33.555653,
+      "japanese": "アナタの名前は　何ですか？",
+      "zh-CN": "你的名字 究竟叫什么？",
+      "segments": [
+        {
+          "text": "アナタの名前は　何ですか？",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "アナタの"
+            },
+            {
+              "text": "名前",
+              "reading": "なまえ"
+            },
+            {
+              "text": "は　"
+            },
+            {
+              "text": "何",
+              "reading": "なん"
+            },
+            {
+              "text": "ですか？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 33.555653,
+      "end": 36.932389,
+      "japanese": "10文字以内で　答エヨ",
+      "zh-CN": "请在10个字以内 作出回答",
+      "segments": [
+        {
+          "text": "10文字以内で　答エヨ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "10"
+            },
+            {
+              "text": "文字",
+              "reading": "もじ"
+            },
+            {
+              "text": "以内",
+              "reading": "いない"
+            },
+            {
+              "text": "で　"
+            },
+            {
+              "text": "答",
+              "reading": "こた"
+            },
+            {
+              "text": "エヨ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 37.283258,
+      "end": 40.72297,
+      "japanese": "過去と未来が　交差する地点",
+      "zh-CN": "过去与未来 相互交错的交汇点",
+      "segments": [
+        {
+          "text": "過去と未来が　交差する地点",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "過去",
+              "reading": "かこ"
+            },
+            {
+              "text": "と"
+            },
+            {
+              "text": "未来",
+              "reading": "みらい"
+            },
+            {
+              "text": "が　"
+            },
+            {
+              "text": "交差",
+              "reading": "こうさ"
+            },
+            {
+              "text": "する"
+            },
+            {
+              "text": "地点",
+              "reading": "ちてん"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 40.72297,
+      "end": 44.203668,
+      "japanese": "行く宛を失った　現在地",
+      "zh-CN": "失去前行方向的 所在现址",
+      "segments": [
+        {
+          "text": "行く宛を失った　",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "行",
+              "reading": "ゆ"
+            },
+            {
+              "text": "く"
+            },
+            {
+              "text": "宛",
+              "reading": "あて"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "失",
+              "reading": "うしな"
+            },
+            {
+              "text": "った　"
+            }
+          ]
+        },
+        {
+          "text": "現在地",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "現在地",
+              "reading": "げんざいち"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 44.203668,
+      "end": 47.783328,
+      "japanese": "アナタはどうして　生きているの？",
+      "zh-CN": "你究竟是为什么 而活着呢？",
+      "segments": [
+        {
+          "text": "アナタはどうして　生きているの？",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "アナタはどうして　"
+            },
+            {
+              "text": "生",
+              "reading": "い"
+            },
+            {
+              "text": "きているの？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 47.783328,
+      "end": 51.230038,
+      "japanese": "100文字以内で　答エヨ",
+      "zh-CN": "请在100个字以内 作出回答",
+      "segments": [
+        {
+          "text": "100文字以内で　答エヨ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "100"
+            },
+            {
+              "text": "文字",
+              "reading": "もじ"
+            },
+            {
+              "text": "以内",
+              "reading": "いない"
+            },
+            {
+              "text": "で　"
+            },
+            {
+              "text": "答",
+              "reading": "こた"
+            },
+            {
+              "text": "エヨ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 51.479944,
+      "end": 58.516311,
+      "japanese": "過去最高速の　夜が明ける",
+      "zh-CN": "历来最快速的 黎明拂晓降临",
+      "segments": [
+        {
+          "text": "過去最高速の　夜が明ける",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "過去最高速",
+              "reading": "かこさいこうそく"
+            },
+            {
+              "text": "の　"
+            },
+            {
+              "text": "夜",
+              "reading": "よる"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "明",
+              "reading": "あ"
+            },
+            {
+              "text": "ける"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 58.516311,
+      "end": 65.346754,
+      "japanese": "バランス取ることも　できないまま",
+      "zh-CN": "甚至连平衡感 都无法好好维持",
+      "segments": [
+        {
+          "text": "バランス取ることも　",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "バランス"
+            },
+            {
+              "text": "取",
+              "reading": "と"
+            },
+            {
+              "text": "ることも　"
+            }
+          ]
+        },
+        {
+          "text": "できないまま",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "できないまま"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 65.5605,
+      "end": 68.05563,
+      "japanese": "自分だけどこか　取り残された",
+      "zh-CN": "唯独我自己不知为何 被遗留抛下",
+      "segments": [
+        {
+          "text": "自分だけどこか　取り残された",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "自分",
+              "reading": "じぶん"
+            },
+            {
+              "text": "だけどこか　"
+            },
+            {
+              "text": "取",
+              "reading": "と"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "残",
+              "reading": "のこ"
+            },
+            {
+              "text": "された"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 72.635661,
+      "end": 76.154344,
+      "japanese": "歪んだ景色に　塗りつぶされた",
+      "zh-CN": "被彻底涂抹覆盖在 扭曲变形的风景中",
+      "segments": [
+        {
+          "text": "歪んだ景色に　塗りつぶされた",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "歪",
+              "reading": "いが"
+            },
+            {
+              "text": "んだ"
+            },
+            {
+              "text": "景色",
+              "reading": "けしき"
+            },
+            {
+              "text": "に　"
+            },
+            {
+              "text": "塗",
+              "reading": "ぬ"
+            },
+            {
+              "text": "りつぶされた"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 76.154344,
+      "end": 79.690021,
+      "japanese": "真実はいらない　偽りでいいの",
+      "zh-CN": "根本不需要真实 哪怕是虚假伪装也无所谓",
+      "segments": [
+        {
+          "text": "真実はいらない　",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "真実",
+              "reading": "こたえ"
+            },
+            {
+              "text": "はいらない　"
+            }
+          ]
+        },
+        {
+          "text": "偽りでいいの",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "偽",
+              "reading": "いつわ"
+            },
+            {
+              "text": "りでいいの"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 79.690021,
+      "end": 83.231695,
+      "japanese": "自分だけどこか　取り残された",
+      "zh-CN": "唯独我自己不知为何 被遗留抛下",
+      "segments": [
+        {
+          "text": "自分だけどこか　取り残された",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "自分",
+              "reading": "じぶん"
+            },
+            {
+              "text": "だけどこか　"
+            },
+            {
+              "text": "取",
+              "reading": "がと"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "残",
+              "reading": "のこ"
+            },
+            {
+              "text": "された"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 83.231695,
+      "end": 86.830348,
+      "japanese": "色のない世界　夢に見た世界",
+      "zh-CN": "毫无色彩的世界 曾在梦中见过的世界",
+      "segments": [
+        {
+          "text": "色のない世界　夢に見た世界",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "色",
+              "reading": "いろ"
+            },
+            {
+              "text": "のない"
+            },
+            {
+              "text": "世界",
+              "reading": "せかい"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "夢",
+              "reading": "ゆめ"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "た"
+            },
+            {
+              "text": "世界",
+              "reading": "せかい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 86.830348,
+      "end": 90.343033,
+      "japanese": "傷んだ果実を　捨てることすら",
+      "zh-CN": "甚至连扔掉腐烂果实这件事",
+      "segments": [
+        {
+          "text": "傷んだ果実を　捨てることすら",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "傷",
+              "reading": "いた"
+            },
+            {
+              "text": "んだ"
+            },
+            {
+              "text": "果実",
+              "reading": "かじつ"
+            },
+            {
+              "text": "を　"
+            },
+            {
+              "text": "捨",
+              "reading": "す"
+            },
+            {
+              "text": "てることすら"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 90.297608,
+      "end": 93.860085,
+      "japanese": "1人じゃ出来ない　傍にいてほしくて",
+      "zh-CN": "孤身一人都做不到 好想有你陪伴在身旁",
+      "segments": [
+        {
+          "text": "1人じゃ出来ない　",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "1"
+            },
+            {
+              "text": "人",
+              "reading": "ひとり"
+            },
+            {
+              "text": "じゃ"
+            },
+            {
+              "text": "出来",
+              "reading": "でき"
+            },
+            {
+              "text": "ない　"
+            }
+          ]
+        },
+        {
+          "text": "傍にいてほしくて",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "傍",
+              "reading": "そば"
+            },
+            {
+              "text": "にいてほしくて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

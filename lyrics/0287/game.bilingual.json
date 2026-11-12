@@ -1,0 +1,635 @@
+{
+  "music_id": 287,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-05",
+      "name": "花里みのり"
+    },
+    {
+      "performerId": "歌唱者-06",
+      "name": "桐谷遥"
+    },
+    {
+      "performerId": "歌唱者-07",
+      "name": "桃井愛莉"
+    },
+    {
+      "performerId": "歌唱者-08",
+      "name": "日野森雫"
+    },
+    {
+      "performerId": "歌唱者-23",
+      "name": "鏡音レン"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 9.64,
+      "end": 14.308,
+      "japanese": "あぁ　何もない自分が怖くなるほど",
+      "zh-CN": "啊 害怕起一无所有的自己",
+      "segments": [
+        {
+          "text": "あぁ　何もない自分が怖くなるほど",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "あぁ　"
+            },
+            {
+              "text": "何",
+              "reading": "なに"
+            },
+            {
+              "text": "もない"
+            },
+            {
+              "text": "自分",
+              "reading": "じぶん"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "怖",
+              "reading": "こわ"
+            },
+            {
+              "text": "くなるほど"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 14.306,
+      "end": 20.313,
+      "japanese": "完璧さってやつにすぐ縋ってしまうよ",
+      "zh-CN": "总是不由自主地依附所谓的完美",
+      "segments": [
+        {
+          "text": "完璧さってやつにすぐ縋ってしまうよ",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "完璧",
+              "reading": "かんぺき"
+            },
+            {
+              "text": "さってやつにすぐ"
+            },
+            {
+              "text": "縋",
+              "reading": "すが"
+            },
+            {
+              "text": "ってしまうよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 19.94,
+      "end": 25.4,
+      "japanese": "涙はもう二度と見せない　もう見せないから",
+      "zh-CN": "决不会再让你看到眼泪 绝不再让你看见",
+      "segments": [
+        {
+          "text": "涙はもう二度と見せない　もう見せないから",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "涙",
+              "reading": "なみだ"
+            },
+            {
+              "text": "はもう"
+            },
+            {
+              "text": "二度",
+              "reading": "にど"
+            },
+            {
+              "text": "と"
+            },
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "せない　もう"
+            },
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "せないから"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 25.581,
+      "end": 31.267,
+      "japanese": "心はどうだろう昨日より乾いたかな",
+      "zh-CN": "内心又如何呢 比起昨日是否更干涸了呢",
+      "segments": [
+        {
+          "text": "心はどうだろう昨日より乾いたかな",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "心",
+              "reading": "こころ"
+            },
+            {
+              "text": "はどうだろう"
+            },
+            {
+              "text": "昨日",
+              "reading": "きのう"
+            },
+            {
+              "text": "より"
+            },
+            {
+              "text": "乾",
+              "reading": "かわ"
+            },
+            {
+              "text": "いたかな"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 31.261,
+      "end": 36.909,
+      "japanese": "心は言う　涙は",
+      "zh-CN": "内心在诉说 泪水",
+      "segments": [
+        {
+          "text": "心は言",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "心",
+              "reading": "こ"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "言",
+              "reading": "ころわ"
+            }
+          ]
+        },
+        {
+          "text": "う　",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "う　"
+            }
+          ]
+        },
+        {
+          "text": "涙",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "涙",
+              "reading": "なみだ"
+            }
+          ]
+        },
+        {
+          "text": "は",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "は"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 36.901,
+      "end": 43.57,
+      "japanese": "あなただけのものだ　だから",
+      "zh-CN": "唯独属于你自己 所以",
+      "segments": [
+        {
+          "text": "あなた",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "あなた"
+            }
+          ]
+        },
+        {
+          "text": "だけのものだ　",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "だけのものだ　"
+            }
+          ]
+        },
+        {
+          "text": "だから",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "だから"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 43.57,
+      "end": 44.872,
+      "japanese": "あぁぁぁ",
+      "zh-CN": "啊啊啊",
+      "segments": [
+        {
+          "text": "あぁぁぁ",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "あぁぁぁ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 44.461,
+      "end": 49.787,
+      "japanese": "あなたの言葉に傷ついても",
+      "zh-CN": "就算被你的话语所中伤",
+      "segments": [
+        {
+          "text": "あなたの言葉に傷ついても",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "あなたの"
+            },
+            {
+              "text": "言葉",
+              "reading": "ことば"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "傷",
+              "reading": "きず"
+            },
+            {
+              "text": "ついても"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 49.787,
+      "end": 55.433,
+      "japanese": "私は私だから迷うことはない",
+      "zh-CN": "我就是我自己 绝不会动摇迷茫",
+      "segments": [
+        {
+          "text": "私は私だから迷うことはない",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "私",
+              "reading": "わたし"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "私",
+              "reading": "わたし"
+            },
+            {
+              "text": "だから"
+            },
+            {
+              "text": "迷",
+              "reading": "まよ"
+            },
+            {
+              "text": "うことはない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 55.602,
+      "end": 61.248,
+      "japanese": "守られることはもうきっとないけど",
+      "zh-CN": "虽然一定再也得不到庇护",
+      "segments": [
+        {
+          "text": "守られることはもうきっとないけど",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "守",
+              "reading": "まも"
+            },
+            {
+              "text": "られることはもうきっとないけど"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 60.82,
+      "end": 66.88,
+      "japanese": "守りたいものばかりさ心配はない",
+      "zh-CN": "但身边尽是想要守护之物 无需担忧",
+      "segments": [
+        {
+          "text": "守りたいものばかりさ心配はない",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "守",
+              "reading": "まも"
+            },
+            {
+              "text": "りたいものばかりさ"
+            },
+            {
+              "text": "心配",
+              "reading": "しんぱい"
+            },
+            {
+              "text": "はない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 66.81,
+      "end": 68.192,
+      "japanese": "怖いものはない",
+      "zh-CN": "无所畏惧",
+      "segments": [
+        {
+          "text": "怖いものはない",
+          "performerIds": [
+            "歌唱者-08",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "怖",
+              "reading": "こわ"
+            },
+            {
+              "text": "いものはない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 69.86,
+      "end": 72.42,
+      "japanese": "恐れはしない",
+      "zh-CN": "绝不退缩",
+      "segments": [
+        {
+          "text": "恐れはしない",
+          "performerIds": [
+            "歌唱者-08",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "恐",
+              "reading": "おそ"
+            },
+            {
+              "text": "れはしない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 71.72,
+      "end": 74.047,
+      "japanese": "怖いものはない",
+      "zh-CN": "无所畏惧",
+      "segments": [
+        {
+          "text": "怖いものはない",
+          "performerIds": [
+            "歌唱者-08",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "怖",
+              "reading": "こわ"
+            },
+            {
+              "text": "いものはない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 75.55475,
+      "end": 78.02675,
+      "japanese": "恐れはしない",
+      "zh-CN": "绝不退缩",
+      "segments": [
+        {
+          "text": "恐れはしない",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "恐",
+              "reading": "おそ"
+            },
+            {
+              "text": "れはしない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 89.83375,
+      "end": 112.05375,
+      "japanese": "nananana...",
+      "zh-CN": "nananana...",
+      "segments": [
+        {
+          "text": "nananana...",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "nananana..."
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    }
+  ]
+}

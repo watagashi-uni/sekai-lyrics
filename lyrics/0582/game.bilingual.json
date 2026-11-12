@@ -1,0 +1,1509 @@
+{
+  "music_id": 582,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-05",
+      "name": "花里みのり"
+    },
+    {
+      "performerId": "歌唱者-06",
+      "name": "桐谷遥"
+    },
+    {
+      "performerId": "歌唱者-07",
+      "name": "桃井愛莉"
+    },
+    {
+      "performerId": "歌唱者-08",
+      "name": "日野森雫"
+    },
+    {
+      "performerId": "歌唱者-24",
+      "name": "巡音ルカ"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 9.46025,
+      "end": 13.06125,
+      "japanese": "「夢 希望は賞味期限があるのよ」",
+      "zh-CN": "「梦想和希望都是有保质期的呢」",
+      "segments": [
+        {
+          "text": "「夢 希望は賞味期限があるのよ」",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "「"
+            },
+            {
+              "text": "夢",
+              "reading": "ゆめ"
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "希望",
+              "reading": "きぼう"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "賞味期限",
+              "reading": "しょうみきげん"
+            },
+            {
+              "text": "があるのよ」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 13.06125,
+      "end": 16.81325,
+      "japanese": "「まだ持ってんの？笑 やめた方が...」Giveup Giveup)",
+      "zh-CN": "「你居然还留着吗？笑 还是放弃为好……」(Giveup Giveup)",
+      "segments": [
+        {
+          "text": "「まだ持ってんの？笑 やめた方が...」",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "「まだ"
+            },
+            {
+              "text": "持",
+              "reading": "も"
+            },
+            {
+              "text": "ってんの？"
+            },
+            {
+              "text": "笑",
+              "reading": "の"
+            },
+            {
+              "text": " やめた"
+            },
+            {
+              "text": "方",
+              "reading": "ほう"
+            },
+            {
+              "text": "が...」"
+            }
+          ]
+        },
+        {
+          "text": "Giveup Giveup)",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "Giveup Giveup)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 16.889876,
+      "end": 19.828406,
+      "japanese": "風向きはいつでも真逆",
+      "zh-CN": "风向无论何时都是逆风而行",
+      "segments": [
+        {
+          "text": "風向きはいつでも真逆",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "風向",
+              "reading": "かざむ"
+            },
+            {
+              "text": "きはいつでも"
+            },
+            {
+              "text": "真逆",
+              "reading": "まぎゃく"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 19.978331,
+      "end": 22.716961,
+      "japanese": "大人になるって何？",
+      "zh-CN": "成为大人究竟意味着什么？",
+      "segments": [
+        {
+          "text": "大人になるって何？",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "大人",
+              "reading": "おとな"
+            },
+            {
+              "text": "になるって"
+            },
+            {
+              "text": "何",
+              "reading": "なに"
+            },
+            {
+              "text": "？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 22.806916,
+      "end": 27.85439,
+      "japanese": "絶対アイツなんかに屈しないで",
+      "zh-CN": "绝对不要向那种家伙低头屈服",
+      "segments": [
+        {
+          "text": "絶対",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "絶対",
+              "reading": "ぜったい"
+            }
+          ]
+        },
+        {
+          "text": "アイツなんかに屈しないで",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "アイツなんかに"
+            },
+            {
+              "text": "屈",
+              "reading": "くっ"
+            },
+            {
+              "text": "しないで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 27.87438,
+      "end": 29.07378,
+      "japanese": "アンチ アンチ ユー!",
+      "zh-CN": "Anti Anti You!",
+      "segments": [
+        {
+          "text": "アンチ アンチ ユー!",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "アンチ アンチ ユー!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 29.19372,
+      "end": 33.45159,
+      "japanese": "転がって強がってまだまだ負けないで",
+      "zh-CN": "摸爬滚打逞强硬撑 绝不要轻易认输",
+      "segments": [
+        {
+          "text": "転がって",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "転",
+              "reading": "ころ"
+            },
+            {
+              "text": "がって"
+            }
+          ]
+        },
+        {
+          "text": "強がって",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "強",
+              "reading": "つよ"
+            },
+            {
+              "text": "がって"
+            }
+          ]
+        },
+        {
+          "text": "まだまだ負けないで",
+          "performerIds": [
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "まだまだ"
+            },
+            {
+              "text": "負",
+              "reading": "ま"
+            },
+            {
+              "text": "けないで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 33.47158,
+      "end": 35.290669,
+      "japanese": "僕らだけのエンベロープで",
+      "zh-CN": "用独属于我们的包络线",
+      "segments": [
+        {
+          "text": "僕らだけのエンベロープで",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "らだけのエンベロープで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 35.310659,
+      "end": 36.570029,
+      "japanese": "アンチ アンチ ユー!",
+      "zh-CN": "Anti Anti You!",
+      "segments": [
+        {
+          "text": "アンチ アンチ ユー!",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "アンチ アンチ ユー!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 36.689969,
+      "end": 41.287669,
+      "japanese": "一度きりの僕はこのセカイの主人公",
+      "zh-CN": "仅此一回的我是这个SEKAI的主角",
+      "segments": [
+        {
+          "text": "一度きりの僕は",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "一度",
+              "reading": "いちど"
+            },
+            {
+              "text": "きりの"
+            },
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "は"
+            }
+          ]
+        },
+        {
+          "text": "このセカイの主人公",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "このセカイの"
+            },
+            {
+              "text": "主人公",
+              "reading": "しゅじんこう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 41.327649,
+      "end": 43.856383,
+      "japanese": "ルララルラ ルルララルラ",
+      "zh-CN": "噜啦啦噜啦 噜噜啦啦噜啦",
+      "segments": [
+        {
+          "text": "ルララルラ ルルララルラ",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "ルララルラ ルルララルラ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 43.916353,
+      "end": 46.065278,
+      "japanese": "まるで人生ラバー",
+      "zh-CN": "宛如人生的狂热爱好者",
+      "segments": [
+        {
+          "text": "まるで人生ラバー",
+          "performerIds": [
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "まるで"
+            },
+            {
+              "text": "人生",
+              "reading": "じんせい"
+            },
+            {
+              "text": "ラバー"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 46.245188,
+      "end": 47.634493,
+      "japanese": "とりあえずClap",
+      "zh-CN": "总之先拍响双手 Clap",
+      "segments": [
+        {
+          "text": "とりあえずClap",
+          "performerIds": [
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "とりあえずClap"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 48.548062,
+      "end": 51.996337,
+      "japanese": "「夢、希望は賞味期限があるのよ」",
+      "zh-CN": "「梦想和希望都是有保质期的呢」",
+      "segments": [
+        {
+          "text": "「夢、希望は賞味期限があるのよ」",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "「"
+            },
+            {
+              "text": "夢",
+              "reading": "ゆめ"
+            },
+            {
+              "text": "、"
+            },
+            {
+              "text": "希望",
+              "reading": "きぼう"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "賞味期限",
+              "reading": "しょうみきげん"
+            },
+            {
+              "text": "があるのよ」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 52.206232,
+      "end": 55.224721,
+      "japanese": "「こっちにおいで 座ってな」(Shutup Shutup)",
+      "zh-CN": "「到这边来 给我乖乖坐好」(Shutup Shutup)",
+      "segments": [
+        {
+          "text": "「こっちにおいで 座ってな」",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "「こっちにおいで "
+            },
+            {
+              "text": "座",
+              "reading": "すわ"
+            },
+            {
+              "text": "ってな」"
+            }
+          ]
+        },
+        {
+          "text": "(Shutup Shutup)",
+          "performerIds": [
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "(Shutup Shutup)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 55.234716,
+      "end": 58.712976,
+      "japanese": "パノラマが僕のUnder",
+      "zh-CN": "全景视野尽在我的掌控之下",
+      "segments": [
+        {
+          "text": "パノラマが僕のUnder",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "パノラマが"
+            },
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "のUnder"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 58.992836,
+      "end": 63.090786,
+      "japanese": "心の裏側の鍵を開けた",
+      "zh-CN": "开启了心底背面隐藏的锁",
+      "segments": [
+        {
+          "text": "心の裏側の",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "心",
+              "reading": "こころ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "裏側",
+              "reading": "うらがわ"
+            },
+            {
+              "text": "の"
+            }
+          ]
+        },
+        {
+          "text": "鍵を開けた",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "鍵",
+              "reading": "かぎ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "開",
+              "reading": "あ"
+            },
+            {
+              "text": "けた"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 63.110776,
+      "end": 66.13926,
+      "japanese": "マンマミーヤ マンマミーヤ",
+      "zh-CN": "哎呀我的妈呀 哎呀我的妈呀",
+      "segments": [
+        {
+          "text": "マンマミーヤ マンマミーヤ",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "マンマミーヤ マンマミーヤ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 66.15925,
+      "end": 68.31817,
+      "japanese": "山があったら谷もあんだわ",
+      "zh-CN": "有高峰自然就会有低谷啊",
+      "segments": [
+        {
+          "text": "山があったら谷もあんだわ",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "山",
+              "reading": "やま"
+            },
+            {
+              "text": "があったら"
+            },
+            {
+              "text": "谷",
+              "reading": "たに"
+            },
+            {
+              "text": "もあんだわ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 68.33816,
+      "end": 69.967345,
+      "japanese": "だったらMore and More",
+      "zh-CN": "既然如此就更进一步 More and More",
+      "segments": [
+        {
+          "text": "だったらMore and More",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "だったらMore and More"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 70.19723,
+      "end": 73.475589,
+      "japanese": "頭の中のセカイ樹を",
+      "zh-CN": "脑海之中的那棵SEKAI树",
+      "segments": [
+        {
+          "text": "頭の中のセカイ樹を",
+          "performerIds": [
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "頭",
+              "reading": "あたま"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "中",
+              "reading": "なか"
+            },
+            {
+              "text": "のセカイ"
+            },
+            {
+              "text": "樹",
+              "reading": "じゅ"
+            },
+            {
+              "text": "を"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 73.68,
+      "end": 76.604,
+      "japanese": "枯らしたくていられるはずはないから",
+      "zh-CN": "绝不可能任由它就这样枯萎凋零",
+      "segments": [
+        {
+          "text": "枯らしたくていられるはずはないから",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "枯",
+              "reading": "か"
+            },
+            {
+              "text": "らしたくていられるはずはないから"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000023",
+      "order": 22,
+      "index": 22,
+      "start": 79.869739,
+      "end": 81.738804,
+      "japanese": "手を叩いて自由だぜ",
+      "zh-CN": "拍响双手 拥抱自由",
+      "segments": [
+        {
+          "text": "手を叩いて自由だぜ",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "手",
+              "reading": "て"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "叩",
+              "reading": "たた"
+            },
+            {
+              "text": "いて"
+            },
+            {
+              "text": "自由",
+              "reading": "じゆう"
+            },
+            {
+              "text": "だぜ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000024",
+      "order": 23,
+      "index": 23,
+      "start": 81.758794,
+      "end": 82.928209,
+      "japanese": "アンチ アンチ ユー!",
+      "zh-CN": "Anti Anti You!",
+      "segments": [
+        {
+          "text": "アンチ アンチ ユー!",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "アンチ アンチ ユー!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000025",
+      "order": 24,
+      "index": 24,
+      "start": 83.168089,
+      "end": 85.037154,
+      "japanese": "傲慢だけどいいかなって",
+      "zh-CN": "就算傲慢张狂也挺好的吧",
+      "segments": [
+        {
+          "text": "傲慢だけどいいかなって",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "傲慢",
+              "reading": "ごうまん"
+            },
+            {
+              "text": "だけどいいかなって"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000026",
+      "order": 25,
+      "index": 25,
+      "start": 85.247048,
+      "end": 89.664838,
+      "japanese": "嫌って言いなよ なんで",
+      "zh-CN": "讨厌就直接说出来啊 为什么不呢",
+      "segments": [
+        {
+          "text": "嫌って言いなよ なんで",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "嫌",
+              "reading": "いや"
+            },
+            {
+              "text": "って"
+            },
+            {
+              "text": "言",
+              "reading": "い"
+            },
+            {
+              "text": "いなよ なんで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000027",
+      "order": 26,
+      "index": 26,
+      "start": 90.094623,
+      "end": 92.933203,
+      "japanese": "絶対アイツなんかに屈しないで",
+      "zh-CN": "绝对不要向那种家伙低头屈服",
+      "segments": [
+        {
+          "text": "絶対",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "絶対",
+              "reading": "ぜったい"
+            }
+          ]
+        },
+        {
+          "text": "アイツなんかに屈しないで",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "アイツなんかに"
+            },
+            {
+              "text": "屈",
+              "reading": "くっ"
+            },
+            {
+              "text": "しないで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000028",
+      "order": 27,
+      "index": 27,
+      "start": 92.953193,
+      "end": 94.202568,
+      "japanese": "アンチ アンチ ユー!",
+      "zh-CN": "Anti Anti You!",
+      "segments": [
+        {
+          "text": "アンチ アンチ ユー!",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "アンチ アンチ ユー!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000029",
+      "order": 28,
+      "index": 28,
+      "start": 94.302518,
+      "end": 98.420457,
+      "japanese": "転がって強がってまだまだ負けないで",
+      "zh-CN": "摸爬滚打逞强硬撑 绝不要轻易认输",
+      "segments": [
+        {
+          "text": "転がって",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-08",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "転",
+              "reading": "ころ"
+            },
+            {
+              "text": "がって"
+            }
+          ]
+        },
+        {
+          "text": "強がってまだ",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "強",
+              "reading": "つよ"
+            },
+            {
+              "text": "がってまだ"
+            }
+          ]
+        },
+        {
+          "text": "まだ負けないで",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "まだ"
+            },
+            {
+              "text": "負",
+              "reading": "ま"
+            },
+            {
+              "text": "けないで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000030",
+      "order": 29,
+      "index": 29,
+      "start": 98.460437,
+      "end": 100.369482,
+      "japanese": "僕らだけのエンベロープで",
+      "zh-CN": "用独属于我们的包络线",
+      "segments": [
+        {
+          "text": "僕らだけのエンベロープで",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "らだけのエンベロープで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000031",
+      "order": 30,
+      "index": 30,
+      "start": 100.389472,
+      "end": 101.588872,
+      "japanese": "アンチ アンチ ユー!",
+      "zh-CN": "Anti Anti You!",
+      "segments": [
+        {
+          "text": "アンチ アンチ ユー!",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "アンチ アンチ ユー!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000032",
+      "order": 31,
+      "index": 31,
+      "start": 101.668832,
+      "end": 105.665832,
+      "japanese": "キミだって奪われたくないでしょ",
+      "zh-CN": "就算是你也不想被夺走一切对吧",
+      "segments": [
+        {
+          "text": "キミだって奪われたくないでしょ",
+          "performerIds": [
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "キミだって"
+            },
+            {
+              "text": "奪",
+              "reading": "うば"
+            },
+            {
+              "text": "われたくないでしょ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000033",
+      "order": 32,
+      "index": 32,
+      "start": 105.916706,
+      "end": 107.745791,
+      "japanese": "僕は僕のまま飛べる",
+      "zh-CN": "我能保持原本的模样展翅高飞",
+      "segments": [
+        {
+          "text": "僕は僕のまま飛べる",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "のまま"
+            },
+            {
+              "text": "飛",
+              "reading": "と"
+            },
+            {
+              "text": "べる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000034",
+      "order": 33,
+      "index": 33,
+      "start": 107.87,
+      "end": 109.2,
+      "japanese": "ジャンピン ジャンピン Do!",
+      "zh-CN": "Jumpin Jumpin Do!",
+      "segments": [
+        {
+          "text": "ジャンピン ジャンピン Do!",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "ジャンピン ジャンピン Do!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000035",
+      "order": 34,
+      "index": 34,
+      "start": 109.2,
+      "end": 113.495,
+      "japanese": "踏んじゃって 臨界点 まだまだやれそうね",
+      "zh-CN": "踩碎临界点 感觉依然游刃有余呢",
+      "segments": [
+        {
+          "text": "踏んじゃって ",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "踏",
+              "reading": "ふ"
+            },
+            {
+              "text": "んじゃって "
+            }
+          ]
+        },
+        {
+          "text": "臨界点 ",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "臨界点",
+              "reading": "りんかいてん"
+            },
+            {
+              "text": " "
+            }
+          ]
+        },
+        {
+          "text": "まだまだやれそうね",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "まだまだやれそうね"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000036",
+      "order": 35,
+      "index": 35,
+      "start": 113.495,
+      "end": 115.339,
+      "japanese": "恋を信じるの 心で",
+      "zh-CN": "在心底深处坚信着爱",
+      "segments": [
+        {
+          "text": "恋を信じるの 心で",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "恋",
+              "reading": "こい"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "信",
+              "reading": "しん"
+            },
+            {
+              "text": "じるの "
+            },
+            {
+              "text": "心",
+              "reading": "こころ"
+            },
+            {
+              "text": "で"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000037",
+      "order": 36,
+      "index": 36,
+      "start": 115.339,
+      "end": 116.64,
+      "japanese": "ジャンピン ジャンピン Do!",
+      "zh-CN": "Jumpin Jumpin Do!",
+      "segments": [
+        {
+          "text": "ジャンピン ジャンピン Do!",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "ジャンピン ジャンピン Do!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000038",
+      "order": 37,
+      "index": 37,
+      "start": 116.64,
+      "end": 118.301,
+      "japanese": "一度きりの僕はこのセカイで一度きりの主人公",
+      "zh-CN": "仅此一回的我是这个SEKAI独一无二的主角",
+      "segments": [
+        {
+          "text": "一度きりの僕は",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "一度",
+              "reading": "いちど"
+            },
+            {
+              "text": "きりの"
+            },
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "は"
+            }
+          ]
+        },
+        {
+          "text": "このセカイで一度",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "このセカイで"
+            },
+            {
+              "text": "一度",
+              "reading": "いちど"
+            }
+          ]
+        },
+        {
+          "text": "きりの主人公",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "きりの"
+            },
+            {
+              "text": "主人公",
+              "reading": "しゅじんこう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

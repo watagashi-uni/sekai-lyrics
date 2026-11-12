@@ -1,0 +1,1100 @@
+{
+  "music_id": 172,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-05",
+      "name": "花里みのり"
+    },
+    {
+      "performerId": "歌唱者-06",
+      "name": "桐谷遥"
+    },
+    {
+      "performerId": "歌唱者-07",
+      "name": "桃井愛莉"
+    },
+    {
+      "performerId": "歌唱者-08",
+      "name": "日野森雫"
+    },
+    {
+      "performerId": "歌唱者-22",
+      "name": "鏡音リン"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 24.582502,
+      "end": 29.001533,
+      "japanese": "ねえ　もう暗くなりそうだから",
+      "zh-CN": "呐　天色看起来马上就要黑了",
+      "segments": [
+        {
+          "text": "ねえ　もう暗くなりそうだから",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "ねえ　もう"
+            },
+            {
+              "text": "暗",
+              "reading": "くら"
+            },
+            {
+              "text": "くなりそうだから"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 29.271718,
+      "end": 31.924537,
+      "japanese": "デちゃってもい い かしら？",
+      "zh-CN": "我们可以出去了吗？",
+      "segments": [
+        {
+          "text": "デちゃってもい い かしら？",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "デちゃってもい い かしら？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 32.572982,
+      "end": 36.559717,
+      "japanese": "ちょっとね　魔法にかけられた",
+      "zh-CN": "稍微被施加了一点魔法哦",
+      "segments": [
+        {
+          "text": "ちょっとね　魔法にかけられた",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "ちょっとね　"
+            },
+            {
+              "text": "魔法",
+              "reading": "まほう"
+            },
+            {
+              "text": "にかけられた"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 36.559717,
+      "end": 40.933716,
+      "japanese": "キミのお菓子から食べちゃうぞ",
+      "zh-CN": "就先把你带来的点心吃个精光吧",
+      "segments": [
+        {
+          "text": "キミのお菓子から食べちゃうぞ",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "キミのお"
+            },
+            {
+              "text": "菓子",
+              "reading": "かし"
+            },
+            {
+              "text": "から"
+            },
+            {
+              "text": "食",
+              "reading": "た"
+            },
+            {
+              "text": "べちゃうぞ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 44.596472,
+      "end": 48.551185,
+      "japanese": "きっと　もう霧が濃くなるから",
+      "zh-CN": "想必　浓雾马上就要渐渐笼罩了",
+      "segments": [
+        {
+          "text": "きっと　もう霧が濃くなるから",
+          "performerIds": [
+            "歌唱者-08",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "きっと　もう"
+            },
+            {
+              "text": "霧",
+              "reading": "きり"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "濃",
+              "reading": "こ"
+            },
+            {
+              "text": "くなるから"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 48.551185,
+      "end": 52.027569,
+      "japanese": "ミンナ　集まるかな？",
+      "zh-CN": "大家　都会聚在一起吗？",
+      "segments": [
+        {
+          "text": "ミンナ　集まるかな？",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "ミンナ　"
+            },
+            {
+              "text": "集",
+              "reading": "あつ"
+            },
+            {
+              "text": "まるかな？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 52.59696,
+      "end": 57.01499,
+      "japanese": "じっと待って　アマイモノ我慢した",
+      "zh-CN": "静静等待　忍住没吃甜食",
+      "segments": [
+        {
+          "text": "じっと待って　アマイモノ我慢した",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "じっと"
+            },
+            {
+              "text": "待",
+              "reading": "ま"
+            },
+            {
+              "text": "って　アマイモノ"
+            },
+            {
+              "text": "我慢",
+              "reading": "がまん"
+            },
+            {
+              "text": "した"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 57.359226,
+      "end": 60.001038,
+      "japanese": "ご褒美を　ほら",
+      "zh-CN": "瞧啊　快把奖励拿来吧",
+      "segments": [
+        {
+          "text": "ご褒美を　ほら",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "ご"
+            },
+            {
+              "text": "褒美",
+              "reading": "ほうび"
+            },
+            {
+              "text": "を　ほら"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 60.384301,
+      "end": 63.977765,
+      "japanese": "ひとつ　ふたつ　鐘の音",
+      "zh-CN": "一声　两声　钟声敲响",
+      "segments": [
+        {
+          "text": "ひとつ　ふたつ　",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "ひとつ　ふたつ　"
+            }
+          ]
+        },
+        {
+          "text": "鐘の音",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "鐘",
+              "reading": "かね"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "音",
+              "reading": "ね"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 64.32,
+      "end": 68.528887,
+      "japanese": "騒ぎ出す　小さいオバケたち",
+      "zh-CN": "纷纷喧闹骚动起来的　小小幽灵们",
+      "segments": [
+        {
+          "text": "騒ぎ出す　",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "騒",
+              "reading": "さわ"
+            },
+            {
+              "text": "ぎ"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "す　"
+            }
+          ]
+        },
+        {
+          "text": "小さいオバケたち",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "小",
+              "reading": "ちい"
+            },
+            {
+              "text": "さいオバケたち"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 68.528887,
+      "end": 73.893566,
+      "japanese": "今日は許してくれるの",
+      "zh-CN": "今天大家都会原谅我们哦",
+      "segments": [
+        {
+          "text": "今日は",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "今日",
+              "reading": "きょう"
+            },
+            {
+              "text": "は"
+            }
+          ]
+        },
+        {
+          "text": "許してくれるの",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "許",
+              "reading": "ゆる"
+            },
+            {
+              "text": "してくれるの"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 74.01565,
+      "end": 76.138106,
+      "japanese": "さあ　街に行こう",
+      "zh-CN": "来吧　朝街上出发吧",
+      "segments": [
+        {
+          "text": "さあ　街に行こう",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "さあ　"
+            },
+            {
+              "text": "街",
+              "reading": "まち"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "行",
+              "reading": "い"
+            },
+            {
+              "text": "こう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 76.590416,
+      "end": 78.145482,
+      "japanese": "だって Happy Halloween",
+      "zh-CN": "毕竟是 Happy Halloween",
+      "segments": [
+        {
+          "text": "だって Happy Halloween",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "だって Happy Halloween"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 78.145482,
+      "end": 80.506101,
+      "japanese": "悪戯しちゃうぞ ding-dong-dang",
+      "zh-CN": "要开始恶作剧咯 ding-dong-dang",
+      "segments": [
+        {
+          "text": "悪戯しちゃうぞ ding-dong-dang",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "悪戯",
+              "reading": "いたずら"
+            },
+            {
+              "text": "しちゃうぞ ding-dong-dang"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 80.506101,
+      "end": 82.28232,
+      "japanese": "あっちもこっちも trick or treat",
+      "zh-CN": "到处都在 trick or treat",
+      "segments": [
+        {
+          "text": "あっちもこっちも trick or treat",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "あっちもこっちも trick or treat"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 82.28232,
+      "end": 84.41178,
+      "japanese": "キャンディーはくれないの？",
+      "zh-CN": "不分给我糖果吃吗？",
+      "segments": [
+        {
+          "text": "キャンディーはくれないの？",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "キャンディーはくれないの？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 84.41178,
+      "end": 86.20501,
+      "japanese": "だって Happy Halloween",
+      "zh-CN": "毕竟是 Happy Halloween",
+      "segments": [
+        {
+          "text": "だって Happy Halloween",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "だって Happy Halloween"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 86.20501,
+      "end": 88.525602,
+      "japanese": "幼気なランタンパンプキン",
+      "zh-CN": "娇小稚嫩的南瓜灯笼",
+      "segments": [
+        {
+          "text": "幼気なランタンパンプキン",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "幼気",
+              "reading": "いたいけ"
+            },
+            {
+              "text": "なランタンパンプキン"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 88.525602,
+      "end": 92.057024,
+      "japanese": "疲れたジャックも踊るよ　朝まで",
+      "zh-CN": "疲惫的杰克南瓜也会起舞哦　直到清晨",
+      "segments": [
+        {
+          "text": "疲れたジャックも踊るよ　朝まで",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-08",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "疲",
+              "reading": "つか"
+            },
+            {
+              "text": "れたジャックも"
+            },
+            {
+              "text": "踊",
+              "reading": "おど"
+            },
+            {
+              "text": "るよ　"
+            },
+            {
+              "text": "朝",
+              "reading": "あさ"
+            },
+            {
+              "text": "まで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 92.554365,
+      "end": 94.18048,
+      "japanese": "だって Happy Halloween",
+      "zh-CN": "毕竟是 Happy Halloween",
+      "segments": [
+        {
+          "text": "だって Happy Halloween",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "だって Happy Halloween"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 94.18048,
+      "end": 96.543101,
+      "japanese": "オバケのカブだってラララ",
+      "zh-CN": "就算是芜菁小幽灵也在啦啦啦",
+      "segments": [
+        {
+          "text": "オバケのカブだってラララ",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "オバケのカブだってラララ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 96.543101,
+      "end": 98.256276,
+      "japanese": "今日は街中 trick or treat",
+      "zh-CN": "今天整条街都在 trick or treat",
+      "segments": [
+        {
+          "text": "今日は街中 trick or treat",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "今日",
+              "reading": "きょう"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "街中",
+              "reading": "まちじゅう"
+            },
+            {
+              "text": " trick or treat"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000023",
+      "order": 22,
+      "index": 22,
+      "start": 98.256276,
+      "end": 100.242638,
+      "japanese": "チョコも頂戴よ",
+      "zh-CN": "巧克力也快拿来吧",
+      "segments": [
+        {
+          "text": "チョコも頂戴よ",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "チョコも"
+            },
+            {
+              "text": "頂戴",
+              "reading": "ちょうだい"
+            },
+            {
+              "text": "よ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000024",
+      "order": 23,
+      "index": 23,
+      "start": 100.545846,
+      "end": 102.15595,
+      "japanese": "だって Happy Halloween",
+      "zh-CN": "毕竟是 Happy Halloween",
+      "segments": [
+        {
+          "text": "だって Happy Halloween",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "だって Happy Halloween"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000025",
+      "order": 24,
+      "index": 24,
+      "start": 102.15595,
+      "end": 104.525576,
+      "japanese": "不思議な世界へようこそ",
+      "zh-CN": "欢迎来到不可思议的奇妙世界",
+      "segments": [
+        {
+          "text": "不思議な世界へようこそ",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "不思議",
+              "reading": "ふしが"
+            },
+            {
+              "text": "な"
+            },
+            {
+              "text": "世界",
+              "reading": "せかい"
+            },
+            {
+              "text": "へようこそ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000026",
+      "order": 25,
+      "index": 25,
+      "start": 104.525576,
+      "end": 106.833158,
+      "japanese": "疲れたジャックも歌うよ",
+      "zh-CN": "疲惫的杰克南瓜也会放声歌唱哦",
+      "segments": [
+        {
+          "text": "疲れたジャックも歌うよ",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "疲",
+              "reading": "つか"
+            },
+            {
+              "text": "れたジャックも"
+            },
+            {
+              "text": "歌",
+              "reading": "うた"
+            },
+            {
+              "text": "うよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000027",
+      "order": 26,
+      "index": 26,
+      "start": 106.833158,
+      "end": 108.178081,
+      "japanese": "Let's trick or treat",
+      "zh-CN": "Let's trick or treat",
+      "segments": [
+        {
+          "text": "Let's trick or treat",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "Let's trick or treat"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 27,
+      "start": 109.0265,
+      "end": 110.712656,
+      "japanese": "だって Happy Halloween",
+      "zh-CN": "毕竟是 Happy Halloween",
+      "segments": [
+        {
+          "text": "だって Happy Halloween",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "だって Happy Halloween"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000029",
+      "order": 28,
+      "index": 28,
+      "start": 112.585941,
+      "end": 114.716402,
+      "japanese": "だって Happy Halloween",
+      "zh-CN": "毕竟是 Happy Halloween",
+      "segments": [
+        {
+          "text": "だって Happy Halloween",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "だって Happy Halloween"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000030",
+      "order": 29,
+      "index": 29,
+      "start": 116.542655,
+      "end": 118.718147,
+      "japanese": "だって Happy Halloween",
+      "zh-CN": "毕竟是 Happy Halloween",
+      "segments": [
+        {
+          "text": "だって Happy Halloween",
+          "performerIds": [
+            "歌唱者-08",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "だって Happy Halloween"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000031",
+      "order": 30,
+      "index": 30,
+      "start": 120.631459,
+      "end": 122.393668,
+      "japanese": "今日は Happy Halloween",
+      "zh-CN": "今天可是 Happy Halloween",
+      "segments": [
+        {
+          "text": "今日は Happy Halloween",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "今日",
+              "reading": "きょう"
+            },
+            {
+              "text": "は Happy Halloween"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000032",
+      "order": 31,
+      "index": 31,
+      "start": 122.393668,
+      "end": 124.195904,
+      "japanese": "さぁ Let's trick or treat",
+      "zh-CN": "来吧 Let's trick or treat",
+      "segments": [
+        {
+          "text": "さぁ Let's trick or treat",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "さぁ Let's trick or treat"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000033",
+      "order": 32,
+      "index": 32,
+      "start": 124.236932,
+      "end": 126.014151,
+      "japanese": "赤いキャンディー　コロがして",
+      "zh-CN": "把红色的糖果　含在嘴里滚来滚去",
+      "segments": [
+        {
+          "text": "赤いキャンディー　コロがして",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "赤",
+              "reading": "あか"
+            },
+            {
+              "text": "いキャンディー　コロがして"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000034",
+      "order": 33,
+      "index": 33,
+      "start": 126.270327,
+      "end": 128.152618,
+      "japanese": "朝まで寝たくない",
+      "zh-CN": "直到天亮都根本不想睡去",
+      "segments": [
+        {
+          "text": "朝まで寝たくない",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "朝",
+              "reading": "あさ"
+            },
+            {
+              "text": "まで"
+            },
+            {
+              "text": "寝",
+              "reading": "ね"
+            },
+            {
+              "text": "たくない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

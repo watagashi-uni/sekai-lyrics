@@ -1,0 +1,882 @@
+{
+  "music_id": 374,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-05",
+      "name": "花里みのり"
+    },
+    {
+      "performerId": "歌唱者-06",
+      "name": "桐谷遥"
+    },
+    {
+      "performerId": "歌唱者-07",
+      "name": "桃井愛莉"
+    },
+    {
+      "performerId": "歌唱者-08",
+      "name": "日野森雫"
+    },
+    {
+      "performerId": "歌唱者-23",
+      "name": "鏡音レン"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 9.59575,
+      "end": 12.10275,
+      "japanese": "挑みたい　叶えたい",
+      "zh-CN": "想要挑战 想要实现",
+      "segments": [
+        {
+          "text": "挑みたい　",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "挑",
+              "reading": "いど"
+            },
+            {
+              "text": "みたい　"
+            }
+          ]
+        },
+        {
+          "text": "叶えたい",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "叶",
+              "reading": "かな"
+            },
+            {
+              "text": "えたい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 12.029606,
+      "end": 14.494487,
+      "japanese": "不安すら楽しもう",
+      "zh-CN": "连不安也化作乐趣吧",
+      "segments": [
+        {
+          "text": "不安すら楽しもう",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "不安",
+              "reading": "ふあん"
+            },
+            {
+              "text": "すら"
+            },
+            {
+              "text": "楽",
+              "reading": "たの"
+            },
+            {
+              "text": "しもう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 14.790352,
+      "end": 17.229245,
+      "japanese": "大丈夫　離さない",
+      "zh-CN": "没关系 绝不放手",
+      "segments": [
+        {
+          "text": "大丈夫　",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "大丈夫",
+              "reading": "だいじょうぶ"
+            },
+            {
+              "text": "　"
+            }
+          ]
+        },
+        {
+          "text": "離さない",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "離",
+              "reading": "はな"
+            },
+            {
+              "text": "さない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 17.469136,
+      "end": 22.364913,
+      "japanese": "僕らの結び目はほどけない",
+      "zh-CN": "维系我们的羁绊结绳绝不会解开",
+      "segments": [
+        {
+          "text": "僕らの結び目はほどけない",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "らの"
+            },
+            {
+              "text": "結",
+              "reading": "むす"
+            },
+            {
+              "text": "び"
+            },
+            {
+              "text": "目",
+              "reading": "め"
+            },
+            {
+              "text": "はほどけない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 34.399447,
+      "end": 36.526481,
+      "japanese": "あの時ああしていれば",
+      "zh-CN": "那时候如果那样做的话",
+      "segments": [
+        {
+          "text": "あの時ああしていれば",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "あの"
+            },
+            {
+              "text": "時",
+              "reading": "とき"
+            },
+            {
+              "text": "ああしていれば"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 37.118212,
+      "end": 39.173279,
+      "japanese": "あの時こうしていれば",
+      "zh-CN": "那时候如果这样做的话",
+      "segments": [
+        {
+          "text": "あの時こうしていれば",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "あの"
+            },
+            {
+              "text": "時",
+              "reading": "とき"
+            },
+            {
+              "text": "こうしていれば"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 39.741021,
+      "end": 44.586821,
+      "japanese": "きっとこの先も後悔はあって",
+      "zh-CN": "今后想必也依然会留下懊悔",
+      "segments": [
+        {
+          "text": "きっとこの先も後悔はあって",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "きっとこの"
+            },
+            {
+              "text": "先",
+              "reading": "さき"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "後悔",
+              "reading": "こうかい"
+            },
+            {
+              "text": "はあって"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 45.061605,
+      "end": 47.18564,
+      "japanese": "それでも僕らは決める",
+      "zh-CN": "纵然如此我们依然下定决心",
+      "segments": [
+        {
+          "text": "それでも僕らは決める",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "それでも"
+            },
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "らは"
+            },
+            {
+              "text": "決",
+              "reading": "き"
+            },
+            {
+              "text": "める"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 47.721397,
+      "end": 49.792457,
+      "japanese": "悩みながら生きていく",
+      "zh-CN": "带着烦恼继续生活前行",
+      "segments": [
+        {
+          "text": "悩みながら生きていく",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "悩",
+              "reading": "なや"
+            },
+            {
+              "text": "みながら"
+            },
+            {
+              "text": "生",
+              "reading": "い"
+            },
+            {
+              "text": "きていく"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 50.482143,
+      "end": 55.321945,
+      "japanese": "でもね傷つくことには慣れないね",
+      "zh-CN": "但受伤这种事依然很难习惯呢",
+      "segments": [
+        {
+          "text": "でもね傷つくことには慣れないね",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "でもね"
+            },
+            {
+              "text": "傷",
+              "reading": "きず"
+            },
+            {
+              "text": "つくことには"
+            },
+            {
+              "text": "慣",
+              "reading": "な"
+            },
+            {
+              "text": "れないね"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 55.543845,
+      "end": 60.600548,
+      "japanese": "一人きりじゃ　笑えていない",
+      "zh-CN": "若是独自一人 便无法展露欢颜",
+      "segments": [
+        {
+          "text": "一人きりじゃ　笑えていない",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "一人",
+              "reading": "ひとり"
+            },
+            {
+              "text": "きりじゃ　"
+            },
+            {
+              "text": "笑",
+              "reading": "わら"
+            },
+            {
+              "text": "えていない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 60.600548,
+      "end": 65.854162,
+      "japanese": "喜びさえも　分かち合えない",
+      "zh-CN": "连喜悦也无法与人分享",
+      "segments": [
+        {
+          "text": "喜びさえも　分かち合えない",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "喜",
+              "reading": "よろこ"
+            },
+            {
+              "text": "びさえも　"
+            },
+            {
+              "text": "分",
+              "reading": "わ"
+            },
+            {
+              "text": "かち"
+            },
+            {
+              "text": "合",
+              "reading": "あ"
+            },
+            {
+              "text": "えない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 66.030083,
+      "end": 71.450621,
+      "japanese": "君といたい　初めてだった",
+      "zh-CN": "想和你在一起 这还是头一次",
+      "segments": [
+        {
+          "text": "君といたい　初めてだった",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "といたい　"
+            },
+            {
+              "text": "初",
+              "reading": "はじ"
+            },
+            {
+              "text": "めてだった"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 71.450621,
+      "end": 77.680791,
+      "japanese": "痛みさえも　分かち合いたい　なんて",
+      "zh-CN": "甚至想要与你一同分担痛苦什么的",
+      "segments": [
+        {
+          "text": "痛みさえも　",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "痛",
+              "reading": "いた"
+            },
+            {
+              "text": "みさえも　"
+            }
+          ]
+        },
+        {
+          "text": "分かち合いたい　なんて",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "分",
+              "reading": "わ"
+            },
+            {
+              "text": "かち"
+            },
+            {
+              "text": "合",
+              "reading": "あ"
+            },
+            {
+              "text": "いたい　なんて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 78.042627,
+      "end": 80.648444,
+      "japanese": "歌いたい　踊りたい",
+      "zh-CN": "想要放声歌唱 想要尽情起舞",
+      "segments": [
+        {
+          "text": "歌いたい　踊りたい",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "歌",
+              "reading": "うた"
+            },
+            {
+              "text": "いたい　"
+            },
+            {
+              "text": "踊",
+              "reading": "おど"
+            },
+            {
+              "text": "りたい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 80.791379,
+      "end": 83.247264,
+      "japanese": "明日すら　待てない",
+      "zh-CN": "连明天都等不及了",
+      "segments": [
+        {
+          "text": "明日すら　待てない",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "明日",
+              "reading": "あした"
+            },
+            {
+              "text": "すら　"
+            },
+            {
+              "text": "待",
+              "reading": "ま"
+            },
+            {
+              "text": "てない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 83.415187,
+      "end": 85.982022,
+      "japanese": "”好き”だけじゃ　伝わらない",
+      "zh-CN": "仅凭「喜欢」二字无法完全传达",
+      "segments": [
+        {
+          "text": "”好き”だけじゃ　伝わらない",
+          "performerIds": [
+            "歌唱者-08",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "”"
+            },
+            {
+              "text": "好",
+              "reading": "す"
+            },
+            {
+              "text": "き”だけじゃ　"
+            },
+            {
+              "text": "伝",
+              "reading": "つた"
+            },
+            {
+              "text": "わらない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 85.982022,
+      "end": 88.652809,
+      "japanese": "この想いは何？",
+      "zh-CN": "这份心意究竟是什么呢？",
+      "segments": [
+        {
+          "text": "この想いは何？",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "この"
+            },
+            {
+              "text": "想",
+              "reading": "おも"
+            },
+            {
+              "text": "いは"
+            },
+            {
+              "text": "何",
+              "reading": "なに"
+            },
+            {
+              "text": "？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 88.652809,
+      "end": 91.219643,
+      "japanese": "挑みたい　叶えたい",
+      "zh-CN": "想要挑战 想要实现",
+      "segments": [
+        {
+          "text": "挑みたい　叶えたい",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "挑",
+              "reading": "いど"
+            },
+            {
+              "text": "みたい　"
+            },
+            {
+              "text": "叶",
+              "reading": "かな"
+            },
+            {
+              "text": "えたい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 91.403559,
+      "end": 93.914419,
+      "japanese": "不安すら楽しめ",
+      "zh-CN": "连不安也尽情享受吧",
+      "segments": [
+        {
+          "text": "不安すら楽しめ",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "不安",
+              "reading": "ふあん"
+            },
+            {
+              "text": "すら"
+            },
+            {
+              "text": "楽",
+              "reading": "たの"
+            },
+            {
+              "text": "しめ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 94.090339,
+      "end": 96.609195,
+      "japanese": "大丈夫　離さない",
+      "zh-CN": "没关系 绝不放手",
+      "segments": [
+        {
+          "text": "大丈夫　離さない",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "大丈夫",
+              "reading": "だいじょうぶ"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "離",
+              "reading": "はな"
+            },
+            {
+              "text": "さない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 96.69075,
+      "end": 106.39325,
+      "japanese": "僕らの結び目はほどけない",
+      "zh-CN": "维系我们的羁绊结绳绝不会解开",
+      "segments": [
+        {
+          "text": "僕らの結び目は",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "らの"
+            },
+            {
+              "text": "結",
+              "reading": "むす"
+            },
+            {
+              "text": "び"
+            },
+            {
+              "text": "目",
+              "reading": "め"
+            },
+            {
+              "text": "は"
+            }
+          ]
+        },
+        {
+          "text": "ほどけない",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "ほどけない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

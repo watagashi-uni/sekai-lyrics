@@ -1,0 +1,1467 @@
+{
+  "music_id": 168,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-05",
+      "name": "花里みのり"
+    },
+    {
+      "performerId": "歌唱者-06",
+      "name": "桐谷遥"
+    },
+    {
+      "performerId": "歌唱者-21",
+      "name": "初音ミク"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 24.682,
+      "end": 28.116,
+      "japanese": "存在証明　愛だって",
+      "zh-CN": "存在证明　哪怕是爱",
+      "segments": [
+        {
+          "text": "存在証明　愛だって",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "存在証明",
+              "reading": "そんざいしょうめい"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "愛",
+              "reading": "あい"
+            },
+            {
+              "text": "だって"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 24.682,
+      "end": 28.116,
+      "japanese": "愛だって吐いたって",
+      "zh-CN": "哪怕倾吐着这是爱",
+      "segments": [
+        {
+          "text": "愛だって吐いたって",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "愛",
+              "reading": "あい"
+            },
+            {
+              "text": "だって"
+            },
+            {
+              "text": "吐",
+              "reading": "は"
+            },
+            {
+              "text": "いたって"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 28.116,
+      "end": 29.477,
+      "japanese": "嗚呼寝転ンゴロンて嫌ん嫌ん",
+      "zh-CN": "啊啊满地打滚讨厌讨厌啦",
+      "segments": [
+        {
+          "text": "嗚呼",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "嗚呼",
+              "reading": "ああ"
+            }
+          ]
+        },
+        {
+          "text": "寝転ンゴロンて嫌ん嫌ん",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "寝転",
+              "reading": "ねころ"
+            },
+            {
+              "text": "ンゴロンて"
+            },
+            {
+              "text": "嫌",
+              "reading": "いや"
+            },
+            {
+              "text": "ん"
+            },
+            {
+              "text": "嫌",
+              "reading": "いや"
+            },
+            {
+              "text": "ん"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 29.56915,
+      "end": 31.303007,
+      "japanese": "プリティプリティダイエットDAY",
+      "zh-CN": "可爱迷人的减肥DAY",
+      "segments": [
+        {
+          "text": "プリティプリティ",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "プリティプリティ"
+            }
+          ]
+        },
+        {
+          "text": "ダイエットDAY",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "ダイエットDAY"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 31.303007,
+      "end": 32.717074,
+      "japanese": "曖昧　一回楽に　",
+      "zh-CN": "模棱两可　偶尔放松一下",
+      "segments": [
+        {
+          "text": "曖昧　一回楽に　",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "曖昧",
+              "reading": "あいまい"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "一回楽",
+              "reading": "いっかいらく"
+            },
+            {
+              "text": "に　"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 32.717074,
+      "end": 34.368985,
+      "japanese": "アイマイミー快楽に",
+      "zh-CN": "模糊自我沉溺于快感",
+      "segments": [
+        {
+          "text": "アイマイミー快楽に",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "アイマイミー"
+            },
+            {
+              "text": "快楽",
+              "reading": "かいらく"
+            },
+            {
+              "text": "に"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 34.368985,
+      "end": 35.718096,
+      "japanese": "病み悪化してんだって",
+      "zh-CN": "抑郁病情更加恶化了啊",
+      "segments": [
+        {
+          "text": "病み悪化してんだって",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "病",
+              "reading": "や"
+            },
+            {
+              "text": "み"
+            },
+            {
+              "text": "悪化",
+              "reading": "あっか"
+            },
+            {
+              "text": "してんだって"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 35.718096,
+      "end": 37.596857,
+      "japanese": "愛だ　恋だ　何だってんだ",
+      "zh-CN": "说什么爱啊　恋啊　到底算什么嘛",
+      "segments": [
+        {
+          "text": "愛だ　恋だ　何だってんだ",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "愛",
+              "reading": "あい"
+            },
+            {
+              "text": "だ　"
+            },
+            {
+              "text": "恋",
+              "reading": "こい"
+            },
+            {
+              "text": "だ　"
+            },
+            {
+              "text": "何",
+              "reading": "なん"
+            },
+            {
+              "text": "だってんだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 43.661858,
+      "end": 46.941695,
+      "japanese": "生命線は　愛だって",
+      "zh-CN": "所谓的生命线　哪怕是爱",
+      "segments": [
+        {
+          "text": "生命線は　愛だって",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "生命線",
+              "reading": "せいめいせん"
+            },
+            {
+              "text": "は　"
+            },
+            {
+              "text": "愛",
+              "reading": "あい"
+            },
+            {
+              "text": "だって"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 43.661858,
+      "end": 46.941695,
+      "japanese": "愛だ　嘆いたって",
+      "zh-CN": "纵使哀叹着这就是爱",
+      "segments": [
+        {
+          "text": "愛だ　嘆いたって",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "愛",
+              "reading": "あい"
+            },
+            {
+              "text": "だ　"
+            },
+            {
+              "text": "嘆",
+              "reading": "なげ"
+            },
+            {
+              "text": "いたって"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 46.941695,
+      "end": 48.197867,
+      "japanese": "ああでもない　こうでもないな　",
+      "zh-CN": "这也不对　那也不是啊",
+      "segments": [
+        {
+          "text": "ああ",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ああ"
+            }
+          ]
+        },
+        {
+          "text": "でもない　こうでもないな　",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "でもない　こうでもないな　"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 48.197867,
+      "end": 50.124597,
+      "japanese": "寂しい寂しいナンセンスDAY",
+      "zh-CN": "寂寞孤单的无厘头荒诞DAY",
+      "segments": [
+        {
+          "text": "寂しい寂しい",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "寂",
+              "reading": "さび"
+            },
+            {
+              "text": "しい"
+            },
+            {
+              "text": "寂",
+              "reading": "さび"
+            },
+            {
+              "text": "しい"
+            }
+          ]
+        },
+        {
+          "text": "ナンセンスDAY",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "ナンセンスDAY"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 50.124597,
+      "end": 51.603622,
+      "japanese": "いっそ密会　ラフに　",
+      "zh-CN": "索性随性地来场幽会",
+      "segments": [
+        {
+          "text": "いっそ密会　ラフに　",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "いっそ"
+            },
+            {
+              "text": "密会",
+              "reading": "みっかい"
+            },
+            {
+              "text": "　ラフに　"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 51.603622,
+      "end": 53.218557,
+      "japanese": "節操無い解：LOVE ME",
+      "zh-CN": "毫无节操的解答：LOVE ME",
+      "segments": [
+        {
+          "text": "節操無い解：LOVE ME",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "節操無",
+              "reading": "せっそうな"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "解",
+              "reading": "かい"
+            },
+            {
+              "text": "：LOVE ME"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 53.218557,
+      "end": 54.395781,
+      "japanese": "溺れ奴隷",
+      "zh-CN": "沉溺的奴隶",
+      "segments": [
+        {
+          "text": "溺れ奴隷",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "溺",
+              "reading": "おぼ"
+            },
+            {
+              "text": "れ"
+            },
+            {
+              "text": "奴隷",
+              "reading": "どれい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 54.395781,
+      "end": 56.111649,
+      "japanese": "踊れ 踊れ 亡霊だ",
+      "zh-CN": "跳吧　跳吧　化作幽灵亡灵吧",
+      "segments": [
+        {
+          "text": "踊れ 踊れ 亡霊だ",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "踊",
+              "reading": "おど"
+            },
+            {
+              "text": "れ "
+            },
+            {
+              "text": "踊",
+              "reading": "おど"
+            },
+            {
+              "text": "れ "
+            },
+            {
+              "text": "亡霊",
+              "reading": "ぼうれい"
+            },
+            {
+              "text": "だ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 56.093,
+      "end": 59.246,
+      "japanese": "なにもない　なにもない",
+      "zh-CN": "一无所有　空无一物",
+      "segments": [
+        {
+          "text": "なにもない　なにもない",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "なにもない　なにもない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 56.093,
+      "end": 59.246,
+      "japanese": "私なにもない (ねぇ)",
+      "zh-CN": "我什么都没有 (呐)",
+      "segments": [
+        {
+          "text": "私なにもない ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "私",
+              "reading": "わたし"
+            },
+            {
+              "text": "なにもない "
+            }
+          ]
+        },
+        {
+          "text": "(ねぇ)",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "(ねぇ)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 59.246,
+      "end": 62.314,
+      "japanese": "変われない　変われない",
+      "zh-CN": "无法改变　无法动摇",
+      "segments": [
+        {
+          "text": "変われない　変われない",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "変",
+              "reading": "か"
+            },
+            {
+              "text": "われない　"
+            },
+            {
+              "text": "変",
+              "reading": "か"
+            },
+            {
+              "text": "われない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 59.246,
+      "end": 62.314,
+      "japanese": "私変われない (ねぇ)",
+      "zh-CN": "我无法改变 (呐)",
+      "segments": [
+        {
+          "text": "私変われない ",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "私変",
+              "reading": "わたしか"
+            },
+            {
+              "text": "われない "
+            }
+          ]
+        },
+        {
+          "text": "(ねぇ)",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "(ねぇ)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 62.314,
+      "end": 65.138,
+      "japanese": "分からない分からない",
+      "zh-CN": "弄不明白　弄不明白",
+      "segments": [
+        {
+          "text": "分からない分からない",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "分",
+              "reading": "わ"
+            },
+            {
+              "text": "からない"
+            },
+            {
+              "text": "分",
+              "reading": "わ"
+            },
+            {
+              "text": "からない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 62.314,
+      "end": 65.138,
+      "japanese": "「わかる」分からない",
+      "zh-CN": "连「明白」究竟为何都搞不懂",
+      "segments": [
+        {
+          "text": "「わかる」分からない",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "「わかる」"
+            },
+            {
+              "text": "分",
+              "reading": "わ"
+            },
+            {
+              "text": "からない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000023",
+      "order": 22,
+      "index": 22,
+      "start": 65.138,
+      "end": 68.062,
+      "japanese": "はい目もと以外は隠して　ぱぱ",
+      "zh-CN": "好啦除了眼睛周围全部遮挡起来　啪啪",
+      "segments": [
+        {
+          "text": "はい",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "はい"
+            }
+          ]
+        },
+        {
+          "text": "目もと以外は隠して　ぱぱ",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "目",
+              "reading": "め"
+            },
+            {
+              "text": "もと"
+            },
+            {
+              "text": "以外",
+              "reading": "いがい"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "隠",
+              "reading": "かく"
+            },
+            {
+              "text": "して　ぱぱ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000024",
+      "order": 23,
+      "index": 23,
+      "start": 68.099,
+      "end": 68.564,
+      "japanese": "駄。",
+      "zh-CN": "不行。",
+      "segments": [
+        {
+          "text": "駄。",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "駄",
+              "reading": "だ"
+            },
+            {
+              "text": "。"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000025",
+      "order": 24,
+      "index": 24,
+      "start": 68.564,
+      "end": 71.753,
+      "japanese": "ダダダダ　ダリダリ　ダーリン 笑 FUNNY",
+      "zh-CN": "哒哒哒哒　亲爱亲爱　亲爱的 笑 FUNNY",
+      "segments": [
+        {
+          "text": "ダダダダ　ダリダリ　ダーリン 笑 FUNNY",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ダダダダ　ダリダリ　ダーリン "
+            },
+            {
+              "text": "笑",
+              "reading": "わら"
+            },
+            {
+              "text": " FUNNY"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000026",
+      "order": 25,
+      "index": 25,
+      "start": 71.653402,
+      "end": 74.790333,
+      "japanese": "はい冴えない愛情論で　おねだり",
+      "zh-CN": "好啦用土得掉渣的爱情论　撒娇索求",
+      "segments": [
+        {
+          "text": "はい冴えない愛情論で　おねだり",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "はい"
+            },
+            {
+              "text": "冴",
+              "reading": "さ"
+            },
+            {
+              "text": "えない"
+            },
+            {
+              "text": "愛情論",
+              "reading": "あいじょうろん"
+            },
+            {
+              "text": "で　おねだり"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000027",
+      "order": 26,
+      "index": 26,
+      "start": 74.790333,
+      "end": 77.988225,
+      "japanese": "駄。ダダダダ　ダーリン脳裏　DIRTY＆DIRTY",
+      "zh-CN": "不行。哒哒哒哒　脑海中的亲爱的　DIRTY & DIRTY",
+      "segments": [
+        {
+          "text": "駄。ダダダダ　ダーリン脳裏　DIRTY＆DIRTY",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "駄",
+              "reading": "だ"
+            },
+            {
+              "text": "。ダダダダ　ダーリン"
+            },
+            {
+              "text": "脳裏",
+              "reading": "のうり"
+            },
+            {
+              "text": "　DIRTY＆DIRTY"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000028",
+      "order": 27,
+      "index": 27,
+      "start": 77.99522,
+      "end": 80.859332,
+      "japanese": "会いたい衝動　埋めてよ　ダダダーリン",
+      "zh-CN": "想见你的冲动　快来填满吧　哒哒亲爱的",
+      "segments": [
+        {
+          "text": "会いたい衝動　埋めてよ　",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "会",
+              "reading": "あ"
+            },
+            {
+              "text": "いたい"
+            },
+            {
+              "text": "衝動",
+              "reading": "しょうどう"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "埋",
+              "reading": "う"
+            },
+            {
+              "text": "めてよ　"
+            }
+          ]
+        },
+        {
+          "text": "ダダダーリン",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "ダダダーリン"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 28,
+      "start": 81.206103,
+      "end": 82.910887,
+      "japanese": "無無　無無　無無無 ",
+      "zh-CN": "无无　无无　无无无",
+      "segments": [
+        {
+          "text": "無無　無無　無無無 ",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "無無",
+              "reading": "なな"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "無無",
+              "reading": "なな"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "無無無",
+              "reading": "ななな"
+            },
+            {
+              "text": " "
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 29,
+      "start": 82.910887,
+      "end": 84.360931,
+      "japanese": "無無無　無無無",
+      "zh-CN": "无无无　无无无",
+      "segments": [
+        {
+          "text": "無無無　無無無",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "無無無",
+              "reading": "ななな"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "無無無",
+              "reading": "ななな"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000031",
+      "order": 30,
+      "index": 30,
+      "start": 84.360931,
+      "end": 87.262019,
+      "japanese": "無い無い反応　返答を　期待したり",
+      "zh-CN": "荡然无存的反应　却还期待着回答",
+      "segments": [
+        {
+          "text": "無い無い反応　返答を　期待したり",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "無",
+              "reading": "な"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "無",
+              "reading": "な"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "反応",
+              "reading": "はんのう"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "返答",
+              "reading": "へんとう"
+            },
+            {
+              "text": "を　"
+            },
+            {
+              "text": "期待",
+              "reading": "きたい"
+            },
+            {
+              "text": "したり"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "index": 31,
+      "start": 87.262019,
+      "end": 89.164764,
+      "japanese": "無無　無無　無無無 ",
+      "zh-CN": "无无　无无　无无无",
+      "segments": [
+        {
+          "text": "無無　無無　無無無 ",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "無無",
+              "reading": "なな"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "無無",
+              "reading": "なな"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "無無無",
+              "reading": "ななな"
+            },
+            {
+              "text": " "
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 32,
+      "start": 89.164764,
+      "end": 90.56584,
+      "japanese": "無無無　無無無",
+      "zh-CN": "无无无　无无无",
+      "segments": [
+        {
+          "text": "無無無　無無無",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "無無無",
+              "reading": "ななな"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "無無無",
+              "reading": "ななな"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000034",
+      "order": 33,
+      "index": 33,
+      "start": 90.586,
+      "end": 93.507,
+      "japanese": "無い無い妄想　感傷で",
+      "zh-CN": "荡然无存的妄想　因感伤而",
+      "segments": [
+        {
+          "text": "無い無い妄想　感傷で",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "無",
+              "reading": "な"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "無",
+              "reading": "な"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "妄想",
+              "reading": "もうそう"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "感傷",
+              "reading": "かんしょう"
+            },
+            {
+              "text": "で"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000035",
+      "order": 34,
+      "index": 34,
+      "start": 90.586,
+      "end": 93.507,
+      "japanese": "駄　ダダダーリン ",
+      "zh-CN": "不行　哒哒亲爱的",
+      "segments": [
+        {
+          "text": "駄　ダダダーリン ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "駄",
+              "reading": "だ"
+            },
+            {
+              "text": "　ダダダーリン "
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000036",
+      "order": 35,
+      "index": 35,
+      "start": 93.791,
+      "end": 96.436,
+      "japanese": "無い無い純情　感傷で",
+      "zh-CN": "荡然无存的纯情　因感伤而",
+      "segments": [
+        {
+          "text": "無い無い純情　感傷で",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "無",
+              "reading": "な"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "無",
+              "reading": "な"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "純情",
+              "reading": "じゅんじょう"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "感傷",
+              "reading": "かんしょう"
+            },
+            {
+              "text": "で"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000037",
+      "order": 36,
+      "index": 36,
+      "start": 93.791,
+      "end": 96.436,
+      "japanese": "駄　ダダダーリン ",
+      "zh-CN": "不行　哒哒亲爱的",
+      "segments": [
+        {
+          "text": "駄　ダダダーリン ",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "駄",
+              "reading": "だ"
+            },
+            {
+              "text": "　ダダダーリン "
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000038",
+      "order": 37,
+      "index": 37,
+      "start": 96.41998,
+      "end": 98.394678,
+      "japanese": "ねえダーリン 　ちゅ。",
+      "zh-CN": "喂亲爱的　啾。",
+      "segments": [
+        {
+          "text": "ねえダーリン 　",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ねえダーリン 　"
+            }
+          ]
+        },
+        {
+          "text": "ちゅ。",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ちゅ。"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

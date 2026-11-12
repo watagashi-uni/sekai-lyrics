@@ -1,0 +1,768 @@
+{
+  "music_id": 702,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-01",
+      "name": "星乃一歌"
+    },
+    {
+      "performerId": "歌唱者-03",
+      "name": "望月穂波"
+    },
+    {
+      "performerId": "歌唱者-23",
+      "name": "鏡音レン"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 33.28275,
+      "end": 38.43275,
+      "japanese": "透き通ったガラス玉　半透明を覗いた",
+      "zh-CN": "晶莹剔透的玻璃珠 窥探着半透明的世界",
+      "segments": [
+        {
+          "text": "透き通ったガラス玉　半透明を覗いた",
+          "performerIds": [
+            "歌唱者-03"
+          ],
+          "ruby": [
+            {
+              "text": "透",
+              "reading": "す"
+            },
+            {
+              "text": "き"
+            },
+            {
+              "text": "通",
+              "reading": "とお"
+            },
+            {
+              "text": "ったガラス"
+            },
+            {
+              "text": "玉",
+              "reading": "たま"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "半透明",
+              "reading": "はんとうめい"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "覗",
+              "reading": "のぞ"
+            },
+            {
+              "text": "いた"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 38.43275,
+      "end": 44.32675,
+      "japanese": "君がいて　目が合った 遠い夏の記憶が呼んでいる",
+      "zh-CN": "你就在那里 视线相交 遥远夏日的记忆在呼唤",
+      "segments": [
+        {
+          "text": "君がいて　目が合った 遠い夏の記憶が呼んでいる",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "がいて　"
+            },
+            {
+              "text": "目",
+              "reading": "め"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "合",
+              "reading": "あ"
+            },
+            {
+              "text": "った "
+            },
+            {
+              "text": "遠",
+              "reading": "とお"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "夏",
+              "reading": "なつ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "記憶",
+              "reading": "きおく"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "呼",
+              "reading": "よ"
+            },
+            {
+              "text": "んでいる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 44.32675,
+      "end": 46.93075,
+      "japanese": "0になったって大丈夫",
+      "zh-CN": "哪怕归零也无所谓",
+      "segments": [
+        {
+          "text": "0になったって大丈夫",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "0になったって"
+            },
+            {
+              "text": "大丈夫",
+              "reading": "だいじょうぶ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 46.93075,
+      "end": 53.63475,
+      "japanese": "今になってわかった　涙堪えた横顔",
+      "zh-CN": "如今才终于明白 那强忍泪水的侧脸",
+      "segments": [
+        {
+          "text": "今になってわかった　涙堪えた横顔",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "今",
+              "reading": "いま"
+            },
+            {
+              "text": "になってわかった　"
+            },
+            {
+              "text": "涙堪",
+              "reading": "なみだこら"
+            },
+            {
+              "text": "えた"
+            },
+            {
+              "text": "横顔",
+              "reading": "よこがお"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 53.63475,
+      "end": 55.89775,
+      "japanese": "飛び込んだラムネ色",
+      "zh-CN": "纵身跃入波子汽水的色泽",
+      "segments": [
+        {
+          "text": "飛び込んだラムネ色",
+          "performerIds": [
+            "歌唱者-03"
+          ],
+          "ruby": [
+            {
+              "text": "飛",
+              "reading": "と"
+            },
+            {
+              "text": "び"
+            },
+            {
+              "text": "込",
+              "reading": "こ"
+            },
+            {
+              "text": "んだラムネ"
+            },
+            {
+              "text": "色",
+              "reading": "いろ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 55.89775,
+      "end": 59.09475,
+      "japanese": "泡にはじけて消えた",
+      "zh-CN": "在气泡中迸裂消逝",
+      "segments": [
+        {
+          "text": "泡にはじけて消えた",
+          "performerIds": [
+            "歌唱者-03"
+          ],
+          "ruby": [
+            {
+              "text": "泡",
+              "reading": "あわ"
+            },
+            {
+              "text": "にはじけて"
+            },
+            {
+              "text": "消",
+              "reading": "き"
+            },
+            {
+              "text": "えた"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 59.09475,
+      "end": 62.15475,
+      "japanese": "忘れはしないよ",
+      "zh-CN": "我绝不会忘记",
+      "segments": [
+        {
+          "text": "忘れはしないよ",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "忘",
+              "reading": "わす"
+            },
+            {
+              "text": "れはしないよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 62.15475,
+      "end": 63.76375,
+      "japanese": "願いは",
+      "zh-CN": "这份心愿",
+      "segments": [
+        {
+          "text": "願いは",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "願",
+              "reading": "ねが"
+            },
+            {
+              "text": "いは"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 63.76375,
+      "end": 69.52475,
+      "japanese": "あぁ　きみと夏が　青に混ざって",
+      "zh-CN": "啊 你与夏日 融进了湛蓝",
+      "segments": [
+        {
+          "text": "あぁ　きみと夏が　青に混ざって",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "あぁ　きみと"
+            },
+            {
+              "text": "夏",
+              "reading": "なつ"
+            },
+            {
+              "text": "が　"
+            },
+            {
+              "text": "青",
+              "reading": "あお"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "混",
+              "reading": "ま"
+            },
+            {
+              "text": "ざって"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 69.52475,
+      "end": 73.78675,
+      "japanese": "変わらない想いを　届けて",
+      "zh-CN": "将不变的思念 传达出去",
+      "segments": [
+        {
+          "text": "変わらない想いを　届けて",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "変",
+              "reading": "か"
+            },
+            {
+              "text": "わらない"
+            },
+            {
+              "text": "想",
+              "reading": "おも"
+            },
+            {
+              "text": "いを　"
+            },
+            {
+              "text": "届",
+              "reading": "とど"
+            },
+            {
+              "text": "けて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 73.78675,
+      "end": 79.38875,
+      "japanese": "ねぇ　神様なら　手を振ってるよ",
+      "zh-CN": "呐 神明大人 正微笑着挥手呢",
+      "segments": [
+        {
+          "text": "ねぇ　神様なら　手を振ってるよ",
+          "performerIds": [
+            "歌唱者-03",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "ねぇ　"
+            },
+            {
+              "text": "神様",
+              "reading": "かみさま"
+            },
+            {
+              "text": "なら　"
+            },
+            {
+              "text": "手",
+              "reading": "て"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "振",
+              "reading": "ふ"
+            },
+            {
+              "text": "ってるよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 79.38875,
+      "end": 84.31775,
+      "japanese": "懐かしい声を また聴かせてね",
+      "zh-CN": "请让我再次听见 那令人怀念的声音",
+      "segments": [
+        {
+          "text": "懐かしい声を また聴かせてね",
+          "performerIds": [
+            "歌唱者-03"
+          ],
+          "ruby": [
+            {
+              "text": "懐",
+              "reading": "なつ"
+            },
+            {
+              "text": "かしい"
+            },
+            {
+              "text": "声",
+              "reading": "こえ"
+            },
+            {
+              "text": "を また"
+            },
+            {
+              "text": "聴",
+              "reading": "き"
+            },
+            {
+              "text": "かせてね"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 84.31775,
+      "end": 96.36475,
+      "japanese": "奇跡はいらない もう怖くないから",
+      "zh-CN": "我不需要奇迹 因为已经不再害怕",
+      "segments": [
+        {
+          "text": "奇跡はいらない もう怖くないから",
+          "performerIds": [
+            "歌唱者-03"
+          ],
+          "ruby": [
+            {
+              "text": "奇跡",
+              "reading": "きせき"
+            },
+            {
+              "text": "はいらない もう"
+            },
+            {
+              "text": "怖",
+              "reading": "こわ"
+            },
+            {
+              "text": "くないから"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 96.36475,
+      "end": 101.88575,
+      "japanese": "あぁ　きみと夏が 青に混ざって",
+      "zh-CN": "啊 你与夏日 融进了湛蓝",
+      "segments": [
+        {
+          "text": "あぁ　きみと夏が 青に混ざって",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "あぁ　きみと"
+            },
+            {
+              "text": "夏",
+              "reading": "なつ"
+            },
+            {
+              "text": "が "
+            },
+            {
+              "text": "青",
+              "reading": "あお"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "混",
+              "reading": "ま"
+            },
+            {
+              "text": "ざって"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 101.88575,
+      "end": 106.23275,
+      "japanese": "変わらない想いを 届けて",
+      "zh-CN": "将不变的思念 传达出去",
+      "segments": [
+        {
+          "text": "変わらない想いを 届けて",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "変",
+              "reading": "か"
+            },
+            {
+              "text": "わらない"
+            },
+            {
+              "text": "想",
+              "reading": "おも"
+            },
+            {
+              "text": "いを "
+            },
+            {
+              "text": "届",
+              "reading": "とど"
+            },
+            {
+              "text": "けて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 106.23275,
+      "end": 111.85675,
+      "japanese": "ねぇ　神様なら 手を振ってるよ",
+      "zh-CN": "呐 神明大人 正微笑着挥手呢",
+      "segments": [
+        {
+          "text": "ねぇ　神様なら 手を振ってるよ",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-03",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "ねぇ　"
+            },
+            {
+              "text": "神様",
+              "reading": "かみさま"
+            },
+            {
+              "text": "なら "
+            },
+            {
+              "text": "手",
+              "reading": "て"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "振",
+              "reading": "ふ"
+            },
+            {
+              "text": "ってるよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 111.85675,
+      "end": 116.86375,
+      "japanese": "懐かしい声を また聴かせてね",
+      "zh-CN": "请让我再次听见 那令人怀念的声音",
+      "segments": [
+        {
+          "text": "懐かしい声を また聴かせてね",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "懐",
+              "reading": "なつ"
+            },
+            {
+              "text": "かしい"
+            },
+            {
+              "text": "声",
+              "reading": "こえ"
+            },
+            {
+              "text": "を また"
+            },
+            {
+              "text": "聴",
+              "reading": "き"
+            },
+            {
+              "text": "かせてね"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 116.86375,
+      "end": 136.09887,
+      "japanese": "奇跡はいらない もう怖くないから",
+      "zh-CN": "我不需要奇迹 因为已经不再害怕",
+      "segments": [
+        {
+          "text": "奇跡はいらない もう怖くないから",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "奇跡",
+              "reading": "きせき"
+            },
+            {
+              "text": "はいらない もう"
+            },
+            {
+              "text": "怖",
+              "reading": "こわ"
+            },
+            {
+              "text": "くないから"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

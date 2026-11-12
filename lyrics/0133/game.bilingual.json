@@ -1,0 +1,1012 @@
+{
+  "music_id": 133,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-09",
+      "name": "小豆沢こはね"
+    },
+    {
+      "performerId": "歌唱者-10",
+      "name": "白石杏"
+    },
+    {
+      "performerId": "歌唱者-11",
+      "name": "東雲彰人"
+    },
+    {
+      "performerId": "歌唱者-12",
+      "name": "青柳冬弥"
+    },
+    {
+      "performerId": "歌唱者-22",
+      "name": "鏡音リン"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 22.464,
+      "end": 24.58,
+      "japanese": "感情なんてもんはどうしても",
+      "zh-CN": "感情这种东西 不管怎么看",
+      "segments": [
+        {
+          "text": "感情なんてもんはどうしても",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "感情",
+              "reading": "かんじょう"
+            },
+            {
+              "text": "なんてもんはどうしても"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 24.58,
+      "end": 26.745,
+      "japanese": "無駄だって悪魔は言った",
+      "zh-CN": "都是多余的 恶魔这么说",
+      "segments": [
+        {
+          "text": "無駄だって悪魔は言った",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "無駄",
+              "reading": "むだ"
+            },
+            {
+              "text": "だって"
+            },
+            {
+              "text": "悪魔",
+              "reading": "あくま"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "言",
+              "reading": "い"
+            },
+            {
+              "text": "った"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 26.633717,
+      "end": 28.610695,
+      "japanese": "「何もかも捨てちまえよ」",
+      "zh-CN": "“把一切统统扔掉吧”",
+      "segments": [
+        {
+          "text": "「何もかも捨てちまえよ」",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "「"
+            },
+            {
+              "text": "何",
+              "reading": "なに"
+            },
+            {
+              "text": "もかも"
+            },
+            {
+              "text": "捨",
+              "reading": "す"
+            },
+            {
+              "text": "てちまえよ」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 28.806494,
+      "end": 31.48875,
+      "japanese": "嗚呼、快不快も、喜怒哀楽さえも！",
+      "zh-CN": "啊，快意与不快，就连喜怒哀乐也一样！",
+      "segments": [
+        {
+          "text": "嗚呼、快不快も、喜怒哀楽さえも！",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "嗚呼",
+              "reading": "ああ"
+            },
+            {
+              "text": "、"
+            },
+            {
+              "text": "快不快",
+              "reading": "かいふかい"
+            },
+            {
+              "text": "も、"
+            },
+            {
+              "text": "喜怒哀楽",
+              "reading": "きどあいらく"
+            },
+            {
+              "text": "さえも！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 31.650585,
+      "end": 33.227971,
+      "japanese": "どうしようもない事実",
+      "zh-CN": "无可奈何的事实",
+      "segments": [
+        {
+          "text": "どうしようもない事実",
+          "performerIds": [
+            "歌唱者-09"
+          ],
+          "ruby": [
+            {
+              "text": "どうしようもない"
+            },
+            {
+              "text": "事実",
+              "reading": "じじつ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 33.227971,
+      "end": 35.521625,
+      "japanese": "ヒトは終焉から逃れられない",
+      "zh-CN": "人类永远逃不开终局",
+      "segments": [
+        {
+          "text": "ヒトは終焉から逃れられない",
+          "performerIds": [
+            "歌唱者-09"
+          ],
+          "ruby": [
+            {
+              "text": "ヒトは"
+            },
+            {
+              "text": "終焉",
+              "reading": "しゅうえん"
+            },
+            {
+              "text": "から"
+            },
+            {
+              "text": "逃",
+              "reading": "のが"
+            },
+            {
+              "text": "れられない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 35.521625,
+      "end": 38.283799,
+      "japanese": "「誰も抗えない欲望に従え」",
+      "zh-CN": "“去顺从谁也抗拒不了的欲望吧”",
+      "segments": [
+        {
+          "text": "「誰も抗えない欲望に従え」",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "「"
+            },
+            {
+              "text": "誰",
+              "reading": "だれ"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "抗",
+              "reading": "あらが"
+            },
+            {
+              "text": "えない"
+            },
+            {
+              "text": "欲望",
+              "reading": "よくぼう"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "従",
+              "reading": "したが"
+            },
+            {
+              "text": "え」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 38.283799,
+      "end": 40.962059,
+      "japanese": "思考を休めるな　脳ミソを回せ",
+      "zh-CN": "别停止思考 转动你的脑子",
+      "segments": [
+        {
+          "text": "思考を休めるな　脳ミソを回せ",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "思考",
+              "reading": "しこう"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "休",
+              "reading": "やす"
+            },
+            {
+              "text": "めるな　"
+            },
+            {
+              "text": "脳",
+              "reading": "のう"
+            },
+            {
+              "text": "ミソを"
+            },
+            {
+              "text": "回",
+              "reading": "まわ"
+            },
+            {
+              "text": "せ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 41.163852,
+      "end": 45.060866,
+      "japanese": "「誰もお前のことなど見ちゃいないさ」",
+      "zh-CN": "“根本没人多看你一眼啊”",
+      "segments": [
+        {
+          "text": "「誰もお前のことなど見ちゃいないさ」",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "「"
+            },
+            {
+              "text": "誰",
+              "reading": "だれ"
+            },
+            {
+              "text": "もお"
+            },
+            {
+              "text": "前",
+              "reading": "まえ"
+            },
+            {
+              "text": "のことなど"
+            },
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "ちゃいないさ」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 45.060866,
+      "end": 48.215638,
+      "japanese": "おかしくなってしまうことをどうして恥じる？",
+      "zh-CN": "发了疯又何必觉得丢脸？",
+      "segments": [
+        {
+          "text": "おかしくなってしまうことをどうして恥じる？",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "おかしくなってしまうことをどうして"
+            },
+            {
+              "text": "恥",
+              "reading": "は"
+            },
+            {
+              "text": "じる？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 48.84899,
+      "end": 53.608122,
+      "japanese": "お前らに完璧で間違った踊り方を教えてやるから",
+      "zh-CN": "我就来教你们完美却错误的舞步",
+      "segments": [
+        {
+          "text": "お前らに完璧で間違った踊り方を教えてやるから",
+          "performerIds": [
+            "歌唱者-12",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "お"
+            },
+            {
+              "text": "前",
+              "reading": "まえ"
+            },
+            {
+              "text": "らに"
+            },
+            {
+              "text": "完璧",
+              "reading": "かんぺき"
+            },
+            {
+              "text": "で"
+            },
+            {
+              "text": "間違",
+              "reading": "まちが"
+            },
+            {
+              "text": "った"
+            },
+            {
+              "text": "踊",
+              "reading": "おど"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "方",
+              "reading": "かた"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "教",
+              "reading": "おし"
+            },
+            {
+              "text": "えてやるから"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 53.906816,
+      "end": 58.03759,
+      "japanese": "いっせーので捨てちまえ、そんな命ならば",
+      "zh-CN": "要是那种命 就喊一二三一起扔了吧",
+      "segments": [
+        {
+          "text": "いっせーので捨てちまえ、そんな命ならば",
+          "performerIds": [
+            "歌唱者-10",
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "いっせーので"
+            },
+            {
+              "text": "捨",
+              "reading": "す"
+            },
+            {
+              "text": "てちまえ、そんな"
+            },
+            {
+              "text": "命",
+              "reading": "いのち"
+            },
+            {
+              "text": "ならば"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 58.667945,
+      "end": 62.659861,
+      "japanese": "何十何百何千何万回学習しなさいな",
+      "zh-CN": "好好学上几十几百几千几万遍吧",
+      "segments": [
+        {
+          "text": "何十何百何千何万回学習しなさいな",
+          "performerIds": [
+            "歌唱者-11",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "何十何百何千何万回学習",
+              "reading": "なんじゅうなんびゃくなんぜんなんまんかいがくしゅう"
+            },
+            {
+              "text": "しなさいな"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 62.951563,
+      "end": 66.355081,
+      "japanese": "どうしたってさ、空っぽの頭蓋骨だろ",
+      "zh-CN": "说到底，不就只是个空空如也的头盖骨吗",
+      "segments": [
+        {
+          "text": "どうしたってさ、空っぽの頭蓋骨だろ",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "どうしたってさ、"
+            },
+            {
+              "text": "空",
+              "reading": "から"
+            },
+            {
+              "text": "っぽの"
+            },
+            {
+              "text": "頭蓋骨",
+              "reading": "ずがいこつ"
+            },
+            {
+              "text": "だろ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 66.355081,
+      "end": 68.046351,
+      "japanese": "わかっているのかい？",
+      "zh-CN": "你到底懂不懂啊？",
+      "segments": [
+        {
+          "text": "わかっているのかい？",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "わかっているのかい？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 78.987954,
+      "end": 82.928923,
+      "japanese": "真善美に背いた踊り方を教えてやるから",
+      "zh-CN": "我就来教你们背弃真善美的舞步",
+      "segments": [
+        {
+          "text": "真善美に背いた踊り方を教えてやるから",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "真善美",
+              "reading": "しんぜんび"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "背",
+              "reading": "そむ"
+            },
+            {
+              "text": "いた"
+            },
+            {
+              "text": "踊",
+              "reading": "おど"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "方",
+              "reading": "かた"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "教",
+              "reading": "おし"
+            },
+            {
+              "text": "えてやるから"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 83.192653,
+      "end": 87.492254,
+      "japanese": "いっせーので狂っちまえ、惨めな姿で",
+      "zh-CN": "就顶着这副惨样 喊一二三一起发疯吧",
+      "segments": [
+        {
+          "text": "いっせーので狂っちまえ、惨めな姿で",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "いっせーので"
+            },
+            {
+              "text": "狂",
+              "reading": "くる"
+            },
+            {
+              "text": "っちまえ、"
+            },
+            {
+              "text": "惨",
+              "reading": "みじ"
+            },
+            {
+              "text": "めな"
+            },
+            {
+              "text": "姿",
+              "reading": "すがた"
+            },
+            {
+              "text": "で"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 88.011723,
+      "end": 92.244393,
+      "japanese": "何十何百何千何万何億人の中でさぁ、",
+      "zh-CN": "在这几十几百几千几万几亿人当中啊，",
+      "segments": [
+        {
+          "text": "何十何百何千何万何億人の中でさぁ、",
+          "performerIds": [
+            "歌唱者-09"
+          ],
+          "ruby": [
+            {
+              "text": "何十何百何千何万何億人",
+              "reading": "なんじゅうなんびゃくなんぜんなんまんなんおくにん"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "中",
+              "reading": "なか"
+            },
+            {
+              "text": "でさぁ、"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 92.244393,
+      "end": 94.642939,
+      "japanese": "そうして埋もれていたっていいと",
+      "zh-CN": "“就这样被淹没也无所谓”",
+      "segments": [
+        {
+          "text": "そうして埋もれていたっていいと",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "そうして"
+            },
+            {
+              "text": "埋",
+              "reading": "う"
+            },
+            {
+              "text": "もれていたっていいと"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 94.642939,
+      "end": 96.646889,
+      "japanese": "どうして言えるのだろう？",
+      "zh-CN": "怎么可能说得出口？",
+      "segments": [
+        {
+          "text": "どうして言えるのだろう？",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "どうして"
+            },
+            {
+              "text": "言",
+              "reading": "い"
+            },
+            {
+              "text": "えるのだろう？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 96.903626,
+      "end": 100.739702,
+      "japanese": "ねぇ、世界が患っている狂信は",
+      "zh-CN": "我说，这个世界所患上的狂信",
+      "segments": [
+        {
+          "text": "ねぇ、世界が患っている狂信は",
+          "performerIds": [
+            "歌唱者-09"
+          ],
+          "ruby": [
+            {
+              "text": "ねぇ、"
+            },
+            {
+              "text": "世界",
+              "reading": "せかい"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "患",
+              "reading": "わずら"
+            },
+            {
+              "text": "っている"
+            },
+            {
+              "text": "狂信",
+              "reading": "きょうしん"
+            },
+            {
+              "text": "は"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 100.99544,
+      "end": 105.558772,
+      "japanese": "健常者でさえ目が眩むような光を放っている",
+      "zh-CN": "正散发着连正常人都会目眩的强光",
+      "segments": [
+        {
+          "text": "健常者でさえ目が眩むような光を放っている",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "健常者",
+              "reading": "けんじょうしゃ"
+            },
+            {
+              "text": "でさえ"
+            },
+            {
+              "text": "目",
+              "reading": "め"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "眩",
+              "reading": "くら"
+            },
+            {
+              "text": "むような"
+            },
+            {
+              "text": "光",
+              "reading": "ひかり"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "放",
+              "reading": "はな"
+            },
+            {
+              "text": "っている"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000023",
+      "order": 22,
+      "index": 22,
+      "start": 106.02929,
+      "end": 109.807425,
+      "japanese": "今夜、悪魔がお前らにこう云うぜ",
+      "zh-CN": "今晚，恶魔就要对你们这样说了",
+      "segments": [
+        {
+          "text": "今夜、悪魔がお前らにこう云うぜ",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "今夜",
+              "reading": "こんや"
+            },
+            {
+              "text": "、"
+            },
+            {
+              "text": "悪魔",
+              "reading": "あくま"
+            },
+            {
+              "text": "がお"
+            },
+            {
+              "text": "前",
+              "reading": "まえ"
+            },
+            {
+              "text": "らにこう"
+            },
+            {
+              "text": "云",
+              "reading": "い"
+            },
+            {
+              "text": "うぜ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000024",
+      "order": 23,
+      "index": 23,
+      "start": 110.007221,
+      "end": 113.211942,
+      "japanese": "「神とやらに惑わされるなよ」",
+      "zh-CN": "“可别被那所谓的神明给蒙蔽了啊”",
+      "segments": [
+        {
+          "text": "「神とやらに惑わされるなよ」",
+          "performerIds": [
+            "歌唱者-11",
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "「"
+            },
+            {
+              "text": "神",
+              "reading": "かみ"
+            },
+            {
+              "text": "とやらに"
+            },
+            {
+              "text": "惑",
+              "reading": "まど"
+            },
+            {
+              "text": "わされるなよ」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

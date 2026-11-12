@@ -1,0 +1,2966 @@
+{
+  "music_id": 336,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-01",
+      "name": "星乃一歌"
+    },
+    {
+      "performerId": "歌唱者-02",
+      "name": "天馬咲希"
+    },
+    {
+      "performerId": "歌唱者-03",
+      "name": "望月穂波"
+    },
+    {
+      "performerId": "歌唱者-04",
+      "name": "日野森志歩"
+    },
+    {
+      "performerId": "歌唱者-05",
+      "name": "花里みのり"
+    },
+    {
+      "performerId": "歌唱者-06",
+      "name": "桐谷遥"
+    },
+    {
+      "performerId": "歌唱者-07",
+      "name": "桃井愛莉"
+    },
+    {
+      "performerId": "歌唱者-08",
+      "name": "日野森雫"
+    },
+    {
+      "performerId": "歌唱者-09",
+      "name": "小豆沢こはね"
+    },
+    {
+      "performerId": "歌唱者-10",
+      "name": "白石杏"
+    },
+    {
+      "performerId": "歌唱者-11",
+      "name": "東雲彰人"
+    },
+    {
+      "performerId": "歌唱者-12",
+      "name": "青柳冬弥"
+    },
+    {
+      "performerId": "歌唱者-13",
+      "name": "天馬司"
+    },
+    {
+      "performerId": "歌唱者-14",
+      "name": "鳳えむ"
+    },
+    {
+      "performerId": "歌唱者-15",
+      "name": "草薙寧々"
+    },
+    {
+      "performerId": "歌唱者-16",
+      "name": "神代類"
+    },
+    {
+      "performerId": "歌唱者-17",
+      "name": "宵崎奏"
+    },
+    {
+      "performerId": "歌唱者-18",
+      "name": "朝比奈まふゆ"
+    },
+    {
+      "performerId": "歌唱者-19",
+      "name": "東雲絵名"
+    },
+    {
+      "performerId": "歌唱者-20",
+      "name": "暁山瑞希"
+    },
+    {
+      "performerId": "歌唱者-21",
+      "name": "初音ミク"
+    },
+    {
+      "performerId": "歌唱者-22",
+      "name": "鏡音リン"
+    },
+    {
+      "performerId": "歌唱者-23",
+      "name": "鏡音レン"
+    },
+    {
+      "performerId": "歌唱者-24",
+      "name": "巡音ルカ"
+    },
+    {
+      "performerId": "歌唱者-25",
+      "name": "MEIKO"
+    },
+    {
+      "performerId": "歌唱者-26",
+      "name": "KAITO"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 10.078857,
+      "end": 13.178969,
+      "japanese": "「えほん、あーあー...聞こえてる？",
+      "zh-CN": "「咳咳，啊——啊——……听得到吗？",
+      "segments": [
+        {
+          "text": "「えほん、あーあー...聞こえてる？",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "「えほん、あーあー..."
+            },
+            {
+              "text": "聞",
+              "reading": "き"
+            },
+            {
+              "text": "こえてる？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 13.178969,
+      "end": 14.412411,
+      "japanese": "Hello! Everyone!",
+      "zh-CN": "Hello! Everyone!",
+      "segments": [
+        {
+          "text": "Hello! Everyone!",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "Hello! Everyone!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 14.676506,
+      "end": 16.178044,
+      "japanese": "ようこそ！我がミクデミーへ！",
+      "zh-CN": "欢迎！来到我们的初音学园！",
+      "segments": [
+        {
+          "text": "ようこそ！我がミクデミーへ！",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ようこそ！"
+            },
+            {
+              "text": "我",
+              "reading": "わ"
+            },
+            {
+              "text": "がミクデミーへ！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 16.442139,
+      "end": 19.202128,
+      "japanese": "今日も一日素敵な音楽を奏でましょう！",
+      "zh-CN": "今天也让我们共同奏响美妙的音乐吧！",
+      "segments": [
+        {
+          "text": "今日も一日素敵な音楽を奏でましょう！",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "今日",
+              "reading": "きょう"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "一日素敵",
+              "reading": "いちにちすてき"
+            },
+            {
+              "text": "な"
+            },
+            {
+              "text": "音楽",
+              "reading": "おんがく"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "奏",
+              "reading": "かな"
+            },
+            {
+              "text": "でましょう！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 19.202128,
+      "end": 20.202487,
+      "japanese": "Be The MUSIC!」",
+      "zh-CN": "Be The MUSIC!」",
+      "segments": [
+        {
+          "text": "Be The MUSIC!」",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "Be The MUSIC!」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 25.884524,
+      "end": 26.563768,
+      "japanese": "行くよ！ ",
+      "zh-CN": "要上咯！",
+      "segments": [
+        {
+          "text": "行くよ！ ",
+          "performerIds": [
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "行",
+              "reading": "い"
+            },
+            {
+              "text": "くよ！ "
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 26.563768,
+      "end": 27.501104,
+      "japanese": "（いぇーい！） （おっけー！） あぁ！ ",
+      "zh-CN": "（耶——！） （好——！） 啊！",
+      "segments": [
+        {
+          "text": "（いぇーい！） ",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "（いぇーい！） "
+            }
+          ]
+        },
+        {
+          "text": "（おっけー！） ",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "（おっけー！） "
+            }
+          ]
+        },
+        {
+          "text": "あぁ！ ",
+          "performerIds": [
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "あぁ！ "
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 27.501104,
+      "end": 27.762197,
+      "japanese": "おっけー！",
+      "zh-CN": "OK！",
+      "segments": [
+        {
+          "text": "おっけー！",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "おっけー！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 27.962269,
+      "end": 30.728261,
+      "japanese": "Hey! 元気だったり 穏やかだったり",
+      "zh-CN": "Hey! 活力满满或是 温柔平和",
+      "segments": [
+        {
+          "text": "Hey! 元気だったり 穏やかだったり",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "Hey! "
+            },
+            {
+              "text": "元気",
+              "reading": "げんき"
+            },
+            {
+              "text": "だったり "
+            },
+            {
+              "text": "穏",
+              "reading": "おだ"
+            },
+            {
+              "text": "やかだったり"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 30.728261,
+      "end": 32.571922,
+      "japanese": "転回？いったりきたり？",
+      "zh-CN": "调性转换？兜兜转转？",
+      "segments": [
+        {
+          "text": "転回？いったりきたり？",
+          "performerIds": [
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "転回",
+              "reading": "てんかい"
+            },
+            {
+              "text": "？いったりきたり？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 32.571922,
+      "end": 35.152847,
+      "japanese": "聴かせてよキミのMUSIC!",
+      "zh-CN": "让我听听属于你的MUSIC!",
+      "segments": [
+        {
+          "text": "聴かせてよキミの",
+          "performerIds": [
+            "歌唱者-16",
+            "歌唱者-22",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "聴",
+              "reading": "き"
+            },
+            {
+              "text": "かせてよキミの"
+            }
+          ]
+        },
+        {
+          "text": "MUSIC!",
+          "performerIds": [
+            "歌唱者-02",
+            "歌唱者-05",
+            "歌唱者-10",
+            "歌唱者-16",
+            "歌唱者-20",
+            "歌唱者-22",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "MUSIC!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 35.456956,
+      "end": 44.606237,
+      "japanese": "どんな音にも大切な気持ち 間違いなんてないよ",
+      "zh-CN": "无论怎样的音符都饱含珍贵的心意 绝没有什么对错之分",
+      "segments": [
+        {
+          "text": "どんな音にも大切な気持ち ",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "どんな"
+            },
+            {
+              "text": "音",
+              "reading": "おと"
+            },
+            {
+              "text": "にも"
+            },
+            {
+              "text": "大切",
+              "reading": "たいせつ"
+            },
+            {
+              "text": "な"
+            },
+            {
+              "text": "気持",
+              "reading": "きも"
+            },
+            {
+              "text": "ち "
+            }
+          ]
+        },
+        {
+          "text": "間違いなんてないよ",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "間違",
+              "reading": "まちが"
+            },
+            {
+              "text": "いなんてないよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 35.456956,
+      "end": 44.606237,
+      "japanese": "心揺さぶる キミになる オリジナル",
+      "zh-CN": "震撼心灵 成为独一无二的你",
+      "segments": [
+        {
+          "text": "心揺さぶる キミになる オリジナル",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-08",
+            "歌唱者-12",
+            "歌唱者-14",
+            "歌唱者-17",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "心揺",
+              "reading": "こころゆ"
+            },
+            {
+              "text": "さぶる キミになる オリジナル"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 44.606237,
+      "end": 46.42689,
+      "japanese": "MUSIC! ドキドキしちゃうような",
+      "zh-CN": "MUSIC! 让人心跳加速般的",
+      "segments": [
+        {
+          "text": "MUSIC! ",
+          "performerIds": [
+            "歌唱者-04",
+            "歌唱者-07",
+            "歌唱者-11",
+            "歌唱者-15",
+            "歌唱者-19",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "MUSIC! "
+            }
+          ]
+        },
+        {
+          "text": "ドキドキしちゃうような",
+          "performerIds": [
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "ドキドキしちゃうような"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 46.42689,
+      "end": 48.369586,
+      "japanese": "MUSIC!  キュンとしちゃうような",
+      "zh-CN": "MUSIC!  让人怦然心动般的",
+      "segments": [
+        {
+          "text": "MUSIC!  ",
+          "performerIds": [
+            "歌唱者-04",
+            "歌唱者-07",
+            "歌唱者-11",
+            "歌唱者-15",
+            "歌唱者-19",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "MUSIC!  "
+            }
+          ]
+        },
+        {
+          "text": "キュンとしちゃうような",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "キュンとしちゃうような"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 48.369586,
+      "end": 49.789095,
+      "japanese": "MUSIC!  激しくいこう！",
+      "zh-CN": "MUSIC!  尽情释放吧！",
+      "segments": [
+        {
+          "text": "MUSIC!  ",
+          "performerIds": [
+            "歌唱者-04",
+            "歌唱者-07",
+            "歌唱者-11",
+            "歌唱者-15",
+            "歌唱者-19",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "MUSIC!  "
+            }
+          ]
+        },
+        {
+          "text": "激しくいこう！",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "激",
+              "reading": "はげ"
+            },
+            {
+              "text": "しくいこう！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 49.99717,
+      "end": 52.015893,
+      "japanese": "溢れ出す想いは",
+      "zh-CN": "满溢而出的思绪是",
+      "segments": [
+        {
+          "text": "溢れ出す想いは",
+          "performerIds": [
+            "歌唱者-04",
+            "歌唱者-07",
+            "歌唱者-11",
+            "歌唱者-15",
+            "歌唱者-19",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "溢",
+              "reading": "あふ"
+            },
+            {
+              "text": "れ"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "す"
+            },
+            {
+              "text": "想",
+              "reading": "おも"
+            },
+            {
+              "text": "いは"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 52.11075,
+      "end": 54.00075,
+      "japanese": "MUSIC! ありのままを伝えて",
+      "zh-CN": "MUSIC! 传递最真实的自己",
+      "segments": [
+        {
+          "text": "MUSIC! ",
+          "performerIds": [
+            "歌唱者-03",
+            "歌唱者-06",
+            "歌唱者-09",
+            "歌唱者-13",
+            "歌唱者-18",
+            "歌唱者-24",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "MUSIC! "
+            }
+          ]
+        },
+        {
+          "text": "ありのままを伝えて",
+          "performerIds": [
+            "歌唱者-03"
+          ],
+          "ruby": [
+            {
+              "text": "ありのままを"
+            },
+            {
+              "text": "伝",
+              "reading": "つた"
+            },
+            {
+              "text": "えて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 54.00075,
+      "end": 55.88075,
+      "japanese": "MUSIC! ちょっとほら苦いような",
+      "zh-CN": "MUSIC! 你看 哪怕略带苦涩",
+      "segments": [
+        {
+          "text": "MUSIC! ",
+          "performerIds": [
+            "歌唱者-03",
+            "歌唱者-06",
+            "歌唱者-09",
+            "歌唱者-13",
+            "歌唱者-18",
+            "歌唱者-24",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "MUSIC! "
+            }
+          ]
+        },
+        {
+          "text": "ちょっとほら苦いような",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "ちょっとほら"
+            },
+            {
+              "text": "苦",
+              "reading": "にが"
+            },
+            {
+              "text": "いような"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 55.812255,
+      "end": 57.440838,
+      "japanese": "MUSIC! 空も飛べるのさ！",
+      "zh-CN": "MUSIC! 也能自由飞向天空！",
+      "segments": [
+        {
+          "text": "MUSIC! ",
+          "performerIds": [
+            "歌唱者-03",
+            "歌唱者-06",
+            "歌唱者-09",
+            "歌唱者-13",
+            "歌唱者-18",
+            "歌唱者-24",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "MUSIC! "
+            }
+          ]
+        },
+        {
+          "text": "空も飛べるのさ！",
+          "performerIds": [
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "空",
+              "reading": "そら"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "飛",
+              "reading": "と"
+            },
+            {
+              "text": "べるのさ！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 57.440838,
+      "end": 59.183463,
+      "japanese": "なんだってできちゃう！",
+      "zh-CN": "无论什么都能做到！",
+      "segments": [
+        {
+          "text": "なんだってできちゃう！",
+          "performerIds": [
+            "歌唱者-03",
+            "歌唱者-06",
+            "歌唱者-09",
+            "歌唱者-13",
+            "歌唱者-18",
+            "歌唱者-24",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "なんだってできちゃう！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 59.655633,
+      "end": 63.350957,
+      "japanese": "胸を刻むリズム 可能性は無限さ",
+      "zh-CN": "铭刻在胸口的节奏 蕴含着无限的可能",
+      "segments": [
+        {
+          "text": "胸を刻むリズム 可能性は無限さ",
+          "performerIds": [
+            "歌唱者-03",
+            "歌唱者-06",
+            "歌唱者-09",
+            "歌唱者-13",
+            "歌唱者-18",
+            "歌唱者-24",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "胸",
+              "reading": "むね"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "刻",
+              "reading": "きざ"
+            },
+            {
+              "text": "むリズム "
+            },
+            {
+              "text": "可能性",
+              "reading": "かのうせい"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "無限",
+              "reading": "むげん"
+            },
+            {
+              "text": "さ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000023",
+      "order": 22,
+      "index": 22,
+      "start": 63.350957,
+      "end": 67.342389,
+      "japanese": "尊敬！創意！挑戦！",
+      "zh-CN": "尊敬！创意！挑战！",
+      "segments": [
+        {
+          "text": "尊敬！",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-08",
+            "歌唱者-12",
+            "歌唱者-14",
+            "歌唱者-17",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "尊敬",
+              "reading": "そんけい"
+            },
+            {
+              "text": "！"
+            }
+          ]
+        },
+        {
+          "text": "創意！",
+          "performerIds": [
+            "歌唱者-04",
+            "歌唱者-07",
+            "歌唱者-11",
+            "歌唱者-15",
+            "歌唱者-19",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "創意",
+              "reading": "そうい"
+            },
+            {
+              "text": "！"
+            }
+          ]
+        },
+        {
+          "text": "挑戦！",
+          "performerIds": [
+            "歌唱者-02",
+            "歌唱者-05",
+            "歌唱者-10",
+            "歌唱者-16",
+            "歌唱者-20",
+            "歌唱者-22",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "挑戦",
+              "reading": "ちょうせん"
+            },
+            {
+              "text": "！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000024",
+      "order": 23,
+      "index": 23,
+      "start": 63.350957,
+      "end": 67.342389,
+      "japanese": "そして見つけようBrand new song!",
+      "zh-CN": "然后去探寻属于我们的Brand new song!",
+      "segments": [
+        {
+          "text": "そして見つけよう",
+          "performerIds": [
+            "歌唱者-21",
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "そして"
+            },
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "つけよう"
+            }
+          ]
+        },
+        {
+          "text": "Brand new song!",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-04",
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-09",
+            "歌唱者-10",
+            "歌唱者-11",
+            "歌唱者-12",
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-17",
+            "歌唱者-18",
+            "歌唱者-19",
+            "歌唱者-20",
+            "歌唱者-21",
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "Brand new song!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000025",
+      "order": 24,
+      "index": 24,
+      "start": 67.611485,
+      "end": 69.02099,
+      "japanese": "（はい はい はい）（みんなで。。。）",
+      "zh-CN": "（好 好 好）（大家一起……）",
+      "segments": [
+        {
+          "text": "（はい はい はい）",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "（はい はい はい）"
+            }
+          ]
+        },
+        {
+          "text": "（みんなで。。。）",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "（みんなで。。。）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000026",
+      "order": 25,
+      "index": 25,
+      "start": 69.02099,
+      "end": 70.813633,
+      "japanese": "We are the music! イェーイ！",
+      "zh-CN": "We are the music! 耶——！",
+      "segments": [
+        {
+          "text": "We are the music! イェーイ！",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-04",
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-09",
+            "歌唱者-10",
+            "歌唱者-11",
+            "歌唱者-12",
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-17",
+            "歌唱者-18",
+            "歌唱者-19",
+            "歌唱者-20",
+            "歌唱者-21",
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "We are the music! イェーイ！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000027",
+      "order": 26,
+      "index": 26,
+      "start": 70.813633,
+      "end": 74.548972,
+      "japanese": "Music is my story! Music is my memory!",
+      "zh-CN": "Music is my story! Music is my memory!",
+      "segments": [
+        {
+          "text": "Music is my story! Music is my memory!",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-04",
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-09",
+            "歌唱者-10",
+            "歌唱者-11",
+            "歌唱者-12",
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-17",
+            "歌唱者-18",
+            "歌唱者-19",
+            "歌唱者-20",
+            "歌唱者-21",
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "Music is my story! Music is my memory!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000028",
+      "order": 27,
+      "index": 27,
+      "start": 74.548972,
+      "end": 76.254584,
+      "japanese": "(Be the best music!)",
+      "zh-CN": "(Be the best music!)",
+      "segments": [
+        {
+          "text": "(Be the best music!)",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-04",
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-09",
+            "歌唱者-10",
+            "歌唱者-11",
+            "歌唱者-12",
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-17",
+            "歌唱者-18",
+            "歌唱者-19",
+            "歌唱者-20",
+            "歌唱者-21",
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "(Be the best music!)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000029",
+      "order": 28,
+      "index": 28,
+      "start": 76.254584,
+      "end": 78.33533,
+      "japanese": "ラララララ トゥララ",
+      "zh-CN": "啦啦啦啦啦 嘟啦啦",
+      "segments": [
+        {
+          "text": "ラララララ トゥララ",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-04",
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-09",
+            "歌唱者-10",
+            "歌唱者-11",
+            "歌唱者-12",
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-17",
+            "歌唱者-18",
+            "歌唱者-19",
+            "歌唱者-20",
+            "歌唱者-21",
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "ラララララ トゥララ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000030",
+      "order": 29,
+      "index": 29,
+      "start": 78.38075,
+      "end": 82.20075,
+      "japanese": "Music! さぁ歌ったって Music! さぁ手を叩いて",
+      "zh-CN": "Music! 来吧尽情歌唱 Music! 来吧拍响双手",
+      "segments": [
+        {
+          "text": "Music! さぁ歌ったって Music! さぁ手を叩いて",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-04",
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-09",
+            "歌唱者-10",
+            "歌唱者-11",
+            "歌唱者-12",
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-17",
+            "歌唱者-18",
+            "歌唱者-19",
+            "歌唱者-20",
+            "歌唱者-21",
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "Music! さぁ"
+            },
+            {
+              "text": "歌",
+              "reading": "うた"
+            },
+            {
+              "text": "ったって Music! さぁ"
+            },
+            {
+              "text": "手",
+              "reading": "て"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "叩",
+              "reading": "たた"
+            },
+            {
+              "text": "いて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000031",
+      "order": 30,
+      "index": 30,
+      "start": 82.109683,
+      "end": 84.16342,
+      "japanese": "Music is my life!!!",
+      "zh-CN": "Music is my life!!!",
+      "segments": [
+        {
+          "text": "Music is my life!!!",
+          "performerIds": [
+            "歌唱者-21",
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "Music is my life!!!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000032",
+      "order": 31,
+      "index": 31,
+      "start": 84.16342,
+      "end": 85.848024,
+      "japanese": "はずんでくトゥトゥトゥル",
+      "zh-CN": "欢快跃动 嘟嘟嘟噜",
+      "segments": [
+        {
+          "text": "はずんでくトゥトゥトゥル",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-04",
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-09",
+            "歌唱者-10",
+            "歌唱者-11",
+            "歌唱者-12",
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-17",
+            "歌唱者-18",
+            "歌唱者-19",
+            "歌唱者-20",
+            "歌唱者-21",
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "はずんでくトゥトゥトゥル"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000033",
+      "order": 32,
+      "index": 32,
+      "start": 85.85075,
+      "end": 88.68925,
+      "japanese": "今日という日もスコアの１ページ",
+      "zh-CN": "今日这份时光也是乐谱上的一页",
+      "segments": [
+        {
+          "text": "今日という日もスコアの１ページ",
+          "performerIds": [
+            "歌唱者-22",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "今日",
+              "reading": "きょう"
+            },
+            {
+              "text": "という"
+            },
+            {
+              "text": "日",
+              "reading": "ひ"
+            },
+            {
+              "text": "もスコアの１ページ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000034",
+      "order": 33,
+      "index": 33,
+      "start": 88.840204,
+      "end": 91.697228,
+      "japanese": "Let it go 踊るようにBe The MUSIC!",
+      "zh-CN": "Let it go 如同翩翩起舞般Be The MUSIC!",
+      "segments": [
+        {
+          "text": "Let it go 踊るようにBe The MUSIC!",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-04",
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-09",
+            "歌唱者-10",
+            "歌唱者-11",
+            "歌唱者-12",
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-17",
+            "歌唱者-18",
+            "歌唱者-19",
+            "歌唱者-20",
+            "歌唱者-21",
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "Let it go "
+            },
+            {
+              "text": "踊",
+              "reading": "おど"
+            },
+            {
+              "text": "るようにBe The MUSIC!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000035",
+      "order": 34,
+      "index": 34,
+      "start": 91.697228,
+      "end": 93.098731,
+      "japanese": "耳済ませばticktack!",
+      "zh-CN": "侧耳倾听ticktack!",
+      "segments": [
+        {
+          "text": "耳済ませばticktack!",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-08",
+            "歌唱者-12",
+            "歌唱者-14",
+            "歌唱者-17",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "耳",
+              "reading": "みみ"
+            },
+            {
+              "text": "済",
+              "reading": "す"
+            },
+            {
+              "text": "ませばticktack!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000036",
+      "order": 35,
+      "index": 35,
+      "start": 93.298802,
+      "end": 95.098448,
+      "japanese": "鼓動に合わせてbeat box!",
+      "zh-CN": "伴着心跳beat box!",
+      "segments": [
+        {
+          "text": "鼓動に合わせてbeat box!",
+          "performerIds": [
+            "歌唱者-04",
+            "歌唱者-07",
+            "歌唱者-11",
+            "歌唱者-15",
+            "歌唱者-19",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "鼓動",
+              "reading": "こどう"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "合",
+              "reading": "あ"
+            },
+            {
+              "text": "わせてbeat box!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000037",
+      "order": 36,
+      "index": 36,
+      "start": 95.098448,
+      "end": 96.855077,
+      "japanese": "聴こえたよキミのMusic!",
+      "zh-CN": "我听到了哦 属于你的Music!",
+      "segments": [
+        {
+          "text": "聴こえたよキミの",
+          "performerIds": [
+            "歌唱者-02",
+            "歌唱者-05",
+            "歌唱者-10",
+            "歌唱者-16",
+            "歌唱者-20",
+            "歌唱者-22",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "聴",
+              "reading": "き"
+            },
+            {
+              "text": "こえたよキミの"
+            }
+          ]
+        },
+        {
+          "text": "Music!",
+          "performerIds": [
+            "歌唱者-03",
+            "歌唱者-06",
+            "歌唱者-09",
+            "歌唱者-13",
+            "歌唱者-18",
+            "歌唱者-24",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "Music!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000038",
+      "order": 37,
+      "index": 37,
+      "start": 96.855077,
+      "end": 98.783769,
+      "japanese": "All Music MIKUdemy!!! イェーイ！",
+      "zh-CN": "All Music MIKUdemy!!! 耶——！",
+      "segments": [
+        {
+          "text": "All Music MIKUdemy!!! イェーイ！",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-04",
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-09",
+            "歌唱者-10",
+            "歌唱者-11",
+            "歌唱者-12",
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-17",
+            "歌唱者-18",
+            "歌唱者-19",
+            "歌唱者-20",
+            "歌唱者-21",
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "All Music MIKUdemy!!! イェーイ！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000039",
+      "order": 38,
+      "index": 38,
+      "start": 99.223927,
+      "end": 101.01757,
+      "japanese": "みんな行くよ！（おっけっ！）",
+      "zh-CN": "大家要上咯！（好！）",
+      "segments": [
+        {
+          "text": "みんな行くよ！",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "みんな"
+            },
+            {
+              "text": "行",
+              "reading": "い"
+            },
+            {
+              "text": "くよ！"
+            }
+          ]
+        },
+        {
+          "text": "（おっけっ！）",
+          "performerIds": [
+            "歌唱者-02",
+            "歌唱者-05",
+            "歌唱者-16",
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "（おっけっ！）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000040",
+      "order": 39,
+      "index": 39,
+      "start": 101.01757,
+      "end": 107.309826,
+      "japanese": "私たちもみんなでわんだほ～い！ （わんだほい…）",
+      "zh-CN": "我们也要大家一起哇哒吼～咿！（哇哒吼咿……）",
+      "segments": [
+        {
+          "text": "私たちもみんなで",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "私",
+              "reading": "わたし"
+            },
+            {
+              "text": "たちもみんなで"
+            }
+          ]
+        },
+        {
+          "text": "わんだほ～い！ ",
+          "performerIds": [
+            "歌唱者-08",
+            "歌唱者-12",
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "わんだほ～い！ "
+            }
+          ]
+        },
+        {
+          "text": "（わんだほい…）",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "（わんだほい…）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000041",
+      "order": 40,
+      "index": 40,
+      "start": 107.309826,
+      "end": 109.883749,
+      "japanese": "お前たち！行くぞー！ すごい声… 元気だね",
+      "zh-CN": "你们这群家伙！要上啦——！ 好响亮的声音…… 很有精神呢",
+      "segments": [
+        {
+          "text": "お前たち！行くぞー！ ",
+          "performerIds": [
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "お"
+            },
+            {
+              "text": "前",
+              "reading": "まえ"
+            },
+            {
+              "text": "たち！"
+            },
+            {
+              "text": "行",
+              "reading": "い"
+            },
+            {
+              "text": "くぞー！ "
+            }
+          ]
+        },
+        {
+          "text": "すごい声… ",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "すごい"
+            },
+            {
+              "text": "声",
+              "reading": "こえ"
+            },
+            {
+              "text": "… "
+            }
+          ]
+        },
+        {
+          "text": "元気だね",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "元気",
+              "reading": "げんき"
+            },
+            {
+              "text": "だね"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000042",
+      "order": 41,
+      "index": 41,
+      "start": 109.883749,
+      "end": 111.455312,
+      "japanese": "はい！はい！（さすがアイドル）はい！はい！",
+      "zh-CN": "嗨！嗨！（不愧是偶像）嗨！嗨！",
+      "segments": [
+        {
+          "text": "はい！はい！",
+          "performerIds": [
+            "歌唱者-04",
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "はい！はい！"
+            }
+          ]
+        },
+        {
+          "text": "（さすがアイドル）",
+          "performerIds": [
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "（さすがアイドル）"
+            }
+          ]
+        },
+        {
+          "text": "はい！はい！",
+          "performerIds": [
+            "歌唱者-15",
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "はい！はい！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000043",
+      "order": 42,
+      "index": 42,
+      "start": 111.455312,
+      "end": 113.976216,
+      "japanese": "もっといくぞ！（もう分かってる）うーうん！",
+      "zh-CN": "还要更起劲呢！（早就知道啦）嗯——！",
+      "segments": [
+        {
+          "text": "もっといくぞ！",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "もっといくぞ！"
+            }
+          ]
+        },
+        {
+          "text": "（もう分かってる）",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "（もう"
+            },
+            {
+              "text": "分",
+              "reading": "わ"
+            },
+            {
+              "text": "かってる）"
+            }
+          ]
+        },
+        {
+          "text": "うーうん！",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "うーうん！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000044",
+      "order": 43,
+      "index": 43,
+      "start": 113.976216,
+      "end": 115.922914,
+      "japanese": "We are the music!",
+      "zh-CN": "We are the music!",
+      "segments": [
+        {
+          "text": "We are the music!",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-04",
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-09",
+            "歌唱者-10",
+            "歌唱者-11",
+            "歌唱者-12",
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-17",
+            "歌唱者-18",
+            "歌唱者-19",
+            "歌唱者-20",
+            "歌唱者-21",
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "We are the music!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000045",
+      "order": 44,
+      "index": 44,
+      "start": 117.747568,
+      "end": 121.526923,
+      "japanese": "Music is my story. Music is my memory.",
+      "zh-CN": "Music is my story. Music is my memory.",
+      "segments": [
+        {
+          "text": "Music is my story. Music is my memory.",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "Music is my story. Music is my memory."
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000046",
+      "order": 45,
+      "index": 45,
+      "start": 121.526923,
+      "end": 123.338573,
+      "japanese": "Music is my life",
+      "zh-CN": "Music is my life",
+      "segments": [
+        {
+          "text": "Music is my life",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "Music is my life"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000047",
+      "order": 46,
+      "index": 46,
+      "start": 123.338573,
+      "end": 124.999168,
+      "japanese": "ボクら今！独りじゃない！",
+      "zh-CN": "现在的我们！绝非孤身一人！",
+      "segments": [
+        {
+          "text": "ボクら今！",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "ボクら"
+            },
+            {
+              "text": "今",
+              "reading": "いま"
+            },
+            {
+              "text": "！"
+            }
+          ]
+        },
+        {
+          "text": "独りじゃない！",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "独",
+              "reading": "ひと"
+            },
+            {
+              "text": "りじゃない！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000048",
+      "order": 47,
+      "index": 47,
+      "start": 124.999168,
+      "end": 126.865837,
+      "japanese": "みんなでさ！奏でよう！",
+      "zh-CN": "大家一起！奏响旋律吧！",
+      "segments": [
+        {
+          "text": "みんなでさ！",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "みんなでさ！"
+            }
+          ]
+        },
+        {
+          "text": "奏でよう！",
+          "performerIds": [
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "奏",
+              "reading": "かな"
+            },
+            {
+              "text": "でよう！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000049",
+      "order": 48,
+      "index": 48,
+      "start": 126.865837,
+      "end": 129.068627,
+      "japanese": "ずっとずっと止まらない",
+      "zh-CN": "永远永远不会停歇",
+      "segments": [
+        {
+          "text": "ずっとずっと止まらない",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "ずっとずっと"
+            },
+            {
+              "text": "止",
+              "reading": "と"
+            },
+            {
+              "text": "まらない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000050",
+      "order": 49,
+      "index": 49,
+      "start": 126.865837,
+      "end": 129.068627,
+      "japanese": "Brand new song!",
+      "zh-CN": "Brand new song!",
+      "segments": [
+        {
+          "text": "Brand new song!",
+          "performerIds": [
+            "歌唱者-21",
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "Brand new song!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000051",
+      "order": 50,
+      "index": 50,
+      "start": 131.165379,
+      "end": 132.712934,
+      "japanese": "MUSIC forever! イェーイ！",
+      "zh-CN": "MUSIC forever! 耶——！",
+      "segments": [
+        {
+          "text": "MUSIC forever! イェーイ！",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-04",
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-09",
+            "歌唱者-10",
+            "歌唱者-11",
+            "歌唱者-12",
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-17",
+            "歌唱者-18",
+            "歌唱者-19",
+            "歌唱者-20",
+            "歌唱者-21",
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "MUSIC forever! イェーイ！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000052",
+      "order": 51,
+      "index": 51,
+      "start": 132.712934,
+      "end": 136.710367,
+      "japanese": "Music is my passion! Music is my emotion!",
+      "zh-CN": "Music is my passion! Music is my emotion!",
+      "segments": [
+        {
+          "text": "Music is my passion! Music is my emotion!",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-04",
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-09",
+            "歌唱者-10",
+            "歌唱者-11",
+            "歌唱者-12",
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-17",
+            "歌唱者-18",
+            "歌唱者-19",
+            "歌唱者-20",
+            "歌唱者-21",
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "Music is my passion! Music is my emotion!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000053",
+      "order": 52,
+      "index": 52,
+      "start": 136.710367,
+      "end": 138.233913,
+      "japanese": "(Be the best music!)",
+      "zh-CN": "(Be the best music!)",
+      "segments": [
+        {
+          "text": "(Be the best music!)",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-04",
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-09",
+            "歌唱者-10",
+            "歌唱者-11",
+            "歌唱者-12",
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-17",
+            "歌唱者-18",
+            "歌唱者-19",
+            "歌唱者-20",
+            "歌唱者-21",
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "(Be the best music!)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000054",
+      "order": 53,
+      "index": 53,
+      "start": 138.233913,
+      "end": 140.25964,
+      "japanese": "ラララララ トゥララ",
+      "zh-CN": "啦啦啦啦啦 嘟啦啦",
+      "segments": [
+        {
+          "text": "ラララララ トゥララ",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-04",
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-09",
+            "歌唱者-10",
+            "歌唱者-11",
+            "歌唱者-12",
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-17",
+            "歌唱者-18",
+            "歌唱者-19",
+            "歌唱者-20",
+            "歌唱者-21",
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "ラララララ トゥララ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000055",
+      "order": 54,
+      "index": 54,
+      "start": 140.29,
+      "end": 144.33,
+      "japanese": "Music! さぁ歌ったって Music! さぁ手を叩いて",
+      "zh-CN": "Music! 来吧尽情歌唱 Music! 来吧拍响双手",
+      "segments": [
+        {
+          "text": "Music! さぁ歌ったって Music! さぁ手を叩いて",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-04",
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-09",
+            "歌唱者-10",
+            "歌唱者-11",
+            "歌唱者-12",
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-17",
+            "歌唱者-18",
+            "歌唱者-19",
+            "歌唱者-20",
+            "歌唱者-21",
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "Music! さぁ"
+            },
+            {
+              "text": "歌",
+              "reading": "うた"
+            },
+            {
+              "text": "ったって Music! さぁ"
+            },
+            {
+              "text": "手",
+              "reading": "て"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "叩",
+              "reading": "たた"
+            },
+            {
+              "text": "いて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000056",
+      "order": 55,
+      "index": 55,
+      "start": 144.178045,
+      "end": 146.111738,
+      "japanese": "Music is my life!!!",
+      "zh-CN": "Music is my life!!!",
+      "segments": [
+        {
+          "text": "Music is my life!!!",
+          "performerIds": [
+            "歌唱者-21",
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "Music is my life!!!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000057",
+      "order": 56,
+      "index": 56,
+      "start": 146.111738,
+      "end": 147.742323,
+      "japanese": "みんなでトゥトゥトゥル",
+      "zh-CN": "大家一起 嘟嘟嘟噜",
+      "segments": [
+        {
+          "text": "みんなでトゥトゥトゥル",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-04",
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-09",
+            "歌唱者-10",
+            "歌唱者-11",
+            "歌唱者-12",
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-17",
+            "歌唱者-18",
+            "歌唱者-19",
+            "歌唱者-20",
+            "歌唱者-21",
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "みんなでトゥトゥトゥル"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000058",
+      "order": 57,
+      "index": 57,
+      "start": 147.742323,
+      "end": 150.739397,
+      "japanese": "忘れないよ セカイの１ページ",
+      "zh-CN": "绝不会忘记 SEKAI中的这一页",
+      "segments": [
+        {
+          "text": "忘れないよ セカイの１ページ",
+          "performerIds": [
+            "歌唱者-21",
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "忘",
+              "reading": "わす"
+            },
+            {
+              "text": "れないよ セカイの１ページ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000059",
+      "order": 58,
+      "index": 58,
+      "start": 150.82,
+      "end": 154.09,
+      "japanese": "Let it go 踊るようにBe The MUSIC!",
+      "zh-CN": "Let it go 如同翩翩起舞般Be The MUSIC!",
+      "segments": [
+        {
+          "text": "Let it go 踊るようにBe The MUSIC!",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-04",
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-09",
+            "歌唱者-10",
+            "歌唱者-11",
+            "歌唱者-12",
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-17",
+            "歌唱者-18",
+            "歌唱者-19",
+            "歌唱者-20",
+            "歌唱者-21",
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "Let it go "
+            },
+            {
+              "text": "踊",
+              "reading": "おど"
+            },
+            {
+              "text": "るようにBe The MUSIC!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 59,
+      "start": 154.87,
+      "end": 156.69,
+      "japanese": "「大賑わいだな」 「いぇ～い！」 「うっふふ、待って～！」",
+      "zh-CN": "「真是热闹非凡啊」「耶～！」「呵呵，等等我～！」",
+      "segments": [
+        {
+          "text": "「大賑わいだな」 ",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "「"
+            },
+            {
+              "text": "大賑",
+              "reading": "おおにぎ"
+            },
+            {
+              "text": "わいだな」 "
+            }
+          ]
+        },
+        {
+          "text": "「いぇ～い！」 ",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "「いぇ～い！」 "
+            }
+          ]
+        },
+        {
+          "text": "「うっふふ、待って～！」",
+          "performerIds": [
+            "歌唱者-09"
+          ],
+          "ruby": [
+            {
+              "text": "「うっふふ、"
+            },
+            {
+              "text": "待",
+              "reading": "ま"
+            },
+            {
+              "text": "って～！」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "index": 60,
+      "start": 154.87,
+      "end": 156.69,
+      "japanese": "「イェーイ！」 「ふふっ」 「ほら、わんだほーい！あははっ」",
+      "zh-CN": "「耶——！」「呵呵」「你看，哇哒吼咿！啊哈哈」",
+      "segments": [
+        {
+          "text": "「イェーイ！」 ",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "「イェーイ！」 "
+            }
+          ]
+        },
+        {
+          "text": "「ふふっ」 ",
+          "performerIds": [
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "「ふふっ」 "
+            }
+          ]
+        },
+        {
+          "text": "「ほら、わんだほーい！あははっ」",
+          "performerIds": [
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "「ほら、わんだほーい！あははっ」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000062",
+      "order": 61,
+      "index": 61,
+      "start": 156.31,
+      "end": 158.52,
+      "japanese": "ミクデミー！",
+      "zh-CN": "初音学园！",
+      "segments": [
+        {
+          "text": "ミクデミー！",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ミクデミー！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "index": 62,
+      "start": 158.08,
+      "end": 160.06,
+      "japanese": "「お前たちー！」 「へい、へーい！」 「あぁ！」",
+      "zh-CN": "「你们这群家伙——！」「嘿，嘿——！」「啊！」",
+      "segments": [
+        {
+          "text": "「お前たちー！」 ",
+          "performerIds": [
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "「お"
+            },
+            {
+              "text": "前",
+              "reading": "まえ"
+            },
+            {
+              "text": "たちー！」 "
+            }
+          ]
+        },
+        {
+          "text": "「へい、へーい！」 ",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "「へい、へーい！」 "
+            }
+          ]
+        },
+        {
+          "text": "「あぁ！」",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "「あぁ！」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "index": 63,
+      "start": 158.08,
+      "end": 160.06,
+      "japanese": "「うふふっ」 「ふふっ」",
+      "zh-CN": "「呵呵」「呵呵」",
+      "segments": [
+        {
+          "text": "「うふふっ」 ",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "「うふふっ」 "
+            }
+          ]
+        },
+        {
+          "text": "「ふふっ」",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "「ふふっ」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000065",
+      "order": 64,
+      "index": 64,
+      "start": 160.3,
+      "end": 160.95,
+      "japanese": "いぇい",
+      "zh-CN": "耶",
+      "segments": [
+        {
+          "text": "いぇい",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "いぇい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    }
+  ]
+}

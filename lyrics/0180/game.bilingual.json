@@ -1,0 +1,1238 @@
+{
+  "music_id": 180,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-09",
+      "name": "小豆沢こはね"
+    },
+    {
+      "performerId": "歌唱者-10",
+      "name": "白石杏"
+    },
+    {
+      "performerId": "歌唱者-11",
+      "name": "東雲彰人"
+    },
+    {
+      "performerId": "歌唱者-12",
+      "name": "青柳冬弥"
+    },
+    {
+      "performerId": "歌唱者-24",
+      "name": "巡音ルカ"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 9.3985,
+      "end": 38.2685,
+      "japanese": "ただ何度も　何度も",
+      "zh-CN": "只是一次又一次　一遍又一遍",
+      "segments": [
+        {
+          "text": "ただ何度も　何度も",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "ただ"
+            },
+            {
+              "text": "何度",
+              "reading": "なんど"
+            },
+            {
+              "text": "も　"
+            },
+            {
+              "text": "何度",
+              "reading": "なんど"
+            },
+            {
+              "text": "も"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 9.3985,
+      "end": 38.2685,
+      "japanese": "思い描く新しいミライを",
+      "zh-CN": "脑海中描摹着崭新的未来",
+      "segments": [
+        {
+          "text": "思い描く新しいミライを",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "思",
+              "reading": "おも"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "描",
+              "reading": "えが"
+            },
+            {
+              "text": "く"
+            },
+            {
+              "text": "新",
+              "reading": "あたら"
+            },
+            {
+              "text": "しいミライを"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 9.3985,
+      "end": 38.2685,
+      "japanese": "探してたんだよ　僕が笑える場所",
+      "zh-CN": "一直在寻找着啊　能够让我欢笑的地方",
+      "segments": [
+        {
+          "text": "探してたんだよ　僕が笑える場所",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "探",
+              "reading": "さが"
+            },
+            {
+              "text": "してたんだよ　"
+            },
+            {
+              "text": "僕",
+              "reading": "ぼくら"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "笑",
+              "reading": "わら"
+            },
+            {
+              "text": "える"
+            },
+            {
+              "text": "場所",
+              "reading": "ばしょ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 38.282347,
+      "end": 41.217812,
+      "japanese": "夢で出会った　君は笑った",
+      "zh-CN": "在梦中相遇　你展露了笑颜",
+      "segments": [
+        {
+          "text": "夢で出会った　",
+          "performerIds": [
+            "歌唱者-10",
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "夢",
+              "reading": "ゆめ"
+            },
+            {
+              "text": "で"
+            },
+            {
+              "text": "出会",
+              "reading": "であ"
+            },
+            {
+              "text": "った　"
+            }
+          ]
+        },
+        {
+          "text": "君は笑った",
+          "performerIds": [
+            "歌唱者-10",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "笑",
+              "reading": "わら"
+            },
+            {
+              "text": "った"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 41.758843,
+      "end": 45.014822,
+      "japanese": "耳の横で転がる鈴",
+      "zh-CN": "耳畔摇曳滚落的铃铛声",
+      "segments": [
+        {
+          "text": "耳の横で転がる鈴",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "耳",
+              "reading": "みみ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "横",
+              "reading": "よこ"
+            },
+            {
+              "text": "で"
+            },
+            {
+              "text": "転",
+              "reading": "ころ"
+            },
+            {
+              "text": "がる"
+            },
+            {
+              "text": "鈴",
+              "reading": "すず"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 45.3785,
+      "end": 48.7085,
+      "japanese": "移り変わった　季節をまった",
+      "zh-CN": "静静等待着　四季流转更迭",
+      "segments": [
+        {
+          "text": "移り変わった　",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "移",
+              "reading": "うつ"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "変",
+              "reading": "か"
+            },
+            {
+              "text": "わった　"
+            }
+          ]
+        },
+        {
+          "text": "季節をまった",
+          "performerIds": [
+            "歌唱者-11",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "季節",
+              "reading": "きせつ"
+            },
+            {
+              "text": "をまった"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 48.7085,
+      "end": 52.0385,
+      "japanese": "思い通りになるまで",
+      "zh-CN": "直到一切如愿以偿",
+      "segments": [
+        {
+          "text": "思い通りになるまで",
+          "performerIds": [
+            "歌唱者-09"
+          ],
+          "ruby": [
+            {
+              "text": "思",
+              "reading": "おも"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "通",
+              "reading": "どお"
+            },
+            {
+              "text": "りになるまで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 52.260276,
+      "end": 55.047869,
+      "japanese": "指で触った　僕は黙って",
+      "zh-CN": "用指尖触碰　我陷入沉默",
+      "segments": [
+        {
+          "text": "指で触った　",
+          "performerIds": [
+            "歌唱者-10",
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "指",
+              "reading": "ゆび"
+            },
+            {
+              "text": "で"
+            },
+            {
+              "text": "触",
+              "reading": "さわ"
+            },
+            {
+              "text": "った　"
+            }
+          ]
+        },
+        {
+          "text": "僕は黙って",
+          "performerIds": [
+            "歌唱者-12",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "黙",
+              "reading": "だま"
+            },
+            {
+              "text": "って"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 55.6485,
+      "end": 59.0885,
+      "japanese": "その輪郭を撫ででいた",
+      "zh-CN": "轻轻抚摩着那道轮廓",
+      "segments": [
+        {
+          "text": "その輪郭を撫ででいた",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "その"
+            },
+            {
+              "text": "輪郭",
+              "reading": "りんかく"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "撫",
+              "reading": "な"
+            },
+            {
+              "text": "ででいた"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 59.044417,
+      "end": 61.773061,
+      "japanese": "今もこのまま　ずっとこのまま",
+      "zh-CN": "现在也维持这般　一直保持这般",
+      "segments": [
+        {
+          "text": "今もこのまま　",
+          "performerIds": [
+            "歌唱者-11",
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "今",
+              "reading": "いま"
+            },
+            {
+              "text": "もこのまま　"
+            }
+          ]
+        },
+        {
+          "text": "ずっとこのまま",
+          "performerIds": [
+            "歌唱者-12",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "ずっとこのまま"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 62.563319,
+      "end": 65.146508,
+      "japanese": "決して忘れないように",
+      "zh-CN": "为了绝对不会将它遗忘",
+      "segments": [
+        {
+          "text": "決して忘れないように",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "決",
+              "reading": "けっ"
+            },
+            {
+              "text": "して"
+            },
+            {
+              "text": "忘",
+              "reading": "わす"
+            },
+            {
+              "text": "れないように"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 65.298461,
+      "end": 68.465468,
+      "japanese": "曇りガラスと陽の影が",
+      "zh-CN": "磨砂玻璃与阳光的阴影",
+      "segments": [
+        {
+          "text": "曇りガラスと陽の影が",
+          "performerIds": [
+            "歌唱者-09"
+          ],
+          "ruby": [
+            {
+              "text": "曇",
+              "reading": "くも"
+            },
+            {
+              "text": "りガラスと"
+            },
+            {
+              "text": "陽",
+              "reading": "ひ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "影",
+              "reading": "かげ"
+            },
+            {
+              "text": "が"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 65.3385,
+      "end": 72.2885,
+      "japanese": "映し出す雨戸惑い",
+      "zh-CN": "倒映出的落雨困惑迷惘",
+      "segments": [
+        {
+          "text": "映し出す雨戸惑い",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "映",
+              "reading": "うつ"
+            },
+            {
+              "text": "し"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "す"
+            },
+            {
+              "text": "雨戸惑",
+              "reading": "あめとまど"
+            },
+            {
+              "text": "い"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 72.140315,
+      "end": 75.47427,
+      "japanese": "また元通り照らす日々に",
+      "zh-CN": "朝着再次重归原样照耀的日常",
+      "segments": [
+        {
+          "text": "また元通り照らす日々に",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "また"
+            },
+            {
+              "text": "元通",
+              "reading": "もとどお"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "照",
+              "reading": "て"
+            },
+            {
+              "text": "らす"
+            },
+            {
+              "text": "日々",
+              "reading": "ひび"
+            },
+            {
+              "text": "に"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 72.2885,
+      "end": 78.7385,
+      "japanese": "手を伸ばす",
+      "zh-CN": "伸出双手",
+      "segments": [
+        {
+          "text": "手を伸ばす",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "手",
+              "reading": "て"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "伸",
+              "reading": "の"
+            },
+            {
+              "text": "ばす"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 79.0085,
+      "end": 99.0085,
+      "japanese": "ただ何度も　何度も",
+      "zh-CN": "只是一次又一次　一遍又一遍",
+      "segments": [
+        {
+          "text": "ただ",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "ただ"
+            }
+          ]
+        },
+        {
+          "text": "何度も　何度も",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-10",
+            "歌唱者-11",
+            "歌唱者-12",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "何度",
+              "reading": "なんど"
+            },
+            {
+              "text": "も　"
+            },
+            {
+              "text": "何度",
+              "reading": "なんど"
+            },
+            {
+              "text": "も"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 79.0085,
+      "end": 99.0085,
+      "japanese": "思い描く新しいミライを",
+      "zh-CN": "脑海中描摹着崭新的未来",
+      "segments": [
+        {
+          "text": "思い描く新しいミライを",
+          "performerIds": [
+            "歌唱者-10",
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "思",
+              "reading": "おも"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "描",
+              "reading": "えが"
+            },
+            {
+              "text": "く"
+            },
+            {
+              "text": "新",
+              "reading": "あたら"
+            },
+            {
+              "text": "しいミライを"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 79.0085,
+      "end": 99.0085,
+      "japanese": "映す景色が　茜の中で色付く",
+      "zh-CN": "倒映的景致　在茜色晚霞中染上色彩",
+      "segments": [
+        {
+          "text": "映す景色が　茜の中で色付く",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "映",
+              "reading": "うつ"
+            },
+            {
+              "text": "す"
+            },
+            {
+              "text": "景色",
+              "reading": "けしき"
+            },
+            {
+              "text": "が　"
+            },
+            {
+              "text": "茜",
+              "reading": "あかね"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "中",
+              "reading": "なか"
+            },
+            {
+              "text": "で"
+            },
+            {
+              "text": "色付",
+              "reading": "いろず"
+            },
+            {
+              "text": "く"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 79.0085,
+      "end": 99.0085,
+      "japanese": "願えば　願うほど",
+      "zh-CN": "越是祈愿　越是渴望",
+      "segments": [
+        {
+          "text": "願えば　願うほど",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-10",
+            "歌唱者-11",
+            "歌唱者-12",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "願",
+              "reading": "ねが"
+            },
+            {
+              "text": "えば　"
+            },
+            {
+              "text": "願",
+              "reading": "ねが"
+            },
+            {
+              "text": "うほど"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 99.0085,
+      "end": 105.75025,
+      "japanese": "輝きだす知らないストーリー",
+      "zh-CN": "越发绽放光芒未曾知晓的故事",
+      "segments": [
+        {
+          "text": "輝きだす知らないストーリー",
+          "performerIds": [
+            "歌唱者-11",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "輝",
+              "reading": "かがや"
+            },
+            {
+              "text": "きだす"
+            },
+            {
+              "text": "知",
+              "reading": "し"
+            },
+            {
+              "text": "らないストーリー"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 99.0085,
+      "end": 105.75025,
+      "japanese": "探してんだよ僕らが　笑える場所",
+      "zh-CN": "一直在寻找着啊　能让我们展露欢颜的地方",
+      "segments": [
+        {
+          "text": "探してんだよ僕らが　笑える場所",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "探",
+              "reading": "さが"
+            },
+            {
+              "text": "してんだよ"
+            },
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "らが　"
+            },
+            {
+              "text": "笑",
+              "reading": "わら"
+            },
+            {
+              "text": "える"
+            },
+            {
+              "text": "場所",
+              "reading": "ばしょ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 120.6415,
+      "end": 135.3315,
+      "japanese": "ただ何度も　何度も",
+      "zh-CN": "只是一次又一次　一遍又一遍",
+      "segments": [
+        {
+          "text": "ただ何度も　何度も",
+          "performerIds": [
+            "歌唱者-09"
+          ],
+          "ruby": [
+            {
+              "text": "ただ"
+            },
+            {
+              "text": "何度",
+              "reading": "なんど"
+            },
+            {
+              "text": "も　"
+            },
+            {
+              "text": "何度",
+              "reading": "なんど"
+            },
+            {
+              "text": "も"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000023",
+      "order": 22,
+      "index": 22,
+      "start": 120.6415,
+      "end": 135.3315,
+      "japanese": "思い描く新しいミライを",
+      "zh-CN": "脑海中描摹着崭新的未来",
+      "segments": [
+        {
+          "text": "思い描く新しいミライを",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "思",
+              "reading": "おも"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "描",
+              "reading": "えが"
+            },
+            {
+              "text": "く"
+            },
+            {
+              "text": "新",
+              "reading": "あたら"
+            },
+            {
+              "text": "しいミライを"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000024",
+      "order": 23,
+      "index": 23,
+      "start": 120.6415,
+      "end": 135.3315,
+      "japanese": "映す景色が　茜の中で色付く",
+      "zh-CN": "倒映的景致　在茜色晚霞中染上色彩",
+      "segments": [
+        {
+          "text": "映す景色が　",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "映",
+              "reading": "うつ"
+            },
+            {
+              "text": "す"
+            },
+            {
+              "text": "景色",
+              "reading": "けしき"
+            },
+            {
+              "text": "が　"
+            }
+          ]
+        },
+        {
+          "text": "茜の中で色付く",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "茜",
+              "reading": "あかね"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "中",
+              "reading": "なか"
+            },
+            {
+              "text": "で"
+            },
+            {
+              "text": "色付",
+              "reading": "いろず"
+            },
+            {
+              "text": "く"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000025",
+      "order": 24,
+      "index": 24,
+      "start": 135.3315,
+      "end": 152.0415,
+      "japanese": "願えば　願うほど",
+      "zh-CN": "越是祈愿　越是渴望",
+      "segments": [
+        {
+          "text": "願えば　願うほど",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-10",
+            "歌唱者-11",
+            "歌唱者-12",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "願",
+              "reading": "ねが"
+            },
+            {
+              "text": "えば　"
+            },
+            {
+              "text": "願",
+              "reading": "ねが"
+            },
+            {
+              "text": "うほど"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000026",
+      "order": 25,
+      "index": 25,
+      "start": 135.3315,
+      "end": 152.0415,
+      "japanese": "輝きだす知らないストーリー",
+      "zh-CN": "越发绽放光芒未曾知晓的故事",
+      "segments": [
+        {
+          "text": "輝きだす知らないストーリー",
+          "performerIds": [
+            "歌唱者-12",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "輝",
+              "reading": "かがや"
+            },
+            {
+              "text": "きだす"
+            },
+            {
+              "text": "知",
+              "reading": "し"
+            },
+            {
+              "text": "らないストーリー"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000027",
+      "order": 26,
+      "index": 26,
+      "start": 135.3315,
+      "end": 152.0415,
+      "japanese": "見つけたんだよ　僕らが笑える場所",
+      "zh-CN": "终于找到了啊　能让我们展露欢颜的地方",
+      "segments": [
+        {
+          "text": "見つけたんだよ　僕らが",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "つけたんだよ　"
+            },
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "らが"
+            }
+          ]
+        },
+        {
+          "text": "笑える場所",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-10",
+            "歌唱者-11",
+            "歌唱者-12",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "笑",
+              "reading": "わら"
+            },
+            {
+              "text": "える"
+            },
+            {
+              "text": "場所",
+              "reading": "ばしょ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    }
+  ]
+}

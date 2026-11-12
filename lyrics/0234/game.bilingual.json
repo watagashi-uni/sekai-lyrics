@@ -1,0 +1,1433 @@
+{
+  "music_id": 234,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "外部歌唱者-04",
+      "name": "Nenerobo"
+    },
+    {
+      "performerId": "歌唱者-15",
+      "name": "草薙寧々"
+    },
+    {
+      "performerId": "歌唱者-21",
+      "name": "初音ミク"
+    },
+    {
+      "performerId": "歌唱者-22",
+      "name": "鏡音リン"
+    },
+    {
+      "performerId": "歌唱者-24",
+      "name": "巡音ルカ"
+    },
+    {
+      "performerId": "歌唱者-25",
+      "name": "MEIKO"
+    },
+    {
+      "performerId": "歌唱者-26",
+      "name": "KAITO"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 11.996,
+      "end": 14.425,
+      "japanese": "時は江戸時代。食わず嫌いの将軍徳川家夷斗 は、",
+      "zh-CN": "时值江户时代。有着偏食挑食毛病的将军德川家夷斗，",
+      "segments": [
+        {
+          "text": "時は江戸時代。食わず嫌いの将軍徳川家夷斗 は、",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "時",
+              "reading": "とき"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "江戸時代",
+              "reading": "えどじだい"
+            },
+            {
+              "text": "。"
+            },
+            {
+              "text": "食",
+              "reading": "く"
+            },
+            {
+              "text": "わず"
+            },
+            {
+              "text": "嫌",
+              "reading": "ぎら"
+            },
+            {
+              "text": "いの"
+            },
+            {
+              "text": "将軍徳川",
+              "reading": "しょうぐんとくがわ"
+            },
+            {
+              "text": "家夷斗",
+              "reading": "かいと"
+            },
+            {
+              "text": " は、"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 14.425,
+      "end": 16.546,
+      "japanese": "大流行しているカップヌードルの禁止を発令。",
+      "zh-CN": "下令颁布了严禁食用大受流行的合味道杯面的禁令。",
+      "segments": [
+        {
+          "text": "大流行しているカップヌードルの禁止を発令。",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "大流行",
+              "reading": "だいりょうこう"
+            },
+            {
+              "text": "しているカップヌードルの"
+            },
+            {
+              "text": "禁止",
+              "reading": "きんし"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "発令",
+              "reading": "はつれい"
+            },
+            {
+              "text": "。"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 16.546,
+      "end": 19.371,
+      "japanese": "その将軍の誤解を解くため、松前藩からミクダヨーが、",
+      "zh-CN": "为了化解将军的误解，三月香从松前藩出发，",
+      "segments": [
+        {
+          "text": "その将軍の誤解を解くため、松前藩からミクダヨーが、",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "その"
+            },
+            {
+              "text": "将軍",
+              "reading": "しょうぐん"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "誤解",
+              "reading": "ごかい"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "解",
+              "reading": "と"
+            },
+            {
+              "text": "くため、"
+            },
+            {
+              "text": "松前藩",
+              "reading": "まつまえはん"
+            },
+            {
+              "text": "からミクダヨーが、"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 19.371,
+      "end": 21.859,
+      "japanese": "久留米藩からネネロボが江戸城に向かったのであった。",
+      "zh-CN": "宁宁号从久留米藩出发 一同赶往了江户城。",
+      "segments": [
+        {
+          "text": "久留米藩からネネロボが江戸城に向かったのであった。",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "久留米藩",
+              "reading": "くるめはん"
+            },
+            {
+              "text": "からネネロボが"
+            },
+            {
+              "text": "江戸城",
+              "reading": "えどじょう"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "向",
+              "reading": "む"
+            },
+            {
+              "text": "かったのであった。"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 22.482,
+      "end": 27.834,
+      "japanese": "公方様こちらが　カップヌードル味噌ダヨー 「ふんっ！」",
+      "zh-CN": "将军大人这就是 合味道味噌风味哟 「哼！」",
+      "segments": [
+        {
+          "text": "公方様こちらが　カップヌードル味噌ダヨー ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "公方様",
+              "reading": "くぼうさま"
+            },
+            {
+              "text": "こちらが　カップヌードル"
+            },
+            {
+              "text": "味噌",
+              "reading": "みそ"
+            },
+            {
+              "text": "ダヨー "
+            }
+          ]
+        },
+        {
+          "text": "「ふんっ！」",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "「ふんっ！」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 27.834,
+      "end": 33.169,
+      "japanese": "お口に合わぬ時は　“張り”切ってお詫びします 「“腹”だろ！」",
+      "zh-CN": "要是不合胃口的话 “拼”了命向您赔罪道歉 「是切“腹”吧！」",
+      "segments": [
+        {
+          "text": "お口に合わぬ時は　“張り”切ってお詫びします ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "お"
+            },
+            {
+              "text": "口",
+              "reading": "くち"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "合",
+              "reading": "あ"
+            },
+            {
+              "text": "わぬ"
+            },
+            {
+              "text": "時",
+              "reading": "とき"
+            },
+            {
+              "text": "は　“"
+            },
+            {
+              "text": "張",
+              "reading": "は"
+            },
+            {
+              "text": "り”"
+            },
+            {
+              "text": "切",
+              "reading": "き"
+            },
+            {
+              "text": "ってお"
+            },
+            {
+              "text": "詫",
+              "reading": "わ"
+            },
+            {
+              "text": "びします "
+            }
+          ]
+        },
+        {
+          "text": "「“腹”だろ！」",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "「“"
+            },
+            {
+              "text": "腹",
+              "reading": "はら"
+            },
+            {
+              "text": "”だろ！」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 33.169,
+      "end": 38.295,
+      "japanese": "ニンジン、ネギ、キャベツ、コーン、謎肉の具材",
+      "zh-CN": "胡萝卜、葱花、卷心菜、玉米、谜肉丰富配料",
+      "segments": [
+        {
+          "text": "ニンジン、ネギ、キャベツ、コーン、謎肉の具材",
+          "performerIds": [
+            "外部歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "ニンジン、ネギ、キャベツ、コーン、"
+            },
+            {
+              "text": "謎肉",
+              "reading": "なぞにく"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "具材",
+              "reading": "ぐざい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 38.647,
+      "end": 44.184,
+      "japanese": "3種の味噌を合わせた　とろけるようなスープは濃厚！",
+      "zh-CN": "融合了3种味噌 浓郁丝滑的汤头极为醇厚！",
+      "segments": [
+        {
+          "text": "3種の味噌を合わせた　とろけるようなスープは濃厚！",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "3"
+            },
+            {
+              "text": "種",
+              "reading": "しゅ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "味噌",
+              "reading": "みそ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "合",
+              "reading": "あ"
+            },
+            {
+              "text": "わせた　とろけるようなスープは"
+            },
+            {
+              "text": "濃厚",
+              "reading": "のうこう"
+            },
+            {
+              "text": "！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 44.184,
+      "end": 49.351,
+      "japanese": "おむすびに合うランキング 第1位ダヨー",
+      "zh-CN": "搭配饭团绝配榜单 第1名哟",
+      "segments": [
+        {
+          "text": "おむすびに合うランキング 第1位ダヨー",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "おむすびに"
+            },
+            {
+              "text": "合",
+              "reading": "あ"
+            },
+            {
+              "text": "うランキング "
+            },
+            {
+              "text": "第",
+              "reading": "だい"
+            },
+            {
+              "text": "1"
+            },
+            {
+              "text": "位",
+              "reading": "い"
+            },
+            {
+              "text": "ダヨー"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 50.528454,
+      "end": 57.657265,
+      "japanese": "「で、ではいただこう・・・うまっ！」",
+      "zh-CN": "「那、那就让孤尝尝看吧・・・太美味啦！」",
+      "segments": [
+        {
+          "text": "「で、ではいただこう・・・うまっ！」",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "「で、ではいただこう・・・うまっ！」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "partial_text": true,
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 57.657265,
+      "end": 60.313821,
+      "japanese": "味・味・味噌味食べてみそみそ",
+      "zh-CN": "味・味・味噌风味尝尝看味噌味噌",
+      "segments": [
+        {
+          "text": "味・味・味噌味食べてみそみそ",
+          "performerIds": [
+            "歌唱者-21",
+            "外部歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "味",
+              "reading": "み"
+            },
+            {
+              "text": "・"
+            },
+            {
+              "text": "味",
+              "reading": "み"
+            },
+            {
+              "text": "・"
+            },
+            {
+              "text": "味噌味食",
+              "reading": "みそあじた"
+            },
+            {
+              "text": "べてみそみそ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 60.497791,
+      "end": 63.057364,
+      "japanese": "しょうがピリピリ・アクセント（御馳御馳）",
+      "zh-CN": "微微生姜辛辣点缀（盛情款待盛情款待）",
+      "segments": [
+        {
+          "text": "しょうがピリピリ・アクセント",
+          "performerIds": [
+            "歌唱者-21",
+            "外部歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "しょうがピリピリ・アクセント"
+            }
+          ]
+        },
+        {
+          "text": "（御馳御馳）",
+          "performerIds": [
+            "歌唱者-22",
+            "歌唱者-24",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "（"
+            },
+            {
+              "text": "御馳御馳",
+              "reading": "ごちごち"
+            },
+            {
+              "text": "）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 63.057364,
+      "end": 65.737917,
+      "japanese": "味・味・味噌味食べてうまうま",
+      "zh-CN": "味・味・味噌风味大口吃香喷喷",
+      "segments": [
+        {
+          "text": "味・味・味噌味食べてうまうま",
+          "performerIds": [
+            "歌唱者-21",
+            "外部歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "味",
+              "reading": "み"
+            },
+            {
+              "text": "・"
+            },
+            {
+              "text": "味",
+              "reading": "み"
+            },
+            {
+              "text": "・"
+            },
+            {
+              "text": "味噌味食",
+              "reading": "みそあじた"
+            },
+            {
+              "text": "べてうまうま"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 65.960879,
+      "end": 68.482459,
+      "japanese": "にんにくピリピリ・エクセレント（おいちー！）",
+      "zh-CN": "蒜香微辣绝顶美味（太好吃了—！）",
+      "segments": [
+        {
+          "text": "にんにくピリピリ・エクセレント",
+          "performerIds": [
+            "歌唱者-21",
+            "外部歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "にんにくピリピリ・エクセレント"
+            }
+          ]
+        },
+        {
+          "text": "（おいちー！）",
+          "performerIds": [
+            "歌唱者-22",
+            "歌唱者-24",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "（おいちー！）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 68.482459,
+      "end": 72.817736,
+      "japanese": "極楽浄土登るような",
+      "zh-CN": "宛如升入极乐净土一般",
+      "segments": [
+        {
+          "text": "極楽浄土登るような",
+          "performerIds": [
+            "歌唱者-21",
+            "外部歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "極楽浄土登",
+              "reading": "ごくらくじょうどうのぼ"
+            },
+            {
+              "text": "るような"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 73.161678,
+      "end": 76.474126,
+      "japanese": "この美・美・美味を分からなくちゃ",
+      "zh-CN": "若不能品尝明白这绝・绝・绝顶美味",
+      "segments": [
+        {
+          "text": "この美・美・美味を分からなくちゃ",
+          "performerIds": [
+            "歌唱者-21",
+            "外部歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "この"
+            },
+            {
+              "text": "美",
+              "reading": "び"
+            },
+            {
+              "text": "・"
+            },
+            {
+              "text": "美",
+              "reading": "び"
+            },
+            {
+              "text": "・"
+            },
+            {
+              "text": "美味",
+              "reading": "びみ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "分",
+              "reading": "わ"
+            },
+            {
+              "text": "からなくちゃ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 76.403,
+      "end": 79.122,
+      "japanese": "オッペケペーのオッペケペーのペーペーダヨー　ほい！",
+      "zh-CN": "可就成了糊涂蛋中的糊涂蛋大笨蛋啦　吼！",
+      "segments": [
+        {
+          "text": "オッペケペーのオッペケペーのペーペーダヨー　ほい！",
+          "performerIds": [
+            "歌唱者-21",
+            "外部歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "オッペケペーのオッペケペーのペーペーダヨー　ほい！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 80.856151,
+      "end": 84.224589,
+      "japanese": "あれれ？スープの香りに誘われて",
+      "zh-CN": "哎呀呀？被浓汤的香气所吸引",
+      "segments": [
+        {
+          "text": "あれれ？スープの香りに誘われて",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "あれれ？スープの"
+            },
+            {
+              "text": "香",
+              "reading": "かお"
+            },
+            {
+              "text": "りに"
+            },
+            {
+              "text": "誘",
+              "reading": "さそ"
+            },
+            {
+              "text": "われて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 84.581529,
+      "end": 86.941136,
+      "japanese": "殿がもう一人出てきたよ",
+      "zh-CN": "竟然又跑出来了一位殿下将军呢",
+      "segments": [
+        {
+          "text": "殿がもう一人出てきたよ",
+          "performerIds": [
+            "外部歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "殿",
+              "reading": "との"
+            },
+            {
+              "text": "がもう"
+            },
+            {
+              "text": "一人出",
+              "reading": "ひとりで"
+            },
+            {
+              "text": "てきたよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 87.296077,
+      "end": 90.688511,
+      "japanese": "影武者だったのね",
+      "zh-CN": "原来刚才那位是影武者替身啊",
+      "segments": [
+        {
+          "text": "影武者だったのね",
+          "performerIds": [
+            "歌唱者-21",
+            "外部歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "影武者",
+              "reading": "かげむしゃ"
+            },
+            {
+              "text": "だったのね"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 91.128437,
+      "end": 92.469214,
+      "japanese": "ささ召し上がれ",
+      "zh-CN": "来来请用膳吧",
+      "segments": [
+        {
+          "text": "ささ召し上がれ",
+          "performerIds": [
+            "歌唱者-21",
+            "外部歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "ささ"
+            },
+            {
+              "text": "召",
+              "reading": "め"
+            },
+            {
+              "text": "し"
+            },
+            {
+              "text": "上",
+              "reading": "あ"
+            },
+            {
+              "text": "がれ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 94.151,
+      "end": 99.124,
+      "japanese": "「う・ま・い・ぞー！」",
+      "zh-CN": "「太・好・吃・啦—！」",
+      "segments": [
+        {
+          "text": "「う・ま・い・ぞー！」",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "「う・ま・い・ぞー！」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000023",
+      "order": 22,
+      "index": 22,
+      "start": 99.469019,
+      "end": 102.33754,
+      "japanese": "豚・豚・豚骨食べてみそみそ",
+      "zh-CN": "豚・豚・豚骨风味尝尝看味噌味噌",
+      "segments": [
+        {
+          "text": "豚・豚・豚骨食べてみそみそ",
+          "performerIds": [
+            "歌唱者-21",
+            "外部歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "豚",
+              "reading": "とん"
+            },
+            {
+              "text": "・"
+            },
+            {
+              "text": "豚",
+              "reading": "とん"
+            },
+            {
+              "text": "・"
+            },
+            {
+              "text": "豚骨",
+              "reading": "とんこつ"
+            },
+            {
+              "text": "食",
+              "reading": "た"
+            },
+            {
+              "text": "べてみそみそ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000024",
+      "order": 23,
+      "index": 23,
+      "start": 102.33754,
+      "end": 104.847122,
+      "japanese": "旨味つよつよパーフェクト（もりもり）",
+      "zh-CN": "鲜味浓厚无懈可击完美满分（大口大口）",
+      "segments": [
+        {
+          "text": "旨味つよつよパーフェクト",
+          "performerIds": [
+            "歌唱者-21",
+            "外部歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "旨味",
+              "reading": "うまみ"
+            },
+            {
+              "text": "つよつよパーフェクト"
+            }
+          ]
+        },
+        {
+          "text": "（もりもり）",
+          "performerIds": [
+            "歌唱者-22",
+            "歌唱者-24",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "（もりもり）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000025",
+      "order": 24,
+      "index": 24,
+      "start": 104.847122,
+      "end": 107.668651,
+      "japanese": "オ・オ・オイルも入れてうまうま",
+      "zh-CN": "油・油・调味香油滴入香喷喷",
+      "segments": [
+        {
+          "text": "オ・オ・オイルも入れてうまうま",
+          "performerIds": [
+            "歌唱者-21",
+            "外部歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "オ・オ・オイルも"
+            },
+            {
+              "text": "入",
+              "reading": "い"
+            },
+            {
+              "text": "れてうまうま"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000026",
+      "order": 25,
+      "index": 25,
+      "start": 107.668651,
+      "end": 110.226224,
+      "japanese": "にんにくつよつよインパクト（最高！）",
+      "zh-CN": "浓浓大蒜冲击力十足（最棒了！）",
+      "segments": [
+        {
+          "text": "にんにくつよつよインパクト",
+          "performerIds": [
+            "歌唱者-21",
+            "外部歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "にんにくつよつよインパクト"
+            }
+          ]
+        },
+        {
+          "text": "（最高！）",
+          "performerIds": [
+            "歌唱者-22",
+            "歌唱者-24",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "（"
+            },
+            {
+              "text": "最高",
+              "reading": "さいこう"
+            },
+            {
+              "text": "！）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000027",
+      "order": 26,
+      "index": 26,
+      "start": 110.226224,
+      "end": 114.723474,
+      "japanese": "富士山のパワーを得たような",
+      "zh-CN": "宛如获得了富士山的磅礴力量一般",
+      "segments": [
+        {
+          "text": "富士山のパワーを得たような",
+          "performerIds": [
+            "歌唱者-21",
+            "外部歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "富士山",
+              "reading": "ふじやま"
+            },
+            {
+              "text": "のパワーを"
+            },
+            {
+              "text": "得",
+              "reading": "え"
+            },
+            {
+              "text": "たような"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000028",
+      "order": 27,
+      "index": 27,
+      "start": 114.939438,
+      "end": 118.229115,
+      "japanese": "この美・美・美味を味わったら",
+      "zh-CN": "只要品尝了这绝・绝・绝顶美味",
+      "segments": [
+        {
+          "text": "この美・美・美味を味わったら",
+          "performerIds": [
+            "歌唱者-21",
+            "外部歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "この"
+            },
+            {
+              "text": "美",
+              "reading": "び"
+            },
+            {
+              "text": "・"
+            },
+            {
+              "text": "美",
+              "reading": "び"
+            },
+            {
+              "text": "・"
+            },
+            {
+              "text": "美味",
+              "reading": "びみ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "味",
+              "reading": "あじ"
+            },
+            {
+              "text": "わったら"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "partial_text": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000029",
+      "order": 28,
+      "index": 28,
+      "start": 118.229115,
+      "end": 120.970657,
+      "japanese": "あっぱれぱれあっぱれぱれぱっぱっぱれ！",
+      "zh-CN": "真是大喜大贺大吉大利可喜可贺！",
+      "segments": [
+        {
+          "text": "あっぱれぱれあっぱれぱれぱっぱっぱれ！",
+          "performerIds": [
+            "歌唱者-21",
+            "外部歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "あっぱれぱれあっぱれぱれぱっぱっぱれ！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000030",
+      "order": 29,
+      "index": 29,
+      "start": 121.425581,
+      "end": 123.722198,
+      "japanese": "こうしてミクダヨーとネネロボの説得の甲斐あって、",
+      "zh-CN": "就这样在三月香与宁宁号的竭力劝说之下，",
+      "segments": [
+        {
+          "text": "こうしてミクダヨーとネネロボの説得の甲斐あって、",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "こうしてミクダヨーとネネロボの"
+            },
+            {
+              "text": "説得",
+              "reading": "せっとく"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "甲斐",
+              "reading": "かい"
+            },
+            {
+              "text": "あって、"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000031",
+      "order": 30,
+      "index": 30,
+      "start": 123.722198,
+      "end": 125.371923,
+      "japanese": "徳川家夷斗は禁止令を廃止。",
+      "zh-CN": "德川家夷斗废除了禁止令。",
+      "segments": [
+        {
+          "text": "徳川家夷斗は禁止令を廃止。",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "徳川",
+              "reading": "とくがわ"
+            },
+            {
+              "text": "家",
+              "reading": "か"
+            },
+            {
+              "text": "夷",
+              "reading": "い"
+            },
+            {
+              "text": "斗",
+              "reading": "と"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "禁止令",
+              "reading": "きんしれい"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "廃止",
+              "reading": "はいし"
+            },
+            {
+              "text": "。"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000032",
+      "order": 31,
+      "index": 31,
+      "start": 125.556,
+      "end": 127.579,
+      "japanese": "人々はカップヌードルを心置きなく食べ、",
+      "zh-CN": "人们终于能够无所顾忌地尽情享用合味道杯面，",
+      "segments": [
+        {
+          "text": "人々はカップヌードルを心置きなく食べ、",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "人々",
+              "reading": "ひとびと"
+            },
+            {
+              "text": "はカップヌードルを"
+            },
+            {
+              "text": "心置",
+              "reading": "こころお"
+            },
+            {
+              "text": "きなく"
+            },
+            {
+              "text": "食",
+              "reading": "た"
+            },
+            {
+              "text": "べ、"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000033",
+      "order": 32,
+      "index": 32,
+      "start": 127.579,
+      "end": 136.56675,
+      "japanese": "長く太平の世が続いたのでした。おわり。",
+      "zh-CN": "漫长太平的盛世自此延续了下去。全剧终。",
+      "segments": [
+        {
+          "text": "長く太平の世が続いたのでした。おわり。",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "長",
+              "reading": "なが"
+            },
+            {
+              "text": "く"
+            },
+            {
+              "text": "太平",
+              "reading": "たいへい"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "世",
+              "reading": "よ"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "続",
+              "reading": "つづ"
+            },
+            {
+              "text": "いたのでした。おわり。"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

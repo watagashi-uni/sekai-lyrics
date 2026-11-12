@@ -1,0 +1,947 @@
+{
+  "music_id": 98,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-01",
+      "name": "星乃一歌"
+    },
+    {
+      "performerId": "歌唱者-04",
+      "name": "日野森志歩"
+    },
+    {
+      "performerId": "歌唱者-22",
+      "name": "鏡音リン"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 23.40813,
+      "end": 29.26313,
+      "japanese": "挙げ句の果て静脈を刺しちゃって",
+      "zh-CN": "到头来刺入了静脉之中",
+      "segments": [
+        {
+          "text": "挙げ句の果て静脈を刺しちゃって",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "挙",
+              "reading": "あ"
+            },
+            {
+              "text": "げ"
+            },
+            {
+              "text": "句",
+              "reading": "く"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "果",
+              "reading": "は"
+            },
+            {
+              "text": "て"
+            },
+            {
+              "text": "静脈",
+              "reading": "じょうみゃく"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "刺",
+              "reading": "さ"
+            },
+            {
+              "text": "しちゃって"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 23.603033,
+      "end": 25.964168,
+      "japanese": "刃渡り数センチの不信感が",
+      "zh-CN": "刃长数厘米的不信任感",
+      "segments": [
+        {
+          "text": "刃渡り数センチの不信感が",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "刃渡",
+              "reading": "はわた"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "数",
+              "reading": "すう"
+            },
+            {
+              "text": "センチの"
+            },
+            {
+              "text": "不信感",
+              "reading": "ふしんかん"
+            },
+            {
+              "text": "が"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 29.215732,
+      "end": 32.246188,
+      "japanese": "病弱な愛が飛び出すもんで",
+      "zh-CN": "喷涌出病态孱弱的爱意",
+      "segments": [
+        {
+          "text": "病弱な愛が飛び出すもんで",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "病弱",
+              "reading": "びゃじゃく"
+            },
+            {
+              "text": "な"
+            },
+            {
+              "text": "愛",
+              "reading": "あい"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "飛",
+              "reading": "と"
+            },
+            {
+              "text": "び"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "すもんで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 29.26313,
+      "end": 32.18713,
+      "japanese": "レスポールさえも凶器に変えてしまいました",
+      "zh-CN": "连同手中的吉他也一并化作了凶器",
+      "segments": [
+        {
+          "text": "レスポールさえも凶器に変えてしまいました",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "レスポールさえも"
+            },
+            {
+              "text": "凶器",
+              "reading": "きょうき"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "変",
+              "reading": "か"
+            },
+            {
+              "text": "えてしまいました"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 40.880339,
+      "end": 44.101888,
+      "japanese": "ノーフィクション",
+      "zh-CN": "绝非虚构",
+      "segments": [
+        {
+          "text": "ノーフィクション",
+          "performerIds": [
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "ノーフィクション"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 47.023292,
+      "end": 49.704581,
+      "japanese": "数学と理科は好きですが",
+      "zh-CN": "虽然喜欢数学和理科",
+      "segments": [
+        {
+          "text": "数学と理科は好きですが",
+          "performerIds": [
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "数学",
+              "reading": "すうがく"
+            },
+            {
+              "text": "と"
+            },
+            {
+              "text": "理科",
+              "reading": "りか"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "好",
+              "reading": "す"
+            },
+            {
+              "text": "きですが"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 47.10813,
+      "end": 53.02013,
+      "japanese": "国語がどうもダメで嫌いでした",
+      "zh-CN": "但国语文科怎么都不擅长讨厌极了",
+      "segments": [
+        {
+          "text": "国語がどうもダメで嫌いでした",
+          "performerIds": [
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "国語",
+              "reading": "こくご"
+            },
+            {
+              "text": "がどうもダメで"
+            },
+            {
+              "text": "嫌",
+              "reading": "きら"
+            },
+            {
+              "text": "いでした"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 52.936135,
+      "end": 55.627429,
+      "japanese": "正しいのがどれか悩んでいりゃ",
+      "zh-CN": "苦恼于究竟哪一个才是正确答案",
+      "segments": [
+        {
+          "text": "正しいのがどれか悩んでいりゃ",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "正",
+              "reading": "ただ"
+            },
+            {
+              "text": "しいのがどれか"
+            },
+            {
+              "text": "悩",
+              "reading": "なや"
+            },
+            {
+              "text": "んでいりゃ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 53.02013,
+      "end": 56.72013,
+      "japanese": "どれも不正解というオチでした",
+      "zh-CN": "结局却是无论选哪个都全是不正确",
+      "segments": [
+        {
+          "text": "どれも不正解というオチでした",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "どれも"
+            },
+            {
+              "text": "不正解",
+              "reading": "ふせいかい"
+            },
+            {
+              "text": "というオチでした"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 58.95903,
+      "end": 61.880435,
+      "japanese": "本日の宿題は　無個性な僕のこと",
+      "zh-CN": "今天的作业是 关于毫无个性的我",
+      "segments": [
+        {
+          "text": "本日の宿題は　無個性な僕のこと",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "本日",
+              "reading": "ほんじつ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "宿題",
+              "reading": "しゅくだい"
+            },
+            {
+              "text": "は　"
+            },
+            {
+              "text": "無個性",
+              "reading": "むこせい"
+            },
+            {
+              "text": "な"
+            },
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "のこと"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 61.880435,
+      "end": 64.941906,
+      "japanese": "過不足無い　不自由無い　最近に生きていて",
+      "zh-CN": "活在不缺不少、毫无拘束的近来日子里",
+      "segments": [
+        {
+          "text": "過不足無い　不自由無い　最近に生きていて",
+          "performerIds": [
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "過不足無",
+              "reading": "かふそくな"
+            },
+            {
+              "text": "い　"
+            },
+            {
+              "text": "不自由無",
+              "reading": "ふじゆうな"
+            },
+            {
+              "text": "い　"
+            },
+            {
+              "text": "最近",
+              "reading": "さいきん"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "生",
+              "reading": "い"
+            },
+            {
+              "text": "きていて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 64.941906,
+      "end": 67.713239,
+      "japanese": "でもどうして　僕達は　時々に　いや毎日",
+      "zh-CN": "可为什么我们 总是时不时 不 甚至是每天",
+      "segments": [
+        {
+          "text": "でもどうして　僕達は　時々に　いや毎日",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "でもどうして　"
+            },
+            {
+              "text": "僕達",
+              "reading": "ぼくたち"
+            },
+            {
+              "text": "は　"
+            },
+            {
+              "text": "時々",
+              "reading": "ときどき"
+            },
+            {
+              "text": "に　いや"
+            },
+            {
+              "text": "毎日",
+              "reading": "まいにち"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 67.713239,
+      "end": 70.77471,
+      "japanese": "悲しいって言うんだ　淋しいって言うんだ",
+      "zh-CN": "诉说着悲伤 倾吐着寂寞啊",
+      "segments": [
+        {
+          "text": "悲しいって言うんだ　淋しいって言うんだ",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "悲",
+              "reading": "かな"
+            },
+            {
+              "text": "しいって"
+            },
+            {
+              "text": "言",
+              "reading": "い"
+            },
+            {
+              "text": "うんだ　"
+            },
+            {
+              "text": "淋",
+              "reading": "さび"
+            },
+            {
+              "text": "しいって"
+            },
+            {
+              "text": "言",
+              "reading": "い"
+            },
+            {
+              "text": "うんだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 70.77471,
+      "end": 73.355951,
+      "japanese": "黒板のこの漢字が読めますか",
+      "zh-CN": "黑板上的这个汉字你能读得出来吗",
+      "segments": [
+        {
+          "text": "黒板のこの漢字が読めますか",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-04",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "黒板",
+              "reading": "こくばん"
+            },
+            {
+              "text": "のこの"
+            },
+            {
+              "text": "漢字",
+              "reading": "かんじ"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "読",
+              "reading": "よ"
+            },
+            {
+              "text": "めますか"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 70.80313,
+      "end": 76.68513,
+      "japanese": "あの子の心象は読めますか",
+      "zh-CN": "那个孩子的心境你能够读得懂吗",
+      "segments": [
+        {
+          "text": "あの子の心象は読めますか",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-04",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "あの"
+            },
+            {
+              "text": "子",
+              "reading": "こ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "心象",
+              "reading": "しんしょう"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "読",
+              "reading": "よ"
+            },
+            {
+              "text": "めますか"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 76.627524,
+      "end": 79.578943,
+      "japanese": "その心を黒く染めたのは",
+      "zh-CN": "将那颗心彻底染黑的罪魁祸首",
+      "segments": [
+        {
+          "text": "その心を黒く染めたのは",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-04",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "その"
+            },
+            {
+              "text": "心",
+              "reading": "こころ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "黒",
+              "reading": "くろ"
+            },
+            {
+              "text": "く"
+            },
+            {
+              "text": "染",
+              "reading": "そ"
+            },
+            {
+              "text": "めたのは"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 76.68513,
+      "end": 82.64013,
+      "japanese": "おい誰なんだよ",
+      "zh-CN": "喂 到底是谁啊",
+      "segments": [
+        {
+          "text": "おい誰なんだよ",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-04",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "おい"
+            },
+            {
+              "text": "誰",
+              "reading": "だれ"
+            },
+            {
+              "text": "なんだよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 76.68513,
+      "end": 82.64013,
+      "japanese": "おい誰なんだよ",
+      "zh-CN": "喂 到底是谁啊",
+      "segments": [
+        {
+          "text": "おい誰なんだよ",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-04",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "おい"
+            },
+            {
+              "text": "誰",
+              "reading": "だれ"
+            },
+            {
+              "text": "なんだよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 82.550371,
+      "end": 85.381733,
+      "japanese": "そろばんでこの式が解けますか",
+      "zh-CN": "用算盘能解出这道算式吗",
+      "segments": [
+        {
+          "text": "そろばんでこの式が解けますか",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-04",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "そろばんでこの"
+            },
+            {
+              "text": "式",
+              "reading": "しき"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "解",
+              "reading": "と"
+            },
+            {
+              "text": "けますか"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 82.64013,
+      "end": 88.48813,
+      "japanese": "あの子の首の輪も解けますか",
+      "zh-CN": "那个孩子套在脖子上的绳圈也能解开吗",
+      "segments": [
+        {
+          "text": "あの子の首の輪も解けますか",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-04",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "あの"
+            },
+            {
+              "text": "子",
+              "reading": "こ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "首",
+              "reading": "くび"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "輪",
+              "reading": "わ"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "解",
+              "reading": "と"
+            },
+            {
+              "text": "けますか"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 88.41319,
+      "end": 91.414633,
+      "japanese": "僕達このまんまでいいんですか",
+      "zh-CN": "我们就这样放任下去真的好吗",
+      "segments": [
+        {
+          "text": "僕達このまんまでいいんですか",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-04",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "僕達",
+              "reading": "ぼくたち"
+            },
+            {
+              "text": "このまんまでいいんですか"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 88.48813,
+      "end": 96.71375,
+      "japanese": "おいどうすんだよ",
+      "zh-CN": "喂 到底该怎么办啊",
+      "segments": [
+        {
+          "text": "おいどうすんだよ",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-04",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "おいどうすんだよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000023",
+      "order": 22,
+      "index": 22,
+      "start": 88.48813,
+      "end": 96.71375,
+      "japanese": "もうどうだっていいや",
+      "zh-CN": "算了吧 怎样都无所谓了",
+      "segments": [
+        {
+          "text": "もうどうだっていいや",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-04",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "もうどうだっていいや"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    }
+  ]
+}

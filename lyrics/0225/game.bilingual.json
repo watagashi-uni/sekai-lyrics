@@ -1,0 +1,1141 @@
+{
+  "music_id": 225,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-13",
+      "name": "天馬司"
+    },
+    {
+      "performerId": "歌唱者-14",
+      "name": "鳳えむ"
+    },
+    {
+      "performerId": "歌唱者-15",
+      "name": "草薙寧々"
+    },
+    {
+      "performerId": "歌唱者-16",
+      "name": "神代類"
+    },
+    {
+      "performerId": "歌唱者-23",
+      "name": "鏡音レン"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 9.333532,
+      "end": 10.394199,
+      "japanese": "ヘい！",
+      "zh-CN": "嘿！",
+      "segments": [
+        {
+          "text": "ヘい！",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "ヘい！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 10.394199,
+      "end": 12.445487,
+      "japanese": "パッパラパパッラ",
+      "zh-CN": "啪啪啦啪啪啦",
+      "segments": [
+        {
+          "text": "パッパラパパッラ",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "パッパラパパッラ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 12.445487,
+      "end": 14.456751,
+      "japanese": "パッパラパトゥル",
+      "zh-CN": "啪啪啦啪突噜",
+      "segments": [
+        {
+          "text": "パッパラパトゥル",
+          "performerIds": [
+            "歌唱者-15",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "パッパラパトゥル"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 14.456751,
+      "end": 18.759455,
+      "japanese": "パッパラパパッララ （yeah）",
+      "zh-CN": "啪啪啦啪啪啦啦 （yeah）",
+      "segments": [
+        {
+          "text": "パッパラパパッララ ",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-16",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "パッパラパパッララ "
+            }
+          ]
+        },
+        {
+          "text": "（yeah）",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "（yeah）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 18.759455,
+      "end": 20.910807,
+      "japanese": "パッパラパパッラ",
+      "zh-CN": "啪啪啦啪啪啦",
+      "segments": [
+        {
+          "text": "パッパラパパッラ",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "パッパラパパッラ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 20.910807,
+      "end": 22.982108,
+      "japanese": "パッパラパトゥル",
+      "zh-CN": "啪啪啦啪突噜",
+      "segments": [
+        {
+          "text": "パッパラパトゥル",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "パッパラパトゥル"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 22.982108,
+      "end": 27.124711,
+      "japanese": "パッパラパパッララ",
+      "zh-CN": "啪啪啦啪啪啦啦",
+      "segments": [
+        {
+          "text": "パッパラパパッララ",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-16",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "パッパラパパッララ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 27.18075,
+      "end": 31.29975,
+      "japanese": "腑抜けた心にI need you 噂のアルカロイド",
+      "zh-CN": "给萎靡不振的心灵 I need you 传闻中的生物碱",
+      "segments": [
+        {
+          "text": "腑抜けた心にI need you 噂のアルカロイド",
+          "performerIds": [
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "腑抜",
+              "reading": "ふぬ"
+            },
+            {
+              "text": "けた"
+            },
+            {
+              "text": "心",
+              "reading": "こころ"
+            },
+            {
+              "text": "にI need you "
+            },
+            {
+              "text": "噂",
+              "reading": "うわさ"
+            },
+            {
+              "text": "のアルカロイド"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 32.938,
+      "end": 34.779,
+      "japanese": "あだ名はネットの髑髏　かき鳴らせディストーション",
+      "zh-CN": "绰号是网络骷髅 尽情弹响失真音效",
+      "segments": [
+        {
+          "text": "あだ名はネットの髑髏　かき鳴らせディストーション",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "あだ"
+            },
+            {
+              "text": "名",
+              "reading": "な"
+            },
+            {
+              "text": "はネットの"
+            },
+            {
+              "text": "髑髏",
+              "reading": "しゃれこうべ"
+            },
+            {
+              "text": "　かき"
+            },
+            {
+              "text": "鳴",
+              "reading": "な"
+            },
+            {
+              "text": "らせディストーション"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 35.667,
+      "end": 39.794,
+      "japanese": "付け焼き刃の侍が　乱れ打つ散弾銃",
+      "zh-CN": "临阵磨枪的武士 疯狂扫射散弹枪",
+      "segments": [
+        {
+          "text": "付け焼き刃の侍が　",
+          "performerIds": [
+            "歌唱者-16",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "付",
+              "reading": "つ"
+            },
+            {
+              "text": "け"
+            },
+            {
+              "text": "焼",
+              "reading": "や"
+            },
+            {
+              "text": "き"
+            },
+            {
+              "text": "刃",
+              "reading": "やいば"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "侍",
+              "reading": "さむらい"
+            },
+            {
+              "text": "が　"
+            }
+          ]
+        },
+        {
+          "text": "乱れ打つ散弾銃",
+          "performerIds": [
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "乱",
+              "reading": "みだ"
+            },
+            {
+              "text": "れ"
+            },
+            {
+              "text": "打",
+              "reading": "う"
+            },
+            {
+              "text": "つ"
+            },
+            {
+              "text": "散弾銃",
+              "reading": "さんだんじゅう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 39.781,
+      "end": 44.224,
+      "japanese": "悲劇の歴史で踊ろうか　ほらテンテコへンテコ舞舞はあ",
+      "zh-CN": "在悲剧的历史中翩翩起舞吧 瞧啊手忙脚乱荒诞乱舞哈啊",
+      "segments": [
+        {
+          "text": "悲劇の歴史で踊ろうか　",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "悲劇",
+              "reading": "ひげき"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "歴史",
+              "reading": "れきし"
+            },
+            {
+              "text": "で"
+            },
+            {
+              "text": "踊",
+              "reading": "おど"
+            },
+            {
+              "text": "ろうか　"
+            }
+          ]
+        },
+        {
+          "text": "ほらテンテコへンテコ舞舞はあ",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "ほらテンテコへンテコ"
+            },
+            {
+              "text": "舞",
+              "reading": "まい"
+            },
+            {
+              "text": "舞",
+              "reading": "まい"
+            },
+            {
+              "text": "はあ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 43.94,
+      "end": 48.465,
+      "japanese": "僕の心はエゴロック斜め45度ナンセンス",
+      "zh-CN": "我的心是自我唯我摇滚 倾斜45度荒诞无稽",
+      "segments": [
+        {
+          "text": "僕の心はエゴロック斜め45度ナンセンス",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "心",
+              "reading": "こころ"
+            },
+            {
+              "text": "はエゴロック"
+            },
+            {
+              "text": "斜",
+              "reading": "なな"
+            },
+            {
+              "text": "め45"
+            },
+            {
+              "text": "度",
+              "reading": "ど"
+            },
+            {
+              "text": "ナンセンス"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 48.465,
+      "end": 51.569,
+      "japanese": "ノウハウ砕いてマンネリを明日にバイバイバイ",
+      "zh-CN": "击碎诀窍将千篇一律向明天挥手拜拜拜",
+      "segments": [
+        {
+          "text": "ノウハウ砕いてマンネリを明日にバイバイバイ",
+          "performerIds": [
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "ノウハウ"
+            },
+            {
+              "text": "砕",
+              "reading": "くだ"
+            },
+            {
+              "text": "いてマンネリを"
+            },
+            {
+              "text": "明日",
+              "reading": "あした"
+            },
+            {
+              "text": "にバイバイバイ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 54.52,
+      "end": 61.606,
+      "japanese": "媚びへつらうその姿　吐き気の空模様",
+      "zh-CN": "阿谀奉承的那副姿态 令人作呕的天气景象",
+      "segments": [
+        {
+          "text": "媚びへつらうその姿　",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "媚",
+              "reading": "こ"
+            },
+            {
+              "text": "びへつらうその"
+            },
+            {
+              "text": "姿",
+              "reading": "すがた"
+            },
+            {
+              "text": "　"
+            }
+          ]
+        },
+        {
+          "text": "吐き気の空模様",
+          "performerIds": [
+            "歌唱者-15",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "吐",
+              "reading": "は"
+            },
+            {
+              "text": "き"
+            },
+            {
+              "text": "気",
+              "reading": "け"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "空模様",
+              "reading": "そらもよう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 61.06,
+      "end": 67.84,
+      "japanese": "シニカルな視線の雨　今日も両目を塞ぐふり",
+      "zh-CN": "讥讽讽刺的视线之雨 今天也假装遮住双眼",
+      "segments": [
+        {
+          "text": "シニカルな視線の雨　今日も",
+          "performerIds": [
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "シニカルな"
+            },
+            {
+              "text": "視線",
+              "reading": "しせん"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "雨",
+              "reading": "あめ"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "今日",
+              "reading": "きょう"
+            },
+            {
+              "text": "も"
+            }
+          ]
+        },
+        {
+          "text": "両目を塞ぐふり",
+          "performerIds": [
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "両目",
+              "reading": "りょうめ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "塞",
+              "reading": "ふさ"
+            },
+            {
+              "text": "ぐふり"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 75.941,
+      "end": 80.748,
+      "japanese": "透明な感情は染まるだけさ　",
+      "zh-CN": "透明纯粹的情感不过是徒遭沾染罢了",
+      "segments": [
+        {
+          "text": "透明な感情は染まるだけさ　",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "透明",
+              "reading": "とうめい"
+            },
+            {
+              "text": "な"
+            },
+            {
+              "text": "感情",
+              "reading": "かんじょう"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "染",
+              "reading": "そ"
+            },
+            {
+              "text": "まるだけさ　"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 80.748,
+      "end": 84.753,
+      "japanese": "だったら見て見ぬふりする奴らを押し出せ",
+      "zh-CN": "既然如此就把装作视而不见的家伙统统踢出去",
+      "segments": [
+        {
+          "text": "だったら見て見ぬふりする奴らを押し出せ",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "だったら"
+            },
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "て"
+            },
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "ぬふりする"
+            },
+            {
+              "text": "奴",
+              "reading": "やつ"
+            },
+            {
+              "text": "らを"
+            },
+            {
+              "text": "押",
+              "reading": "お"
+            },
+            {
+              "text": "し"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "せ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 84.748,
+      "end": 89.015,
+      "japanese": "人生かけても負けそうです　勝ち負け取り憑かれナンセンス",
+      "zh-CN": "哪怕赌上整个人生也感觉要输 被输赢纠缠简直荒唐无稽",
+      "segments": [
+        {
+          "text": "人生かけても負けそうです　勝ち負け取り憑かれナンセンス",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "人生",
+              "reading": "じんせい"
+            },
+            {
+              "text": "かけても"
+            },
+            {
+              "text": "負",
+              "reading": "ま"
+            },
+            {
+              "text": "けそうです　"
+            },
+            {
+              "text": "勝",
+              "reading": "か"
+            },
+            {
+              "text": "ち"
+            },
+            {
+              "text": "負",
+              "reading": "ま"
+            },
+            {
+              "text": "け"
+            },
+            {
+              "text": "取",
+              "reading": "と"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "憑",
+              "reading": "つ"
+            },
+            {
+              "text": "かれナンセンス"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 88.9775,
+      "end": 93.0355,
+      "japanese": "1分砕いて常識を　未来にSay goodbye",
+      "zh-CN": "花上一分钟击碎常识 朝着未来 Say goodbye",
+      "segments": [
+        {
+          "text": "1分砕いて常識を　未来にSay goodbye",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "1"
+            },
+            {
+              "text": "分砕",
+              "reading": "いっぷんくだ"
+            },
+            {
+              "text": "いて"
+            },
+            {
+              "text": "常識",
+              "reading": "じょうしき"
+            },
+            {
+              "text": "を　"
+            },
+            {
+              "text": "未来",
+              "reading": "みらい"
+            },
+            {
+              "text": "にSay goodbye"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 93.247,
+      "end": 97.353,
+      "japanese": "僕の心はエゴロック斜め45度ナンセンス",
+      "zh-CN": "我的心是自我唯我摇滚 倾斜45度荒诞无稽",
+      "segments": [
+        {
+          "text": "僕の心はエゴロック斜め45度ナンセンス",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "心",
+              "reading": "こころ"
+            },
+            {
+              "text": "はエゴロック"
+            },
+            {
+              "text": "斜",
+              "reading": "なな"
+            },
+            {
+              "text": "め45"
+            },
+            {
+              "text": "度",
+              "reading": "ど"
+            },
+            {
+              "text": "ナンセンス"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 99.041,
+      "end": 103.726,
+      "japanese": "ノウハウ砕いてマンネリを明日にバイバイバイ",
+      "zh-CN": "击碎诀窍将千篇一律向明天挥手拜拜拜",
+      "segments": [
+        {
+          "text": "ノウハウ砕いてマンネリを明日にバイバイバイ",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "ノウハウ"
+            },
+            {
+              "text": "砕",
+              "reading": "くだ"
+            },
+            {
+              "text": "いてマンネリを"
+            },
+            {
+              "text": "明日",
+              "reading": "あした"
+            },
+            {
+              "text": "にバイバイバイ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 102.36,
+      "end": 110.251,
+      "japanese": "媚びへつらうその姿　吐き気の空模様",
+      "zh-CN": "阿谀奉承的那副姿态 令人作呕的天气景象",
+      "segments": [
+        {
+          "text": "媚びへつらうその姿　",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "媚",
+              "reading": "こ"
+            },
+            {
+              "text": "びへつらうその"
+            },
+            {
+              "text": "姿",
+              "reading": "すがた"
+            },
+            {
+              "text": "　"
+            }
+          ]
+        },
+        {
+          "text": "吐き気の空模様",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "吐",
+              "reading": "は"
+            },
+            {
+              "text": "き"
+            },
+            {
+              "text": "気",
+              "reading": "け"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "空模様",
+              "reading": "そらもよう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000023",
+      "order": 22,
+      "index": 22,
+      "start": 110.261,
+      "end": 114.866,
+      "japanese": "シニカルな視線の雨　今日も両目を塞ぐふり",
+      "zh-CN": "讥讽讽刺的视线之雨 今天也假装遮住双眼",
+      "segments": [
+        {
+          "text": "シニカルな視線の雨　今日も",
+          "performerIds": [
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "シニカルな"
+            },
+            {
+              "text": "視線",
+              "reading": "しせん"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "雨",
+              "reading": "あめ"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "今日",
+              "reading": "きょう"
+            },
+            {
+              "text": "も"
+            }
+          ]
+        },
+        {
+          "text": "両目を塞ぐふり",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "両目",
+              "reading": "りょうめ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "塞",
+              "reading": "ふさ"
+            },
+            {
+              "text": "ぐふり"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000024",
+      "order": 23,
+      "index": 23,
+      "start": 115.166,
+      "end": 117.489,
+      "japanese": "（1.2.3）ふぁっきゅー",
+      "zh-CN": "（1.2.3）去你的吧 混蛋",
+      "segments": [
+        {
+          "text": "（1.2.3）ふぁっきゅー",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "（1.2.3）ふぁっきゅー"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

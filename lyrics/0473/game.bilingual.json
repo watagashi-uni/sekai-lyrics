@@ -1,0 +1,850 @@
+{
+  "music_id": 473,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-17",
+      "name": "宵崎奏"
+    },
+    {
+      "performerId": "歌唱者-18",
+      "name": "朝比奈まふゆ"
+    },
+    {
+      "performerId": "歌唱者-19",
+      "name": "東雲絵名"
+    },
+    {
+      "performerId": "歌唱者-20",
+      "name": "暁山瑞希"
+    },
+    {
+      "performerId": "歌唱者-21",
+      "name": "初音ミク"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 13.349,
+      "end": 17.698,
+      "japanese": "WELCOME TO THE MIND FXXK",
+      "zh-CN": "WELCOME TO THE MIND FXXK",
+      "segments": [
+        {
+          "text": "WELCOME TO THE MIND FXXK",
+          "performerIds": [],
+          "ruby": [
+            {
+              "text": "WELCOME TO THE MIND FXXK"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 26.686286,
+      "end": 30.256067,
+      "japanese": "まてよ そこゆく嬢さん 逆子宿らせ",
+      "zh-CN": "慢着 那边走过的小姐 怀着胎位不正的骨肉",
+      "segments": [
+        {
+          "text": "まてよ そこゆく嬢さん 逆子宿らせ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "まてよ そこゆく"
+            },
+            {
+              "text": "嬢",
+              "reading": "じょう"
+            },
+            {
+              "text": "さん "
+            },
+            {
+              "text": "逆子宿",
+              "reading": "さかごやど"
+            },
+            {
+              "text": "らせ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 30.266,
+      "end": 33.338,
+      "japanese": "あどけの足らない そんな身体に",
+      "zh-CN": "带着那副 不谙世事的身躯",
+      "segments": [
+        {
+          "text": "あどけの足らない そんな身体に",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "あどけの"
+            },
+            {
+              "text": "足",
+              "reading": "た"
+            },
+            {
+              "text": "らない そんな"
+            },
+            {
+              "text": "身体",
+              "reading": "からだ"
+            },
+            {
+              "text": "に"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 33.338696,
+      "end": 36.397367,
+      "japanese": "ただしく回らん 愚図の頭で",
+      "zh-CN": "还有那转不开弯 愚钝迟缓的脑瓜",
+      "segments": [
+        {
+          "text": "ただしく回らん 愚図の頭で",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ただしく"
+            },
+            {
+              "text": "回",
+              "reading": "まわ"
+            },
+            {
+              "text": "らん "
+            },
+            {
+              "text": "愚図",
+              "reading": "ぐず"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "頭",
+              "reading": "あたま"
+            },
+            {
+              "text": "で"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 36.397367,
+      "end": 39.556863,
+      "japanese": "天真爛漫！？ ほざくな 馬鹿め。",
+      "zh-CN": "天真烂漫！？少胡扯了 蠢货。",
+      "segments": [
+        {
+          "text": "天真爛漫！？ ほざくな 馬鹿め。",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "天真爛漫",
+              "reading": "てんしんらんまん"
+            },
+            {
+              "text": "！？ ほざくな "
+            },
+            {
+              "text": "馬鹿",
+              "reading": "ばか"
+            },
+            {
+              "text": "め。"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 40.213593,
+      "end": 43.377081,
+      "japanese": "「いついつ出やるの？かごめよかごめ」",
+      "zh-CN": "“什么时候出来呀？笼中鸟呀笼中鸟”",
+      "segments": [
+        {
+          "text": "「いついつ出やるの？かごめよかごめ」",
+          "performerIds": [
+            "歌唱者-19",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "「いついつ"
+            },
+            {
+              "text": "出",
+              "reading": "で"
+            },
+            {
+              "text": "やるの？かごめよかごめ」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 43.377081,
+      "end": 46.355892,
+      "japanese": "嫌味をからげて 嗤うあなたへ",
+      "zh-CN": "带着讥讽 嗤笑的你",
+      "segments": [
+        {
+          "text": "嫌味をからげて 嗤うあなたへ",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "嫌味",
+              "reading": "いやみ"
+            },
+            {
+              "text": "をからげて "
+            },
+            {
+              "text": "嗤",
+              "reading": "わら"
+            },
+            {
+              "text": "うあなたへ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 46.355892,
+      "end": 49.390605,
+      "japanese": "ぴたりと重ねて 吐き出す情け",
+      "zh-CN": "紧贴上前 吐露出的情面",
+      "segments": [
+        {
+          "text": "ぴたりと重ねて 吐き出す情け",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ぴたりと"
+            },
+            {
+              "text": "重",
+              "reading": "かさ"
+            },
+            {
+              "text": "ねて "
+            },
+            {
+              "text": "吐",
+              "reading": "は"
+            },
+            {
+              "text": "き"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "す"
+            },
+            {
+              "text": "情",
+              "reading": "なさ"
+            },
+            {
+              "text": "け"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 49.444511,
+      "end": 53.764984,
+      "japanese": "誰もがやがては 地獄の奥底へ",
+      "zh-CN": "任谁迟早都会 被带往地狱深处",
+      "segments": [
+        {
+          "text": "誰もがやがては 地獄の奥底へ",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "誰",
+              "reading": "だれ"
+            },
+            {
+              "text": "もがやがては "
+            },
+            {
+              "text": "地獄",
+              "reading": "じごく"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "奥底",
+              "reading": "おくそこ"
+            },
+            {
+              "text": "へ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 53.875791,
+      "end": 55.266368,
+      "japanese": "(連れて行かれる)",
+      "zh-CN": "(被带往那里)",
+      "segments": [
+        {
+          "text": "(連れて行かれる)",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "("
+            },
+            {
+              "text": "連",
+              "reading": "つ"
+            },
+            {
+              "text": "れて"
+            },
+            {
+              "text": "行",
+              "reading": "い"
+            },
+            {
+              "text": "かれる)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 55.6497,
+      "end": 59.3233,
+      "japanese": "あー、触れあって 埋めあって",
+      "zh-CN": "啊—— 彼此触碰 彼此填补",
+      "segments": [
+        {
+          "text": "あー、触れあって 埋めあって",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-20",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "あー、"
+            },
+            {
+              "text": "触",
+              "reading": "ふ"
+            },
+            {
+              "text": "れあって "
+            },
+            {
+              "text": "埋",
+              "reading": "う"
+            },
+            {
+              "text": "めあって"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 59.3233,
+      "end": 63.948243,
+      "japanese": "勝ち取った幸せを",
+      "zh-CN": "夺得的幸福",
+      "segments": [
+        {
+          "text": "勝ち取った幸せを",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-20",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "勝",
+              "reading": "か"
+            },
+            {
+              "text": "ち"
+            },
+            {
+              "text": "取",
+              "reading": "と"
+            },
+            {
+              "text": "った"
+            },
+            {
+              "text": "幸",
+              "reading": "しあわ"
+            },
+            {
+              "text": "せを"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 64.147895,
+      "end": 68.466371,
+      "japanese": "盗られた正義のヒーローが泣いている。",
+      "zh-CN": "被劫走的正义英雄正在哭泣。",
+      "segments": [
+        {
+          "text": "盗られた正義のヒーローが泣いている。",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "盗",
+              "reading": "と"
+            },
+            {
+              "text": "られた"
+            },
+            {
+              "text": "正義",
+              "reading": "せいぎ"
+            },
+            {
+              "text": "のヒーローが"
+            },
+            {
+              "text": "泣",
+              "reading": "な"
+            },
+            {
+              "text": "いている。"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 68.62,
+      "end": 76.22,
+      "japanese": "抱きあって 叩きあって",
+      "zh-CN": "相互拥抱 相互击打",
+      "segments": [
+        {
+          "text": "抱きあって 叩きあって",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-19",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "抱",
+              "reading": "だ"
+            },
+            {
+              "text": "きあって "
+            },
+            {
+              "text": "叩",
+              "reading": "たた"
+            },
+            {
+              "text": "きあって"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 68.62,
+      "end": 76.22,
+      "japanese": "分かちあった あの頃を、",
+      "zh-CN": "共同分担的 那段时光、",
+      "segments": [
+        {
+          "text": "分かちあった あの頃を、",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-19",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "分",
+              "reading": "わ"
+            },
+            {
+              "text": "かちあった あの"
+            },
+            {
+              "text": "頃",
+              "reading": "ころ"
+            },
+            {
+              "text": "を、"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 76.22,
+      "end": 84.817,
+      "japanese": "忘れてしまえたら どれほど楽だろうか。",
+      "zh-CN": "若能尽数遗忘 该是多么轻松啊。",
+      "segments": [
+        {
+          "text": "忘れてしまえたら どれほど楽だろうか。",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "忘",
+              "reading": "わす"
+            },
+            {
+              "text": "れてしまえたら どれほど"
+            },
+            {
+              "text": "楽",
+              "reading": "らく"
+            },
+            {
+              "text": "だろうか。"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 96.184,
+      "end": 103.691,
+      "japanese": "駆け寄って 寄り添って",
+      "zh-CN": "奔跑靠近 依偎身旁",
+      "segments": [
+        {
+          "text": "駆け寄って 寄り添って",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-19",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "駆",
+              "reading": "か"
+            },
+            {
+              "text": "け"
+            },
+            {
+              "text": "寄",
+              "reading": "よ"
+            },
+            {
+              "text": "って "
+            },
+            {
+              "text": "寄",
+              "reading": "よ"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "添",
+              "reading": "そ"
+            },
+            {
+              "text": "って"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 96.184,
+      "end": 103.691,
+      "japanese": "笑いあった あのときを。",
+      "zh-CN": "相视而笑的 那个时刻。",
+      "segments": [
+        {
+          "text": "笑いあった あのときを。",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-19",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "笑",
+              "reading": "わら"
+            },
+            {
+              "text": "いあった あのときを。"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 103.691,
+      "end": 123.664,
+      "japanese": "いっそきれいに、",
+      "zh-CN": "索性干干净净地、",
+      "segments": [
+        {
+          "text": "いっそきれいに、",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-20",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "いっそきれいに、"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 103.691,
+      "end": 123.664,
+      "japanese": "忘れてしまいたいんだ！",
+      "zh-CN": "彻底忘个一干二净吧！",
+      "segments": [
+        {
+          "text": "忘れてしまいたいんだ！",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-20",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "忘",
+              "reading": "わす"
+            },
+            {
+              "text": "れてしまいたいんだ！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 123.664,
+      "end": 126.038,
+      "japanese": "WELCOME TO THE MIND FXXK",
+      "zh-CN": "WELCOME TO THE MIND FXXK",
+      "segments": [
+        {
+          "text": "WELCOME TO THE MIND FXXK",
+          "performerIds": [],
+          "ruby": [
+            {
+              "text": "WELCOME TO THE MIND FXXK"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 126.038,
+      "end": 133.385,
+      "japanese": "WELCOME TO THE MIND FXXK",
+      "zh-CN": "WELCOME TO THE MIND FXXK",
+      "segments": [
+        {
+          "text": "WELCOME TO THE MIND FXXK",
+          "performerIds": [],
+          "ruby": [
+            {
+              "text": "WELCOME TO THE MIND FXXK"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000023",
+      "order": 22,
+      "index": 22,
+      "start": 126.038,
+      "end": 133.385,
+      "japanese": "THE MIND FXXK",
+      "zh-CN": "THE MIND FXXK",
+      "segments": [
+        {
+          "text": "THE MIND FXXK",
+          "performerIds": [],
+          "ruby": [
+            {
+              "text": "THE MIND FXXK"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    }
+  ]
+}

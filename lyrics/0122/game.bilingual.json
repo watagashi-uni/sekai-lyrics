@@ -1,0 +1,1509 @@
+{
+  "music_id": 122,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-14",
+      "name": "鳳えむ"
+    },
+    {
+      "performerId": "歌唱者-15",
+      "name": "草薙寧々"
+    },
+    {
+      "performerId": "歌唱者-22",
+      "name": "鏡音リン"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 9.383542,
+      "end": 10.034468,
+      "japanese": "行くよー！",
+      "zh-CN": "要上咯——！",
+      "segments": [
+        {
+          "text": "行くよー！",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "行",
+              "reading": "い"
+            },
+            {
+              "text": "くよー！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 9.98975,
+      "end": 12.37975,
+      "japanese": "まみもめモヤモヤなキミも",
+      "zh-CN": "闷闷不乐烦恼纠结的你也是",
+      "segments": [
+        {
+          "text": "まみもめモヤモヤなキミも",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "まみもめモヤモヤなキミも"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 12.37975,
+      "end": 14.66975,
+      "japanese": "are you Ready? 準備はいい？（はーい！）",
+      "zh-CN": "are you Ready? 准备好了吗？（好——！）",
+      "segments": [
+        {
+          "text": "are you Ready? 準備はいい？",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "are you Ready? "
+            },
+            {
+              "text": "準備",
+              "reading": "じゅんび"
+            },
+            {
+              "text": "はいい？"
+            }
+          ]
+        },
+        {
+          "text": "（はーい！）",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "（はーい！）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 14.66975,
+      "end": 16.90975,
+      "japanese": "スキップ&クラップで いちにーさんはい！",
+      "zh-CN": "蹦蹦跳跳拍拍手 一二三预备！",
+      "segments": [
+        {
+          "text": "スキップ&クラップで いち",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "スキップ&クラップで いち"
+            }
+          ]
+        },
+        {
+          "text": "にーさんはい！",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "にーさんはい！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 16.90975,
+      "end": 19.22975,
+      "japanese": "ポジティブ☆ダンスタイム",
+      "zh-CN": "积极阳光☆起舞时刻",
+      "segments": [
+        {
+          "text": "ポジティブ☆ダンスタイム",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "ポジティブ☆ダンスタイム"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 28.313392,
+      "end": 34.175727,
+      "japanese": "夢色を奏でる夜空でさ Shall we dance?",
+      "zh-CN": "在奏响梦幻色彩的夜空下 Shall we dance?",
+      "segments": [
+        {
+          "text": "夢色を奏でる夜空でさ ",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "夢色",
+              "reading": "ゆめいろ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "奏",
+              "reading": "かな"
+            },
+            {
+              "text": "でる"
+            },
+            {
+              "text": "夜空",
+              "reading": "よぞら"
+            },
+            {
+              "text": "でさ "
+            }
+          ]
+        },
+        {
+          "text": "Shall we dance?",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "Shall we dance?"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 34.872648,
+      "end": 37.216382,
+      "japanese": "明日に笑われるくらい",
+      "zh-CN": "哪怕被明天取笑也无所谓",
+      "segments": [
+        {
+          "text": "明日に笑われるくらい",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "明日",
+              "reading": "あす"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "笑",
+              "reading": "わら"
+            },
+            {
+              "text": "われるくらい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 37.463353,
+      "end": 43.244697,
+      "japanese": "しかめっ面 お月様も一緒に Shall we dance?",
+      "zh-CN": "愁眉苦脸的月亮大人也一起来 Shall we dance?",
+      "segments": [
+        {
+          "text": "しかめっ面 お月様も一緒に ",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "しかめっ"
+            },
+            {
+              "text": "面",
+              "reading": "つら"
+            },
+            {
+              "text": " お"
+            },
+            {
+              "text": "月様",
+              "reading": "つきさま"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "一緒",
+              "reading": "いっしょ"
+            },
+            {
+              "text": "に "
+            }
+          ]
+        },
+        {
+          "text": "Shall we dance?",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "Shall we dance?"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 44.084602,
+      "end": 45.809406,
+      "japanese": "最高の気分ね",
+      "zh-CN": "心情棒极了呢",
+      "segments": [
+        {
+          "text": "最高の気分ね",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "最高",
+              "reading": "さいこう"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "気分",
+              "reading": "きぶん"
+            },
+            {
+              "text": "ね"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 46.521325,
+      "end": 48.498101,
+      "japanese": "1 2 3のリズムで",
+      "zh-CN": "伴着 1 2 3 的节拍",
+      "segments": [
+        {
+          "text": "1 2 3のリズムで",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "1 2 3のリズムで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 48.801066,
+      "end": 50.849834,
+      "japanese": "1 2 3魔法をかけて",
+      "zh-CN": "1 2 3 施展奇妙魔法",
+      "segments": [
+        {
+          "text": "1 2 3魔法をかけて",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "1 2 3"
+            },
+            {
+              "text": "魔法",
+              "reading": "まほう"
+            },
+            {
+              "text": "をかけて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 51.128802,
+      "end": 55.456311,
+      "japanese": "キミだけのステップだから　世界がほら輝くの",
+      "zh-CN": "因为这是独属于你的舞步 瞧 整个世界都在闪闪发光",
+      "segments": [
+        {
+          "text": "キミだけのステップだから　世界がほら輝くの",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "キミだけのステップだから　"
+            },
+            {
+              "text": "世界",
+              "reading": "せかい"
+            },
+            {
+              "text": "がほら"
+            },
+            {
+              "text": "輝",
+              "reading": "かがや"
+            },
+            {
+              "text": "くの"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 55.682285,
+      "end": 56.704169,
+      "japanese": "wake up! wake up!",
+      "zh-CN": "wake up! wake up!",
+      "segments": [
+        {
+          "text": "wake up! wake up!",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "wake up! wake up!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 56.704169,
+      "end": 59.992796,
+      "japanese": "遅れないでよね 魅惑のダンスタイム",
+      "zh-CN": "可不要迟到哦 魅惑的起舞时刻",
+      "segments": [
+        {
+          "text": "遅れないでよね 魅惑のダンスタイム",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "遅",
+              "reading": "おく"
+            },
+            {
+              "text": "れないでよね "
+            },
+            {
+              "text": "魅惑",
+              "reading": "みわく"
+            },
+            {
+              "text": "のダンスタイム"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 60.263765,
+      "end": 61.265651,
+      "japanese": "jumping! jumping!",
+      "zh-CN": "jumping! jumping!",
+      "segments": [
+        {
+          "text": "jumping! jumping!",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "jumping! jumping!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 61.265651,
+      "end": 62.631496,
+      "japanese": "恥ずかしがらずに",
+      "zh-CN": "不要害羞嘛",
+      "segments": [
+        {
+          "text": "恥ずかしがらずに",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "恥",
+              "reading": "は"
+            },
+            {
+              "text": "ずかしがらずに"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 62.631496,
+      "end": 63.609385,
+      "japanese": "fly! high! fly! high!",
+      "zh-CN": "fly! high! fly! high!",
+      "segments": [
+        {
+          "text": "fly! ",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "fly! "
+            }
+          ]
+        },
+        {
+          "text": "high! ",
+          "performerIds": [
+            "歌唱者-15",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "high! "
+            }
+          ]
+        },
+        {
+          "text": "fly! ",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "fly! "
+            }
+          ]
+        },
+        {
+          "text": "high!",
+          "performerIds": [
+            "歌唱者-15",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "high!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 63.609385,
+      "end": 64.987228,
+      "japanese": "high! high! high! high!",
+      "zh-CN": "high! high! high! high!",
+      "segments": [
+        {
+          "text": "high! high! high! high!",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "high! high! high! high!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 65.165208,
+      "end": 68.642813,
+      "japanese": "(わんだほーい！ はぇ？ ひゃー！)",
+      "zh-CN": "(wonderhoy！ 哎？ 呀——！)",
+      "segments": [
+        {
+          "text": "(わんだほーい！ はぇ？ ひゃー！)",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "(わんだほーい！ はぇ？ ひゃー！)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 69.02277,
+      "end": 70.823566,
+      "japanese": "Dancing☆Dancing☆Time",
+      "zh-CN": "Dancing☆Dancing☆Time",
+      "segments": [
+        {
+          "text": "Dancing☆Dancing☆Time",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "Dancing☆Dancing☆Time"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 69.02277,
+      "end": 70.823566,
+      "japanese": "Dancing☆Dancing☆Time",
+      "zh-CN": "Dancing☆Dancing☆Time",
+      "segments": [
+        {
+          "text": "Dancing☆Dancing☆Time",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "Dancing☆Dancing☆Time"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 71.077537,
+      "end": 73.310283,
+      "japanese": "パピプペポジティブ☆ダンスタイム",
+      "zh-CN": "啪噼噗哩积极阳光☆起舞时刻",
+      "segments": [
+        {
+          "text": "パピプペポジティブ☆ダンスタイム",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "パピプペポジティブ☆ダンスタイム"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000023",
+      "order": 22,
+      "index": 22,
+      "start": 73.462266,
+      "end": 75.909988,
+      "japanese": "嫌なことも Let's Dance! Let's Dance! Let's Dance!",
+      "zh-CN": "讨厌的事情全都 Let's Dance! Let's Dance! Let's Dance!",
+      "segments": [
+        {
+          "text": "嫌なことも Let's Dance! ",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "嫌",
+              "reading": "いや"
+            },
+            {
+              "text": "なことも Let's Dance! "
+            }
+          ]
+        },
+        {
+          "text": "Let's Dance! ",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "Let's Dance! "
+            }
+          ]
+        },
+        {
+          "text": "Let's Dance!",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "Let's Dance!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000024",
+      "order": 23,
+      "index": 23,
+      "start": 76.062971,
+      "end": 77.990752,
+      "japanese": "キミと 一緒に 踊れば",
+      "zh-CN": "只要能和你 一起 起舞",
+      "segments": [
+        {
+          "text": "キミと ",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "キミと "
+            }
+          ]
+        },
+        {
+          "text": "一緒に ",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "一緒",
+              "reading": "いっしょ"
+            },
+            {
+              "text": "に "
+            }
+          ]
+        },
+        {
+          "text": "踊れば",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "踊",
+              "reading": "おど"
+            },
+            {
+              "text": "れば"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000025",
+      "order": 24,
+      "index": 24,
+      "start": 77.990752,
+      "end": 79.966528,
+      "japanese": "Dancing☆Dancing☆Time",
+      "zh-CN": "Dancing☆Dancing☆Time",
+      "segments": [
+        {
+          "text": "Dancing☆Dancing☆Time",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "Dancing☆Dancing☆Time"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000026",
+      "order": 25,
+      "index": 25,
+      "start": 77.990752,
+      "end": 79.966528,
+      "japanese": "Dancing☆Dancing☆Time",
+      "zh-CN": "Dancing☆Dancing☆Time",
+      "segments": [
+        {
+          "text": "Dancing☆Dancing☆Time",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "Dancing☆Dancing☆Time"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000027",
+      "order": 26,
+      "index": 26,
+      "start": 80.182503,
+      "end": 82.381254,
+      "japanese": "今はぎこちないリズムでも",
+      "zh-CN": "就算此刻还是笨拙生疏的节拍",
+      "segments": [
+        {
+          "text": "今はぎこちないリズムでも",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "今",
+              "reading": "いま"
+            },
+            {
+              "text": "はぎこちないリズムでも"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000028",
+      "order": 27,
+      "index": 27,
+      "start": 82.57975,
+      "end": 85.00662,
+      "japanese": "青空に Let's be ambitious!",
+      "zh-CN": "也能在蔚蓝天空下 Let's be ambitious!",
+      "segments": [
+        {
+          "text": "青空に ",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "青空",
+              "reading": "あおぞら"
+            },
+            {
+              "text": "に "
+            }
+          ]
+        },
+        {
+          "text": "Let's be ambitious!",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "Let's be ambitious!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000029",
+      "order": 28,
+      "index": 28,
+      "start": 86.462276,
+      "end": 88.797011,
+      "japanese": "描けるの　もう一回!?",
+      "zh-CN": "尽情描绘出来 再来一次！？",
+      "segments": [
+        {
+          "text": "描けるの　もう一回!?",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "描",
+              "reading": "えが"
+            },
+            {
+              "text": "けるの　もう"
+            },
+            {
+              "text": "一回",
+              "reading": "いっかい"
+            },
+            {
+              "text": "!?"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000030",
+      "order": 29,
+      "index": 29,
+      "start": 88.797011,
+      "end": 90.430826,
+      "japanese": "ポジティブ☆ダンスタイム",
+      "zh-CN": "积极阳光☆起舞时刻",
+      "segments": [
+        {
+          "text": "ポジティブ☆ダンスタイム",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "ポジティブ☆ダンスタイム"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000031",
+      "order": 30,
+      "index": 30,
+      "start": 90.599807,
+      "end": 92.469594,
+      "japanese": "Dancing☆Dancing☆Time",
+      "zh-CN": "Dancing☆Dancing☆Time",
+      "segments": [
+        {
+          "text": "Dancing☆Dancing☆Time",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "Dancing☆Dancing☆Time"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000032",
+      "order": 31,
+      "index": 31,
+      "start": 90.599807,
+      "end": 92.469594,
+      "japanese": "Dancing☆Dancing☆Time",
+      "zh-CN": "Dancing☆Dancing☆Time",
+      "segments": [
+        {
+          "text": "Dancing☆Dancing☆Time",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "Dancing☆Dancing☆Time"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000033",
+      "order": 32,
+      "index": 32,
+      "start": 92.693569,
+      "end": 95.045302,
+      "japanese": "パピプペポジティブ☆ダンスタイム",
+      "zh-CN": "啪噼噗哩积极阳光☆起舞时刻",
+      "segments": [
+        {
+          "text": "パピプペポジティブ☆ダンスタイム",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "パピプペポジティブ☆ダンスタイム"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000034",
+      "order": 33,
+      "index": 33,
+      "start": 95.045302,
+      "end": 97.597012,
+      "japanese": "みんなでさぁ！ Let's Dance! Let's Dance! Let's Dance!",
+      "zh-CN": "大家一起来吧！ Let's Dance! Let's Dance! Let's Dance!",
+      "segments": [
+        {
+          "text": "みんなでさぁ！ ",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "みんなでさぁ！ "
+            }
+          ]
+        },
+        {
+          "text": "Let's Dance! ",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "Let's Dance! "
+            }
+          ]
+        },
+        {
+          "text": "Let's Dance! ",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "Let's Dance! "
+            }
+          ]
+        },
+        {
+          "text": "Let's Dance!",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "Let's Dance!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000035",
+      "order": 34,
+      "index": 34,
+      "start": 97.765993,
+      "end": 99.653779,
+      "japanese": "楽しい！ 楽しい！ 優勝だね！",
+      "zh-CN": "太快乐啦！太开心啦！大获全胜呢！",
+      "segments": [
+        {
+          "text": "楽しい！ ",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "楽",
+              "reading": "たの"
+            },
+            {
+              "text": "しい！ "
+            }
+          ]
+        },
+        {
+          "text": "楽しい！ ",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "楽",
+              "reading": "たの"
+            },
+            {
+              "text": "しい！ "
+            }
+          ]
+        },
+        {
+          "text": "優勝だね！",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "優勝",
+              "reading": "ゆうしょう"
+            },
+            {
+              "text": "だね！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000036",
+      "order": 35,
+      "index": 35,
+      "start": 99.653779,
+      "end": 101.652552,
+      "japanese": "虹色の毎日を",
+      "zh-CN": "彩虹般的每一天",
+      "segments": [
+        {
+          "text": "虹色の毎日を",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "虹色",
+              "reading": "にじいろ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "毎日",
+              "reading": "まいにち"
+            },
+            {
+              "text": "を"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000037",
+      "order": 36,
+      "index": 36,
+      "start": 101.884525,
+      "end": 104.252256,
+      "japanese": "ずっとずっと笑い疲れるくらい",
+      "zh-CN": "想要一直一直笑到筋疲力竭",
+      "segments": [
+        {
+          "text": "ずっとずっと",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "ずっとずっと"
+            }
+          ]
+        },
+        {
+          "text": "笑い疲れるくらい",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "笑",
+              "reading": "わら"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "疲",
+              "reading": "つか"
+            },
+            {
+              "text": "れるくらい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000038",
+      "order": 37,
+      "index": 37,
+      "start": 104.252256,
+      "end": 107.795854,
+      "japanese": "踊っていたい Let's be ambitious!",
+      "zh-CN": "尽情起舞吧 Let's be ambitious!",
+      "segments": [
+        {
+          "text": "踊っていたい Let's be ambitious!",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "踊",
+              "reading": "おど"
+            },
+            {
+              "text": "っていたい Let's be ambitious!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000039",
+      "order": 38,
+      "index": 38,
+      "start": 108.196809,
+      "end": 109.611648,
+      "japanese": "でも今日はおやすみ",
+      "zh-CN": "不过今天就先道晚安啦",
+      "segments": [
+        {
+          "text": "でも今日はおやすみ",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "でも"
+            },
+            {
+              "text": "今日",
+              "reading": "きょう"
+            },
+            {
+              "text": "はおやすみ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000040",
+      "order": 39,
+      "index": 39,
+      "start": 109.50125,
+      "end": 111.81125,
+      "japanese": "まみもめモヤモヤなキミも",
+      "zh-CN": "闷闷不乐烦恼纠结的你也是",
+      "segments": [
+        {
+          "text": "まみもめモヤモヤなキミも",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "まみもめモヤモヤなキミも"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000041",
+      "order": 40,
+      "index": 40,
+      "start": 111.81125,
+      "end": 113.94125,
+      "japanese": "are you Ready? 準備はいい？（はーい！）",
+      "zh-CN": "are you Ready? 准备好了吗？（好——！）",
+      "segments": [
+        {
+          "text": "are you Ready? 準備はいい？",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "are you Ready? "
+            },
+            {
+              "text": "準備",
+              "reading": "じゅんび"
+            },
+            {
+              "text": "はいい？"
+            }
+          ]
+        },
+        {
+          "text": "（はーい！）",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "（はーい！）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000042",
+      "order": 41,
+      "index": 41,
+      "start": 113.94125,
+      "end": 116.35125,
+      "japanese": "スキップ&クラップで いちにーさんはい！",
+      "zh-CN": "蹦蹦跳跳拍拍手 一二三预备！",
+      "segments": [
+        {
+          "text": "スキップ&クラップで いち",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "スキップ&クラップで いち"
+            }
+          ]
+        },
+        {
+          "text": "にーさんはい！",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "にーさんはい！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000043",
+      "order": 42,
+      "index": 42,
+      "start": 116.35125,
+      "end": 118.66125,
+      "japanese": "ポジティブ☆ダンスタイム",
+      "zh-CN": "积极阳光☆起舞时刻",
+      "segments": [
+        {
+          "text": "ポジティブ☆ダンスタイム",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "ポジティブ☆ダンスタイム"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

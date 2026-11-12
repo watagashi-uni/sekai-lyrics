@@ -1,0 +1,952 @@
+{
+  "music_id": 424,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-01",
+      "name": "星乃一歌"
+    },
+    {
+      "performerId": "歌唱者-02",
+      "name": "天馬咲希"
+    },
+    {
+      "performerId": "歌唱者-03",
+      "name": "望月穂波"
+    },
+    {
+      "performerId": "歌唱者-04",
+      "name": "日野森志歩"
+    },
+    {
+      "performerId": "歌唱者-21",
+      "name": "初音ミク"
+    }
+  ],
+  "lines": [
+    {
+      "index": 0,
+      "start": 21.43,
+      "end": 31.25,
+      "japanese": "(lalala･･･)",
+      "zh-CN": "(lalala･･･)",
+      "segments": [
+        {
+          "text": "(lalala･･･)",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-04",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "(lalala･･･)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 1,
+      "start": 32.238697,
+      "end": 34.327425,
+      "japanese": "初めは1人だった",
+      "zh-CN": "起初只有孤身一人",
+      "segments": [
+        {
+          "text": "初めは1人だった",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "初",
+              "reading": "はじ"
+            },
+            {
+              "text": "めは1"
+            },
+            {
+              "text": "人",
+              "reading": "のひとり"
+            },
+            {
+              "text": "だった"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 2,
+      "start": 34.380418,
+      "end": 36.525139,
+      "japanese": "誰も言い出せなかった ",
+      "zh-CN": "谁都没能说出口",
+      "segments": [
+        {
+          "text": "誰も言い出せなかった ",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "誰",
+              "reading": "だれ"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "言",
+              "reading": "い"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "せなかった "
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 3,
+      "start": 36.924088,
+      "end": 39.315777,
+      "japanese": "そんな言葉たちを持って",
+      "zh-CN": "怀揣着那些话语",
+      "segments": [
+        {
+          "text": "そんな言葉たちを持って",
+          "performerIds": [
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "そんな"
+            },
+            {
+              "text": "言葉",
+              "reading": "ことば"
+            },
+            {
+              "text": "たちを"
+            },
+            {
+              "text": "持",
+              "reading": "も"
+            },
+            {
+              "text": "って"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 4,
+      "start": 39.578742,
+      "end": 41.506492,
+      "japanese": "差し出した掌",
+      "zh-CN": "伸出的手掌",
+      "segments": [
+        {
+          "text": "差し出した掌",
+          "performerIds": [
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "差",
+              "reading": "さ"
+            },
+            {
+              "text": "し"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "した"
+            },
+            {
+              "text": "掌",
+              "reading": "ててのひら"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 5,
+      "start": 41.873444,
+      "end": 44.281131,
+      "japanese": "それは次第に響いていった",
+      "zh-CN": "渐渐引起了共鸣",
+      "segments": [
+        {
+          "text": "それは次第に響いていった",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "それは"
+            },
+            {
+              "text": "次第",
+              "reading": "しだい"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "響",
+              "reading": "ひび"
+            },
+            {
+              "text": "いていった"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 6,
+      "start": 44.504102,
+      "end": 46.576833,
+      "japanese": "弱々しく震えた",
+      "zh-CN": "微弱颤抖着的",
+      "segments": [
+        {
+          "text": "弱々しく震えた",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "弱々",
+              "reading": "よわよわ"
+            },
+            {
+              "text": "しく"
+            },
+            {
+              "text": "震",
+              "reading": "ふる"
+            },
+            {
+              "text": "えた"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 7,
+      "start": 46.576833,
+      "end": 49.088506,
+      "japanese": "手と手を重ねて",
+      "zh-CN": "双手紧紧重叠",
+      "segments": [
+        {
+          "text": "手と手を重ねて",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "手",
+              "reading": "て"
+            },
+            {
+              "text": "と"
+            },
+            {
+              "text": "手",
+              "reading": "て"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "重",
+              "reading": "かさ"
+            },
+            {
+              "text": "ねて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 8,
+      "start": 49.1345,
+      "end": 52.970001,
+      "japanese": "物語は走り出したんだ",
+      "zh-CN": "故事就此飞奔启程",
+      "segments": [
+        {
+          "text": "物語は走り出したんだ",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "物語",
+              "reading": "ものがたり"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "走",
+              "reading": "はし"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "したんだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 9,
+      "start": 52.970001,
+      "end": 55.492673,
+      "japanese": "傷付け合って すれ違って",
+      "zh-CN": "互相伤害 彼此擦肩",
+      "segments": [
+        {
+          "text": "傷付け合って ",
+          "performerIds": [
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "傷付",
+              "reading": "きずつ"
+            },
+            {
+              "text": "け"
+            },
+            {
+              "text": "合",
+              "reading": "あ"
+            },
+            {
+              "text": "って "
+            }
+          ]
+        },
+        {
+          "text": "すれ違って",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "すれ"
+            },
+            {
+              "text": "違",
+              "reading": "ちが"
+            },
+            {
+              "text": "って"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 10,
+      "start": 55.492673,
+      "end": 58.183323,
+      "japanese": "居場所を失くしてしまうのが",
+      "zh-CN": "失去容身之处这种事",
+      "segments": [
+        {
+          "text": "居場所を失くしてしまうのが",
+          "performerIds": [
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "居場所",
+              "reading": "いばしょ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "失",
+              "reading": "な"
+            },
+            {
+              "text": "くしてしまうのが"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 11,
+      "start": 58.359301,
+      "end": 62.198801,
+      "japanese": "怖くて しょうがないんだよ もう泣きそうだ",
+      "zh-CN": "害怕得 无可奈何 几乎快要哭出来",
+      "segments": [
+        {
+          "text": "怖くて しょうがないんだよ もう泣きそうだ",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "怖",
+              "reading": "こわ"
+            },
+            {
+              "text": "くて しょうがないんだよ もう"
+            },
+            {
+              "text": "泣",
+              "reading": "な"
+            },
+            {
+              "text": "きそうだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 12,
+      "start": 62.198801,
+      "end": 66.724213,
+      "japanese": "それでも 僕らが 選び取った未来だ",
+      "zh-CN": "即使如此 这也是我们 亲手抉择的未来",
+      "segments": [
+        {
+          "text": "それでも 僕らが 選び取った未来だ",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-04",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "それでも "
+            },
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "らが "
+            },
+            {
+              "text": "選",
+              "reading": "えら"
+            },
+            {
+              "text": "び"
+            },
+            {
+              "text": "取",
+              "reading": "と"
+            },
+            {
+              "text": "った"
+            },
+            {
+              "text": "未来",
+              "reading": "みらい"
+            },
+            {
+              "text": "だ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 13,
+      "start": 66.724213,
+      "end": 69.618837,
+      "japanese": "そこに見えるのは",
+      "zh-CN": "映入眼帘的",
+      "segments": [
+        {
+          "text": "そこに見えるのは",
+          "performerIds": [
+            "歌唱者-03"
+          ],
+          "ruby": [
+            {
+              "text": "そこに"
+            },
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "えるのは"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 14,
+      "start": 69.618837,
+      "end": 73.867284,
+      "japanese": "いつかの忘れ物だ",
+      "zh-CN": "是不知何时遗落的事物",
+      "segments": [
+        {
+          "text": "いつかの忘れ物だ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "いつかの"
+            },
+            {
+              "text": "忘",
+              "reading": "わす"
+            },
+            {
+              "text": "れ"
+            },
+            {
+              "text": "物",
+              "reading": "もの"
+            },
+            {
+              "text": "だ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 74.71522,
+      "end": 81.58658,
+      "japanese": "(いつかの忘れ物だ)",
+      "zh-CN": "(不知何时遗落的事物)",
+      "segments": [
+        {
+          "text": "(いつかの忘れ物だ)",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "(いつかの"
+            },
+            {
+              "text": "忘",
+              "reading": "わす"
+            },
+            {
+              "text": "れ"
+            },
+            {
+              "text": "物",
+              "reading": "もの"
+            },
+            {
+              "text": "だ)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 16,
+      "start": 81.583281,
+      "end": 86.647622,
+      "japanese": "あぁきっと 何度だって僕らは 思い出すんだろう",
+      "zh-CN": "啊啊 无论多少次 我们一定都会再次回想起来吧",
+      "segments": [
+        {
+          "text": "あぁきっと 何度だって僕らは ",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-04",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "あぁきっと "
+            },
+            {
+              "text": "何度",
+              "reading": "なんど"
+            },
+            {
+              "text": "だって"
+            },
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "らは "
+            }
+          ]
+        },
+        {
+          "text": "思い出すんだろう",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "思",
+              "reading": "おも"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "すんだろう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 17,
+      "start": 86.647622,
+      "end": 91.607978,
+      "japanese": "そうやって 何度だって僕らは 確かめ合うんだろう",
+      "zh-CN": "就像那样 无论多少次 我们都会彼此印证确认吧",
+      "segments": [
+        {
+          "text": "そうやって 何度だって僕らは ",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-04",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "そうやって "
+            },
+            {
+              "text": "何度",
+              "reading": "なんど"
+            },
+            {
+              "text": "だって"
+            },
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "らは "
+            }
+          ]
+        },
+        {
+          "text": "確かめ合うんだろう",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "確",
+              "reading": "たし"
+            },
+            {
+              "text": "かめ"
+            },
+            {
+              "text": "合",
+              "reading": "あ"
+            },
+            {
+              "text": "うんだろう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 18,
+      "start": 91.607978,
+      "end": 96.957282,
+      "japanese": "その痛みも その弱さも あの悔しさも 涙も",
+      "zh-CN": "那份痛苦 那份软弱 那份不甘 还有泪水",
+      "segments": [
+        {
+          "text": "その痛みも ",
+          "performerIds": [
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "その"
+            },
+            {
+              "text": "痛",
+              "reading": "いた"
+            },
+            {
+              "text": "みも "
+            }
+          ]
+        },
+        {
+          "text": "その弱さも ",
+          "performerIds": [
+            "歌唱者-03"
+          ],
+          "ruby": [
+            {
+              "text": "その"
+            },
+            {
+              "text": "弱",
+              "reading": "よわ"
+            },
+            {
+              "text": "さも "
+            }
+          ]
+        },
+        {
+          "text": "あの悔しさも 涙も",
+          "performerIds": [
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "あの"
+            },
+            {
+              "text": "悔",
+              "reading": "くや"
+            },
+            {
+              "text": "しさも "
+            },
+            {
+              "text": "涙",
+              "reading": "なみだ"
+            },
+            {
+              "text": "も"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 19,
+      "start": 97.173254,
+      "end": 105.301508,
+      "japanese": "この｢今｣を見つけてくれた宝物なんだ",
+      "zh-CN": "都是为我们寻得这份“当下”的宝藏",
+      "segments": [
+        {
+          "text": "この｢今｣を見つけてくれた宝物なんだ",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "この｢"
+            },
+            {
+              "text": "今",
+              "reading": "いま"
+            },
+            {
+              "text": "｣を"
+            },
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "つけてくれた"
+            },
+            {
+              "text": "宝物",
+              "reading": "たからもの"
+            },
+            {
+              "text": "なんだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 20,
+      "start": 103.65,
+      "end": 110.92,
+      "japanese": "(lalala･･･)",
+      "zh-CN": "(lalala･･･)",
+      "segments": [
+        {
+          "text": "(lalala･･･)",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-04",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "(lalala･･･)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 21,
+      "start": 110.788795,
+      "end": 114.989248,
+      "japanese": "さぁ次の音へ",
+      "zh-CN": "来吧 走向下一个音符",
+      "segments": [
+        {
+          "text": "さぁ次の音へ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "さぁ"
+            },
+            {
+              "text": "次",
+              "reading": "つぎ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "音",
+              "reading": "おと"
+            },
+            {
+              "text": "へ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 22,
+      "start": 120.937475,
+      "end": 122.59226,
+      "japanese": "初めまして",
+      "zh-CN": "初次见面",
+      "segments": [
+        {
+          "text": "初めまして",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "初",
+              "reading": "はじ"
+            },
+            {
+              "text": "めまして"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

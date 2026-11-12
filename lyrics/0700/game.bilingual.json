@@ -1,0 +1,1510 @@
+{
+  "music_id": 700,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-05",
+      "name": "花里みのり"
+    },
+    {
+      "performerId": "歌唱者-06",
+      "name": "桐谷遥"
+    },
+    {
+      "performerId": "歌唱者-07",
+      "name": "桃井愛莉"
+    },
+    {
+      "performerId": "歌唱者-08",
+      "name": "日野森雫"
+    },
+    {
+      "performerId": "歌唱者-21",
+      "name": "初音ミク"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 11.67725,
+      "end": 13.60725,
+      "japanese": "Я　らりぱっぱらぱっぱっぱらっぱ",
+      "zh-CN": "Я 啦哩啪啪啦啪啪啪啦啪",
+      "segments": [
+        {
+          "text": "Я　らりぱっぱらぱっぱっぱらっぱ",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "Я　らりぱっぱらぱっぱっぱらっぱ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 13.60725,
+      "end": 15.26725,
+      "japanese": "らりぱっぱらぱっぱっぱらっぱ",
+      "zh-CN": "啦哩啪啪啦啪啪啪啦啪",
+      "segments": [
+        {
+          "text": "らりぱっぱらぱっぱっぱらっぱ",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "らりぱっぱらぱっぱっぱらっぱ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 15.26725,
+      "end": 17.96725,
+      "japanese": "純粋が仇になる世界で",
+      "zh-CN": "在纯粹会招致祸患的世界里",
+      "segments": [
+        {
+          "text": "純粋が仇になる世界で",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "純粋",
+              "reading": "じゅんすい"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "仇",
+              "reading": "あだ"
+            },
+            {
+              "text": "になる"
+            },
+            {
+              "text": "世界",
+              "reading": "せかい"
+            },
+            {
+              "text": "で"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 17.96725,
+      "end": 19.97725,
+      "japanese": "Я　らりぱっぱらぱっぱっぱらっぱ",
+      "zh-CN": "Я 啦哩啪啪啦啪啪啪啦啪",
+      "segments": [
+        {
+          "text": "Я　らりぱっぱらぱっぱっぱらっぱ",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "Я　らりぱっぱらぱっぱっぱらっぱ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 19.97725,
+      "end": 21.72725,
+      "japanese": "らりぱっぱらぱっぱっぱらっぱ",
+      "zh-CN": "啦哩啪啪啦啪啪啪啦啪",
+      "segments": [
+        {
+          "text": "らりぱっぱらぱっぱっぱらっぱ",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "らりぱっぱらぱっぱっぱらっぱ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 21.736327,
+      "end": 24.099916,
+      "japanese": "また来週も戦えるかな",
+      "zh-CN": "下周还能继续战斗下去吗",
+      "segments": [
+        {
+          "text": "また来週も戦えるかな",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "また"
+            },
+            {
+              "text": "来週",
+              "reading": "らいしゅう"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "戦",
+              "reading": "たたか"
+            },
+            {
+              "text": "えるかな"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 24.909145,
+      "end": 28.071947,
+      "japanese": "可愛い衣装まとって　決めポーズで光って",
+      "zh-CN": "身着可爱的衣装 摆出定格姿势闪闪发光",
+      "segments": [
+        {
+          "text": "可愛い衣装まとって　決めポーズで光って",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "可愛",
+              "reading": "かわい"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "衣装",
+              "reading": "いしょう"
+            },
+            {
+              "text": "まとって　"
+            },
+            {
+              "text": "決",
+              "reading": "き"
+            },
+            {
+              "text": "めポーズで"
+            },
+            {
+              "text": "光",
+              "reading": "ひか"
+            },
+            {
+              "text": "って"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 28.071947,
+      "end": 30.724975,
+      "japanese": "ピュアな想い　魔法に変えて",
+      "zh-CN": "将纯洁的心意 化作魔法",
+      "segments": [
+        {
+          "text": "ピュアな想い　魔法に変えて",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "ピュアな"
+            },
+            {
+              "text": "想",
+              "reading": "おも"
+            },
+            {
+              "text": "い　"
+            },
+            {
+              "text": "魔法",
+              "reading": "まほう"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "変",
+              "reading": "か"
+            },
+            {
+              "text": "えて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 31.209712,
+      "end": 34.460648,
+      "japanese": "みんなの平和願って　邪悪に立ち向かって",
+      "zh-CN": "祈求大家的和平 挺身对抗邪恶",
+      "segments": [
+        {
+          "text": "みんなの平和願って　邪悪に立ち向かって",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "みんなの"
+            },
+            {
+              "text": "平和願",
+              "reading": "へいわねが"
+            },
+            {
+              "text": "って　"
+            },
+            {
+              "text": "邪悪",
+              "reading": "じゃあく"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "立",
+              "reading": "た"
+            },
+            {
+              "text": "ち"
+            },
+            {
+              "text": "向",
+              "reading": "む"
+            },
+            {
+              "text": "かって"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 34.461649,
+      "end": 36.829244,
+      "japanese": "それを匿名はディスった",
+      "zh-CN": "却被匿名键盘侠喷得一文不值",
+      "segments": [
+        {
+          "text": "それを匿名はディスった",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "それを"
+            },
+            {
+              "text": "匿名",
+              "reading": "とくめい"
+            },
+            {
+              "text": "はディスった"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 37.035558,
+      "end": 38.489766,
+      "japanese": "「本当は〇〇なんでしょ？」",
+      "zh-CN": "「其实是〇〇吧？」",
+      "segments": [
+        {
+          "text": "「本当は〇〇なんでしょ？」",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "「"
+            },
+            {
+              "text": "本当",
+              "reading": "ほんとう"
+            },
+            {
+              "text": "は〇〇なんでしょ？」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 38.489766,
+      "end": 40.410683,
+      "japanese": "「ぶっちゃけ〇〇なんでしょ？」",
+      "zh-CN": "「说白了就是〇〇吧？」",
+      "segments": [
+        {
+          "text": "「ぶっちゃけ〇〇なんでしょ？」",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "「ぶっちゃけ〇〇なんでしょ？」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 40.409681,
+      "end": 41.792781,
+      "japanese": "自分がそう思うから",
+      "zh-CN": "就因为自己是这么想的",
+      "segments": [
+        {
+          "text": "自分がそう思うから",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "自分",
+              "reading": "じぶん"
+            },
+            {
+              "text": "がそう"
+            },
+            {
+              "text": "思",
+              "reading": "おも"
+            },
+            {
+              "text": "うから"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 41.792781,
+      "end": 43.40523,
+      "japanese": "みんな〇〇であって欲しいんでしょ",
+      "zh-CN": "就希望所有人都也是〇〇吧",
+      "segments": [
+        {
+          "text": "みんな〇〇であって欲しいんでしょ",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "みんな〇〇であって"
+            },
+            {
+              "text": "欲",
+              "reading": "ほ"
+            },
+            {
+              "text": "しいんでしょ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 43.40523,
+      "end": 46.632129,
+      "japanese": "そんな手垢のついた　よくある風評で",
+      "zh-CN": "被那种陈词滥调 司空见惯的风评",
+      "segments": [
+        {
+          "text": "そんな手垢のついた　よくある風評で",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "そんな"
+            },
+            {
+              "text": "手垢",
+              "reading": "てあか"
+            },
+            {
+              "text": "のついた　よくある"
+            },
+            {
+              "text": "風評",
+              "reading": "ふうひょう"
+            },
+            {
+              "text": "で"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 46.955621,
+      "end": 49.983218,
+      "japanese": "錆びつく魔法のステッキ",
+      "zh-CN": "逐渐侵蚀生锈的魔法手杖",
+      "segments": [
+        {
+          "text": "錆びつく魔法のステッキ",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "錆",
+              "reading": "さ"
+            },
+            {
+              "text": "びつく"
+            },
+            {
+              "text": "魔法",
+              "reading": "まほう"
+            },
+            {
+              "text": "のステッキ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 50.591141,
+      "end": 52.249659,
+      "japanese": "知らん　知らん",
+      "zh-CN": "谁管你 谁管你",
+      "segments": [
+        {
+          "text": "知らん　知らん",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "知",
+              "reading": "し"
+            },
+            {
+              "text": "らん　"
+            },
+            {
+              "text": "知",
+              "reading": "し"
+            },
+            {
+              "text": "らん"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 53.240163,
+      "end": 55.170094,
+      "japanese": "はぁ　正直もうやめたい（はぁ）",
+      "zh-CN": "哈啊 说实话真想辞职不干了（哈啊）",
+      "segments": [
+        {
+          "text": "はぁ　正直もうやめたい（はぁ）",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "はぁ　"
+            },
+            {
+              "text": "正直",
+              "reading": "しょうじき"
+            },
+            {
+              "text": "もうやめたい（はぁ）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 55.170094,
+      "end": 56.719446,
+      "japanese": "魔法少女をやめたい（はぁ）",
+      "zh-CN": "好想不当魔法少女了（哈啊）",
+      "segments": [
+        {
+          "text": "魔法少女をやめたい（はぁ）",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "魔法少女",
+              "reading": "まほうしょうじょ"
+            },
+            {
+              "text": "をやめたい（はぁ）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 56.719446,
+      "end": 59.587802,
+      "japanese": "誰が敵か味方かわかんないし",
+      "zh-CN": "根本分不清谁是敌谁是友",
+      "segments": [
+        {
+          "text": "誰が敵か味方かわかんないし",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "誰",
+              "reading": "だれ"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "敵",
+              "reading": "てき"
+            },
+            {
+              "text": "か"
+            },
+            {
+              "text": "味方",
+              "reading": "みかた"
+            },
+            {
+              "text": "かわかんないし"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 59.79712,
+      "end": 62.807691,
+      "japanese": "「陰険」で　「強欲」で　「滑稽」で　「外道」で",
+      "zh-CN": "「阴险」又「贪婪」「滑稽」又「卑劣」",
+      "segments": [
+        {
+          "text": "「陰険」で　「強欲」で　「滑稽」で　「外道」で",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "「"
+            },
+            {
+              "text": "陰険",
+              "reading": "いんけん"
+            },
+            {
+              "text": "」で　「"
+            },
+            {
+              "text": "強欲",
+              "reading": "ごうよく"
+            },
+            {
+              "text": "」で　「"
+            },
+            {
+              "text": "滑稽",
+              "reading": "こっけい"
+            },
+            {
+              "text": "」で　「"
+            },
+            {
+              "text": "外道",
+              "reading": "げどう"
+            },
+            {
+              "text": "」で"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 62.807691,
+      "end": 65.904393,
+      "japanese": "魔法がとけるチョコみたいに",
+      "zh-CN": "魔法像融化的巧克力一样",
+      "segments": [
+        {
+          "text": "魔法がとけるチョコみたいに",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "魔法",
+              "reading": "まほう"
+            },
+            {
+              "text": "がとけるチョコみたいに"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000023",
+      "order": 22,
+      "index": 22,
+      "start": 66.171799,
+      "end": 68.726678,
+      "japanese": "Я　らりぱっぱらぱっぱっぱらっぱ",
+      "zh-CN": "Я 啦哩啪啪啦啪啪啪啦啪",
+      "segments": [
+        {
+          "text": "Я　",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "Я　"
+            }
+          ]
+        },
+        {
+          "text": "らりぱっぱらぱっぱっぱらっぱ",
+          "performerIds": [
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "らりぱっぱらぱっぱっぱらっぱ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000024",
+      "order": 23,
+      "index": 23,
+      "start": 68.726678,
+      "end": 69.39269,
+      "japanese": "らりぱっぱらぱっぱっぱらっぱ",
+      "zh-CN": "啦哩啪啪啦啪啪啪啦啪",
+      "segments": [
+        {
+          "text": "らりぱっぱらぱっぱっぱらっぱ",
+          "performerIds": [
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "らりぱっぱらぱっぱっぱらっぱ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000025",
+      "order": 24,
+      "index": 24,
+      "start": 69.39269,
+      "end": 72.102805,
+      "japanese": "純粋が仇になる世界で",
+      "zh-CN": "在纯粹会招致祸患的世界里",
+      "segments": [
+        {
+          "text": "純粋が仇になる世界で",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "純粋",
+              "reading": "じゅんすい"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "仇",
+              "reading": "あだ"
+            },
+            {
+              "text": "になる"
+            },
+            {
+              "text": "世界",
+              "reading": "せかい"
+            },
+            {
+              "text": "で"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000026",
+      "order": 25,
+      "index": 25,
+      "start": 72.27106,
+      "end": 74.264087,
+      "japanese": "はぁ　正直もうやめたい（はぁ）",
+      "zh-CN": "哈啊 说实话真想辞职不干了（哈啊）",
+      "segments": [
+        {
+          "text": "はぁ　正直もうやめたい（はぁ）",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "はぁ　"
+            },
+            {
+              "text": "正直",
+              "reading": "しょうじき"
+            },
+            {
+              "text": "もうやめたい（はぁ）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000027",
+      "order": 26,
+      "index": 26,
+      "start": 74.264087,
+      "end": 75.893561,
+      "japanese": "魔法少女をやめたい（はぁ）",
+      "zh-CN": "好想不当魔法少女了（哈啊）",
+      "segments": [
+        {
+          "text": "魔法少女をやめたい（はぁ）",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "魔法少女",
+              "reading": "まほうしょうじょ"
+            },
+            {
+              "text": "をやめたい（はぁ）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000028",
+      "order": 27,
+      "index": 27,
+      "start": 75.893561,
+      "end": 79.38987,
+      "japanese": "もう　好きな人だけ守っていたい",
+      "zh-CN": "已经 只想守护自己喜欢的人了",
+      "segments": [
+        {
+          "text": "もう　好きな人だけ守っていたい",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "もう　"
+            },
+            {
+              "text": "好",
+              "reading": "す"
+            },
+            {
+              "text": "きな"
+            },
+            {
+              "text": "人",
+              "reading": "ひと"
+            },
+            {
+              "text": "だけ"
+            },
+            {
+              "text": "守",
+              "reading": "まも"
+            },
+            {
+              "text": "っていたい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000029",
+      "order": 28,
+      "index": 28,
+      "start": 80.19725,
+      "end": 82.59725,
+      "japanese": "ファンの善意の〇〇も",
+      "zh-CN": "粉丝善意的〇〇也好",
+      "segments": [
+        {
+          "text": "ファンの善意の〇〇も",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ファンの"
+            },
+            {
+              "text": "善意",
+              "reading": "ぜんい"
+            },
+            {
+              "text": "の〇〇も"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000030",
+      "order": 29,
+      "index": 29,
+      "start": 82.59725,
+      "end": 85.434,
+      "japanese": "心配してる〇〇も",
+      "zh-CN": "满怀关切的〇〇也罢",
+      "segments": [
+        {
+          "text": "心配してる〇〇も",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "心配",
+              "reading": "しんぱい"
+            },
+            {
+              "text": "してる〇〇も"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000031",
+      "order": 30,
+      "index": 30,
+      "start": 85.434,
+      "end": 88.842,
+      "japanese": "〇〇〇〇〇！！",
+      "zh-CN": "〇〇〇〇〇！！",
+      "segments": [
+        {
+          "text": "〇〇〇〇〇！！",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "〇〇〇〇〇！！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000032",
+      "order": 31,
+      "index": 31,
+      "start": 89.11725,
+      "end": 98.41725,
+      "japanese": "すべて耳を塞いでしまったの",
+      "zh-CN": "将耳朵彻底捂得严严实实",
+      "segments": [
+        {
+          "text": "すべて耳を塞いでしまったの",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "すべて"
+            },
+            {
+              "text": "耳",
+              "reading": "みみ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "塞",
+              "reading": "ふさ"
+            },
+            {
+              "text": "いでしまったの"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000033",
+      "order": 32,
+      "index": 32,
+      "start": 98.41725,
+      "end": 100.03725,
+      "japanese": "はぁ　正直もうやめたい",
+      "zh-CN": "哈啊 说实话真想辞职不干了",
+      "segments": [
+        {
+          "text": "はぁ　正直もうやめたい",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "はぁ　"
+            },
+            {
+              "text": "正直",
+              "reading": "しょうじき"
+            },
+            {
+              "text": "もうやめたい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000034",
+      "order": 33,
+      "index": 33,
+      "start": 100.03725,
+      "end": 101.39725,
+      "japanese": "魔法少女をやめたい",
+      "zh-CN": "好想不当魔法少女了",
+      "segments": [
+        {
+          "text": "魔法少女をやめたい",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "魔法少女",
+              "reading": "まほうしょうじょ"
+            },
+            {
+              "text": "をやめたい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000035",
+      "order": 34,
+      "index": 34,
+      "start": 101.39725,
+      "end": 105.54725,
+      "japanese": "誰が敵か味方かわかんないし",
+      "zh-CN": "根本分不清谁是敌谁是友",
+      "segments": [
+        {
+          "text": "誰が敵か味方かわかんないし",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "誰",
+              "reading": "だれ"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "敵",
+              "reading": "てき"
+            },
+            {
+              "text": "か"
+            },
+            {
+              "text": "味方",
+              "reading": "みかた"
+            },
+            {
+              "text": "かわかんないし"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000036",
+      "order": 35,
+      "index": 35,
+      "start": 105.54725,
+      "end": 108.29725,
+      "japanese": "「陰険」で　「強欲」で　「滑稽」で　「外道」で",
+      "zh-CN": "「阴险」又「贪婪」「滑稽」又「卑劣」",
+      "segments": [
+        {
+          "text": "「陰険」で　「強欲」で　「滑稽」で　「外道」で",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "「"
+            },
+            {
+              "text": "陰険",
+              "reading": "いんけん"
+            },
+            {
+              "text": "」で　「"
+            },
+            {
+              "text": "強欲",
+              "reading": "ごうよく"
+            },
+            {
+              "text": "」で　「"
+            },
+            {
+              "text": "滑稽",
+              "reading": "こっけい"
+            },
+            {
+              "text": "」で　「"
+            },
+            {
+              "text": "外道",
+              "reading": "げどう"
+            },
+            {
+              "text": "」で"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000037",
+      "order": 36,
+      "index": 36,
+      "start": 108.29725,
+      "end": 111.49725,
+      "japanese": "魔法がとけるチョコみたいに",
+      "zh-CN": "魔法像融化的巧克力一样",
+      "segments": [
+        {
+          "text": "魔法がとけるチョコみたいに",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "魔法",
+              "reading": "まほう"
+            },
+            {
+              "text": "がとけるチョコみたいに"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000038",
+      "order": 37,
+      "index": 37,
+      "start": 111.49725,
+      "end": 113.59725,
+      "japanese": "Я　らりぱっぱらぱっぱっぱらっぱ",
+      "zh-CN": "Я 啦哩啪啪啦啪啪啪啦啪",
+      "segments": [
+        {
+          "text": "Я　らりぱっぱらぱっぱっぱらっぱ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "Я　らりぱっぱらぱっぱっぱらっぱ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000039",
+      "order": 38,
+      "index": 38,
+      "start": 113.59725,
+      "end": 114.49725,
+      "japanese": "らりぱっぱらぱっぱっぱらっぱ",
+      "zh-CN": "啦哩啪啪啦啪啪啪啦啪",
+      "segments": [
+        {
+          "text": "らりぱっぱらぱっぱっぱらっぱ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "らりぱっぱらぱっぱっぱらっぱ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000040",
+      "order": 39,
+      "index": 39,
+      "start": 114.49725,
+      "end": 117.39725,
+      "japanese": "魔法で最低な人を消そう",
+      "zh-CN": "用魔法把那些最差劲的人通通消抹掉吧",
+      "segments": [
+        {
+          "text": "魔法で最低な人を消そう",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "魔法",
+              "reading": "まほう"
+            },
+            {
+              "text": "で"
+            },
+            {
+              "text": "最低",
+              "reading": "さいてい"
+            },
+            {
+              "text": "な"
+            },
+            {
+              "text": "人",
+              "reading": "ひと"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "消",
+              "reading": "け"
+            },
+            {
+              "text": "そう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000041",
+      "order": 40,
+      "index": 40,
+      "start": 117.39725,
+      "end": 119.39725,
+      "japanese": "はぁ　正直もうやめたい（はぁ）",
+      "zh-CN": "哈啊 说实话真想辞职不干了（哈啊）",
+      "segments": [
+        {
+          "text": "はぁ　正直もうやめたい（はぁ）",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "はぁ　"
+            },
+            {
+              "text": "正直",
+              "reading": "しょうじき"
+            },
+            {
+              "text": "もうやめたい（はぁ）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000042",
+      "order": 41,
+      "index": 41,
+      "start": 119.39725,
+      "end": 120.49725,
+      "japanese": "魔法少女をやめたい（はぁ）",
+      "zh-CN": "好想不当魔法少女了（哈啊）",
+      "segments": [
+        {
+          "text": "魔法少女をやめたい（はぁ）",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "魔法少女",
+              "reading": "まほうしょうじょ"
+            },
+            {
+              "text": "をやめたい（はぁ）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000043",
+      "order": 42,
+      "index": 42,
+      "start": 120.49725,
+      "end": 128.6,
+      "japanese": "また来週も観てくれるかな",
+      "zh-CN": "下周还会继续收看吗",
+      "segments": [
+        {
+          "text": "また来週も観てくれるかな",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "また"
+            },
+            {
+              "text": "来週",
+              "reading": "らいしゅう"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "観",
+              "reading": "み"
+            },
+            {
+              "text": "てくれるかな"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

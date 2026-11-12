@@ -1,0 +1,1947 @@
+{
+  "music_id": 731,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-13",
+      "name": "天馬司"
+    },
+    {
+      "performerId": "歌唱者-14",
+      "name": "鳳えむ"
+    },
+    {
+      "performerId": "歌唱者-15",
+      "name": "草薙寧々"
+    },
+    {
+      "performerId": "歌唱者-16",
+      "name": "神代類"
+    },
+    {
+      "performerId": "歌唱者-21",
+      "name": "初音ミク"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 21.8665,
+      "end": 25.1635,
+      "japanese": "あんたは食ってる",
+      "zh-CN": "你狼吞虎咽着",
+      "segments": [
+        {
+          "text": "あんたは食ってる",
+          "performerIds": [
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "あんたは"
+            },
+            {
+              "text": "食",
+              "reading": "く"
+            },
+            {
+              "text": "ってる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 21.8665,
+      "end": 25.1635,
+      "japanese": "昨日のハンバーガーを",
+      "zh-CN": "隔夜的汉堡包",
+      "segments": [
+        {
+          "text": "昨日のハンバーガーを",
+          "performerIds": [
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "昨日",
+              "reading": "きのう"
+            },
+            {
+              "text": "のハンバーガーを"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 21.8665,
+      "end": 25.1635,
+      "japanese": "（むしゃむしゃ）",
+      "zh-CN": "（吧唧吧唧）",
+      "segments": [
+        {
+          "text": "（むしゃむしゃ）",
+          "performerIds": [
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "（むしゃむしゃ）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 25.1635,
+      "end": 28.4635,
+      "japanese": "12個持ってる　中古のG-SHOCKを",
+      "zh-CN": "戴着12块二手G-SHOCK",
+      "segments": [
+        {
+          "text": "12個持ってる　中古のG-SHOCKを",
+          "performerIds": [
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "12"
+            },
+            {
+              "text": "個",
+              "reading": "こ"
+            },
+            {
+              "text": "持",
+              "reading": "も"
+            },
+            {
+              "text": "ってる　"
+            },
+            {
+              "text": "中古",
+              "reading": "ちゅうこ"
+            },
+            {
+              "text": "のG-SHOCKを"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 25.1635,
+      "end": 28.4635,
+      "japanese": "（かちかち）",
+      "zh-CN": "（滴答滴答）",
+      "segments": [
+        {
+          "text": "（かちかち）",
+          "performerIds": [
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "（かちかち）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 28.4635,
+      "end": 31.7735,
+      "japanese": "真面目に書いてる",
+      "zh-CN": "认真经营的博客",
+      "segments": [
+        {
+          "text": "真面目に書いてる",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "真面目",
+              "reading": "まじめ"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "書",
+              "reading": "か"
+            },
+            {
+              "text": "いてる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 28.4635,
+      "end": 31.7735,
+      "japanese": "ブログが怪文書",
+      "zh-CN": "文字却支离破碎",
+      "segments": [
+        {
+          "text": "ブログが怪文書",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ブログが"
+            },
+            {
+              "text": "怪文書",
+              "reading": "かいぶんしょ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 28.4635,
+      "end": 31.7735,
+      "japanese": "（がちゃがちゃ）",
+      "zh-CN": "（咔哒咔哒）",
+      "segments": [
+        {
+          "text": "（がちゃがちゃ）",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "（がちゃがちゃ）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 31.7735,
+      "end": 33.5565,
+      "japanese": "あいつを　みんなは　こう呼んでる",
+      "zh-CN": "大家都称呼那家伙为——",
+      "segments": [
+        {
+          "text": "あいつを　みんなは　こう呼んでる",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "あいつを　みんなは　こう"
+            },
+            {
+              "text": "呼",
+              "reading": "よ"
+            },
+            {
+              "text": "んでる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 33.5565,
+      "end": 35.2815,
+      "japanese": "アルティメットセンパイ",
+      "zh-CN": "究极前辈",
+      "segments": [
+        {
+          "text": "アルティメットセンパイ",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "アルティメットセンパイ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 35.2815,
+      "end": 38.2925,
+      "japanese": "ダンス踊ってる　建築の騒音で",
+      "zh-CN": "于钢筋水泥的噪音中起舞",
+      "segments": [
+        {
+          "text": "ダンス踊ってる　建築の騒音で",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "ダンス"
+            },
+            {
+              "text": "踊",
+              "reading": "おど"
+            },
+            {
+              "text": "ってる　"
+            },
+            {
+              "text": "建築",
+              "reading": "けんちく"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "騒音",
+              "reading": "そうおん"
+            },
+            {
+              "text": "で"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 35.2815,
+      "end": 38.2925,
+      "japanese": "（がたがた）",
+      "zh-CN": "（摇摇晃晃）",
+      "segments": [
+        {
+          "text": "（がたがた）",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "（がたがた）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 38.2925,
+      "end": 41.8585,
+      "japanese": "歌を歌ってる　電波塔の上で",
+      "zh-CN": "站在信号塔上高歌",
+      "segments": [
+        {
+          "text": "歌を歌ってる　電波塔の上で",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "歌",
+              "reading": "うた"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "歌",
+              "reading": "うた"
+            },
+            {
+              "text": "ってる　"
+            },
+            {
+              "text": "電波",
+              "reading": "でんぱ"
+            },
+            {
+              "text": "塔",
+              "reading": "とう"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "上",
+              "reading": "うえ"
+            },
+            {
+              "text": "で"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 38.2925,
+      "end": 41.8585,
+      "japanese": "(ららららら)",
+      "zh-CN": "（啦啦啦啦啦）",
+      "segments": [
+        {
+          "text": "(ららららら)",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "(ららららら)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 41.8585,
+      "end": 45.1155,
+      "japanese": "ぶん殴られてる　調子に乗ったせいで",
+      "zh-CN": "因为得意忘形被揍了一顿",
+      "segments": [
+        {
+          "text": "ぶん殴られてる　調子に乗ったせいで",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ぶん"
+            },
+            {
+              "text": "殴",
+              "reading": "なぐ"
+            },
+            {
+              "text": "られてる　"
+            },
+            {
+              "text": "調子",
+              "reading": "ちょうし"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "乗",
+              "reading": "の"
+            },
+            {
+              "text": "ったせいで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 41.8585,
+      "end": 45.1155,
+      "japanese": "（ぼこぼこ）",
+      "zh-CN": "（鼻青脸肿）",
+      "segments": [
+        {
+          "text": "（ぼこぼこ）",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "（ぼこぼこ）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 45.1155,
+      "end": 46.8715,
+      "japanese": "ふんだりけったり",
+      "zh-CN": "祸不单行",
+      "segments": [
+        {
+          "text": "ふんだりけったり",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "ふんだりけったり"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 45.1155,
+      "end": 46.8715,
+      "japanese": "迷走する",
+      "zh-CN": "迷途踉跄的",
+      "segments": [
+        {
+          "text": "迷走する",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "迷走",
+              "reading": "めいそう"
+            },
+            {
+              "text": "する"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 46.8715,
+      "end": 48.4085,
+      "japanese": "アルティメットセンパイ",
+      "zh-CN": "究极前辈",
+      "segments": [
+        {
+          "text": "アルティメットセンパイ",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "アルティメットセンパイ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 48.4085,
+      "end": 51.6375,
+      "japanese": "食欲　性欲　睡眠欲に翻弄される運命",
+      "zh-CN": "被食欲  性欲  睡眠欲玩弄的命运",
+      "segments": [
+        {
+          "text": "食欲　性欲　睡眠欲に翻弄される運命",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "食欲",
+              "reading": "しょくよく"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "性欲",
+              "reading": "せいよく"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "睡眠",
+              "reading": "すいみん"
+            },
+            {
+              "text": "欲",
+              "reading": "よく"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "翻弄",
+              "reading": "ほんろう"
+            },
+            {
+              "text": "される"
+            },
+            {
+              "text": "運命",
+              "reading": "うんめい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 51.6375,
+      "end": 55.1455,
+      "japanese": "全盛り　朝食バイキングぐらい無計画な人生",
+      "zh-CN": "如同堆满盘子的自助早餐般  无计划的人生",
+      "segments": [
+        {
+          "text": "全盛り　朝食バイキングぐらい無計画な人生",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "全",
+              "reading": "ぜん"
+            },
+            {
+              "text": "盛",
+              "reading": "も"
+            },
+            {
+              "text": "り　"
+            },
+            {
+              "text": "朝食",
+              "reading": "ちょうしょく"
+            },
+            {
+              "text": "バイキングぐらい"
+            },
+            {
+              "text": "無計画",
+              "reading": "むけいかく"
+            },
+            {
+              "text": "な"
+            },
+            {
+              "text": "人生",
+              "reading": "じんせい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 55.1455,
+      "end": 58.4025,
+      "japanese": "アルティメットセンパイ",
+      "zh-CN": "究极前辈",
+      "segments": [
+        {
+          "text": "アルティメットセンパイ",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "アルティメットセンパイ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000023",
+      "order": 22,
+      "index": 22,
+      "start": 55.1455,
+      "end": 58.4025,
+      "japanese": "アルティメットセンパイ",
+      "zh-CN": "究极前辈",
+      "segments": [
+        {
+          "text": "アルティメットセンパイ",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "アルティメットセンパイ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000024",
+      "order": 23,
+      "index": 23,
+      "start": 58.4025,
+      "end": 61.6605,
+      "japanese": "鳴かず飛ばずの毎日を　もがいているセンパイ",
+      "zh-CN": "在毫无起色的生活中挣扎的前辈",
+      "segments": [
+        {
+          "text": "鳴かず飛ばずの毎日を　もがいているセンパイ",
+          "performerIds": [
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "鳴",
+              "reading": "な"
+            },
+            {
+              "text": "かず"
+            },
+            {
+              "text": "飛",
+              "reading": "と"
+            },
+            {
+              "text": "ばずの"
+            },
+            {
+              "text": "毎日",
+              "reading": "まいにち"
+            },
+            {
+              "text": "を　もがいているセンパイ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000025",
+      "order": 24,
+      "index": 24,
+      "start": 61.6605,
+      "end": 64.9185,
+      "japanese": "アルティメットセンパイ",
+      "zh-CN": "究极前辈",
+      "segments": [
+        {
+          "text": "アルティメットセンパイ",
+          "performerIds": [
+            "歌唱者-15",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "アルティメットセンパイ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000026",
+      "order": 25,
+      "index": 25,
+      "start": 61.6605,
+      "end": 64.9185,
+      "japanese": "不安定な将来",
+      "zh-CN": "摇摇欲坠的未来",
+      "segments": [
+        {
+          "text": "不安定な将来",
+          "performerIds": [
+            "歌唱者-15",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "不安定",
+              "reading": "ふあんてい"
+            },
+            {
+              "text": "な"
+            },
+            {
+              "text": "将来",
+              "reading": "しょうらい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000027",
+      "order": 26,
+      "index": 26,
+      "start": 64.9185,
+      "end": 67.9265,
+      "japanese": "狂っているのは　一体　どっちだい？",
+      "zh-CN": "不正常的  究竟是哪一边呢？",
+      "segments": [
+        {
+          "text": "狂っているのは　一体　どっちだい？",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "狂",
+              "reading": "くる"
+            },
+            {
+              "text": "っているのは　"
+            },
+            {
+              "text": "一体",
+              "reading": "いったい"
+            },
+            {
+              "text": "　どっちだい？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000028",
+      "order": 27,
+      "index": 27,
+      "start": 67.9265,
+      "end": 71.4455,
+      "japanese": "また　味方を蹴っちゃった",
+      "zh-CN": "又一次  踢开同伴",
+      "segments": [
+        {
+          "text": "また　味方を蹴っちゃった",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "また　"
+            },
+            {
+              "text": "味方",
+              "reading": "みかた"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "蹴",
+              "reading": "け"
+            },
+            {
+              "text": "っちゃった"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000029",
+      "order": 28,
+      "index": 28,
+      "start": 67.9265,
+      "end": 71.4455,
+      "japanese": "敵を庇っちゃった",
+      "zh-CN": "袒护对手",
+      "segments": [
+        {
+          "text": "敵を庇っちゃった",
+          "performerIds": [
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "敵",
+              "reading": "てき"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "庇",
+              "reading": "かば"
+            },
+            {
+              "text": "っちゃった"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000030",
+      "order": 29,
+      "index": 29,
+      "start": 71.4455,
+      "end": 74.9555,
+      "japanese": "自分を撃っちゃった",
+      "zh-CN": "对自己扣下扳机",
+      "segments": [
+        {
+          "text": "自分を撃っちゃった",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "自分",
+              "reading": "じぶん"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "撃",
+              "reading": "う"
+            },
+            {
+              "text": "っちゃった"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000031",
+      "order": 30,
+      "index": 30,
+      "start": 71.4455,
+      "end": 74.9555,
+      "japanese": "今日も大失敗",
+      "zh-CN": "今天仍是一败涂地",
+      "segments": [
+        {
+          "text": "今日も大失敗",
+          "performerIds": [
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "今日",
+              "reading": "きょう"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "大",
+              "reading": "だい"
+            },
+            {
+              "text": "失敗",
+              "reading": "しっぱい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000032",
+      "order": 31,
+      "index": 31,
+      "start": 74.9555,
+      "end": 78.2135,
+      "japanese": "アルティメットセンパイ",
+      "zh-CN": "哪怕是究极前辈",
+      "segments": [
+        {
+          "text": "アルティメットセンパイ",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "アルティメットセンパイ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000033",
+      "order": 32,
+      "index": 32,
+      "start": 74.9555,
+      "end": 78.2135,
+      "japanese": "でも やってやんよ絶対",
+      "zh-CN": "也绝不认输",
+      "segments": [
+        {
+          "text": "でも やってやんよ絶対",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "でも やってやんよ"
+            },
+            {
+              "text": "絶対",
+              "reading": "ぜったい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000034",
+      "order": 33,
+      "index": 33,
+      "start": 78.2135,
+      "end": 79.7245,
+      "japanese": "孤独に世界と戦っている",
+      "zh-CN": "孑然一身与世界为敌的",
+      "segments": [
+        {
+          "text": "孤独に世界と戦っている",
+          "performerIds": [
+            "歌唱者-15",
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "孤独",
+              "reading": "こどく"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "世界",
+              "reading": "せかい"
+            },
+            {
+              "text": "と"
+            },
+            {
+              "text": "戦",
+              "reading": "たたか"
+            },
+            {
+              "text": "っている"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000035",
+      "order": 34,
+      "index": 34,
+      "start": 79.7245,
+      "end": 84.7625,
+      "japanese": "アル・ティ・メット・センパイ",
+      "zh-CN": "究  极  前辈",
+      "segments": [
+        {
+          "text": "アル・ティ・メット・",
+          "performerIds": [
+            "歌唱者-15",
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "アル・ティ・メット・"
+            }
+          ]
+        },
+        {
+          "text": "センパイ",
+          "performerIds": [
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "センパイ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000036",
+      "order": 35,
+      "index": 35,
+      "start": 84.7625,
+      "end": 88.2735,
+      "japanese": "センパイ　センパイ",
+      "zh-CN": "前辈  前辈",
+      "segments": [
+        {
+          "text": "センパイ　",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "センパイ　"
+            }
+          ]
+        },
+        {
+          "text": "センパイ",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "センパイ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000037",
+      "order": 36,
+      "index": 36,
+      "start": 84.7625,
+      "end": 88.2735,
+      "japanese": "センパイ・センパイ・センパイ",
+      "zh-CN": "前辈•前辈•前辈",
+      "segments": [
+        {
+          "text": "センパイ・センパイ・センパイ",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "センパイ・センパイ・センパイ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000038",
+      "order": 37,
+      "index": 37,
+      "start": 88.2735,
+      "end": 91.5275,
+      "japanese": "アルティメットセンパイ (アルティメットセンパイ)",
+      "zh-CN": "究极前辈  （究极前辈）",
+      "segments": [
+        {
+          "text": "アルティメットセンパイ ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "アルティメットセンパイ "
+            }
+          ]
+        },
+        {
+          "text": "(アルティメットセンパイ)",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "(アルティメットセンパイ)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000039",
+      "order": 38,
+      "index": 38,
+      "start": 91.5275,
+      "end": 94.7885,
+      "japanese": "一体何考えてる　アルティメットセンパイ",
+      "zh-CN": "究竟在思考什么  究极前辈",
+      "segments": [
+        {
+          "text": "一体何考えてる　アルティメットセンパイ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "一体",
+              "reading": "いったい"
+            },
+            {
+              "text": "何",
+              "reading": "なに"
+            },
+            {
+              "text": "考",
+              "reading": "かんが"
+            },
+            {
+              "text": "えてる　アルティメットセンパイ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000040",
+      "order": 39,
+      "index": 39,
+      "start": 94.7885,
+      "end": 98.0385,
+      "japanese": "この世界の限界 (この世界の限界)",
+      "zh-CN": "这个世界直至尽头  （这个世界直至尽头）",
+      "segments": [
+        {
+          "text": "この世界の限界 ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "この"
+            },
+            {
+              "text": "世界",
+              "reading": "せかい"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "限界",
+              "reading": "げんかい"
+            },
+            {
+              "text": " "
+            }
+          ]
+        },
+        {
+          "text": "(この世界の限界)",
+          "performerIds": [
+            "歌唱者-15",
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "(この"
+            },
+            {
+              "text": "世界",
+              "reading": "せかい"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "限界",
+              "reading": "げんかい"
+            },
+            {
+              "text": ")"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000041",
+      "order": 40,
+      "index": 40,
+      "start": 98.0385,
+      "end": 102.5165,
+      "japanese": "上下左右に謀略いっぱい　しんどいな",
+      "zh-CN": "都充斥着算计  真是心力交瘁",
+      "segments": [
+        {
+          "text": "上下左右に謀略いっぱい　しんどいな",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "上下",
+              "reading": "じょうげ"
+            },
+            {
+              "text": "左右",
+              "reading": "さゆう"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "謀略",
+              "reading": "ぼうりゃく"
+            },
+            {
+              "text": "いっぱい　しんどいな"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000042",
+      "order": 41,
+      "index": 41,
+      "start": 102.5165,
+      "end": 106.2855,
+      "japanese": "また アルティメットセンパイ",
+      "zh-CN": "依旧  究极前辈",
+      "segments": [
+        {
+          "text": "また ",
+          "performerIds": [
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "また "
+            }
+          ]
+        },
+        {
+          "text": "アルティメットセンパイ",
+          "performerIds": [
+            "歌唱者-15",
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "アルティメットセンパイ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000043",
+      "order": 42,
+      "index": 42,
+      "start": 102.5165,
+      "end": 106.2855,
+      "japanese": "アルティメットセンパイ",
+      "zh-CN": "究极前辈",
+      "segments": [
+        {
+          "text": "アルティメットセンパイ",
+          "performerIds": [
+            "歌唱者-15",
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "アルティメットセンパイ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000044",
+      "order": 43,
+      "index": 43,
+      "start": 106.2855,
+      "end": 109.5475,
+      "japanese": "鳴かず飛ばずの毎日を　もがいているセンパイ",
+      "zh-CN": "在毫无起色的生活中挣扎的前辈",
+      "segments": [
+        {
+          "text": "鳴かず飛ばずの毎日を　もがいているセンパイ",
+          "performerIds": [
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "鳴",
+              "reading": "な"
+            },
+            {
+              "text": "かず"
+            },
+            {
+              "text": "飛",
+              "reading": "と"
+            },
+            {
+              "text": "ばずの"
+            },
+            {
+              "text": "毎日",
+              "reading": "まいにち"
+            },
+            {
+              "text": "を　もがいているセンパイ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000045",
+      "order": 44,
+      "index": 44,
+      "start": 109.5475,
+      "end": 113.0645,
+      "japanese": "アルティメットセンパイ",
+      "zh-CN": "究极前辈",
+      "segments": [
+        {
+          "text": "アルティメットセンパイ",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "アルティメットセンパイ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000046",
+      "order": 45,
+      "index": 45,
+      "start": 109.5475,
+      "end": 113.0645,
+      "japanese": "不安定な将来",
+      "zh-CN": "摇摇欲坠的未来",
+      "segments": [
+        {
+          "text": "不安定な将来",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "不安定",
+              "reading": "ふあんてい"
+            },
+            {
+              "text": "な"
+            },
+            {
+              "text": "将来",
+              "reading": "しょうらい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000047",
+      "order": 46,
+      "index": 46,
+      "start": 113.0645,
+      "end": 115.8185,
+      "japanese": "狂っているのは　一体　どっちだい？",
+      "zh-CN": "不正常的  究竟是哪一边呢？",
+      "segments": [
+        {
+          "text": "狂っているのは　一体　どっちだい？",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "狂",
+              "reading": "くる"
+            },
+            {
+              "text": "っているのは　"
+            },
+            {
+              "text": "一体",
+              "reading": "いったい"
+            },
+            {
+              "text": "　どっちだい？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000048",
+      "order": 47,
+      "index": 47,
+      "start": 115.8185,
+      "end": 119.5525,
+      "japanese": "ああ　今日も不安だな",
+      "zh-CN": "啊  今天囿于不安之中",
+      "segments": [
+        {
+          "text": "ああ　今日も不安だな",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "ああ　"
+            },
+            {
+              "text": "今日",
+              "reading": "きょう"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "不安",
+              "reading": "ふあん"
+            },
+            {
+              "text": "だな"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000049",
+      "order": 48,
+      "index": 48,
+      "start": 115.8185,
+      "end": 119.5525,
+      "japanese": "明日も不安だな",
+      "zh-CN": "明天也一成不变吧",
+      "segments": [
+        {
+          "text": "明日も不安だな",
+          "performerIds": [
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "明日",
+              "reading": "あす"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "不安",
+              "reading": "ふあん"
+            },
+            {
+              "text": "だな"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000050",
+      "order": 49,
+      "index": 49,
+      "start": 119.5525,
+      "end": 122.8265,
+      "japanese": "どうすりゃ正解か",
+      "zh-CN": "怎样做才是正确答案",
+      "segments": [
+        {
+          "text": "どうすりゃ正解か",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "どうすりゃ"
+            },
+            {
+              "text": "正解",
+              "reading": "せいかい"
+            },
+            {
+              "text": "か"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000051",
+      "order": 50,
+      "index": 50,
+      "start": 119.5525,
+      "end": 122.8265,
+      "japanese": "今は　わかんないや",
+      "zh-CN": "我至今搞不懂啊",
+      "segments": [
+        {
+          "text": "今は　わかんないや",
+          "performerIds": [
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "今",
+              "reading": "いま"
+            },
+            {
+              "text": "は　わかんないや"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000052",
+      "order": 51,
+      "index": 51,
+      "start": 122.8265,
+      "end": 126.0845,
+      "japanese": "アルティメットセンパイ",
+      "zh-CN": "哪怕是究极前辈",
+      "segments": [
+        {
+          "text": "アルティメットセンパイ",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "アルティメットセンパイ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000053",
+      "order": 52,
+      "index": 52,
+      "start": 122.8265,
+      "end": 126.0845,
+      "japanese": "でも やってやんよ絶対",
+      "zh-CN": "也绝不认输",
+      "segments": [
+        {
+          "text": "でも やってやんよ絶対",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "でも やってやんよ"
+            },
+            {
+              "text": "絶対",
+              "reading": "ぜったい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000054",
+      "order": 53,
+      "index": 53,
+      "start": 126.0845,
+      "end": 127.8595,
+      "japanese": "ゆっくり　地球は回っている",
+      "zh-CN": "地球仍在循规守矩地转动",
+      "segments": [
+        {
+          "text": "ゆっくり　地球は回っている",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "ゆっくり　"
+            },
+            {
+              "text": "地球",
+              "reading": "ちきゅう"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "回",
+              "reading": "まわ"
+            },
+            {
+              "text": "っている"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000055",
+      "order": 54,
+      "index": 54,
+      "start": 127.8595,
+      "end": 131.1245,
+      "japanese": "アル・ティ・メット・アル・ティ・メット",
+      "zh-CN": "究•极•  究•极•",
+      "segments": [
+        {
+          "text": "アル・ティ・メット・",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "アル・ティ・メット・"
+            }
+          ]
+        },
+        {
+          "text": "アル・ティ・メット",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "アル・ティ・メット"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000056",
+      "order": 55,
+      "index": 55,
+      "start": 131.1245,
+      "end": 138.9005,
+      "japanese": "アル・ティ・メット・センパイ",
+      "zh-CN": "究•极•前辈",
+      "segments": [
+        {
+          "text": "アル・ティ・メット・センパイ",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "アル・ティ・メット・センパイ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000057",
+      "order": 56,
+      "index": 56,
+      "start": 138.9005,
+      "end": 140.68613,
+      "japanese": "ああ",
+      "zh-CN": "啊",
+      "segments": [
+        {
+          "text": "ああ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ああ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    }
+  ]
+}

@@ -1,0 +1,1265 @@
+{
+  "music_id": 439,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "外部歌唱者-01",
+      "name": "GUMI"
+    },
+    {
+      "performerId": "外部歌唱者-03",
+      "name": "flower"
+    },
+    {
+      "performerId": "外部歌唱者-07",
+      "name": "KAFU"
+    },
+    {
+      "performerId": "外部歌唱者-09",
+      "name": "SEKAI"
+    },
+    {
+      "performerId": "外部歌唱者-12",
+      "name": "Kaai Yuki"
+    },
+    {
+      "performerId": "外部歌唱者-13",
+      "name": "Adachi Rei"
+    },
+    {
+      "performerId": "外部歌唱者-14",
+      "name": "RIME"
+    },
+    {
+      "performerId": "外部歌唱者-15",
+      "name": "Hanakuma Chifuyu"
+    },
+    {
+      "performerId": "外部歌唱者-16",
+      "name": "VY1"
+    },
+    {
+      "performerId": "外部歌唱者-17",
+      "name": "SOLARIA"
+    },
+    {
+      "performerId": "歌唱者-21",
+      "name": "初音ミク"
+    }
+  ],
+  "lines": [
+    {
+      "id": "full-000001",
+      "order": 0,
+      "index": 0,
+      "start": 9.86,
+      "end": 32.3525,
+      "japanese": "(laaa... laaa...)",
+      "zh-CN": "(laaa... laaa...)",
+      "segments": [
+        {
+          "text": "(laaa... laaa...)",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "(laaa... laaa...)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "full-000002",
+      "order": 1,
+      "index": 1,
+      "start": 32.3525,
+      "end": 34.7385,
+      "japanese": "「どこへ行こう」と話しかける",
+      "zh-CN": "试着搭话问“要去哪里呢”",
+      "segments": [
+        {
+          "text": "「どこへ行こう」と話しかける",
+          "performerIds": [
+            "外部歌唱者-03"
+          ],
+          "ruby": [
+            {
+              "text": "「どこへ"
+            },
+            {
+              "text": "行",
+              "reading": "い"
+            },
+            {
+              "text": "こう」と"
+            },
+            {
+              "text": "話",
+              "reading": "はな"
+            },
+            {
+              "text": "しかける"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "full-000003",
+      "order": 2,
+      "index": 2,
+      "start": 34.9385,
+      "end": 37.1595,
+      "japanese": "窓の中じきに春",
+      "zh-CN": "窗外春意将至",
+      "segments": [
+        {
+          "text": "窓の中じきに春",
+          "performerIds": [
+            "外部歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "窓",
+              "reading": "まど"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "中",
+              "reading": "なか"
+            },
+            {
+              "text": "じきに"
+            },
+            {
+              "text": "春",
+              "reading": "はる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "full-000004",
+      "order": 3,
+      "index": 3,
+      "start": 37.3595,
+      "end": 39.4925,
+      "japanese": "「そこへ行こう」と思いふける",
+      "zh-CN": "沉思着“就去那里吧”",
+      "segments": [
+        {
+          "text": "「そこへ行こう」と思いふける",
+          "performerIds": [
+            "外部歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "「そこへ"
+            },
+            {
+              "text": "行",
+              "reading": "い"
+            },
+            {
+              "text": "こう」と"
+            },
+            {
+              "text": "思",
+              "reading": "おも"
+            },
+            {
+              "text": "いふける"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "full-000005",
+      "order": 4,
+      "index": 4,
+      "start": 39.6125,
+      "end": 42.2975,
+      "japanese": "白紙の地図さえも持たずに",
+      "zh-CN": "连空白的地图都未曾带上",
+      "segments": [
+        {
+          "text": "白紙の地図さえも持たずに",
+          "performerIds": [
+            "外部歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "白紙",
+              "reading": "はくし"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "地図",
+              "reading": "ちず"
+            },
+            {
+              "text": "さえも"
+            },
+            {
+              "text": "持",
+              "reading": "も"
+            },
+            {
+              "text": "たずに"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "full-000006",
+      "order": 5,
+      "index": 5,
+      "start": 42.4975,
+      "end": 44.8025,
+      "japanese": "かわいいわがままを言って",
+      "zh-CN": "撒着可爱的小任性",
+      "segments": [
+        {
+          "text": "かわいいわがままを言って",
+          "performerIds": [
+            "外部歌唱者-09"
+          ],
+          "ruby": [
+            {
+              "text": "かわいいわがままを"
+            },
+            {
+              "text": "言",
+              "reading": "い"
+            },
+            {
+              "text": "って"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "full-000007",
+      "order": 6,
+      "index": 6,
+      "start": 45.0025,
+      "end": 47.3205,
+      "japanese": "その隣で歩きたいな",
+      "zh-CN": "好想并肩走在你的身旁",
+      "segments": [
+        {
+          "text": "その隣で歩きたいな",
+          "performerIds": [
+            "外部歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "その"
+            },
+            {
+              "text": "隣",
+              "reading": "となり"
+            },
+            {
+              "text": "で"
+            },
+            {
+              "text": "歩",
+              "reading": "ある"
+            },
+            {
+              "text": "きたいな"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "full-000008",
+      "order": 7,
+      "index": 7,
+      "start": 47.6545,
+      "end": 49.7855,
+      "japanese": "かっこいいことを言って",
+      "zh-CN": "说着帅气的话语",
+      "segments": [
+        {
+          "text": "かっこいいことを言って",
+          "performerIds": [
+            "外部歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "かっこいいことを"
+            },
+            {
+              "text": "言",
+              "reading": "い"
+            },
+            {
+              "text": "って"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "full-000009",
+      "order": 8,
+      "index": 8,
+      "start": 49.9855,
+      "end": 52.0015,
+      "japanese": "振り返って笑えるかな",
+      "zh-CN": "回过头能相视而笑吗",
+      "segments": [
+        {
+          "text": "振り返って笑えるかな",
+          "performerIds": [
+            "外部歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "振",
+              "reading": "ふ"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "返",
+              "reading": "かえ"
+            },
+            {
+              "text": "って"
+            },
+            {
+              "text": "笑",
+              "reading": "わら"
+            },
+            {
+              "text": "えるかな"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "full-000010",
+      "order": 9,
+      "index": 9,
+      "start": 52.2015,
+      "end": 54.8785,
+      "japanese": "退屈の土にまいた種が",
+      "zh-CN": "播撒在无聊泥土里的种子",
+      "segments": [
+        {
+          "text": "退屈の土にまいた種が",
+          "performerIds": [
+            "外部歌唱者-01",
+            "外部歌唱者-03",
+            "外部歌唱者-07",
+            "外部歌唱者-09",
+            "外部歌唱者-12",
+            "外部歌唱者-13",
+            "外部歌唱者-14",
+            "外部歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "退屈",
+              "reading": "たいくつ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "土",
+              "reading": "つち"
+            },
+            {
+              "text": "にまいた"
+            },
+            {
+              "text": "種",
+              "reading": "たね"
+            },
+            {
+              "text": "が"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "full-000011",
+      "order": 10,
+      "index": 10,
+      "start": 54.9015,
+      "end": 57.2015,
+      "japanese": "押し流されるような日々が",
+      "zh-CN": "被岁月冲刷流淌的日常",
+      "segments": [
+        {
+          "text": "押し流されるような日々が",
+          "performerIds": [
+            "外部歌唱者-01",
+            "外部歌唱者-03",
+            "外部歌唱者-07",
+            "外部歌唱者-09",
+            "外部歌唱者-12",
+            "外部歌唱者-13",
+            "外部歌唱者-14",
+            "外部歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "押",
+              "reading": "お"
+            },
+            {
+              "text": "し"
+            },
+            {
+              "text": "流",
+              "reading": "なが"
+            },
+            {
+              "text": "されるような"
+            },
+            {
+              "text": "日々",
+              "reading": "ひび"
+            },
+            {
+              "text": "が"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "full-000012",
+      "order": 11,
+      "index": 11,
+      "start": 57.4015,
+      "end": 59.7035,
+      "japanese": "ぬかるむ道を進みながら",
+      "zh-CN": "一边在泥泞的道路上行进",
+      "segments": [
+        {
+          "text": "ぬかるむ道を進みながら",
+          "performerIds": [
+            "外部歌唱者-01",
+            "外部歌唱者-03",
+            "外部歌唱者-07",
+            "外部歌唱者-09",
+            "外部歌唱者-12",
+            "外部歌唱者-13",
+            "外部歌唱者-14",
+            "外部歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "ぬかるむ"
+            },
+            {
+              "text": "道",
+              "reading": "みち"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "進",
+              "reading": "すす"
+            },
+            {
+              "text": "みながら"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "full-000013",
+      "order": 12,
+      "index": 12,
+      "start": 59.9035,
+      "end": 62.2205,
+      "japanese": "霧を晴らしながら",
+      "zh-CN": "一边驱散着迷雾",
+      "segments": [
+        {
+          "text": "霧を晴らしながら",
+          "performerIds": [
+            "外部歌唱者-01",
+            "外部歌唱者-03",
+            "外部歌唱者-07",
+            "外部歌唱者-09",
+            "外部歌唱者-12",
+            "外部歌唱者-13",
+            "外部歌唱者-14",
+            "外部歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "霧",
+              "reading": "きり"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "晴",
+              "reading": "は"
+            },
+            {
+              "text": "らしながら"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "full-000014",
+      "order": 13,
+      "index": 13,
+      "start": 62.4405,
+      "end": 64.4425,
+      "japanese": "一千光年先へ",
+      "zh-CN": "奔向一千光年的远方",
+      "segments": [
+        {
+          "text": "一千光年先へ",
+          "performerIds": [
+            "外部歌唱者-01",
+            "外部歌唱者-03",
+            "外部歌唱者-07",
+            "外部歌唱者-09",
+            "外部歌唱者-12",
+            "外部歌唱者-13",
+            "外部歌唱者-14",
+            "外部歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "一千光年先",
+              "reading": "いっせんこうねんさき"
+            },
+            {
+              "text": "へ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "full-000015",
+      "order": 14,
+      "index": 14,
+      "start": 64.6425,
+      "end": 66.7285,
+      "japanese": "途切れない音でおしえて",
+      "zh-CN": "用连绵不绝的声音告诉我吧",
+      "segments": [
+        {
+          "text": "途切れない音でおしえて",
+          "performerIds": [
+            "外部歌唱者-01",
+            "外部歌唱者-03",
+            "外部歌唱者-07",
+            "外部歌唱者-09",
+            "外部歌唱者-12",
+            "外部歌唱者-13",
+            "外部歌唱者-14",
+            "外部歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "途切",
+              "reading": "とぎ"
+            },
+            {
+              "text": "れない"
+            },
+            {
+              "text": "音",
+              "reading": "おと"
+            },
+            {
+              "text": "でおしえて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "full-000016",
+      "order": 15,
+      "index": 15,
+      "start": 66.9285,
+      "end": 70.5485,
+      "japanese": "その髪に光を編んでいたい",
+      "zh-CN": "好想将光芒编织进你的发丝",
+      "segments": [
+        {
+          "text": "その髪に光を編んでいたい",
+          "performerIds": [
+            "外部歌唱者-01",
+            "外部歌唱者-03",
+            "外部歌唱者-07",
+            "外部歌唱者-09",
+            "外部歌唱者-12",
+            "外部歌唱者-13",
+            "外部歌唱者-14",
+            "外部歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "その"
+            },
+            {
+              "text": "髪",
+              "reading": "かみ"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "光",
+              "reading": "ひかり"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "編",
+              "reading": "あ"
+            },
+            {
+              "text": "んでいたい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "full-000017",
+      "order": 16,
+      "index": 16,
+      "start": 72.0185,
+      "end": 74.5195,
+      "japanese": "昨日新しくした靴も",
+      "zh-CN": "昨天刚换上的新鞋子",
+      "segments": [
+        {
+          "text": "昨日新しくした靴も",
+          "performerIds": [
+            "外部歌唱者-01",
+            "外部歌唱者-03",
+            "外部歌唱者-07",
+            "外部歌唱者-09",
+            "外部歌唱者-12",
+            "外部歌唱者-13",
+            "外部歌唱者-14",
+            "外部歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "昨日",
+              "reading": "きのう"
+            },
+            {
+              "text": "新",
+              "reading": "あたら"
+            },
+            {
+              "text": "しくした"
+            },
+            {
+              "text": "靴",
+              "reading": "くつ"
+            },
+            {
+              "text": "も"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "full-000018",
+      "order": 17,
+      "index": 17,
+      "start": 74.6415,
+      "end": 76.1075,
+      "japanese": "すぐにほつれちゃうから 愛おし",
+      "zh-CN": "也很快便磨损开线 令我心生",
+      "segments": [
+        {
+          "text": "すぐにほつれちゃうから 愛おし",
+          "performerIds": [
+            "外部歌唱者-01",
+            "外部歌唱者-03",
+            "外部歌唱者-07",
+            "外部歌唱者-09",
+            "外部歌唱者-12",
+            "外部歌唱者-13",
+            "外部歌唱者-14",
+            "外部歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "すぐにほつれちゃうから "
+            },
+            {
+              "text": "愛",
+              "reading": "あい"
+            },
+            {
+              "text": "おし"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "full-000019",
+      "order": 18,
+      "index": 18,
+      "start": 76.1075,
+      "end": 76.3905,
+      "japanese": "いんだ",
+      "zh-CN": "怜爱",
+      "segments": [
+        {
+          "text": "いんだ",
+          "performerIds": [
+            "外部歌唱者-01",
+            "外部歌唱者-03",
+            "外部歌唱者-07",
+            "外部歌唱者-09",
+            "外部歌唱者-12",
+            "外部歌唱者-13",
+            "外部歌唱者-14",
+            "外部歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "いんだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "full-000020",
+      "order": 19,
+      "index": 19,
+      "start": 76.4765,
+      "end": 77.1745,
+      "japanese": "生きていても",
+      "zh-CN": "无论是活着",
+      "segments": [
+        {
+          "text": "生きていても",
+          "performerIds": [
+            "外部歌唱者-01",
+            "外部歌唱者-03",
+            "外部歌唱者-07",
+            "外部歌唱者-09",
+            "外部歌唱者-12",
+            "外部歌唱者-13",
+            "外部歌唱者-14",
+            "外部歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "生",
+              "reading": "い"
+            },
+            {
+              "text": "きていても"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "full-000021",
+      "order": 20,
+      "index": 20,
+      "start": 77.3265,
+      "end": 77.9435,
+      "japanese": "死んでいても",
+      "zh-CN": "还是逝去",
+      "segments": [
+        {
+          "text": "死んでいても",
+          "performerIds": [
+            "外部歌唱者-01",
+            "外部歌唱者-03",
+            "外部歌唱者-07",
+            "外部歌唱者-09",
+            "外部歌唱者-12",
+            "外部歌唱者-13",
+            "外部歌唱者-14",
+            "外部歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "死",
+              "reading": "し"
+            },
+            {
+              "text": "んでいても"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "full-000022",
+      "order": 21,
+      "index": 21,
+      "start": 77.9775,
+      "end": 79.5615,
+      "japanese": "どっちでもいいんだよ",
+      "zh-CN": "怎样都无所谓",
+      "segments": [
+        {
+          "text": "どっちでもいいんだよ",
+          "performerIds": [
+            "外部歌唱者-01",
+            "外部歌唱者-03",
+            "外部歌唱者-07",
+            "外部歌唱者-09",
+            "外部歌唱者-12",
+            "外部歌唱者-13",
+            "外部歌唱者-14",
+            "外部歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "どっちでもいいんだよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "full-000023",
+      "order": 22,
+      "index": 22,
+      "start": 79.6625,
+      "end": 81.6855,
+      "japanese": "愛があるだけ",
+      "zh-CN": "只要心中有爱",
+      "segments": [
+        {
+          "text": "愛があるだけ",
+          "performerIds": [
+            "外部歌唱者-01",
+            "外部歌唱者-03",
+            "外部歌唱者-07",
+            "外部歌唱者-09",
+            "外部歌唱者-12",
+            "外部歌唱者-13",
+            "外部歌唱者-14",
+            "外部歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "愛",
+              "reading": "あい"
+            },
+            {
+              "text": "があるだけ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "full-000024",
+      "order": 23,
+      "index": 23,
+      "start": 82.3535,
+      "end": 84.6595,
+      "japanese": "恋焦がれても 触れられるのは",
+      "zh-CN": "纵使相思成疾 能够触碰到的",
+      "segments": [
+        {
+          "text": "恋焦がれても 触れられるのは",
+          "performerIds": [
+            "外部歌唱者-01",
+            "外部歌唱者-03",
+            "外部歌唱者-07",
+            "外部歌唱者-09",
+            "外部歌唱者-12",
+            "外部歌唱者-13",
+            "外部歌唱者-14",
+            "外部歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "恋焦",
+              "reading": "こいこ"
+            },
+            {
+              "text": "がれても "
+            },
+            {
+              "text": "触",
+              "reading": "ふ"
+            },
+            {
+              "text": "れられるのは"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "full-000025",
+      "order": 24,
+      "index": 24,
+      "start": 84.8595,
+      "end": 87.144,
+      "japanese": "夢の中だけ",
+      "zh-CN": "也唯有在梦境之中",
+      "segments": [
+        {
+          "text": "夢の中だけ",
+          "performerIds": [
+            "外部歌唱者-01",
+            "外部歌唱者-03",
+            "外部歌唱者-07",
+            "外部歌唱者-09",
+            "外部歌唱者-12",
+            "外部歌唱者-13",
+            "外部歌唱者-14",
+            "外部歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "夢",
+              "reading": "ゆめ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "中",
+              "reading": "なか"
+            },
+            {
+              "text": "だけ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "full-000026",
+      "order": 25,
+      "index": 25,
+      "start": 87.3325,
+      "end": 89.5185,
+      "japanese": "大事なことは忘れないのが",
+      "zh-CN": "未曾遗忘重要之事",
+      "segments": [
+        {
+          "text": "大事なことは忘れないのが",
+          "performerIds": [
+            "外部歌唱者-01",
+            "外部歌唱者-03",
+            "外部歌唱者-07",
+            "外部歌唱者-09",
+            "外部歌唱者-12",
+            "外部歌唱者-13",
+            "外部歌唱者-14",
+            "外部歌唱者-15",
+            "外部歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "大事",
+              "reading": "だいじ"
+            },
+            {
+              "text": "なことは"
+            },
+            {
+              "text": "忘",
+              "reading": "わす"
+            },
+            {
+              "text": "れないのが"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "full-000027",
+      "order": 26,
+      "index": 26,
+      "start": 89.5685,
+      "end": 91.5375,
+      "japanese": "嬉しかっただけ",
+      "zh-CN": "仅仅是为此感到开心而已",
+      "segments": [
+        {
+          "text": "嬉しかっただけ",
+          "performerIds": [
+            "外部歌唱者-01",
+            "外部歌唱者-03",
+            "外部歌唱者-07",
+            "外部歌唱者-09",
+            "外部歌唱者-12",
+            "外部歌唱者-13",
+            "外部歌唱者-14",
+            "外部歌唱者-15",
+            "外部歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "嬉",
+              "reading": "うれ"
+            },
+            {
+              "text": "しかっただけ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "full-000028",
+      "order": 27,
+      "index": 27,
+      "start": 91.7375,
+      "end": 93.8075,
+      "japanese": "the light will lead us to the stage.",
+      "zh-CN": "the light will lead us to the stage.",
+      "segments": [
+        {
+          "text": "the light will lead us to the stage.",
+          "performerIds": [
+            "外部歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "the light will lead us to the stage."
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "full-000029",
+      "order": 28,
+      "index": 28,
+      "start": 94.0075,
+      "end": 96.4775,
+      "japanese": "someday we'll reach for the star.",
+      "zh-CN": "someday we'll reach for the star.",
+      "segments": [
+        {
+          "text": "someday we'll reach for the star.",
+          "performerIds": [
+            "外部歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "someday we'll reach for the star."
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "full-000030",
+      "order": 29,
+      "index": 29,
+      "start": 99.5645,
+      "end": 102.3025,
+      "japanese": "(嬉しかっただけ)",
+      "zh-CN": "(仅仅是为此感到开心而已)",
+      "segments": [
+        {
+          "text": "(嬉しかっただけ)",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "("
+            },
+            {
+              "text": "嬉",
+              "reading": "うれ"
+            },
+            {
+              "text": "しかっただけ)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "full-000031",
+      "order": 30,
+      "index": 30,
+      "start": 101.74,
+      "end": 104.08,
+      "japanese": "(the light will lead us to the stage.",
+      "zh-CN": "(the light will lead us to the stage.",
+      "segments": [
+        {
+          "text": "(the light will lead us to the stage.",
+          "performerIds": [
+            "外部歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "(the light will lead us to the stage."
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "full-000032",
+      "order": 31,
+      "index": 31,
+      "start": 104.24,
+      "end": 106.42,
+      "japanese": "someday we'll reach for the star.)",
+      "zh-CN": "someday we'll reach for the star.)",
+      "segments": [
+        {
+          "text": "someday we'll reach for the star.)",
+          "performerIds": [
+            "外部歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "someday we'll reach for the star.)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "full-000033",
+      "order": 32,
+      "index": 32,
+      "start": 121.34,
+      "end": 121.65,
+      "japanese": "(uuah!)",
+      "zh-CN": "(uuah!)",
+      "segments": [
+        {
+          "text": "(uuah!)",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "(uuah!)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    }
+  ]
+}

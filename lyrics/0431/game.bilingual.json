@@ -1,0 +1,1294 @@
+{
+  "music_id": 431,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-05",
+      "name": "花里みのり"
+    },
+    {
+      "performerId": "歌唱者-06",
+      "name": "桐谷遥"
+    },
+    {
+      "performerId": "歌唱者-07",
+      "name": "桃井愛莉"
+    },
+    {
+      "performerId": "歌唱者-08",
+      "name": "日野森雫"
+    },
+    {
+      "performerId": "歌唱者-21",
+      "name": "初音ミク"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 9.2425,
+      "end": 13.3225,
+      "japanese": "ダフニー, フィークス, アイリス, マーキア, ",
+      "zh-CN": "瑞香，无花果，鸢尾，朝鲜槐，",
+      "segments": [
+        {
+          "text": "ダフニー, ",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "ダフニー, "
+            }
+          ]
+        },
+        {
+          "text": "フィークス, ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "フィークス, "
+            }
+          ]
+        },
+        {
+          "text": "アイリス, ",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "アイリス, "
+            }
+          ]
+        },
+        {
+          "text": "マーキア, ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "マーキア, "
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 13.3225,
+      "end": 23.9995,
+      "japanese": "リスラム, ミリカ, サビア, フロース",
+      "zh-CN": "千屈菜，杨梅，清风藤，花",
+      "segments": [
+        {
+          "text": "リスラム, ",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "リスラム, "
+            }
+          ]
+        },
+        {
+          "text": "ミリカ, ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ミリカ, "
+            }
+          ]
+        },
+        {
+          "text": "サビア, ",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "サビア, "
+            }
+          ]
+        },
+        {
+          "text": "フロース",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "フロース"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 25.4235,
+      "end": 26.4535,
+      "japanese": "拝啓",
+      "zh-CN": "拜启",
+      "segments": [
+        {
+          "text": "拝啓",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "拝啓",
+              "reading": "はいけい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 26.4535,
+      "end": 33.4785,
+      "japanese": "僕の願いよ 未来よ",
+      "zh-CN": "我的心愿啊 未来啊",
+      "segments": [
+        {
+          "text": "僕の願いよ 未来よ",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "願",
+              "reading": "ねが"
+            },
+            {
+              "text": "いよ "
+            },
+            {
+              "text": "未来",
+              "reading": "みらい"
+            },
+            {
+              "text": "よ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 26.4535,
+      "end": 33.4785,
+      "japanese": "絶え間無い後悔よ",
+      "zh-CN": "连绵不绝的悔恨啊",
+      "segments": [
+        {
+          "text": "絶え間無い後悔よ",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "絶",
+              "reading": "た"
+            },
+            {
+              "text": "え"
+            },
+            {
+              "text": "間無",
+              "reading": "まな"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "後悔",
+              "reading": "こうかい"
+            },
+            {
+              "text": "よ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 33.4785,
+      "end": 40.8275,
+      "japanese": "体感八度五分の",
+      "zh-CN": "体温三十八度五的",
+      "segments": [
+        {
+          "text": "体感八度五分の",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "体感八度五分",
+              "reading": "たいかんはちどごぶん"
+            },
+            {
+              "text": "の"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 33.4785,
+      "end": 40.8275,
+      "japanese": "夢は軈て散ってしまった",
+      "zh-CN": "梦境终究凋零殆尽",
+      "segments": [
+        {
+          "text": "夢は軈て散ってしまった",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "夢",
+              "reading": "ゆめ"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "軈",
+              "reading": "やが"
+            },
+            {
+              "text": "て"
+            },
+            {
+              "text": "散",
+              "reading": "ち"
+            },
+            {
+              "text": "ってしまった"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 41.5425,
+      "end": 49.3125,
+      "japanese": "本音を挿し罅割れた今日",
+      "zh-CN": "吐露真心而破裂的今日",
+      "segments": [
+        {
+          "text": "本音を挿し罅割れた今日",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "本音",
+              "reading": "ほんね"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "挿",
+              "reading": "さ"
+            },
+            {
+              "text": "し"
+            },
+            {
+              "text": "罅割",
+              "reading": "ひびわ"
+            },
+            {
+              "text": "れた"
+            },
+            {
+              "text": "今日",
+              "reading": "きょうを"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 41.5425,
+      "end": 49.3125,
+      "japanese": "を溢れた一切に",
+      "zh-CN": "向溢出的所有一切",
+      "segments": [
+        {
+          "text": "を溢れた一切に",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "を"
+            },
+            {
+              "text": "溢",
+              "reading": "あふ"
+            },
+            {
+              "text": "れた"
+            },
+            {
+              "text": "一切",
+              "reading": "いっさい"
+            },
+            {
+              "text": "に"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 49.3125,
+      "end": 53.5615,
+      "japanese": "薪を焼べて風に乗せて",
+      "zh-CN": "添柴焚烧 随风飘散",
+      "segments": [
+        {
+          "text": "薪を焼べて風に乗せて",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "薪",
+              "reading": "まき"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "焼",
+              "reading": "く"
+            },
+            {
+              "text": "べて"
+            },
+            {
+              "text": "風",
+              "reading": "かぜ"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "乗",
+              "reading": "の"
+            },
+            {
+              "text": "せて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 49.3125,
+      "end": 53.5615,
+      "japanese": "錆びた空を彩る",
+      "zh-CN": "点缀着锈蚀的天空",
+      "segments": [
+        {
+          "text": "錆びた空を彩る",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "錆",
+              "reading": "さ"
+            },
+            {
+              "text": "びた"
+            },
+            {
+              "text": "空",
+              "reading": "そら"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "彩",
+              "reading": "いろど"
+            },
+            {
+              "text": "る"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 57.6085,
+      "end": 61.8045,
+      "japanese": "燻んだ日々を丁寧に",
+      "zh-CN": "将黯淡无光的日子细细",
+      "segments": [
+        {
+          "text": "燻んだ日々を丁寧に",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "燻",
+              "reading": "くす"
+            },
+            {
+              "text": "んだ"
+            },
+            {
+              "text": "日々",
+              "reading": "ひびをて"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "丁",
+              "reading": "に"
+            },
+            {
+              "text": "寧",
+              "reading": "ねい"
+            },
+            {
+              "text": "に"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 61.8045,
+      "end": 65.8905,
+      "japanese": "飾った花は直ぐに枯れてく",
+      "zh-CN": "装点起的花朵转瞬枯萎",
+      "segments": [
+        {
+          "text": "飾った花は直ぐに枯れてく",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "飾",
+              "reading": "かざ"
+            },
+            {
+              "text": "った"
+            },
+            {
+              "text": "花",
+              "reading": "はな"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "直",
+              "reading": "す"
+            },
+            {
+              "text": "ぐに"
+            },
+            {
+              "text": "枯",
+              "reading": "か"
+            },
+            {
+              "text": "れてく"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 65.8905,
+      "end": 69.9435,
+      "japanese": "愚鈍な僕は夢から覚めて",
+      "zh-CN": "愚钝的我从梦中惊醒",
+      "segments": [
+        {
+          "text": "愚鈍な僕は夢から覚めて",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "愚鈍",
+              "reading": "ぐどん"
+            },
+            {
+              "text": "な"
+            },
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "夢",
+              "reading": "ゆめ"
+            },
+            {
+              "text": "から"
+            },
+            {
+              "text": "覚",
+              "reading": "さ"
+            },
+            {
+              "text": "めて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 69.9435,
+      "end": 76.3695,
+      "japanese": "縋った意味も無いな",
+      "zh-CN": "依附托付也毫无意义啊",
+      "segments": [
+        {
+          "text": "縋った意味も無いな",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "縋",
+              "reading": "すが"
+            },
+            {
+              "text": "った"
+            },
+            {
+              "text": "意味",
+              "reading": "いみ"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "無",
+              "reading": "な"
+            },
+            {
+              "text": "いな"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 82.45387,
+      "end": 90.11688,
+      "japanese": "木漏れ日の中に柔らかく",
+      "zh-CN": "树影斑驳中轻柔",
+      "segments": [
+        {
+          "text": "木漏れ日の中に柔らかく",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "木漏",
+              "reading": "こも"
+            },
+            {
+              "text": "れ"
+            },
+            {
+              "text": "日",
+              "reading": "び"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "中",
+              "reading": "の"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "柔",
+              "reading": "な"
+            },
+            {
+              "text": "らかく"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 82.45387,
+      "end": 90.11688,
+      "japanese": "咲いた花は",
+      "zh-CN": "盛开的花朵",
+      "segments": [
+        {
+          "text": "咲いた花は",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "咲",
+              "reading": "やわらかくさ"
+            },
+            {
+              "text": "いた"
+            },
+            {
+              "text": "花",
+              "reading": "はな"
+            },
+            {
+              "text": "は"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 90.11688,
+      "end": 96.52487,
+      "japanese": "雲の上で 違う星で",
+      "zh-CN": "在云端之上 在另一颗星球上",
+      "segments": [
+        {
+          "text": "雲の上で 違う星で",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "雲",
+              "reading": "くも"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "上",
+              "reading": "うえ"
+            },
+            {
+              "text": "で "
+            },
+            {
+              "text": "違",
+              "reading": "ちが"
+            },
+            {
+              "text": "う"
+            },
+            {
+              "text": "星",
+              "reading": "ほし"
+            },
+            {
+              "text": "で"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 90.11688,
+      "end": 96.52487,
+      "japanese": "夢の先で揺れてる",
+      "zh-CN": "在梦境的尽头摇曳",
+      "segments": [
+        {
+          "text": "夢の先で揺れてる",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "夢",
+              "reading": "ゆめ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "先",
+              "reading": "さき"
+            },
+            {
+              "text": "で"
+            },
+            {
+              "text": "揺",
+              "reading": "ゆ"
+            },
+            {
+              "text": "れてる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 98.28587,
+      "end": 102.41388,
+      "japanese": "燻んだ日々を丁寧に",
+      "zh-CN": "将黯淡无光的日子细细",
+      "segments": [
+        {
+          "text": "燻んだ日々を丁寧に",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "燻",
+              "reading": "くす"
+            },
+            {
+              "text": "んだ"
+            },
+            {
+              "text": "日々",
+              "reading": "ひびをて"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "丁",
+              "reading": "に"
+            },
+            {
+              "text": "寧",
+              "reading": "ねい"
+            },
+            {
+              "text": "に"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 102.41388,
+      "end": 106.5005,
+      "japanese": "飾った花は直ぐに枯れてく",
+      "zh-CN": "装点起的花朵转瞬枯萎",
+      "segments": [
+        {
+          "text": "飾った花は直ぐに枯れてく",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "飾",
+              "reading": "かざ"
+            },
+            {
+              "text": "った"
+            },
+            {
+              "text": "花",
+              "reading": "はな"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "直",
+              "reading": "す"
+            },
+            {
+              "text": "ぐに"
+            },
+            {
+              "text": "枯",
+              "reading": "か"
+            },
+            {
+              "text": "れてく"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 106.62525,
+      "end": 110.51625,
+      "japanese": "不遇な僕ら夢に敗れて",
+      "zh-CN": "不幸的我们在梦境中败退",
+      "segments": [
+        {
+          "text": "不遇な僕ら夢に敗れて",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "不遇",
+              "reading": "ふぐう"
+            },
+            {
+              "text": "な"
+            },
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "ら"
+            },
+            {
+              "text": "夢",
+              "reading": "ゆめ"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "敗",
+              "reading": "やぶ"
+            },
+            {
+              "text": "れて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000023",
+      "order": 22,
+      "index": 22,
+      "start": 110.51625,
+      "end": 112.64925,
+      "japanese": "誓った筈も無かった事にした",
+      "zh-CN": "就当那立下的誓言从未存在过",
+      "segments": [
+        {
+          "text": "誓った筈も無かった事にした",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "誓",
+              "reading": "ちか"
+            },
+            {
+              "text": "った"
+            },
+            {
+              "text": "筈",
+              "reading": "はず"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "無",
+              "reading": "な"
+            },
+            {
+              "text": "かった"
+            },
+            {
+              "text": "事",
+              "reading": "こと"
+            },
+            {
+              "text": "にした"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000024",
+      "order": 23,
+      "index": 23,
+      "start": 115.06925,
+      "end": 118.87525,
+      "japanese": "ダフニー, フィークス, アイリス, マーキア, ",
+      "zh-CN": "瑞香，无花果，鸢尾，朝鲜槐，",
+      "segments": [
+        {
+          "text": "ダフニー, ",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "ダフニー, "
+            }
+          ]
+        },
+        {
+          "text": "フィークス, ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "フィークス, "
+            }
+          ]
+        },
+        {
+          "text": "アイリス, ",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "アイリス, "
+            }
+          ]
+        },
+        {
+          "text": "マーキア, ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "マーキア, "
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000025",
+      "order": 24,
+      "index": 24,
+      "start": 118.87525,
+      "end": 121.09525,
+      "japanese": "リスラム, ミリカ, サビア",
+      "zh-CN": "千屈菜，杨梅，清风藤",
+      "segments": [
+        {
+          "text": "リスラム, ",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "リスラム, "
+            }
+          ]
+        },
+        {
+          "text": "ミリカ, ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ミリカ, "
+            }
+          ]
+        },
+        {
+          "text": "サビア",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "サビア"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000026",
+      "order": 25,
+      "index": 25,
+      "start": 123.02775,
+      "end": 127.19975,
+      "japanese": "サイマス, リベス, アベリア, セダム",
+      "zh-CN": "百里香，醋栗，六道木，景天",
+      "segments": [
+        {
+          "text": "サイマス, ",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "サイマス, "
+            }
+          ]
+        },
+        {
+          "text": "リベス, ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "リベス, "
+            }
+          ]
+        },
+        {
+          "text": "アベリア, ",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "アベリア, "
+            }
+          ]
+        },
+        {
+          "text": "セダム",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "セダム"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000027",
+      "order": 26,
+      "index": 26,
+      "start": 127.19975,
+      "end": 134.004,
+      "japanese": "フェリシア, オクナ, リクニス, フロース",
+      "zh-CN": "蓝雏菊，梦鼠木，剪秋罗，花",
+      "segments": [
+        {
+          "text": "フェリシア, ",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "フェリシア, "
+            }
+          ]
+        },
+        {
+          "text": "オクナ, ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "オクナ, "
+            }
+          ]
+        },
+        {
+          "text": "リクニス, ",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "リクニス, "
+            }
+          ]
+        },
+        {
+          "text": "フロース",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "フロース"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

@@ -1,0 +1,1039 @@
+{
+  "music_id": 474,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-05",
+      "name": "花里みのり"
+    },
+    {
+      "performerId": "歌唱者-06",
+      "name": "桐谷遥"
+    },
+    {
+      "performerId": "歌唱者-07",
+      "name": "桃井愛莉"
+    },
+    {
+      "performerId": "歌唱者-08",
+      "name": "日野森雫"
+    },
+    {
+      "performerId": "歌唱者-22",
+      "name": "鏡音リン"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 20.804,
+      "end": 25.714,
+      "japanese": "好きか嫌いかの 二元論",
+      "zh-CN": "喜欢还是讨厌的 二元论",
+      "segments": [
+        {
+          "text": "好きか嫌いかの 二元論",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "好",
+              "reading": "す"
+            },
+            {
+              "text": "きか"
+            },
+            {
+              "text": "嫌",
+              "reading": "きら"
+            },
+            {
+              "text": "いかの "
+            },
+            {
+              "text": "二元論",
+              "reading": "にげんろん"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 20.804,
+      "end": 25.714,
+      "japanese": "どちらかといえば 好きですが",
+      "zh-CN": "硬要说的话 虽然更偏向喜欢",
+      "segments": [
+        {
+          "text": "どちらかといえば 好きですが",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "どちらかといえば "
+            },
+            {
+              "text": "好",
+              "reading": "す"
+            },
+            {
+              "text": "きですが"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 25.714,
+      "end": 30.663,
+      "japanese": "乗りかかった船 止めちゃうほど",
+      "zh-CN": "但我可还没沦落到",
+      "segments": [
+        {
+          "text": "乗りかかった船 止めちゃうほど",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "乗",
+              "reading": "の"
+            },
+            {
+              "text": "りかかった"
+            },
+            {
+              "text": "船",
+              "reading": "ふね"
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "止",
+              "reading": "と"
+            },
+            {
+              "text": "めちゃうほど"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 25.714,
+      "end": 30.663,
+      "japanese": "落ちぶれていないよ わかるでしょ",
+      "zh-CN": "放弃已然起航的方舟的程度 明白吧",
+      "segments": [
+        {
+          "text": "落ちぶれていないよ わかるでしょ",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "落",
+              "reading": "お"
+            },
+            {
+              "text": "ちぶれていないよ わかるでしょ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 30.663,
+      "end": 35.654,
+      "japanese": "予想外不安も 結構です",
+      "zh-CN": "意料之外的不安 也求之不得",
+      "segments": [
+        {
+          "text": "予想外不安も 結構です",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "予想外不安",
+              "reading": "よそうがいふあん"
+            },
+            {
+              "text": "も "
+            },
+            {
+              "text": "結構",
+              "reading": "けっこう"
+            },
+            {
+              "text": "です"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 30.663,
+      "end": 35.654,
+      "japanese": "こちらトラブル続き 人生邁進",
+      "zh-CN": "我这边可是麻烦不断 人生大步向前",
+      "segments": [
+        {
+          "text": "こちらトラブル続き 人生邁進",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "こちらトラブル"
+            },
+            {
+              "text": "続",
+              "reading": "つず"
+            },
+            {
+              "text": "き "
+            },
+            {
+              "text": "人生邁進",
+              "reading": "じんせいまいしん"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 35.654,
+      "end": 40.612,
+      "japanese": "行先なんて 二の次なんです",
+      "zh-CN": "目的地什么的 不过是次要的事",
+      "segments": [
+        {
+          "text": "行先なんて 二の次なんです",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "行先",
+              "reading": "いきさき"
+            },
+            {
+              "text": "なんて "
+            },
+            {
+              "text": "二",
+              "reading": "に"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "次",
+              "reading": "つぎ"
+            },
+            {
+              "text": "なんです"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 35.654,
+      "end": 40.612,
+      "japanese": "キラーチューン 聴こえてるでしょ",
+      "zh-CN": "必杀神曲 听到了吧",
+      "segments": [
+        {
+          "text": "キラーチューン 聴こえてるでしょ",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "キラーチューン "
+            },
+            {
+              "text": "聴",
+              "reading": "き"
+            },
+            {
+              "text": "こえてるでしょ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 40.612,
+      "end": 45.67,
+      "japanese": "アクセルしか 踏まないよ",
+      "zh-CN": "唯独踩死油门到底",
+      "segments": [
+        {
+          "text": "アクセルしか 踏まないよ",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "アクセルしか "
+            },
+            {
+              "text": "踏",
+              "reading": "ふ"
+            },
+            {
+              "text": "まないよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 40.612,
+      "end": 45.67,
+      "japanese": "止まり方なんて 必要ない ドリフターじゃん",
+      "zh-CN": "停下来的方法 根本不需要 毕竟我们是漂移手嘛",
+      "segments": [
+        {
+          "text": "止まり方なんて 必要ない ドリフターじゃん",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "止",
+              "reading": "と"
+            },
+            {
+              "text": "まり"
+            },
+            {
+              "text": "方",
+              "reading": "かた"
+            },
+            {
+              "text": "なんて "
+            },
+            {
+              "text": "必要",
+              "reading": "ひつよう"
+            },
+            {
+              "text": "ない ドリフターじゃん"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 45.67,
+      "end": 49.247,
+      "japanese": "涙もエンタメになる カメラとめんなよ",
+      "zh-CN": "就连泪水也能化作娱乐 镜头别停啊",
+      "segments": [
+        {
+          "text": "涙もエンタメになる カメラとめんなよ",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "涙",
+              "reading": "なみだ"
+            },
+            {
+              "text": "もエンタメになる カメラとめんなよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 49.205437,
+      "end": 50.298783,
+      "japanese": "（ハイチーズ！）",
+      "zh-CN": "（茄子！）",
+      "segments": [
+        {
+          "text": "（ハイチーズ！）",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "（ハイチーズ！）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 50.298783,
+      "end": 52.633387,
+      "japanese": "不甲斐ない 私でもずっと",
+      "zh-CN": "哪怕是不成器的 我",
+      "segments": [
+        {
+          "text": "不甲斐ない 私でもずっと",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "不甲斐",
+              "reading": "ふがい"
+            },
+            {
+              "text": "ない "
+            },
+            {
+              "text": "私",
+              "reading": "わたし"
+            },
+            {
+              "text": "でもずっと"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 52.633387,
+      "end": 54.763113,
+      "japanese": "歩いてきた 道がある",
+      "zh-CN": "也有着一路走来的 足迹",
+      "segments": [
+        {
+          "text": "歩いてきた 道がある",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "歩",
+              "reading": "ある"
+            },
+            {
+              "text": "いてきた "
+            },
+            {
+              "text": "道",
+              "reading": "みち"
+            },
+            {
+              "text": "がある"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 54.763113,
+      "end": 59.503278,
+      "japanese": "つまり どうでもいい",
+      "zh-CN": "也就是说 无所谓的",
+      "segments": [
+        {
+          "text": "つまり どうでもいい",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "つまり どうでもいい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 54.763113,
+      "end": 59.503278,
+      "japanese": "ことなど何も なかったんだよ",
+      "zh-CN": "事情从始至终 一件都没有啊",
+      "segments": [
+        {
+          "text": "ことなど何も なかったんだよ",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "ことなど"
+            },
+            {
+              "text": "何",
+              "reading": "なに"
+            },
+            {
+              "text": "も なかったんだよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 59.687168,
+      "end": 64.899051,
+      "japanese": "私混乱上々 いつだって",
+      "zh-CN": "我混乱大吉 无论何时",
+      "segments": [
+        {
+          "text": "私混乱上々 いつだって",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-08",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "私混乱上々",
+              "reading": "わたしこんらんじょうじょう"
+            },
+            {
+              "text": " いつだって"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 59.687168,
+      "end": 64.899051,
+      "japanese": "現場が最前線さ",
+      "zh-CN": "现场就是最前线啊",
+      "segments": [
+        {
+          "text": "現場が最前線さ",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-08",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "現場",
+              "reading": "ここ"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "最前線",
+              "reading": "さいぜんせん"
+            },
+            {
+              "text": "さ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 65.103928,
+      "end": 68.755744,
+      "japanese": "最後まで 目を離さないで",
+      "zh-CN": "直到最后 视线都别移开",
+      "segments": [
+        {
+          "text": "最後まで 目を離さないで",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-08",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "最後",
+              "reading": "さいご"
+            },
+            {
+              "text": "まで "
+            },
+            {
+              "text": "目",
+              "reading": "め"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "離",
+              "reading": "はな"
+            },
+            {
+              "text": "さないで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 69.895173,
+      "end": 73.716887,
+      "japanese": "最後まで 私 負けないから",
+      "zh-CN": "直到最后 我绝不会认输",
+      "segments": [
+        {
+          "text": "最後まで 私 負けないから",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "最後",
+              "reading": "さいご"
+            },
+            {
+              "text": "まで "
+            },
+            {
+              "text": "私",
+              "reading": "わたし"
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "負",
+              "reading": "ま"
+            },
+            {
+              "text": "けないから"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 74.554386,
+      "end": 76.991928,
+      "japanese": "出会った日の きらめき",
+      "zh-CN": "相遇之日的 璀璨光芒",
+      "segments": [
+        {
+          "text": "出会った日の きらめき",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "出会",
+              "reading": "であ"
+            },
+            {
+              "text": "った"
+            },
+            {
+              "text": "日",
+              "reading": "ひ"
+            },
+            {
+              "text": "の きらめき"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 77.182814,
+      "end": 79.494431,
+      "japanese": "飾ってた 偽りも",
+      "zh-CN": "曾经装点的 虚伪假面",
+      "segments": [
+        {
+          "text": "飾ってた 偽りも",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "飾",
+              "reading": "かざ"
+            },
+            {
+              "text": "ってた "
+            },
+            {
+              "text": "偽",
+              "reading": "いつわ"
+            },
+            {
+              "text": "りも"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000023",
+      "order": 22,
+      "index": 22,
+      "start": 79.709303,
+      "end": 81.834032,
+      "japanese": "疎まれた あこがれも",
+      "zh-CN": "曾受冷落的 憧憬向往",
+      "segments": [
+        {
+          "text": "疎まれた あこがれも",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "疎",
+              "reading": "うと"
+            },
+            {
+              "text": "まれた あこがれも"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000024",
+      "order": 23,
+      "index": 23,
+      "start": 81.834032,
+      "end": 84.664339,
+      "japanese": "カメラ止めるなよ",
+      "zh-CN": "镜头可别停啊",
+      "segments": [
+        {
+          "text": "カメラ止めるなよ",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "カメラ"
+            },
+            {
+              "text": "止",
+              "reading": "と"
+            },
+            {
+              "text": "めるなよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000025",
+      "order": 24,
+      "index": 24,
+      "start": 81.834032,
+      "end": 84.664339,
+      "japanese": "（はい！ はい！）",
+      "zh-CN": "（嗨！嗨！）",
+      "segments": [
+        {
+          "text": "（はい！ はい！）",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "（はい！ はい！）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000026",
+      "order": 25,
+      "index": 25,
+      "start": 84.664339,
+      "end": 86.839039,
+      "japanese": "から回った エネルギー",
+      "zh-CN": "徒劳空转的 能量",
+      "segments": [
+        {
+          "text": "から回った エネルギー",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "から"
+            },
+            {
+              "text": "回",
+              "reading": "まわ"
+            },
+            {
+              "text": "った エネルギー"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000027",
+      "order": 26,
+      "index": 26,
+      "start": 86.839039,
+      "end": 89.354534,
+      "japanese": "輝く このステージで",
+      "zh-CN": "在这闪耀的 舞台之上",
+      "segments": [
+        {
+          "text": "輝く このステージで",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "輝",
+              "reading": "かがや"
+            },
+            {
+              "text": "く このステージで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000028",
+      "order": 27,
+      "index": 27,
+      "start": 89.354534,
+      "end": 91.66915,
+      "japanese": "重なる 物語",
+      "zh-CN": "层层重叠的 故事篇章",
+      "segments": [
+        {
+          "text": "重なる 物語",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "重",
+              "reading": "かさ"
+            },
+            {
+              "text": "なる "
+            },
+            {
+              "text": "物語",
+              "reading": "ものがたり"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000029",
+      "order": 28,
+      "index": 28,
+      "start": 91.66915,
+      "end": 93.220222,
+      "japanese": "瞬きすんなよ",
+      "zh-CN": "眨眼都不要眨哦",
+      "segments": [
+        {
+          "text": "瞬きすんなよ",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "瞬",
+              "reading": "まばた"
+            },
+            {
+              "text": "きすんなよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000030",
+      "order": 29,
+      "index": 29,
+      "start": 93.285,
+      "end": 106.99,
+      "japanese": "（ワン ツージャンプ！）",
+      "zh-CN": "（一 二 起跳！）",
+      "segments": [
+        {
+          "text": "（ワン ツージャンプ！）",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "（ワン ツージャンプ！）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    }
+  ]
+}

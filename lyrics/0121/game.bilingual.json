@@ -1,0 +1,937 @@
+{
+  "music_id": 121,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-07",
+      "name": "桃井愛莉"
+    },
+    {
+      "performerId": "歌唱者-08",
+      "name": "日野森雫"
+    },
+    {
+      "performerId": "歌唱者-21",
+      "name": "初音ミク"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 9.681877,
+      "end": 15.83636,
+      "japanese": "私の恋を悲劇のジュリエットにしないで",
+      "zh-CN": "别让我的恋情沦为悲剧的朱丽叶",
+      "segments": [
+        {
+          "text": "私の恋を悲劇のジュリエットにしないで",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "私",
+              "reading": "わたし"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "恋",
+              "reading": "こい"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "悲劇",
+              "reading": "ひげき"
+            },
+            {
+              "text": "のジュリエットにしないで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 16.020434,
+      "end": 20.030051,
+      "japanese": "ここから連れ出して…",
+      "zh-CN": "把我从这里带走吧…",
+      "segments": [
+        {
+          "text": "ここから連れ出して…",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ここから"
+            },
+            {
+              "text": "連",
+              "reading": "つ"
+            },
+            {
+              "text": "れ"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "して…"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 20.37419,
+      "end": 22.18292,
+      "japanese": "そんな気分よ",
+      "zh-CN": "我现在正是这样的心情啊",
+      "segments": [
+        {
+          "text": "そんな気分よ",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "そんな"
+            },
+            {
+              "text": "気分",
+              "reading": "きぶん"
+            },
+            {
+              "text": "よ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 33.059307,
+      "end": 35.724382,
+      "japanese": "パパとママにおやすみなさい",
+      "zh-CN": "对爸爸和妈妈道一声晚安",
+      "segments": [
+        {
+          "text": "パパとママにおやすみなさい",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "パパとママにおやすみなさい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 35.884446,
+      "end": 38.519509,
+      "japanese": "せいぜい いい夢をみなさい",
+      "zh-CN": "你们就尽可能做个好梦吧",
+      "segments": [
+        {
+          "text": "せいぜい いい夢をみなさい",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "せいぜい いい"
+            },
+            {
+              "text": "夢",
+              "reading": "ゆめ"
+            },
+            {
+              "text": "をみなさい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 38.686577,
+      "end": 43.389474,
+      "japanese": "大人はもう寝る時間よ",
+      "zh-CN": "大人们该到就寝的时间了哦",
+      "segments": [
+        {
+          "text": "大人はもう寝る時間よ",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "大人",
+              "reading": "おとな"
+            },
+            {
+              "text": "はもう"
+            },
+            {
+              "text": "寝",
+              "reading": "ね"
+            },
+            {
+              "text": "る"
+            },
+            {
+              "text": "時間",
+              "reading": "じかん"
+            },
+            {
+              "text": "よ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 44.301842,
+      "end": 47.114976,
+      "japanese": "咽返る魅惑のキャラメル",
+      "zh-CN": "浓郁到令人窒息的魅惑焦糖",
+      "segments": [
+        {
+          "text": "咽返る魅惑のキャラメル",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "咽返",
+              "reading": "むせかえ"
+            },
+            {
+              "text": "る"
+            },
+            {
+              "text": "魅惑",
+              "reading": "みわく"
+            },
+            {
+              "text": "のキャラメル"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 47.114976,
+      "end": 49.804061,
+      "japanese": "恥じらいの素足をからめる",
+      "zh-CN": "羞怯地将赤裸的双足交缠",
+      "segments": [
+        {
+          "text": "恥じらいの素足をからめる",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "恥",
+              "reading": "は"
+            },
+            {
+              "text": "じらいの"
+            },
+            {
+              "text": "素足",
+              "reading": "すあし"
+            },
+            {
+              "text": "をからめる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 49.980132,
+      "end": 54.66002,
+      "japanese": "今夜はどこまでいけるの？",
+      "zh-CN": "今晚我们究竟能走到哪一步呢？",
+      "segments": [
+        {
+          "text": "今夜はどこまでいけるの？",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "今夜",
+              "reading": "こんや"
+            },
+            {
+              "text": "はどこまでいけるの？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 54.66002,
+      "end": 57.751267,
+      "japanese": "噛みつかないで優しくして",
+      "zh-CN": "不要咬我 请温柔一点",
+      "segments": [
+        {
+          "text": "噛みつかないで",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "噛",
+              "reading": "か"
+            },
+            {
+              "text": "みつかないで"
+            }
+          ]
+        },
+        {
+          "text": "優しくして",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "優",
+              "reading": "やさ"
+            },
+            {
+              "text": "しくして"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 57.751267,
+      "end": 60.408338,
+      "japanese": "苦いものはまだ嫌いなの",
+      "zh-CN": "苦涩的东西我依然很讨厌啊",
+      "segments": [
+        {
+          "text": "苦いものはまだ嫌いなの",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "苦",
+              "reading": "にが"
+            },
+            {
+              "text": "いものはまだ"
+            },
+            {
+              "text": "嫌",
+              "reading": "きら"
+            },
+            {
+              "text": "いなの"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 60.592413,
+      "end": 65.61744,
+      "japanese": "ママの作るお菓子ばかり食べたせいね",
+      "zh-CN": "一定是因为总吃妈妈做的点心吧",
+      "segments": [
+        {
+          "text": "ママの作るお菓子ばかり食べたせいね",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "ママの"
+            },
+            {
+              "text": "作",
+              "reading": "つく"
+            },
+            {
+              "text": "るお"
+            },
+            {
+              "text": "菓子",
+              "reading": "かし"
+            },
+            {
+              "text": "ばかり"
+            },
+            {
+              "text": "食",
+              "reading": "た"
+            },
+            {
+              "text": "べたせいね"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 65.945572,
+      "end": 68.976795,
+      "japanese": "知らないことがあるのならば",
+      "zh-CN": "如果还有未曾涉足的未知",
+      "segments": [
+        {
+          "text": "知らないことがあるのならば",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "知",
+              "reading": "し"
+            },
+            {
+              "text": "らないことがあるのならば"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 68.976795,
+      "end": 71.886968,
+      "japanese": "知りたいと思う 普通でしょ？",
+      "zh-CN": "想要去了解也是很正常的吧？",
+      "segments": [
+        {
+          "text": "知りたいと思う 普通でしょ？",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "知",
+              "reading": "し"
+            },
+            {
+              "text": "りたいと"
+            },
+            {
+              "text": "思",
+              "reading": "おも"
+            },
+            {
+              "text": "う "
+            },
+            {
+              "text": "普通",
+              "reading": "ふつう"
+            },
+            {
+              "text": "でしょ？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 71.886968,
+      "end": 73.607662,
+      "japanese": "全部見せてよ",
+      "zh-CN": "让我看看你的一切吧",
+      "segments": [
+        {
+          "text": "全部見せてよ",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "全部見",
+              "reading": "ぜんぶみ"
+            },
+            {
+              "text": "せてよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 73.607662,
+      "end": 78.070463,
+      "japanese": "あなたにならば見せてあげる私の…",
+      "zh-CN": "如果是你的话 我也可以把我的全部展现给你…",
+      "segments": [
+        {
+          "text": "あなたにならば",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "あなたにならば"
+            }
+          ]
+        },
+        {
+          "text": "見せてあげる私の…",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "せてあげる"
+            },
+            {
+              "text": "私",
+              "reading": "わたし"
+            },
+            {
+              "text": "の…"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 79.27895,
+      "end": 81.647906,
+      "japanese": "ずっと恋しくてシンデレラ",
+      "zh-CN": "一直渴求着爱恋的灰姑娘",
+      "segments": [
+        {
+          "text": "ずっと恋しくてシンデレラ",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ずっと"
+            },
+            {
+              "text": "恋",
+              "reading": "こい"
+            },
+            {
+              "text": "しくてシンデレラ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 81.815973,
+      "end": 84.73215,
+      "japanese": "制服だけで駆けていくわ",
+      "zh-CN": "仅仅穿着校服就飞奔而去",
+      "segments": [
+        {
+          "text": "制服だけで駆けていくわ",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "制服",
+              "reading": "せいふく"
+            },
+            {
+              "text": "だけで"
+            },
+            {
+              "text": "駆",
+              "reading": "か"
+            },
+            {
+              "text": "けていくわ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 84.909221,
+      "end": 87.40923,
+      "japanese": "魔法よ時間を止めてよ",
+      "zh-CN": "魔法啊 请将时间定格吧",
+      "segments": [
+        {
+          "text": "魔法よ時間を止めてよ",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "魔法",
+              "reading": "まほう"
+            },
+            {
+              "text": "よ"
+            },
+            {
+              "text": "時間",
+              "reading": "じかん"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "止",
+              "reading": "と"
+            },
+            {
+              "text": "めてよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 87.40923,
+      "end": 90.009278,
+      "japanese": "悪い人に 邪魔されちゃうわ",
+      "zh-CN": "不然就要被坏人妨碍打扰了呀",
+      "segments": [
+        {
+          "text": "悪い人に 邪魔されちゃうわ",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "悪",
+              "reading": "わる"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "人",
+              "reading": "ひと"
+            },
+            {
+              "text": "に "
+            },
+            {
+              "text": "邪魔",
+              "reading": "じゃま"
+            },
+            {
+              "text": "されちゃうわ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 90.537491,
+      "end": 93.002486,
+      "japanese": "逃げ出したいのジュリエット",
+      "zh-CN": "想要逃离一切的朱丽叶",
+      "segments": [
+        {
+          "text": "逃げ出したいのジュリエット",
+          "performerIds": [
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "逃",
+              "reading": "に"
+            },
+            {
+              "text": "げ"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "したいのジュリエット"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 93.002486,
+      "end": 96.004697,
+      "japanese": "でもその名前で呼ばないで",
+      "zh-CN": "但请不要用那个名字称呼我",
+      "segments": [
+        {
+          "text": "でもその名前で呼ばないで",
+          "performerIds": [
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "でもその"
+            },
+            {
+              "text": "名前",
+              "reading": "なまえ"
+            },
+            {
+              "text": "で"
+            },
+            {
+              "text": "呼",
+              "reading": "よ"
+            },
+            {
+              "text": "ばないで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000023",
+      "order": 22,
+      "index": 22,
+      "start": 96.227787,
+      "end": 98.51771,
+      "japanese": "そうよね 結ばれなくちゃね",
+      "zh-CN": "没错呢 我们必须要喜结连理才行呢",
+      "segments": [
+        {
+          "text": "そうよね 結ばれなくちゃね",
+          "performerIds": [
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "そうよね "
+            },
+            {
+              "text": "結",
+              "reading": "むす"
+            },
+            {
+              "text": "ばれなくちゃね"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000024",
+      "order": 23,
+      "index": 23,
+      "start": 98.701785,
+      "end": 101.449893,
+      "japanese": "そうじゃないと楽しくないわ",
+      "zh-CN": "若非如此 可就一点都不开心了呀",
+      "segments": [
+        {
+          "text": "そうじゃないと楽しくないわ",
+          "performerIds": [
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "そうじゃないと"
+            },
+            {
+              "text": "楽",
+              "reading": "たの"
+            },
+            {
+              "text": "しくないわ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000025",
+      "order": 24,
+      "index": 24,
+      "start": 101.866061,
+      "end": 106.247828,
+      "japanese": "ねえ 私と生きてくれる？",
+      "zh-CN": "呐 你愿意和我一起生活下去吗？",
+      "segments": [
+        {
+          "text": "ねえ 私と生きてくれる？",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "ねえ "
+            },
+            {
+              "text": "私",
+              "reading": "わたし"
+            },
+            {
+              "text": "と"
+            },
+            {
+              "text": "生",
+              "reading": "い"
+            },
+            {
+              "text": "きてくれる？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    }
+  ]
+}

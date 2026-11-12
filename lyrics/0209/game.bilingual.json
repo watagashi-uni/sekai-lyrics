@@ -1,0 +1,1070 @@
+{
+  "music_id": 209,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-05",
+      "name": "花里みのり"
+    },
+    {
+      "performerId": "歌唱者-06",
+      "name": "桐谷遥"
+    },
+    {
+      "performerId": "歌唱者-07",
+      "name": "桃井愛莉"
+    },
+    {
+      "performerId": "歌唱者-08",
+      "name": "日野森雫"
+    },
+    {
+      "performerId": "歌唱者-22",
+      "name": "鏡音リン"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 17.01395,
+      "end": 20.168035,
+      "japanese": "何してるの？ミラーめっこ？",
+      "zh-CN": "在做什么呢？在照镜子吗？",
+      "segments": [
+        {
+          "text": "何してるの？ミラーめっこ？",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "何",
+              "reading": "なに"
+            },
+            {
+              "text": "してるの？ミラーめっこ？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 20.836052,
+      "end": 24.525151,
+      "japanese": "早くしてね　始まっちゃうよ！",
+      "zh-CN": "快一点啦　马上就要开始了哦！",
+      "segments": [
+        {
+          "text": "早くしてね　始まっちゃうよ！",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "早",
+              "reading": "はや"
+            },
+            {
+              "text": "くしてね　"
+            },
+            {
+              "text": "始",
+              "reading": "はじ"
+            },
+            {
+              "text": "まっちゃうよ！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 24.760158,
+      "end": 27.615234,
+      "japanese": "いつも通り可愛いよ",
+      "zh-CN": "一如既往超级可爱哦",
+      "segments": [
+        {
+          "text": "いつも通り可愛いよ",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "いつも"
+            },
+            {
+              "text": "通",
+              "reading": "どお"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "可愛",
+              "reading": "かわい"
+            },
+            {
+              "text": "いよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 27.795239,
+      "end": 29.763291,
+      "japanese": "ダメダメ！だね",
+      "zh-CN": "不行不行！呢",
+      "segments": [
+        {
+          "text": "ダメダメ！だね",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "ダメダメ！だね"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 29.866294,
+      "end": 32.143355,
+      "japanese": "こんなんじゃ",
+      "zh-CN": "只是这样可远远不够",
+      "segments": [
+        {
+          "text": "こんなんじゃ",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "こんなんじゃ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 29.866294,
+      "end": 32.143355,
+      "japanese": "「NO!」",
+      "zh-CN": "「NO!」",
+      "segments": [
+        {
+          "text": "「NO!」",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "「NO!」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 32.562366,
+      "end": 35.771452,
+      "japanese": "とっておきがいいなら",
+      "zh-CN": "既然想要压箱底的绝招",
+      "segments": [
+        {
+          "text": "とっておきがいいなら",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "とっておきがいいなら"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 36.41947,
+      "end": 39.78156,
+      "japanese": "皆に魔法かけましょう",
+      "zh-CN": "那就给大家都施加魔法吧",
+      "segments": [
+        {
+          "text": "皆に魔法かけましょう",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "皆",
+              "reading": "みな"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "魔法",
+              "reading": "まほう"
+            },
+            {
+              "text": "かけましょう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 40.500579,
+      "end": 43.501659,
+      "japanese": "嘘みたいなトリックを",
+      "zh-CN": "宛如谎言一般的奇妙戏法",
+      "segments": [
+        {
+          "text": "嘘みたいなトリックを",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "嘘",
+              "reading": "うそ"
+            },
+            {
+              "text": "みたいなトリックを"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 43.649663,
+      "end": 47.432764,
+      "japanese": "衣装に仕掛けてるの",
+      "zh-CN": "早已悄悄藏在服装里了哦",
+      "segments": [
+        {
+          "text": "衣装に仕掛けてるの",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "衣装",
+              "reading": "いしょう"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "仕掛",
+              "reading": "しか"
+            },
+            {
+              "text": "けてるの"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 47.528767,
+      "end": 51.176865,
+      "japanese": "糸 (糸)一つほどけば",
+      "zh-CN": "只要解开一根 (一根) 丝线",
+      "segments": [
+        {
+          "text": "糸 ",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "糸",
+              "reading": "いと"
+            },
+            {
+              "text": " "
+            }
+          ]
+        },
+        {
+          "text": "(糸)",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "("
+            },
+            {
+              "text": "糸",
+              "reading": "いと"
+            },
+            {
+              "text": ")"
+            }
+          ]
+        },
+        {
+          "text": "一つほどけば",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "一",
+              "reading": "ひと"
+            },
+            {
+              "text": "つほどけば"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 51.356869,
+      "end": 55.193972,
+      "japanese": "全身がキラキラ！",
+      "zh-CN": "全身就会闪闪发光！",
+      "segments": [
+        {
+          "text": "全身がキラキラ！",
+          "performerIds": [
+            "歌唱者-08",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "全身",
+              "reading": "ぜんしん"
+            },
+            {
+              "text": "がキラキラ！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 55.366977,
+      "end": 57.231027,
+      "japanese": "メイキャップ！ ドレスアップ！",
+      "zh-CN": "Make-up！Dress-up！",
+      "segments": [
+        {
+          "text": "メイキャップ！ ",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-07",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "メイキャップ！ "
+            }
+          ]
+        },
+        {
+          "text": "ドレスアップ！",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "ドレスアップ！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 57.2175,
+      "end": 59.4075,
+      "japanese": "キュートに RE:BORN (bon!)",
+      "zh-CN": "可爱迷人地 RE:BORN (bon!)",
+      "segments": [
+        {
+          "text": "キュートに RE:BORN ",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "キュートに RE:BORN "
+            }
+          ]
+        },
+        {
+          "text": "(bon!)",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-07",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "(bon!)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 59.254081,
+      "end": 61.607144,
+      "japanese": "マジカルトリックで",
+      "zh-CN": "伴着奇妙魔法戏法",
+      "segments": [
+        {
+          "text": "マジカルトリックで",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "マジカルトリックで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 61.607144,
+      "end": 62.922179,
+      "japanese": "チェインチェイン Change!",
+      "zh-CN": "Chain Chain Change!",
+      "segments": [
+        {
+          "text": "チェインチェイン Change!",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "チェインチェイン Change!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 63.098184,
+      "end": 65.035235,
+      "japanese": "メイキャップ！ ドレスアップ！",
+      "zh-CN": "Make-up！Dress-up！",
+      "segments": [
+        {
+          "text": "メイキャップ！ ",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-07",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "メイキャップ！ "
+            }
+          ]
+        },
+        {
+          "text": "ドレスアップ！",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "ドレスアップ！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 65.035235,
+      "end": 67.487301,
+      "japanese": "とっておき！さあ今！",
+      "zh-CN": "压箱底绝招！来吧就是现在！",
+      "segments": [
+        {
+          "text": "とっておき！さあ今！",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "とっておき！さあ"
+            },
+            {
+              "text": "今",
+              "reading": "いま"
+            },
+            {
+              "text": "！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 67.664306,
+      "end": 71.296403,
+      "japanese": "センセーショナルに変身って",
+      "zh-CN": "轰动全场 华丽变身",
+      "segments": [
+        {
+          "text": "センセーショナルに",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "センセーショナルに"
+            }
+          ]
+        },
+        {
+          "text": "変身って",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "変身",
+              "reading": "めたも"
+            },
+            {
+              "text": "って"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 71.600411,
+      "end": 73.200454,
+      "japanese": "リリリボーン (bon!)",
+      "zh-CN": "哩哩 重生蜕变 (bon!)",
+      "segments": [
+        {
+          "text": "リリリボーン ",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "リリリボーン "
+            }
+          ]
+        },
+        {
+          "text": "(bon!)",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "(bon!)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 73.512462,
+      "end": 75.153506,
+      "japanese": "リリリボーン (bon!)",
+      "zh-CN": "哩哩 重生蜕变 (bon!)",
+      "segments": [
+        {
+          "text": "リリリボーン ",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "リリリボーン "
+            }
+          ]
+        },
+        {
+          "text": "(bon!)",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "(bon!)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 75.485515,
+      "end": 77.280563,
+      "japanese": "アイデアは繋がって",
+      "zh-CN": "灵感点子紧密相连",
+      "segments": [
+        {
+          "text": "アイデアは繋がって",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "アイデアは"
+            },
+            {
+              "text": "繋",
+              "reading": "つな"
+            },
+            {
+              "text": "がって"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000023",
+      "order": 22,
+      "index": 22,
+      "start": 77.280563,
+      "end": 78.976609,
+      "japanese": "Shake! Shake! Shake!",
+      "zh-CN": "Shake! Shake! Shake!",
+      "segments": [
+        {
+          "text": "Shake! Shake! Shake!",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "Shake! Shake! Shake!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000024",
+      "order": 23,
+      "index": 23,
+      "start": 79.325618,
+      "end": 80.949661,
+      "japanese": "リリリボーン (bon!)",
+      "zh-CN": "哩哩 重生蜕变 (bon!)",
+      "segments": [
+        {
+          "text": "リリリボーン ",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "リリリボーン "
+            }
+          ]
+        },
+        {
+          "text": "(bon!)",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "(bon!)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000025",
+      "order": 24,
+      "index": 24,
+      "start": 81.310671,
+      "end": 82.665,
+      "japanese": "リリリボーン (bon!)",
+      "zh-CN": "哩哩 重生蜕变 (bon!)",
+      "segments": [
+        {
+          "text": "リリリボーン ",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "リリリボーン "
+            }
+          ]
+        },
+        {
+          "text": "(bon!)",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "(bon!)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000026",
+      "order": 25,
+      "index": 25,
+      "start": 83.142208,
+      "end": 84.974257,
+      "japanese": "どんな時でも",
+      "zh-CN": "无论何时都要",
+      "segments": [
+        {
+          "text": "どんな時でも",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "どんな"
+            },
+            {
+              "text": "時",
+              "reading": "とき"
+            },
+            {
+              "text": "でも"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000027",
+      "order": 26,
+      "index": 26,
+      "start": 84.974257,
+      "end": 86.95431,
+      "japanese": "Laugh & Peace!",
+      "zh-CN": "Laugh & Peace!",
+      "segments": [
+        {
+          "text": "Laugh & Peace!",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "Laugh & Peace!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000028",
+      "order": 27,
+      "index": 27,
+      "start": 87.274319,
+      "end": 88.947363,
+      "japanese": "創りあげるよ！",
+      "zh-CN": "共同打造出来吧！",
+      "segments": [
+        {
+          "text": "創りあげるよ！",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "創",
+              "reading": "つく"
+            },
+            {
+              "text": "りあげるよ！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000029",
+      "order": 28,
+      "index": 28,
+      "start": 88.947363,
+      "end": 90.854415,
+      "japanese": "マスターピース！",
+      "zh-CN": "绝世杰作 完美之作！",
+      "segments": [
+        {
+          "text": "マスターピース！",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "マスターピース！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000030",
+      "order": 29,
+      "index": 29,
+      "start": 91.05042,
+      "end": 92.716464,
+      "japanese": "みんな一緒に",
+      "zh-CN": "大家一起携手",
+      "segments": [
+        {
+          "text": "みんな一緒に",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "みんな"
+            },
+            {
+              "text": "一緒",
+              "reading": "いっしょ"
+            },
+            {
+              "text": "に"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000031",
+      "order": 30,
+      "index": 30,
+      "start": 92.716464,
+      "end": 96.144556,
+      "japanese": "Live & Peace!",
+      "zh-CN": "Live & Peace!",
+      "segments": [
+        {
+          "text": "Live & Peace!",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "Live & Peace!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000032",
+      "order": 31,
+      "index": 31,
+      "start": 96.31975,
+      "end": 97.80975,
+      "japanese": "Peace!",
+      "zh-CN": "Peace!",
+      "segments": [
+        {
+          "text": "Peace!",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "Peace!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    }
+  ]
+}

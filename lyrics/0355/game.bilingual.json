@@ -1,0 +1,913 @@
+{
+  "music_id": 355,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-05",
+      "name": "花里みのり"
+    },
+    {
+      "performerId": "歌唱者-06",
+      "name": "桐谷遥"
+    },
+    {
+      "performerId": "歌唱者-07",
+      "name": "桃井愛莉"
+    },
+    {
+      "performerId": "歌唱者-08",
+      "name": "日野森雫"
+    },
+    {
+      "performerId": "歌唱者-21",
+      "name": "初音ミク"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 23.3825,
+      "end": 30.0415,
+      "japanese": "鏡よ鏡よ鏡さん",
+      "zh-CN": "魔镜啊魔镜啊魔镜先生",
+      "segments": [
+        {
+          "text": "鏡よ鏡よ鏡さん",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "鏡",
+              "reading": "かがみ"
+            },
+            {
+              "text": "よ"
+            },
+            {
+              "text": "鏡",
+              "reading": "かがみ"
+            },
+            {
+              "text": "よ"
+            },
+            {
+              "text": "鏡",
+              "reading": "かがみ"
+            },
+            {
+              "text": "さん"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 23.3825,
+      "end": 30.0415,
+      "japanese": "世界で一番可愛がるのはやめてよ",
+      "zh-CN": "别再把我看作世上最受宠爱的人了",
+      "segments": [
+        {
+          "text": "世界で一番可愛がるのはやめてよ",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "世界",
+              "reading": "せかい"
+            },
+            {
+              "text": "で"
+            },
+            {
+              "text": "一番可愛",
+              "reading": "いちばんかわい"
+            },
+            {
+              "text": "がるのはやめてよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 29.997821,
+      "end": 32.939847,
+      "japanese": "棘のような視線迫る",
+      "zh-CN": "荆棘般的视线逼近而来",
+      "segments": [
+        {
+          "text": "棘のような視線迫る",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "棘",
+              "reading": "とげ"
+            },
+            {
+              "text": "のような"
+            },
+            {
+              "text": "視線迫",
+              "reading": "しせんせま"
+            },
+            {
+              "text": "る"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 32.939847,
+      "end": 35.137867,
+      "japanese": "優しいフリした彼女が　",
+      "zh-CN": "假装温柔的那个女人",
+      "segments": [
+        {
+          "text": "優しいフリした彼女が　",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "優",
+              "reading": "やさ"
+            },
+            {
+              "text": "しいフリした"
+            },
+            {
+              "text": "彼女",
+              "reading": "かのじょ"
+            },
+            {
+              "text": "が　"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 35.137867,
+      "end": 37.68189,
+      "japanese": "素敵な晩餐もてなさった",
+      "zh-CN": "盛情款待了一顿美妙的晚餐",
+      "segments": [
+        {
+          "text": "素敵な晩餐もてなさった",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "素敵",
+              "reading": "すてき"
+            },
+            {
+              "text": "な"
+            },
+            {
+              "text": "晩",
+              "reading": "ばん"
+            },
+            {
+              "text": "餐",
+              "reading": "さん"
+            },
+            {
+              "text": "もてなさった"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 37.68189,
+      "end": 43.756944,
+      "japanese": "そっと口に含むと　［笑み］",
+      "zh-CN": "悄悄含入口中 ［微笑］",
+      "segments": [
+        {
+          "text": "そっと口に含むと　",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "そっと"
+            },
+            {
+              "text": "口",
+              "reading": "くち"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "含",
+              "reading": "ふく"
+            },
+            {
+              "text": "むと　"
+            }
+          ]
+        },
+        {
+          "text": "［笑み］",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "［"
+            },
+            {
+              "text": "笑",
+              "reading": "え"
+            },
+            {
+              "text": "み］"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 43.756944,
+      "end": 59.206082,
+      "japanese": "薄れゆく意思の中で　夢を見てる",
+      "zh-CN": "在逐渐微弱的意识中 描摹着梦境",
+      "segments": [
+        {
+          "text": "薄れゆく意思の中で　",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "薄",
+              "reading": "うつ"
+            },
+            {
+              "text": "れゆく"
+            },
+            {
+              "text": "意思",
+              "reading": "いし"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "中",
+              "reading": "なか"
+            },
+            {
+              "text": "で　"
+            }
+          ]
+        },
+        {
+          "text": "夢を見てる",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "夢",
+              "reading": "ゆめ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "てる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 43.756944,
+      "end": 59.206082,
+      "japanese": "いつかのおとぎ話",
+      "zh-CN": "那曾几何时的童话故事",
+      "segments": [
+        {
+          "text": "いつかの",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "いつかの"
+            }
+          ]
+        },
+        {
+          "text": "おとぎ話",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "おとぎ"
+            },
+            {
+              "text": "話",
+              "reading": "ばなし"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 59.206082,
+      "end": 62.858115,
+      "japanese": "時が止まる",
+      "zh-CN": "时间就此定格",
+      "segments": [
+        {
+          "text": "時が止まる",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "時",
+              "reading": "とき"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "止",
+              "reading": "と"
+            },
+            {
+              "text": "まる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 63.066117,
+      "end": 68.242163,
+      "japanese": "お願いKISSで目を醒まして欲しいの",
+      "zh-CN": "拜托了 好想你用一个KISS将我唤醒",
+      "segments": [
+        {
+          "text": "お願い",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "お"
+            },
+            {
+              "text": "願",
+              "reading": "ねが"
+            },
+            {
+              "text": "い"
+            }
+          ]
+        },
+        {
+          "text": "KISSで目を醒まして欲しいの",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "KISSで"
+            },
+            {
+              "text": "目",
+              "reading": "め"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "醒",
+              "reading": "さ"
+            },
+            {
+              "text": "まして"
+            },
+            {
+              "text": "欲",
+              "reading": "ほ"
+            },
+            {
+              "text": "しいの"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 68.418165,
+      "end": 73.130207,
+      "japanese": "白い棺から　連れ出すように",
+      "zh-CN": "宛如将我从纯白的棺木中 带离出去一般",
+      "segments": [
+        {
+          "text": "白い棺から　連れ出すように",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "白",
+              "reading": "しろ"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "棺",
+              "reading": "ひつぎ"
+            },
+            {
+              "text": "から　"
+            },
+            {
+              "text": "連",
+              "reading": "つ"
+            },
+            {
+              "text": "れ"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "すように"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 73.130207,
+      "end": 79.11426,
+      "japanese": "突き刺さる憎しみは　ドラマ的な事情",
+      "zh-CN": "刺入骨髓的憎恨 是充满戏剧性的因由",
+      "segments": [
+        {
+          "text": "突き刺さる憎しみは　ドラマ的な事情",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "突",
+              "reading": "つ"
+            },
+            {
+              "text": "き"
+            },
+            {
+              "text": "刺",
+              "reading": "さ"
+            },
+            {
+              "text": "さる"
+            },
+            {
+              "text": "憎",
+              "reading": "にく"
+            },
+            {
+              "text": "しみは　ドラマ"
+            },
+            {
+              "text": "的",
+              "reading": "てき"
+            },
+            {
+              "text": "な"
+            },
+            {
+              "text": "事情",
+              "reading": "じじょう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 79.2305,
+      "end": 87.42512,
+      "japanese": "祈っても　王子様は　まだ来ない (aa)",
+      "zh-CN": "纵然祈祷 王子殿下 却依然没有到来 (aa)",
+      "segments": [
+        {
+          "text": "祈っても　",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "祈",
+              "reading": "いの"
+            },
+            {
+              "text": "っても　"
+            }
+          ]
+        },
+        {
+          "text": "王子様は　まだ来ない ",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "王子様",
+              "reading": "きみ"
+            },
+            {
+              "text": "は　まだ"
+            },
+            {
+              "text": "来",
+              "reading": "こ"
+            },
+            {
+              "text": "ない "
+            }
+          ]
+        },
+        {
+          "text": "(aa)",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "(aa)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 101.369349,
+      "end": 106.649396,
+      "japanese": "お願いKISSで目を醒まして欲しいの",
+      "zh-CN": "拜托了 好想你用一个KISS将我唤醒",
+      "segments": [
+        {
+          "text": "お願いKISSで目を醒まして欲しいの",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-07",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "お"
+            },
+            {
+              "text": "願",
+              "reading": "ねが"
+            },
+            {
+              "text": "いKISSで"
+            },
+            {
+              "text": "目",
+              "reading": "め"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "醒",
+              "reading": "さ"
+            },
+            {
+              "text": "まして"
+            },
+            {
+              "text": "欲",
+              "reading": "ほ"
+            },
+            {
+              "text": "しいの"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 106.841398,
+      "end": 111.55344,
+      "japanese": "白い棺から　連れ出すように",
+      "zh-CN": "宛如将我从纯白的棺木中 带离出去一般",
+      "segments": [
+        {
+          "text": "白い棺から　",
+          "performerIds": [
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "白",
+              "reading": "しろ"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "棺",
+              "reading": "ひつぎ"
+            },
+            {
+              "text": "から　"
+            }
+          ]
+        },
+        {
+          "text": "連れ出すように",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "連",
+              "reading": "つ"
+            },
+            {
+              "text": "れ"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "すように"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 111.55344,
+      "end": 117.601494,
+      "japanese": "突き刺さる憎しみは　ドラマ的な事情",
+      "zh-CN": "刺入骨髓的憎恨 是充满戏剧性的因由",
+      "segments": [
+        {
+          "text": "突き刺さる憎しみは　ドラマ的な事情",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "突",
+              "reading": "つ"
+            },
+            {
+              "text": "き"
+            },
+            {
+              "text": "刺",
+              "reading": "さ"
+            },
+            {
+              "text": "さる"
+            },
+            {
+              "text": "憎",
+              "reading": "にく"
+            },
+            {
+              "text": "しみは　ドラマ"
+            },
+            {
+              "text": "的",
+              "reading": "てき"
+            },
+            {
+              "text": "な"
+            },
+            {
+              "text": "事情",
+              "reading": "じじょう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 117.55138,
+      "end": 121.35838,
+      "japanese": "祈っても　王子様　まだ来ない (aa)",
+      "zh-CN": "纵然祈祷 王子殿下 却依然没有到来 (aa)",
+      "segments": [
+        {
+          "text": "祈っても　",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "祈",
+              "reading": "いの"
+            },
+            {
+              "text": "っても　"
+            }
+          ]
+        },
+        {
+          "text": "王子様　まだ来ない (aa)",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "王子様",
+              "reading": "きみ"
+            },
+            {
+              "text": "　まだ"
+            },
+            {
+              "text": "来",
+              "reading": "こ"
+            },
+            {
+              "text": "ない (aa)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 125.146561,
+      "end": 136.20066,
+      "japanese": "消えてしまうその前に・・・",
+      "zh-CN": "在我彻底消逝之前……",
+      "segments": [
+        {
+          "text": "消えてしまうその前に・・・",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "消",
+              "reading": "き"
+            },
+            {
+              "text": "えてしまうその"
+            },
+            {
+              "text": "前",
+              "reading": "まえ"
+            },
+            {
+              "text": "に・・・"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    }
+  ]
+}

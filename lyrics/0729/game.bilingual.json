@@ -1,0 +1,1886 @@
+{
+  "music_id": 729,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-05",
+      "name": "花里みのり"
+    },
+    {
+      "performerId": "歌唱者-06",
+      "name": "桐谷遥"
+    },
+    {
+      "performerId": "歌唱者-07",
+      "name": "桃井愛莉"
+    },
+    {
+      "performerId": "歌唱者-08",
+      "name": "日野森雫"
+    },
+    {
+      "performerId": "歌唱者-21",
+      "name": "初音ミク"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 10.318,
+      "end": 10.892,
+      "japanese": "DORIDORI",
+      "zh-CN": "",
+      "segments": [
+        {
+          "text": "DORIDORI",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "DORIDORI"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 10.892885,
+      "end": 12.704616,
+      "japanese": "人生は酸っぱくて",
+      "zh-CN": "人生有酸酸的味道",
+      "segments": [
+        {
+          "text": "人生は酸っぱくて",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "人生",
+              "reading": "じんせい"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "酸",
+              "reading": "す"
+            },
+            {
+              "text": "っぱくて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 13.875735,
+      "end": 15.927696,
+      "japanese": "人生は甘い味",
+      "zh-CN": "人生有甜甜的滋味",
+      "segments": [
+        {
+          "text": "人生は甘い味",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "人生",
+              "reading": "じんせい"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "甘",
+              "reading": "あま"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "味",
+              "reading": "あじ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 16.598337,
+      "end": 19.491101,
+      "japanese": "どっちでも変わらない",
+      "zh-CN": "无论是哪种都不会变",
+      "segments": [
+        {
+          "text": "どっちでも変わらない",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "どっちでも"
+            },
+            {
+              "text": "変",
+              "reading": "か"
+            },
+            {
+              "text": "わらない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 19.561168,
+      "end": 21.012555,
+      "japanese": "人生の味",
+      "zh-CN": "人生滋味",
+      "segments": [
+        {
+          "text": "人生の味",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "人生",
+              "reading": "じんせい"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "味",
+              "reading": "あじ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 21.102641,
+      "end": 21.953454,
+      "japanese": "(確かに)",
+      "zh-CN": "（确实呢）",
+      "segments": [
+        {
+          "text": "(確かに)",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "("
+            },
+            {
+              "text": "確",
+              "reading": "たし"
+            },
+            {
+              "text": "かに)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 22.093588,
+      "end": 24.686065,
+      "japanese": "君の手で直接作ってほしい",
+      "zh-CN": "想让你亲手把它做出来",
+      "segments": [
+        {
+          "text": "君の手で直接作ってほしい",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "手",
+              "reading": "て"
+            },
+            {
+              "text": "で"
+            },
+            {
+              "text": "直接",
+              "reading": "ちょくせつ"
+            },
+            {
+              "text": "作",
+              "reading": "つく"
+            },
+            {
+              "text": "ってほしい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 24.726103,
+      "end": 26.247557,
+      "japanese": "結果なんか忘れちゃって",
+      "zh-CN": "结果什么的就忘掉吧",
+      "segments": [
+        {
+          "text": "結果なんか忘れちゃって",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "結果",
+              "reading": "けっか"
+            },
+            {
+              "text": "なんか"
+            },
+            {
+              "text": "忘",
+              "reading": "わす"
+            },
+            {
+              "text": "れちゃって"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 26.948226,
+      "end": 27.77902,
+      "japanese": "もちもちに",
+      "zh-CN": "软糯糯的",
+      "segments": [
+        {
+          "text": "もちもちに",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "もちもちに"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 27.77902,
+      "end": 29.590752,
+      "japanese": "(떡 떡 떡)",
+      "zh-CN": "（糯 糯 糯）",
+      "segments": [
+        {
+          "text": "(떡 떡 떡)",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "(떡 떡 떡)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 29.590752,
+      "end": 30.531651,
+      "japanese": "爽やかに",
+      "zh-CN": "清爽爽的",
+      "segments": [
+        {
+          "text": "爽やかに",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "爽",
+              "reading": "さわ"
+            },
+            {
+              "text": "やかに"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 32.16321,
+      "end": 32.873889,
+      "japanese": "僕の",
+      "zh-CN": "我的",
+      "segments": [
+        {
+          "text": "僕の",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "の"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 32.963975,
+      "end": 33.98495,
+      "japanese": "レモン・メロン・クッキー",
+      "zh-CN": "柠檬·蜜瓜·曲奇",
+      "segments": [
+        {
+          "text": "レモン・メロン・クッキー",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "レモン・メロン・クッキー"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 34.00497,
+      "end": 34.985907,
+      "japanese": "レモン・メロン・クッキー",
+      "zh-CN": "柠檬·蜜瓜·曲奇",
+      "segments": [
+        {
+          "text": "レモン・メロン・クッキー",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "レモン・メロン・クッキー"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 35.005926,
+      "end": 35.59649,
+      "japanese": "レモン・メロン",
+      "zh-CN": "柠檬·蜜瓜",
+      "segments": [
+        {
+          "text": "レモン・メロン",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "レモン・メロン"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 35.616509,
+      "end": 36.647495,
+      "japanese": "レモン・メロン・クッキー",
+      "zh-CN": "柠檬·蜜瓜·曲奇",
+      "segments": [
+        {
+          "text": "レモン・メロン・クッキー",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "レモン・メロン・クッキー"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 36.667514,
+      "end": 37.638442,
+      "japanese": "レモン・メロン・クッキー",
+      "zh-CN": "柠檬·蜜瓜·曲奇",
+      "segments": [
+        {
+          "text": "レモン・メロン・クッキー",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "レモン・メロン・クッキー"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 37.66847,
+      "end": 37.738537,
+      "japanese": "クッキー",
+      "zh-CN": "曲奇",
+      "segments": [
+        {
+          "text": "クッキー",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "クッキー"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 38.339111,
+      "end": 39.320048,
+      "japanese": "レモン・メロン・クッキー",
+      "zh-CN": "柠檬·蜜瓜·曲奇",
+      "segments": [
+        {
+          "text": "レモン・メロン・クッキー",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "レモン・メロン・クッキー"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 39.340068,
+      "end": 40.321005,
+      "japanese": "レモン・メロン・クッキー",
+      "zh-CN": "柠檬·蜜瓜·曲奇",
+      "segments": [
+        {
+          "text": "レモン・メロン・クッキー",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "レモン・メロン・クッキー"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 40.341024,
+      "end": 41.001655,
+      "japanese": "クッキー・クッキー",
+      "zh-CN": "曲奇·曲奇",
+      "segments": [
+        {
+          "text": "クッキー・クッキー",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "クッキー・クッキー"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 41.021674,
+      "end": 41.982593,
+      "japanese": "レモン・メロン・クッキー",
+      "zh-CN": "柠檬·蜜瓜·曲奇",
+      "segments": [
+        {
+          "text": "レモン・メロン・クッキー",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "レモン・メロン・クッキー"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000023",
+      "order": 22,
+      "index": 22,
+      "start": 42.002612,
+      "end": 43.64418,
+      "japanese": "全部僕のもの",
+      "zh-CN": "通通都是我的",
+      "segments": [
+        {
+          "text": "全部僕のもの",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "全部",
+              "reading": "ぜんぶ"
+            },
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "のもの"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000024",
+      "order": 23,
+      "index": 23,
+      "start": 43.934458,
+      "end": 47.828178,
+      "japanese": "君と一緒にいられた時間は",
+      "zh-CN": "和你一起度过的那些时光",
+      "segments": [
+        {
+          "text": "君と一緒にいられた時間は",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "と"
+            },
+            {
+              "text": "一緒",
+              "reading": "いっしょ"
+            },
+            {
+              "text": "にいられた"
+            },
+            {
+              "text": "時間",
+              "reading": "じかん"
+            },
+            {
+              "text": "は"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000025",
+      "order": 24,
+      "index": 24,
+      "start": 48.33025,
+      "end": 49.02925,
+      "japanese": "まるで",
+      "zh-CN": "简直",
+      "segments": [
+        {
+          "text": "まるで",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "まるで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000026",
+      "order": 25,
+      "index": 25,
+      "start": 50.69525,
+      "end": 51.69925,
+      "japanese": "ドキドキドキレモンメロンクッキーみたいに",
+      "zh-CN": "就像那令人心跳怦怦怦的柠檬蜜瓜曲奇一样",
+      "segments": [
+        {
+          "text": "ドキドキドキレモンメロンクッキーみたいに",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "ドキドキドキレモンメロンクッキーみたいに"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000027",
+      "order": 26,
+      "index": 26,
+      "start": 51.69925,
+      "end": 53.30625,
+      "japanese": "酸っぱくって甘い味",
+      "zh-CN": "是酸酸甜甜的味道",
+      "segments": [
+        {
+          "text": "酸っぱくって甘い味",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "酸",
+              "reading": "す"
+            },
+            {
+              "text": "っぱくって"
+            },
+            {
+              "text": "甘",
+              "reading": "あま"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "味",
+              "reading": "あじ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000028",
+      "order": 27,
+      "index": 27,
+      "start": 53.30625,
+      "end": 54.29825,
+      "japanese": "(レモンメロンクッキー)",
+      "zh-CN": "（柠檬蜜瓜曲奇）",
+      "segments": [
+        {
+          "text": "(レモンメロンクッキー)",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "(レモンメロンクッキー)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000029",
+      "order": 28,
+      "index": 28,
+      "start": 54.29825,
+      "end": 56.97925,
+      "japanese": "君と僕のレモンメロンクッキーみたいに",
+      "zh-CN": "就像属于你我的柠檬蜜瓜曲奇",
+      "segments": [
+        {
+          "text": "君と僕のレモンメロンクッキーみたいに",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "と"
+            },
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "のレモンメロンクッキーみたいに"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000030",
+      "order": 29,
+      "index": 29,
+      "start": 56.97925,
+      "end": 60.12325,
+      "japanese": "僕の中で君を組み立てて",
+      "zh-CN": "在我心里把你拼凑完整",
+      "segments": [
+        {
+          "text": "僕の中で君を組み立てて",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "中",
+              "reading": "なか"
+            },
+            {
+              "text": "で"
+            },
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "組",
+              "reading": "く"
+            },
+            {
+              "text": "み"
+            },
+            {
+              "text": "立",
+              "reading": "た"
+            },
+            {
+              "text": "てて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000031",
+      "order": 30,
+      "index": 30,
+      "start": 60.12325,
+      "end": 61.87325,
+      "japanese": "特に特別な",
+      "zh-CN": "最最特别的",
+      "segments": [
+        {
+          "text": "特に特別な",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "特",
+              "reading": "とく"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "特別",
+              "reading": "とくべつ"
+            },
+            {
+              "text": "な"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000032",
+      "order": 31,
+      "index": 31,
+      "start": 61.87325,
+      "end": 64.81125,
+      "japanese": "最高のレシピ",
+      "zh-CN": "最棒的配方",
+      "segments": [
+        {
+          "text": "最高のレシピ",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "最高",
+              "reading": "さいこう"
+            },
+            {
+              "text": "のレシピ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000033",
+      "order": 32,
+      "index": 32,
+      "start": 64.81125,
+      "end": 68.99125,
+      "japanese": "あのねさー一口",
+      "zh-CN": "那个呀～就一口",
+      "segments": [
+        {
+          "text": "あのねさー一口",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "あのねさー"
+            },
+            {
+              "text": "一口",
+              "reading": "ひとぐち"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000034",
+      "order": 33,
+      "index": 33,
+      "start": 68.99125,
+      "end": 72.50825,
+      "japanese": "かじってみてよ",
+      "zh-CN": "咬一口尝尝看",
+      "segments": [
+        {
+          "text": "かじってみてよ",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "かじってみてよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000035",
+      "order": 34,
+      "index": 34,
+      "start": 72.50825,
+      "end": 75.62925,
+      "japanese": "君のピッスをピースをピースをピースを",
+      "zh-CN": "把你的碎片 一片 一片 一片",
+      "segments": [
+        {
+          "text": "君のピッスをピースをピースをピースを",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "のピッスをピースをピースをピースを"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000036",
+      "order": 35,
+      "index": 35,
+      "start": 75.62925,
+      "end": 77.55025,
+      "japanese": "さくさく集めて",
+      "zh-CN": "酥酥脆脆地收集起来",
+      "segments": [
+        {
+          "text": "さくさく集めて",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "さくさく"
+            },
+            {
+              "text": "集",
+              "reading": "あつ"
+            },
+            {
+              "text": "めて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000037",
+      "order": 36,
+      "index": 36,
+      "start": 77.55025,
+      "end": 81.48725,
+      "japanese": "まるでキラリキラリ不思議なハモリ",
+      "zh-CN": "就像一闪一闪 那不可思议的和声",
+      "segments": [
+        {
+          "text": "まるでキラリキラリ不思議なハモリ",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "まるでキラリキラリ"
+            },
+            {
+              "text": "不思議",
+              "reading": "ふしぎ"
+            },
+            {
+              "text": "なハモリ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000038",
+      "order": 37,
+      "index": 37,
+      "start": 81.48725,
+      "end": 83.54625,
+      "japanese": "(永遠に一緒だよ)",
+      "zh-CN": "（永远都在一起哦）",
+      "segments": [
+        {
+          "text": "(永遠に一緒だよ)",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "("
+            },
+            {
+              "text": "永遠",
+              "reading": "えいえん"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "一緒",
+              "reading": "いっしょ"
+            },
+            {
+              "text": "だよ)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000039",
+      "order": 38,
+      "index": 38,
+      "start": 83.54625,
+      "end": 86.20525,
+      "japanese": "君を傍に傍に傍に",
+      "zh-CN": "留你在身旁 身旁 身旁",
+      "segments": [
+        {
+          "text": "君を傍に傍に傍に",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "傍",
+              "reading": "そば"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "傍",
+              "reading": "そば"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "傍",
+              "reading": "そば"
+            },
+            {
+              "text": "に"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000040",
+      "order": 39,
+      "index": 39,
+      "start": 86.20525,
+      "end": 89.06225,
+      "japanese": "飾って大切にして",
+      "zh-CN": "装点起来 用心珍惜",
+      "segments": [
+        {
+          "text": "飾って大切にして",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "飾",
+              "reading": "かざ"
+            },
+            {
+              "text": "って"
+            },
+            {
+              "text": "大切",
+              "reading": "たいせつ"
+            },
+            {
+              "text": "にして"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000041",
+      "order": 40,
+      "index": 40,
+      "start": 89.06225,
+      "end": 91.71425,
+      "japanese": "ドキドキズキズキレモンメロンクッキー",
+      "zh-CN": "怦怦心动阵阵刺痛的柠檬蜜瓜曲奇",
+      "segments": [
+        {
+          "text": "ドキドキズキズキレモンメロンクッキー",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "ドキドキズキズキレモンメロンクッキー"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000042",
+      "order": 41,
+      "index": 41,
+      "start": 91.71425,
+      "end": 93.62325,
+      "japanese": "心が痛いよ",
+      "zh-CN": "心好痛啊",
+      "segments": [
+        {
+          "text": "心が痛いよ",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "心",
+              "reading": "こころ"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "痛",
+              "reading": "いた"
+            },
+            {
+              "text": "いよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000043",
+      "order": 42,
+      "index": 42,
+      "start": 93.62325,
+      "end": 94.52225,
+      "japanese": "僕の",
+      "zh-CN": "我的",
+      "segments": [
+        {
+          "text": "僕の",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "の"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000044",
+      "order": 43,
+      "index": 43,
+      "start": 94.52225,
+      "end": 96.09525,
+      "japanese": "君の",
+      "zh-CN": "你的",
+      "segments": [
+        {
+          "text": "君の",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "の"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000045",
+      "order": 44,
+      "index": 44,
+      "start": 96.09525,
+      "end": 96.89825,
+      "japanese": "But I know",
+      "zh-CN": "But I know",
+      "segments": [
+        {
+          "text": "But I know",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "But I know"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000046",
+      "order": 45,
+      "index": 45,
+      "start": 96.89825,
+      "end": 99.65725,
+      "japanese": "ドキドキドキレモンメロンクッキーみたいに",
+      "zh-CN": "就像怦怦怦心动的柠檬蜜瓜曲奇一样",
+      "segments": [
+        {
+          "text": "ドキドキドキレモンメロンクッキーみたいに",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "ドキドキドキレモンメロンクッキーみたいに"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000047",
+      "order": 46,
+      "index": 46,
+      "start": 99.65725,
+      "end": 101.16925,
+      "japanese": "酸っぱくって甘い味",
+      "zh-CN": "那种酸酸甜甜的滋味",
+      "segments": [
+        {
+          "text": "酸っぱくって甘い味",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "酸",
+              "reading": "す"
+            },
+            {
+              "text": "っぱくって"
+            },
+            {
+              "text": "甘",
+              "reading": "あま"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "味",
+              "reading": "あじ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000048",
+      "order": 47,
+      "index": 47,
+      "start": 101.16925,
+      "end": 102.30125,
+      "japanese": "(レモンメロンクッキー)",
+      "zh-CN": "（柠檬蜜瓜曲奇）",
+      "segments": [
+        {
+          "text": "(レモンメロンクッキー)",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "(レモンメロンクッキー)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000049",
+      "order": 48,
+      "index": 48,
+      "start": 102.30125,
+      "end": 104.89325,
+      "japanese": "君と僕のレモンメロンクッキーみたいに",
+      "zh-CN": "就像属于你我的柠檬蜜瓜曲奇",
+      "segments": [
+        {
+          "text": "君と僕のレモンメロンクッキーみたいに",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "と"
+            },
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "のレモンメロンクッキーみたいに"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000050",
+      "order": 49,
+      "index": 49,
+      "start": 104.89325,
+      "end": 108.13125,
+      "japanese": "僕の中で君を組み立てて",
+      "zh-CN": "在我心里把你拼凑完整",
+      "segments": [
+        {
+          "text": "僕の中で君を組み立てて",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "中",
+              "reading": "なか"
+            },
+            {
+              "text": "で"
+            },
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "組",
+              "reading": "く"
+            },
+            {
+              "text": "み"
+            },
+            {
+              "text": "立",
+              "reading": "た"
+            },
+            {
+              "text": "てて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000051",
+      "order": 50,
+      "index": 50,
+      "start": 108.13125,
+      "end": 110.42325,
+      "japanese": "特に特別な",
+      "zh-CN": "最最特别的",
+      "segments": [
+        {
+          "text": "特に特別な",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "特",
+              "reading": "とく"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "特別",
+              "reading": "とくべつ"
+            },
+            {
+              "text": "な"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000052",
+      "order": 51,
+      "index": 51,
+      "start": 110.42325,
+      "end": 113.42325,
+      "japanese": "最高のレシピ",
+      "zh-CN": "最棒的配方",
+      "segments": [
+        {
+          "text": "最高のレシピ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "最高",
+              "reading": "さいこう"
+            },
+            {
+              "text": "のレシピ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000053",
+      "order": 52,
+      "index": 52,
+      "start": 113.42325,
+      "end": 116.42325,
+      "japanese": "あのねさー一口",
+      "zh-CN": "那个呀～就一口",
+      "segments": [
+        {
+          "text": "あのねさー一口",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "あのねさー"
+            },
+            {
+              "text": "一口",
+              "reading": "ひとぐち"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000054",
+      "order": 53,
+      "index": 53,
+      "start": 116.42325,
+      "end": 117.42325,
+      "japanese": "(食べてよ)",
+      "zh-CN": "（快吃掉嘛）",
+      "segments": [
+        {
+          "text": "(食べてよ)",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "("
+            },
+            {
+              "text": "食",
+              "reading": "た"
+            },
+            {
+              "text": "べてよ)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000055",
+      "order": 54,
+      "index": 54,
+      "start": 117.42325,
+      "end": 122.42325,
+      "japanese": "さよなら、寂しいクッキー",
+      "zh-CN": "说再见啦，寂寞的曲奇",
+      "segments": [
+        {
+          "text": "さよなら、寂しいクッキー",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "さよなら、"
+            },
+            {
+              "text": "寂",
+              "reading": "さび"
+            },
+            {
+              "text": "しいクッキー"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000056",
+      "order": 55,
+      "index": 55,
+      "start": 122.42325,
+      "end": 123.72325,
+      "japanese": "かじってみてよ",
+      "zh-CN": "咬一口尝尝吧",
+      "segments": [
+        {
+          "text": "かじってみてよ",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "かじってみてよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000058",
+      "order": 57,
+      "index": 57,
+      "start": 123.72325,
+      "end": 127.42325,
+      "japanese": "トゥルル ディ ラ",
+      "zh-CN": "嘟噜噜 嘀 啦",
+      "segments": [
+        {
+          "text": "トゥルル ディ ラ",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "トゥルル ディ ラ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000059",
+      "order": 58,
+      "index": 58,
+      "start": 123.72325,
+      "end": 127.42325,
+      "japanese": "ラッ ティラリ ドゥラ",
+      "zh-CN": "啦 嘀啦哩 嘟啦",
+      "segments": [
+        {
+          "text": "ラッ ティラリ ドゥラ",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ラッ ティラリ ドゥラ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000060",
+      "order": 59,
+      "index": 59,
+      "start": 126.377325,
+      "end": 127.387326,
+      "japanese": "(レモンメロンクッキークッキー)",
+      "zh-CN": "柠檬蜜瓜曲奇曲奇",
+      "segments": [
+        {
+          "text": "(レモンメロンクッキークッキー)",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "(レモンメロンクッキークッキー)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000061",
+      "order": 60,
+      "index": 60,
+      "start": 127.42325,
+      "end": 129.86363,
+      "japanese": "レモンメロンクッキー",
+      "zh-CN": "柠檬蜜瓜曲奇",
+      "segments": [
+        {
+          "text": "レモンメロンクッキー",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "レモンメロンクッキー"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    }
+  ]
+}

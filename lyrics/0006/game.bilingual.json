@@ -1,0 +1,1130 @@
+{
+  "music_id": 6,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-01",
+      "name": "星乃一歌"
+    },
+    {
+      "performerId": "歌唱者-21",
+      "name": "初音ミク"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 25.31995,
+      "end": 27.132914,
+      "japanese": "コンコン　優しくノックして",
+      "zh-CN": "咚咚 轻柔地敲响房门",
+      "segments": [
+        {
+          "text": "コンコン　優しくノックして",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "コンコン　"
+            },
+            {
+              "text": "優",
+              "reading": "やさ"
+            },
+            {
+              "text": "しくノックして"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 27.722553,
+      "end": 29.488467,
+      "japanese": "乗り込め　ココロの奪還戦",
+      "zh-CN": "闯入其中 开启心灵的夺还战",
+      "segments": [
+        {
+          "text": "乗り込め　ココロの奪還戦",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "乗",
+              "reading": "の"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "込",
+              "reading": "こ"
+            },
+            {
+              "text": "め　ココロの"
+            },
+            {
+              "text": "奪還戦",
+              "reading": "だっかんせん"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 30.145179,
+      "end": 31.818992,
+      "japanese": "妄想ばかりが　フラッシュして",
+      "zh-CN": "脑海中只有妄想不断闪回",
+      "segments": [
+        {
+          "text": "妄想ばかりが　フラッシュして",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "妄想",
+              "reading": "もうそう"
+            },
+            {
+              "text": "ばかりが　フラッシュして"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 32.848107,
+      "end": 34.056417,
+      "japanese": "加速するパルス　答えはどこだろう",
+      "zh-CN": "加速跳动的脉搏 答案究竟在何方",
+      "segments": [
+        {
+          "text": "加速するパルス　答えはどこだろう",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "加速",
+              "reading": "かそく"
+            },
+            {
+              "text": "するパルス　"
+            },
+            {
+              "text": "答",
+              "reading": "こた"
+            },
+            {
+              "text": "えはどこだろう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 35.310295,
+      "end": 37.037995,
+      "japanese": "さあさあ弱音はミュートして",
+      "zh-CN": "来吧来吧 把丧气话彻底静音",
+      "segments": [
+        {
+          "text": "さあさあ弱音はミュートして",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "さあさあ"
+            },
+            {
+              "text": "弱音",
+              "reading": "よわね"
+            },
+            {
+              "text": "はミュートして"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 37.037995,
+      "end": 39.519563,
+      "japanese": "くだらないことで躊躇して",
+      "zh-CN": "却还在为无聊的小事犹豫不决",
+      "segments": [
+        {
+          "text": "くだらないことで躊躇して",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "くだらないことで"
+            },
+            {
+              "text": "躊躇",
+              "reading": "ちゅうちょ"
+            },
+            {
+              "text": "して"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 39.795636,
+      "end": 41.841853,
+      "japanese": "冗談ばかりね？あっはっは",
+      "zh-CN": "尽是在开玩笑呢？啊哈哈",
+      "segments": [
+        {
+          "text": "冗談ばかりね？あっはっは",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "冗談",
+              "reading": "じょうだん"
+            },
+            {
+              "text": "ばかりね？あっはっは"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 42.348402,
+      "end": 44.300517,
+      "japanese": "壊せない壁が　キスを迫るでしょう",
+      "zh-CN": "无法打破的高墙 正在逼迫着献吻吧",
+      "segments": [
+        {
+          "text": "壊せない壁が　キスを迫るでしょう",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "壊",
+              "reading": "こわ"
+            },
+            {
+              "text": "せない"
+            },
+            {
+              "text": "壁",
+              "reading": "かべ"
+            },
+            {
+              "text": "が　キスを"
+            },
+            {
+              "text": "迫",
+              "reading": "せま"
+            },
+            {
+              "text": "るでしょう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 45.236568,
+      "end": 47.382195,
+      "japanese": "嗚呼、厭　「そんなわけないや」",
+      "zh-CN": "啊啊 讨厌 “怎么可能会这样”",
+      "segments": [
+        {
+          "text": "嗚呼、厭　",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "嗚呼",
+              "reading": "ああ"
+            },
+            {
+              "text": "、"
+            },
+            {
+              "text": "厭",
+              "reading": "いや"
+            },
+            {
+              "text": "　"
+            }
+          ]
+        },
+        {
+          "text": "「そんなわけないや」",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "「そんなわけないや」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 47.806121,
+      "end": 49.597809,
+      "japanese": "嗚呼、厭　「わかってくれるでしょ」",
+      "zh-CN": "啊啊 讨厌 “你一定会理解我的吧”",
+      "segments": [
+        {
+          "text": "嗚呼、厭　",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "嗚呼",
+              "reading": "ああ"
+            },
+            {
+              "text": "、"
+            },
+            {
+              "text": "厭",
+              "reading": "いや"
+            },
+            {
+              "text": "　"
+            }
+          ]
+        },
+        {
+          "text": "「わかってくれるでしょ」",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "「わかってくれるでしょ」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 49.911754,
+      "end": 53.73109,
+      "japanese": "その頭を撃ち抜いて",
+      "zh-CN": "狠狠贯穿那个脑袋",
+      "segments": [
+        {
+          "text": "その頭を撃ち抜いて",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "その"
+            },
+            {
+              "text": "頭",
+              "reading": "あたま"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "撃",
+              "reading": "う"
+            },
+            {
+              "text": "ち"
+            },
+            {
+              "text": "抜",
+              "reading": "ぬ"
+            },
+            {
+              "text": "いて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 54.45,
+      "end": 57.11,
+      "japanese": "終わんない愛を抱いてたくないの",
+      "zh-CN": "我可不想一直抱着没有终点的爱意",
+      "segments": [
+        {
+          "text": "終わんない愛を抱いてたくないの",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "終",
+              "reading": "お"
+            },
+            {
+              "text": "わんない"
+            },
+            {
+              "text": "愛",
+              "reading": "あい"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "抱",
+              "reading": "だ"
+            },
+            {
+              "text": "いてたくないの"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 57.078507,
+      "end": 58.968178,
+      "japanese": "もっとちゃんと不安にしてよ",
+      "zh-CN": "再多让我感到一丝不安吧",
+      "segments": [
+        {
+          "text": "もっとちゃんと不安にしてよ",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "もっとちゃんと"
+            },
+            {
+              "text": "不安",
+              "reading": "ふあん"
+            },
+            {
+              "text": "にしてよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 59.150147,
+      "end": 61.445747,
+      "japanese": "いないいないばぁで演じて欲しいの",
+      "zh-CN": "想要你像捉迷藏一般为我表演",
+      "segments": [
+        {
+          "text": "いないいないばぁで演じて欲しいの",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "いないいないばぁで"
+            },
+            {
+              "text": "演",
+              "reading": "えん"
+            },
+            {
+              "text": "じて"
+            },
+            {
+              "text": "欲",
+              "reading": "ほ"
+            },
+            {
+              "text": "しいの"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 61.809684,
+      "end": 63.641365,
+      "japanese": "もっとちゃんと応えてよ",
+      "zh-CN": "再更加认真地回应我吧",
+      "segments": [
+        {
+          "text": "もっとちゃんと応えてよ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "もっとちゃんと"
+            },
+            {
+              "text": "応",
+              "reading": "こた"
+            },
+            {
+              "text": "えてよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 63.78,
+      "end": 66.4,
+      "japanese": "nanana",
+      "zh-CN": "nanana",
+      "segments": [
+        {
+          "text": "nanana",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "nanana"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 66.4,
+      "end": 68.76,
+      "japanese": "「未完成」だって何度でも言うんだ",
+      "zh-CN": "无论多少次都会说出“仍未完成”",
+      "segments": [
+        {
+          "text": "「未完成」だって何度でも言うんだ",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "「"
+            },
+            {
+              "text": "未完成",
+              "reading": "みかんせい"
+            },
+            {
+              "text": "」だって"
+            },
+            {
+              "text": "何度",
+              "reading": "なんど"
+            },
+            {
+              "text": "でも"
+            },
+            {
+              "text": "言",
+              "reading": "い"
+            },
+            {
+              "text": "うんだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 68.76,
+      "end": 71.13,
+      "japanese": "nanana",
+      "zh-CN": "nanana",
+      "segments": [
+        {
+          "text": "nanana",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "nanana"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 71.13,
+      "end": 73.53,
+      "japanese": "NOを空振った愛の中で",
+      "zh-CN": "在将拒绝扑了个空的爱意之中",
+      "segments": [
+        {
+          "text": "NOを空振った愛の中で",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "NOを"
+            },
+            {
+              "text": "空振",
+              "reading": "からぶ"
+            },
+            {
+              "text": "った"
+            },
+            {
+              "text": "愛",
+              "reading": "あい"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "中",
+              "reading": "なか"
+            },
+            {
+              "text": "で"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 73.68,
+      "end": 76.3,
+      "japanese": "不甲斐ない　愛を愛したくないの",
+      "zh-CN": "我可不想去爱这窝囊透顶的爱",
+      "segments": [
+        {
+          "text": "不甲斐ない　愛を愛したくないの",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "不甲斐",
+              "reading": "ふがい"
+            },
+            {
+              "text": "ない　"
+            },
+            {
+              "text": "愛",
+              "reading": "あい"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "愛",
+              "reading": "あい"
+            },
+            {
+              "text": "したくないの"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 76.3,
+      "end": 78.41,
+      "japanese": "もっとちゃんと痛くしてよ",
+      "zh-CN": "再更加痛快地让我感到疼痛吧",
+      "segments": [
+        {
+          "text": "もっとちゃんと痛くしてよ",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "もっとちゃんと"
+            },
+            {
+              "text": "痛",
+              "reading": "いた"
+            },
+            {
+              "text": "くしてよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 78.41,
+      "end": 81.09,
+      "japanese": "笑えないくらいが　きっと楽しいの",
+      "zh-CN": "甚至笑不出来的程度 才肯定更有趣吧",
+      "segments": [
+        {
+          "text": "笑えないくらいが　きっと楽しいの",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "笑",
+              "reading": "わら"
+            },
+            {
+              "text": "えないくらいが　きっと"
+            },
+            {
+              "text": "楽",
+              "reading": "たの"
+            },
+            {
+              "text": "しいの"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000023",
+      "order": 22,
+      "index": 22,
+      "start": 81.09,
+      "end": 82.97,
+      "japanese": "もっとちゃんと溶かしてよ",
+      "zh-CN": "再更加彻底地融化我吧",
+      "segments": [
+        {
+          "text": "もっとちゃんと溶かしてよ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "もっとちゃんと"
+            },
+            {
+              "text": "溶",
+              "reading": "と"
+            },
+            {
+              "text": "かしてよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000024",
+      "order": 23,
+      "index": 23,
+      "start": 82.98,
+      "end": 85.57,
+      "japanese": "nanana",
+      "zh-CN": "nanana",
+      "segments": [
+        {
+          "text": "nanana",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "nanana"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000025",
+      "order": 24,
+      "index": 24,
+      "start": 85.57,
+      "end": 87.85,
+      "japanese": "「未完成」だって何度でも言うんだ",
+      "zh-CN": "无论多少次都会说出“仍未完成”",
+      "segments": [
+        {
+          "text": "「未完成」だって何度でも言うんだ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "「"
+            },
+            {
+              "text": "未完成",
+              "reading": "みかんせい"
+            },
+            {
+              "text": "」だって"
+            },
+            {
+              "text": "何度",
+              "reading": "なんど"
+            },
+            {
+              "text": "でも"
+            },
+            {
+              "text": "言",
+              "reading": "い"
+            },
+            {
+              "text": "うんだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000026",
+      "order": 25,
+      "index": 25,
+      "start": 87.85,
+      "end": 90.4,
+      "japanese": "nanana",
+      "zh-CN": "nanana",
+      "segments": [
+        {
+          "text": "nanana",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "nanana"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000027",
+      "order": 26,
+      "index": 26,
+      "start": 90.4,
+      "end": 92.59,
+      "japanese": "NOを空振った愛の中で",
+      "zh-CN": "在将拒绝扑了个空的爱意之中",
+      "segments": [
+        {
+          "text": "NOを空振った愛の中で",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "NOを"
+            },
+            {
+              "text": "空振",
+              "reading": "からぶ"
+            },
+            {
+              "text": "った"
+            },
+            {
+              "text": "愛",
+              "reading": "あい"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "中",
+              "reading": "なか"
+            },
+            {
+              "text": "で"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000028",
+      "order": 27,
+      "index": 27,
+      "start": 92.6,
+      "end": 95.22,
+      "japanese": "nanana",
+      "zh-CN": "nanana",
+      "segments": [
+        {
+          "text": "nanana",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "nanana"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000029",
+      "order": 28,
+      "index": 28,
+      "start": 95.22,
+      "end": 97.44,
+      "japanese": "「未完成」だって何度でも言うんだ",
+      "zh-CN": "无论多少次都会说出“仍未完成”",
+      "segments": [
+        {
+          "text": "「未完成」だって何度でも言うんだ",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "「"
+            },
+            {
+              "text": "未完成",
+              "reading": "みかんせい"
+            },
+            {
+              "text": "」だって"
+            },
+            {
+              "text": "何度",
+              "reading": "なんど"
+            },
+            {
+              "text": "でも"
+            },
+            {
+              "text": "言",
+              "reading": "い"
+            },
+            {
+              "text": "うんだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000030",
+      "order": 29,
+      "index": 29,
+      "start": 97.44,
+      "end": 100.01,
+      "japanese": "nanana",
+      "zh-CN": "nanana",
+      "segments": [
+        {
+          "text": "nanana",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "nanana"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000031",
+      "order": 30,
+      "index": 30,
+      "start": 100.01,
+      "end": 102.26,
+      "japanese": "NOを空振った愛の中で",
+      "zh-CN": "在将拒绝扑了个空的爱意之中",
+      "segments": [
+        {
+          "text": "NOを空振った愛の中で",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "NOを"
+            },
+            {
+              "text": "空振",
+              "reading": "からぶ"
+            },
+            {
+              "text": "った"
+            },
+            {
+              "text": "愛",
+              "reading": "あい"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "中",
+              "reading": "なか"
+            },
+            {
+              "text": "で"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

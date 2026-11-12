@@ -1,0 +1,1428 @@
+{
+  "music_id": 57,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-05",
+      "name": "花里みのり"
+    },
+    {
+      "performerId": "歌唱者-06",
+      "name": "桐谷遥"
+    },
+    {
+      "performerId": "歌唱者-07",
+      "name": "桃井愛莉"
+    },
+    {
+      "performerId": "歌唱者-08",
+      "name": "日野森雫"
+    },
+    {
+      "performerId": "歌唱者-21",
+      "name": "初音ミク"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 9.0333,
+      "end": 10.28,
+      "japanese": "More More（フッフー）",
+      "zh-CN": "More More（呼——呼——）",
+      "segments": [
+        {
+          "text": "More More",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "More More"
+            }
+          ]
+        },
+        {
+          "text": "（フッフー）",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "（フッフー）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 10.28,
+      "end": 11.66,
+      "japanese": "More More（フッフー）",
+      "zh-CN": "More More（呼——呼——）",
+      "segments": [
+        {
+          "text": "More More",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "More More"
+            }
+          ]
+        },
+        {
+          "text": "（フッフー）",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "（フッフー）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 11.66,
+      "end": 13.03,
+      "japanese": "More More（フッフー）",
+      "zh-CN": "More More（呼——呼——）",
+      "segments": [
+        {
+          "text": "More More",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "More More"
+            }
+          ]
+        },
+        {
+          "text": "（フッフー）",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "（フッフー）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 13.03,
+      "end": 14.71,
+      "japanese": "More More",
+      "zh-CN": "More More",
+      "segments": [
+        {
+          "text": "More More",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "More More"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 14.71,
+      "end": 17.19,
+      "japanese": "Jump!! 限界超え（みのり）",
+      "zh-CN": "Jump!! 跨越极限（实乃里）",
+      "segments": [
+        {
+          "text": "Jump!! 限界超え",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "Jump!! "
+            },
+            {
+              "text": "限界超",
+              "reading": "げんかいこ"
+            },
+            {
+              "text": "え"
+            }
+          ]
+        },
+        {
+          "text": "（みのり）",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "（みのり）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 17.19,
+      "end": 20.18,
+      "japanese": "完全無欠スターを目指せ",
+      "zh-CN": "向着十全十美的超级偶像进发",
+      "segments": [
+        {
+          "text": "完全無欠スターを目指せ",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "完全無欠",
+              "reading": "かんぜんむけつ"
+            },
+            {
+              "text": "スターを"
+            },
+            {
+              "text": "目指",
+              "reading": "めざ"
+            },
+            {
+              "text": "せ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 20.18,
+      "end": 22.62,
+      "japanese": "Jump!! 元気をシェア（遥）",
+      "zh-CN": "Jump!! 传递元气（遥）",
+      "segments": [
+        {
+          "text": "Jump!! 元気をシェア",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "Jump!! "
+            },
+            {
+              "text": "元気",
+              "reading": "げんき"
+            },
+            {
+              "text": "をシェア"
+            }
+          ]
+        },
+        {
+          "text": "（遥）",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "（"
+            },
+            {
+              "text": "遥",
+              "reading": "はるか"
+            },
+            {
+              "text": "）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 22.62,
+      "end": 25.3,
+      "japanese": "負けない者の女神よ",
+      "zh-CN": "永不言败的胜利女神",
+      "segments": [
+        {
+          "text": "負けない者の女神よ",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "負",
+              "reading": "ま"
+            },
+            {
+              "text": "けない"
+            },
+            {
+              "text": "者",
+              "reading": "もの"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "女神",
+              "reading": "めがみ"
+            },
+            {
+              "text": "よ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 25.3,
+      "end": 30.71,
+      "japanese": "消せぬ夢で結ばれた（モ・モ・ジャン 命）",
+      "zh-CN": "因永不熄灭的梦想紧密相连（桃跳！ 倾尽全力）",
+      "segments": [
+        {
+          "text": "消せぬ夢で結ばれた（モ・モ・ジャン 命）",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "消",
+              "reading": "け"
+            },
+            {
+              "text": "せぬ"
+            },
+            {
+              "text": "夢",
+              "reading": "ゆめ"
+            },
+            {
+              "text": "で"
+            },
+            {
+              "text": "結",
+              "reading": "むす"
+            },
+            {
+              "text": "ばれた（モ・モ・ジャン "
+            },
+            {
+              "text": "命",
+              "reading": "いのち"
+            },
+            {
+              "text": "）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 30.71,
+      "end": 33.66,
+      "japanese": "We are アイドル新鋭隊",
+      "zh-CN": "We are 偶像新锐队",
+      "segments": [
+        {
+          "text": "We are アイドル新鋭隊",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "We are アイドル"
+            },
+            {
+              "text": "新鋭隊",
+              "reading": "しんえいたい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 33.66,
+      "end": 34.89,
+      "japanese": "（L・O・V・E）",
+      "zh-CN": "（L・O・V・E）",
+      "segments": [
+        {
+          "text": "（L・O・V・E）",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "（L・O・V・E）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 34.89,
+      "end": 36.37,
+      "japanese": "More More Jump!!",
+      "zh-CN": "More More Jump!!",
+      "segments": [
+        {
+          "text": "More More Jump!!",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "More More Jump!!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 36.57,
+      "end": 40.3,
+      "japanese": "（ハイ・ハイ・ハイ・ハイ・ハイ・ハイ）",
+      "zh-CN": "（嗨・嗨・嗨・嗨・嗨・嗨）",
+      "segments": [
+        {
+          "text": "（ハイ・ハイ・ハイ・ハイ・ハイ・ハイ）",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "（ハイ・ハイ・ハイ・ハイ・ハイ・ハイ）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 40.3,
+      "end": 41.22,
+      "japanese": "ジャジャジャン",
+      "zh-CN": "锵锵锵",
+      "segments": [
+        {
+          "text": "ジャジャジャン",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ジャジャジャン"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 41.266282,
+      "end": 44.662222,
+      "japanese": "落ち込むなんて日常茶飯事",
+      "zh-CN": "情绪低落不过是家常便饭",
+      "segments": [
+        {
+          "text": "落ち込むなんて日常茶飯事",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "落",
+              "reading": "お"
+            },
+            {
+              "text": "ち"
+            },
+            {
+              "text": "込",
+              "reading": "こ"
+            },
+            {
+              "text": "むなんて"
+            },
+            {
+              "text": "日常茶飯事",
+              "reading": "にちじょうさはんじ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 44.600054,
+      "end": 46.603302,
+      "japanese": "（ファイト・ファイト みのり）",
+      "zh-CN": "（加油・加油 实乃里）",
+      "segments": [
+        {
+          "text": "（ファイト・ファイト みのり）",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "（ファイト・ファイト みのり）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 46.789185,
+      "end": 49.94013,
+      "japanese": "けど速攻笑顔取り戻すわ",
+      "zh-CN": "但立刻就能重拾灿烂笑容哦",
+      "segments": [
+        {
+          "text": "けど速攻笑顔取り戻すわ",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "けど"
+            },
+            {
+              "text": "速攻笑顔取",
+              "reading": "そっこうえがおと"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "戻",
+              "reading": "もど"
+            },
+            {
+              "text": "すわ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 50.015021,
+      "end": 52.084245,
+      "japanese": "（キューティー・スマイル 遥）",
+      "zh-CN": "（可爱・甜美笑容 遥）",
+      "segments": [
+        {
+          "text": "（キューティー・スマイル 遥）",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "（キューティー・スマイル "
+            },
+            {
+              "text": "遥",
+              "reading": "はるか"
+            },
+            {
+              "text": "）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 52.589084,
+      "end": 57.690995,
+      "japanese": "一度きりのティーンの儚い花盛り",
+      "zh-CN": "仅有一次的短暂青春豆蔻年华",
+      "segments": [
+        {
+          "text": "一度きりのティーンの儚い花盛り",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "一度",
+              "reading": "いちど"
+            },
+            {
+              "text": "きりのティーンの"
+            },
+            {
+              "text": "儚",
+              "reading": "はかな"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "花盛",
+              "reading": "はなざか"
+            },
+            {
+              "text": "り"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 58.134988,
+      "end": 60.84294,
+      "japanese": "下向いてちゃ人生は損",
+      "zh-CN": "一味垂头丧气可是人生大亏",
+      "segments": [
+        {
+          "text": "下向いてちゃ人生は損",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "下向",
+              "reading": "したむ"
+            },
+            {
+              "text": "いてちゃ"
+            },
+            {
+              "text": "人生",
+              "reading": "じんせい"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "損",
+              "reading": "そん"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 60.84294,
+      "end": 63.111901,
+      "japanese": "（フレッシュ・アイドル イェーイ）",
+      "zh-CN": "（元气满满的活力偶像 耶）",
+      "segments": [
+        {
+          "text": "（フレッシュ・アイドル イェーイ）",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "（フレッシュ・アイドル イェーイ）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 63.111901,
+      "end": 66.433843,
+      "japanese": "事務所の方針なんて無視",
+      "zh-CN": "事务所的刻板方针统统无视",
+      "segments": [
+        {
+          "text": "事務所の方針なんて無視",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "事務所",
+              "reading": "じむしょ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "方針",
+              "reading": "ほうしん"
+            },
+            {
+              "text": "なんて"
+            },
+            {
+              "text": "無視",
+              "reading": "むし"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000023",
+      "order": 22,
+      "index": 22,
+      "start": 66.291912,
+      "end": 68.324149,
+      "japanese": "（ツンデレ・ガール 愛莉）",
+      "zh-CN": "（傲娇・女孩 爱莉）",
+      "segments": [
+        {
+          "text": "（ツンデレ・ガール 愛莉）",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "（ツンデレ・ガール "
+            },
+            {
+              "text": "愛莉",
+              "reading": "あいり"
+            },
+            {
+              "text": "）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000024",
+      "order": 23,
+      "index": 23,
+      "start": 68.685804,
+      "end": 71.960747,
+      "japanese": "ビジネスライクで演じるのイヤ",
+      "zh-CN": "商业化的做作表演我才讨厌",
+      "segments": [
+        {
+          "text": "ビジネスライクで演じるのイヤ",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "ビジネスライクで"
+            },
+            {
+              "text": "演",
+              "reading": "えん"
+            },
+            {
+              "text": "じるのイヤ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000025",
+      "order": 24,
+      "index": 24,
+      "start": 71.75786,
+      "end": 73.874066,
+      "japanese": "（G・U・T・S 雫）",
+      "zh-CN": "（G・U・T・S 雫）",
+      "segments": [
+        {
+          "text": "（G・U・T・S 雫）",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "（G・U・T・S "
+            },
+            {
+              "text": "雫",
+              "reading": "しずく"
+            },
+            {
+              "text": "）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000026",
+      "order": 25,
+      "index": 25,
+      "start": 74.355705,
+      "end": 79.667612,
+      "japanese": "心に嘘つかず",
+      "zh-CN": "绝不违背自己的真心",
+      "segments": [
+        {
+          "text": "心に嘘つかず",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "心",
+              "reading": "こころ"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "嘘",
+              "reading": "うそ"
+            },
+            {
+              "text": "つかず"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000027",
+      "order": 26,
+      "index": 26,
+      "start": 74.355705,
+      "end": 79.667612,
+      "japanese": "spotlight 浴び step 踏めば",
+      "zh-CN": "沐浴聚光灯 下一步步踏出舞步",
+      "segments": [
+        {
+          "text": "spotlight 浴び step 踏めば",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "spotlight "
+            },
+            {
+              "text": "浴",
+              "reading": "あ"
+            },
+            {
+              "text": "び step "
+            },
+            {
+              "text": "踏",
+              "reading": "ふ"
+            },
+            {
+              "text": "めば"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000028",
+      "order": 27,
+      "index": 27,
+      "start": 80.001607,
+      "end": 82.836557,
+      "japanese": "駆け上がる道照らされるよ",
+      "zh-CN": "奋勇登顶的道路便会被照亮哦",
+      "segments": [
+        {
+          "text": "駆け上がる道照らされるよ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "駆",
+              "reading": "か"
+            },
+            {
+              "text": "け"
+            },
+            {
+              "text": "上",
+              "reading": "あ"
+            },
+            {
+              "text": "がる"
+            },
+            {
+              "text": "道照",
+              "reading": "みちて"
+            },
+            {
+              "text": "らされるよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000029",
+      "order": 28,
+      "index": 28,
+      "start": 82.836557,
+      "end": 84.543528,
+      "japanese": "（ウー・レッツゴー）",
+      "zh-CN": "（呜——出发吧）",
+      "segments": [
+        {
+          "text": "（ウー・レッツゴー）",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "（ウー・レッツゴー）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000030",
+      "order": 29,
+      "index": 29,
+      "start": 84.622032,
+      "end": 88.002763,
+      "japanese": "More More Jump!! 限界超え（愛莉）",
+      "zh-CN": "More More Jump!! 跨越极限（爱莉）",
+      "segments": [
+        {
+          "text": "More More Jump!! 限界超え",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "More More Jump!! "
+            },
+            {
+              "text": "限界超",
+              "reading": "げんかいこ"
+            },
+            {
+              "text": "え"
+            }
+          ]
+        },
+        {
+          "text": "（愛莉）",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "（"
+            },
+            {
+              "text": "愛莉",
+              "reading": "あいり"
+            },
+            {
+              "text": "）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000031",
+      "order": 30,
+      "index": 30,
+      "start": 88.044467,
+      "end": 91.096413,
+      "japanese": "完全無欠スターを目指せ",
+      "zh-CN": "向着十全十美的超级偶像进发",
+      "segments": [
+        {
+          "text": "完全無欠スターを目指せ",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "完全無欠",
+              "reading": "かんぜんむけつ"
+            },
+            {
+              "text": "スターを"
+            },
+            {
+              "text": "目指",
+              "reading": "めざ"
+            },
+            {
+              "text": "せ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000032",
+      "order": 31,
+      "index": 31,
+      "start": 91.172573,
+      "end": 93.354754,
+      "japanese": "Jump!! 元気をシェア（雫）",
+      "zh-CN": "Jump!! 传递元气（雫）",
+      "segments": [
+        {
+          "text": "Jump!! 元気をシェア",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "Jump!! "
+            },
+            {
+              "text": "元気",
+              "reading": "げんき"
+            },
+            {
+              "text": "をシェア"
+            }
+          ]
+        },
+        {
+          "text": "（雫）",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "（"
+            },
+            {
+              "text": "雫",
+              "reading": "しずく"
+            },
+            {
+              "text": "）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000033",
+      "order": 32,
+      "index": 32,
+      "start": 93.409373,
+      "end": 96.123326,
+      "japanese": "負けない者の女神よ",
+      "zh-CN": "永不言败的胜利女神",
+      "segments": [
+        {
+          "text": "負けない者の女神よ",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "負",
+              "reading": "ま"
+            },
+            {
+              "text": "けない"
+            },
+            {
+              "text": "者",
+              "reading": "もの"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "女神",
+              "reading": "めがみ"
+            },
+            {
+              "text": "よ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000034",
+      "order": 33,
+      "index": 33,
+      "start": 96.123326,
+      "end": 101.653229,
+      "japanese": "消せぬ夢で結ばれた（モ・モ・ジャン 命）",
+      "zh-CN": "因永不熄灭的梦想紧密相连（桃跳！ 倾尽全力）",
+      "segments": [
+        {
+          "text": "消せぬ夢で結ばれた（モ・モ・ジャン 命）",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "消",
+              "reading": "け"
+            },
+            {
+              "text": "せぬ"
+            },
+            {
+              "text": "夢",
+              "reading": "ゆめ"
+            },
+            {
+              "text": "で"
+            },
+            {
+              "text": "結",
+              "reading": "むす"
+            },
+            {
+              "text": "ばれた（モ・モ・ジャン "
+            },
+            {
+              "text": "命",
+              "reading": "いのち"
+            },
+            {
+              "text": "）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000035",
+      "order": 34,
+      "index": 34,
+      "start": 101.653229,
+      "end": 104.802175,
+      "japanese": "We are アイドル新鋭隊",
+      "zh-CN": "We are 偶像新锐队",
+      "segments": [
+        {
+          "text": "We are アイドル新鋭隊",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "We are アイドル"
+            },
+            {
+              "text": "新鋭隊",
+              "reading": "しんえいたい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000036",
+      "order": 35,
+      "index": 35,
+      "start": 104.802175,
+      "end": 105.770158,
+      "japanese": "（L・O・V・E）",
+      "zh-CN": "（L・O・V・E）",
+      "segments": [
+        {
+          "text": "（L・O・V・E）",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "（L・O・V・E）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000037",
+      "order": 36,
+      "index": 36,
+      "start": 105.77,
+      "end": 107.49,
+      "japanese": "More More Jump!!",
+      "zh-CN": "More More Jump!!",
+      "segments": [
+        {
+          "text": "More More Jump!!",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "More More Jump!!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

@@ -1,0 +1,806 @@
+{
+  "music_id": 536,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-11",
+      "name": "東雲彰人"
+    },
+    {
+      "performerId": "歌唱者-12",
+      "name": "青柳冬弥"
+    },
+    {
+      "performerId": "歌唱者-13",
+      "name": "天馬司"
+    },
+    {
+      "performerId": "歌唱者-16",
+      "name": "神代類"
+    },
+    {
+      "performerId": "歌唱者-23",
+      "name": "鏡音レン"
+    },
+    {
+      "performerId": "歌唱者-26",
+      "name": "KAITO"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 9.35925,
+      "end": 34.87325,
+      "japanese": "「最初から君を好きでいられて良かった」なんて　空に歌うんだ",
+      "zh-CN": "「庆幸自己从一开始就能够喜欢上你」如此对着天空高歌",
+      "segments": [
+        {
+          "text": "「最初から君を好きでいられて良かった」なんて　",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "「"
+            },
+            {
+              "text": "最初",
+              "reading": "さいしょ"
+            },
+            {
+              "text": "から"
+            },
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "好",
+              "reading": "す"
+            },
+            {
+              "text": "きでいられて"
+            },
+            {
+              "text": "良",
+              "reading": "よ"
+            },
+            {
+              "text": "かった」なんて　"
+            }
+          ]
+        },
+        {
+          "text": "空に歌うんだ",
+          "performerIds": [
+            "歌唱者-23",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "空",
+              "reading": "そら"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "歌",
+              "reading": "うた"
+            },
+            {
+              "text": "うんだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 1,
+      "start": 23.57575,
+      "end": 26.32575,
+      "japanese": "ｱｯｵ-ｴｰｲｴｲｴｰ!!♪",
+      "zh-CN": "嗷—耶—咿耶咿耶—！！♪",
+      "segments": [
+        {
+          "text": "ｱｯｵ-ｴｰｲｴｲｴｰ!!♪",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "ｱｯｵ-ｴｰｲｴｲｴｰ!!♪"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 2,
+      "start": 26.32575,
+      "end": 29.07575,
+      "japanese": "ｱｯｵｰ♪ｴｰｲｴｲｴｰ♪",
+      "zh-CN": "嗷—♪耶—咿耶咿耶—♪",
+      "segments": [
+        {
+          "text": "ｱｯｵｰ♪ｴｰｲｴｲｴｰ♪",
+          "performerIds": [
+            "歌唱者-12",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "ｱｯｵｰ♪ｴｰｲｴｲｴｰ♪"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 3,
+      "start": 29.07575,
+      "end": 31.82575,
+      "japanese": "ｱｯｵ-ｴｰｲｴｲｴｰ!!♪",
+      "zh-CN": "嗷—耶—咿耶咿耶—！！♪",
+      "segments": [
+        {
+          "text": "ｱｯｵ-ｴｰｲｴｲｴｰ!!♪",
+          "performerIds": [
+            "歌唱者-11",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "ｱｯｵ-ｴｰｲｴｲｴｰ!!♪"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 4,
+      "start": 31.82575,
+      "end": 34.57575,
+      "japanese": "ｱｯｵｰ♪ｴｰｲｴｲｴｰ♪",
+      "zh-CN": "嗷—♪耶—咿耶咿耶—♪",
+      "segments": [
+        {
+          "text": "ｱｯｵｰ♪ｴｰｲｴｲｴｰ♪",
+          "performerIds": [
+            "歌唱者-16",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "ｱｯｵｰ♪ｴｰｲｴｲｴｰ♪"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 34.87325,
+      "end": 39.09525,
+      "japanese": "詰め込んだ夢を　打ち上げる場所",
+      "zh-CN": "能够将满载的梦想 彻底打响绽放的场所",
+      "segments": [
+        {
+          "text": "詰め込んだ夢を　打ち上げる場所",
+          "performerIds": [
+            "歌唱者-12",
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "詰",
+              "reading": "つ"
+            },
+            {
+              "text": "め"
+            },
+            {
+              "text": "込",
+              "reading": "こ"
+            },
+            {
+              "text": "んだ"
+            },
+            {
+              "text": "夢",
+              "reading": "ゆめ"
+            },
+            {
+              "text": "を　"
+            },
+            {
+              "text": "打",
+              "reading": "う"
+            },
+            {
+              "text": "ち"
+            },
+            {
+              "text": "上",
+              "reading": "あ"
+            },
+            {
+              "text": "げる"
+            },
+            {
+              "text": "場所",
+              "reading": "ばしょ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 39.09525,
+      "end": 45.44725,
+      "japanese": "探し求めて　この街から出た",
+      "zh-CN": "为了四处寻觅 终于动身离开了这座小镇",
+      "segments": [
+        {
+          "text": "探し求めて　この街から出た",
+          "performerIds": [
+            "歌唱者-11",
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "探",
+              "reading": "さが"
+            },
+            {
+              "text": "し"
+            },
+            {
+              "text": "求",
+              "reading": "もと"
+            },
+            {
+              "text": "めて　この"
+            },
+            {
+              "text": "街",
+              "reading": "まち"
+            },
+            {
+              "text": "から"
+            },
+            {
+              "text": "出",
+              "reading": "で"
+            },
+            {
+              "text": "た"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 45.44725,
+      "end": 50.19325,
+      "japanese": "震える着信　電源を切った",
+      "zh-CN": "震动的来电 随手切断了电源",
+      "segments": [
+        {
+          "text": "震える着信　電源を切った",
+          "performerIds": [
+            "歌唱者-12",
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "震",
+              "reading": "ふる"
+            },
+            {
+              "text": "える"
+            },
+            {
+              "text": "着信",
+              "reading": "ちゃくしん"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "電源",
+              "reading": "でんげん"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "切",
+              "reading": "き"
+            },
+            {
+              "text": "った"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 50.19325,
+      "end": 55.70725,
+      "japanese": "燃え出す導火線　誰も止められない",
+      "zh-CN": "导火线已经点燃 谁也无法将其阻拦",
+      "segments": [
+        {
+          "text": "燃え出す導火線　誰も止められない",
+          "performerIds": [
+            "歌唱者-11",
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "燃",
+              "reading": "も"
+            },
+            {
+              "text": "え"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "す"
+            },
+            {
+              "text": "導火線",
+              "reading": "どうかせん"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "誰",
+              "reading": "だれ"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "止",
+              "reading": "と"
+            },
+            {
+              "text": "められない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 55.70725,
+      "end": 61.88325,
+      "japanese": "世界の終わりが　今訪れたとしたら",
+      "zh-CN": "假若世界的终结 在此刻骤然降临",
+      "segments": [
+        {
+          "text": "世界の終わりが　",
+          "performerIds": [
+            "歌唱者-11",
+            "歌唱者-16",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "世界",
+              "reading": "せかい"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "終",
+              "reading": "お"
+            },
+            {
+              "text": "わりが　"
+            }
+          ]
+        },
+        {
+          "text": "今訪れたとしたら",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "今訪",
+              "reading": "いまおとず"
+            },
+            {
+              "text": "れたとしたら"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 61.88325,
+      "end": 68.77525,
+      "japanese": "全部ほっぽって　ふたり永遠に一緒なのにね",
+      "zh-CN": "抛下所有的一切 我们便能永远厮守在一起了呢",
+      "segments": [
+        {
+          "text": "全部ほっぽって　",
+          "performerIds": [
+            "歌唱者-12",
+            "歌唱者-13",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "全部",
+              "reading": "ぜんぶ"
+            },
+            {
+              "text": "ほっぽって　"
+            }
+          ]
+        },
+        {
+          "text": "ふたり永遠に一緒なのにね",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "ふたり"
+            },
+            {
+              "text": "永遠",
+              "reading": "えいえん"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "一緒",
+              "reading": "いっしょ"
+            },
+            {
+              "text": "なのにね"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 68.77525,
+      "end": 72.002,
+      "japanese": "(LIKE A FIRE FLOWER)",
+      "zh-CN": "(LIKE A FIRE FLOWER)",
+      "segments": [
+        {
+          "text": "(LIKE A ",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "(LIKE A "
+            }
+          ]
+        },
+        {
+          "text": "FIRE FLOWER)",
+          "performerIds": [
+            "歌唱者-11",
+            "歌唱者-12",
+            "歌唱者-13",
+            "歌唱者-16",
+            "歌唱者-23",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "FIRE FLOWER)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 72.002,
+      "end": 81.063,
+      "japanese": "いつか　夜空に大輪を　咲かすその時まで待ってくれ",
+      "zh-CN": "终有一天 在夜空绽放硕大花朵的那一刻之前 请等着我",
+      "segments": [
+        {
+          "text": "いつか　夜空に大輪を　咲かすその時まで待ってくれ",
+          "performerIds": [
+            "歌唱者-11",
+            "歌唱者-12",
+            "歌唱者-13",
+            "歌唱者-16",
+            "歌唱者-23",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "いつか　"
+            },
+            {
+              "text": "夜空",
+              "reading": "よぞら"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "大輪",
+              "reading": "たいりん"
+            },
+            {
+              "text": "を　"
+            },
+            {
+              "text": "咲",
+              "reading": "さ"
+            },
+            {
+              "text": "かすその"
+            },
+            {
+              "text": "時",
+              "reading": "とき"
+            },
+            {
+              "text": "まで"
+            },
+            {
+              "text": "待",
+              "reading": "ま"
+            },
+            {
+              "text": "ってくれ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 81.063,
+      "end": 98.1,
+      "japanese": "「最初から君を好きでいられて良かった」なんて　空に歌うんだ",
+      "zh-CN": "「庆幸自己从一开始就能够喜欢上你」如此对着天空高歌",
+      "segments": [
+        {
+          "text": "「最初から君を好きでいられて良かった」なんて　空に歌うんだ",
+          "performerIds": [
+            "歌唱者-11",
+            "歌唱者-12",
+            "歌唱者-13",
+            "歌唱者-16",
+            "歌唱者-23",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "「"
+            },
+            {
+              "text": "最初",
+              "reading": "さいしょ"
+            },
+            {
+              "text": "から"
+            },
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "好",
+              "reading": "す"
+            },
+            {
+              "text": "きでいられて"
+            },
+            {
+              "text": "良",
+              "reading": "よ"
+            },
+            {
+              "text": "かった」なんて　"
+            },
+            {
+              "text": "空",
+              "reading": "そら"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "歌",
+              "reading": "うた"
+            },
+            {
+              "text": "うんだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 14,
+      "start": 98.1,
+      "end": 100.56,
+      "japanese": "ｱｯｵ-ｴｰｲｴｲｴｰ!!♪",
+      "zh-CN": "嗷—耶—咿耶咿耶—！！♪",
+      "segments": [
+        {
+          "text": "ｱｯｵ-ｴｰｲｴｲｴｰ!!♪",
+          "performerIds": [
+            "歌唱者-11",
+            "歌唱者-12",
+            "歌唱者-13",
+            "歌唱者-16",
+            "歌唱者-23",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "ｱｯｵ-ｴｰｲｴｲｴｰ!!♪"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 15,
+      "start": 100.87,
+      "end": 103.1,
+      "japanese": "ｱｯｵｰ♪ｴｰｲｴｲｴｰ♪",
+      "zh-CN": "嗷—♪耶—咿耶咿耶—♪",
+      "segments": [
+        {
+          "text": "ｱｯｵｰ♪ｴｰｲｴｲｴｰ♪",
+          "performerIds": [
+            "歌唱者-11",
+            "歌唱者-12",
+            "歌唱者-13",
+            "歌唱者-16",
+            "歌唱者-23",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "ｱｯｵｰ♪ｴｰｲｴｲｴｰ♪"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 16,
+      "start": 103.61,
+      "end": 106.03,
+      "japanese": "ｱｯｵ-ｴｰｲｴｲｴｰ!!♪",
+      "zh-CN": "嗷—耶—咿耶咿耶—！！♪",
+      "segments": [
+        {
+          "text": "ｱｯｵ-ｴｰｲｴｲｴｰ!!♪",
+          "performerIds": [
+            "歌唱者-11",
+            "歌唱者-12",
+            "歌唱者-13",
+            "歌唱者-16",
+            "歌唱者-23",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "ｱｯｵ-ｴｰｲｴｲｴｰ!!♪"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 17,
+      "start": 106.36,
+      "end": 108.53,
+      "japanese": "ｱｯｵｰ♪ｴｰｲｴｲｴｰ♪",
+      "zh-CN": "嗷—♪耶—咿耶咿耶—♪",
+      "segments": [
+        {
+          "text": "ｱｯｵｰ♪ｴｰｲｴｲｴｰ♪",
+          "performerIds": [
+            "歌唱者-23",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "ｱｯｵｰ♪ｴｰｲｴｲｴｰ♪"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

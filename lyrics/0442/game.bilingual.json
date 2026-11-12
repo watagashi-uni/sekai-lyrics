@@ -1,0 +1,696 @@
+{
+  "music_id": 442,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-01",
+      "name": "星乃一歌"
+    },
+    {
+      "performerId": "歌唱者-02",
+      "name": "天馬咲希"
+    },
+    {
+      "performerId": "歌唱者-03",
+      "name": "望月穂波"
+    },
+    {
+      "performerId": "歌唱者-04",
+      "name": "日野森志歩"
+    },
+    {
+      "performerId": "歌唱者-25",
+      "name": "MEIKO"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 31.080632,
+      "end": 33.431391,
+      "japanese": "ああすれば良かった",
+      "zh-CN": "要是那样做就好了",
+      "segments": [
+        {
+          "text": "ああすれば良かった",
+          "performerIds": [
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "ああすれば"
+            },
+            {
+              "text": "良",
+              "reading": "よ"
+            },
+            {
+              "text": "かった"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 33.785355,
+      "end": 36.437083,
+      "japanese": "こう言えば良かった",
+      "zh-CN": "要是那样说就好了",
+      "segments": [
+        {
+          "text": "こう言えば良かった",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "こう"
+            },
+            {
+              "text": "言",
+              "reading": "い"
+            },
+            {
+              "text": "えば"
+            },
+            {
+              "text": "良",
+              "reading": "よ"
+            },
+            {
+              "text": "かった"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 36.47108,
+      "end": 41.678546,
+      "japanese": "良かったかなんて別に ",
+      "zh-CN": "到底好不好",
+      "segments": [
+        {
+          "text": "良かったかなんて別に ",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "良",
+              "reading": "よ"
+            },
+            {
+              "text": "かったかなんて"
+            },
+            {
+              "text": "別",
+              "reading": "べつ"
+            },
+            {
+              "text": "に "
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 36.47108,
+      "end": 41.678546,
+      "japanese": "わからないけど",
+      "zh-CN": "其实我并不明白",
+      "segments": [
+        {
+          "text": "わからないけど",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "わからないけど"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 42.158497,
+      "end": 44.590248,
+      "japanese": "後悔なんてしたくない",
+      "zh-CN": "不想留下任何遗憾",
+      "segments": [
+        {
+          "text": "後悔なんてしたくない",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "後悔",
+              "reading": "こうかい"
+            },
+            {
+              "text": "なんてしたくない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 44.690237,
+      "end": 47.251975,
+      "japanese": "でもどうでもよくもしたくない",
+      "zh-CN": "却又不想敷衍了事",
+      "segments": [
+        {
+          "text": "でもどうでもよくもしたくない",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "でもどうでもよくもしたくない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 47.643935,
+      "end": 49.666728,
+      "japanese": "ちょうどいいところ",
+      "zh-CN": "恰到好处的平衡",
+      "segments": [
+        {
+          "text": "ちょうどいいところ",
+          "performerIds": [
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "ちょうどいいところ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 49.666728,
+      "end": 52.728414,
+      "japanese": "こころ収まらなくて",
+      "zh-CN": "心情却难以平复",
+      "segments": [
+        {
+          "text": "こころ収まらなくて",
+          "performerIds": [
+            "歌唱者-02",
+            "歌唱者-03"
+          ],
+          "ruby": [
+            {
+              "text": "こころ"
+            },
+            {
+              "text": "収",
+              "reading": "おさ"
+            },
+            {
+              "text": "まらなくて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 53.141371,
+      "end": 55.777101,
+      "japanese": "答え合わせをさせてよ",
+      "zh-CN": "让我来核对答案吧",
+      "segments": [
+        {
+          "text": "答え合わせをさせてよ",
+          "performerIds": [
+            "歌唱者-03",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "答",
+              "reading": "こた"
+            },
+            {
+              "text": "え"
+            },
+            {
+              "text": "合",
+              "reading": "あ"
+            },
+            {
+              "text": "わせをさせてよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 56.024076,
+      "end": 58.651807,
+      "japanese": "何がいけなかったですか",
+      "zh-CN": "究竟是哪里出了错",
+      "segments": [
+        {
+          "text": "何がいけなかったですか",
+          "performerIds": [
+            "歌唱者-04",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "何",
+              "reading": "なに"
+            },
+            {
+              "text": "がいけなかったですか"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 58.891782,
+      "end": 61.913473,
+      "japanese": "試すようなこと したくないのに",
+      "zh-CN": "明明不想做出试探的举动",
+      "segments": [
+        {
+          "text": "試すようなこと したくないのに",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "試",
+              "reading": "ため"
+            },
+            {
+              "text": "すようなこと したくないのに"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 61.913473,
+      "end": 64.522205,
+      "japanese": "確かめたくなっちゃって",
+      "zh-CN": "却又忍不住想去确认",
+      "segments": [
+        {
+          "text": "確かめたくなっちゃって",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "確",
+              "reading": "たし"
+            },
+            {
+              "text": "かめたくなっちゃって"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 64.522205,
+      "end": 67.080943,
+      "japanese": "僕たちは どうして",
+      "zh-CN": "我们 为什么",
+      "segments": [
+        {
+          "text": "僕たちは どうして",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-03"
+          ],
+          "ruby": [
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "たちは どうして"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 67.240927,
+      "end": 69.827662,
+      "japanese": "すぐ間違えて しまうんだろう",
+      "zh-CN": "总是动不动就犯错呢",
+      "segments": [
+        {
+          "text": "すぐ間違えて しまうんだろう",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-03"
+          ],
+          "ruby": [
+            {
+              "text": "すぐ"
+            },
+            {
+              "text": "間違",
+              "reading": "まちが"
+            },
+            {
+              "text": "えて しまうんだろう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 70.116632,
+      "end": 75.10912,
+      "japanese": "大切の優先順位",
+      "zh-CN": "重要的优先顺序",
+      "segments": [
+        {
+          "text": "大切の優先順位",
+          "performerIds": [
+            "歌唱者-02",
+            "歌唱者-03"
+          ],
+          "ruby": [
+            {
+              "text": "大切",
+              "reading": "たいせつ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "優先順位",
+              "reading": "ゆうせんじゅに"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 70.116632,
+      "end": 75.10912,
+      "japanese": "わかんなくなる",
+      "zh-CN": "变得分辨不清",
+      "segments": [
+        {
+          "text": "わかんなくなる",
+          "performerIds": [
+            "歌唱者-02",
+            "歌唱者-03"
+          ],
+          "ruby": [
+            {
+              "text": "わかんなくなる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 75.605069,
+      "end": 78.244799,
+      "japanese": "涙を拭いて 歩いた",
+      "zh-CN": "拭去泪水 迈开步伐",
+      "segments": [
+        {
+          "text": "涙を拭いて 歩いた",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-04",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "涙",
+              "reading": "なみだ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "拭",
+              "reading": "ふ"
+            },
+            {
+              "text": "いて "
+            },
+            {
+              "text": "歩",
+              "reading": "ある"
+            },
+            {
+              "text": "いた"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 78.435779,
+      "end": 81.06851,
+      "japanese": "あのときの 選択を",
+      "zh-CN": "那个时候的 抉择",
+      "segments": [
+        {
+          "text": "あのときの 選択を",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-04",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "あのときの "
+            },
+            {
+              "text": "選択",
+              "reading": "せんたく"
+            },
+            {
+              "text": "を"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 81.308485,
+      "end": 83.652245,
+      "japanese": "疑いたくなんてなかった",
+      "zh-CN": "本不想去怀疑的",
+      "segments": [
+        {
+          "text": "疑いたくなんてなかった",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "疑",
+              "reading": "うたが"
+            },
+            {
+              "text": "いたくなんてなかった"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 83.79425,
+      "end": 86.48825,
+      "japanese": "何してんだろう",
+      "zh-CN": "我究竟在干什么啊",
+      "segments": [
+        {
+          "text": "何してんだろう",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "何",
+              "reading": "なに"
+            },
+            {
+              "text": "してんだろう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 86.43452,
+      "end": 88.922266,
+      "japanese": "とらわれてさ",
+      "zh-CN": "深陷其中",
+      "segments": [
+        {
+          "text": "とらわれてさ",
+          "performerIds": [
+            "歌唱者-02",
+            "歌唱者-03"
+          ],
+          "ruby": [
+            {
+              "text": "とらわれてさ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 89.27325,
+      "end": 92.35225,
+      "japanese": "バカみたいだなぁ",
+      "zh-CN": "简直像个傻瓜一样",
+      "segments": [
+        {
+          "text": "バカみたいだなぁ",
+          "performerIds": [
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "バカみたいだなぁ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

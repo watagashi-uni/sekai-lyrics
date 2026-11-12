@@ -1,0 +1,1717 @@
+{
+  "music_id": 679,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "外部歌唱者-01",
+      "name": "GUMI",
+      "color": "#70B85A"
+    },
+    {
+      "performerId": "外部歌唱者-02",
+      "name": "Kasane Teto"
+    },
+    {
+      "performerId": "歌唱者-21",
+      "name": "初音ミク"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 12.3,
+      "end": 13.89,
+      "japanese": "Make 'em move right now",
+      "zh-CN": "现在就让全场躁起来",
+      "segments": [
+        {
+          "text": "Make 'em move right now",
+          "performerIds": [
+            "外部歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "Make 'em move right now"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 15.28,
+      "end": 18.26,
+      "japanese": "We the baddest comin' thru'",
+      "zh-CN": "最狠的我们杀过来了",
+      "segments": [
+        {
+          "text": "We the baddest comin' thru'",
+          "performerIds": [
+            "外部歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "We the baddest comin' thru'"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 18.26,
+      "end": 19.55,
+      "japanese": "We crash the party",
+      "zh-CN": "看我们掀翻全场",
+      "segments": [
+        {
+          "text": "We crash the party",
+          "performerIds": [
+            "歌唱者-21",
+            "外部歌唱者-01",
+            "外部歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "We crash the party"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 19.55,
+      "end": 21.26,
+      "japanese": "かっ飛ばしてこうぜ？",
+      "zh-CN": "尽管全力轰飞前进吧？",
+      "segments": [
+        {
+          "text": "かっ飛ばしてこうぜ？",
+          "performerIds": [
+            "歌唱者-21",
+            "外部歌唱者-01",
+            "外部歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "かっ"
+            },
+            {
+              "text": "飛",
+              "reading": "と"
+            },
+            {
+              "text": "ばしてこうぜ？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 21.26,
+      "end": 24.13,
+      "japanese": "Dealin' damage how we do",
+      "zh-CN": "照我们的规矩狠狠暴击",
+      "segments": [
+        {
+          "text": "Dealin' damage how we do",
+          "performerIds": [
+            "外部歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "Dealin' damage how we do"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 24.13,
+      "end": 25.48,
+      "japanese": "We crash the party",
+      "zh-CN": "看我们掀翻全场",
+      "segments": [
+        {
+          "text": "We crash the party",
+          "performerIds": [
+            "歌唱者-21",
+            "外部歌唱者-01",
+            "外部歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "We crash the party"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 25.48,
+      "end": 27.1,
+      "japanese": "革命は目前",
+      "zh-CN": "革命已然近在眼前",
+      "segments": [
+        {
+          "text": "革命は目前",
+          "performerIds": [
+            "歌唱者-21",
+            "外部歌唱者-01",
+            "外部歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "革命",
+              "reading": "かくめい"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "目前",
+              "reading": "もくぜん"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 27.144,
+      "end": 28.19,
+      "japanese": "AYA YA YA YA",
+      "zh-CN": "AYA YA YA YA",
+      "segments": [
+        {
+          "text": "AYA YA YA YA",
+          "performerIds": [
+            "歌唱者-21",
+            "外部歌唱者-01",
+            "外部歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "AYA YA YA YA"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 28.19,
+      "end": 31.57,
+      "japanese": "Tainted heart, I was aimless",
+      "zh-CN": "心曾蒙尘 我漫无目的",
+      "segments": [
+        {
+          "text": "Tainted heart, I was aimless",
+          "performerIds": [
+            "外部歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "Tainted heart, I was aimless"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 31.57,
+      "end": 34.1,
+      "japanese": "Took charge, hear 'em singing my praises",
+      "zh-CN": "由我主宰 听他们为我高唱赞歌",
+      "segments": [
+        {
+          "text": "Took charge, hear 'em singing my praises",
+          "performerIds": [
+            "外部歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "Took charge, hear 'em singing my praises"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 34.1,
+      "end": 35.3,
+      "japanese": "Keep your head down ",
+      "zh-CN": "给我把头低下",
+      "segments": [
+        {
+          "text": "Keep your head down ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "Keep your head down "
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 35.3,
+      "end": 37.11,
+      "japanese": "刻む軌跡 A-List",
+      "zh-CN": "铭刻跻身顶尖的轨迹",
+      "segments": [
+        {
+          "text": "刻む軌跡 A-List",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "刻",
+              "reading": "きざ"
+            },
+            {
+              "text": "む"
+            },
+            {
+              "text": "軌跡",
+              "reading": "きせき"
+            },
+            {
+              "text": " A-List"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 37.11,
+      "end": 38.46,
+      "japanese": "I ain't just anybody ",
+      "zh-CN": "我可不是什么泛泛之辈",
+      "segments": [
+        {
+          "text": "I ain't just anybody ",
+          "performerIds": [
+            "外部歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "I ain't just anybody "
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 38.46,
+      "end": 40.06,
+      "japanese": "我れらの隨に",
+      "zh-CN": "全随我们心意",
+      "segments": [
+        {
+          "text": "我れらの隨に",
+          "performerIds": [
+            "外部歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "我",
+              "reading": "わ"
+            },
+            {
+              "text": "れらの"
+            },
+            {
+              "text": "隨",
+              "reading": "まにま"
+            },
+            {
+              "text": "に"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 40.06,
+      "end": 41.33,
+      "japanese": "T-T-T-Touch that pitch ",
+      "zh-CN": "唱-唱-唱-唱准那个音",
+      "segments": [
+        {
+          "text": "T-T-T-Touch that pitch ",
+          "performerIds": [
+            "外部歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "T-T-T-Touch that pitch "
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 41.33,
+      "end": 42.66,
+      "japanese": "Line 'em up, don't miss",
+      "zh-CN": "全部瞄准，绝不失手",
+      "segments": [
+        {
+          "text": "Line 'em up, don't miss",
+          "performerIds": [
+            "外部歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "Line 'em up, don't miss"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 42.66,
+      "end": 44.48,
+      "japanese": "切り開き轟かせ",
+      "zh-CN": "彻底破开辟路让声威轰鸣",
+      "segments": [
+        {
+          "text": "切り開き轟かせ",
+          "performerIds": [
+            "外部歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "切",
+              "reading": "き"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "開",
+              "reading": "ひら"
+            },
+            {
+              "text": "き"
+            },
+            {
+              "text": "轟",
+              "reading": "とどろ"
+            },
+            {
+              "text": "かせ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 44.48,
+      "end": 45.59,
+      "japanese": "Who are you? ",
+      "zh-CN": "你算什么东西？",
+      "segments": [
+        {
+          "text": "Who are you? ",
+          "performerIds": [
+            "外部歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "Who are you? "
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 45.59,
+      "end": 46.6,
+      "japanese": "You can't match",
+      "zh-CN": "你根本比不上",
+      "segments": [
+        {
+          "text": "You can't match",
+          "performerIds": [
+            "外部歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "You can't match"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 46.6,
+      "end": 47.51,
+      "japanese": "研がれた威勢",
+      "zh-CN": "早已磨砺锋利的威势",
+      "segments": [
+        {
+          "text": "研がれた威勢",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "研",
+              "reading": "と"
+            },
+            {
+              "text": "がれた"
+            },
+            {
+              "text": "威勢",
+              "reading": "いせい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 47.51,
+      "end": 48.93,
+      "japanese": "High-class, stay in your lane",
+      "zh-CN": "我们可是顶级 你给我安分点",
+      "segments": [
+        {
+          "text": "High-class, ",
+          "performerIds": [
+            "外部歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "High-class, "
+            }
+          ]
+        },
+        {
+          "text": "stay in your lane",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "stay in your lane"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 48.93,
+      "end": 50.46,
+      "japanese": "我が道行く狂気的な熱",
+      "zh-CN": "独行我道的狂暴炽热",
+      "segments": [
+        {
+          "text": "我が道行く狂気的な熱",
+          "performerIds": [
+            "外部歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "我",
+              "reading": "わ"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "道行",
+              "reading": "みちい"
+            },
+            {
+              "text": "く"
+            },
+            {
+              "text": "狂気的",
+              "reading": "きょうきてき"
+            },
+            {
+              "text": "な"
+            },
+            {
+              "text": "熱",
+              "reading": "ねつ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000023",
+      "order": 22,
+      "index": 22,
+      "start": 50.46,
+      "end": 51.91,
+      "japanese": "Burning in my veins",
+      "zh-CN": "在我的血管里熊熊燃烧",
+      "segments": [
+        {
+          "text": "Burning in my veins",
+          "performerIds": [
+            "外部歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "Burning in my veins"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000024",
+      "order": 23,
+      "index": 23,
+      "start": 51.91,
+      "end": 55.03,
+      "japanese": "(Ooh) So we're doin this the hard way",
+      "zh-CN": "(Ooh) 看来我们只能硬碰硬了",
+      "segments": [
+        {
+          "text": "(Ooh) ",
+          "performerIds": [
+            "外部歌唱者-01",
+            "外部歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "(Ooh) "
+            }
+          ]
+        },
+        {
+          "text": "So we're doin this the hard way",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "So we're doin this the hard way"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000025",
+      "order": 24,
+      "index": 24,
+      "start": 55.03,
+      "end": 58.31,
+      "japanese": "(Ooh) 撤退してらんねぇ",
+      "zh-CN": "(Ooh) 可没工夫撤退逃避",
+      "segments": [
+        {
+          "text": "(Ooh) ",
+          "performerIds": [
+            "外部歌唱者-01",
+            "外部歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "(Ooh) "
+            }
+          ]
+        },
+        {
+          "text": "撤退してらんねぇ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "撤退",
+              "reading": "てったい"
+            },
+            {
+              "text": "してらんねぇ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000026",
+      "order": 25,
+      "index": 25,
+      "start": 58.31,
+      "end": 60.48,
+      "japanese": "閉ざされたescapeから",
+      "zh-CN": "从已被彻底封死的退路之中",
+      "segments": [
+        {
+          "text": "閉ざされたescapeから",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "閉",
+              "reading": "と"
+            },
+            {
+              "text": "ざされたescapeから"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000027",
+      "order": 26,
+      "index": 26,
+      "start": 60.48,
+      "end": 63.03,
+      "japanese": "滾る高揚",
+      "zh-CN": "沸腾涌动的亢奋高昂",
+      "segments": [
+        {
+          "text": "滾る高揚",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "滾",
+              "reading": "たぎ"
+            },
+            {
+              "text": "る"
+            },
+            {
+              "text": "高揚",
+              "reading": "こうよう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000028",
+      "order": 27,
+      "index": 27,
+      "start": 63.03,
+      "end": 65.43,
+      "japanese": "Never had a place so I paved my road",
+      "zh-CN": "既然无处容身 那就由我亲手铺路",
+      "segments": [
+        {
+          "text": "Never had a place so I paved my road",
+          "performerIds": [
+            "外部歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "Never had a place so I paved my road"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000029",
+      "order": 28,
+      "index": 28,
+      "start": 65.43,
+      "end": 66.72,
+      "japanese": "頂きまでは",
+      "zh-CN": "直到登临巅峰为止",
+      "segments": [
+        {
+          "text": "頂きまでは",
+          "performerIds": [
+            "歌唱者-21",
+            "外部歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "頂",
+              "reading": "いただ"
+            },
+            {
+              "text": "きまでは"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000030",
+      "order": 29,
+      "index": 29,
+      "start": 66.72,
+      "end": 68.41,
+      "japanese": "I'm on the way to gold",
+      "zh-CN": "我正奔赴金色的荣光",
+      "segments": [
+        {
+          "text": "I'm on the way to gold",
+          "performerIds": [
+            "外部歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "I'm on the way to gold"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000031",
+      "order": 30,
+      "index": 30,
+      "start": 68.41,
+      "end": 69.78,
+      "japanese": "駆られるがまま",
+      "zh-CN": "任由冲动驱使",
+      "segments": [
+        {
+          "text": "駆られるがまま",
+          "performerIds": [
+            "歌唱者-21",
+            "外部歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "駆",
+              "reading": "か"
+            },
+            {
+              "text": "られるがまま"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000032",
+      "order": 31,
+      "index": 31,
+      "start": 69.78,
+      "end": 71.55,
+      "japanese": "Sharpened knife with the truth",
+      "zh-CN": "以真相磨砺出利刃",
+      "segments": [
+        {
+          "text": "Sharpened knife with the truth",
+          "performerIds": [
+            "外部歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "Sharpened knife with the truth"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000033",
+      "order": 32,
+      "index": 32,
+      "start": 71.55,
+      "end": 74.5,
+      "japanese": "Hold it down as the blade cuts right through you",
+      "zh-CN": "给我老实受着 任由利刃将你彻底斩穿",
+      "segments": [
+        {
+          "text": "Hold it down as the ",
+          "performerIds": [
+            "外部歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "Hold it down as the "
+            }
+          ]
+        },
+        {
+          "text": "blade cuts right through you",
+          "performerIds": [
+            "外部歌唱者-01",
+            "外部歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "blade cuts right through you"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000034",
+      "order": 33,
+      "index": 33,
+      "start": 74.5,
+      "end": 77.49,
+      "japanese": "We the baddest comin' thru'",
+      "zh-CN": "最狠的我们杀过来了",
+      "segments": [
+        {
+          "text": "We the baddest comin' thru'",
+          "performerIds": [
+            "外部歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "We the baddest comin' thru'"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000035",
+      "order": 34,
+      "index": 34,
+      "start": 77.49,
+      "end": 78.86,
+      "japanese": "We crash the party",
+      "zh-CN": "看我们掀翻全场",
+      "segments": [
+        {
+          "text": "We crash the party",
+          "performerIds": [
+            "歌唱者-21",
+            "外部歌唱者-01",
+            "外部歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "We crash the party"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000036",
+      "order": 35,
+      "index": 35,
+      "start": 78.86,
+      "end": 80.36,
+      "japanese": "かっ飛ばしてこうぜ？",
+      "zh-CN": "尽管全力轰飞前进吧？",
+      "segments": [
+        {
+          "text": "かっ飛ばしてこうぜ？",
+          "performerIds": [
+            "歌唱者-21",
+            "外部歌唱者-01",
+            "外部歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "かっ"
+            },
+            {
+              "text": "飛",
+              "reading": "と"
+            },
+            {
+              "text": "ばしてこうぜ？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000037",
+      "order": 36,
+      "index": 36,
+      "start": 80.36,
+      "end": 83.35,
+      "japanese": "Dealin' damage how we do",
+      "zh-CN": "照我们的规矩狠狠暴击",
+      "segments": [
+        {
+          "text": "Dealin' damage how we do",
+          "performerIds": [
+            "外部歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "Dealin' damage how we do"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000038",
+      "order": 37,
+      "index": 37,
+      "start": 83.35,
+      "end": 84.75,
+      "japanese": "We crash the party",
+      "zh-CN": "看我们掀翻全场",
+      "segments": [
+        {
+          "text": "We crash the party",
+          "performerIds": [
+            "歌唱者-21",
+            "外部歌唱者-01",
+            "外部歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "We crash the party"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000039",
+      "order": 38,
+      "index": 38,
+      "start": 84.75,
+      "end": 86.4,
+      "japanese": "革命は目前",
+      "zh-CN": "革命已然近在眼前",
+      "segments": [
+        {
+          "text": "革命は目前",
+          "performerIds": [
+            "歌唱者-21",
+            "外部歌唱者-01",
+            "外部歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "革命",
+              "reading": "かくめい"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "目前",
+              "reading": "もくぜん"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000040",
+      "order": 39,
+      "index": 39,
+      "start": 86.4,
+      "end": 87.49,
+      "japanese": "Showin' out, we got it",
+      "zh-CN": "尽情大展身手 我们势在必得",
+      "segments": [
+        {
+          "text": "Showin' out, we got it",
+          "performerIds": [
+            "外部歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "Showin' out, we got it"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000041",
+      "order": 40,
+      "index": 40,
+      "start": 87.49,
+      "end": 90.08,
+      "japanese": "Down to an art, keep raisin' the bar",
+      "zh-CN": "炉火纯青 不断拔高上限",
+      "segments": [
+        {
+          "text": "Down to an art, keep raisin' the bar",
+          "performerIds": [
+            "外部歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "Down to an art, keep raisin' the bar"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000042",
+      "order": 41,
+      "index": 41,
+      "start": 90.08,
+      "end": 92.33,
+      "japanese": "かませこの魂一つで",
+      "zh-CN": "仅凭这一腔热血灵魂尽情出招吧",
+      "segments": [
+        {
+          "text": "かませこの魂一つで",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "かませこの"
+            },
+            {
+              "text": "魂一",
+              "reading": "そうあーるひと"
+            },
+            {
+              "text": "つで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000043",
+      "order": 42,
+      "index": 42,
+      "start": 92.33,
+      "end": 95.2,
+      "japanese": "連なるこの輪",
+      "zh-CN": "紧紧相连的这道圆环",
+      "segments": [
+        {
+          "text": "連なるこの輪",
+          "performerIds": [
+            "外部歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "連",
+              "reading": "つら"
+            },
+            {
+              "text": "なるこの"
+            },
+            {
+              "text": "輪",
+              "reading": "わ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000044",
+      "order": 43,
+      "index": 43,
+      "start": 95.2,
+      "end": 98.17,
+      "japanese": "This that glow you couldn't touch",
+      "zh-CN": "这份光芒你们根本触碰不到",
+      "segments": [
+        {
+          "text": "This that glow you couldn't touch",
+          "performerIds": [
+            "外部歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "This that glow you couldn't touch"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000045",
+      "order": 44,
+      "index": 44,
+      "start": 98.17,
+      "end": 101.89,
+      "japanese": "AYA YA YA YA",
+      "zh-CN": "AYA YA YA YA",
+      "segments": [
+        {
+          "text": "AYA YA YA YA",
+          "performerIds": [
+            "歌唱者-21",
+            "外部歌唱者-01",
+            "外部歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "AYA YA YA YA"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000046",
+      "order": 45,
+      "index": 45,
+      "start": 101.89,
+      "end": 105.24,
+      "japanese": "Uh Yah",
+      "zh-CN": "Uh Yah",
+      "segments": [
+        {
+          "text": "Uh ",
+          "performerIds": [
+            "外部歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "Uh "
+            }
+          ]
+        },
+        {
+          "text": "Yah",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "Yah"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000047",
+      "order": 46,
+      "index": 46,
+      "start": 105.24,
+      "end": 107.79,
+      "japanese": "(Put your hands up if you know, if you, if you, if you know...)",
+      "zh-CN": "（懂的就把双手举起来，懂的话，懂的话，懂的话就……）",
+      "segments": [
+        {
+          "text": "(Put your hands up if you know, if you, if you, if you know...)",
+          "performerIds": [
+            "外部歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "(Put your hands up if you know, if you, if you, if you know...)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000048",
+      "order": 47,
+      "index": 47,
+      "start": 107.79,
+      "end": 110.11,
+      "japanese": "WE CRASH IT ALL",
+      "zh-CN": "彻底掀翻一切",
+      "segments": [
+        {
+          "text": "WE CRASH IT ALL",
+          "performerIds": [
+            "外部歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "WE CRASH IT ALL"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000049",
+      "order": 48,
+      "index": 48,
+      "start": 107.99,
+      "end": 110.2,
+      "japanese": "(Put your hands up if you know, if you, if you)",
+      "zh-CN": "（懂的就把双手举起来，懂的话，懂的话）",
+      "segments": [
+        {
+          "text": "(Put your hands up if you know, if you, if you)",
+          "performerIds": [
+            "外部歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "(Put your hands up if you know, if you, if you)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000050",
+      "order": 49,
+      "index": 49,
+      "start": 110.11,
+      "end": 111.22,
+      "japanese": "PARTY PEOPLE!",
+      "zh-CN": "全场狂欢的人们！",
+      "segments": [
+        {
+          "text": "PARTY PEOPLE!",
+          "performerIds": [
+            "外部歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "PARTY PEOPLE!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000051",
+      "order": 50,
+      "index": 50,
+      "start": 111.22,
+      "end": 112.32,
+      "japanese": "Touch that pitch",
+      "zh-CN": "唱准那个音",
+      "segments": [
+        {
+          "text": "Touch that pitch",
+          "performerIds": [
+            "歌唱者-21",
+            "外部歌唱者-01",
+            "外部歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "Touch that pitch"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000052",
+      "order": 51,
+      "index": 51,
+      "start": 112.32,
+      "end": 113.77,
+      "japanese": "Line 'em up, don't miss",
+      "zh-CN": "全部瞄准，绝不失手",
+      "segments": [
+        {
+          "text": "Line 'em up, don't miss",
+          "performerIds": [
+            "歌唱者-21",
+            "外部歌唱者-01",
+            "外部歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "Line 'em up, don't miss"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000053",
+      "order": 52,
+      "index": 52,
+      "start": 113.77,
+      "end": 115.28,
+      "japanese": "I'mma make you sick",
+      "zh-CN": "我要让你们眼红到发狂",
+      "segments": [
+        {
+          "text": "I'mma make you sick",
+          "performerIds": [
+            "歌唱者-21",
+            "外部歌唱者-01",
+            "外部歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "I'mma make you sick"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000054",
+      "order": 53,
+      "index": 53,
+      "start": 115.28,
+      "end": 115.97,
+      "japanese": "I'mma go",
+      "zh-CN": "我要火力全开了",
+      "segments": [
+        {
+          "text": "I'mma go",
+          "performerIds": [
+            "歌唱者-21",
+            "外部歌唱者-01",
+            "外部歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "I'mma go"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000055",
+      "order": 54,
+      "index": 54,
+      "start": 115.97,
+      "end": 117.16,
+      "japanese": "かましてくdamage",
+      "zh-CN": "狠狠打出重创暴击",
+      "segments": [
+        {
+          "text": "かましてくdamage",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "かましてくdamage"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000056",
+      "order": 55,
+      "index": 55,
+      "start": 117.16,
+      "end": 118.18,
+      "japanese": "Touch that pitch",
+      "zh-CN": "唱准那个音",
+      "segments": [
+        {
+          "text": "Touch that pitch",
+          "performerIds": [
+            "歌唱者-21",
+            "外部歌唱者-01",
+            "外部歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "Touch that pitch"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000057",
+      "order": 56,
+      "index": 56,
+      "start": 118.18,
+      "end": 119.67,
+      "japanese": "With the bass drum kick",
+      "zh-CN": "伴随着底鼓的狂暴重击",
+      "segments": [
+        {
+          "text": "With the bass drum kick",
+          "performerIds": [
+            "歌唱者-21",
+            "外部歌唱者-01",
+            "外部歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "With the bass drum kick"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000058",
+      "order": 57,
+      "index": 57,
+      "start": 119.67,
+      "end": 121.25,
+      "japanese": "革命は目前",
+      "zh-CN": "革命已然近在眼前",
+      "segments": [
+        {
+          "text": "革命は目前",
+          "performerIds": [
+            "歌唱者-21",
+            "外部歌唱者-01",
+            "外部歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "革命",
+              "reading": "かくめい"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "目前",
+              "reading": "もくぜん"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000059",
+      "order": 58,
+      "index": 58,
+      "start": 121.25,
+      "end": 121.96,
+      "japanese": "I'mma go",
+      "zh-CN": "我要火力全开了",
+      "segments": [
+        {
+          "text": "I'mma go",
+          "performerIds": [
+            "歌唱者-21",
+            "外部歌唱者-01",
+            "外部歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "I'mma go"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000060",
+      "order": 59,
+      "index": 59,
+      "start": 121.96,
+      "end": 124.14738,
+      "japanese": "AYA YA YA YA",
+      "zh-CN": "AYA YA YA YA",
+      "segments": [
+        {
+          "text": "AYA YA YA YA",
+          "performerIds": [
+            "歌唱者-21",
+            "外部歌唱者-01",
+            "外部歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "AYA YA YA YA"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

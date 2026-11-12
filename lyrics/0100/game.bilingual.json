@@ -1,0 +1,838 @@
+{
+  "music_id": 100,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-10",
+      "name": "白石杏"
+    },
+    {
+      "performerId": "歌唱者-11",
+      "name": "東雲彰人"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 15.14425,
+      "end": 18.87025,
+      "japanese": "The clock stopped ticking forever ago",
+      "zh-CN": "时钟早在很久以前便停止了走动",
+      "segments": [
+        {
+          "text": "The clock stopped ticking forever ago",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "The clock stopped ticking forever ago"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 18.87025,
+      "end": 22.18925,
+      "japanese": "How long have I been up? I don't know",
+      "zh-CN": "我已经清醒了多久？ 我早已记不清",
+      "segments": [
+        {
+          "text": "How long have I been up? I don't know",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "How long have I been up? I don't know"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 22.18925,
+      "end": 25.85025,
+      "japanese": "I can't get a grip, but I can't let go",
+      "zh-CN": "我无法掌控一切 却也无法轻易放手",
+      "segments": [
+        {
+          "text": "I can't get a grip, but I can't let go",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "I can't get a grip, but I can't let go"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 25.85025,
+      "end": 29.50725,
+      "japanese": "There wasn't anything to hold onto, though",
+      "zh-CN": "尽管本就没有什么能让我抓住",
+      "segments": [
+        {
+          "text": "There wasn't anything to hold onto, though",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "There wasn't anything to hold onto, though"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 29.50725,
+      "end": 32.97125,
+      "japanese": "Why can't I see,",
+      "zh-CN": "为什么我无法看见",
+      "segments": [
+        {
+          "text": "Why ",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "Why "
+            }
+          ]
+        },
+        {
+          "text": "can't I see,",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "can't I see,"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 29.50725,
+      "end": 32.97125,
+      "japanese": "Why can't I see",
+      "zh-CN": "为什么我无法看见",
+      "segments": [
+        {
+          "text": "Why ",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "Why "
+            }
+          ]
+        },
+        {
+          "text": "can't I see",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "can't I see"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 32.97125,
+      "end": 36.30025,
+      "japanese": "All the colors",
+      "zh-CN": "那所有的斑斓色彩",
+      "segments": [
+        {
+          "text": "All ",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "All "
+            }
+          ]
+        },
+        {
+          "text": "the colors",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "the colors"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 32.97125,
+      "end": 36.30025,
+      "japanese": "That you see?",
+      "zh-CN": "那些你能看见的？",
+      "segments": [
+        {
+          "text": "That you see?",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "That you see?"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 36.30025,
+      "end": 39.61625,
+      "japanese": "Please can I be,",
+      "zh-CN": "求求你 能否让我也变得",
+      "segments": [
+        {
+          "text": "Please ",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "Please "
+            }
+          ]
+        },
+        {
+          "text": "can I be,",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "can I be,"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 36.30025,
+      "end": 39.61625,
+      "japanese": "Please can I be",
+      "zh-CN": "能否让我也变得",
+      "segments": [
+        {
+          "text": "Please ",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "Please "
+            }
+          ]
+        },
+        {
+          "text": "can I be",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "can I be"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 39.61625,
+      "end": 42.82725,
+      "japanese": "Colorful and free?",
+      "zh-CN": "色彩缤纷而又自由自在？",
+      "segments": [
+        {
+          "text": "Colorful and free?",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "Colorful and free?"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 42.82725,
+      "end": 46.53725,
+      "japanese": "What the hell's going on?",
+      "zh-CN": "这到底是怎么回事？",
+      "segments": [
+        {
+          "text": "What the hell's going on?",
+          "performerIds": [
+            "歌唱者-10",
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "What the hell's going on?"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 42.82725,
+      "end": 46.53725,
+      "japanese": "Can someone tell me please",
+      "zh-CN": "有没有人能告诉我",
+      "segments": [
+        {
+          "text": "Can someone tell me please",
+          "performerIds": [
+            "歌唱者-10",
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "Can someone tell me please"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 46.53725,
+      "end": 49.50125,
+      "japanese": "Why I'm switching faster than the channels on TV",
+      "zh-CN": "为什么我的心境转换得比电视换台还要快",
+      "segments": [
+        {
+          "text": "Why I'm switching faster than the channels on TV",
+          "performerIds": [
+            "歌唱者-10",
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "Why I'm switching faster than the channels on TV"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 49.50125,
+      "end": 51.19525,
+      "japanese": "I'm black, then I'm white",
+      "zh-CN": "一会儿漆黑 一会儿雪白",
+      "segments": [
+        {
+          "text": "I'm black, then I'm white",
+          "performerIds": [
+            "歌唱者-10",
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "I'm black, then I'm white"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 51.19525,
+      "end": 53.04825,
+      "japanese": "No! Something isn't right!",
+      "zh-CN": "不！ 一定有哪里不对劲！",
+      "segments": [
+        {
+          "text": "No! Something isn't right!",
+          "performerIds": [
+            "歌唱者-10",
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "No! Something isn't right!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 53.04825,
+      "end": 56.70225,
+      "japanese": "My enemy's invisible,",
+      "zh-CN": "我的敌人隐匿无形",
+      "segments": [
+        {
+          "text": "My enemy's invisible,",
+          "performerIds": [
+            "歌唱者-10",
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "My enemy's invisible,"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 53.04825,
+      "end": 56.70225,
+      "japanese": "I don't know how to fight",
+      "zh-CN": "我根本不知该如何与之战斗",
+      "segments": [
+        {
+          "text": "I don't know how to fight",
+          "performerIds": [
+            "歌唱者-10",
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "I don't know how to fight"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 56.70225,
+      "end": 60.27825,
+      "japanese": "The trembling fear",
+      "zh-CN": "那止不住颤抖的恐惧",
+      "segments": [
+        {
+          "text": "The trembling fear",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "The trembling fear"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 56.70225,
+      "end": 60.27825,
+      "japanese": "Is more than I can take",
+      "zh-CN": "早已超出我能承受的极限",
+      "segments": [
+        {
+          "text": "Is more than I can take",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "Is more than I can take"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 60.27825,
+      "end": 63.74125,
+      "japanese": "When I'm up against",
+      "zh-CN": "当我不得不去直面",
+      "segments": [
+        {
+          "text": "When I'm up against",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "When I'm up against"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 60.27825,
+      "end": 63.74125,
+      "japanese": "The echo in the mirror",
+      "zh-CN": "镜中映照出的回声",
+      "segments": [
+        {
+          "text": "The echo in the mirror",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "The echo in the mirror"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000023",
+      "order": 22,
+      "index": 22,
+      "start": 63.74125,
+      "end": 70.83362,
+      "japanese": "ECHO...",
+      "zh-CN": "回声……",
+      "segments": [
+        {
+          "text": "ECHO...",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "ECHO..."
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000024",
+      "order": 23,
+      "index": 23,
+      "start": 70.83362,
+      "end": 74.0145,
+      "japanese": "The trembling fear",
+      "zh-CN": "那止不住颤抖的恐惧",
+      "segments": [
+        {
+          "text": "The trembling fear",
+          "performerIds": [
+            "歌唱者-10",
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "The trembling fear"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000025",
+      "order": 24,
+      "index": 24,
+      "start": 70.83362,
+      "end": 74.0145,
+      "japanese": "Is more than I can take",
+      "zh-CN": "早已超出我能承受的极限",
+      "segments": [
+        {
+          "text": "Is more than I can take",
+          "performerIds": [
+            "歌唱者-10",
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "Is more than I can take"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000026",
+      "order": 25,
+      "index": 25,
+      "start": 74.0145,
+      "end": 77.3425,
+      "japanese": "When I'm up against",
+      "zh-CN": "当我不得不去直面",
+      "segments": [
+        {
+          "text": "When I'm up against",
+          "performerIds": [
+            "歌唱者-10",
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "When I'm up against"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000027",
+      "order": 26,
+      "index": 26,
+      "start": 74.0145,
+      "end": 77.3425,
+      "japanese": "The echo in the mirror",
+      "zh-CN": "镜中映照出的回声",
+      "segments": [
+        {
+          "text": "The echo in the mirror",
+          "performerIds": [
+            "歌唱者-10",
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "The echo in the mirror"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000028",
+      "order": 27,
+      "index": 27,
+      "start": 77.3425,
+      "end": 80.8445,
+      "japanese": "The trembling fear",
+      "zh-CN": "那止不住颤抖的恐惧",
+      "segments": [
+        {
+          "text": "The trembling fear",
+          "performerIds": [
+            "歌唱者-10",
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "The trembling fear"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000029",
+      "order": 28,
+      "index": 28,
+      "start": 77.3425,
+      "end": 80.8445,
+      "japanese": "Is more than I can take",
+      "zh-CN": "早已超出我能承受的极限",
+      "segments": [
+        {
+          "text": "Is more than I can take",
+          "performerIds": [
+            "歌唱者-10",
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "Is more than I can take"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000030",
+      "order": 29,
+      "index": 29,
+      "start": 80.8445,
+      "end": 107.72125,
+      "japanese": "When I'm up against",
+      "zh-CN": "当我不得不去直面",
+      "segments": [
+        {
+          "text": "When I'm up against",
+          "performerIds": [
+            "歌唱者-10",
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "When I'm up against"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000031",
+      "order": 30,
+      "index": 30,
+      "start": 80.8445,
+      "end": 107.72125,
+      "japanese": "The echo in the mirror",
+      "zh-CN": "镜中映照出的回声",
+      "segments": [
+        {
+          "text": "The echo in the mirror",
+          "performerIds": [
+            "歌唱者-10",
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "The echo in the mirror"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    }
+  ]
+}

@@ -1,0 +1,1390 @@
+{
+  "music_id": 160,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-13",
+      "name": "天馬司"
+    },
+    {
+      "performerId": "歌唱者-14",
+      "name": "鳳えむ"
+    },
+    {
+      "performerId": "歌唱者-15",
+      "name": "草薙寧々"
+    },
+    {
+      "performerId": "歌唱者-16",
+      "name": "神代類"
+    },
+    {
+      "performerId": "歌唱者-22",
+      "name": "鏡音リン"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 9.340944,
+      "end": 13.023458,
+      "japanese": "１・２・３　落ちてゆくシャンデリア",
+      "zh-CN": "1・2・3　垂落的水晶吊灯",
+      "segments": [
+        {
+          "text": "１・２・３　落ちてゆくシャンデリア",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "１・２・３　"
+            },
+            {
+              "text": "落",
+              "reading": "お"
+            },
+            {
+              "text": "ちてゆくシャンデリア"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 13.937834,
+      "end": 17.639356,
+      "japanese": "一斉に火を灯すネオンライト",
+      "zh-CN": "齐刷刷点亮的霓虹灯光",
+      "segments": [
+        {
+          "text": "一斉に火を灯すネオンライト",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "一斉",
+              "reading": "いっせい"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "火",
+              "reading": "ひ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "灯",
+              "reading": "とも"
+            },
+            {
+              "text": "すネオンライト"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 18.768821,
+      "end": 21.240837,
+      "japanese": "４・５＆６　鳴らせクラップ",
+      "zh-CN": "4・5 & 6　拍响掌声",
+      "segments": [
+        {
+          "text": "４・５＆６　鳴らせクラップ",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "４・５＆６　"
+            },
+            {
+              "text": "鳴",
+              "reading": "な"
+            },
+            {
+              "text": "らせクラップ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 21.240837,
+      "end": 23.285678,
+      "japanese": "スポットライト浴びて",
+      "zh-CN": "沐浴在聚光灯下",
+      "segments": [
+        {
+          "text": "スポットライト浴びて",
+          "performerIds": [
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "スポットライト"
+            },
+            {
+              "text": "浴",
+              "reading": "あ"
+            },
+            {
+              "text": "びて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 23.60681,
+      "end": 25.962779,
+      "japanese": "さぁ、ようこそテアトルへ",
+      "zh-CN": "来吧，欢迎来到剧场",
+      "segments": [
+        {
+          "text": "さぁ、ようこそテアトルへ",
+          "performerIds": [
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "さぁ、ようこそテアトルへ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 26.174866,
+      "end": 30.813774,
+      "japanese": "開演さ、イッツ・ショウ・タイム",
+      "zh-CN": "开演了，演出正式开演",
+      "segments": [
+        {
+          "text": "開演さ、イッツ・ショウ・タイム",
+          "performerIds": [
+            "歌唱者-16",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "開演",
+              "reading": "かいえん"
+            },
+            {
+              "text": "さ、イッツ・ショウ・タイム"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 32.85,
+      "end": 36.074,
+      "japanese": "(Oh yeah)",
+      "zh-CN": "(Oh yeah)",
+      "segments": [
+        {
+          "text": "(Oh yeah)",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-16",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "(Oh yeah)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "partial_text": true,
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 37.719614,
+      "end": 40.3607,
+      "japanese": "タ・ラッ・タ　踊るステップ踏んで誘導",
+      "zh-CN": "踏着哒·啦·哒的舞步引导全场",
+      "segments": [
+        {
+          "text": "タ・ラッ・タ　踊るステップ踏んで",
+          "performerIds": [
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "タ・ラッ・タ　"
+            },
+            {
+              "text": "踊",
+              "reading": "おど"
+            },
+            {
+              "text": "るステップ"
+            },
+            {
+              "text": "踏",
+              "reading": "ふ"
+            },
+            {
+              "text": "んで"
+            }
+          ]
+        },
+        {
+          "text": "誘導",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "誘導",
+              "reading": "ゆうどう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 40.3607,
+      "end": 42.378529,
+      "japanese": "視線は向こうの方",
+      "zh-CN": "视线聚焦在彼方",
+      "segments": [
+        {
+          "text": "視線は向こうの方",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "視線",
+              "reading": "しせん"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "向",
+              "reading": "む"
+            },
+            {
+              "text": "こうの"
+            },
+            {
+              "text": "方",
+              "reading": "ほう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 42.378529,
+      "end": 44.200279,
+      "japanese": "ストップ！急転直下",
+      "zh-CN": "停下！急转直下",
+      "segments": [
+        {
+          "text": "ストップ！急転直下",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "ストップ！"
+            },
+            {
+              "text": "急転直下",
+              "reading": "きょうてんちょっか"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 44.200279,
+      "end": 45.80794,
+      "japanese": "心臓はティック＆トック",
+      "zh-CN": "心脏如钟摆般 滴答作响",
+      "segments": [
+        {
+          "text": "心臓はティック＆トック",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "心臓",
+              "reading": "しんぞう"
+            },
+            {
+              "text": "はティック＆トック"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 45.80794,
+      "end": 47.227523,
+      "japanese": "ほらキュー＆アクション",
+      "zh-CN": "瞧啊 准备 演出开始",
+      "segments": [
+        {
+          "text": "ほら",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "ほら"
+            }
+          ]
+        },
+        {
+          "text": "キュー＆",
+          "performerIds": [
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "キュー＆"
+            }
+          ]
+        },
+        {
+          "text": "アクション",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "アクション"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 47.227523,
+      "end": 49.275366,
+      "japanese": "７＆８　上がっていく",
+      "zh-CN": "7 & 8　高涨升腾",
+      "segments": [
+        {
+          "text": "７＆８　上がっていく",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "７＆８　"
+            },
+            {
+              "text": "上",
+              "reading": "あ"
+            },
+            {
+              "text": "がっていく"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 49.48045,
+      "end": 51.562306,
+      "japanese": "９＆１０　煽っていく",
+      "zh-CN": "9 & 10　煽动沸腾",
+      "segments": [
+        {
+          "text": "９＆１０　煽っていく",
+          "performerIds": [
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "９＆１０　"
+            },
+            {
+              "text": "煽",
+              "reading": "あお"
+            },
+            {
+              "text": "っていく"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 51.81475,
+      "end": 59.56475,
+      "japanese": "張感を解き放つこの",
+      "zh-CN": "邀请各位来到释放紧绷张力的",
+      "segments": [
+        {
+          "text": "張感を解き放つこの",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "張感",
+              "reading": "きんちょうかん"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "解",
+              "reading": "と"
+            },
+            {
+              "text": "き"
+            },
+            {
+              "text": "放",
+              "reading": "はな"
+            },
+            {
+              "text": "つこの"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 51.81475,
+      "end": 59.56475,
+      "japanese": "一瞬ヘご招待",
+      "zh-CN": "这一瞬间",
+      "segments": [
+        {
+          "text": "一瞬ヘご招待",
+          "performerIds": [
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "一瞬",
+              "reading": "いっしゅん"
+            },
+            {
+              "text": "ヘご"
+            },
+            {
+              "text": "招待",
+              "reading": "しょうたい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 61.078,
+      "end": 64.27,
+      "japanese": "(Oh yeah)",
+      "zh-CN": "(Oh yeah)",
+      "segments": [
+        {
+          "text": "(Oh yeah)",
+          "performerIds": [
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "(Oh yeah)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "partial_text": true,
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 66.005245,
+      "end": 68.364215,
+      "japanese": "アンプ・アップ／僕の感性を",
+      "zh-CN": "音量放大／我的感性",
+      "segments": [
+        {
+          "text": "アンプ・アップ／",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-15",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "アンプ・アップ／"
+            }
+          ]
+        },
+        {
+          "text": "僕の感性を",
+          "performerIds": [
+            "歌唱者-16",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "感性",
+              "reading": "かんせい"
+            },
+            {
+              "text": "を"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 68.364215,
+      "end": 70.440069,
+      "japanese": "アンプ・アップ／更新中",
+      "zh-CN": "音量放大／正在更新中",
+      "segments": [
+        {
+          "text": "アンプ・アップ／",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-15",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "アンプ・アップ／"
+            }
+          ]
+        },
+        {
+          "text": "更新中",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "更新中",
+              "reading": "こうしんちゅう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 70.691172,
+      "end": 73.034136,
+      "japanese": "アンプ・アップ／君の感性に",
+      "zh-CN": "音量放大／向着你的感性",
+      "segments": [
+        {
+          "text": "アンプ・アップ／",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-16",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "アンプ・アップ／"
+            }
+          ]
+        },
+        {
+          "text": "君の感性に",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "感性",
+              "reading": "かんせい"
+            },
+            {
+              "text": "に"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 73.034136,
+      "end": 75.092982,
+      "japanese": "アンプ・アップ／挑戦中",
+      "zh-CN": "音量放大／正在挑战中",
+      "segments": [
+        {
+          "text": "アンプ・アップ／",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-16",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "アンプ・アップ／"
+            }
+          ]
+        },
+        {
+          "text": "挑戦中",
+          "performerIds": [
+            "歌唱者-15",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "挑戦中",
+              "reading": "ちょうせんちゅう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 75.377099,
+      "end": 77.744072,
+      "japanese": "アンプ・アップ／研ぎ澄ましていく",
+      "zh-CN": "音量放大／不断磨砺敏锐",
+      "segments": [
+        {
+          "text": "アンプ・アップ／",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-15",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "アンプ・アップ／"
+            }
+          ]
+        },
+        {
+          "text": "研ぎ澄ましていく",
+          "performerIds": [
+            "歌唱者-16",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "研",
+              "reading": "と"
+            },
+            {
+              "text": "ぎ"
+            },
+            {
+              "text": "澄",
+              "reading": "す"
+            },
+            {
+              "text": "ましていく"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000023",
+      "order": 22,
+      "index": 22,
+      "start": 77.744072,
+      "end": 80.030012,
+      "japanese": "アンプ・アップ／この一瞬",
+      "zh-CN": "音量放大／在这关键的一瞬",
+      "segments": [
+        {
+          "text": "アンプ・アップ／",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-15",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "アンプ・アップ／"
+            }
+          ]
+        },
+        {
+          "text": "この一瞬",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "この"
+            },
+            {
+              "text": "一瞬",
+              "reading": "いっしゅん"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000024",
+      "order": 23,
+      "index": 23,
+      "start": 80.030012,
+      "end": 83.822572,
+      "japanese": "アンプ・アップ／君の感情の支配者さ",
+      "zh-CN": "音量放大／我是支配你情绪的主宰者啊",
+      "segments": [
+        {
+          "text": "アンプ・アップ／",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "アンプ・アップ／"
+            }
+          ]
+        },
+        {
+          "text": "君の感情の",
+          "performerIds": [
+            "歌唱者-16",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "感情",
+              "reading": "かんじょう"
+            },
+            {
+              "text": "の"
+            }
+          ]
+        },
+        {
+          "text": "支配者さ",
+          "performerIds": [
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "支配者",
+              "reading": "しはいしゃ"
+            },
+            {
+              "text": "さ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000025",
+      "order": 24,
+      "index": 24,
+      "start": 83.62475,
+      "end": 86.24475,
+      "japanese": "ショウタイム・ルーラー ルーラー ルーラー（イッツ・ショウ・タイム）",
+      "zh-CN": "演出统治者 统治者 统治者（演出正式开演）",
+      "segments": [
+        {
+          "text": "ショウタイム・",
+          "performerIds": [
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "ショウタイム・"
+            }
+          ]
+        },
+        {
+          "text": "ルーラー ルーラー ルーラー",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "ルーラー ルーラー ルーラー"
+            }
+          ]
+        },
+        {
+          "text": "（イッツ・ショウ・タイム）",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-16",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "（イッツ・ショウ・タイム）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000026",
+      "order": 25,
+      "index": 25,
+      "start": 86.24475,
+      "end": 89.19475,
+      "japanese": "テイク・ユー・ハイヤー ハイヤー ハイヤー（イッツ・ショウ・タイム）",
+      "zh-CN": "带你飞向更高 更高 更高（演出正式开演）",
+      "segments": [
+        {
+          "text": "テイク・ユー・ハイヤー ハイヤー ハイヤー",
+          "performerIds": [
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "テイク・ユー・ハイヤー ハイヤー ハイヤー"
+            }
+          ]
+        },
+        {
+          "text": "（イッツ・ショウ・タイム）",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-16",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "（イッツ・ショウ・タイム）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000027",
+      "order": 26,
+      "index": 26,
+      "start": 88.868647,
+      "end": 91.801853,
+      "japanese": "もっとクレイジー（クレイジー）クレイジー（クレイジー）",
+      "zh-CN": "更加疯狂（疯狂）疯狂（疯狂）",
+      "segments": [
+        {
+          "text": "もっとクレイジー",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "もっとクレイジー"
+            }
+          ]
+        },
+        {
+          "text": "（クレイジー）",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-16",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "（クレイジー）"
+            }
+          ]
+        },
+        {
+          "text": "クレイジー",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "クレイジー"
+            }
+          ]
+        },
+        {
+          "text": "（クレイジー）",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-16",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "（クレイジー）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 27,
+      "start": 91.801853,
+      "end": 93.466538,
+      "japanese": "クレイジーにしちゃって（モア クレイジー）",
+      "zh-CN": "变得疯狂尽兴吧（更加疯狂）",
+      "segments": [
+        {
+          "text": "クレイジーにしちゃって",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "クレイジーにしちゃって"
+            }
+          ]
+        },
+        {
+          "text": "（モア クレイジー）",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-16",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "（モア クレイジー）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000029",
+      "order": 28,
+      "index": 28,
+      "start": 93.66475,
+      "end": 95.61475,
+      "japanese": "ショウタイム・ルーラー ルーラー ルーラー（イッツ・ショウ・タイム）",
+      "zh-CN": "演出统治者 统治者 统治者（演出正式开演）",
+      "segments": [
+        {
+          "text": "ショウタイム・",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "ショウタイム・"
+            }
+          ]
+        },
+        {
+          "text": "ルーラー ルーラー ルーラー",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "ルーラー ルーラー ルーラー"
+            }
+          ]
+        },
+        {
+          "text": "（イッツ・ショウ・タイム）",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-15",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "（イッツ・ショウ・タイム）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000030",
+      "order": 29,
+      "index": 29,
+      "start": 95.61475,
+      "end": 98.22475,
+      "japanese": "テイク・ユー・ハイヤー ハイヤー ハイヤー（イッツ・ショウ・タイム）",
+      "zh-CN": "带你飞向更高 更高 更高（演出正式开演）",
+      "segments": [
+        {
+          "text": "テイク・ユー・ハイヤー ハイヤー ハイヤー",
+          "performerIds": [
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "テイク・ユー・ハイヤー ハイヤー ハイヤー"
+            }
+          ]
+        },
+        {
+          "text": "（イッツ・ショウ・タイム）",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-15",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "（イッツ・ショウ・タイム）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000031",
+      "order": 30,
+      "index": 30,
+      "start": 98.388562,
+      "end": 102.391208,
+      "japanese": "もっと自由に（自由に）夢中に（夢中に）招待（招待）",
+      "zh-CN": "更加自由地（自由地）沉醉其中（沉醉其中）邀请前来（邀请前来）",
+      "segments": [
+        {
+          "text": "もっと自由に",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "もっと"
+            },
+            {
+              "text": "自由",
+              "reading": "じゆう"
+            },
+            {
+              "text": "に"
+            }
+          ]
+        },
+        {
+          "text": "（自由に）",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-15",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "（"
+            },
+            {
+              "text": "自由",
+              "reading": "じゆう"
+            },
+            {
+              "text": "に）"
+            }
+          ]
+        },
+        {
+          "text": "夢中に",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "夢中",
+              "reading": "むちゅう"
+            },
+            {
+              "text": "に"
+            }
+          ]
+        },
+        {
+          "text": "（夢中に）",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-15",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "（"
+            },
+            {
+              "text": "夢中",
+              "reading": "むちゅう"
+            },
+            {
+              "text": "に）"
+            }
+          ]
+        },
+        {
+          "text": "招待",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "招待",
+              "reading": "しょうたい"
+            }
+          ]
+        },
+        {
+          "text": "（招待）",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-15",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "（"
+            },
+            {
+              "text": "招待",
+              "reading": "しょうたい"
+            },
+            {
+              "text": "）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000032",
+      "order": 31,
+      "index": 31,
+      "start": 102.55475,
+      "end": 103.706,
+      "japanese": "夢見たいな時間",
+      "zh-CN": "如梦如幻般的时光",
+      "segments": [
+        {
+          "text": "夢見たいな時間",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-16",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "夢見",
+              "reading": "ゆめみ"
+            },
+            {
+              "text": "たいな"
+            },
+            {
+              "text": "時間",
+              "reading": "じかん"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000033",
+      "order": 32,
+      "index": 32,
+      "start": 108.138,
+      "end": 110.954,
+      "japanese": "(Oh yeah)",
+      "zh-CN": "(Oh yeah)",
+      "segments": [
+        {
+          "text": "(Oh yeah)",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-16",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "(Oh yeah)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "partial_text": true,
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    }
+  ]
+}

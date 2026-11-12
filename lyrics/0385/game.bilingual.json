@@ -1,0 +1,2211 @@
+{
+  "music_id": 385,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-17",
+      "name": "宵崎奏"
+    },
+    {
+      "performerId": "歌唱者-18",
+      "name": "朝比奈まふゆ"
+    },
+    {
+      "performerId": "歌唱者-19",
+      "name": "東雲絵名"
+    },
+    {
+      "performerId": "歌唱者-20",
+      "name": "暁山瑞希"
+    },
+    {
+      "performerId": "歌唱者-21",
+      "name": "初音ミク"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 14.924,
+      "end": 15.802,
+      "japanese": "Oh my god",
+      "zh-CN": "Oh my god",
+      "segments": [
+        {
+          "text": "Oh my god",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "Oh my god"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 15.802,
+      "end": 18.874,
+      "japanese": "愛のネタバレ 「別れ」っぽいな",
+      "zh-CN": "爱的剧透 好像是「分手」啊",
+      "segments": [
+        {
+          "text": "愛のネタバレ 「別れ」っぽいな",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "愛",
+              "reading": "あい"
+            },
+            {
+              "text": "のネタバレ 「"
+            },
+            {
+              "text": "別",
+              "reading": "わか"
+            },
+            {
+              "text": "れ」っぽいな"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 18.874,
+      "end": 22.504,
+      "japanese": "人生のネタバレ 「死ぬ」っぽいな",
+      "zh-CN": "人生的剧透 好像是「死掉」啊",
+      "segments": [
+        {
+          "text": "人生のネタバレ 「死ぬ」っぽいな",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "人生",
+              "reading": "じんせい"
+            },
+            {
+              "text": "のネタバレ 「"
+            },
+            {
+              "text": "死",
+              "reading": "し"
+            },
+            {
+              "text": "ぬ」っぽいな"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 22.504,
+      "end": 25.626,
+      "japanese": "なにそれ意味深でかっこいいじゃん…",
+      "zh-CN": "那是什么啊 又意味深长又帅气嘛……",
+      "segments": [
+        {
+          "text": "なにそれ意味深でかっこいいじゃん…",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "なにそれ"
+            },
+            {
+              "text": "意味深",
+              "reading": "いみしん"
+            },
+            {
+              "text": "でかっこいいじゃん…"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 25.593883,
+      "end": 29.27155,
+      "japanese": "それっぽい単語集で踊ってんだ　失敬",
+      "zh-CN": "借着似是而非的词汇集翩翩起舞 真是失礼啦",
+      "segments": [
+        {
+          "text": "それっぽい単語集で踊ってんだ　失敬",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "それっぽい"
+            },
+            {
+              "text": "単語集",
+              "reading": "たんごしゅう"
+            },
+            {
+              "text": "で"
+            },
+            {
+              "text": "踊",
+              "reading": "おど"
+            },
+            {
+              "text": "ってんだ　"
+            },
+            {
+              "text": "失敬",
+              "reading": "しっけい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 29.450534,
+      "end": 31.097385,
+      "japanese": "とぅとぅるとぅとぅとぅる\"風\"",
+      "zh-CN": "嘟噜噜嘟噜嘟噜“风”",
+      "segments": [
+        {
+          "text": "とぅとぅるとぅとぅとぅる\"風\"",
+          "performerIds": [
+            "歌唱者-19",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "とぅとぅるとぅとぅとぅる\""
+            },
+            {
+              "text": "風",
+              "reading": "ふう"
+            },
+            {
+              "text": "\""
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 31.097385,
+      "end": 32.776233,
+      "japanese": "とぅとぅるとぅとぅとぅる\"風\"",
+      "zh-CN": "嘟噜噜嘟噜嘟噜“风”",
+      "segments": [
+        {
+          "text": "とぅとぅるとぅとぅとぅる\"風\"",
+          "performerIds": [
+            "歌唱者-19",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "とぅとぅるとぅとぅとぅる\""
+            },
+            {
+              "text": "風",
+              "reading": "ふう"
+            },
+            {
+              "text": "\""
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 32.777233,
+      "end": 34.534074,
+      "japanese": "とぅとぅるとぅとぅとぅる\"風\"",
+      "zh-CN": "嘟噜噜嘟噜嘟噜“风”",
+      "segments": [
+        {
+          "text": "とぅとぅるとぅとぅとぅる\"風\"",
+          "performerIds": [
+            "歌唱者-19",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "とぅとぅるとぅとぅとぅる\""
+            },
+            {
+              "text": "風",
+              "reading": "ふう"
+            },
+            {
+              "text": "\""
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 34.534074,
+      "end": 36.117931,
+      "japanese": "ぽいじゃん　ぽいじゃん",
+      "zh-CN": "挺像那么回事的嘛 挺像那么回事的嘛",
+      "segments": [
+        {
+          "text": "ぽいじゃん　ぽいじゃん",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ぽいじゃん　ぽいじゃん"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 36.117931,
+      "end": 37.829776,
+      "japanese": "とぅとぅるとぅとぅとぅる\"風\"",
+      "zh-CN": "嘟噜噜嘟噜嘟噜“风”",
+      "segments": [
+        {
+          "text": "とぅとぅるとぅとぅとぅる\"風\"",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "とぅとぅるとぅとぅとぅる\""
+            },
+            {
+              "text": "風",
+              "reading": "ふう"
+            },
+            {
+              "text": "\""
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 37.829776,
+      "end": 39.55262,
+      "japanese": "とぅとぅるとぅとぅとぅる\"風\"",
+      "zh-CN": "嘟噜噜嘟噜嘟噜“风”",
+      "segments": [
+        {
+          "text": "とぅとぅるとぅとぅとぅる\"風\"",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "とぅとぅるとぅとぅとぅる\""
+            },
+            {
+              "text": "風",
+              "reading": "ふう"
+            },
+            {
+              "text": "\""
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 39.55362,
+      "end": 40.858502,
+      "japanese": "とぅとぅるとぅとぅとぅる",
+      "zh-CN": "嘟噜噜嘟噜嘟噜",
+      "segments": [
+        {
+          "text": "とぅとぅるとぅとぅとぅる",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "とぅとぅるとぅとぅとぅる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 40.858502,
+      "end": 42.31437,
+      "japanese": "神っぽいな",
+      "zh-CN": "挺像神明一样的嘛",
+      "segments": [
+        {
+          "text": "神っぽいな",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "神",
+              "reading": "かみ"
+            },
+            {
+              "text": "っぽいな"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 42.740332,
+      "end": 45.513081,
+      "japanese": "もういいぜ　もういいぜ　それ　 ",
+      "zh-CN": "够了啦 够了啦 那个",
+      "segments": [
+        {
+          "text": "もういいぜ　もういいぜ　それ　 ",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "もういいぜ　もういいぜ　それ　 "
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 42.740332,
+      "end": 45.513081,
+      "japanese": "もういいぜ　もういいぜ　",
+      "zh-CN": "够了啦 够了啦",
+      "segments": [
+        {
+          "text": "もういいぜ　もういいぜ　",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "もういいぜ　もういいぜ　"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 45.513081,
+      "end": 49.398729,
+      "japanese": "逆に興奮してきたなあ",
+      "zh-CN": "反而让人兴奋起来了啊",
+      "segments": [
+        {
+          "text": "逆に興奮してきたなあ",
+          "performerIds": [
+            "歌唱者-20",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "逆",
+              "reading": "ぎゃく"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "興奮",
+              "reading": "こうふん"
+            },
+            {
+              "text": "してきたなあ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 49.398729,
+      "end": 52.215474,
+      "japanese": "おっきいね　おっきいね　夢",
+      "zh-CN": "好宏大啊 好宏大啊 梦想",
+      "segments": [
+        {
+          "text": "おっきいね　おっきいね　夢",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "おっきいね　おっきいね　"
+            },
+            {
+              "text": "夢",
+              "reading": "ゆめ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 49.398729,
+      "end": 52.215474,
+      "japanese": "おっきいね　おっきいね",
+      "zh-CN": "好宏大啊 好宏大啊",
+      "segments": [
+        {
+          "text": "おっきいね　おっきいね",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "おっきいね　おっきいね"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 52.215474,
+      "end": 55.303195,
+      "japanese": "景気いいけど　品性はTHE END",
+      "zh-CN": "听着挺风光 但品行算是彻底完蛋",
+      "segments": [
+        {
+          "text": "景気いいけど　品性はTHE END",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "景気",
+              "reading": "けいき"
+            },
+            {
+              "text": "いいけど　"
+            },
+            {
+              "text": "品性",
+              "reading": "ひんせい"
+            },
+            {
+              "text": "はTHE END"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 52.252,
+      "end": 57.879,
+      "japanese": "うええい　うええい",
+      "zh-CN": "呜耶 呜耶",
+      "segments": [
+        {
+          "text": "うええい　うええい",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "うええい　うええい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 58.021949,
+      "end": 59.270836,
+      "japanese": "“ Gott ist tot \"",
+      "zh-CN": "“ Gott ist tot \"",
+      "segments": [
+        {
+          "text": "“ Gott ist tot \"",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "“ Gott ist tot \""
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 59.453819,
+      "end": 62.824514,
+      "japanese": "神っぽいなそれ　卑怯　神っぽいなそれ　",
+      "zh-CN": "挺像神一样的嘛那个 卑鄙 挺像神一样的嘛那个",
+      "segments": [
+        {
+          "text": "神っぽいなそれ　卑怯　神っぽいなそれ　",
+          "performerIds": [
+            "歌唱者-19",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "神",
+              "reading": "かみ"
+            },
+            {
+              "text": "っぽいなそれ　"
+            },
+            {
+              "text": "卑怯",
+              "reading": "ひきょう"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "神",
+              "reading": "かみ"
+            },
+            {
+              "text": "っぽいなそれ　"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000023",
+      "order": 22,
+      "index": 22,
+      "start": 59.453819,
+      "end": 62.824514,
+      "japanese": "\"My God\"",
+      "zh-CN": "\"My God\"",
+      "segments": [
+        {
+          "text": "\"My God\"",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "\"My God\""
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000024",
+      "order": 23,
+      "index": 23,
+      "start": 62.824514,
+      "end": 66.268203,
+      "japanese": "アイウォンチューウォンチュー　IQが下がっていく感じ",
+      "zh-CN": "我渴望你 我需要你 感觉智商正在不断下降",
+      "segments": [
+        {
+          "text": "アイウォンチューウォンチュー　IQが下がっていく感じ",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "アイウォンチューウォンチュー　IQが"
+            },
+            {
+              "text": "下",
+              "reading": "さ"
+            },
+            {
+              "text": "がっていく"
+            },
+            {
+              "text": "感",
+              "reading": "かん"
+            },
+            {
+              "text": "じ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000025",
+      "order": 24,
+      "index": 24,
+      "start": 66.268203,
+      "end": 69.384921,
+      "japanese": "邪心ぽいなそれ　畢竟　邪心ぽいなそれ　",
+      "zh-CN": "挺像邪心一样的嘛那个 毕竟 挺像邪心一样的嘛那个",
+      "segments": [
+        {
+          "text": "邪心ぽいなそれ　畢竟　邪心ぽいなそれ　",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "邪心",
+              "reading": "じゃしん"
+            },
+            {
+              "text": "ぽいなそれ　"
+            },
+            {
+              "text": "畢竟",
+              "reading": "ひっきょう"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "邪心",
+              "reading": "じゃしん"
+            },
+            {
+              "text": "ぽいなそれ　"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000026",
+      "order": 25,
+      "index": 25,
+      "start": 66.268203,
+      "end": 69.384921,
+      "japanese": "\"My God\"",
+      "zh-CN": "\"My God\"",
+      "segments": [
+        {
+          "text": "\"My God\"",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "\"My God\""
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000027",
+      "order": 26,
+      "index": 26,
+      "start": 69.384921,
+      "end": 72.59363,
+      "japanese": "アイヘイチューヘイチュー　害虫はどっち",
+      "zh-CN": "我讨厌你 憎恨你 到底谁才是害虫",
+      "segments": [
+        {
+          "text": "アイヘイチューヘイチュー　害虫はどっち",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "アイヘイチューヘイチュー　"
+            },
+            {
+              "text": "害虫",
+              "reading": "がいちゅう"
+            },
+            {
+              "text": "はどっち"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000028",
+      "order": 27,
+      "index": 27,
+      "start": 72.894603,
+      "end": 74.548453,
+      "japanese": "その髪型　その目　その口元",
+      "zh-CN": "那个发型 那个眼神 那个嘴角",
+      "segments": [
+        {
+          "text": "その髪型　その目　その口元",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "その"
+            },
+            {
+              "text": "髪型",
+              "reading": "かみがた"
+            },
+            {
+              "text": "　その"
+            },
+            {
+              "text": "目",
+              "reading": "め"
+            },
+            {
+              "text": "　その"
+            },
+            {
+              "text": "口元",
+              "reading": "くちもと"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000029",
+      "order": 28,
+      "index": 28,
+      "start": 74.548453,
+      "end": 76.276297,
+      "japanese": "その香水　その服　そのメイク",
+      "zh-CN": "那个香水 那个穿着 那个妆容",
+      "segments": [
+        {
+          "text": "その香水　その服　そのメイク",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "その"
+            },
+            {
+              "text": "香水",
+              "reading": "こうすい"
+            },
+            {
+              "text": "　その"
+            },
+            {
+              "text": "服",
+              "reading": "ふく"
+            },
+            {
+              "text": "　そのメイク"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000030",
+      "order": 29,
+      "index": 29,
+      "start": 76.276297,
+      "end": 79.490006,
+      "japanese": "アレっぽいなそれ",
+      "zh-CN": "挺像那个什么的嘛",
+      "segments": [
+        {
+          "text": "アレっぽいなそれ",
+          "performerIds": [
+            "歌唱者-20",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "アレっぽいなそれ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000031",
+      "order": 30,
+      "index": 30,
+      "start": 76.276297,
+      "end": 79.490006,
+      "japanese": "比況　アレっぽいなそれ",
+      "zh-CN": "譬如 挺像那个什么的嘛",
+      "segments": [
+        {
+          "text": "比況　アレっぽいなそれ",
+          "performerIds": [
+            "歌唱者-20",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "比況",
+              "reading": "ひきょう"
+            },
+            {
+              "text": "　アレっぽいなそれ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000032",
+      "order": 31,
+      "index": 31,
+      "start": 79.490006,
+      "end": 81.376836,
+      "japanese": "その名言　その意見　その批評",
+      "zh-CN": "那句名言 那个观点 那条批评",
+      "segments": [
+        {
+          "text": "その名言　その意見　その批評",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "その"
+            },
+            {
+              "text": "名言",
+              "reading": "めいげん"
+            },
+            {
+              "text": "　その"
+            },
+            {
+              "text": "意見",
+              "reading": "いけん"
+            },
+            {
+              "text": "　その"
+            },
+            {
+              "text": "批評",
+              "reading": "ひひょう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000033",
+      "order": 32,
+      "index": 32,
+      "start": 81.376836,
+      "end": 83.080681,
+      "japanese": "そのカリスマ　そのギャグ　そのセンス",
+      "zh-CN": "那种领袖气质 那个段子 那种品味",
+      "segments": [
+        {
+          "text": "そのカリスマ　そのギャグ　そのセンス",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "そのカリスマ　そのギャグ　そのセンス"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000034",
+      "order": 33,
+      "index": 33,
+      "start": 83.080681,
+      "end": 84.692535,
+      "japanese": "神っぽいなそれ　卑怯",
+      "zh-CN": "挺像神一样的嘛那个 卑鄙",
+      "segments": [
+        {
+          "text": "神っぽいなそれ　卑怯",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "神",
+              "reading": "かみ"
+            },
+            {
+              "text": "っぽいなそれ　"
+            },
+            {
+              "text": "卑怯",
+              "reading": "ひきょう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000035",
+      "order": 34,
+      "index": 34,
+      "start": 84.692535,
+      "end": 86.840341,
+      "japanese": "ぽいなぽいなぽい　憧れちゃう！",
+      "zh-CN": "好像啊好像啊真像 让人好生憧憬！",
+      "segments": [
+        {
+          "text": "ぽいなぽいなぽい　憧れちゃう！",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ぽいなぽいなぽい　"
+            },
+            {
+              "text": "憧",
+              "reading": "あこが"
+            },
+            {
+              "text": "れちゃう！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000036",
+      "order": 35,
+      "index": 35,
+      "start": 86.840341,
+      "end": 88.464194,
+      "japanese": "とぅとぅるとぅとぅとぅる\"風\"",
+      "zh-CN": "嘟噜噜嘟噜嘟噜“风”",
+      "segments": [
+        {
+          "text": "とぅとぅるとぅとぅとぅる\"風\"",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "とぅとぅるとぅとぅとぅる\""
+            },
+            {
+              "text": "風",
+              "reading": "ふう"
+            },
+            {
+              "text": "\""
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000037",
+      "order": 36,
+      "index": 36,
+      "start": 88.464194,
+      "end": 90.184039,
+      "japanese": "とぅとぅるとぅとぅとぅる\"風\"",
+      "zh-CN": "嘟噜噜嘟噜嘟噜“风”",
+      "segments": [
+        {
+          "text": "とぅとぅるとぅとぅとぅる\"風\"",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "とぅとぅるとぅとぅとぅる\""
+            },
+            {
+              "text": "風",
+              "reading": "ふう"
+            },
+            {
+              "text": "\""
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000038",
+      "order": 37,
+      "index": 37,
+      "start": 90.184039,
+      "end": 91.863887,
+      "japanese": "とぅとぅるとぅとぅとぅる\"風\"",
+      "zh-CN": "嘟噜噜嘟噜嘟噜“风”",
+      "segments": [
+        {
+          "text": "とぅとぅるとぅとぅとぅる\"風\"",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "とぅとぅるとぅとぅとぅる\""
+            },
+            {
+              "text": "風",
+              "reading": "ふう"
+            },
+            {
+              "text": "\""
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000039",
+      "order": 38,
+      "index": 38,
+      "start": 91.863887,
+      "end": 93.600729,
+      "japanese": "ぽいじゃん　ぽいじゃん",
+      "zh-CN": "挺像那么回事的嘛 挺像那么回事的嘛",
+      "segments": [
+        {
+          "text": "ぽいじゃん　ぽいじゃん",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "ぽいじゃん　ぽいじゃん"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000040",
+      "order": 39,
+      "index": 39,
+      "start": 93.600729,
+      "end": 95.262579,
+      "japanese": "とぅとぅるとぅとぅとぅる\"風\"",
+      "zh-CN": "嘟噜噜嘟噜嘟噜“风”",
+      "segments": [
+        {
+          "text": "とぅとぅるとぅとぅとぅる\"風\"",
+          "performerIds": [
+            "歌唱者-19",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "とぅとぅるとぅとぅとぅる\""
+            },
+            {
+              "text": "風",
+              "reading": "ふう"
+            },
+            {
+              "text": "\""
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000041",
+      "order": 40,
+      "index": 40,
+      "start": 95.263579,
+      "end": 96.971424,
+      "japanese": "とぅとぅるとぅとぅとぅる\"風\"",
+      "zh-CN": "嘟噜噜嘟噜嘟噜“风”",
+      "segments": [
+        {
+          "text": "とぅとぅるとぅとぅとぅる\"風\"",
+          "performerIds": [
+            "歌唱者-19",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "とぅとぅるとぅとぅとぅる\""
+            },
+            {
+              "text": "風",
+              "reading": "ふう"
+            },
+            {
+              "text": "\""
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000042",
+      "order": 41,
+      "index": 41,
+      "start": 96.971424,
+      "end": 98.291305,
+      "japanese": "とぅとぅるとぅとぅとぅる",
+      "zh-CN": "嘟噜噜嘟噜嘟噜",
+      "segments": [
+        {
+          "text": "とぅとぅるとぅとぅとぅる",
+          "performerIds": [
+            "歌唱者-19",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "とぅとぅるとぅとぅとぅる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000043",
+      "order": 42,
+      "index": 42,
+      "start": 98.291305,
+      "end": 99.904159,
+      "japanese": "神っぽいな",
+      "zh-CN": "挺像神明一样的嘛",
+      "segments": [
+        {
+          "text": "神っぽいな",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "神",
+              "reading": "かみ"
+            },
+            {
+              "text": "っぽいな"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000044",
+      "order": 43,
+      "index": 43,
+      "start": 99.904159,
+      "end": 103.358846,
+      "japanese": "神っぽいなそれ　卑怯　神っぽいなそれ 　",
+      "zh-CN": "挺像神一样的嘛那个 卑鄙 挺像神一样的嘛那个",
+      "segments": [
+        {
+          "text": "神っぽいなそれ　卑怯　神っぽいなそれ 　",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "神",
+              "reading": "かみ"
+            },
+            {
+              "text": "っぽいなそれ　"
+            },
+            {
+              "text": "卑怯",
+              "reading": "ひきょう"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "神",
+              "reading": "かみ"
+            },
+            {
+              "text": "っぽいなそれ 　"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000045",
+      "order": 44,
+      "index": 44,
+      "start": 99.904159,
+      "end": 103.358846,
+      "japanese": "\"My God\"",
+      "zh-CN": "\"My God\"",
+      "segments": [
+        {
+          "text": "\"My God\"",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "\"My God\""
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000046",
+      "order": 45,
+      "index": 45,
+      "start": 103.358846,
+      "end": 106.699544,
+      "japanese": "超健康健康　言い張ってくたばっていく感じ",
+      "zh-CN": "嘴硬坚称超健康健康 结果就这么蹬腿死掉的感觉",
+      "segments": [
+        {
+          "text": "超健康健康　言い張ってくたばっていく感じ",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "超健康健康",
+              "reading": "ちょうけんこうけんこう"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "言",
+              "reading": "い"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "張",
+              "reading": "は"
+            },
+            {
+              "text": "ってくたばっていく"
+            },
+            {
+              "text": "感",
+              "reading": "かん"
+            },
+            {
+              "text": "じ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000047",
+      "order": 46,
+      "index": 46,
+      "start": 106.699544,
+      "end": 110.083238,
+      "japanese": "ヤケっぽいなそれ　畢竟　ヤケっぽいなそれ　",
+      "zh-CN": "挺像自暴自弃的嘛那个 毕竟 挺像自暴自弃的嘛那个",
+      "segments": [
+        {
+          "text": "ヤケっぽいなそれ　畢竟　ヤケっぽいなそれ　",
+          "performerIds": [
+            "歌唱者-20",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ヤケっぽいなそれ　"
+            },
+            {
+              "text": "畢竟",
+              "reading": "ひっきょう"
+            },
+            {
+              "text": "　ヤケっぽいなそれ　"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000048",
+      "order": 47,
+      "index": 47,
+      "start": 106.699544,
+      "end": 110.083238,
+      "japanese": "\"My God\"　",
+      "zh-CN": "\"My God\"",
+      "segments": [
+        {
+          "text": "\"My God\"　",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "\"My God\"　"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000049",
+      "order": 48,
+      "index": 48,
+      "start": 110.083238,
+      "end": 113.160959,
+      "japanese": "もう哀愁　哀愁　エピゴーネンのヒール",
+      "zh-CN": "满是哀愁 哀愁 拙劣模仿者的反派角色",
+      "segments": [
+        {
+          "text": "もう哀愁　哀愁　エピゴーネンのヒール",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "もう"
+            },
+            {
+              "text": "哀愁",
+              "reading": "あいしゅう"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "哀愁",
+              "reading": "あいしゅう"
+            },
+            {
+              "text": "　エピゴーネンのヒール"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000050",
+      "order": 49,
+      "index": 49,
+      "start": 113.424936,
+      "end": 115.165778,
+      "japanese": "そのタイトル　その絵　そのストーリー",
+      "zh-CN": "那个标题 那个插画 那个剧情",
+      "segments": [
+        {
+          "text": "そのタイトル　その絵　そのストーリー",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "そのタイトル　その"
+            },
+            {
+              "text": "絵",
+              "reading": "え"
+            },
+            {
+              "text": "　そのストーリー"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000051",
+      "order": 50,
+      "index": 50,
+      "start": 115.165778,
+      "end": 116.881623,
+      "japanese": "その音楽　その歌　そのメロディ",
+      "zh-CN": "那首音乐 那段演唱 那曲旋律",
+      "segments": [
+        {
+          "text": "その音楽　その歌　そのメロディ",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "その"
+            },
+            {
+              "text": "音楽",
+              "reading": "おんがく"
+            },
+            {
+              "text": "　その"
+            },
+            {
+              "text": "歌",
+              "reading": "うた"
+            },
+            {
+              "text": "　そのメロディ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000052",
+      "order": 51,
+      "index": 51,
+      "start": 116.881623,
+      "end": 120.098332,
+      "japanese": "アレっぽいなそれ　比況　アレっぽいなそれ",
+      "zh-CN": "挺像那个什么的嘛 譬如 挺像那个什么的嘛",
+      "segments": [
+        {
+          "text": "アレっぽいなそれ　比況　アレっぽいなそれ",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "アレっぽいなそれ　"
+            },
+            {
+              "text": "比況",
+              "reading": "ひきょう"
+            },
+            {
+              "text": "　アレっぽいなそれ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000053",
+      "order": 52,
+      "index": 52,
+      "start": 120.098332,
+      "end": 121.918167,
+      "japanese": "その名言　その意見　その批評",
+      "zh-CN": "那句名言 那个观点 那条批评",
+      "segments": [
+        {
+          "text": "その名言　その意見　その批評",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "その"
+            },
+            {
+              "text": "名言",
+              "reading": "めいげん"
+            },
+            {
+              "text": "　その"
+            },
+            {
+              "text": "意見",
+              "reading": "いけん"
+            },
+            {
+              "text": "　その"
+            },
+            {
+              "text": "批評",
+              "reading": "ひひょう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000054",
+      "order": 53,
+      "index": 53,
+      "start": 121.918167,
+      "end": 123.670008,
+      "japanese": "そのカリスマ　そのギャグ　そのセンス",
+      "zh-CN": "那种领袖气质 那个段子 那种品味",
+      "segments": [
+        {
+          "text": "そのカリスマ　そのギャグ　そのセンス",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "そのカリスマ　そのギャグ　そのセンス"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000055",
+      "order": 54,
+      "index": 54,
+      "start": 123.670008,
+      "end": 125.261864,
+      "japanese": "神っぽいなそれ　卑怯　",
+      "zh-CN": "挺像神一样的嘛那个 卑鄙",
+      "segments": [
+        {
+          "text": "神っぽいなそれ　卑怯　",
+          "performerIds": [
+            "歌唱者-19",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "神",
+              "reading": "かみ"
+            },
+            {
+              "text": "っぽいなそれ　"
+            },
+            {
+              "text": "卑怯",
+              "reading": "ひきょう"
+            },
+            {
+              "text": "　"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000056",
+      "order": 55,
+      "index": 55,
+      "start": 125.261864,
+      "end": 127.344676,
+      "japanese": "ぽいなぽいなぽい　憧れちゃうわ！",
+      "zh-CN": "好像啊好像啊真像 让人好生憧憬啊！",
+      "segments": [
+        {
+          "text": "ぽいなぽいなぽい　憧れちゃうわ！",
+          "performerIds": [
+            "歌唱者-19",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ぽいなぽいなぽい　"
+            },
+            {
+              "text": "憧",
+              "reading": "あこが"
+            },
+            {
+              "text": "れちゃうわ！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000057",
+      "order": 56,
+      "index": 56,
+      "start": 127.344676,
+      "end": 129.024524,
+      "japanese": "とぅとぅるとぅとぅとぅる\"風\"",
+      "zh-CN": "嘟噜噜嘟噜嘟噜“风”",
+      "segments": [
+        {
+          "text": "とぅとぅるとぅとぅとぅる\"風\"",
+          "performerIds": [
+            "歌唱者-20",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "とぅとぅるとぅとぅとぅる\""
+            },
+            {
+              "text": "風",
+              "reading": "ふう"
+            },
+            {
+              "text": "\""
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000058",
+      "order": 57,
+      "index": 57,
+      "start": 129.024524,
+      "end": 130.703372,
+      "japanese": "とぅとぅるとぅとぅとぅる\"風\"",
+      "zh-CN": "嘟噜噜嘟噜嘟噜“风”",
+      "segments": [
+        {
+          "text": "とぅとぅるとぅとぅとぅる\"風\"",
+          "performerIds": [
+            "歌唱者-20",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "とぅとぅるとぅとぅとぅる\""
+            },
+            {
+              "text": "風",
+              "reading": "ふう"
+            },
+            {
+              "text": "\""
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000059",
+      "order": 58,
+      "index": 58,
+      "start": 130.704372,
+      "end": 132.453214,
+      "japanese": "とぅとぅるとぅとぅとぅる\"風\"",
+      "zh-CN": "嘟噜噜嘟噜嘟噜“风”",
+      "segments": [
+        {
+          "text": "とぅとぅるとぅとぅとぅる\"風\"",
+          "performerIds": [
+            "歌唱者-20",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "とぅとぅるとぅとぅとぅる\""
+            },
+            {
+              "text": "風",
+              "reading": "ふう"
+            },
+            {
+              "text": "\""
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000060",
+      "order": 59,
+      "index": 59,
+      "start": 132.453214,
+      "end": 134.102064,
+      "japanese": "ぽいじゃん　ぽいじゃん",
+      "zh-CN": "挺像那么回事的嘛 挺像那么回事的嘛",
+      "segments": [
+        {
+          "text": "ぽいじゃん　ぽいじゃん",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "ぽいじゃん　ぽいじゃん"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000061",
+      "order": 60,
+      "index": 60,
+      "start": 134.102064,
+      "end": 135.779913,
+      "japanese": "とぅとぅるとぅとぅとぅる\"風\"",
+      "zh-CN": "嘟噜噜嘟噜嘟噜“风”",
+      "segments": [
+        {
+          "text": "とぅとぅるとぅとぅとぅる\"風\"",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "とぅとぅるとぅとぅとぅる\""
+            },
+            {
+              "text": "風",
+              "reading": "ふう"
+            },
+            {
+              "text": "\""
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000062",
+      "order": 61,
+      "index": 61,
+      "start": 135.780913,
+      "end": 137.476759,
+      "japanese": "とぅとぅるとぅとぅとぅる\"風\"",
+      "zh-CN": "嘟噜噜嘟噜嘟噜“风”",
+      "segments": [
+        {
+          "text": "とぅとぅるとぅとぅとぅる\"風\"",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "とぅとぅるとぅとぅとぅる\""
+            },
+            {
+              "text": "風",
+              "reading": "ふう"
+            },
+            {
+              "text": "\""
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000063",
+      "order": 62,
+      "index": 62,
+      "start": 137.476759,
+      "end": 138.828637,
+      "japanese": "とぅとぅるとぅとぅとぅる",
+      "zh-CN": "嘟噜噜嘟噜嘟噜",
+      "segments": [
+        {
+          "text": "とぅとぅるとぅとぅとぅる",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "とぅとぅるとぅとぅとぅる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000064",
+      "order": 63,
+      "index": 63,
+      "start": 138.828637,
+      "end": 140.67047,
+      "japanese": "神っぽいな",
+      "zh-CN": "挺像神明一样的嘛",
+      "segments": [
+        {
+          "text": "神っぽいな",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "神",
+              "reading": "かみ"
+            },
+            {
+              "text": "っぽいな"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000065",
+      "order": 64,
+      "index": 64,
+      "start": 140.67047,
+      "end": 143.895178,
+      "japanese": "愛のネタバレ 「別れ」っぽいな",
+      "zh-CN": "爱的剧透 好像是「分手」啊",
+      "segments": [
+        {
+          "text": "愛のネタバレ 「別れ」っぽいな",
+          "performerIds": [
+            "歌唱者-20",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "愛",
+              "reading": "あい"
+            },
+            {
+              "text": "のネタバレ 「"
+            },
+            {
+              "text": "別",
+              "reading": "わか"
+            },
+            {
+              "text": "れ」っぽいな"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000066",
+      "order": 65,
+      "index": 65,
+      "start": 143.895178,
+      "end": 147.494853,
+      "japanese": "人生のネタバレ 「死ぬ」っぽいな",
+      "zh-CN": "人生的剧透 好像是「死掉」啊",
+      "segments": [
+        {
+          "text": "人生のネタバレ 「死ぬ」っぽいな",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "人生",
+              "reading": "じんせい"
+            },
+            {
+              "text": "のネタバレ 「"
+            },
+            {
+              "text": "死",
+              "reading": "し"
+            },
+            {
+              "text": "ぬ」っぽいな"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000067",
+      "order": 66,
+      "index": 66,
+      "start": 147.494853,
+      "end": 150.672565,
+      "japanese": "すべて理解して患った",
+      "zh-CN": "理解了一切后反倒患了病",
+      "segments": [
+        {
+          "text": "すべて理解して患った",
+          "performerIds": [
+            "歌唱者-19",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "すべて"
+            },
+            {
+              "text": "理解",
+              "reading": "りかい"
+            },
+            {
+              "text": "して"
+            },
+            {
+              "text": "患",
+              "reading": "わずら"
+            },
+            {
+              "text": "った"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000068",
+      "order": 67,
+      "index": 67,
+      "start": 150.686,
+      "end": 155.56625,
+      "japanese": "無邪気に踊っていたかった　人生",
+      "zh-CN": "本想天真烂漫地起舞的　人生",
+      "segments": [
+        {
+          "text": "無邪気に踊っていたかった　",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "無邪気",
+              "reading": "むじゃき"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "踊",
+              "reading": "おど"
+            },
+            {
+              "text": "っていたかった　"
+            }
+          ]
+        },
+        {
+          "text": "人生",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "人生",
+              "reading": "じんせい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

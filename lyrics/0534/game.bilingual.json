@@ -1,0 +1,607 @@
+{
+  "music_id": 534,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-01",
+      "name": "星乃一歌"
+    },
+    {
+      "performerId": "歌唱者-02",
+      "name": "天馬咲希"
+    },
+    {
+      "performerId": "歌唱者-03",
+      "name": "望月穂波"
+    },
+    {
+      "performerId": "歌唱者-04",
+      "name": "日野森志歩"
+    },
+    {
+      "performerId": "歌唱者-26",
+      "name": "KAITO"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 18.663133,
+      "end": 27.22223,
+      "japanese": "笑い方も忘れて　間違い方も忘れて",
+      "zh-CN": "遗忘了该如何微笑 也遗忘了该如何犯错",
+      "segments": [
+        {
+          "text": "笑い方も忘れて　間違い方も忘れて",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "笑",
+              "reading": "わら"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "方",
+              "reading": "かた"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "忘",
+              "reading": "わす"
+            },
+            {
+              "text": "れて　"
+            },
+            {
+              "text": "間違",
+              "reading": "まちが"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "方",
+              "reading": "かた"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "忘",
+              "reading": "わす"
+            },
+            {
+              "text": "れて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 27.22223,
+      "end": 45.929257,
+      "japanese": "「君に触れれば灰になるなら、灰になる私は幸せね。」",
+      "zh-CN": "「若触碰你便会化作飞灰 那么化为灰烬的我也是幸福的呢。」",
+      "segments": [
+        {
+          "text": "「君に触れれば灰になるなら、灰になる私は幸せね。」",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "「"
+            },
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "触",
+              "reading": "ふ"
+            },
+            {
+              "text": "れれば"
+            },
+            {
+              "text": "灰",
+              "reading": "はい"
+            },
+            {
+              "text": "になるなら、"
+            },
+            {
+              "text": "灰",
+              "reading": "はい"
+            },
+            {
+              "text": "になる"
+            },
+            {
+              "text": "私",
+              "reading": "わたし"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "幸",
+              "reading": "しあわ"
+            },
+            {
+              "text": "せね。」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 27.22223,
+      "end": 45.929257,
+      "japanese": "ってそう言ってた　それから",
+      "zh-CN": "你曾这般诉说 自那之后",
+      "segments": [
+        {
+          "text": "ってそう言ってた　",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "ってそう"
+            },
+            {
+              "text": "言",
+              "reading": "い"
+            },
+            {
+              "text": "ってた　"
+            }
+          ]
+        },
+        {
+          "text": "それから",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "それから"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 48.621973,
+      "end": 56.945095,
+      "japanese": "世界を呪った君は笑い方が上手くなった",
+      "zh-CN": "诅咒着世界的你 变得擅长展露笑容了",
+      "segments": [
+        {
+          "text": "世界を呪った君は笑い方が上手くなった",
+          "performerIds": [
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "世界",
+              "reading": "せかい"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "呪",
+              "reading": "のろ"
+            },
+            {
+              "text": "った"
+            },
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "笑",
+              "reading": "わら"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "方",
+              "reading": "かた"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "上手",
+              "reading": "うま"
+            },
+            {
+              "text": "くなった"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 57.206068,
+      "end": 68.336894,
+      "japanese": "自分のこと嫌いになりすぎる　それを見るのが辛かっただけなんだ",
+      "zh-CN": "只是看着你那般极度厌恶自己 让我感到心如刀绞罢了",
+      "segments": [
+        {
+          "text": "自分のこと嫌いになりすぎる　",
+          "performerIds": [
+            "歌唱者-03"
+          ],
+          "ruby": [
+            {
+              "text": "自分",
+              "reading": "じぶん"
+            },
+            {
+              "text": "のこと"
+            },
+            {
+              "text": "嫌",
+              "reading": "きら"
+            },
+            {
+              "text": "いになりすぎる　"
+            }
+          ]
+        },
+        {
+          "text": "それを見るのが辛かっただけなんだ",
+          "performerIds": [
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "それを"
+            },
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "るのが"
+            },
+            {
+              "text": "辛",
+              "reading": "つら"
+            },
+            {
+              "text": "かっただけなんだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 69.194803,
+      "end": 78.721798,
+      "japanese": "綺麗事が嫌いで　誰にも関わらない透明人間",
+      "zh-CN": "痛恨虚伪的大道理 与任何人都不相往来的透明人",
+      "segments": [
+        {
+          "text": "綺麗事が嫌いで　誰にも関わらない透明人間",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "綺麗事",
+              "reading": "きれいごと"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "嫌",
+              "reading": "きら"
+            },
+            {
+              "text": "いで　"
+            },
+            {
+              "text": "誰",
+              "reading": "だれ"
+            },
+            {
+              "text": "にも"
+            },
+            {
+              "text": "関",
+              "reading": "かか"
+            },
+            {
+              "text": "わらない"
+            },
+            {
+              "text": "透明人間",
+              "reading": "とうめいにんげん"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 78.721798,
+      "end": 86.451983,
+      "japanese": "ワンコードで　その存在を確かめたくて鳴らすよ",
+      "zh-CN": "用一个单和弦 想要确认那份存在而用力弹响",
+      "segments": [
+        {
+          "text": "ワンコードで　",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "ワンコードで　"
+            }
+          ]
+        },
+        {
+          "text": "その存在を確かめたくて鳴らすよ",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "その"
+            },
+            {
+              "text": "存在",
+              "reading": "そんざい"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "確",
+              "reading": "たし"
+            },
+            {
+              "text": "かめたくて"
+            },
+            {
+              "text": "鳴",
+              "reading": "な"
+            },
+            {
+              "text": "らすよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 86.779948,
+      "end": 96.828888,
+      "japanese": "世界中が全部嘘だと　神様から告げられたって",
+      "zh-CN": "纵然被神明告知 整个世界全部都是虚假的谎言",
+      "segments": [
+        {
+          "text": "世界中が",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "世界中",
+              "reading": "せかいじゅう"
+            },
+            {
+              "text": "が"
+            }
+          ]
+        },
+        {
+          "text": "全部嘘だと　神様から告げられたって",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-03",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "全部嘘",
+              "reading": "ぜんぶうそ"
+            },
+            {
+              "text": "だと　"
+            },
+            {
+              "text": "神様",
+              "reading": "かみさま"
+            },
+            {
+              "text": "から"
+            },
+            {
+              "text": "告",
+              "reading": "つ"
+            },
+            {
+              "text": "げられたって"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 97.085861,
+      "end": 106.827834,
+      "japanese": "このくたびれたカラカラのあばらで　君の名を呼べば",
+      "zh-CN": "只要用我这疲惫干瘪的胸膛 放声呼唤你的名字",
+      "segments": [
+        {
+          "text": "このくたびれたカラカラのあばらで　君の名を呼べば",
+          "performerIds": [
+            "歌唱者-04",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "このくたびれたカラカラのあばらで　"
+            },
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "名",
+              "reading": "な"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "呼",
+              "reading": "よ"
+            },
+            {
+              "text": "べば"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 106.899,
+      "end": 113.6815,
+      "japanese": "36度の音が　確かに届いて灯る",
+      "zh-CN": "带着三十六度体温的声音 便真切地传达并点亮微光",
+      "segments": [
+        {
+          "text": "36度の音が　確かに",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "36"
+            },
+            {
+              "text": "度",
+              "reading": "ど"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "音",
+              "reading": "おと"
+            },
+            {
+              "text": "が　"
+            },
+            {
+              "text": "確",
+              "reading": "たし"
+            },
+            {
+              "text": "かに"
+            }
+          ]
+        },
+        {
+          "text": "届いて灯る",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "届",
+              "reading": "とど"
+            },
+            {
+              "text": "いて"
+            },
+            {
+              "text": "灯",
+              "reading": "とも"
+            },
+            {
+              "text": "る"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

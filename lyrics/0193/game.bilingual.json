@@ -1,0 +1,747 @@
+{
+  "music_id": 193,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-05",
+      "name": "花里みのり"
+    },
+    {
+      "performerId": "歌唱者-06",
+      "name": "桐谷遥"
+    },
+    {
+      "performerId": "歌唱者-07",
+      "name": "桃井愛莉"
+    },
+    {
+      "performerId": "歌唱者-08",
+      "name": "日野森雫"
+    },
+    {
+      "performerId": "歌唱者-26",
+      "name": "KAITO"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 9.18425,
+      "end": 13.91425,
+      "japanese": "きらきら、光ってるはずなんだ",
+      "zh-CN": "闪闪发光 一定在绽放光芒啊",
+      "segments": [
+        {
+          "text": "きらきら、光ってるはずなんだ",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "きらきら、"
+            },
+            {
+              "text": "光",
+              "reading": "ひか"
+            },
+            {
+              "text": "ってるはずなんだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 25.20425,
+      "end": 27.33425,
+      "japanese": "キャ−キャ−キャパシティオーバー",
+      "zh-CN": "呀—呀—超负荷过载",
+      "segments": [
+        {
+          "text": "キャ−キャ−キャパシティオーバー",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "キャ−キャ−キャパシティオーバー"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 27.358513,
+      "end": 29.26371,
+      "japanese": "てんてこまいの毎日だ",
+      "zh-CN": "手忙脚乱团团转的每一天",
+      "segments": [
+        {
+          "text": "てんてこまいの毎日だ",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "てんてこまいの"
+            },
+            {
+              "text": "毎日",
+              "reading": "まいにち"
+            },
+            {
+              "text": "だ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 29.430728,
+      "end": 32.403036,
+      "japanese": "頭こんがらがって warning warning",
+      "zh-CN": "大脑一片混乱 Warning Warning",
+      "segments": [
+        {
+          "text": "頭こんがらがって ",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "頭",
+              "reading": "あたま"
+            },
+            {
+              "text": "こんがらがって "
+            }
+          ]
+        },
+        {
+          "text": "warning warning",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "warning warning"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 32.746071,
+      "end": 36.119421,
+      "japanese": "でっかい月の上にウサギがいるんだっけ？",
+      "zh-CN": "巨大的月亮上面真的住着兔子吗？",
+      "segments": [
+        {
+          "text": "でっかい月の上にウサギがいるんだっけ？",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "でっかい"
+            },
+            {
+              "text": "月",
+              "reading": "つき"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "上",
+              "reading": "うえ"
+            },
+            {
+              "text": "にウサギがいるんだっけ？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 36.119421,
+      "end": 40.959923,
+      "japanese": "宇宙旅行にパスポートって要りますか",
+      "zh-CN": "宇宙旅行究竟需要用到护照吗",
+      "segments": [
+        {
+          "text": "宇宙旅行にパスポートって要りますか",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "宇宙旅行",
+              "reading": "うちゅうりょこう"
+            },
+            {
+              "text": "にパスポートって"
+            },
+            {
+              "text": "要",
+              "reading": "い"
+            },
+            {
+              "text": "りますか"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 43.103145,
+      "end": 46.159461,
+      "japanese": "僕らが歩いていくセカイの",
+      "zh-CN": "我们所踏步前行的SEKAI",
+      "segments": [
+        {
+          "text": "僕らが歩いていくセカイの",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "らが"
+            },
+            {
+              "text": "歩",
+              "reading": "ある"
+            },
+            {
+              "text": "いていくセカイの"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 46.384485,
+      "end": 48.980754,
+      "japanese": "明日はどんな色？",
+      "zh-CN": "明天究竟会是什么颜色？",
+      "segments": [
+        {
+          "text": "明日はどんな色？",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "明日",
+              "reading": "あした"
+            },
+            {
+              "text": "はどんな"
+            },
+            {
+              "text": "色",
+              "reading": "いろ"
+            },
+            {
+              "text": "？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 48.980754,
+      "end": 52.359104,
+      "japanese": "君と僕で描いていく",
+      "zh-CN": "与你一起由我们共同描绘的",
+      "segments": [
+        {
+          "text": "君と僕で描いていく",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "と"
+            },
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "で"
+            },
+            {
+              "text": "描",
+              "reading": "えが"
+            },
+            {
+              "text": "いていく"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 48.980754,
+      "end": 52.359104,
+      "japanese": "ふたりいろ",
+      "zh-CN": "属于两人的色彩",
+      "segments": [
+        {
+          "text": "ふたりいろ",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "ふたりいろ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 52.359104,
+      "end": 55.710451,
+      "japanese": "I shall checkmate　君をcheckmate",
+      "zh-CN": "I shall checkmate 将你 checkmate",
+      "segments": [
+        {
+          "text": "I shall ",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "I shall "
+            }
+          ]
+        },
+        {
+          "text": "checkmate　君をcheckmate",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "checkmate　"
+            },
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "をcheckmate"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 56.030484,
+      "end": 59.261819,
+      "japanese": "会いたい時には　会いに行くよ",
+      "zh-CN": "想见你的时候 随时都会去见你哦",
+      "segments": [
+        {
+          "text": "会いたい時には　会いに行くよ",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-07",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "会",
+              "reading": "あ"
+            },
+            {
+              "text": "いたい"
+            },
+            {
+              "text": "時",
+              "reading": "とき"
+            },
+            {
+              "text": "には　"
+            },
+            {
+              "text": "会",
+              "reading": "あ"
+            },
+            {
+              "text": "いに"
+            },
+            {
+              "text": "行",
+              "reading": "い"
+            },
+            {
+              "text": "くよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 59.429837,
+      "end": 63.002207,
+      "japanese": "地球の裏から　夢の中まで",
+      "zh-CN": "从地球的另一端 直到梦境深处",
+      "segments": [
+        {
+          "text": "地球の裏から　夢の中まで",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-08",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "地球",
+              "reading": "ちきゅう"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "裏",
+              "reading": "うら"
+            },
+            {
+              "text": "から　"
+            },
+            {
+              "text": "夢",
+              "reading": "ゆめ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "中",
+              "reading": "なか"
+            },
+            {
+              "text": "まで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 63.175225,
+      "end": 66.163535,
+      "japanese": "ひらひら、スカートが揺れる",
+      "zh-CN": "飘飘然、裙摆轻轻摇曳",
+      "segments": [
+        {
+          "text": "ひらひら、スカートが揺れる",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "ひらひら、スカートが"
+            },
+            {
+              "text": "揺",
+              "reading": "ゆ"
+            },
+            {
+              "text": "れる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 66.39425,
+      "end": 69.5915,
+      "japanese": "escort　君をescort",
+      "zh-CN": "Escort 护送你 Escort",
+      "segments": [
+        {
+          "text": "escort　君をescort",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "escort　"
+            },
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "をescort"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 69.545448,
+      "end": 72.891794,
+      "japanese": "マニュアル通りじゃ　つまんないでしょ？",
+      "zh-CN": "照本宣科按部就班也太无趣了吧？",
+      "segments": [
+        {
+          "text": "マニュアル通りじゃ　つまんないでしょ？",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-07",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "マニュアル"
+            },
+            {
+              "text": "通",
+              "reading": "どお"
+            },
+            {
+              "text": "りじゃ　つまんないでしょ？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 72.891794,
+      "end": 76.579176,
+      "japanese": "不安の数だけ　希望があるってこと",
+      "zh-CN": "有多少不安 就对应着多少希望",
+      "segments": [
+        {
+          "text": "不安の数だけ　希望があるってこと",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-08",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "不安",
+              "reading": "ふあん"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "数",
+              "reading": "かず"
+            },
+            {
+              "text": "だけ　"
+            },
+            {
+              "text": "希望",
+              "reading": "きぼう"
+            },
+            {
+              "text": "があるってこと"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 76.750194,
+      "end": 79.89052,
+      "japanese": "高く高く　跳べる気がしてる",
+      "zh-CN": "感觉能够跳得更高更高呢",
+      "segments": [
+        {
+          "text": "高く高く　跳べる気がしてる",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "高",
+              "reading": "たか"
+            },
+            {
+              "text": "く"
+            },
+            {
+              "text": "高",
+              "reading": "たか"
+            },
+            {
+              "text": "く　"
+            },
+            {
+              "text": "跳",
+              "reading": "と"
+            },
+            {
+              "text": "べる"
+            },
+            {
+              "text": "気",
+              "reading": "き"
+            },
+            {
+              "text": "がしてる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 80.0815,
+      "end": 85.1315,
+      "japanese": "きらきら、光ってるはずなんだ",
+      "zh-CN": "闪闪发光 一定在绽放光芒啊",
+      "segments": [
+        {
+          "text": "きらきら、光ってるはずなんだ",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "きらきら、"
+            },
+            {
+              "text": "光",
+              "reading": "ひか"
+            },
+            {
+              "text": "ってるはずなんだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    }
+  ]
+}

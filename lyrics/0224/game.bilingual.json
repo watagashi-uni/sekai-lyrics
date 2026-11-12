@@ -1,0 +1,1397 @@
+{
+  "music_id": 224,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-13",
+      "name": "天馬司"
+    },
+    {
+      "performerId": "歌唱者-14",
+      "name": "鳳えむ"
+    },
+    {
+      "performerId": "歌唱者-15",
+      "name": "草薙寧々"
+    },
+    {
+      "performerId": "歌唱者-16",
+      "name": "神代類"
+    },
+    {
+      "performerId": "歌唱者-26",
+      "name": "KAITO"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 9.1655,
+      "end": 18.3255,
+      "japanese": "きっとどこかで　気づいてたんだ",
+      "zh-CN": "一定在某个地方 早就察觉到了",
+      "segments": [
+        {
+          "text": "きっとどこかで　気づいてたんだ",
+          "performerIds": [
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "きっとどこかで　"
+            },
+            {
+              "text": "気",
+              "reading": "き"
+            },
+            {
+              "text": "づいてたんだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 9.1655,
+      "end": 18.3255,
+      "japanese": "これは　子供騙しだ",
+      "zh-CN": "这不过是在哄骗小孩子罢了",
+      "segments": [
+        {
+          "text": "これは　",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "これは　"
+            }
+          ]
+        },
+        {
+          "text": "子供騙しだ",
+          "performerIds": [
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "子供騙",
+              "reading": "こどもだま"
+            },
+            {
+              "text": "しだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 9.1655,
+      "end": 18.3255,
+      "japanese": "LALALA LALA　キラリキラリ",
+      "zh-CN": "LALALA LALA 一闪一闪亮晶晶",
+      "segments": [
+        {
+          "text": "LALALA LALA　キラリキラリ",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "LALALA LALA　キラリキラリ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 18.263456,
+      "end": 19.756275,
+      "japanese": "君は笑うんだ",
+      "zh-CN": "你展露了笑颜",
+      "segments": [
+        {
+          "text": "君は笑うんだ",
+          "performerIds": [
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "笑",
+              "reading": "わら"
+            },
+            {
+              "text": "うんだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 20.100464,
+      "end": 23.35225,
+      "japanese": "期待されてた",
+      "zh-CN": "曾备受期待的",
+      "segments": [
+        {
+          "text": "期待されてた",
+          "performerIds": [
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "期待",
+              "reading": "きたい"
+            },
+            {
+              "text": "されてた"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 20.100464,
+      "end": 23.35225,
+      "japanese": "めげないピエロだ",
+      "zh-CN": "永不气馁的小丑啊",
+      "segments": [
+        {
+          "text": "めげないピエロだ",
+          "performerIds": [
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "めげないピエロだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 23.35225,
+      "end": 26.160792,
+      "japanese": "そうさ　遠慮はしないさ",
+      "zh-CN": "没错 我可绝不会客气收敛哦",
+      "segments": [
+        {
+          "text": "そうさ　",
+          "performerIds": [
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "そうさ　"
+            }
+          ]
+        },
+        {
+          "text": "遠慮はしないさ",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "遠慮",
+              "reading": "えんりょ"
+            },
+            {
+              "text": "はしないさ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 26.160792,
+      "end": 29.380561,
+      "japanese": "LALALA LALA　ケロリケロリ",
+      "zh-CN": "LALALA LALA 若无其事泰然自若",
+      "segments": [
+        {
+          "text": "LALALA LALA　ケロリケロリ",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "LALALA LALA　ケロリケロリ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 29.380561,
+      "end": 30.85437,
+      "japanese": "僕も笑うんだ",
+      "zh-CN": "我也露出了笑容",
+      "segments": [
+        {
+          "text": "僕も笑うんだ",
+          "performerIds": [
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "笑",
+              "reading": "わら"
+            },
+            {
+              "text": "うんだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 30.85437,
+      "end": 32.669367,
+      "japanese": "かき鳴らす度",
+      "zh-CN": "每当竭力弹奏敲响之时",
+      "segments": [
+        {
+          "text": "かき鳴らす度",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "かき"
+            },
+            {
+              "text": "鳴",
+              "reading": "な"
+            },
+            {
+              "text": "らす"
+            },
+            {
+              "text": "度",
+              "reading": "たび"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 32.669367,
+      "end": 35.411873,
+      "japanese": "心が呼びかけてくる",
+      "zh-CN": "内心便在呼唤呐喊",
+      "segments": [
+        {
+          "text": "心が呼びかけてくる",
+          "performerIds": [
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "心",
+              "reading": "こころ"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "呼",
+              "reading": "よ"
+            },
+            {
+              "text": "びかけてくる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 35.411873,
+      "end": 40.343581,
+      "japanese": "セカイの一瞬の　熱狂が　弾ける",
+      "zh-CN": "SEKAI一瞬间的狂热 彻底迸发开来",
+      "segments": [
+        {
+          "text": "セカイの",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "セカイの"
+            }
+          ]
+        },
+        {
+          "text": "一瞬の　",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "一瞬",
+              "reading": "いっしゅん"
+            },
+            {
+              "text": "の　"
+            }
+          ]
+        },
+        {
+          "text": "熱狂が　弾ける",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "熱狂",
+              "reading": "ねっきょう"
+            },
+            {
+              "text": "が　"
+            },
+            {
+              "text": "弾",
+              "reading": "はじ"
+            },
+            {
+              "text": "ける"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 41.702327,
+      "end": 43.913542,
+      "japanese": "馬鹿になって　飛んでいって",
+      "zh-CN": "变成大笨蛋 尽情飞翔吧",
+      "segments": [
+        {
+          "text": "馬鹿になって　飛んでいって",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "馬鹿",
+              "reading": "ばか"
+            },
+            {
+              "text": "になって　"
+            },
+            {
+              "text": "飛",
+              "reading": "と"
+            },
+            {
+              "text": "んでいって"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 43.913542,
+      "end": 47.307405,
+      "japanese": "時折ほんのちょっと　思い出せばいい",
+      "zh-CN": "偶尔稍微 回想起来就好啦",
+      "segments": [
+        {
+          "text": "時折ほんのちょっと　思い出せばいい",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-15",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "時折",
+              "reading": "ときおり"
+            },
+            {
+              "text": "ほんのちょっと　"
+            },
+            {
+              "text": "思",
+              "reading": "おも"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "せばいい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 47.307405,
+      "end": 49.459587,
+      "japanese": "やむを得ずも　空回り？",
+      "zh-CN": "身不由己地 徒劳空转？",
+      "segments": [
+        {
+          "text": "やむを得ずも　空回り？",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "やむを"
+            },
+            {
+              "text": "得",
+              "reading": "え"
+            },
+            {
+              "text": "ずも　"
+            },
+            {
+              "text": "空回",
+              "reading": "からまわ"
+            },
+            {
+              "text": "り？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 49.459587,
+      "end": 52.790416,
+      "japanese": "土壇場ドタバタ　滑り込めばいい",
+      "zh-CN": "紧要关头手忙脚乱 顺利滑垒冲线就好啦",
+      "segments": [
+        {
+          "text": "土壇場ドタバタ　滑り込めばいい",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-16",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "土壇場",
+              "reading": "どたんば"
+            },
+            {
+              "text": "ドタバタ　"
+            },
+            {
+              "text": "滑",
+              "reading": "すべ"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "込",
+              "reading": "こ"
+            },
+            {
+              "text": "めばいい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 52.790416,
+      "end": 54.738486,
+      "japanese": "きっとそうだ　そんなもんだ",
+      "zh-CN": "一定就是这样 差不多就是这种状态吧",
+      "segments": [
+        {
+          "text": "きっとそうだ　そんなもんだ",
+          "performerIds": [
+            "歌唱者-15",
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "きっとそうだ　そんなもんだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 54.738486,
+      "end": 58.20539,
+      "japanese": "夢も希望も　欲張っちゃえばいい",
+      "zh-CN": "无论是梦想还是希望 尽情贪心全都要就好啦",
+      "segments": [
+        {
+          "text": "夢も希望も　欲張っちゃえばいい",
+          "performerIds": [
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "夢",
+              "reading": "ゆめ"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "希望",
+              "reading": "きぼう"
+            },
+            {
+              "text": "も　"
+            },
+            {
+              "text": "欲張",
+              "reading": "よくば"
+            },
+            {
+              "text": "っちゃえばいい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 58.20539,
+      "end": 60.325554,
+      "japanese": "待ってました　お出ましだ",
+      "zh-CN": "久等了 隆重登场啦",
+      "segments": [
+        {
+          "text": "待ってました　お出ましだ",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "待",
+              "reading": "ま"
+            },
+            {
+              "text": "ってました　お"
+            },
+            {
+              "text": "出",
+              "reading": "で"
+            },
+            {
+              "text": "ましだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 60.325554,
+      "end": 66.069709,
+      "japanese": "88個のスター　駆け上がれ！",
+      "zh-CN": "88颗璀璨繁星 奋力向上奔跑吧！",
+      "segments": [
+        {
+          "text": "88個のスター　",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "88"
+            },
+            {
+              "text": "個",
+              "reading": "こ"
+            },
+            {
+              "text": "のスター　"
+            }
+          ]
+        },
+        {
+          "text": "駆け上がれ！",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "駆",
+              "reading": "か"
+            },
+            {
+              "text": "け"
+            },
+            {
+              "text": "上",
+              "reading": "あ"
+            },
+            {
+              "text": "がれ！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 74.904561,
+      "end": 76.839623,
+      "japanese": "なんだかんだ　ワンダーワンダー",
+      "zh-CN": "不管怎样 奇妙奇幻 惊叹不已",
+      "segments": [
+        {
+          "text": "なんだかんだ　ワンダーワンダー",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "なんだかんだ　ワンダーワンダー"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 76.839623,
+      "end": 79.593135,
+      "japanese": "抱きしめて　おやすみ",
+      "zh-CN": "紧紧拥入怀中 晚安好梦",
+      "segments": [
+        {
+          "text": "抱きしめて　おやすみ",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "抱",
+              "reading": "だ"
+            },
+            {
+              "text": "きしめて　おやすみ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000023",
+      "order": 22,
+      "index": 22,
+      "start": 79.593135,
+      "end": 81.66027,
+      "japanese": "まだまだ　物足りない？",
+      "zh-CN": "还觉得 还不够过瘾吗？",
+      "segments": [
+        {
+          "text": "まだまだ　物足りない？",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "まだまだ　"
+            },
+            {
+              "text": "物足",
+              "reading": "ものた"
+            },
+            {
+              "text": "りない？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000024",
+      "order": 23,
+      "index": 23,
+      "start": 81.66027,
+      "end": 82.977994,
+      "japanese": "そんなもんじゃない？",
+      "zh-CN": "怎么可能只有这点程度呢？",
+      "segments": [
+        {
+          "text": "そんなもんじゃない？",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "そんなもんじゃない？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000025",
+      "order": 24,
+      "index": 24,
+      "start": 82.977994,
+      "end": 85.983645,
+      "japanese": "もっと行けるんじゃない！",
+      "zh-CN": "应该还能走得更远才对吧！",
+      "segments": [
+        {
+          "text": "もっと行けるんじゃない！",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "もっと"
+            },
+            {
+              "text": "行",
+              "reading": "い"
+            },
+            {
+              "text": "けるんじゃない！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000026",
+      "order": 25,
+      "index": 25,
+      "start": 87.120269,
+      "end": 89.073341,
+      "japanese": "朝になって　息を吐いて",
+      "zh-CN": "迎来清晨 吐出一口气",
+      "segments": [
+        {
+          "text": "朝になって　息を吐いて",
+          "performerIds": [
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "朝",
+              "reading": "あさ"
+            },
+            {
+              "text": "になって　"
+            },
+            {
+              "text": "息",
+              "reading": "いき"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "吐",
+              "reading": "は"
+            },
+            {
+              "text": "いて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000027",
+      "order": 26,
+      "index": 26,
+      "start": 89.073341,
+      "end": 92.481213,
+      "japanese": "それから今日を　彩っていけばいい",
+      "zh-CN": "从现在开始 为今天染上绚丽色彩就好啦",
+      "segments": [
+        {
+          "text": "それから今日を　彩っていけばいい",
+          "performerIds": [
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "それから"
+            },
+            {
+              "text": "今日",
+              "reading": "きょう"
+            },
+            {
+              "text": "を　"
+            },
+            {
+              "text": "彩",
+              "reading": "いろど"
+            },
+            {
+              "text": "っていけばいい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000028",
+      "order": 27,
+      "index": 27,
+      "start": 92.481213,
+      "end": 94.627392,
+      "japanese": "酸いも甘いも　何もないの？",
+      "zh-CN": "酸甜苦辣 什么都体会不到吗？",
+      "segments": [
+        {
+          "text": "酸いも甘いも　何もないの？",
+          "performerIds": [
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "酸",
+              "reading": "す"
+            },
+            {
+              "text": "いも"
+            },
+            {
+              "text": "甘",
+              "reading": "あま"
+            },
+            {
+              "text": "いも　"
+            },
+            {
+              "text": "何",
+              "reading": "なん"
+            },
+            {
+              "text": "もないの？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000029",
+      "order": 28,
+      "index": 28,
+      "start": 94.627392,
+      "end": 98.092294,
+      "japanese": "そんな君に　幸せが降るといい",
+      "zh-CN": "愿幸福能够降临在 这样的你身旁",
+      "segments": [
+        {
+          "text": "そんな君に　幸せが降るといい",
+          "performerIds": [
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "そんな"
+            },
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "に　"
+            },
+            {
+              "text": "幸",
+              "reading": "しあわ"
+            },
+            {
+              "text": "せが"
+            },
+            {
+              "text": "降",
+              "reading": "ふ"
+            },
+            {
+              "text": "るといい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000030",
+      "order": 29,
+      "index": 29,
+      "start": 98.092294,
+      "end": 100.049369,
+      "japanese": "調子乗って　飛んでいって",
+      "zh-CN": "得意忘形 尽情飞翔吧",
+      "segments": [
+        {
+          "text": "調子乗って　飛んでいって",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-15",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "調子乗",
+              "reading": "ちょうしの"
+            },
+            {
+              "text": "って　"
+            },
+            {
+              "text": "飛",
+              "reading": "と"
+            },
+            {
+              "text": "んでいって"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000031",
+      "order": 30,
+      "index": 30,
+      "start": 100.1355,
+      "end": 103.5455,
+      "japanese": "時折ほんのちょっと　座っちゃえばいい",
+      "zh-CN": "偶尔稍微 坐下来歇会儿就好啦",
+      "segments": [
+        {
+          "text": "時折ほんのちょっと　座っちゃえばいい",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-15",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "時折",
+              "reading": "ときおり"
+            },
+            {
+              "text": "ほんのちょっと　"
+            },
+            {
+              "text": "座",
+              "reading": "すわ"
+            },
+            {
+              "text": "っちゃえばいい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000032",
+      "order": 31,
+      "index": 31,
+      "start": 103.5455,
+      "end": 105.6755,
+      "japanese": "やむを得ずも　空回り？",
+      "zh-CN": "身不由己地 徒劳空转？",
+      "segments": [
+        {
+          "text": "やむを得ずも　空回り？",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-16",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "やむを"
+            },
+            {
+              "text": "得",
+              "reading": "え"
+            },
+            {
+              "text": "ずも　"
+            },
+            {
+              "text": "空回",
+              "reading": "からまわ"
+            },
+            {
+              "text": "り？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000033",
+      "order": 32,
+      "index": 32,
+      "start": 105.6755,
+      "end": 108.8855,
+      "japanese": "どたんばたん　楽しんじゃえばいい",
+      "zh-CN": "吵吵闹闹 尽情享受其中就好啦",
+      "segments": [
+        {
+          "text": "どたんばたん　楽しんじゃえばいい",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-16",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "どたんばたん　"
+            },
+            {
+              "text": "楽",
+              "reading": "たの"
+            },
+            {
+              "text": "しんじゃえばいい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000034",
+      "order": 33,
+      "index": 33,
+      "start": 109.1055,
+      "end": 111.1855,
+      "japanese": "きっとそうだ　そんなもんだ",
+      "zh-CN": "一定就是这样 差不多就是这种状态吧",
+      "segments": [
+        {
+          "text": "きっとそうだ　そんなもんだ",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "きっとそうだ　そんなもんだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000035",
+      "order": 34,
+      "index": 34,
+      "start": 111.1855,
+      "end": 114.5255,
+      "japanese": "夢も希望も　欲張っちゃえばいい",
+      "zh-CN": "无论是梦想还是希望 尽情贪心全都要就好啦",
+      "segments": [
+        {
+          "text": "夢も希望も　欲張っちゃえばいい",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "夢",
+              "reading": "ゆめ"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "希望",
+              "reading": "きぼう"
+            },
+            {
+              "text": "も　"
+            },
+            {
+              "text": "欲張",
+              "reading": "よくば"
+            },
+            {
+              "text": "っちゃえばいい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000036",
+      "order": 35,
+      "index": 35,
+      "start": 114.5255,
+      "end": 116.6355,
+      "japanese": "待ってました　お出ましだ",
+      "zh-CN": "久等了 隆重登场啦",
+      "segments": [
+        {
+          "text": "待ってました　お出ましだ",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "待",
+              "reading": "ま"
+            },
+            {
+              "text": "ってました　お"
+            },
+            {
+              "text": "出",
+              "reading": "で"
+            },
+            {
+              "text": "ましだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000037",
+      "order": 36,
+      "index": 36,
+      "start": 116.6355,
+      "end": 122.6355,
+      "japanese": "88個のスター　駆け上がれ！",
+      "zh-CN": "88颗璀璨繁星 奋力向上奔跑吧！",
+      "segments": [
+        {
+          "text": "88個のスター　駆け上がれ！",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "88"
+            },
+            {
+              "text": "個",
+              "reading": "こ"
+            },
+            {
+              "text": "のスター　"
+            },
+            {
+              "text": "駆",
+              "reading": "か"
+            },
+            {
+              "text": "け"
+            },
+            {
+              "text": "上",
+              "reading": "あ"
+            },
+            {
+              "text": "がれ！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

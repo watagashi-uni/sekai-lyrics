@@ -1,0 +1,1161 @@
+{
+  "music_id": 537,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-09",
+      "name": "小豆沢こはね"
+    },
+    {
+      "performerId": "歌唱者-10",
+      "name": "白石杏"
+    },
+    {
+      "performerId": "歌唱者-11",
+      "name": "東雲彰人"
+    },
+    {
+      "performerId": "歌唱者-12",
+      "name": "青柳冬弥"
+    },
+    {
+      "performerId": "歌唱者-21",
+      "name": "初音ミク"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 21.113,
+      "end": 24.394,
+      "japanese": "憎たらしくて",
+      "zh-CN": "满心可憎可恨",
+      "segments": [
+        {
+          "text": "憎たらしくて",
+          "performerIds": [
+            "歌唱者-09"
+          ],
+          "ruby": [
+            {
+              "text": "憎",
+              "reading": "にく"
+            },
+            {
+              "text": "たらしくて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 24.394,
+      "end": 27.674,
+      "japanese": "そっぽ向いた",
+      "zh-CN": "扭头望向一旁",
+      "segments": [
+        {
+          "text": "そっぽ向いた",
+          "performerIds": [
+            "歌唱者-09"
+          ],
+          "ruby": [
+            {
+              "text": "そっぽ"
+            },
+            {
+              "text": "向",
+              "reading": "む"
+            },
+            {
+              "text": "いた"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 27.674,
+      "end": 30.891,
+      "japanese": "あたし何度も",
+      "zh-CN": "我已经无数次",
+      "segments": [
+        {
+          "text": "あたし何度も",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "あたし"
+            },
+            {
+              "text": "何度",
+              "reading": "なんど"
+            },
+            {
+              "text": "も"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 30.891,
+      "end": 34.6,
+      "japanese": "騙されてる",
+      "zh-CN": "被你欺骗蒙在鼓里",
+      "segments": [
+        {
+          "text": "騙されてる",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "騙",
+              "reading": "だま"
+            },
+            {
+              "text": "されてる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 34.614297,
+      "end": 37.68352,
+      "japanese": "悩ましい心はどうして",
+      "zh-CN": "苦恼烦闷的心灵为何",
+      "segments": [
+        {
+          "text": "悩ましい心はどうして",
+          "performerIds": [
+            "歌唱者-12",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "悩",
+              "reading": "なや"
+            },
+            {
+              "text": "ましい"
+            },
+            {
+              "text": "心",
+              "reading": "こころ"
+            },
+            {
+              "text": "はどうして"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 37.883274,
+      "end": 40.898563,
+      "japanese": "飼い慣らすことが難しい",
+      "zh-CN": "总是如此难以驯服",
+      "segments": [
+        {
+          "text": "飼い慣らすことが難しい",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "飼",
+              "reading": "か"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "慣",
+              "reading": "な"
+            },
+            {
+              "text": "らすことが"
+            },
+            {
+              "text": "難",
+              "reading": "むずか"
+            },
+            {
+              "text": "しい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 41.098317,
+      "end": 44.114604,
+      "japanese": "痛ましい心をどうして",
+      "zh-CN": "痛苦不堪的心灵为何",
+      "segments": [
+        {
+          "text": "痛ましい心をどうして",
+          "performerIds": [
+            "歌唱者-11",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "痛",
+              "reading": "いた"
+            },
+            {
+              "text": "ましい"
+            },
+            {
+              "text": "心",
+              "reading": "こころ"
+            },
+            {
+              "text": "をどうして"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 44.314358,
+      "end": 47.127895,
+      "japanese": "見て見ぬふりをする",
+      "zh-CN": "总是视若无睹",
+      "segments": [
+        {
+          "text": "見て見ぬふりをする",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "て"
+            },
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "ぬふりをする"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 47.240757,
+      "end": 49.133427,
+      "japanese": "行かないで（ないで！）",
+      "zh-CN": "别走（别走！）",
+      "segments": [
+        {
+          "text": "行かないで（ないで！）",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-12",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "行",
+              "reading": "い"
+            },
+            {
+              "text": "かないで（ないで！）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 49.297225,
+      "end": 53.782705,
+      "japanese": "先なんて見据えないで",
+      "zh-CN": "别去眺望遥远的未来",
+      "segments": [
+        {
+          "text": "先なんて見据えないで",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-12",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "先",
+              "reading": "さき"
+            },
+            {
+              "text": "なんて"
+            },
+            {
+              "text": "見据",
+              "reading": "みす"
+            },
+            {
+              "text": "えないで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 49.297225,
+      "end": 53.782705,
+      "japanese": "今すぐに",
+      "zh-CN": "现在立刻",
+      "segments": [
+        {
+          "text": "今すぐに",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-12",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "今",
+              "reading": "いま"
+            },
+            {
+              "text": "すぐに"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 53.982459,
+      "end": 56.775022,
+      "japanese": "誰も居ない街を抜けて",
+      "zh-CN": "穿过空无一人的街巷",
+      "segments": [
+        {
+          "text": "誰も居ない街を抜けて",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "誰",
+              "reading": "だれ"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "居",
+              "reading": "い"
+            },
+            {
+              "text": "ない"
+            },
+            {
+              "text": "街",
+              "reading": "まち"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "抜",
+              "reading": "ぬ"
+            },
+            {
+              "text": "けて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 56.974776,
+      "end": 60.027019,
+      "japanese": "呼吸は荒いまま",
+      "zh-CN": "呼吸依旧急促粗重",
+      "segments": [
+        {
+          "text": "呼吸は荒いまま",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "呼吸",
+              "reading": "こきゅう"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "荒",
+              "reading": "あら"
+            },
+            {
+              "text": "いまま"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 60.226773,
+      "end": 62.127434,
+      "japanese": "知らないで！（ないで！）",
+      "zh-CN": "别去知晓！（别去！）",
+      "segments": [
+        {
+          "text": "知らないで！（ないで！）",
+          "performerIds": [
+            "歌唱者-10",
+            "歌唱者-11",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "知",
+              "reading": "し"
+            },
+            {
+              "text": "らないで！（ないで！）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 62.297225,
+      "end": 66.69681,
+      "japanese": "他なんてどうだっていいのさ",
+      "zh-CN": "其他一切根本都无所谓",
+      "segments": [
+        {
+          "text": "他なんてどうだっていいのさ",
+          "performerIds": [
+            "歌唱者-10",
+            "歌唱者-11",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "他",
+              "reading": "ほか"
+            },
+            {
+              "text": "なんてどうだっていいのさ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 62.297225,
+      "end": 66.69681,
+      "japanese": "わかるかしら",
+      "zh-CN": "你能明白吗",
+      "segments": [
+        {
+          "text": "わかるかしら",
+          "performerIds": [
+            "歌唱者-10",
+            "歌唱者-11",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "わかるかしら"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 66.896564,
+      "end": 69.72708,
+      "japanese": "独り善がりの愛でもいい",
+      "zh-CN": "纵然是一厢情愿的爱也无妨",
+      "segments": [
+        {
+          "text": "独り善がりの愛でもいい",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "独",
+              "reading": "ひと"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "善",
+              "reading": "よ"
+            },
+            {
+              "text": "がりの"
+            },
+            {
+              "text": "愛",
+              "reading": "あい"
+            },
+            {
+              "text": "でもいい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 69.926834,
+      "end": 74.275482,
+      "japanese": "暗い方へ行こうぜ",
+      "zh-CN": "走向昏暗的深处吧",
+      "segments": [
+        {
+          "text": "暗い方へ行こうぜ",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "暗",
+              "reading": "くら"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "方",
+              "reading": "ほう"
+            },
+            {
+              "text": "へ"
+            },
+            {
+              "text": "行",
+              "reading": "い"
+            },
+            {
+              "text": "こうぜ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 80.091324,
+      "end": 82.656167,
+      "japanese": "どうでもいいどうでもいいどうでもいい事ばっか",
+      "zh-CN": "尽是些无所谓无所谓无所谓的事",
+      "segments": [
+        {
+          "text": "どうでもいいどうでもいいどうでもいい事ばっか",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "どうでもいいどうでもいいどうでもいい"
+            },
+            {
+              "text": "事",
+              "reading": "こと"
+            },
+            {
+              "text": "ばっか"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 82.837943,
+      "end": 84.484916,
+      "japanese": "思い出して考えてしまうんだ",
+      "zh-CN": "不由自主回想深思",
+      "segments": [
+        {
+          "text": "思い出して考えてしまうんだ",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "思",
+              "reading": "おも"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "して"
+            },
+            {
+              "text": "考",
+              "reading": "かんが"
+            },
+            {
+              "text": "えてしまうんだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 84.665693,
+      "end": 86.209793,
+      "japanese": "もうやってらんないよな",
+      "zh-CN": "真是让人受不了了啊",
+      "segments": [
+        {
+          "text": "もうやってらんないよな",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "もうやってらんないよな"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 86.409547,
+      "end": 89.440816,
+      "japanese": "悲しいは嫌いですか",
+      "zh-CN": "你讨厌悲伤吗",
+      "segments": [
+        {
+          "text": "悲しいは嫌いですか",
+          "performerIds": [
+            "歌唱者-09"
+          ],
+          "ruby": [
+            {
+              "text": "悲",
+              "reading": "かな"
+            },
+            {
+              "text": "しいは"
+            },
+            {
+              "text": "嫌",
+              "reading": "きら"
+            },
+            {
+              "text": "いですか"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000023",
+      "order": 22,
+      "index": 22,
+      "start": 89.64057,
+      "end": 92.499052,
+      "japanese": "本当にそうですか",
+      "zh-CN": "真的如此吗",
+      "segments": [
+        {
+          "text": "本当にそうですか",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "本当",
+              "reading": "ほんとう"
+            },
+            {
+              "text": "にそうですか"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000024",
+      "order": 23,
+      "index": 23,
+      "start": 94.319,
+      "end": 96.384,
+      "japanese": "行かないで！（ないで！）",
+      "zh-CN": "别走！（别走！）",
+      "segments": [
+        {
+          "text": "行かないで！（ないで！）",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "行",
+              "reading": "い"
+            },
+            {
+              "text": "かないで！（ないで！）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000025",
+      "order": 24,
+      "index": 24,
+      "start": 96.384,
+      "end": 99.493,
+      "japanese": "先なんて見据えないで",
+      "zh-CN": "别去眺望遥远的未来",
+      "segments": [
+        {
+          "text": "先なんて見据えないで",
+          "performerIds": [
+            "歌唱者-10",
+            "歌唱者-12",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "先",
+              "reading": "さき"
+            },
+            {
+              "text": "なんて"
+            },
+            {
+              "text": "見据",
+              "reading": "みす"
+            },
+            {
+              "text": "えないで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000026",
+      "order": 25,
+      "index": 25,
+      "start": 99.493,
+      "end": 101.011,
+      "japanese": "今すぐに",
+      "zh-CN": "现在立刻",
+      "segments": [
+        {
+          "text": "今すぐに",
+          "performerIds": [
+            "歌唱者-10",
+            "歌唱者-12",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "今",
+              "reading": "いま"
+            },
+            {
+              "text": "すぐに"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000027",
+      "order": 26,
+      "index": 26,
+      "start": 101.011,
+      "end": 104.217,
+      "japanese": "誰も居ない街を抜けて",
+      "zh-CN": "穿过空无一人的街巷",
+      "segments": [
+        {
+          "text": "誰も居ない街を抜けて",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "誰",
+              "reading": "だれ"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "居",
+              "reading": "い"
+            },
+            {
+              "text": "ない"
+            },
+            {
+              "text": "街",
+              "reading": "まち"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "抜",
+              "reading": "ぬ"
+            },
+            {
+              "text": "けて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000028",
+      "order": 27,
+      "index": 27,
+      "start": 104.217,
+      "end": 107.32,
+      "japanese": "呼吸は荒いまま",
+      "zh-CN": "呼吸依旧急促粗重",
+      "segments": [
+        {
+          "text": "呼吸は荒いまま",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "呼吸",
+              "reading": "こきゅう"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "荒",
+              "reading": "あら"
+            },
+            {
+              "text": "いまま"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000029",
+      "order": 28,
+      "index": 28,
+      "start": 107.32,
+      "end": 109.461,
+      "japanese": "知らないで！（ないで！）",
+      "zh-CN": "别去知晓！（别去！）",
+      "segments": [
+        {
+          "text": "知らないで！（ないで！）",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-11",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "知",
+              "reading": "し"
+            },
+            {
+              "text": "らないで！（ないで！）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000030",
+      "order": 29,
+      "index": 29,
+      "start": 109.461,
+      "end": 112.423,
+      "japanese": "他なんてどうだっていいのさ",
+      "zh-CN": "其他一切根本都无所谓",
+      "segments": [
+        {
+          "text": "他なんてどうだっていいのさ",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-11",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "他",
+              "reading": "ほか"
+            },
+            {
+              "text": "なんてどうだっていいのさ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000031",
+      "order": 30,
+      "index": 30,
+      "start": 112.423,
+      "end": 114.089,
+      "japanese": "わかるかしら",
+      "zh-CN": "你能明白吗",
+      "segments": [
+        {
+          "text": "わかるかしら",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-11",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "わかるかしら"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000032",
+      "order": 31,
+      "index": 31,
+      "start": 114.089,
+      "end": 117.161,
+      "japanese": "独り善がりの愛でもいい",
+      "zh-CN": "纵然是一厢情愿的爱也无妨",
+      "segments": [
+        {
+          "text": "独り善がりの愛でもいい",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "独",
+              "reading": "ひと"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "善",
+              "reading": "よ"
+            },
+            {
+              "text": "がりの"
+            },
+            {
+              "text": "愛",
+              "reading": "あい"
+            },
+            {
+              "text": "でもいい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000033",
+      "order": 32,
+      "index": 32,
+      "start": 117.161,
+      "end": 134.86025,
+      "japanese": "暗い方へ行こうぜ",
+      "zh-CN": "走向昏暗的深处吧",
+      "segments": [
+        {
+          "text": "暗い方へ行こうぜ",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "暗",
+              "reading": "くら"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "方",
+              "reading": "ほう"
+            },
+            {
+              "text": "へ"
+            },
+            {
+              "text": "行",
+              "reading": "い"
+            },
+            {
+              "text": "こうぜ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

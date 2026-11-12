@@ -1,0 +1,1561 @@
+{
+  "music_id": 127,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-13",
+      "name": "天馬司"
+    },
+    {
+      "performerId": "歌唱者-14",
+      "name": "鳳えむ"
+    },
+    {
+      "performerId": "歌唱者-15",
+      "name": "草薙寧々"
+    },
+    {
+      "performerId": "歌唱者-16",
+      "name": "神代類"
+    },
+    {
+      "performerId": "歌唱者-26",
+      "name": "KAITO"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 14.593,
+      "end": 15.635,
+      "japanese": "エビバディ→解体！",
+      "zh-CN": "全员→解体！",
+      "segments": [
+        {
+          "text": "エビバディ→解体！",
+          "performerIds": [
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "エビバディ→"
+            },
+            {
+              "text": "解体",
+              "reading": "かいたい"
+            },
+            {
+              "text": "！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 15.302,
+      "end": 17.29,
+      "japanese": "思い出に消しゴム！？　あれっ。",
+      "zh-CN": "回忆用橡皮擦擦掉！？ 哎呀。",
+      "segments": [
+        {
+          "text": "思い出に消しゴム！？　あれっ。",
+          "performerIds": [
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "思",
+              "reading": "おも"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "出",
+              "reading": "で"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "消",
+              "reading": "け"
+            },
+            {
+              "text": "しゴム！？　あれっ。"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 17.369,
+      "end": 18.614,
+      "japanese": "ハイになる？廃になる？",
+      "zh-CN": "嗨翻天？成废墟？",
+      "segments": [
+        {
+          "text": "ハイになる？廃になる？",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "ハイになる？"
+            },
+            {
+              "text": "廃",
+              "reading": "はい"
+            },
+            {
+              "text": "になる？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 18.734,
+      "end": 20.06,
+      "japanese": "はい、とは言えな～い！！！",
+      "zh-CN": "答不出“好～的”呀！！！",
+      "segments": [
+        {
+          "text": "はい、とは言えな～い！！！",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "はい、とは"
+            },
+            {
+              "text": "言",
+              "reading": "い"
+            },
+            {
+              "text": "えな～い！！！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 20.527,
+      "end": 22.834,
+      "japanese": "お可視い世界　お菓子は消えちゃう！？どうしよ",
+      "zh-CN": "可视奇怪的世界 糖果点心要消失了！？怎么办",
+      "segments": [
+        {
+          "text": "お可視い世界　お菓子は消えちゃう！？どうしよ",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "お"
+            },
+            {
+              "text": "可視",
+              "reading": "かし"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "世界",
+              "reading": "せかい"
+            },
+            {
+              "text": "　お"
+            },
+            {
+              "text": "菓子",
+              "reading": "かし"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "消",
+              "reading": "き"
+            },
+            {
+              "text": "えちゃう！？どうしよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 22.963,
+      "end": 24.387,
+      "japanese": "“どうして！？”も“ああして！！”も",
+      "zh-CN": "无论是“为什么！？”还是“这样做！！”",
+      "segments": [
+        {
+          "text": "“どうして！？”も“ああして！！”も",
+          "performerIds": [
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "“どうして！？”も“ああして！！”も"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 24.394,
+      "end": 25.938,
+      "japanese": "君らしくないな？",
+      "zh-CN": "都不像你的风格呢？",
+      "segments": [
+        {
+          "text": "君らしくないな？",
+          "performerIds": [
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "らしくないな？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 25.06,
+      "end": 27.686,
+      "japanese": "ソンな時代でいいよ",
+      "zh-CN": "那样损人的时代也无所谓啦",
+      "segments": [
+        {
+          "text": "ソンな時代でいいよ",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-16",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "ソンな"
+            },
+            {
+              "text": "時代",
+              "reading": "じだい"
+            },
+            {
+              "text": "でいいよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 27.686,
+      "end": 31.17,
+      "japanese": "僕らまだ“ワンダー”信じてる、の　ノ No? know!",
+      "zh-CN": "我们依然坚信着“奇迹”，的 的 No? know!",
+      "segments": [
+        {
+          "text": "僕らまだ“ワンダー”信じてる、の　ノ No? know!",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-16",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "らまだ“ワンダー”"
+            },
+            {
+              "text": "信",
+              "reading": "しん"
+            },
+            {
+              "text": "じてる、の　ノ No? know!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 31.521,
+      "end": 33.645,
+      "japanese": "おとなたちの鋭利な目盛",
+      "zh-CN": "大人们锋利的刻度表",
+      "segments": [
+        {
+          "text": "おとなたちの鋭利な目盛",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "おとなたちの"
+            },
+            {
+              "text": "鋭利",
+              "reading": "えいり"
+            },
+            {
+              "text": "な"
+            },
+            {
+              "text": "目盛",
+              "reading": "めもりい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 33.645,
+      "end": 35.55,
+      "japanese": "悩まされすぎちゃって",
+      "zh-CN": "被困扰烦恼得太过了",
+      "segments": [
+        {
+          "text": "悩まされすぎちゃって",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "悩",
+              "reading": "なや"
+            },
+            {
+              "text": "まされすぎちゃって"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 35.341,
+      "end": 38.368,
+      "japanese": "寄り目になっちゃいそーね！！",
+      "zh-CN": "感觉都要变成斗鸡眼了呢！！",
+      "segments": [
+        {
+          "text": "寄り目になっちゃいそーね！！",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "寄",
+              "reading": "よ"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "目",
+              "reading": "め"
+            },
+            {
+              "text": "になっちゃいそーね！！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 38.372,
+      "end": 40.438,
+      "japanese": "“どうして！？” “ああして！！”も",
+      "zh-CN": "“为什么！？” “这样做！！”也罢",
+      "segments": [
+        {
+          "text": "“どうして！？” “ああして！！”も",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "“どうして！？” “ああして！！”も"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 39.98,
+      "end": 42.105,
+      "japanese": "「全部」だいすき！がいいじゃん！！",
+      "zh-CN": "“全部”最喜欢了！这样不也挺好的嘛！！",
+      "segments": [
+        {
+          "text": "「全部」だいすき！がいいじゃん！！",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "「"
+            },
+            {
+              "text": "全部",
+              "reading": "ぜんぶ"
+            },
+            {
+              "text": "」だいすき！がいいじゃん！！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 42.466,
+      "end": 45.272,
+      "japanese": "みんなみんな笑っちゃえの魂胆で",
+      "zh-CN": "怀着让大家所有人全都哈哈大笑的企图",
+      "segments": [
+        {
+          "text": "みんなみんな笑っちゃえの魂胆で",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "みんなみんな"
+            },
+            {
+              "text": "笑",
+              "reading": "わら"
+            },
+            {
+              "text": "っちゃえの"
+            },
+            {
+              "text": "魂胆",
+              "reading": "こんたん"
+            },
+            {
+              "text": "で"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 43.265,
+      "end": 45.651,
+      "japanese": "宿敵逆境モンスター呼んだっていいじゃん！？",
+      "zh-CN": "召唤出宿敌逆境大怪兽不也挺好的嘛！？",
+      "segments": [
+        {
+          "text": "宿敵逆境モンスター呼んだっていいじゃん！？",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "宿敵",
+              "reading": "らいばる"
+            },
+            {
+              "text": "逆境",
+              "reading": "ぎゃっこう"
+            },
+            {
+              "text": "モンスター"
+            },
+            {
+              "text": "呼",
+              "reading": "よ"
+            },
+            {
+              "text": "んだっていいじゃん！？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 47.884,
+      "end": 50.35,
+      "japanese": "スットンキョウでサイキョウなセカイを",
+      "zh-CN": "将这荒诞滑稽又最强的世界",
+      "segments": [
+        {
+          "text": "スットンキョウでサイキョウな",
+          "performerIds": [
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "スットンキョウでサイキョウな"
+            }
+          ]
+        },
+        {
+          "text": "セカイを",
+          "performerIds": [
+            "歌唱者-16",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "セカイを"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 50.35,
+      "end": 53.378,
+      "japanese": "どうにもこうにも救えない困難もいいじゃん！！",
+      "zh-CN": "无论怎样都无计可施的困难不也挺好的嘛！！",
+      "segments": [
+        {
+          "text": "どうにもこうにも救えない困難もいいじゃん！！",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "どうにもこうにも"
+            },
+            {
+              "text": "救",
+              "reading": "すく"
+            },
+            {
+              "text": "えない"
+            },
+            {
+              "text": "困難",
+              "reading": "こんなん"
+            },
+            {
+              "text": "もいいじゃん！！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 53.507,
+      "end": 56.473,
+      "japanese": "みんなみんな救っちゃお！のポーズで",
+      "zh-CN": "摆出将大家所有人统统拯救！的姿势",
+      "segments": [
+        {
+          "text": "みんなみんな救っちゃお！のポーズで",
+          "performerIds": [
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "みんなみんな"
+            },
+            {
+              "text": "救",
+              "reading": "すく"
+            },
+            {
+              "text": "っちゃお！のポーズで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 56.463,
+      "end": 59.431,
+      "japanese": "ちょっとやそっとじゃ潰れない笑顔どうじゃん！",
+      "zh-CN": "怎么都不会轻易崩溃的笑容如何呀！",
+      "segments": [
+        {
+          "text": "ちょっとやそっとじゃ潰れない笑顔どうじゃん！",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "ちょっとやそっとじゃ"
+            },
+            {
+              "text": "潰",
+              "reading": "つぶ"
+            },
+            {
+              "text": "れない"
+            },
+            {
+              "text": "笑顔",
+              "reading": "えがお"
+            },
+            {
+              "text": "どうじゃん！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 58.74,
+      "end": 60.982,
+      "japanese": "100回オチても不死議は鳥乱さない",
+      "zh-CN": "就算跌落100次 奇妙不死鸟也不会慌乱失措",
+      "segments": [
+        {
+          "text": "100回オチても不死議は鳥",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "100"
+            },
+            {
+              "text": "回",
+              "reading": "かい"
+            },
+            {
+              "text": "オチても"
+            },
+            {
+              "text": "不死議",
+              "reading": "ふしぎ"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "鳥",
+              "reading": "とり"
+            }
+          ]
+        },
+        {
+          "text": "乱さない",
+          "performerIds": [
+            "歌唱者-15",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "乱",
+              "reading": "みだ"
+            },
+            {
+              "text": "さない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 62.1145,
+      "end": 63.5795,
+      "japanese": "ワンワンでツーカーでスリーフォー",
+      "zh-CN": "一与一 心领神会 三与四",
+      "segments": [
+        {
+          "text": "ワンワンでツーカーでスリーフォー",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "ワンワンでツーカーでスリーフォー"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000023",
+      "order": 22,
+      "index": 22,
+      "start": 63.5795,
+      "end": 64.8475,
+      "japanese": "エビバディ　ショウタイム！",
+      "zh-CN": "Everybody Showtime！",
+      "segments": [
+        {
+          "text": "エビバディ　ショウタイム！",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "エビバディ　ショウタイム！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000024",
+      "order": 23,
+      "index": 23,
+      "start": 77.517,
+      "end": 79.819,
+      "japanese": "世界解体10秒前！？待って待って待って",
+      "zh-CN": "世界解体前10秒！？等等等等",
+      "segments": [
+        {
+          "text": "世界解体10秒前！？待って待って待って",
+          "performerIds": [
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "世界",
+              "reading": "せかい"
+            },
+            {
+              "text": "解体",
+              "reading": "かいたい"
+            },
+            {
+              "text": "10"
+            },
+            {
+              "text": "秒",
+              "reading": "びょう"
+            },
+            {
+              "text": "前",
+              "reading": "まえ"
+            },
+            {
+              "text": "！？"
+            },
+            {
+              "text": "待",
+              "reading": "ま"
+            },
+            {
+              "text": "って"
+            },
+            {
+              "text": "待",
+              "reading": "ま"
+            },
+            {
+              "text": "って"
+            },
+            {
+              "text": "待",
+              "reading": "ま"
+            },
+            {
+              "text": "って"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000025",
+      "order": 24,
+      "index": 24,
+      "start": 79.581,
+      "end": 83.047,
+      "japanese": "まだまだ一緒しよ？の魂胆です",
+      "zh-CN": "还是想和大家在一起？就是这样的企图呀",
+      "segments": [
+        {
+          "text": "まだまだ一緒しよ？の魂胆です",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "まだまだ"
+            },
+            {
+              "text": "一緒",
+              "reading": "いっしょ"
+            },
+            {
+              "text": "しよ？の"
+            },
+            {
+              "text": "魂胆",
+              "reading": "こんたん"
+            },
+            {
+              "text": "です"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000026",
+      "order": 25,
+      "index": 25,
+      "start": 83.042,
+      "end": 85.389,
+      "japanese": "101回目のソンな小指拝借",
+      "zh-CN": "第101次借用一下那样的拉钩小指",
+      "segments": [
+        {
+          "text": "101回目のソンな小指拝借",
+          "performerIds": [
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "101"
+            },
+            {
+              "text": "回目",
+              "reading": "ひゃくいっかいめ"
+            },
+            {
+              "text": "のソンな"
+            },
+            {
+              "text": "小指",
+              "reading": "めもりい"
+            },
+            {
+              "text": "拝借",
+              "reading": "はいしゃく"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000027",
+      "order": 26,
+      "index": 26,
+      "start": 86.073,
+      "end": 89.48,
+      "japanese": "“ハッピーも失敗も消さないから！！”",
+      "zh-CN": "“不管是快乐还是失败都绝不会抹消掉！！”",
+      "segments": [
+        {
+          "text": "“ハッピーも失敗も",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "“ハッピーも"
+            },
+            {
+              "text": "失敗",
+              "reading": "しっぱい"
+            },
+            {
+              "text": "も"
+            }
+          ]
+        },
+        {
+          "text": "消さないから！！”",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "消",
+              "reading": "け"
+            },
+            {
+              "text": "さないから！！”"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000028",
+      "order": 27,
+      "index": 27,
+      "start": 89.689,
+      "end": 92.193,
+      "japanese": "セカイ　ウチュー　未来　超だいすきでギューじゃん！",
+      "zh-CN": "世界 宇宙 未来 超级最喜欢紧紧拥抱在一起嘛！",
+      "segments": [
+        {
+          "text": "セカイ　ウチュー　未来　超だいすきでギューじゃん！",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "セカイ　ウチュー　"
+            },
+            {
+              "text": "未来",
+              "reading": "みらい"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "超",
+              "reading": "ちょう"
+            },
+            {
+              "text": "だいすきでギューじゃん！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000029",
+      "order": 28,
+      "index": 28,
+      "start": 92.322,
+      "end": 95.25,
+      "japanese": "みんなみんな笑っちゃえの正解(世界)は",
+      "zh-CN": "让大家所有人全都哈哈大笑的正确答案(世界)",
+      "segments": [
+        {
+          "text": "みんなみんな笑っちゃえの正解(世界)は",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "みんなみんな"
+            },
+            {
+              "text": "笑",
+              "reading": "わら"
+            },
+            {
+              "text": "っちゃえの"
+            },
+            {
+              "text": "正解",
+              "reading": "せかい"
+            },
+            {
+              "text": "("
+            },
+            {
+              "text": "世界",
+              "reading": "せかい"
+            },
+            {
+              "text": ")は"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000030",
+      "order": 29,
+      "index": 29,
+      "start": 95.25,
+      "end": 97.898,
+      "japanese": "宿敵　逆境　モンスター　何だってinじゃん！",
+      "zh-CN": "宿敌 逆境 大怪兽 无论什么都能加入进来不是嘛！",
+      "segments": [
+        {
+          "text": "宿敵　逆境　モンスター　何だってinじゃん！",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "宿敵",
+              "reading": "らいばる"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "逆境",
+              "reading": "ぎゃっこう"
+            },
+            {
+              "text": "　モンスター　"
+            },
+            {
+              "text": "何",
+              "reading": "なん"
+            },
+            {
+              "text": "だってinじゃん！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000031",
+      "order": 30,
+      "index": 30,
+      "start": 97.886,
+      "end": 100.653,
+      "japanese": "スットンキョウでサイキョウ、お菓子いだろ？",
+      "zh-CN": "荒诞滑稽又最强 很奇妙奇怪吧？",
+      "segments": [
+        {
+          "text": "スットンキョウでサイキョウ、お菓子いだろ？",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "スットンキョウでサイキョウ、お"
+            },
+            {
+              "text": "菓子",
+              "reading": "かし"
+            },
+            {
+              "text": "いだろ？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000033",
+      "order": 32,
+      "index": 32,
+      "start": 100.861,
+      "end": 103.49,
+      "japanese": "もう一回だいすきでギューじゃん！",
+      "zh-CN": "再来一次 最喜欢紧紧拥抱在一起嘛！",
+      "segments": [
+        {
+          "text": "もう一回だいすきでギューじゃん！",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "もう"
+            },
+            {
+              "text": "一回",
+              "reading": "いっかい"
+            },
+            {
+              "text": "だいすきでギューじゃん！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000032",
+      "order": 31,
+      "index": 31,
+      "start": 100.873,
+      "end": 101.575,
+      "japanese": "旋回満開",
+      "zh-CN": "旋转盘旋 盛开绽放",
+      "segments": [
+        {
+          "text": "旋回満開",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "旋回",
+              "reading": "せかい"
+            },
+            {
+              "text": "満開",
+              "reading": "まんかい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000034",
+      "order": 33,
+      "index": 33,
+      "start": 102.78,
+      "end": 106.427,
+      "japanese": "みんなみんなくすぐっちゃえ！のポーズで",
+      "zh-CN": "摆出将大家所有人统统挠痒痒逗笑！的姿势",
+      "segments": [
+        {
+          "text": "みんなみんなくすぐっちゃえ！のポーズで",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "みんなみんなくすぐっちゃえ！のポーズで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000035",
+      "order": 34,
+      "index": 34,
+      "start": 106.427,
+      "end": 109.233,
+      "japanese": "ぜったいぜったいね、消せない笑顔どうじゃん！",
+      "zh-CN": "绝对绝对 无法抹去的大大笑脸如何呀！",
+      "segments": [
+        {
+          "text": "ぜったいぜったいね、消せない笑顔どうじゃん！",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "ぜったいぜったいね、"
+            },
+            {
+              "text": "消",
+              "reading": "け"
+            },
+            {
+              "text": "せない"
+            },
+            {
+              "text": "笑顔",
+              "reading": "えがお"
+            },
+            {
+              "text": "どうじゃん！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000036",
+      "order": 35,
+      "index": 35,
+      "start": 109.433,
+      "end": 111.918,
+      "japanese": "∞回オチても不死議は鳥壊せない！",
+      "zh-CN": "就算跌落∞次 奇妙不死鸟也绝不会被击垮！",
+      "segments": [
+        {
+          "text": "∞回オチても不死議は鳥壊せない！",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "∞"
+            },
+            {
+              "text": "回",
+              "reading": "なんかい"
+            },
+            {
+              "text": "オチても"
+            },
+            {
+              "text": "不死議",
+              "reading": "ふしぎ"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "鳥壊",
+              "reading": "とりこわ"
+            },
+            {
+              "text": "せない！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000037",
+      "order": 36,
+      "index": 36,
+      "start": 112.14,
+      "end": 113.546,
+      "japanese": "ワンワンでツーカーでスリーフォー",
+      "zh-CN": "一与一 心领神会 三与四",
+      "segments": [
+        {
+          "text": "ワンワンでツーカーでスリーフォー",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "ワンワンでツーカーでスリーフォー"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000038",
+      "order": 37,
+      "index": 37,
+      "start": 113.52,
+      "end": 114.82,
+      "japanese": "エビバディ　ショウタイム！",
+      "zh-CN": "Everybody Showtime！",
+      "segments": [
+        {
+          "text": "エビバディ　ショウタイム！",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "エビバディ　ショウタイム！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000039",
+      "order": 38,
+      "index": 38,
+      "start": 114.561,
+      "end": 116.307,
+      "japanese": "ワンワンでツーカーでスリーフォー",
+      "zh-CN": "一与一 心领神会 三与四",
+      "segments": [
+        {
+          "text": "ワンワンでツーカーでスリーフォー",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "ワンワンでツーカーでスリーフォー"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000040",
+      "order": 39,
+      "index": 39,
+      "start": 116.38,
+      "end": 117.56,
+      "japanese": "エビバディ　ショウタイム！",
+      "zh-CN": "Everybody Showtime！",
+      "segments": [
+        {
+          "text": "エビバディ　ショウタイム！",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "エビバディ　ショウタイム！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000041",
+      "order": 40,
+      "index": 40,
+      "start": 117.632,
+      "end": 118.957,
+      "japanese": "ワンワンでツーカーでスリーフォー",
+      "zh-CN": "一与一 心领神会 三与四",
+      "segments": [
+        {
+          "text": "ワンワンでツーカーでスリーフォー",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "ワンワンでツーカーでスリーフォー"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000042",
+      "order": 41,
+      "index": 41,
+      "start": 119.06,
+      "end": 120.6,
+      "japanese": "エビバディ　ショウタイム！",
+      "zh-CN": "Everybody Showtime！",
+      "segments": [
+        {
+          "text": "エビバディ　ショウタイム！",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "エビバディ　ショウタイム！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

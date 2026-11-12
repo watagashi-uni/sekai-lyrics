@@ -1,0 +1,1666 @@
+{
+  "music_id": 252,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-05",
+      "name": "花里みのり"
+    },
+    {
+      "performerId": "歌唱者-06",
+      "name": "桐谷遥"
+    },
+    {
+      "performerId": "歌唱者-07",
+      "name": "桃井愛莉"
+    },
+    {
+      "performerId": "歌唱者-08",
+      "name": "日野森雫"
+    },
+    {
+      "performerId": "歌唱者-25",
+      "name": "MEIKO"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 9.0,
+      "end": 10.31775,
+      "japanese": "DREAM PLACE DREAM PLACE",
+      "zh-CN": "DREAM PLACE DREAM PLACE",
+      "segments": [
+        {
+          "text": "DREAM PLACE DREAM PLACE",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "DREAM PLACE DREAM PLACE"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 10.31775,
+      "end": 12.43775,
+      "japanese": "もっと高く高く",
+      "zh-CN": "更加高高飞跃",
+      "segments": [
+        {
+          "text": "もっと高く高く",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "もっと"
+            },
+            {
+              "text": "高",
+              "reading": "たか"
+            },
+            {
+              "text": "く"
+            },
+            {
+              "text": "高",
+              "reading": "たか"
+            },
+            {
+              "text": "く"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 12.43775,
+      "end": 15.94775,
+      "japanese": "夢を超えて ねえ",
+      "zh-CN": "跨越梦想 呐",
+      "segments": [
+        {
+          "text": "夢を超えて ねえ",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "夢",
+              "reading": "ゆめ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "超",
+              "reading": "こ"
+            },
+            {
+              "text": "えて ねえ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 16.10775,
+      "end": 17.38775,
+      "japanese": "DREAM DAY DREAM DAY",
+      "zh-CN": "DREAM DAY DREAM DAY",
+      "segments": [
+        {
+          "text": "DREAM DAY DREAM DAY",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "DREAM DAY DREAM DAY"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 17.38775,
+      "end": 19.69775,
+      "japanese": "ずっと　ついてきてね",
+      "zh-CN": "一直 紧紧跟随着我吧",
+      "segments": [
+        {
+          "text": "ずっと　ついてきてね",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "ずっと　ついてきてね"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 19.83775,
+      "end": 22.99775,
+      "japanese": "輝き続けたい",
+      "zh-CN": "好想永远绽放光芒",
+      "segments": [
+        {
+          "text": "輝き続けたい",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "輝",
+              "reading": "かがや"
+            },
+            {
+              "text": "き"
+            },
+            {
+              "text": "続",
+              "reading": "つづ"
+            },
+            {
+              "text": "けたい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 23.16775,
+      "end": 24.51775,
+      "japanese": "Yeah Yeah ねえもっと",
+      "zh-CN": "Yeah Yeah 呐还要更多",
+      "segments": [
+        {
+          "text": "Yeah Yeah ねえもっと",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "Yeah Yeah ねえもっと"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 24.51775,
+      "end": 26.58775,
+      "japanese": "沢山の喜びも",
+      "zh-CN": "无数的无尽喜悦",
+      "segments": [
+        {
+          "text": "沢山の喜びも",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "沢山",
+              "reading": "たくさん"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "喜",
+              "reading": "よろこ"
+            },
+            {
+              "text": "びも"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 26.58775,
+      "end": 30.04775,
+      "japanese": "涙も笑顔も みんなでずっと",
+      "zh-CN": "无论是泪水还是欢笑 大家一同永远相伴",
+      "segments": [
+        {
+          "text": "涙も笑顔も みんなでずっと",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "涙",
+              "reading": "なみだ"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "笑顔",
+              "reading": "えがお"
+            },
+            {
+              "text": "も みんなでずっと"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 30.25775,
+      "end": 31.61775,
+      "japanese": "Yeah Yeah ねえもっと",
+      "zh-CN": "Yeah Yeah 呐还要更多",
+      "segments": [
+        {
+          "text": "Yeah Yeah ねえもっと",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "Yeah Yeah ねえもっと"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 31.61775,
+      "end": 33.66775,
+      "japanese": "その色とりどりで",
+      "zh-CN": "用那五彩斑斓的缤纷色彩",
+      "segments": [
+        {
+          "text": "その色とりどりで",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "その"
+            },
+            {
+              "text": "色",
+              "reading": "いろ"
+            },
+            {
+              "text": "とりどりで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 33.67775,
+      "end": 36.23775,
+      "japanese": "未来を照らし続けて",
+      "zh-CN": "持续照亮那片未来",
+      "segments": [
+        {
+          "text": "未来を照らし続けて",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "未来",
+              "reading": "みらい"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "照",
+              "reading": "て"
+            },
+            {
+              "text": "らし"
+            },
+            {
+              "text": "続",
+              "reading": "つづ"
+            },
+            {
+              "text": "けて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 36.23775,
+      "end": 39.21775,
+      "japanese": "DREAM PLACE BABY",
+      "zh-CN": "DREAM PLACE BABY",
+      "segments": [
+        {
+          "text": "DREAM PLACE BABY",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "DREAM PLACE BABY"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 45.912568,
+      "end": 49.383489,
+      "japanese": "数知れず散った期待も希望も",
+      "zh-CN": "无数次凋零散落的期待与希望",
+      "segments": [
+        {
+          "text": "数知れず散った期待も希望も",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "数知",
+              "reading": "かずし"
+            },
+            {
+              "text": "れず"
+            },
+            {
+              "text": "散",
+              "reading": "ち"
+            },
+            {
+              "text": "った"
+            },
+            {
+              "text": "期待",
+              "reading": "きたい"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "希望",
+              "reading": "きぼう"
+            },
+            {
+              "text": "も"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 49.541531,
+      "end": 52.941432,
+      "japanese": "今日は隠し味になってたらいいな",
+      "zh-CN": "今天若是能成为秘藏风味就好啦",
+      "segments": [
+        {
+          "text": "今日は隠し味になってたらいいな",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "今日",
+              "reading": "きょう"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "隠",
+              "reading": "かく"
+            },
+            {
+              "text": "し"
+            },
+            {
+              "text": "味",
+              "reading": "あじ"
+            },
+            {
+              "text": "になってたらいいな"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 53.020453,
+      "end": 56.649416,
+      "japanese": "伝えたい　うまく伝えられない",
+      "zh-CN": "好想传达 却未能很好地传达出去",
+      "segments": [
+        {
+          "text": "伝えたい　うまく伝えられない",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "伝",
+              "reading": "つた"
+            },
+            {
+              "text": "えたい　うまく"
+            },
+            {
+              "text": "伝",
+              "reading": "つた"
+            },
+            {
+              "text": "えられない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 56.649416,
+      "end": 60.000305,
+      "japanese": "ねえ　ここから　全部　届けるから",
+      "zh-CN": "呐 从这里开始 全部 都会传递给你哦",
+      "segments": [
+        {
+          "text": "ねえ　ここから　全部　届けるから",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "ねえ　ここから　"
+            },
+            {
+              "text": "全部",
+              "reading": "ぜんぶ"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "届",
+              "reading": "とど"
+            },
+            {
+              "text": "けるから"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 60.000305,
+      "end": 63.41121,
+      "japanese": "眩しい光の向こうから",
+      "zh-CN": "从那耀眼璀璨的光芒彼端",
+      "segments": [
+        {
+          "text": "眩しい光の向こうから",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "眩",
+              "reading": "まぶ"
+            },
+            {
+              "text": "しい"
+            },
+            {
+              "text": "光",
+              "reading": "ひかり"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "向",
+              "reading": "む"
+            },
+            {
+              "text": "こうから"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 63.511236,
+      "end": 66.972155,
+      "japanese": "聞こえるよ　聞こえるよ",
+      "zh-CN": "听得见哦 听得见哦",
+      "segments": [
+        {
+          "text": "聞こえるよ　聞こえるよ",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "聞",
+              "reading": "き"
+            },
+            {
+              "text": "こえるよ　"
+            },
+            {
+              "text": "聞",
+              "reading": "き"
+            },
+            {
+              "text": "こえるよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 66.99116,
+      "end": 70.752157,
+      "japanese": "感じるよみんなの想い",
+      "zh-CN": "能够真切感受到大家的心意",
+      "segments": [
+        {
+          "text": "感じるよみんなの想い",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "感",
+              "reading": "かん"
+            },
+            {
+              "text": "じるよみんなの"
+            },
+            {
+              "text": "想",
+              "reading": "おも"
+            },
+            {
+              "text": "い"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 71.082245,
+      "end": 74.103046,
+      "japanese": "ずっと夢見てた",
+      "zh-CN": "一直在梦寐以求的",
+      "segments": [
+        {
+          "text": "ずっと夢見てた",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "ずっと"
+            },
+            {
+              "text": "夢見",
+              "reading": "ゆめみ"
+            },
+            {
+              "text": "てた"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 74.353113,
+      "end": 75.553431,
+      "japanese": "DREAM PLACE DREAM PLACE",
+      "zh-CN": "DREAM PLACE DREAM PLACE",
+      "segments": [
+        {
+          "text": "DREAM PLACE DREAM PLACE",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-08",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "DREAM PLACE DREAM PLACE"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000023",
+      "order": 22,
+      "index": 22,
+      "start": 75.553431,
+      "end": 81.343967,
+      "japanese": "もっと高く高く",
+      "zh-CN": "更加高高飞跃",
+      "segments": [
+        {
+          "text": "もっと高く高く",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-08",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "もっと"
+            },
+            {
+              "text": "高",
+              "reading": "たか"
+            },
+            {
+              "text": "く"
+            },
+            {
+              "text": "高",
+              "reading": "たか"
+            },
+            {
+              "text": "く"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000024",
+      "order": 23,
+      "index": 23,
+      "start": 75.553431,
+      "end": 81.343967,
+      "japanese": "夢を超えて　ねえ",
+      "zh-CN": "跨越梦想 呐",
+      "segments": [
+        {
+          "text": "夢を超えて　ねえ",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "夢",
+              "reading": "ゆめ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "超",
+              "reading": "こ"
+            },
+            {
+              "text": "えて　ねえ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000025",
+      "order": 24,
+      "index": 24,
+      "start": 81.343967,
+      "end": 82.634309,
+      "japanese": "DREAM DAY DREAM DAY",
+      "zh-CN": "DREAM DAY DREAM DAY",
+      "segments": [
+        {
+          "text": "DREAM DAY DREAM DAY",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "DREAM DAY DREAM DAY"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000026",
+      "order": 25,
+      "index": 25,
+      "start": 82.634309,
+      "end": 85.024944,
+      "japanese": "ずっと　ついてきてね",
+      "zh-CN": "一直 紧紧跟随着我吧",
+      "segments": [
+        {
+          "text": "ずっと　ついてきてね",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "ずっと　ついてきてね"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000027",
+      "order": 26,
+      "index": 26,
+      "start": 85.245002,
+      "end": 88.40584,
+      "japanese": "輝き続けたい",
+      "zh-CN": "好想永远绽放光芒",
+      "segments": [
+        {
+          "text": "輝き続けたい",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "輝",
+              "reading": "かがや"
+            },
+            {
+              "text": "き"
+            },
+            {
+              "text": "続",
+              "reading": "つづ"
+            },
+            {
+              "text": "けたい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000028",
+      "order": 27,
+      "index": 27,
+      "start": 88.40584,
+      "end": 89.896236,
+      "japanese": "Yeah Yeah ねえもっと",
+      "zh-CN": "Yeah Yeah 呐还要更多",
+      "segments": [
+        {
+          "text": "Yeah Yeah ねえもっと",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "Yeah Yeah ねえもっと"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000029",
+      "order": 28,
+      "index": 28,
+      "start": 89.896236,
+      "end": 91.865758,
+      "japanese": "沢山の喜びも",
+      "zh-CN": "无数的无尽喜悦",
+      "segments": [
+        {
+          "text": "沢山の喜びも",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "沢山",
+              "reading": "たくさん"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "喜",
+              "reading": "よろこ"
+            },
+            {
+              "text": "びも"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000030",
+      "order": 29,
+      "index": 29,
+      "start": 91.865758,
+      "end": 95.446708,
+      "japanese": "涙も笑顔も みんなでずっと",
+      "zh-CN": "无论是泪水还是欢笑 大家一同永远相伴",
+      "segments": [
+        {
+          "text": "涙も笑顔も みんなでずっと",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-08",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "涙",
+              "reading": "なみだ"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "笑顔",
+              "reading": "えがお"
+            },
+            {
+              "text": "も みんなでずっと"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000031",
+      "order": 30,
+      "index": 30,
+      "start": 95.446708,
+      "end": 96.967112,
+      "japanese": "Yeah Yeah ねえもっと",
+      "zh-CN": "Yeah Yeah 呐还要更多",
+      "segments": [
+        {
+          "text": "Yeah Yeah ねえもっと",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "Yeah Yeah ねえもっと"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000032",
+      "order": 31,
+      "index": 31,
+      "start": 96.967112,
+      "end": 98.987648,
+      "japanese": "その色とりどりで",
+      "zh-CN": "用那五彩斑斓的缤纷色彩",
+      "segments": [
+        {
+          "text": "その色とりどりで",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "その"
+            },
+            {
+              "text": "色",
+              "reading": "いろ"
+            },
+            {
+              "text": "とりどりで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000033",
+      "order": 32,
+      "index": 32,
+      "start": 98.987648,
+      "end": 101.728374,
+      "japanese": "未来を照らし続けて",
+      "zh-CN": "持续照亮那片未来",
+      "segments": [
+        {
+          "text": "未来を照らし続けて",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-08",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "未来",
+              "reading": "みらい"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "照",
+              "reading": "て"
+            },
+            {
+              "text": "らし"
+            },
+            {
+              "text": "続",
+              "reading": "つづ"
+            },
+            {
+              "text": "けて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000034",
+      "order": 33,
+      "index": 33,
+      "start": 101.728374,
+      "end": 104.12801,
+      "japanese": "DREAM PLACE BABY",
+      "zh-CN": "DREAM PLACE BABY",
+      "segments": [
+        {
+          "text": "DREAM PLACE BABY",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-08",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "DREAM PLACE BABY"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000035",
+      "order": 34,
+      "index": 34,
+      "start": 111.420763,
+      "end": 112.601076,
+      "japanese": "DREAM PLACE DREAM PLACE",
+      "zh-CN": "DREAM PLACE DREAM PLACE",
+      "segments": [
+        {
+          "text": "DREAM PLACE DREAM PLACE",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "DREAM PLACE DREAM PLACE"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000036",
+      "order": 35,
+      "index": 35,
+      "start": 112.601076,
+      "end": 118.382609,
+      "japanese": "もっと高く高く",
+      "zh-CN": "更加高高飞跃",
+      "segments": [
+        {
+          "text": "もっと高く高く",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "もっと"
+            },
+            {
+              "text": "高",
+              "reading": "たか"
+            },
+            {
+              "text": "く"
+            },
+            {
+              "text": "高",
+              "reading": "たか"
+            },
+            {
+              "text": "く"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000037",
+      "order": 36,
+      "index": 36,
+      "start": 112.601076,
+      "end": 118.382609,
+      "japanese": "夢の向こうへ",
+      "zh-CN": "迈向梦想的彼方",
+      "segments": [
+        {
+          "text": "夢の向こうへ",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "夢",
+              "reading": "ゆめ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "向",
+              "reading": "む"
+            },
+            {
+              "text": "こうへ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000038",
+      "order": 37,
+      "index": 37,
+      "start": 118.382609,
+      "end": 119.672952,
+      "japanese": "DREAM DAY DREAM DAY",
+      "zh-CN": "DREAM DAY DREAM DAY",
+      "segments": [
+        {
+          "text": "DREAM DAY DREAM DAY",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "DREAM DAY DREAM DAY"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000039",
+      "order": 38,
+      "index": 38,
+      "start": 119.672952,
+      "end": 122.143607,
+      "japanese": "ずっと　ついてきてね",
+      "zh-CN": "一直 紧紧跟随着我吧",
+      "segments": [
+        {
+          "text": "ずっと　ついてきてね",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "ずっと　ついてきてね"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000040",
+      "order": 39,
+      "index": 39,
+      "start": 122.261638,
+      "end": 125.492496,
+      "japanese": "輝き続けるよ",
+      "zh-CN": "我会永远绽放光芒哦",
+      "segments": [
+        {
+          "text": "輝き続けるよ",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "輝",
+              "reading": "かがや"
+            },
+            {
+              "text": "き"
+            },
+            {
+              "text": "続",
+              "reading": "つづ"
+            },
+            {
+              "text": "けるよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000041",
+      "order": 40,
+      "index": 40,
+      "start": 125.492496,
+      "end": 126.921875,
+      "japanese": "Yeah Yeah ねえもっと",
+      "zh-CN": "Yeah Yeah 呐还要更多",
+      "segments": [
+        {
+          "text": "Yeah Yeah ねえもっと",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "Yeah Yeah ねえもっと"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000042",
+      "order": 41,
+      "index": 41,
+      "start": 126.921875,
+      "end": 129.032435,
+      "japanese": "沢山の喜びも",
+      "zh-CN": "无数的无尽喜悦",
+      "segments": [
+        {
+          "text": "沢山の喜びも",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "沢山",
+              "reading": "たくさん"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "喜",
+              "reading": "よろこ"
+            },
+            {
+              "text": "びも"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000043",
+      "order": 42,
+      "index": 42,
+      "start": 129.032435,
+      "end": 132.543366,
+      "japanese": "涙も笑顔も みんなでずっと",
+      "zh-CN": "无论是泪水还是欢笑 大家一同永远相伴",
+      "segments": [
+        {
+          "text": "涙も笑顔も みんなでずっと",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "涙",
+              "reading": "なみだ"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "笑顔",
+              "reading": "えがお"
+            },
+            {
+              "text": "も みんなでずっと"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000044",
+      "order": 43,
+      "index": 43,
+      "start": 132.543366,
+      "end": 133.983748,
+      "japanese": "Yeah Yeah ねえもっと",
+      "zh-CN": "Yeah Yeah 呐还要更多",
+      "segments": [
+        {
+          "text": "Yeah Yeah ねえもっと",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "Yeah Yeah ねえもっと"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000045",
+      "order": 44,
+      "index": 44,
+      "start": 133.983748,
+      "end": 136.023289,
+      "japanese": "その色とりどりで",
+      "zh-CN": "用那五彩斑斓的缤纷色彩",
+      "segments": [
+        {
+          "text": "その色とりどりで",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "その"
+            },
+            {
+              "text": "色",
+              "reading": "いろ"
+            },
+            {
+              "text": "とりどりで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000046",
+      "order": 45,
+      "index": 45,
+      "start": 136.023289,
+      "end": 139.624244,
+      "japanese": "未来を照らし続けて",
+      "zh-CN": "持续照亮那片未来",
+      "segments": [
+        {
+          "text": "未来を照らし続けて",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "未来",
+              "reading": "みらい"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "照",
+              "reading": "て"
+            },
+            {
+              "text": "らし"
+            },
+            {
+              "text": "続",
+              "reading": "つづ"
+            },
+            {
+              "text": "けて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000047",
+      "order": 46,
+      "index": 46,
+      "start": 136.023289,
+      "end": 139.624244,
+      "japanese": "もっと",
+      "zh-CN": "更加",
+      "segments": [
+        {
+          "text": "もっと",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "もっと"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000048",
+      "order": 47,
+      "index": 47,
+      "start": 139.624244,
+      "end": 142.344966,
+      "japanese": "セカイを照らし続けて",
+      "zh-CN": "持续照亮整个SEKAI",
+      "segments": [
+        {
+          "text": "セカイを照らし続けて",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "セカイを"
+            },
+            {
+              "text": "照",
+              "reading": "て"
+            },
+            {
+              "text": "らし"
+            },
+            {
+              "text": "続",
+              "reading": "つづ"
+            },
+            {
+              "text": "けて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000049",
+      "order": 48,
+      "index": 48,
+      "start": 142.155,
+      "end": 145.295,
+      "japanese": "DREAM PLACE BABY",
+      "zh-CN": "DREAM PLACE BABY",
+      "segments": [
+        {
+          "text": "DREAM PLACE BABY",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "DREAM PLACE BABY"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

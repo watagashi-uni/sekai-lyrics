@@ -1,0 +1,650 @@
+{
+  "music_id": 477,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-01",
+      "name": "星乃一歌"
+    },
+    {
+      "performerId": "歌唱者-02",
+      "name": "天馬咲希"
+    },
+    {
+      "performerId": "歌唱者-03",
+      "name": "望月穂波"
+    },
+    {
+      "performerId": "歌唱者-04",
+      "name": "日野森志歩"
+    },
+    {
+      "performerId": "歌唱者-26",
+      "name": "KAITO"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 28.134372,
+      "end": 33.931485,
+      "japanese": "とある言葉がきみに突き刺さり",
+      "zh-CN": "某句话深深刺入了你的心",
+      "segments": [
+        {
+          "text": "とある言葉がきみに突き刺さり",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "とある"
+            },
+            {
+              "text": "言葉",
+              "reading": "ことば"
+            },
+            {
+              "text": "がきみに"
+            },
+            {
+              "text": "突",
+              "reading": "つ"
+            },
+            {
+              "text": "き"
+            },
+            {
+              "text": "刺",
+              "reading": "さ"
+            },
+            {
+              "text": "さり"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 34.002536,
+      "end": 44.662099,
+      "japanese": "傷口から漏れ出す液を“愛”と形容してみた",
+      "zh-CN": "试着用“爱”来形容从伤口溢出的液体",
+      "segments": [
+        {
+          "text": "傷口から漏れ出す液を“愛”と形容してみた",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "傷口",
+              "reading": "きずぐち"
+            },
+            {
+              "text": "から"
+            },
+            {
+              "text": "漏",
+              "reading": "も"
+            },
+            {
+              "text": "れ"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "す"
+            },
+            {
+              "text": "液",
+              "reading": "えき"
+            },
+            {
+              "text": "を“"
+            },
+            {
+              "text": "愛",
+              "reading": "あい"
+            },
+            {
+              "text": "”と"
+            },
+            {
+              "text": "形容",
+              "reading": "けいよう"
+            },
+            {
+              "text": "してみた"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 47.03178,
+      "end": 53.447332,
+      "japanese": "思いやりの欠如と形だけの交尾は\t",
+      "zh-CN": "关怀的缺失与形式上的交媾",
+      "segments": [
+        {
+          "text": "思いやりの欠如と",
+          "performerIds": [
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "思",
+              "reading": "おも"
+            },
+            {
+              "text": "いやりの"
+            },
+            {
+              "text": "欠如",
+              "reading": "けつじょ"
+            },
+            {
+              "text": "と"
+            }
+          ]
+        },
+        {
+          "text": "形だけの交尾は\t",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "形",
+              "reading": "かたち"
+            },
+            {
+              "text": "だけの"
+            },
+            {
+              "text": "交尾",
+              "reading": "こうび"
+            },
+            {
+              "text": "は\t"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 53.447332,
+      "end": 60.017994,
+      "japanese": "腐れ縁のきみとあたしによく似ている",
+      "zh-CN": "与孽缘深重的你和我何其相似",
+      "segments": [
+        {
+          "text": "腐れ縁のきみと",
+          "performerIds": [
+            "歌唱者-03"
+          ],
+          "ruby": [
+            {
+              "text": "腐",
+              "reading": "くさ"
+            },
+            {
+              "text": "れ"
+            },
+            {
+              "text": "縁",
+              "reading": "えん"
+            },
+            {
+              "text": "のきみと"
+            }
+          ]
+        },
+        {
+          "text": "あたしによく似ている",
+          "performerIds": [
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "あたしによく"
+            },
+            {
+              "text": "似",
+              "reading": "に"
+            },
+            {
+              "text": "ている"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 60.017994,
+      "end": 63.880734,
+      "japanese": "それでも「好き」とか",
+      "zh-CN": "即使如此依然说着“喜欢”之类",
+      "segments": [
+        {
+          "text": "それでも「好き」とか",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "それでも「"
+            },
+            {
+              "text": "好",
+              "reading": "す"
+            },
+            {
+              "text": "き」とか"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 64.080876,
+      "end": 70.361332,
+      "japanese": "愛したっていいじゃないか　縛り誰も触れないよう\t",
+      "zh-CN": "哪怕去爱也没什么不好吧 将其束缚不让任何人触碰",
+      "segments": [
+        {
+          "text": "愛したっていいじゃないか　",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-04",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "愛",
+              "reading": "あい"
+            },
+            {
+              "text": "したっていいじゃないか　"
+            }
+          ]
+        },
+        {
+          "text": "縛り誰も触れないよう\t",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "縛",
+              "reading": "しば"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "誰",
+              "reading": "だれ"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "触",
+              "reading": "ふ"
+            },
+            {
+              "text": "れないよう\t"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 70.538458,
+      "end": 76.938999,
+      "japanese": "これも運命じゃないか　消える消えるとある愛世",
+      "zh-CN": "这不也是命运吗 渐渐消散 渐渐消散的某个爱之世",
+      "segments": [
+        {
+          "text": "これも運命じゃないか　",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-03",
+            "歌唱者-04",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "これも"
+            },
+            {
+              "text": "運命",
+              "reading": "うんめい"
+            },
+            {
+              "text": "じゃないか　"
+            }
+          ]
+        },
+        {
+          "text": "消える消えるとある愛世",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-03",
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "消",
+              "reading": "き"
+            },
+            {
+              "text": "える"
+            },
+            {
+              "text": "消",
+              "reading": "き"
+            },
+            {
+              "text": "えるとある"
+            },
+            {
+              "text": "愛世",
+              "reading": "あいせ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 89.865733,
+      "end": 96.538467,
+      "japanese": "「愛した」って言うのですか？　しがみついて藻掻くことを",
+      "zh-CN": "这能称作“爱过”吗？ 死死攀附苦苦挣扎",
+      "segments": [
+        {
+          "text": "「愛した」って言うのですか？　しがみついて藻掻くことを",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "「"
+            },
+            {
+              "text": "愛",
+              "reading": "あい"
+            },
+            {
+              "text": "した」って"
+            },
+            {
+              "text": "言",
+              "reading": "い"
+            },
+            {
+              "text": "うのですか？　しがみついて"
+            },
+            {
+              "text": "藻掻",
+              "reading": "もが"
+            },
+            {
+              "text": "くことを"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 96.538467,
+      "end": 103.006056,
+      "japanese": "殺したっていいじゃないか　きみが嫌うあたしなんて",
+      "zh-CN": "哪怕杀了也没什么不好吧 那个被你厌弃的我",
+      "segments": [
+        {
+          "text": "殺したっていいじゃないか　きみが嫌うあたしなんて",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "殺",
+              "reading": "ころ"
+            },
+            {
+              "text": "したっていいじゃないか　きみが"
+            },
+            {
+              "text": "嫌",
+              "reading": "きら"
+            },
+            {
+              "text": "うあたしなんて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 103.0245,
+      "end": 109.26725,
+      "japanese": "愛したっていいじゃないか　縛り　誰も触れないよう\t",
+      "zh-CN": "哪怕去爱也没什么不好吧 将其束缚 不让任何人触碰",
+      "segments": [
+        {
+          "text": "愛したっていいじゃないか　",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-03",
+            "歌唱者-04",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "愛",
+              "reading": "あい"
+            },
+            {
+              "text": "したっていいじゃないか　"
+            }
+          ]
+        },
+        {
+          "text": "縛り　",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-03",
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "縛",
+              "reading": "しば"
+            },
+            {
+              "text": "り　"
+            }
+          ]
+        },
+        {
+          "text": "誰も",
+          "performerIds": [
+            "歌唱者-02",
+            "歌唱者-03"
+          ],
+          "ruby": [
+            {
+              "text": "誰",
+              "reading": "だれ"
+            },
+            {
+              "text": "も"
+            }
+          ]
+        },
+        {
+          "text": "触れないよう\t",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-03",
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "触",
+              "reading": "ふ"
+            },
+            {
+              "text": "れないよう\t"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 109.26725,
+      "end": 119.29925,
+      "japanese": "これも運命じゃないか　消える消える　とある愛世",
+      "zh-CN": "这不也是命运吗 渐渐消散 渐渐消散 某个爱之世",
+      "segments": [
+        {
+          "text": "これも運命じゃないか　",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-04",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "これも"
+            },
+            {
+              "text": "運命",
+              "reading": "うんめい"
+            },
+            {
+              "text": "じゃないか　"
+            }
+          ]
+        },
+        {
+          "text": "消える",
+          "performerIds": [
+            "歌唱者-02",
+            "歌唱者-03"
+          ],
+          "ruby": [
+            {
+              "text": "消",
+              "reading": "き"
+            },
+            {
+              "text": "える"
+            }
+          ]
+        },
+        {
+          "text": "消える　",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "消",
+              "reading": "き"
+            },
+            {
+              "text": "える　"
+            }
+          ]
+        },
+        {
+          "text": "とある愛世",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "とある"
+            },
+            {
+              "text": "愛世",
+              "reading": "あいせ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

@@ -1,0 +1,1123 @@
+{
+  "music_id": 621,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-05",
+      "name": "花里みのり"
+    },
+    {
+      "performerId": "歌唱者-06",
+      "name": "桐谷遥"
+    },
+    {
+      "performerId": "歌唱者-07",
+      "name": "桃井愛莉"
+    },
+    {
+      "performerId": "歌唱者-08",
+      "name": "日野森雫"
+    },
+    {
+      "performerId": "歌唱者-25",
+      "name": "MEIKO"
+    }
+  ],
+  "lines": [
+    {
+      "id": "full-000001",
+      "order": 0,
+      "index": 0,
+      "start": 14.8455,
+      "end": 16.2755,
+      "japanese": "「やあこんにちは」",
+      "zh-CN": "「嗨 你好呀」",
+      "segments": [
+        {
+          "text": "「やあこんにちは」",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "「やあこんにちは」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "full-000002",
+      "order": 1,
+      "index": 1,
+      "start": 16.6455,
+      "end": 20.7655,
+      "japanese": "「こんにちは」 (Ah)",
+      "zh-CN": "「你好」 (Ah)",
+      "segments": [
+        {
+          "text": "「こんにちは」 ",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "「こんにちは」 "
+            }
+          ]
+        },
+        {
+          "text": "(Ah)",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "(Ah)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "full-000003",
+      "order": 2,
+      "index": 2,
+      "start": 20.7655,
+      "end": 22.4255,
+      "japanese": "「ねえ調子どう？」",
+      "zh-CN": "「我说 最近怎么样？」",
+      "segments": [
+        {
+          "text": "「ねえ調子どう？」",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "「ねえ"
+            },
+            {
+              "text": "調子",
+              "reading": "ちょうし"
+            },
+            {
+              "text": "どう？」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "full-000004",
+      "order": 3,
+      "index": 3,
+      "start": 22.6255,
+      "end": 33.3335,
+      "japanese": "「普通かな」 (Oo)",
+      "zh-CN": "「普普通通吧」 (Oo)",
+      "segments": [
+        {
+          "text": "「普通かな」 ",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "「"
+            },
+            {
+              "text": "普通",
+              "reading": "ふつう"
+            },
+            {
+              "text": "かな」 "
+            }
+          ]
+        },
+        {
+          "text": "(Oo)",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "(Oo)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "full-000005",
+      "order": 4,
+      "index": 4,
+      "start": 33.3335,
+      "end": 38.2215,
+      "japanese": "「花火大会が来週あるんだってね」",
+      "zh-CN": "「听说下周有烟花大会呢」",
+      "segments": [
+        {
+          "text": "「花火大会が来週あるんだってね」",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "「"
+            },
+            {
+              "text": "花火",
+              "reading": "はなび"
+            },
+            {
+              "text": "大会",
+              "reading": "たいかい"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "来週",
+              "reading": "らいしゅう"
+            },
+            {
+              "text": "あるんだってね」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "full-000006",
+      "order": 5,
+      "index": 5,
+      "start": 38.4215,
+      "end": 44.1515,
+      "japanese": "「あーゆー人が多いの俺は苦手なんだよな」",
+      "zh-CN": "「那种人挤人的地方我可最不擅长应付了啊」",
+      "segments": [
+        {
+          "text": "「あーゆー人が多いの俺は苦手なんだよな」",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "「あーゆー"
+            },
+            {
+              "text": "人",
+              "reading": "じん"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "多",
+              "reading": "おお"
+            },
+            {
+              "text": "いの"
+            },
+            {
+              "text": "俺",
+              "reading": "おれ"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "苦手",
+              "reading": "にがて"
+            },
+            {
+              "text": "なんだよな」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "full-000007",
+      "order": 6,
+      "index": 6,
+      "start": 44.4715,
+      "end": 49.9405,
+      "japanese": "「あーあ それじゃ誰か他をあたってみっか(怒)」 ",
+      "zh-CN": "「啊～啊 那我还是去找别人问问看吧 (怒)」",
+      "segments": [
+        {
+          "text": "「あーあ それじゃ誰か他をあたってみっか(怒)」 ",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "「あーあ それじゃ"
+            },
+            {
+              "text": "誰",
+              "reading": "だれ"
+            },
+            {
+              "text": "か"
+            },
+            {
+              "text": "他",
+              "reading": "た"
+            },
+            {
+              "text": "をあたってみっか("
+            },
+            {
+              "text": "怒",
+              "reading": "いか"
+            },
+            {
+              "text": ")」 "
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "full-000008",
+      "order": 7,
+      "index": 7,
+      "start": 50.3305,
+      "end": 56.3005,
+      "japanese": "「やっぱ楽しそうだな結構行きたいかも(汗)」",
+      "zh-CN": "「感觉好像挺好玩的其实我挺想去的 (汗)」",
+      "segments": [
+        {
+          "text": "「やっぱ楽しそうだな結構行きたいかも(汗)」",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "「やっぱ"
+            },
+            {
+              "text": "楽",
+              "reading": "たの"
+            },
+            {
+              "text": "しそうだな"
+            },
+            {
+              "text": "結構",
+              "reading": "けっこう"
+            },
+            {
+              "text": "行",
+              "reading": "い"
+            },
+            {
+              "text": "きたいかも("
+            },
+            {
+              "text": "汗",
+              "reading": "あせ"
+            },
+            {
+              "text": ")」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "full-000009",
+      "order": 8,
+      "index": 8,
+      "start": 56.9105,
+      "end": 58.3405,
+      "japanese": "「のど渇いたな」",
+      "zh-CN": "「口好渴啊」",
+      "segments": [
+        {
+          "text": "「のど渇いたな」",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "「のど"
+            },
+            {
+              "text": "渇",
+              "reading": "かわ"
+            },
+            {
+              "text": "いたな」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "full-000010",
+      "order": 9,
+      "index": 9,
+      "start": 58.3405,
+      "end": 60.0805,
+      "japanese": "「これ飲めば？」",
+      "zh-CN": "「喝这个吗？」",
+      "segments": [
+        {
+          "text": "「これ飲めば？」",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "「これ"
+            },
+            {
+              "text": "飲",
+              "reading": "の"
+            },
+            {
+              "text": "めば？」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "full-000011",
+      "order": 10,
+      "index": 10,
+      "start": 60.0805,
+      "end": 63.0805,
+      "japanese": "「これっていわゆる間接キッス？」",
+      "zh-CN": "「这难道就是传说中的间接接吻？」",
+      "segments": [
+        {
+          "text": "「これっていわゆる間接キッス？」",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "「これっていわゆる"
+            },
+            {
+              "text": "間接",
+              "reading": "かんせつ"
+            },
+            {
+              "text": "キッス？」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "full-000012",
+      "order": 11,
+      "index": 11,
+      "start": 63.0805,
+      "end": 64.3705,
+      "japanese": "「…意識した？」",
+      "zh-CN": "「……你多想了？」",
+      "segments": [
+        {
+          "text": "「…意識した？」",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "「…"
+            },
+            {
+              "text": "意識",
+              "reading": "いしき"
+            },
+            {
+              "text": "した？」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "full-000013",
+      "order": 12,
+      "index": 12,
+      "start": 64.6405,
+      "end": 65.7395,
+      "japanese": "「…意識した」",
+      "zh-CN": "「……我多想了」",
+      "segments": [
+        {
+          "text": "「…意識した」",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "「…"
+            },
+            {
+              "text": "意識",
+              "reading": "いしき"
+            },
+            {
+              "text": "した」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "full-000014",
+      "order": 13,
+      "index": 13,
+      "start": 65.7395,
+      "end": 68.7085,
+      "japanese": "のどは渇いたまんま",
+      "zh-CN": "喉咙依然干渴难耐",
+      "segments": [
+        {
+          "text": "のどは渇いたまんま",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "のどは"
+            },
+            {
+              "text": "渇",
+              "reading": "かわ"
+            },
+            {
+              "text": "いたまんま"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "full-000015",
+      "order": 14,
+      "index": 14,
+      "start": 69.4785,
+      "end": 74.5885,
+      "japanese": "待ってる左手にほんの少し触れてみる",
+      "zh-CN": "试着轻轻触碰那等待着的左手",
+      "segments": [
+        {
+          "text": "待ってる左手にほんの少し触れてみる",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "待",
+              "reading": "ま"
+            },
+            {
+              "text": "ってる"
+            },
+            {
+              "text": "左手",
+              "reading": "ひだりて"
+            },
+            {
+              "text": "にほんの"
+            },
+            {
+              "text": "少",
+              "reading": "すこ"
+            },
+            {
+              "text": "し"
+            },
+            {
+              "text": "触",
+              "reading": "ふ"
+            },
+            {
+              "text": "れてみる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "full-000016",
+      "order": 15,
+      "index": 15,
+      "start": 75.2385,
+      "end": 80.8475,
+      "japanese": "繋ぎたい繋ぎたいだけどポケットに隠れた",
+      "zh-CN": "想牵手想牵手 却又悄悄缩回口袋里藏好",
+      "segments": [
+        {
+          "text": "繋ぎたい繋ぎたいだけどポケットに隠れた",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "繋",
+              "reading": "つな"
+            },
+            {
+              "text": "ぎたい"
+            },
+            {
+              "text": "繋",
+              "reading": "つな"
+            },
+            {
+              "text": "ぎたいだけどポケットに"
+            },
+            {
+              "text": "隠",
+              "reading": "かく"
+            },
+            {
+              "text": "れた"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "full-000029",
+      "order": 28,
+      "index": 28,
+      "start": 81.5215,
+      "end": 86.5815,
+      "japanese": "ほんとは気づいてるほんの少しで届く距離",
+      "zh-CN": "其实早就察觉到了 只要稍稍迈步就能企及的距离",
+      "segments": [
+        {
+          "text": "ほんとは気づいてるほんの少しで届く距離",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "ほんとは"
+            },
+            {
+              "text": "気",
+              "reading": "き"
+            },
+            {
+              "text": "づいてるほんの"
+            },
+            {
+              "text": "少",
+              "reading": "すこ"
+            },
+            {
+              "text": "しで"
+            },
+            {
+              "text": "届",
+              "reading": "とど"
+            },
+            {
+              "text": "く"
+            },
+            {
+              "text": "距離",
+              "reading": "きょり"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "full-000030",
+      "order": 29,
+      "index": 29,
+      "start": 87.5615,
+      "end": 92.7805,
+      "japanese": "繋ぎたい繋ぎたい掴む袖口引いてみる",
+      "zh-CN": "想牵手想牵手 试着拉住抓住的衣袖一角",
+      "segments": [
+        {
+          "text": "繋ぎたい繋ぎたい掴む袖口引いてみる",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "繋",
+              "reading": "つな"
+            },
+            {
+              "text": "ぎたい"
+            },
+            {
+              "text": "繋",
+              "reading": "つな"
+            },
+            {
+              "text": "ぎたい"
+            },
+            {
+              "text": "掴",
+              "reading": "つか"
+            },
+            {
+              "text": "む"
+            },
+            {
+              "text": "袖口",
+              "reading": "そでぐち"
+            },
+            {
+              "text": "引",
+              "reading": "ひ"
+            },
+            {
+              "text": "いてみる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "full-000031",
+      "order": 30,
+      "index": 30,
+      "start": 93.6705,
+      "end": 94.5905,
+      "japanese": "綺麗だね",
+      "zh-CN": "真美呢",
+      "segments": [
+        {
+          "text": "綺麗だね",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "綺麗",
+              "reading": "きれい"
+            },
+            {
+              "text": "だね"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "full-000032",
+      "order": 31,
+      "index": 31,
+      "start": 94.8595,
+      "end": 95.6495,
+      "japanese": "綺麗だね",
+      "zh-CN": "真美呢",
+      "segments": [
+        {
+          "text": "綺麗だね",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "綺麗",
+              "reading": "きれい"
+            },
+            {
+              "text": "だね"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "full-000033",
+      "order": 32,
+      "index": 32,
+      "start": 95.9885,
+      "end": 99.6995,
+      "japanese": "(Ah)",
+      "zh-CN": "(Ah)",
+      "segments": [
+        {
+          "text": "(Ah)",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "(Ah)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "full-000034",
+      "order": 33,
+      "index": 33,
+      "start": 99.6995,
+      "end": 100.6395,
+      "japanese": "綺麗だよ",
+      "zh-CN": "真漂亮哦",
+      "segments": [
+        {
+          "text": "綺麗だよ",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "綺麗",
+              "reading": "きれい"
+            },
+            {
+              "text": "だよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "full-000035",
+      "order": 34,
+      "index": 34,
+      "start": 100.6395,
+      "end": 101.7595,
+      "japanese": "綺麗だよ ",
+      "zh-CN": "真漂亮哦",
+      "segments": [
+        {
+          "text": "綺麗だよ ",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "綺麗",
+              "reading": "きれい"
+            },
+            {
+              "text": "だよ "
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "full-000036",
+      "order": 35,
+      "index": 35,
+      "start": 101.8375,
+      "end": 105.5995,
+      "japanese": "(Oo)",
+      "zh-CN": "(Oo)",
+      "segments": [
+        {
+          "text": "(Oo)",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "(Oo)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "full-000037",
+      "order": 36,
+      "index": 36,
+      "start": 105.5995,
+      "end": 111.0785,
+      "japanese": "遠くから見てただけの花火が今目の前に",
+      "zh-CN": "曾经只能远远遥望的花火 如今就在眼前绽放",
+      "segments": [
+        {
+          "text": "遠くから見てただけの花火が今目の前に",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "遠",
+              "reading": "とお"
+            },
+            {
+              "text": "くから"
+            },
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "てただけの"
+            },
+            {
+              "text": "花火",
+              "reading": "はなび"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "今",
+              "reading": "いま"
+            },
+            {
+              "text": "目",
+              "reading": "め"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "前",
+              "reading": "まえ"
+            },
+            {
+              "text": "に"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "full-000038",
+      "order": 37,
+      "index": 37,
+      "start": 111.5785,
+      "end": 117.5575,
+      "japanese": "時を止め帰りたくないよね今日は",
+      "zh-CN": "真想让时间就此定格 今天一点也不想回家呢",
+      "segments": [
+        {
+          "text": "時を止め帰りたくないよね今日は",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "時",
+              "reading": "とき"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "止",
+              "reading": "と"
+            },
+            {
+              "text": "め"
+            },
+            {
+              "text": "帰",
+              "reading": "かえ"
+            },
+            {
+              "text": "りたくないよね"
+            },
+            {
+              "text": "今日",
+              "reading": "きょう"
+            },
+            {
+              "text": "は"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "full-000043",
+      "order": 42,
+      "index": 42,
+      "start": 119.0065,
+      "end": 124.0965,
+      "japanese": "ほんとは気づいてるほんの少しで届く距離",
+      "zh-CN": "其实早就察觉到了 只要稍稍迈步就能企及的距离",
+      "segments": [
+        {
+          "text": "ほんとは気づいてるほんの少しで届く距離",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "ほんとは"
+            },
+            {
+              "text": "気",
+              "reading": "き"
+            },
+            {
+              "text": "づいてるほんの"
+            },
+            {
+              "text": "少",
+              "reading": "すこ"
+            },
+            {
+              "text": "しで"
+            },
+            {
+              "text": "届",
+              "reading": "とど"
+            },
+            {
+              "text": "く"
+            },
+            {
+              "text": "距離",
+              "reading": "きょり"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "full-000044",
+      "order": 43,
+      "index": 43,
+      "start": 124.9965,
+      "end": 132.3045,
+      "japanese": "繋ぎたい繋ぎたいぎゅっと握り返すよ",
+      "zh-CN": "想牵手想牵手 紧紧反握住你的手掌",
+      "segments": [
+        {
+          "text": "繋ぎたい繋ぎたいぎゅっと握り返すよ",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-08",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "繋",
+              "reading": "つな"
+            },
+            {
+              "text": "ぎたい"
+            },
+            {
+              "text": "繋",
+              "reading": "つな"
+            },
+            {
+              "text": "ぎたいぎゅっと"
+            },
+            {
+              "text": "握",
+              "reading": "にぎ"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "返",
+              "reading": "かえ"
+            },
+            {
+              "text": "すよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

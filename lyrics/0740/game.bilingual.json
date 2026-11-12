@@ -1,0 +1,709 @@
+{
+  "music_id": 740,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-09",
+      "name": "小豆沢こはね"
+    },
+    {
+      "performerId": "歌唱者-10",
+      "name": "白石杏"
+    },
+    {
+      "performerId": "歌唱者-11",
+      "name": "東雲彰人"
+    },
+    {
+      "performerId": "歌唱者-12",
+      "name": "青柳冬弥"
+    },
+    {
+      "performerId": "歌唱者-26",
+      "name": "KAITO"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 9.0,
+      "end": 14.364,
+      "japanese": "歌声は私の言葉だ ",
+      "zh-CN": "歌声是我的话语",
+      "segments": [
+        {
+          "text": "歌声は私の言葉だ ",
+          "performerIds": [
+            "歌唱者-09"
+          ],
+          "ruby": [
+            {
+              "text": "歌声",
+              "reading": "うたごえ"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "私",
+              "reading": "わたし"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "言葉",
+              "reading": "ことば"
+            },
+            {
+              "text": "だ "
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 14.406732,
+      "end": 18.779204,
+      "japanese": "踏み締めた裸足の言葉だ",
+      "zh-CN": "是我赤足踏响大地的话语",
+      "segments": [
+        {
+          "text": "踏み締めた裸足の言葉だ",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "踏",
+              "reading": "ふ"
+            },
+            {
+              "text": "み"
+            },
+            {
+              "text": "締",
+              "reading": "し"
+            },
+            {
+              "text": "めた"
+            },
+            {
+              "text": "裸足",
+              "reading": "はだし"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "言葉",
+              "reading": "ことば"
+            },
+            {
+              "text": "だ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 19.559645,
+      "end": 24.002156,
+      "japanese": "そして今、その同じ歩幅は",
+      "zh-CN": "而此刻，那同频的步伐",
+      "segments": [
+        {
+          "text": "そして今、その同じ歩幅は",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "そして"
+            },
+            {
+              "text": "今",
+              "reading": "いま"
+            },
+            {
+              "text": "、その"
+            },
+            {
+              "text": "同",
+              "reading": "おな"
+            },
+            {
+              "text": "じ"
+            },
+            {
+              "text": "歩幅",
+              "reading": "ほはば"
+            },
+            {
+              "text": "は"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 24.902665,
+      "end": 30.876042,
+      "japanese": "超えて浮かぶ確かな形へ変わる",
+      "zh-CN": "正越过一切 化为确实之形",
+      "segments": [
+        {
+          "text": "超えて浮かぶ確かな形へ変わる",
+          "performerIds": [
+            "歌唱者-09"
+          ],
+          "ruby": [
+            {
+              "text": "超",
+              "reading": "こ"
+            },
+            {
+              "text": "えて"
+            },
+            {
+              "text": "浮",
+              "reading": "う"
+            },
+            {
+              "text": "かぶ"
+            },
+            {
+              "text": "確",
+              "reading": "たし"
+            },
+            {
+              "text": "かな"
+            },
+            {
+              "text": "形",
+              "reading": "かたち"
+            },
+            {
+              "text": "へ"
+            },
+            {
+              "text": "変",
+              "reading": "か"
+            },
+            {
+              "text": "わる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 31.436359,
+      "end": 36.319119,
+      "japanese": "上を向くたびに傷ついてきた",
+      "zh-CN": "每每向上攀登 便会满身伤痕",
+      "segments": [
+        {
+          "text": "上を向くたびに傷ついてきた",
+          "performerIds": [
+            "歌唱者-10",
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "上",
+              "reading": "うえ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "向",
+              "reading": "む"
+            },
+            {
+              "text": "くたびに"
+            },
+            {
+              "text": "傷",
+              "reading": "きず"
+            },
+            {
+              "text": "ついてきた"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 37.249646,
+      "end": 41.231897,
+      "japanese": "今日から一番遠い明日へ",
+      "zh-CN": "从今天起 向着最遥远的明日",
+      "segments": [
+        {
+          "text": "今日から一番遠い明日へ",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "今日",
+              "reading": "きょう"
+            },
+            {
+              "text": "から"
+            },
+            {
+              "text": "一番遠",
+              "reading": "いちばんとお"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "明日",
+              "reading": "あす"
+            },
+            {
+              "text": "へ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 41.251908,
+      "end": 46.725002,
+      "japanese": "勇む足は進むほどぼろぼろになって",
+      "zh-CN": "即使奋勇的步伐在途中愈发沉重",
+      "segments": [
+        {
+          "text": "勇む足は進むほどぼろぼろになって",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "勇",
+              "reading": "いさ"
+            },
+            {
+              "text": "む"
+            },
+            {
+              "text": "足",
+              "reading": "あし"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "進",
+              "reading": "すす"
+            },
+            {
+              "text": "むほどぼろぼろになって"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 47.775596,
+      "end": 52.658357,
+      "japanese": "泥塗れなのを忘れるくらい転んでも",
+      "zh-CN": "即使跌倒在地 甚至忘却已满身泥泞",
+      "segments": [
+        {
+          "text": "泥塗れなのを忘れるくらい転んでも",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "泥塗",
+              "reading": "どろまみ"
+            },
+            {
+              "text": "れなのを"
+            },
+            {
+              "text": "忘",
+              "reading": "わす"
+            },
+            {
+              "text": "れるくらい"
+            },
+            {
+              "text": "転",
+              "reading": "ころ"
+            },
+            {
+              "text": "んでも"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 52.938515,
+      "end": 59.372152,
+      "japanese": "雨が空へ還るように",
+      "zh-CN": "正如雨终将归于天空",
+      "segments": [
+        {
+          "text": "雨が空へ還るように",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "雨",
+              "reading": "あめ"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "空",
+              "reading": "そら"
+            },
+            {
+              "text": "へ"
+            },
+            {
+              "text": "還",
+              "reading": "かえ"
+            },
+            {
+              "text": "るように"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 59.772378,
+      "end": 64.725178,
+      "japanese": "不安で沈んだまなざしを",
+      "zh-CN": "在不安中垂下的眼眸",
+      "segments": [
+        {
+          "text": "不安で沈んだ",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "不安",
+              "reading": "ふあん"
+            },
+            {
+              "text": "で"
+            },
+            {
+              "text": "沈",
+              "reading": "しず"
+            },
+            {
+              "text": "んだ"
+            }
+          ]
+        },
+        {
+          "text": "まなざしを",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "まなざしを"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 64.925291,
+      "end": 66.72631,
+      "japanese": "それでも高く",
+      "zh-CN": "无论如何都要望向远方",
+      "segments": [
+        {
+          "text": "それでも高く",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "それでも"
+            },
+            {
+              "text": "高",
+              "reading": "たか"
+            },
+            {
+              "text": "く"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 66.936428,
+      "end": 71.639087,
+      "japanese": "風を受け、かませ私の歌",
+      "zh-CN": "迎风而上，我的歌声贯响",
+      "segments": [
+        {
+          "text": "風を受け、",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "風",
+              "reading": "かぜ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "受",
+              "reading": "う"
+            },
+            {
+              "text": "け、"
+            }
+          ]
+        },
+        {
+          "text": "かませ私の歌",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-11",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "かませ"
+            },
+            {
+              "text": "私",
+              "reading": "わたし"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "歌",
+              "reading": "うた"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 71.8392,
+      "end": 77.39234,
+      "japanese": "窮屈な自由など、ほら脱ぎ捨てて ",
+      "zh-CN": "被拘束的自由，全都舍弃吧",
+      "segments": [
+        {
+          "text": "窮屈な自由など、ほら脱ぎ捨てて ",
+          "performerIds": [
+            "歌唱者-10",
+            "歌唱者-12",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "窮屈",
+              "reading": "きゅうくつ"
+            },
+            {
+              "text": "な"
+            },
+            {
+              "text": "自由",
+              "reading": "じゆう"
+            },
+            {
+              "text": "など、ほら"
+            },
+            {
+              "text": "脱",
+              "reading": "ぬ"
+            },
+            {
+              "text": "ぎ"
+            },
+            {
+              "text": "捨",
+              "reading": "す"
+            },
+            {
+              "text": "てて "
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 77.412351,
+      "end": 82.034964,
+      "japanese": "羽でさえ手にしてどこまででも",
+      "zh-CN": "拥有着羽翼 天涯海角皆可抵达",
+      "segments": [
+        {
+          "text": "羽でさえ手にしてどこまででも",
+          "performerIds": [
+            "歌唱者-10",
+            "歌唱者-12",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "羽",
+              "reading": "はね"
+            },
+            {
+              "text": "でさえ"
+            },
+            {
+              "text": "手",
+              "reading": "て"
+            },
+            {
+              "text": "にしてどこまででも"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 82.315123,
+      "end": 88.248477,
+      "japanese": "大いなる不自由へと往け",
+      "zh-CN": "向着那广阔的不自由 展翅启航",
+      "segments": [
+        {
+          "text": "大いなる不自由へと往け",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-11",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "大",
+              "reading": "おお"
+            },
+            {
+              "text": "いなる"
+            },
+            {
+              "text": "不自由",
+              "reading": "ふじゆう"
+            },
+            {
+              "text": "へと"
+            },
+            {
+              "text": "往",
+              "reading": "ゆ"
+            },
+            {
+              "text": "け"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

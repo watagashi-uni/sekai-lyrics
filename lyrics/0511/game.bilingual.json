@@ -1,0 +1,874 @@
+{
+  "music_id": 511,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-05",
+      "name": "花里みのり"
+    },
+    {
+      "performerId": "歌唱者-06",
+      "name": "桐谷遥"
+    },
+    {
+      "performerId": "歌唱者-07",
+      "name": "桃井愛莉"
+    },
+    {
+      "performerId": "歌唱者-08",
+      "name": "日野森雫"
+    },
+    {
+      "performerId": "歌唱者-24",
+      "name": "巡音ルカ"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 24.190541,
+      "end": 26.410087,
+      "japanese": "wow　行き先はどうしよう.",
+      "zh-CN": "wow 该去哪里好呢.",
+      "segments": [
+        {
+          "text": "wow　行き先はどうしよう.",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "wow　"
+            },
+            {
+              "text": "行",
+              "reading": "い"
+            },
+            {
+              "text": "き"
+            },
+            {
+              "text": "先",
+              "reading": "さき"
+            },
+            {
+              "text": "はどうしよう."
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 26.642144,
+      "end": 28.94271,
+      "japanese": "ちょっと私服じゃマズイかな",
+      "zh-CN": "穿私服出门是不是有点不妙啊",
+      "segments": [
+        {
+          "text": "ちょっと私服じゃマズイかな",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "ちょっと"
+            },
+            {
+              "text": "私服",
+              "reading": "しふく"
+            },
+            {
+              "text": "じゃマズイかな"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 28.94271,
+      "end": 33.194757,
+      "japanese": "あぁ、何もかも　放り出しちゃった午後",
+      "zh-CN": "啊啊、把一切统统抛在脑后的午后",
+      "segments": [
+        {
+          "text": "あぁ、何もかも　放り出しちゃった午後",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "あぁ、"
+            },
+            {
+              "text": "何",
+              "reading": "なに"
+            },
+            {
+              "text": "もかも　"
+            },
+            {
+              "text": "放",
+              "reading": "ほう"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "しちゃった"
+            },
+            {
+              "text": "午後",
+              "reading": "ごご"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 34.256018,
+      "end": 36.529577,
+      "japanese": "wow　背伸びしたヒールじゃ",
+      "zh-CN": "wow 逞强穿上的高跟鞋",
+      "segments": [
+        {
+          "text": "wow　背伸びしたヒールじゃ",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "wow　"
+            },
+            {
+              "text": "背伸",
+              "reading": "せの"
+            },
+            {
+              "text": "びしたヒールじゃ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 36.737628,
+      "end": 39.293257,
+      "japanese": "ちょっと踏みだしにくいからさ",
+      "zh-CN": "有点迈不开步子呢",
+      "segments": [
+        {
+          "text": "ちょっと踏みだしにくいからさ",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "ちょっと"
+            },
+            {
+              "text": "踏",
+              "reading": "ふ"
+            },
+            {
+              "text": "みだしにくいからさ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 39.477302,
+      "end": 44.495537,
+      "japanese": "少しラフにフード付けて　バレないように行こう",
+      "zh-CN": "稍微穿得随意点戴上兜帽 别被认出来悄悄出发吧",
+      "segments": [
+        {
+          "text": "少しラフにフード付けて　バレないように行こう",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "少",
+              "reading": "すこ"
+            },
+            {
+              "text": "しラフにフード"
+            },
+            {
+              "text": "付",
+              "reading": "つ"
+            },
+            {
+              "text": "けて　バレないように"
+            },
+            {
+              "text": "行",
+              "reading": "い"
+            },
+            {
+              "text": "こう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 46.602676,
+      "end": 49.283335,
+      "japanese": "商店街　路地裏へ抜けて",
+      "zh-CN": "穿过商业街 拐进小巷",
+      "segments": [
+        {
+          "text": "商店街　路地裏へ抜けて",
+          "performerIds": [
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "商店街",
+              "reading": "しょうてんがい"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "路地裏",
+              "reading": "ろじうら"
+            },
+            {
+              "text": "へ"
+            },
+            {
+              "text": "抜",
+              "reading": "ぬ"
+            },
+            {
+              "text": "けて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 51.624912,
+      "end": 54.737678,
+      "japanese": "あぁ、なんだか　ドキドキしちゃいそうだ",
+      "zh-CN": "啊啊、不知怎的 感觉心跳加速起来",
+      "segments": [
+        {
+          "text": "あぁ、なんだか　ドキドキしちゃいそうだ",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "あぁ、なんだか　ドキドキしちゃいそうだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 55.76493,
+      "end": 61.179263,
+      "japanese": "ふいに　風が吹いたら　フードが脱げて　すぐさま観衆目線だ",
+      "zh-CN": "忽然 一阵风吹过 兜帽被掀开 瞬间引来全场观众的视线",
+      "segments": [
+        {
+          "text": "ふいに　風が吹いたら　フードが脱げて　すぐさま観衆目線だ",
+          "performerIds": [
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "ふいに　"
+            },
+            {
+              "text": "風",
+              "reading": "かぜ"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "吹",
+              "reading": "ふ"
+            },
+            {
+              "text": "いたら　フードが"
+            },
+            {
+              "text": "脱",
+              "reading": "ぬ"
+            },
+            {
+              "text": "げて　すぐさま"
+            },
+            {
+              "text": "観衆目線",
+              "reading": "かんしゅうめせん"
+            },
+            {
+              "text": "だ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 61.179263,
+      "end": 66.876665,
+      "japanese": "「…やっぱ　いつも通りの週末になっちゃいそうです」",
+      "zh-CN": "“……果然 看来又要变成一如既往的周末了呢”",
+      "segments": [
+        {
+          "text": "「…やっぱ　いつも通りの週末になっちゃいそうです」",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "「…やっぱ　いつも"
+            },
+            {
+              "text": "通",
+              "reading": "どお"
+            },
+            {
+              "text": "りの"
+            },
+            {
+              "text": "週末",
+              "reading": "しゅうまつ"
+            },
+            {
+              "text": "になっちゃいそうです」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 68.052954,
+      "end": 73.23723,
+      "japanese": "散々だなぁ　辞めたいなぁ　満員御礼！　なんて言うけど",
+      "zh-CN": "糟透了啊 好想辞职不干啊 虽然嘴上说着全场爆满！",
+      "segments": [
+        {
+          "text": "散々だなぁ　辞めたいなぁ　",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "散々",
+              "reading": "さんざん"
+            },
+            {
+              "text": "だなぁ　"
+            },
+            {
+              "text": "辞",
+              "reading": "や"
+            },
+            {
+              "text": "めたいなぁ　"
+            }
+          ]
+        },
+        {
+          "text": "満員御礼！　なんて言うけど",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "満員御礼",
+              "reading": "まにのんれい"
+            },
+            {
+              "text": "！　なんて"
+            },
+            {
+              "text": "言",
+              "reading": "い"
+            },
+            {
+              "text": "うけど"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 73.445281,
+      "end": 77.884373,
+      "japanese": "その実ブルーなので　困っちゃうよ　目立っちゃうな",
+      "zh-CN": "但实际上郁闷得很 真是伤脑筋 太显眼引人注目啦",
+      "segments": [
+        {
+          "text": "その実ブルーなので　",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "その"
+            },
+            {
+              "text": "実",
+              "reading": "じつ"
+            },
+            {
+              "text": "ブルーなので　"
+            }
+          ]
+        },
+        {
+          "text": "困っちゃうよ　",
+          "performerIds": [
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "困",
+              "reading": "おま"
+            },
+            {
+              "text": "っちゃうよ　"
+            }
+          ]
+        },
+        {
+          "text": "目立っちゃうな",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "目立",
+              "reading": "めた"
+            },
+            {
+              "text": "っちゃうな"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 78.464,
+      "end": 82.947,
+      "japanese": "散々だなぁ　消えたいなぁ　声にならずに",
+      "zh-CN": "糟透了啊 好想消失啊 哽咽无声",
+      "segments": [
+        {
+          "text": "散々だなぁ　消えたいなぁ　",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "散々",
+              "reading": "さんざん"
+            },
+            {
+              "text": "だなぁ　"
+            },
+            {
+              "text": "消",
+              "reading": "き"
+            },
+            {
+              "text": "えたいなぁ　"
+            }
+          ]
+        },
+        {
+          "text": "声にならずに",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "声",
+              "reading": "こえ"
+            },
+            {
+              "text": "にならずに"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 82.84456,
+      "end": 88.461942,
+      "japanese": "「嫌だ。涙が出ちゃうよ」　そんな言葉で　ポケットを埋めた",
+      "zh-CN": "“讨厌。眼泪要流出来了” 这样的话语 填满了口袋",
+      "segments": [
+        {
+          "text": "「嫌だ。涙が出ちゃうよ」　",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "「"
+            },
+            {
+              "text": "嫌",
+              "reading": "いや"
+            },
+            {
+              "text": "だ。"
+            },
+            {
+              "text": "涙",
+              "reading": "なみだ"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "出",
+              "reading": "で"
+            },
+            {
+              "text": "ちゃうよ」　"
+            }
+          ]
+        },
+        {
+          "text": "そんな言葉で　ポケットを埋めた",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "そんな"
+            },
+            {
+              "text": "言葉",
+              "reading": "ことば"
+            },
+            {
+              "text": "で　ポケットを"
+            },
+            {
+              "text": "埋",
+              "reading": "う"
+            },
+            {
+              "text": "めた"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 98.664,
+      "end": 108.367,
+      "japanese": "あぁ、なんだかいけそうだ！　心臓が弾けちゃうほど",
+      "zh-CN": "啊啊、感觉好像能行了！ 心脏仿佛快要炸裂一般",
+      "segments": [
+        {
+          "text": "あぁ、なんだかいけそうだ！　心臓が弾けちゃうほど",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "あぁ、なんだかいけそうだ！　"
+            },
+            {
+              "text": "心臓",
+              "reading": "しんぞう"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "弾",
+              "reading": "はじ"
+            },
+            {
+              "text": "けちゃうほど"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 98.664,
+      "end": 108.367,
+      "japanese": "溢れ出しそうなので　奪っちゃうよ！？　奪っちゃうよ！？ ",
+      "zh-CN": "几乎快要满溢而出 彻底夺走全场视线吧！？ 夺走全场视线吧！？",
+      "segments": [
+        {
+          "text": "溢れ出しそうなので　",
+          "performerIds": [
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "溢",
+              "reading": "あふ"
+            },
+            {
+              "text": "れ"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "しそうなので　"
+            }
+          ]
+        },
+        {
+          "text": "奪っちゃうよ！？　",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "奪",
+              "reading": "うば"
+            },
+            {
+              "text": "っちゃうよ！？　"
+            }
+          ]
+        },
+        {
+          "text": "奪っちゃうよ！？ ",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "奪",
+              "reading": "うば"
+            },
+            {
+              "text": "っちゃうよ！？ "
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 108.382305,
+      "end": 118.763859,
+      "japanese": "伝えたいこと詰め込んだ　そんな「夢」から",
+      "zh-CN": "从那满载着想要传达的心意的“梦想”之中",
+      "segments": [
+        {
+          "text": "伝えたいこと詰め込んだ　そんな「夢」から",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "伝",
+              "reading": "つた"
+            },
+            {
+              "text": "えたいこと"
+            },
+            {
+              "text": "詰",
+              "reading": "つ"
+            },
+            {
+              "text": "め"
+            },
+            {
+              "text": "込",
+              "reading": "こ"
+            },
+            {
+              "text": "んだ　そんな「"
+            },
+            {
+              "text": "夢",
+              "reading": "ゆめ"
+            },
+            {
+              "text": "」から"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 108.382305,
+      "end": 118.763859,
+      "japanese": "もう目を離さないで　さぁさぁ、明日も　スキップで進もう！！",
+      "zh-CN": "视线可别移开哦 来吧来吧、明天也 迈着轻快步伐前进吧！！",
+      "segments": [
+        {
+          "text": "もう目を離さないで　さぁさぁ、明日も　スキップで進もう！！",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "もう"
+            },
+            {
+              "text": "目",
+              "reading": "め"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "離",
+              "reading": "はな"
+            },
+            {
+              "text": "さないで　さぁさぁ、"
+            },
+            {
+              "text": "明日",
+              "reading": "あした"
+            },
+            {
+              "text": "も　スキップで"
+            },
+            {
+              "text": "進",
+              "reading": "すす"
+            },
+            {
+              "text": "もう！！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    }
+  ]
+}

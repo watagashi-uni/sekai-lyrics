@@ -1,0 +1,762 @@
+{
+  "music_id": 597,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-17",
+      "name": "宵崎奏"
+    },
+    {
+      "performerId": "歌唱者-18",
+      "name": "朝比奈まふゆ"
+    },
+    {
+      "performerId": "歌唱者-19",
+      "name": "東雲絵名"
+    },
+    {
+      "performerId": "歌唱者-20",
+      "name": "暁山瑞希"
+    },
+    {
+      "performerId": "歌唱者-21",
+      "name": "初音ミク"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 10.084015,
+      "end": 14.5701,
+      "japanese": "何者にも 成れない体と",
+      "zh-CN": "带着这具成不了任何气候的身躯",
+      "segments": [
+        {
+          "text": "何者にも 成れない体と",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "何者",
+              "reading": "なにもの"
+            },
+            {
+              "text": "にも "
+            },
+            {
+              "text": "成",
+              "reading": "な"
+            },
+            {
+              "text": "れない"
+            },
+            {
+              "text": "体",
+              "reading": "からだ"
+            },
+            {
+              "text": "と"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 14.858105,
+      "end": 20.316208,
+      "japanese": "借りた命の中で息をして",
+      "zh-CN": "在借来的生命中苟延残喘呼吸",
+      "segments": [
+        {
+          "text": "借りた命の中で息をして",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "借",
+              "reading": "か"
+            },
+            {
+              "text": "りた"
+            },
+            {
+              "text": "命",
+              "reading": "いのち"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "中",
+              "reading": "なか"
+            },
+            {
+              "text": "で"
+            },
+            {
+              "text": "息",
+              "reading": "いき"
+            },
+            {
+              "text": "をして"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 21.124224,
+      "end": 25.67031,
+      "japanese": "奥の方まで 深く潜れば",
+      "zh-CN": "若向最深处 潜入深潜",
+      "segments": [
+        {
+          "text": "奥の方まで 深く潜れば",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "奥",
+              "reading": "おく"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "方",
+              "reading": "ほう"
+            },
+            {
+              "text": "まで "
+            },
+            {
+              "text": "深",
+              "reading": "ふか"
+            },
+            {
+              "text": "く"
+            },
+            {
+              "text": "潜",
+              "reading": "もぐ"
+            },
+            {
+              "text": "れば"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 25.950315,
+      "end": 37.737538,
+      "japanese": "今もあの日の自分が まだ 笑ってる",
+      "zh-CN": "那一天的自己 如今也 依然 在展露笑颜",
+      "segments": [
+        {
+          "text": "今もあの日の自分が まだ 笑ってる",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "今",
+              "reading": "いま"
+            },
+            {
+              "text": "もあの"
+            },
+            {
+              "text": "日",
+              "reading": "ひ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "自分",
+              "reading": "じぶん"
+            },
+            {
+              "text": "が まだ "
+            },
+            {
+              "text": "笑",
+              "reading": "わら"
+            },
+            {
+              "text": "ってる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 46.154697,
+      "end": 51.09879,
+      "japanese": "振り返れば 確かに残る",
+      "zh-CN": "回首过往 确实依然残留着",
+      "segments": [
+        {
+          "text": "振り返れば 確かに残る",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "振",
+              "reading": "ふ"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "返",
+              "reading": "かえ"
+            },
+            {
+              "text": "れば "
+            },
+            {
+              "text": "確",
+              "reading": "たし"
+            },
+            {
+              "text": "かに"
+            },
+            {
+              "text": "残",
+              "reading": "のこ"
+            },
+            {
+              "text": "る"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 51.140936,
+      "end": 56.382403,
+      "japanese": "胸に芽生えていた夢の欠片",
+      "zh-CN": "曾经在心中萌发萌芽的梦想碎片",
+      "segments": [
+        {
+          "text": "胸に芽生えていた夢の欠片",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "胸",
+              "reading": "むね"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "芽生",
+              "reading": "めば"
+            },
+            {
+              "text": "えていた"
+            },
+            {
+              "text": "夢",
+              "reading": "ゆめ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "欠片",
+              "reading": "かけら"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 57.231906,
+      "end": 62.088998,
+      "japanese": "理想の影に圧し潰されて",
+      "zh-CN": "被理想的阴影狠狠碾碎",
+      "segments": [
+        {
+          "text": "理想の影に圧し潰されて",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "理想",
+              "reading": "りそう"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "影",
+              "reading": "かげ"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "圧",
+              "reading": "お"
+            },
+            {
+              "text": "し"
+            },
+            {
+              "text": "潰",
+              "reading": "つぶ"
+            },
+            {
+              "text": "されて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 62.328003,
+      "end": 69.000129,
+      "japanese": "それはいつしか\"嫌い\"に変わってしまった",
+      "zh-CN": "不知何时已蜕变成了“厌恶”",
+      "segments": [
+        {
+          "text": "それはいつしか\"嫌い\"に変わってしまった",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "それはいつしか\""
+            },
+            {
+              "text": "嫌",
+              "reading": "きら"
+            },
+            {
+              "text": "い\"に"
+            },
+            {
+              "text": "変",
+              "reading": "か"
+            },
+            {
+              "text": "わってしまった"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 69.261134,
+      "end": 78.208303,
+      "japanese": "過去を撫でて みても 仕方がないよな",
+      "zh-CN": "就算抚摸追忆过往 也是无济于事的吧",
+      "segments": [
+        {
+          "text": "過去を撫でて みても 仕方がないよな",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "過去",
+              "reading": "かこ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "撫",
+              "reading": "な"
+            },
+            {
+              "text": "でて みても "
+            },
+            {
+              "text": "仕方",
+              "reading": "しかた"
+            },
+            {
+              "text": "がないよな"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 79.165551,
+      "end": 83.021624,
+      "japanese": "ほんの小さな 優しい光",
+      "zh-CN": "仅有微小的一缕 温柔光芒",
+      "segments": [
+        {
+          "text": "ほんの小さな 優しい光",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-19",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ほんの"
+            },
+            {
+              "text": "小",
+              "reading": "ちい"
+            },
+            {
+              "text": "さな "
+            },
+            {
+              "text": "優",
+              "reading": "やさ"
+            },
+            {
+              "text": "しい"
+            },
+            {
+              "text": "光",
+              "reading": "ひかり"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 83.071624,
+      "end": 96.856885,
+      "japanese": "信じた想いはまだ届かない それでも",
+      "zh-CN": "坚信的心意依然无法传达 纵然如此",
+      "segments": [
+        {
+          "text": "信じた想いはまだ届かない それでも",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-19",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "信",
+              "reading": "しん"
+            },
+            {
+              "text": "じた"
+            },
+            {
+              "text": "想",
+              "reading": "おも"
+            },
+            {
+              "text": "いはまだ"
+            },
+            {
+              "text": "届",
+              "reading": "とど"
+            },
+            {
+              "text": "かない それでも"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 83.071624,
+      "end": 96.856885,
+      "japanese": "渇いたまま 目の前にある 真っ白な景色に",
+      "zh-CN": "面对眼前依然干涸枯燥的 一片纯白之景",
+      "segments": [
+        {
+          "text": "渇いたまま 目の前にある 真っ白な景色に",
+          "performerIds": [
+            "歌唱者-19",
+            "歌唱者-20",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "渇",
+              "reading": "かわ"
+            },
+            {
+              "text": "いたまま "
+            },
+            {
+              "text": "目",
+              "reading": "め"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "前",
+              "reading": "まえ"
+            },
+            {
+              "text": "にある "
+            },
+            {
+              "text": "真",
+              "reading": "ま"
+            },
+            {
+              "text": "っ"
+            },
+            {
+              "text": "白",
+              "reading": "しろ"
+            },
+            {
+              "text": "な"
+            },
+            {
+              "text": "景色",
+              "reading": "けしき"
+            },
+            {
+              "text": "に"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 97.11889,
+      "end": 104.028021,
+      "japanese": "この手でもっと未来を描いてみたい",
+      "zh-CN": "想用这双手去尝试描摹更多未来",
+      "segments": [
+        {
+          "text": "この手でもっと未来を描いてみたい",
+          "performerIds": [
+            "歌唱者-19",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "この"
+            },
+            {
+              "text": "手",
+              "reading": "て"
+            },
+            {
+              "text": "でもっと"
+            },
+            {
+              "text": "未来",
+              "reading": "みらい"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "描",
+              "reading": "えが"
+            },
+            {
+              "text": "いてみたい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 106.735072,
+      "end": 120.556333,
+      "japanese": "例え綺麗じゃなくても",
+      "zh-CN": "纵使并非完美无瑕",
+      "segments": [
+        {
+          "text": "例え綺麗じゃなくても",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "例",
+              "reading": "たと"
+            },
+            {
+              "text": "え"
+            },
+            {
+              "text": "綺麗",
+              "reading": "きれい"
+            },
+            {
+              "text": "じゃなくても"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 106.735072,
+      "end": 120.556333,
+      "japanese": "自分らしく ただ眼に映る",
+      "zh-CN": "也想带着属于自己的风格 仅仅去描摹",
+      "segments": [
+        {
+          "text": "自分らしく ",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "自分",
+              "reading": "じぶん"
+            },
+            {
+              "text": "らしく "
+            }
+          ]
+        },
+        {
+          "text": "ただ眼に映る",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "ただ"
+            },
+            {
+              "text": "眼",
+              "reading": "め"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "映",
+              "reading": "うつ"
+            },
+            {
+              "text": "る"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 120.868339,
+      "end": 127.006455,
+      "japanese": "このセカイを描いていたい",
+      "zh-CN": "眼中所映照出的 这个SEKAI",
+      "segments": [
+        {
+          "text": "このセカイを描いていたい",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "このセカイを"
+            },
+            {
+              "text": "描",
+              "reading": "えが"
+            },
+            {
+              "text": "いていたい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

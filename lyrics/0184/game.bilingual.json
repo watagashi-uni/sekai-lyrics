@@ -1,0 +1,815 @@
+{
+  "music_id": 184,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-01",
+      "name": "星乃一歌"
+    },
+    {
+      "performerId": "歌唱者-02",
+      "name": "天馬咲希"
+    },
+    {
+      "performerId": "歌唱者-03",
+      "name": "望月穂波"
+    },
+    {
+      "performerId": "歌唱者-04",
+      "name": "日野森志歩"
+    },
+    {
+      "performerId": "歌唱者-21",
+      "name": "初音ミク"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 9.244213,
+      "end": 13.805962,
+      "japanese": "扉開けば　捻れた昼の夜",
+      "zh-CN": "推开门扉 扭曲颠倒的白昼与黑夜",
+      "segments": [
+        {
+          "text": "扉開けば　捻れた昼の夜",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "扉開",
+              "reading": "とびらひら"
+            },
+            {
+              "text": "けば　"
+            },
+            {
+              "text": "捻",
+              "reading": "ねじ"
+            },
+            {
+              "text": "れた"
+            },
+            {
+              "text": "昼",
+              "reading": "ひる"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "夜",
+              "reading": "よる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 13.989871,
+      "end": 18.197794,
+      "japanese": "昨日どうやって帰った　体だけが確か",
+      "zh-CN": "昨天究竟是怎么回来的 唯有这具身躯真切确实",
+      "segments": [
+        {
+          "text": "昨日どうやって帰った　体だけが確か",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "昨日",
+              "reading": "きのう"
+            },
+            {
+              "text": "どうやって"
+            },
+            {
+              "text": "帰",
+              "reading": "かえ"
+            },
+            {
+              "text": "った　"
+            },
+            {
+              "text": "体",
+              "reading": "からだ"
+            },
+            {
+              "text": "だけが"
+            },
+            {
+              "text": "確",
+              "reading": "たし"
+            },
+            {
+              "text": "か"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 18.404692,
+      "end": 22.807519,
+      "japanese": "おはよう　これからまた迷子の続き",
+      "zh-CN": "早上好 从现在开始又是迷路迷途的延续",
+      "segments": [
+        {
+          "text": "おはよう　これからまた迷子の続き",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "おはよう　これからまた"
+            },
+            {
+              "text": "迷子",
+              "reading": "まいご"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "続",
+              "reading": "つづ"
+            },
+            {
+              "text": "き"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 22.991428,
+      "end": 27.572167,
+      "japanese": "見慣れた知らない　景色の中で",
+      "zh-CN": "在似曾相识却又陌生的 景致之中",
+      "segments": [
+        {
+          "text": "見慣れた知らない　",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "見慣",
+              "reading": "みな"
+            },
+            {
+              "text": "れた"
+            },
+            {
+              "text": "知",
+              "reading": "し"
+            },
+            {
+              "text": "らない　"
+            }
+          ]
+        },
+        {
+          "text": "景色の中で",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "景色",
+              "reading": "けしき"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "中",
+              "reading": "なか"
+            },
+            {
+              "text": "で"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 36.557732,
+      "end": 41.223429,
+      "japanese": "もう駄目って思ってから　わりと何だかやれている",
+      "zh-CN": "自觉得已经不行了之后 居然还莫名撑了过来",
+      "segments": [
+        {
+          "text": "もう駄目って思ってから　わりと何だかやれている",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "もう"
+            },
+            {
+              "text": "駄目",
+              "reading": "だめ"
+            },
+            {
+              "text": "って"
+            },
+            {
+              "text": "思",
+              "reading": "おも"
+            },
+            {
+              "text": "ってから　わりと"
+            },
+            {
+              "text": "何",
+              "reading": "なん"
+            },
+            {
+              "text": "だかやれている"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 41.223429,
+      "end": 45.641249,
+      "japanese": "死にきらないくらいに丈夫　何かちょっと恥ずかしい",
+      "zh-CN": "结实硬朗到死不掉的程度 多少让人觉得有些难为情",
+      "segments": [
+        {
+          "text": "死にきらないくらいに丈夫　何かちょっと恥ずかしい",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "死",
+              "reading": "し"
+            },
+            {
+              "text": "にきらないくらいに"
+            },
+            {
+              "text": "丈夫",
+              "reading": "じょうぶ"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "何",
+              "reading": "なん"
+            },
+            {
+              "text": "かちょっと"
+            },
+            {
+              "text": "恥",
+              "reading": "は"
+            },
+            {
+              "text": "ずかしい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 45.641249,
+      "end": 50.098049,
+      "japanese": "やるべきことは　忘れていても解る",
+      "zh-CN": "哪怕早已忘记 也清楚知道自己该做些什么",
+      "segments": [
+        {
+          "text": "やるべきことは　忘れていても解る",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "やるべきことは　"
+            },
+            {
+              "text": "忘",
+              "reading": "わす"
+            },
+            {
+              "text": "れていても"
+            },
+            {
+              "text": "解",
+              "reading": "わか"
+            },
+            {
+              "text": "る"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 50.248974,
+      "end": 54.765745,
+      "japanese": "そうしないと　とても苦しいから",
+      "zh-CN": "因为若不这么做的话 会感到无比痛苦难熬",
+      "segments": [
+        {
+          "text": "そうしないと　とても苦しいから",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "そうしないと　とても"
+            },
+            {
+              "text": "苦",
+              "reading": "くる"
+            },
+            {
+              "text": "しいから"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 55.068596,
+      "end": 59.057627,
+      "japanese": "顔を上げて　黒い目の人",
+      "zh-CN": "抬起头来吧 拥有黑色眼眸的人啊",
+      "segments": [
+        {
+          "text": "顔を上げて　",
+          "performerIds": [
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "顔",
+              "reading": "かお"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "上",
+              "reading": "あ"
+            },
+            {
+              "text": "げて　"
+            }
+          ]
+        },
+        {
+          "text": "黒い目の人",
+          "performerIds": [
+            "歌唱者-03"
+          ],
+          "ruby": [
+            {
+              "text": "黒",
+              "reading": "くろ"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "目",
+              "reading": "め"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "人",
+              "reading": "ひと"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 59.336489,
+      "end": 63.884244,
+      "japanese": "君が見たから　光は生まれた",
+      "zh-CN": "正因你眼中注视着 光芒才得以诞生",
+      "segments": [
+        {
+          "text": "君が見たから　",
+          "performerIds": [
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "たから　"
+            }
+          ]
+        },
+        {
+          "text": "光は生まれた",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "光",
+              "reading": "ひかり"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "生",
+              "reading": "う"
+            },
+            {
+              "text": "まれた"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 63.884244,
+      "end": 68.432,
+      "japanese": "選んだ色で塗った　世界に囲まれて",
+      "zh-CN": "被涂抹着亲选颜色的 世界团团包围",
+      "segments": [
+        {
+          "text": "選んだ色で塗った　世界に囲まれて",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "選",
+              "reading": "えら"
+            },
+            {
+              "text": "んだ"
+            },
+            {
+              "text": "色",
+              "reading": "いろ"
+            },
+            {
+              "text": "で"
+            },
+            {
+              "text": "塗",
+              "reading": "ぬ"
+            },
+            {
+              "text": "った　"
+            },
+            {
+              "text": "世界",
+              "reading": "せかい"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "囲",
+              "reading": "かこ"
+            },
+            {
+              "text": "まれて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 68.65389,
+      "end": 72.600942,
+      "japanese": "選べない傷の意味はどこだろう",
+      "zh-CN": "无法选择的伤痕其意义究竟身在何方呢",
+      "segments": [
+        {
+          "text": "選べない傷の意味はどこだろう",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-04",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "選",
+              "reading": "えら"
+            },
+            {
+              "text": "べない"
+            },
+            {
+              "text": "傷",
+              "reading": "きず"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "意味",
+              "reading": "いみ"
+            },
+            {
+              "text": "はどこだろう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 72.896796,
+      "end": 77.501523,
+      "japanese": "ご自分だけがヒーロー　世界の真ん中で",
+      "zh-CN": "唯有你自己才是英雄 屹立在世界的正中心",
+      "segments": [
+        {
+          "text": "ご自分だけがヒーロー　世界の真ん中で",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ご"
+            },
+            {
+              "text": "自分",
+              "reading": "じぶん"
+            },
+            {
+              "text": "だけがヒーロー　"
+            },
+            {
+              "text": "世界",
+              "reading": "せかい"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "真",
+              "reading": "ま"
+            },
+            {
+              "text": "ん"
+            },
+            {
+              "text": "中",
+              "reading": "なか"
+            },
+            {
+              "text": "で"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 77.749401,
+      "end": 81.665468,
+      "japanese": "終わるまで出突っ張り　ステージの上",
+      "zh-CN": "直到终幕前都一直在场 屹立在舞台之上",
+      "segments": [
+        {
+          "text": "終わるまで出突っ張り　ステージの上",
+          "performerIds": [
+            "歌唱者-04",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "終",
+              "reading": "お"
+            },
+            {
+              "text": "わるまで"
+            },
+            {
+              "text": "出突",
+              "reading": "でず"
+            },
+            {
+              "text": "っ"
+            },
+            {
+              "text": "張",
+              "reading": "ぱ"
+            },
+            {
+              "text": "り　ステージの"
+            },
+            {
+              "text": "上",
+              "reading": "うえ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 81.809397,
+      "end": 86.980845,
+      "japanese": "どうしよう　空っぽのふりも出来ない",
+      "zh-CN": "该如何是好 连装作空洞虚无的模样都做不到了",
+      "segments": [
+        {
+          "text": "どうしよう　空っぽのふりも出来ない",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "どうしよう　"
+            },
+            {
+              "text": "空",
+              "reading": "から"
+            },
+            {
+              "text": "っぽのふりも"
+            },
+            {
+              "text": "出来",
+              "reading": "でき"
+            },
+            {
+              "text": "ない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 87.15475,
+      "end": 91.63575,
+      "japanese": "ハロー　どうも　僕はここ",
+      "zh-CN": "你好 我就在这里哦",
+      "segments": [
+        {
+          "text": "ハロー　どうも　僕はここ",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-04",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ハロー　どうも　"
+            },
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "はここ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 87.163754,
+      "end": 91.408659,
+      "japanese": "ハロー　どうも　僕はここ",
+      "zh-CN": "你好 我就在这里哦",
+      "segments": [
+        {
+          "text": "ハロー　どうも　僕はここ",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-04",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ハロー　どうも　"
+            },
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "はここ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

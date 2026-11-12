@@ -1,0 +1,1700 @@
+{
+  "music_id": 360,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-13",
+      "name": "天馬司"
+    },
+    {
+      "performerId": "歌唱者-14",
+      "name": "鳳えむ"
+    },
+    {
+      "performerId": "歌唱者-15",
+      "name": "草薙寧々"
+    },
+    {
+      "performerId": "歌唱者-16",
+      "name": "神代類"
+    },
+    {
+      "performerId": "歌唱者-21",
+      "name": "初音ミク"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 9.4195,
+      "end": 13.2565,
+      "japanese": "あの一等星のさんざめく光で",
+      "zh-CN": "伴着那一等星璀璨喧闹的光芒",
+      "segments": [
+        {
+          "text": "あの一等星のさんざめく光で",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "あの"
+            },
+            {
+              "text": "一等星",
+              "reading": "いっとうせい"
+            },
+            {
+              "text": "のさんざめく"
+            },
+            {
+              "text": "光",
+              "reading": "ひかり"
+            },
+            {
+              "text": "で"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 13.2565,
+      "end": 15.8845,
+      "japanese": "あなたとダンスを踊ろうか",
+      "zh-CN": "与你一同跳支舞吧",
+      "segments": [
+        {
+          "text": "あなたとダンスを踊ろうか",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "あなたとダンスを"
+            },
+            {
+              "text": "踊",
+              "reading": "おど"
+            },
+            {
+              "text": "ろうか"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 15.810841,
+      "end": 19.591655,
+      "japanese": "我が太陽系の鼓動に合わせて",
+      "zh-CN": "配合着我们太阳系的脉动节拍",
+      "segments": [
+        {
+          "text": "我が太陽系の鼓動に合わせて",
+          "performerIds": [
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "我",
+              "reading": "わ"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "太陽系",
+              "reading": "たいようけい"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "鼓動",
+              "reading": "こどう"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "合",
+              "reading": "あ"
+            },
+            {
+              "text": "わせて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 19.620645,
+      "end": 22.60071,
+      "japanese": "絡まったステップで綺羅めいて、星ッ！",
+      "zh-CN": "踏着交错的舞步闪耀吧 群星！",
+      "segments": [
+        {
+          "text": "絡まったステップで綺羅めいて、",
+          "performerIds": [
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "絡",
+              "reading": "から"
+            },
+            {
+              "text": "まったステップで"
+            },
+            {
+              "text": "綺羅",
+              "reading": "きら"
+            },
+            {
+              "text": "めいて、"
+            }
+          ]
+        },
+        {
+          "text": "星ッ！",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "星",
+              "reading": "せ"
+            },
+            {
+              "text": "ッ！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 29.004193,
+      "end": 35.110277,
+      "japanese": "ランバダ　ルンバ　ふたり　宇宙でランデブーな",
+      "zh-CN": "兰巴达 伦巴 两人 在宇宙中浪漫幽会",
+      "segments": [
+        {
+          "text": "ランバダ　ルンバ　ふたり　宇宙でランデブーな",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ランバダ　ルンバ　ふたり　"
+            },
+            {
+              "text": "宇宙",
+              "reading": "そら"
+            },
+            {
+              "text": "でランデブーな"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 29.004193,
+      "end": 35.110277,
+      "japanese": "妄、患って　連夜眠れない",
+      "zh-CN": "妄想成疾 连夜难以入眠",
+      "segments": [
+        {
+          "text": "妄、患って　連夜眠れない",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "妄",
+              "reading": "も"
+            },
+            {
+              "text": "、"
+            },
+            {
+              "text": "患",
+              "reading": "うわずら"
+            },
+            {
+              "text": "って　"
+            },
+            {
+              "text": "連夜眠",
+              "reading": "れにゃねむ"
+            },
+            {
+              "text": "れない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 35.454169,
+      "end": 38.661163,
+      "japanese": "星座になって　混ざる　どんな一等星も",
+      "zh-CN": "哪怕化作星座 融入其中 无论怎样的一等星",
+      "segments": [
+        {
+          "text": "星座になって　混ざる　どんな一等星も",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "星座",
+              "reading": "せいざ"
+            },
+            {
+              "text": "になって　"
+            },
+            {
+              "text": "混",
+              "reading": "ま"
+            },
+            {
+              "text": "ざる　どんな"
+            },
+            {
+              "text": "一等星",
+              "reading": "いっとうせい"
+            },
+            {
+              "text": "も"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 38.661163,
+      "end": 41.727201,
+      "japanese": "あなたに　代わる　光度はないわ",
+      "zh-CN": "都无法拥有 替代你的光度",
+      "segments": [
+        {
+          "text": "あなたに　代わる　光度はないわ",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "あなたに　"
+            },
+            {
+              "text": "代",
+              "reading": "か"
+            },
+            {
+              "text": "わる　"
+            },
+            {
+              "text": "光度",
+              "reading": "こうど"
+            },
+            {
+              "text": "はないわ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 41.862158,
+      "end": 44.965185,
+      "japanese": "校舎の裏　あの日　あなた見つけた",
+      "zh-CN": "在校舍后方 那一天 找到了你",
+      "segments": [
+        {
+          "text": "校舎の裏　あの日　あなた見つけた",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "校舎",
+              "reading": "こうしゃ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "裏",
+              "reading": "うら"
+            },
+            {
+              "text": "　あの"
+            },
+            {
+              "text": "日",
+              "reading": "ひ"
+            },
+            {
+              "text": "　あなた"
+            },
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "つけた"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 44.965185,
+      "end": 47.88227,
+      "japanese": "奇跡さえ　今も　はなれない",
+      "zh-CN": "就连这份奇迹 至今也 紧随不离",
+      "segments": [
+        {
+          "text": "奇跡さえ　今も　はなれない",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "奇跡",
+              "reading": "きせき"
+            },
+            {
+              "text": "さえ　"
+            },
+            {
+              "text": "今",
+              "reading": "いま"
+            },
+            {
+              "text": "も　はなれない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 48.210167,
+      "end": 51.44915,
+      "japanese": "隣に　繁く　見える　冥王星も",
+      "zh-CN": "哪怕身旁 频频可辨的 冥王星",
+      "segments": [
+        {
+          "text": "隣に　繁く　見える　冥王星も",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "隣",
+              "reading": "となり"
+            },
+            {
+              "text": "に　"
+            },
+            {
+              "text": "繁",
+              "reading": "しげ"
+            },
+            {
+              "text": "く　"
+            },
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "える　"
+            },
+            {
+              "text": "冥王星",
+              "reading": "めいおうせい"
+            },
+            {
+              "text": "も"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 51.44915,
+      "end": 54.558175,
+      "japanese": "生憎、今は　興味がないわ",
+      "zh-CN": "也很遗憾 此刻我毫无兴趣",
+      "segments": [
+        {
+          "text": "生憎、今は　興味がないわ",
+          "performerIds": [
+            "歌唱者-16",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "生憎",
+              "reading": "あいにく"
+            },
+            {
+              "text": "、"
+            },
+            {
+              "text": "今",
+              "reading": "いま"
+            },
+            {
+              "text": "は　"
+            },
+            {
+              "text": "興味",
+              "reading": "きょうみ"
+            },
+            {
+              "text": "がないわ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 54.558175,
+      "end": 55.917748,
+      "japanese": "星が舞っちゃって",
+      "zh-CN": "群星翩然起舞",
+      "segments": [
+        {
+          "text": "星が舞っちゃって",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "星",
+              "reading": "ほし"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "舞",
+              "reading": "ま"
+            },
+            {
+              "text": "っちゃって"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 56.149676,
+      "end": 57.325307,
+      "japanese": "胸が鳴っちゃって",
+      "zh-CN": "胸口心跳轰鸣",
+      "segments": [
+        {
+          "text": "胸が鳴っちゃって",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "胸",
+              "reading": "むね"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "鳴",
+              "reading": "な"
+            },
+            {
+              "text": "っちゃって"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 57.325307,
+      "end": 60.358355,
+      "japanese": "気付けば彼方―――",
+      "zh-CN": "回过神已在彼方——",
+      "segments": [
+        {
+          "text": "気付けば彼方―――",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "気付",
+              "reading": "きず"
+            },
+            {
+              "text": "けば"
+            },
+            {
+              "text": "彼方",
+              "reading": "かなた"
+            },
+            {
+              "text": "―――"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 60.606277,
+      "end": 64.219144,
+      "japanese": "あの一等星のさんざめく光で",
+      "zh-CN": "伴着那一等星璀璨喧闹的光芒",
+      "segments": [
+        {
+          "text": "あの一等星のさんざめく",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "あの"
+            },
+            {
+              "text": "一等星",
+              "reading": "いっとうせい"
+            },
+            {
+              "text": "のさんざめく"
+            }
+          ]
+        },
+        {
+          "text": "光で",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-15",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "光",
+              "reading": "ひかり"
+            },
+            {
+              "text": "で"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 64.379093,
+      "end": 67.00227,
+      "japanese": "あなたとダンスを踊ろうか",
+      "zh-CN": "与你一同跳支舞吧",
+      "segments": [
+        {
+          "text": "あなたとダンスを踊ろうか",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "あなたとダンスを"
+            },
+            {
+              "text": "踊",
+              "reading": "おど"
+            },
+            {
+              "text": "ろうか"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 67.00227,
+      "end": 70.780085,
+      "japanese": "我が太陽系の法則に誘われ",
+      "zh-CN": "受到我们太阳系的法则引诱",
+      "segments": [
+        {
+          "text": "我が太陽系の法則に",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "我",
+              "reading": "わ"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "太陽系",
+              "reading": "たいようけい"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "法則",
+              "reading": "ほうそく"
+            },
+            {
+              "text": "に"
+            }
+          ]
+        },
+        {
+          "text": "誘われ",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-16",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "誘",
+              "reading": "さそ"
+            },
+            {
+              "text": "われ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 70.780085,
+      "end": 73.775145,
+      "japanese": "交わった感度で綺羅めいて、星ッ！",
+      "zh-CN": "以相交织的感度闪耀吧 群星！",
+      "segments": [
+        {
+          "text": "交わった感度で綺羅めいて、星ッ！",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "交",
+              "reading": "まじ"
+            },
+            {
+              "text": "わった"
+            },
+            {
+              "text": "感度",
+              "reading": "かんど"
+            },
+            {
+              "text": "で"
+            },
+            {
+              "text": "綺羅",
+              "reading": "きら"
+            },
+            {
+              "text": "めいて、"
+            },
+            {
+              "text": "星",
+              "reading": "せ"
+            },
+            {
+              "text": "ッ！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 73.775145,
+      "end": 76.972142,
+      "japanese": "オー・オ・オー！ 星間線を絆いで",
+      "zh-CN": "Oh-Oh-Oh！系紧星际连线",
+      "segments": [
+        {
+          "text": "オー・オ・オー！ ",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "オー・オ・オー！ "
+            }
+          ]
+        },
+        {
+          "text": "星間線を絆いで",
+          "performerIds": [
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "星間線",
+              "reading": "せいかんせん"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "絆",
+              "reading": "つな"
+            },
+            {
+              "text": "いで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 77.08,
+      "end": 80.0005,
+      "japanese": "オー・オ・オー！ あなたに届け",
+      "zh-CN": "Oh-Oh-Oh！传达给你",
+      "segments": [
+        {
+          "text": "オー・オ・オー！ ",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "オー・オ・オー！ "
+            }
+          ]
+        },
+        {
+          "text": "あなたに届け",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "あなたに"
+            },
+            {
+              "text": "届",
+              "reading": "とど"
+            },
+            {
+              "text": "け"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000024",
+      "order": 23,
+      "index": 23,
+      "start": 86.223932,
+      "end": 89.921772,
+      "japanese": "あの一等星の届かぬ光は",
+      "zh-CN": "那一等星未能触及的光芒",
+      "segments": [
+        {
+          "text": "あの一等星の届かぬ光は",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "あの"
+            },
+            {
+              "text": "一等星",
+              "reading": "いっとうせい"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "届",
+              "reading": "とど"
+            },
+            {
+              "text": "かぬ"
+            },
+            {
+              "text": "光",
+              "reading": "ひかり"
+            },
+            {
+              "text": "は"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000025",
+      "order": 24,
+      "index": 24,
+      "start": 89.921772,
+      "end": 92.560944,
+      "japanese": "遥かな彼方で綺羅めいた",
+      "zh-CN": "在遥远的彼方闪烁耀眼",
+      "segments": [
+        {
+          "text": "遥かな彼方で綺羅めいた",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "遥",
+              "reading": "はる"
+            },
+            {
+              "text": "かな"
+            },
+            {
+              "text": "彼方",
+              "reading": "かなた"
+            },
+            {
+              "text": "で"
+            },
+            {
+              "text": "綺羅",
+              "reading": "きら"
+            },
+            {
+              "text": "めいた"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000026",
+      "order": 25,
+      "index": 25,
+      "start": 92.560944,
+      "end": 96.328761,
+      "japanese": "我が太陽系の法則も外れて",
+      "zh-CN": "脱离了我们太阳系的法则",
+      "segments": [
+        {
+          "text": "我が太陽系の法則も外れて",
+          "performerIds": [
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "我",
+              "reading": "わ"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "太陽系",
+              "reading": "たいようけい"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "法則",
+              "reading": "ほうそく"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "外",
+              "reading": "はず"
+            },
+            {
+              "text": "れて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000027",
+      "order": 26,
+      "index": 26,
+      "start": 96.328761,
+      "end": 99.036912,
+      "japanese": "「それでもいいさ」手をのばして！",
+      "zh-CN": "说着「纵然如此也无所谓」伸出双手吧！",
+      "segments": [
+        {
+          "text": "「それでもいいさ」",
+          "performerIds": [
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "「それでもいいさ」"
+            }
+          ]
+        },
+        {
+          "text": "手をのばして！",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "手",
+              "reading": "て"
+            },
+            {
+              "text": "をのばして！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000028",
+      "order": 27,
+      "index": 27,
+      "start": 99.036912,
+      "end": 102.763742,
+      "japanese": "さあ、幾星霜と宿した想いで",
+      "zh-CN": "来吧 带着历经无数岁月的思绪",
+      "segments": [
+        {
+          "text": "さあ、幾星霜と宿した想いで",
+          "performerIds": [
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "さあ、"
+            },
+            {
+              "text": "幾星霜",
+              "reading": "いくせいそ"
+            },
+            {
+              "text": "と"
+            },
+            {
+              "text": "宿",
+              "reading": "やど"
+            },
+            {
+              "text": "した"
+            },
+            {
+              "text": "想",
+              "reading": "おも"
+            },
+            {
+              "text": "いで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000029",
+      "order": 28,
+      "index": 28,
+      "start": 102.763742,
+      "end": 105.402914,
+      "japanese": "あなたの全て求めようか",
+      "zh-CN": "追寻属于你的一切吧",
+      "segments": [
+        {
+          "text": "あなたの全て求めようか",
+          "performerIds": [
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "あなたの"
+            },
+            {
+              "text": "全",
+              "reading": "すべ"
+            },
+            {
+              "text": "て"
+            },
+            {
+              "text": "求",
+              "reading": "もと"
+            },
+            {
+              "text": "めようか"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000030",
+      "order": 29,
+      "index": 29,
+      "start": 105.402914,
+      "end": 109.153737,
+      "japanese": "ねえ、何光年の広大な旅路で",
+      "zh-CN": "呐 沿着跨越数光年的浩瀚旅程",
+      "segments": [
+        {
+          "text": "ねえ、何光年の広大な旅路で",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ねえ、"
+            },
+            {
+              "text": "何光年",
+              "reading": "なんこうねん"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "広大",
+              "reading": "こうだい"
+            },
+            {
+              "text": "な"
+            },
+            {
+              "text": "旅路",
+              "reading": "たびじ"
+            },
+            {
+              "text": "で"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000031",
+      "order": 30,
+      "index": 30,
+      "start": 109.153737,
+      "end": 111.764918,
+      "japanese": "比翼の恋理を探そうか",
+      "zh-CN": "寻找比翼双飞的爱恋之理吧",
+      "segments": [
+        {
+          "text": "比翼の恋理を探そうか",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "比翼",
+              "reading": "ひょく"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "恋理",
+              "reading": "れんり"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "探",
+              "reading": "さが"
+            },
+            {
+              "text": "そうか"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000032",
+      "order": 31,
+      "index": 31,
+      "start": 111.764918,
+      "end": 115.506744,
+      "japanese": "あの一等星のさんざめく光で",
+      "zh-CN": "伴着那一等星璀璨喧闹的光芒",
+      "segments": [
+        {
+          "text": "あの一等星のさんざめく光で",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "あの"
+            },
+            {
+              "text": "一等星",
+              "reading": "いっとうせい"
+            },
+            {
+              "text": "のさんざめく"
+            },
+            {
+              "text": "光",
+              "reading": "ひかり"
+            },
+            {
+              "text": "で"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000033",
+      "order": 32,
+      "index": 32,
+      "start": 115.506744,
+      "end": 118.220892,
+      "japanese": "あなたとダンスを踊ろうか",
+      "zh-CN": "与你一同跳支舞吧",
+      "segments": [
+        {
+          "text": "あなたとダンスを踊ろうか",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "あなたとダンスを"
+            },
+            {
+              "text": "踊",
+              "reading": "おど"
+            },
+            {
+              "text": "ろうか"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000034",
+      "order": 33,
+      "index": 33,
+      "start": 118.220892,
+      "end": 121.979713,
+      "japanese": "ほら水金だって地火木土天海も",
+      "zh-CN": "瞧啊 水星金星也罢 地火木土天海诸星也是",
+      "segments": [
+        {
+          "text": "ほら水金だって地火木土天海も",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "ほら"
+            },
+            {
+              "text": "水金",
+              "reading": "すいきん"
+            },
+            {
+              "text": "だって"
+            },
+            {
+              "text": "地火木土天海",
+              "reading": "ちかもくどてんかい"
+            },
+            {
+              "text": "も"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000035",
+      "order": 34,
+      "index": 34,
+      "start": 121.979713,
+      "end": 125.010762,
+      "japanese": "ふたりの銀河で綺羅めいた、星ッ！",
+      "zh-CN": "在我们两人的银河中闪耀生辉 群星！",
+      "segments": [
+        {
+          "text": "ふたりの銀河で",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ふたりの"
+            },
+            {
+              "text": "銀河",
+              "reading": "ぎんが"
+            },
+            {
+              "text": "で"
+            }
+          ]
+        },
+        {
+          "text": "綺羅めいた、",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "綺羅",
+              "reading": "きら"
+            },
+            {
+              "text": "めいた、"
+            }
+          ]
+        },
+        {
+          "text": "星ッ！",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "星",
+              "reading": "せ"
+            },
+            {
+              "text": "ッ！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000036",
+      "order": 35,
+      "index": 35,
+      "start": 125.03975,
+      "end": 128.34675,
+      "japanese": "オー・オ・オー！星間線を絆いで",
+      "zh-CN": "Oh-Oh-Oh！系紧星际连线",
+      "segments": [
+        {
+          "text": "オー・オ・オー！星間線を絆いで",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "オー・オ・オー！"
+            },
+            {
+              "text": "星間線",
+              "reading": "せいかんせん"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "絆",
+              "reading": "つな"
+            },
+            {
+              "text": "いで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000037",
+      "order": 36,
+      "index": 36,
+      "start": 128.34675,
+      "end": 131.46275,
+      "japanese": "オー・オ・オー！あなたに届け",
+      "zh-CN": "Oh-Oh-Oh！传达给你",
+      "segments": [
+        {
+          "text": "オー・オ・オー！あなたに届け",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "オー・オ・オー！あなたに"
+            },
+            {
+              "text": "届",
+              "reading": "とど"
+            },
+            {
+              "text": "け"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000038",
+      "order": 37,
+      "index": 37,
+      "start": 131.46275,
+      "end": 134.71475,
+      "japanese": "オー・オ・オー！宇宙の果てから",
+      "zh-CN": "Oh-Oh-Oh！从宇宙的尽头",
+      "segments": [
+        {
+          "text": "オー・オ・オー！宇宙の果てから",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "オー・オ・オー！"
+            },
+            {
+              "text": "宇宙",
+              "reading": "うちゅう"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "果",
+              "reading": "は"
+            },
+            {
+              "text": "てから"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000039",
+      "order": 38,
+      "index": 38,
+      "start": 134.71475,
+      "end": 137.21775,
+      "japanese": "オー・オ・オー！あなた　侵光系！",
+      "zh-CN": "Oh-Oh-Oh！你正是 光辉侵略系！",
+      "segments": [
+        {
+          "text": "オー・オ・オー！あなた　侵光系！",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "オー・オ・オー！あなた　"
+            },
+            {
+              "text": "侵光系",
+              "reading": "しんこうけい"
+            },
+            {
+              "text": "！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000040",
+      "order": 39,
+      "index": 39,
+      "start": 139.315273,
+      "end": 142.522267,
+      "japanese": "ナナナーナナナーナナナー",
+      "zh-CN": "啦啦啦啦啦啦啦啦啦",
+      "segments": [
+        {
+          "text": "ナナナーナナナーナナナー",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ナナナーナナナーナナナー"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000041",
+      "order": 40,
+      "index": 40,
+      "start": 142.522267,
+      "end": 145.782736,
+      "japanese": "ナナナーナナナーナナナー",
+      "zh-CN": "啦啦啦啦啦啦啦啦啦",
+      "segments": [
+        {
+          "text": "ナナナーナナナーナナナー",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ナナナーナナナーナナナー"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000042",
+      "order": 41,
+      "index": 41,
+      "start": 146.22,
+      "end": 149.45,
+      "japanese": "フー",
+      "zh-CN": "呼",
+      "segments": [
+        {
+          "text": "フー",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "フー"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

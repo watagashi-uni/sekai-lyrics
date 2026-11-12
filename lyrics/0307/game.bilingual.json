@@ -1,0 +1,2129 @@
+{
+  "music_id": 307,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-22",
+      "name": "鏡音リン"
+    },
+    {
+      "performerId": "歌唱者-23",
+      "name": "鏡音レン"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 21.711439,
+      "end": 27.283691,
+      "japanese": "昔々のそのまた昔と",
+      "zh-CN": "很久很久以前的从前",
+      "segments": [
+        {
+          "text": "昔々のそのまた昔と",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "昔々",
+              "reading": "むかしむかし"
+            },
+            {
+              "text": "のそのまた"
+            },
+            {
+              "text": "昔",
+              "reading": "むかし"
+            },
+            {
+              "text": "と"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 21.711439,
+      "end": 27.283691,
+      "japanese": "ある貴族の仲良しな兄弟",
+      "zh-CN": "某贵族家关系融洽的兄弟俩",
+      "segments": [
+        {
+          "text": "ある貴族の仲良しな兄弟",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "ある"
+            },
+            {
+              "text": "貴族",
+              "reading": "きぞく"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "仲良",
+              "reading": "なかよ"
+            },
+            {
+              "text": "しな"
+            },
+            {
+              "text": "兄弟",
+              "reading": "きょうだい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 27.281,
+      "end": 31.931,
+      "japanese": "ry 「ちゃんとやれ！」",
+      "zh-CN": "略「给我认真点！」",
+      "segments": [
+        {
+          "text": "ry ",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "ry "
+            }
+          ]
+        },
+        {
+          "text": "「ちゃんとやれ！」",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "「ちゃんとやれ！」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 32.115966,
+      "end": 35.272723,
+      "japanese": "じいやが呼ぶ　席につけ よーいどん！",
+      "zh-CN": "管家在呼唤 入座 就位预备跑！",
+      "segments": [
+        {
+          "text": "じいやが呼ぶ　席につけ ",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "じいやが"
+            },
+            {
+              "text": "呼",
+              "reading": "よ"
+            },
+            {
+              "text": "ぶ　"
+            },
+            {
+              "text": "席",
+              "reading": "せき"
+            },
+            {
+              "text": "につけ "
+            }
+          ]
+        },
+        {
+          "text": "よーいどん！",
+          "performerIds": [
+            "歌唱者-22",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "よーいどん！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 35.272723,
+      "end": 37.844154,
+      "japanese": "ナイフとフォークで応戦いたしますの",
+      "zh-CN": "用刀叉来应战应付呢",
+      "segments": [
+        {
+          "text": "ナイフとフォークで応戦いたしますの",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "ナイフとフォークで"
+            },
+            {
+              "text": "応戦",
+              "reading": "おうせん"
+            },
+            {
+              "text": "いたしますの"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 38.027256,
+      "end": 43.78446,
+      "japanese": "だって僕らはブルジョアの",
+      "zh-CN": "毕竟我们可是资产阶级的",
+      "segments": [
+        {
+          "text": "だって僕らはブルジョアの",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "だって"
+            },
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "らはブルジョアの"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 38.027256,
+      "end": 43.78446,
+      "japanese": "立派な立派な貴族様なんですですの",
+      "zh-CN": "了不起的了不起的贵族大人是也的说",
+      "segments": [
+        {
+          "text": "立派な立派な貴族様なんですですの",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "立派",
+              "reading": "りっぱ"
+            },
+            {
+              "text": "な"
+            },
+            {
+              "text": "立派",
+              "reading": "りっぱ"
+            },
+            {
+              "text": "な"
+            },
+            {
+              "text": "貴族様",
+              "reading": "きぞくさま"
+            },
+            {
+              "text": "なんですですの"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 43.78446,
+      "end": 46.349887,
+      "japanese": "ひれ伏せ愚民　君との違いを　",
+      "zh-CN": "跪下吧愚民 让你见识一下",
+      "segments": [
+        {
+          "text": "ひれ伏せ愚民　君との違いを　",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "ひれ"
+            },
+            {
+              "text": "伏",
+              "reading": "ふ"
+            },
+            {
+              "text": "せ"
+            },
+            {
+              "text": "愚民",
+              "reading": "ぐみん"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "との"
+            },
+            {
+              "text": "違",
+              "reading": "ちが"
+            },
+            {
+              "text": "いを　"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 46.501972,
+      "end": 48.767233,
+      "japanese": "ヴァイヴァイスロイ　見せてやるぜ",
+      "zh-CN": "贵族总督与你的天壤之别",
+      "segments": [
+        {
+          "text": "ヴァイヴァイスロイ　見せてやるぜ",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "ヴァイヴァイスロイ　"
+            },
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "せてやるぜ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 48.767233,
+      "end": 54.309317,
+      "japanese": "おいまてまて",
+      "zh-CN": "喂等下等下",
+      "segments": [
+        {
+          "text": "おいまてまて",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "おいまてまて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 48.767233,
+      "end": 54.309317,
+      "japanese": "また勝手にそんな見抜",
+      "zh-CN": "又自作主张耍这种",
+      "segments": [
+        {
+          "text": "また勝手にそんな見抜",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "また"
+            },
+            {
+              "text": "勝手",
+              "reading": "かって"
+            },
+            {
+              "text": "にそんな"
+            },
+            {
+              "text": "見抜",
+              "reading": "みぬ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 48.767233,
+      "end": 54.309317,
+      "japanese": "けるようなハッタリかまして",
+      "zh-CN": "一眼就能看穿的唬人把戏",
+      "segments": [
+        {
+          "text": "けるようなハッタリかまして",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "けるようなハッタリかまして"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 54.509428,
+      "end": 56.544561,
+      "japanese": "はーいはーいはいはい",
+      "zh-CN": "嗨——嗨——好的好的",
+      "segments": [
+        {
+          "text": "はーいはーいはいはい",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "はーいはーいはいはい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 56.544561,
+      "end": 59.253068,
+      "japanese": "お兄様の仰せのままに（笑）",
+      "zh-CN": "全凭兄长大人吩咐（笑）",
+      "segments": [
+        {
+          "text": "お兄様の仰せのままに（笑）",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "お"
+            },
+            {
+              "text": "兄様",
+              "reading": "にいさま"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "仰",
+              "reading": "おお"
+            },
+            {
+              "text": "せのままに（"
+            },
+            {
+              "text": "笑",
+              "reading": "に"
+            },
+            {
+              "text": "）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 59.965464,
+      "end": 62.438841,
+      "japanese": "あﾞーむかつくぜ！まーぢむかつくぜ！",
+      "zh-CN": "啊——真火大！超级无敌火大！",
+      "segments": [
+        {
+          "text": "あﾞーむかつくぜ！まーぢむかつくぜ！",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "あﾞーむかつくぜ！まーぢむかつくぜ！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 62.606934,
+      "end": 65.477532,
+      "japanese": "兄に対して生意気な態度",
+      "zh-CN": "对着兄长如此嚣张不敬的态度",
+      "segments": [
+        {
+          "text": "兄に対して生意気な態度",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "兄",
+              "reading": "あに"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "対",
+              "reading": "たい"
+            },
+            {
+              "text": "して"
+            },
+            {
+              "text": "生意気",
+              "reading": "なまいき"
+            },
+            {
+              "text": "な"
+            },
+            {
+              "text": "態度",
+              "reading": "たいど"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 65.477532,
+      "end": 68.037956,
+      "japanese": "閧の声　ゴングを鳴らせ",
+      "zh-CN": "呐喊助威 敲响战锣",
+      "segments": [
+        {
+          "text": "閧の声　ゴングを鳴らせ",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "閧",
+              "reading": "とき"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "声",
+              "reading": "こえ"
+            },
+            {
+              "text": "　ゴングを"
+            },
+            {
+              "text": "鳴",
+              "reading": "な"
+            },
+            {
+              "text": "らせ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 68.037956,
+      "end": 70.759471,
+      "japanese": "ケンカ勃発で宣戦布告",
+      "zh-CN": "争吵爆发 宣战布告",
+      "segments": [
+        {
+          "text": "ケンカ勃発で宣戦布告",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "ケンカ"
+            },
+            {
+              "text": "勃発",
+              "reading": "ぼっぱつ"
+            },
+            {
+              "text": "で"
+            },
+            {
+              "text": "宣戦布告",
+              "reading": "せんせんふこく"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 70.926564,
+      "end": 73.335905,
+      "japanese": "悪戯して悪ノリして",
+      "zh-CN": "搞恶作剧 跟着瞎起哄",
+      "segments": [
+        {
+          "text": "悪戯して悪ノリして",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "悪戯",
+              "reading": "いたずら"
+            },
+            {
+              "text": "して"
+            },
+            {
+              "text": "悪",
+              "reading": "わる"
+            },
+            {
+              "text": "ノリして"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 73.528012,
+      "end": 76.434629,
+      "japanese": "ほらほら煽ってく Style で",
+      "zh-CN": "看吧看吧 用嘲讽拉仇恨的 Style",
+      "segments": [
+        {
+          "text": "ほらほら煽ってく Style で",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "ほらほら"
+            },
+            {
+              "text": "煽",
+              "reading": "あお"
+            },
+            {
+              "text": "ってく Style で"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 76.434629,
+      "end": 79.030073,
+      "japanese": "“大安売り” 買っちゃったら",
+      "zh-CN": "谁要是买账了“跳楼大甩卖”",
+      "segments": [
+        {
+          "text": "“大安売り” 買っちゃったら",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "“"
+            },
+            {
+              "text": "大安売",
+              "reading": "おおやすう"
+            },
+            {
+              "text": "り” "
+            },
+            {
+              "text": "買",
+              "reading": "か"
+            },
+            {
+              "text": "っちゃったら"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 79.030073,
+      "end": 81.511454,
+      "japanese": "毎度ありがとうで君の負け！",
+      "zh-CN": "多谢惠顾就算你输！",
+      "segments": [
+        {
+          "text": "毎度ありがとうで君の負け！",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "毎度",
+              "reading": "まいど"
+            },
+            {
+              "text": "ありがとうで"
+            },
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "負",
+              "reading": "ま"
+            },
+            {
+              "text": "け！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000023",
+      "order": 22,
+      "index": 22,
+      "start": 81.511454,
+      "end": 82.213845,
+      "japanese": "（っしゃぁ！）",
+      "zh-CN": "（好耶！）",
+      "segments": [
+        {
+          "text": "（っしゃぁ！）",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "（っしゃぁ！）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000024",
+      "order": 23,
+      "index": 23,
+      "start": 87.53275,
+      "end": 90.33275,
+      "japanese": "だけどキミだけが ",
+      "zh-CN": "但唯有你才是",
+      "segments": [
+        {
+          "text": "だけどキミだけが ",
+          "performerIds": [
+            "歌唱者-22",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "だけどキミだけが "
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000025",
+      "order": 24,
+      "index": 24,
+      "start": 90.215631,
+      "end": 93.05321,
+      "japanese": "（せいっやあっとおっやあっうっうっやあっはっ",
+      "zh-CN": "（喝！呀！哼！呀！呜！呜！呀！哈！",
+      "segments": [
+        {
+          "text": "（せいっ",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "（せいっ"
+            }
+          ]
+        },
+        {
+          "text": "やあっ",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "やあっ"
+            }
+          ]
+        },
+        {
+          "text": "とおっ",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "とおっ"
+            }
+          ]
+        },
+        {
+          "text": "やあっ",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "やあっ"
+            }
+          ]
+        },
+        {
+          "text": "うっ",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "うっ"
+            }
+          ]
+        },
+        {
+          "text": "うっ",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "うっ"
+            }
+          ]
+        },
+        {
+          "text": "やあっ",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "やあっ"
+            }
+          ]
+        },
+        {
+          "text": "はっ",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "はっ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000026",
+      "order": 25,
+      "index": 25,
+      "start": 93.05321,
+      "end": 95.750711,
+      "japanese": "ボクに似合いのライバル ",
+      "zh-CN": "最配得上我的宿敌对手",
+      "segments": [
+        {
+          "text": "ボクに似合いのライバル ",
+          "performerIds": [
+            "歌唱者-22",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "ボクに"
+            },
+            {
+              "text": "似合",
+              "reading": "にあ"
+            },
+            {
+              "text": "いのライバル "
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000027",
+      "order": 26,
+      "index": 26,
+      "start": 95.750711,
+      "end": 98.51725,
+      "japanese": "（せいっやあっとおっやあっうっとおっやあっはっ）",
+      "zh-CN": "（喝！呀！哼！呀！呜！哼！呀！哈！）",
+      "segments": [
+        {
+          "text": "（せいっ",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "（せいっ"
+            }
+          ]
+        },
+        {
+          "text": "やあっ",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "やあっ"
+            }
+          ]
+        },
+        {
+          "text": "とおっ",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "とおっ"
+            }
+          ]
+        },
+        {
+          "text": "やあっ",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "やあっ"
+            }
+          ]
+        },
+        {
+          "text": "うっ",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "うっ"
+            }
+          ]
+        },
+        {
+          "text": "とおっ",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "とおっ"
+            }
+          ]
+        },
+        {
+          "text": "やあっ",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "やあっ"
+            }
+          ]
+        },
+        {
+          "text": "はっ）",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "はっ）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000028",
+      "order": 27,
+      "index": 27,
+      "start": 98.51725,
+      "end": 101.261778,
+      "japanese": "オチるのも凹んでんのも",
+      "zh-CN": "无论是气馁还是失落",
+      "segments": [
+        {
+          "text": "オチるのも凹んでんのも",
+          "performerIds": [
+            "歌唱者-22",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "オチるのも"
+            },
+            {
+              "text": "凹",
+              "reading": "へこ"
+            },
+            {
+              "text": "んでんのも"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000029",
+      "order": 28,
+      "index": 28,
+      "start": 101.261778,
+      "end": 103.615087,
+      "japanese": "（うっはっせいっやあっやぁっせいっはっ）",
+      "zh-CN": "（呜！哈！喝！呀！呀！喝！哈！）",
+      "segments": [
+        {
+          "text": "（うっ",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "（うっ"
+            }
+          ]
+        },
+        {
+          "text": "はっ",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "はっ"
+            }
+          ]
+        },
+        {
+          "text": "せいっ",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "せいっ"
+            }
+          ]
+        },
+        {
+          "text": "やあっ",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "やあっ"
+            }
+          ]
+        },
+        {
+          "text": "やぁっ",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "やぁっ"
+            }
+          ]
+        },
+        {
+          "text": "せいっ",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "せいっ"
+            }
+          ]
+        },
+        {
+          "text": "はっ）",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "はっ）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000030",
+      "order": 29,
+      "index": 29,
+      "start": 103.615087,
+      "end": 106.640771,
+      "japanese": "調子狂わされるから ",
+      "zh-CN": "都会被打乱节奏",
+      "segments": [
+        {
+          "text": "調子狂わされるから ",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "調子狂",
+              "reading": "ちょうしくる"
+            },
+            {
+              "text": "わされるから "
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000031",
+      "order": 30,
+      "index": 30,
+      "start": 106.640771,
+      "end": 109.426321,
+      "japanese": "今宵もてめーとやいやいやいやい",
+      "zh-CN": "今晚也要和你吵吵闹闹",
+      "segments": [
+        {
+          "text": "今宵もてめーとやいやいやいやい",
+          "performerIds": [
+            "歌唱者-22",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "今宵",
+              "reading": "こよい"
+            },
+            {
+              "text": "もてめーとやいやいやいやい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 31,
+      "start": 109.5425,
+      "end": 111.4175,
+      "japanese": "「大体兄様がいつもそうやってナヨナヨしてるから」‎ ‎ /‎ ‎「お前がいつも一人で暴走するから」 ",
+      "zh-CN": "「说到底都是因为兄长总那么软弱无能」 / 「还不是因为你总是一个人暴走」",
+      "segments": [
+        {
+          "text": "「大体兄様がいつもそうやってナヨナヨしてるから」",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "「"
+            },
+            {
+              "text": "大体",
+              "reading": "だいたい"
+            },
+            {
+              "text": "兄",
+              "reading": "けい"
+            },
+            {
+              "text": "様",
+              "reading": "さま"
+            },
+            {
+              "text": "がいつもそうやってナヨナヨしてるから」"
+            }
+          ]
+        },
+        {
+          "text": "‎ ‎ /‎ ‎",
+          "performerIds": [],
+          "ruby": [
+            {
+              "text": "‎ ‎ /‎ ‎"
+            }
+          ]
+        },
+        {
+          "text": "「お前がいつも一人で暴走するから」 ",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "「お"
+            },
+            {
+              "text": "前",
+              "reading": "まえ"
+            },
+            {
+              "text": "がいつも"
+            },
+            {
+              "text": "一",
+              "reading": "いち"
+            },
+            {
+              "text": "人",
+              "reading": "にん"
+            },
+            {
+              "text": "で"
+            },
+            {
+              "text": "暴走",
+              "reading": "ぼうそう"
+            },
+            {
+              "text": "するから」 "
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 32,
+      "start": 111.4075,
+      "end": 113.3875,
+      "japanese": "「僕が兄様の分まで積極的になってやってるんだよ」‎ ‎ /‎ ‎「オレが尻拭いせざるを得なくなるんだろうが」",
+      "zh-CN": "「我才替兄长的那份主动积极起来的啊」 / 「害得我还不得不去给你收拾烂摊子吧」",
+      "segments": [
+        {
+          "text": "「僕が兄様の分まで積極的になってやってるんだよ」",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "「"
+            },
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "兄",
+              "reading": "あに"
+            },
+            {
+              "text": "様",
+              "reading": "さま"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "分",
+              "reading": "ぶん"
+            },
+            {
+              "text": "まで"
+            },
+            {
+              "text": "積極",
+              "reading": "せっきょく"
+            },
+            {
+              "text": "的",
+              "reading": "てき"
+            },
+            {
+              "text": "になってやってるんだよ」"
+            }
+          ]
+        },
+        {
+          "text": "‎ ‎ /‎ ‎",
+          "performerIds": [],
+          "ruby": [
+            {
+              "text": "‎ ‎ /‎ ‎"
+            }
+          ]
+        },
+        {
+          "text": "「オレが尻拭いせざるを得なくなるんだろうが」",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "「オレが"
+            },
+            {
+              "text": "尻拭",
+              "reading": "しりぬぐ"
+            },
+            {
+              "text": "いせざるを"
+            },
+            {
+              "text": "得",
+              "reading": "え"
+            },
+            {
+              "text": "なくなるんだろうが」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 33,
+      "start": 113.3675,
+      "end": 114.4875,
+      "japanese": "「あとオレは別にヘタレじゃない」‎ ‎ /‎ ‎「もう少し感謝してほしいね」",
+      "zh-CN": "「还有我才不是窝囊废」 / 「希望你能稍微多感谢我一点」",
+      "segments": [
+        {
+          "text": "「あとオレは別にヘタレじゃない」",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "「あとオレは"
+            },
+            {
+              "text": "別",
+              "reading": "べつ"
+            },
+            {
+              "text": "にヘタレじゃない」"
+            }
+          ]
+        },
+        {
+          "text": "‎ ‎ /‎ ‎",
+          "performerIds": [],
+          "ruby": [
+            {
+              "text": "‎ ‎ /‎ ‎"
+            }
+          ]
+        },
+        {
+          "text": "「もう少し感謝してほしいね」",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "「もう"
+            },
+            {
+              "text": "少",
+              "reading": "すこ"
+            },
+            {
+              "text": "し"
+            },
+            {
+              "text": "感謝",
+              "reading": "かんしゃ"
+            },
+            {
+              "text": "してほしいね」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 34,
+      "start": 114.5875,
+      "end": 115.4875,
+      "japanese": "「慎重なだけだ-」‎ ‎ /‎ ‎「年上のくせに全然」",
+      "zh-CN": "「我只是比较谨慎而已——」 / 「明明年纪比较大却完全」",
+      "segments": [
+        {
+          "text": "「慎重なだけだ-」",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "「"
+            },
+            {
+              "text": "慎重",
+              "reading": "しんちょう"
+            },
+            {
+              "text": "なだけだ-」"
+            }
+          ]
+        },
+        {
+          "text": "‎ ‎ /‎ ‎",
+          "performerIds": [],
+          "ruby": [
+            {
+              "text": "‎ ‎ /‎ ‎"
+            }
+          ]
+        },
+        {
+          "text": "「年上のくせに全然」",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "「"
+            },
+            {
+              "text": "年上",
+              "reading": "としうえ"
+            },
+            {
+              "text": "のくせに"
+            },
+            {
+              "text": "全然",
+              "reading": "ぜんぜん"
+            },
+            {
+              "text": "」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 35,
+      "start": 115.4675,
+      "end": 118.6475,
+      "japanese": "「メイドたちも爺やも言ってたぞ」‎ ‎ ‎「頼りにならないお兄様」‎ ‎ /‎ ‎ ‎ ‎「ほんともう少し落ち着いてくれって」 ",
+      "zh-CN": "「女仆们和管家也说过哦」「靠不住的兄长大人」 / 「真的希望你能稍微沉稳冷静一点」",
+      "segments": [
+        {
+          "text": "「メイドたちも爺やも言ってたぞ」",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "「メイドたちも"
+            },
+            {
+              "text": "爺",
+              "reading": "じい"
+            },
+            {
+              "text": "やも"
+            },
+            {
+              "text": "言",
+              "reading": "い"
+            },
+            {
+              "text": "ってたぞ」"
+            }
+          ]
+        },
+        {
+          "text": "‎ ‎ ‎",
+          "performerIds": [],
+          "ruby": [
+            {
+              "text": "‎ ‎ ‎"
+            }
+          ]
+        },
+        {
+          "text": "「頼りにならないお兄様」",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "「"
+            },
+            {
+              "text": "頼",
+              "reading": "たよ"
+            },
+            {
+              "text": "りにならないお"
+            },
+            {
+              "text": "兄",
+              "reading": "あに"
+            },
+            {
+              "text": "様",
+              "reading": "さま"
+            },
+            {
+              "text": "」"
+            }
+          ]
+        },
+        {
+          "text": "‎ ‎ /‎ ‎ ‎ ‎",
+          "performerIds": [],
+          "ruby": [
+            {
+              "text": "‎ ‎ /‎ ‎ ‎ ‎"
+            }
+          ]
+        },
+        {
+          "text": "「ほんともう少し落ち着いてくれって」 ",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "「ほんともう"
+            },
+            {
+              "text": "少",
+              "reading": "すこ"
+            },
+            {
+              "text": "し"
+            },
+            {
+              "text": "落",
+              "reading": "お"
+            },
+            {
+              "text": "ち"
+            },
+            {
+              "text": "着",
+              "reading": "つ"
+            },
+            {
+              "text": "いてくれって」 "
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 36,
+      "start": 116.5875,
+      "end": 117.4275,
+      "japanese": "「とか名ばかりだよもう",
+      "zh-CN": "「根本名不副实啊真是的",
+      "segments": [
+        {
+          "text": "「とか名ばかりだよもう",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "「とか"
+            },
+            {
+              "text": "名",
+              "reading": "な"
+            },
+            {
+              "text": "ばかりだよもう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 37,
+      "start": 117.4575,
+      "end": 118.6875,
+      "japanese": "今日から僕が兄ねこれ決定！」",
+      "zh-CN": "从今天起我来当哥哥这事决定了！」",
+      "segments": [
+        {
+          "text": "今日から僕が兄ねこれ決定！」",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "今日",
+              "reading": "きょう"
+            },
+            {
+              "text": "から"
+            },
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "兄",
+              "reading": "あに"
+            },
+            {
+              "text": "ねこれ"
+            },
+            {
+              "text": "決定",
+              "reading": "けってい"
+            },
+            {
+              "text": "！」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 38,
+      "start": 118.6975,
+      "end": 120.2675,
+      "japanese": "「ハイ決定！」 / 「あﾞーもう！うるせぇ～」",
+      "zh-CN": "「好决定了！」 / 「啊——真是的！吵死了～」",
+      "segments": [
+        {
+          "text": "「ハイ決定！」 / ",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "「ハイ"
+            },
+            {
+              "text": "決定",
+              "reading": "けってい"
+            },
+            {
+              "text": "！」 / "
+            }
+          ]
+        },
+        {
+          "text": "「あﾞーもう！うるせぇ～」",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "「あﾞーもう！うるせぇ～」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000040",
+      "order": 39,
+      "index": 39,
+      "start": 124.50171,
+      "end": 126.929061,
+      "japanese": "あﾞーむかつくぜ！まーぢむかつくぜ！",
+      "zh-CN": "啊——真火大！超级无敌火大！",
+      "segments": [
+        {
+          "text": "あﾞーむかつくぜ！まーぢむかつくぜ！",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "あﾞーむかつくぜ！まーぢむかつくぜ！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000041",
+      "order": 40,
+      "index": 40,
+      "start": 127.105159,
+      "end": 129.80266,
+      "japanese": "憎まれ口はおくちをチャック",
+      "zh-CN": "惹人嫌的嘴碎给我闭上拉链",
+      "segments": [
+        {
+          "text": "憎まれ口はおくちをチャック",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "憎",
+              "reading": "にく"
+            },
+            {
+              "text": "まれ"
+            },
+            {
+              "text": "口",
+              "reading": "ぐち"
+            },
+            {
+              "text": "はおくちをチャック"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000042",
+      "order": 41,
+      "index": 41,
+      "start": 129.978758,
+      "end": 132.581206,
+      "japanese": "閧の声　ゴングを鳴らせ",
+      "zh-CN": "呐喊助威 敲响战锣",
+      "segments": [
+        {
+          "text": "閧の声　ゴングを鳴らせ",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "閧",
+              "reading": "とき"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "声",
+              "reading": "こえ"
+            },
+            {
+              "text": "　ゴングを"
+            },
+            {
+              "text": "鳴",
+              "reading": "な"
+            },
+            {
+              "text": "らせ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000043",
+      "order": 42,
+      "index": 42,
+      "start": 132.63275,
+      "end": 135.28275,
+      "japanese": "次世代エンペラーは この「俺だ！」「僕だ！」",
+      "zh-CN": "下一代的皇帝就是「本大爷！」「是我！」",
+      "segments": [
+        {
+          "text": "次世代エンペラーは この「俺だ！」",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "次世代",
+              "reading": "じせだい"
+            },
+            {
+              "text": "エンペラーは この「"
+            },
+            {
+              "text": "俺",
+              "reading": "おれ"
+            },
+            {
+              "text": "だ！」"
+            }
+          ]
+        },
+        {
+          "text": "「僕だ！」",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "「"
+            },
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "だ！」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000044",
+      "order": 43,
+      "index": 43,
+      "start": 135.69594,
+      "end": 137.865147,
+      "japanese": "悪戯して悪ノリして",
+      "zh-CN": "搞恶作剧 跟着瞎起哄",
+      "segments": [
+        {
+          "text": "悪戯して悪ノリして",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "悪戯",
+              "reading": "いたずら"
+            },
+            {
+              "text": "して"
+            },
+            {
+              "text": "悪",
+              "reading": "わる"
+            },
+            {
+              "text": "ノリして"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000045",
+      "order": 44,
+      "index": 44,
+      "start": 138.05025,
+      "end": 140.962871,
+      "japanese": "ほらほら煽ってく Style で",
+      "zh-CN": "看吧看吧 用嘲讽拉仇恨的 Style",
+      "segments": [
+        {
+          "text": "ほらほら煽ってく Style で",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "ほらほら"
+            },
+            {
+              "text": "煽",
+              "reading": "あお"
+            },
+            {
+              "text": "ってく Style で"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000046",
+      "order": 45,
+      "index": 45,
+      "start": 140.962871,
+      "end": 143.364207,
+      "japanese": "1から100 いただきます",
+      "zh-CN": "从1到100 通通笑纳",
+      "segments": [
+        {
+          "text": "1から100 いただきます",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "1から100 いただきます"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000047",
+      "order": 46,
+      "index": 46,
+      "start": 143.501368,
+      "end": 145.878196,
+      "japanese": "毎度ありがとうで君のm･･･ ",
+      "zh-CN": "多谢惠顾就算你……",
+      "segments": [
+        {
+          "text": "毎度ありがとうで君のm･･･ ",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "毎度",
+              "reading": "まいど"
+            },
+            {
+              "text": "ありがとうで"
+            },
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "のm･･･ "
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000048",
+      "order": 47,
+      "index": 47,
+      "start": 145.83275,
+      "end": 146.15138,
+      "japanese": "まさかの ひ、引き分け！？（えーっ）",
+      "zh-CN": "居然是 平、平局！？（诶——）",
+      "segments": [
+        {
+          "text": "まさかの ひ、引き分け！？（えーっ）",
+          "performerIds": [
+            "歌唱者-22",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "まさかの ひ、"
+            },
+            {
+              "text": "引",
+              "reading": "ひ"
+            },
+            {
+              "text": "き"
+            },
+            {
+              "text": "分",
+              "reading": "わ"
+            },
+            {
+              "text": "け！？（えーっ）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

@@ -1,0 +1,826 @@
+{
+  "music_id": 264,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-05",
+      "name": "花里みのり"
+    },
+    {
+      "performerId": "歌唱者-06",
+      "name": "桐谷遥"
+    },
+    {
+      "performerId": "歌唱者-07",
+      "name": "桃井愛莉"
+    },
+    {
+      "performerId": "歌唱者-08",
+      "name": "日野森雫"
+    },
+    {
+      "performerId": "歌唱者-24",
+      "name": "巡音ルカ"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 11.69525,
+      "end": 17.28525,
+      "japanese": "パラソルサイダー　ココロ重ね繋いだ",
+      "zh-CN": "遮阳伞苏打汽水 心灵重叠紧紧相系",
+      "segments": [
+        {
+          "text": "パラソルサイダー　ココロ重ね繋いだ",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "パラソルサイダー　ココロ"
+            },
+            {
+              "text": "重",
+              "reading": "かさ"
+            },
+            {
+              "text": "ね"
+            },
+            {
+              "text": "繋",
+              "reading": "つな"
+            },
+            {
+              "text": "いだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 17.28525,
+      "end": 22.18525,
+      "japanese": "SPLASH!　ハジけろ情熱のサイン",
+      "zh-CN": "SPLASH! 尽情迸发吧热情的信号",
+      "segments": [
+        {
+          "text": "SPLASH!　ハジけろ情熱のサイン",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "SPLASH!　ハジけろ"
+            },
+            {
+              "text": "情熱",
+              "reading": "じょうねつ"
+            },
+            {
+              "text": "のサイン"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 31.829424,
+      "end": 36.032557,
+      "japanese": "潮風にそっと耳を澄ませば",
+      "zh-CN": "侧耳静静倾听海风吹拂",
+      "segments": [
+        {
+          "text": "潮風にそっと耳を澄ませば",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "潮風",
+              "reading": "しおかぜ"
+            },
+            {
+              "text": "にそっと"
+            },
+            {
+              "text": "耳",
+              "reading": "みみ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "澄",
+              "reading": "す"
+            },
+            {
+              "text": "ませば"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 36.032557,
+      "end": 40.171688,
+      "japanese": "聴こえてくる　砂に踊る君のメロディー",
+      "zh-CN": "听到了 在沙滩上翩翩起舞的你的旋律",
+      "segments": [
+        {
+          "text": "聴こえてくる　砂に踊る君のメロディー",
+          "performerIds": [
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "聴",
+              "reading": "き"
+            },
+            {
+              "text": "こえてくる　"
+            },
+            {
+              "text": "砂",
+              "reading": "すな"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "踊",
+              "reading": "おど"
+            },
+            {
+              "text": "る"
+            },
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "のメロディー"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 40.171688,
+      "end": 41.849741,
+      "japanese": "隠せないビート",
+      "zh-CN": "藏匿不住的欢快节拍",
+      "segments": [
+        {
+          "text": "隠せないビート",
+          "performerIds": [
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "隠",
+              "reading": "かく"
+            },
+            {
+              "text": "せないビート"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 42.340756,
+      "end": 45.680862,
+      "japanese": "ハッピーな日差しを　狙っていこう",
+      "zh-CN": "瞄准这充满幸福的明媚阳光出发吧",
+      "segments": [
+        {
+          "text": "ハッピーな日差しを　狙っていこう",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "ハッピーな"
+            },
+            {
+              "text": "日差",
+              "reading": "ひざ"
+            },
+            {
+              "text": "しを　"
+            },
+            {
+              "text": "狙",
+              "reading": "ねら"
+            },
+            {
+              "text": "っていこう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 45.680862,
+      "end": 49.618986,
+      "japanese": "悩みごとさらわれちゃう　波の音",
+      "zh-CN": "连同烦恼心事一并卷走的海浪声",
+      "segments": [
+        {
+          "text": "悩みごとさらわれちゃう　波の音",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "悩",
+              "reading": "なや"
+            },
+            {
+              "text": "みごとさらわれちゃう　"
+            },
+            {
+              "text": "波",
+              "reading": "なみ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "音",
+              "reading": "おと"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 49.778991,
+      "end": 52.553079,
+      "japanese": "光っている　パールのように",
+      "zh-CN": "宛如璀璨珍珠般熠熠生辉",
+      "segments": [
+        {
+          "text": "光っている　",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "光",
+              "reading": "ひか"
+            },
+            {
+              "text": "っている　"
+            }
+          ]
+        },
+        {
+          "text": "パールのように",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "パールのように"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 52.553079,
+      "end": 53.301102,
+      "japanese": "（ワン・ツー！）",
+      "zh-CN": "（One・Two！）",
+      "segments": [
+        {
+          "text": "（ワン・ツー！）",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "（ワン・ツー！）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 53.301102,
+      "end": 58.61627,
+      "japanese": "おしえてサンゴ礁　上手な誘い方",
+      "zh-CN": "珊瑚礁请告诉我 巧妙的邀约方式",
+      "segments": [
+        {
+          "text": "おしえてサンゴ礁　上手な誘い方",
+          "performerIds": [
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "おしえてサンゴ"
+            },
+            {
+              "text": "礁",
+              "reading": "しょう"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "上手",
+              "reading": "じょうず"
+            },
+            {
+              "text": "な"
+            },
+            {
+              "text": "誘",
+              "reading": "さそ"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "方",
+              "reading": "かた"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 58.797276,
+      "end": 64.044441,
+      "japanese": "キラキラdays届けたい　輪になって",
+      "zh-CN": "想要将闪耀的日子传递出去 围成一个圆圈",
+      "segments": [
+        {
+          "text": "キ",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "キ"
+            }
+          ]
+        },
+        {
+          "text": "ラ",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "ラ"
+            }
+          ]
+        },
+        {
+          "text": "キラ",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "キラ"
+            }
+          ]
+        },
+        {
+          "text": "days",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "days"
+            }
+          ]
+        },
+        {
+          "text": "届けたい　",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "届",
+              "reading": "とど"
+            },
+            {
+              "text": "けたい　"
+            }
+          ]
+        },
+        {
+          "text": "輪になって",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "輪",
+              "reading": "わ"
+            },
+            {
+              "text": "になって"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 64.236448,
+      "end": 66.333514,
+      "japanese": "パラソルサイダー",
+      "zh-CN": "遮阳伞苏打汽水",
+      "segments": [
+        {
+          "text": "パラソルサイダー",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "パラソルサイダー"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 66.484519,
+      "end": 69.160603,
+      "japanese": "ココロ重ね　繋いだ",
+      "zh-CN": "心灵重叠 紧紧相系",
+      "segments": [
+        {
+          "text": "ココロ重ね　繋いだ",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "ココロ"
+            },
+            {
+              "text": "重",
+              "reading": "かさ"
+            },
+            {
+              "text": "ね　"
+            },
+            {
+              "text": "繋",
+              "reading": "つな"
+            },
+            {
+              "text": "いだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 69.160603,
+      "end": 72.063695,
+      "japanese": "ほら　もっと熱く　もっと高く",
+      "zh-CN": "瞧啊 更加炽热 更加高远",
+      "segments": [
+        {
+          "text": "ほら　もっと熱く　",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "ほら　もっと"
+            },
+            {
+              "text": "熱",
+              "reading": "あつ"
+            },
+            {
+              "text": "く　"
+            }
+          ]
+        },
+        {
+          "text": "もっと高く",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "もっと"
+            },
+            {
+              "text": "高",
+              "reading": "たか"
+            },
+            {
+              "text": "く"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 72.063695,
+      "end": 74.958786,
+      "japanese": "飛べそうな予感が急上昇！",
+      "zh-CN": "感觉能够飞翔的预感急速上升！",
+      "segments": [
+        {
+          "text": "飛べそうな予感が",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "飛",
+              "reading": "と"
+            },
+            {
+              "text": "べそうな"
+            },
+            {
+              "text": "予感",
+              "reading": "よかん"
+            },
+            {
+              "text": "が"
+            }
+          ]
+        },
+        {
+          "text": "急上昇！",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "急上昇",
+              "reading": "きゅうじょうしょう"
+            },
+            {
+              "text": "！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 75.158792,
+      "end": 77.371862,
+      "japanese": "パラソルサイダー",
+      "zh-CN": "遮阳伞苏打汽水",
+      "segments": [
+        {
+          "text": "パラソルサイダー",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "パラソルサイダー"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 77.371862,
+      "end": 80.115949,
+      "japanese": "なにも怖くはないな",
+      "zh-CN": "已经毫无任何畏惧啦",
+      "segments": [
+        {
+          "text": "なにも怖くはないな",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "なにも"
+            },
+            {
+              "text": "怖",
+              "reading": "こわ"
+            },
+            {
+              "text": "くはないな"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 80.267954,
+      "end": 82.758032,
+      "japanese": "motto!!（motto!!）ドキドキ",
+      "zh-CN": "motto!!（motto!!）心跳怦怦",
+      "segments": [
+        {
+          "text": "motto!!",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "motto!!"
+            }
+          ]
+        },
+        {
+          "text": "（motto!!）ドキドキ",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "（motto!!）ドキドキ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 82.86475,
+      "end": 88.643,
+      "japanese": "SPLASH!　ハジけろ情熱のサイン",
+      "zh-CN": "SPLASH! 尽情迸发吧热情的信号",
+      "segments": [
+        {
+          "text": "SPLASH!　ハジけろ",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "SPLASH!　ハジけろ"
+            }
+          ]
+        },
+        {
+          "text": "情熱のサイン",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "情熱",
+              "reading": "じょうねつ"
+            },
+            {
+              "text": "のサイン"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

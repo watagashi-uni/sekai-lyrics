@@ -1,0 +1,932 @@
+{
+  "music_id": 375,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-01",
+      "name": "星乃一歌"
+    },
+    {
+      "performerId": "歌唱者-02",
+      "name": "天馬咲希"
+    },
+    {
+      "performerId": "歌唱者-03",
+      "name": "望月穂波"
+    },
+    {
+      "performerId": "歌唱者-04",
+      "name": "日野森志歩"
+    },
+    {
+      "performerId": "歌唱者-26",
+      "name": "KAITO"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 16.941,
+      "end": 22.065,
+      "japanese": "すれ違いは　優しさ故に生まれてしまった",
+      "zh-CN": "彼此的错位 是出于体贴温柔而产生的呢",
+      "segments": [
+        {
+          "text": "すれ違いは　優しさ故に生まれてしまった",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "すれ"
+            },
+            {
+              "text": "違",
+              "reading": "ちが"
+            },
+            {
+              "text": "いは　"
+            },
+            {
+              "text": "優",
+              "reading": "やさ"
+            },
+            {
+              "text": "しさ"
+            },
+            {
+              "text": "故",
+              "reading": "ゆえ"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "生",
+              "reading": "う"
+            },
+            {
+              "text": "まれてしまった"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 22.065,
+      "end": 23.687,
+      "japanese": "それも今では　一つの思い出になったんだ　なぁ？",
+      "zh-CN": "如今那也已经 化作了回忆的一页 对吧？",
+      "segments": [
+        {
+          "text": "それも今では　一つの思い出になったんだ　なぁ？",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "それも"
+            },
+            {
+              "text": "今",
+              "reading": "いま"
+            },
+            {
+              "text": "では　"
+            },
+            {
+              "text": "一",
+              "reading": "ひと"
+            },
+            {
+              "text": "つの"
+            },
+            {
+              "text": "思",
+              "reading": "おも"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "出",
+              "reading": "で"
+            },
+            {
+              "text": "になったんだ　なぁ？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 28.039,
+      "end": 32.509,
+      "japanese": "君の夢の妨げには　なりたくなかった",
+      "zh-CN": "我不想成为 你实现梦想的阻碍",
+      "segments": [
+        {
+          "text": "君の夢の妨げには　なりたくなかった",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "夢",
+              "reading": "ゆめ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "妨",
+              "reading": "さまた"
+            },
+            {
+              "text": "げには　なりたくなかった"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 32.509,
+      "end": 33.64,
+      "japanese": "だから　同じ場所で　同じ目線で　未来描くことを選んだ",
+      "zh-CN": "所以 我选择了在同一个地方 以同样的视线 一同描摹未来",
+      "segments": [
+        {
+          "text": "だから　同じ場所で　同じ目線で　未来描くことを選んだ",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "だから　"
+            },
+            {
+              "text": "同",
+              "reading": "おな"
+            },
+            {
+              "text": "じ"
+            },
+            {
+              "text": "場所",
+              "reading": "ばしょ"
+            },
+            {
+              "text": "で　"
+            },
+            {
+              "text": "同",
+              "reading": "おな"
+            },
+            {
+              "text": "じ"
+            },
+            {
+              "text": "目線",
+              "reading": "めせん"
+            },
+            {
+              "text": "で　"
+            },
+            {
+              "text": "未来描",
+              "reading": "みらいえが"
+            },
+            {
+              "text": "くことを"
+            },
+            {
+              "text": "選",
+              "reading": "えら"
+            },
+            {
+              "text": "んだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 39.03,
+      "end": 45.184,
+      "japanese": "悩んだり　苦しんだり　喜んだり　褒め合ったりした",
+      "zh-CN": "苦恼过 痛苦过 欢喜过 彼此夸奖过",
+      "segments": [
+        {
+          "text": "悩んだり　苦しんだり　",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "悩",
+              "reading": "なや"
+            },
+            {
+              "text": "んだり　"
+            },
+            {
+              "text": "苦",
+              "reading": "くる"
+            },
+            {
+              "text": "しんだり　"
+            }
+          ]
+        },
+        {
+          "text": "喜んだり　褒め合ったりした",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "喜",
+              "reading": "よろこ"
+            },
+            {
+              "text": "んだり　"
+            },
+            {
+              "text": "褒",
+              "reading": "ほ"
+            },
+            {
+              "text": "め"
+            },
+            {
+              "text": "合",
+              "reading": "あ"
+            },
+            {
+              "text": "ったりした"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 45.302777,
+      "end": 51.587811,
+      "japanese": "その一つ一つが　たとえ闇の中でも",
+      "zh-CN": "那些点点滴滴 哪怕置身黑暗之中",
+      "segments": [
+        {
+          "text": "その一つ一つが　",
+          "performerIds": [
+            "歌唱者-03"
+          ],
+          "ruby": [
+            {
+              "text": "その"
+            },
+            {
+              "text": "一",
+              "reading": "ひと"
+            },
+            {
+              "text": "つ"
+            },
+            {
+              "text": "一",
+              "reading": "ひと"
+            },
+            {
+              "text": "つが　"
+            }
+          ]
+        },
+        {
+          "text": "たとえ闇の中でも",
+          "performerIds": [
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "たとえ"
+            },
+            {
+              "text": "闇",
+              "reading": "やみ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "中",
+              "reading": "なか"
+            },
+            {
+              "text": "でも"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 51.587811,
+      "end": 54.49229,
+      "japanese": "たしかに光るから",
+      "zh-CN": "也一定在确凿地闪闪发光",
+      "segments": [
+        {
+          "text": "たしかに光るから",
+          "performerIds": [
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "たしかに"
+            },
+            {
+              "text": "光",
+              "reading": "ひか"
+            },
+            {
+              "text": "るから"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 54.49229,
+      "end": 60.168224,
+      "japanese": "星を繋いで　進んでいた　大切なものが増えて",
+      "zh-CN": "连缀起颗颗繁星 步步前行 珍视的事物越来越多",
+      "segments": [
+        {
+          "text": "星を繋いで　進んでいた　大切なものが増えて",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "星",
+              "reading": "ほし"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "繋",
+              "reading": "つな"
+            },
+            {
+              "text": "いで　"
+            },
+            {
+              "text": "進",
+              "reading": "すす"
+            },
+            {
+              "text": "んでいた　"
+            },
+            {
+              "text": "大切",
+              "reading": "たいせつ"
+            },
+            {
+              "text": "なものが"
+            },
+            {
+              "text": "増",
+              "reading": "ふ"
+            },
+            {
+              "text": "えて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 60.22,
+      "end": 65.612,
+      "japanese": "振り返れば　すべて星座に　変わっていた (woah woah)",
+      "zh-CN": "蓦然回首 发现一切都已 化作了星座 (woah woah)",
+      "segments": [
+        {
+          "text": "振り返れば　すべて星座に　変わっていた ",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "振",
+              "reading": "ふ"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "返",
+              "reading": "かえ"
+            },
+            {
+              "text": "れば　すべて"
+            },
+            {
+              "text": "星座",
+              "reading": "せいざ"
+            },
+            {
+              "text": "に　"
+            },
+            {
+              "text": "変",
+              "reading": "か"
+            },
+            {
+              "text": "わっていた "
+            }
+          ]
+        },
+        {
+          "text": "(woah woah)",
+          "performerIds": [
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-04",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "(woah woah)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 65.561112,
+      "end": 69.322731,
+      "japanese": "そこに意味が宿って　名前をつけて",
+      "zh-CN": "其中宿存了意义 为其赋予名字",
+      "segments": [
+        {
+          "text": "そこに意味が宿って　名前をつけて",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "そこに"
+            },
+            {
+              "text": "意味",
+              "reading": "いみ"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "宿",
+              "reading": "やど"
+            },
+            {
+              "text": "って　"
+            },
+            {
+              "text": "名前",
+              "reading": "なまえ"
+            },
+            {
+              "text": "をつけて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 69.322731,
+      "end": 72.200205,
+      "japanese": "この日を　迎えられた理由は",
+      "zh-CN": "能够迎来 这一天的理由",
+      "segments": [
+        {
+          "text": "この日を　迎えられた理由は",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "この"
+            },
+            {
+              "text": "日",
+              "reading": "ひ"
+            },
+            {
+              "text": "を　"
+            },
+            {
+              "text": "迎",
+              "reading": "むか"
+            },
+            {
+              "text": "えられた"
+            },
+            {
+              "text": "理由",
+              "reading": "わけ"
+            },
+            {
+              "text": "は"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 72.200205,
+      "end": 77.778123,
+      "japanese": "今日を諦めず　晴れるのを待って　共鳴しながら　支え合ったから",
+      "zh-CN": "是因为从未放弃今天 等待放晴 彼此共鸣相互扶持",
+      "segments": [
+        {
+          "text": "今日を諦めず　",
+          "performerIds": [
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "今日",
+              "reading": "きょう"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "諦",
+              "reading": "あきら"
+            },
+            {
+              "text": "めず　"
+            }
+          ]
+        },
+        {
+          "text": "晴れるのを待って　",
+          "performerIds": [
+            "歌唱者-03"
+          ],
+          "ruby": [
+            {
+              "text": "晴",
+              "reading": "は"
+            },
+            {
+              "text": "れるのを"
+            },
+            {
+              "text": "待",
+              "reading": "ま"
+            },
+            {
+              "text": "って　"
+            }
+          ]
+        },
+        {
+          "text": "共鳴しながら　",
+          "performerIds": [
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "共鳴",
+              "reading": "きょうめい"
+            },
+            {
+              "text": "しながら　"
+            }
+          ]
+        },
+        {
+          "text": "支え合ったから",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "支",
+              "reading": "ささ"
+            },
+            {
+              "text": "え"
+            },
+            {
+              "text": "合",
+              "reading": "あ"
+            },
+            {
+              "text": "ったから"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 77.778123,
+      "end": 80.719607,
+      "japanese": "“私たちだから”　なんだよ",
+      "zh-CN": "是因为「这正是我们」啊",
+      "segments": [
+        {
+          "text": "“私たちだから”　なんだよ",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "“"
+            },
+            {
+              "text": "私",
+              "reading": "わたし"
+            },
+            {
+              "text": "たちだから”　なんだよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 81.1,
+      "end": 83.56,
+      "japanese": "(dudududu) (woah woah)",
+      "zh-CN": "(dudududu) (woah woah)",
+      "segments": [
+        {
+          "text": "(dudududu) (woah woah)",
+          "performerIds": [
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-04",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "(dudududu) (woah woah)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 83.683533,
+      "end": 87.219115,
+      "japanese": "同じ歩幅で踏み出す",
+      "zh-CN": "以相同的步伐迈步向前",
+      "segments": [
+        {
+          "text": "同じ歩幅で踏み出す",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "同",
+              "reading": "おな"
+            },
+            {
+              "text": "じ"
+            },
+            {
+              "text": "歩幅",
+              "reading": "ほはば"
+            },
+            {
+              "text": "で"
+            },
+            {
+              "text": "踏",
+              "reading": "ふ"
+            },
+            {
+              "text": "み"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "す"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 86.61,
+      "end": 89.08,
+      "japanese": "(dudududu) (woah woah)",
+      "zh-CN": "(dudududu) (woah woah)",
+      "segments": [
+        {
+          "text": "(dudududu) (woah woah)",
+          "performerIds": [
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-04",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "(dudududu) (woah woah)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 88.83138,
+      "end": 93.287114,
+      "japanese": "まだ　まだ　まだ　道の途中なんだ",
+      "zh-CN": "还 还 还在 前进的道路途中啊",
+      "segments": [
+        {
+          "text": "まだ　まだ　まだ　道の途中なんだ",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "まだ　まだ　まだ　"
+            },
+            {
+              "text": "道",
+              "reading": "みち"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "途中",
+              "reading": "とちゅう"
+            },
+            {
+              "text": "なんだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 94.89,
+      "end": 97.38,
+      "japanese": "(dudududu) (woah woah)",
+      "zh-CN": "(dudududu) (woah woah)",
+      "segments": [
+        {
+          "text": "(dudududu) (woah woah)",
+          "performerIds": [
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-04",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "(dudududu) (woah woah)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 100.41,
+      "end": 102.91,
+      "japanese": "(dudududu) (woah woah)",
+      "zh-CN": "(dudududu) (woah woah)",
+      "segments": [
+        {
+          "text": "(dudududu) (woah woah)",
+          "performerIds": [
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-04",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "(dudududu) (woah woah)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

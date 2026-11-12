@@ -1,0 +1,1351 @@
+{
+  "music_id": 300,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-17",
+      "name": "宵崎奏"
+    },
+    {
+      "performerId": "歌唱者-18",
+      "name": "朝比奈まふゆ"
+    },
+    {
+      "performerId": "歌唱者-19",
+      "name": "東雲絵名"
+    },
+    {
+      "performerId": "歌唱者-20",
+      "name": "暁山瑞希"
+    },
+    {
+      "performerId": "歌唱者-26",
+      "name": "KAITO"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 16.534659,
+      "end": 18.499299,
+      "japanese": "使い古した自分の名前に",
+      "zh-CN": "在用旧了的自己的名字上",
+      "segments": [
+        {
+          "text": "使い古した自分の名前に",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "使",
+              "reading": "つか"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "古",
+              "reading": "ふる"
+            },
+            {
+              "text": "した"
+            },
+            {
+              "text": "自分",
+              "reading": "じぶん"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "名前",
+              "reading": "なまえ"
+            },
+            {
+              "text": "に"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 18.499299,
+      "end": 20.534068,
+      "japanese": "あえてキッチュなルビを振って",
+      "zh-CN": "刻意注上粗俗蹩脚的读音",
+      "segments": [
+        {
+          "text": "あえてキッチュなルビを振って",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "あえてキッチュなルビを"
+            },
+            {
+              "text": "振",
+              "reading": "ふ"
+            },
+            {
+              "text": "って"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 20.534068,
+      "end": 22.529766,
+      "japanese": "高潔を打ち負かせるくらいに",
+      "zh-CN": "甚至足以将高洁彻底击溃",
+      "segments": [
+        {
+          "text": "高潔を打ち負かせるくらいに",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "高潔",
+              "reading": "こうけつ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "打",
+              "reading": "う"
+            },
+            {
+              "text": "ち"
+            },
+            {
+              "text": "負",
+              "reading": "ま"
+            },
+            {
+              "text": "かせるくらいに"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 22.529766,
+      "end": 24.579563,
+      "japanese": "恐ろしくなる　骨の髄まで",
+      "zh-CN": "令人毛骨悚然 深入骨髓",
+      "segments": [
+        {
+          "text": "恐ろしくなる　骨の髄まで",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "恐",
+              "reading": "おそ"
+            },
+            {
+              "text": "ろしくなる　"
+            },
+            {
+              "text": "骨",
+              "reading": "ほね"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "髄",
+              "reading": "ずい"
+            },
+            {
+              "text": "まで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 24.579563,
+      "end": 26.599305,
+      "japanese": "今はどんなふうに見えてますか？　",
+      "zh-CN": "此刻在你看上去是何种模样？",
+      "segments": [
+        {
+          "text": "今はどんなふうに見えてますか？　",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "今",
+              "reading": "いま"
+            },
+            {
+              "text": "はどんなふうに"
+            },
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "えてますか？　"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 26.599305,
+      "end": 28.5399,
+      "japanese": "醜いですか？　それはそっか",
+      "zh-CN": "很丑陋吗？ 原来如此啊",
+      "segments": [
+        {
+          "text": "醜いですか？　それはそっか",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "醜",
+              "reading": "みにく"
+            },
+            {
+              "text": "いですか？　それはそっか"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 28.5399,
+      "end": 30.475486,
+      "japanese": "どうか林檎を投げつけないで　",
+      "zh-CN": "请千万不要向我砸来苹果",
+      "segments": [
+        {
+          "text": "どうか林檎を投げつけないで　",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "どうか"
+            },
+            {
+              "text": "林檎",
+              "reading": "りんご"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "投",
+              "reading": "な"
+            },
+            {
+              "text": "げつけないで　"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 30.475486,
+      "end": 40.444955,
+      "japanese": "胸にLock up　Lock up　ザムザ",
+      "zh-CN": "在心中 Lock up Lock up 萨姆莎",
+      "segments": [
+        {
+          "text": "胸にLock up　Lock up　",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "胸",
+              "reading": "むね"
+            },
+            {
+              "text": "にLock up　Lock up　"
+            }
+          ]
+        },
+        {
+          "text": "ザムザ",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "ザムザ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 40.444955,
+      "end": 42.348481,
+      "japanese": "「鏡をご覧」誰かが囁く",
+      "zh-CN": "「照照镜子吧」不知谁在耳语",
+      "segments": [
+        {
+          "text": "「鏡をご覧」誰かが囁く",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "「"
+            },
+            {
+              "text": "鏡",
+              "reading": "かがみ"
+            },
+            {
+              "text": "をご"
+            },
+            {
+              "text": "覧",
+              "reading": "らん"
+            },
+            {
+              "text": "」"
+            },
+            {
+              "text": "誰",
+              "reading": "だれ"
+            },
+            {
+              "text": "かが"
+            },
+            {
+              "text": "囁",
+              "reading": "ささや"
+            },
+            {
+              "text": "く"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 42.348481,
+      "end": 44.347184,
+      "japanese": "うまくいったら儲けものさ",
+      "zh-CN": "若能顺利也是白赚一笔罢了",
+      "segments": [
+        {
+          "text": "うまくいったら儲けものさ",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "うまくいったら"
+            },
+            {
+              "text": "儲",
+              "reading": "もう"
+            },
+            {
+              "text": "けものさ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 44.347184,
+      "end": 46.30982,
+      "japanese": "甘い言葉も笑顔も通じない",
+      "zh-CN": "甜言蜜语或是笑容统统不管用",
+      "segments": [
+        {
+          "text": "甘い言葉も笑顔も通じない",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "甘",
+              "reading": "あま"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "言葉",
+              "reading": "ことば"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "笑顔",
+              "reading": "えがお"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "通",
+              "reading": "つう"
+            },
+            {
+              "text": "じない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 46.30982,
+      "end": 48.362623,
+      "japanese": "走り出したらもう獣だ",
+      "zh-CN": "一旦狂奔而出便已化身野兽",
+      "segments": [
+        {
+          "text": "走り出したらもう獣だ",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "走",
+              "reading": "はし"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "したらもう"
+            },
+            {
+              "text": "獣",
+              "reading": "けもの"
+            },
+            {
+              "text": "だ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 48.321,
+      "end": 52.592,
+      "japanese": "月の真下をうろつきながら考えてた　夜すがら",
+      "zh-CN": "在月光正下方徘徊游荡 思索了整整一夜",
+      "segments": [
+        {
+          "text": "月の真下をうろつきながら考えてた　夜すがら",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "月",
+              "reading": "つき"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "真下",
+              "reading": "ました"
+            },
+            {
+              "text": "をうろつきながら"
+            },
+            {
+              "text": "考",
+              "reading": "かんが"
+            },
+            {
+              "text": "えてた　"
+            },
+            {
+              "text": "夜",
+              "reading": "よ"
+            },
+            {
+              "text": "すがら"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 52.6,
+      "end": 55.662,
+      "japanese": "悪夢にどの指立ててやるべきかってね",
+      "zh-CN": "究竟该向恶梦竖起哪根手指呢",
+      "segments": [
+        {
+          "text": "悪夢にどの指立ててやるべきかってね",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "悪夢",
+              "reading": "あくむ"
+            },
+            {
+              "text": "にどの"
+            },
+            {
+              "text": "指立",
+              "reading": "ゆびた"
+            },
+            {
+              "text": "ててやるべきかってね"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 56.547261,
+      "end": 58.699279,
+      "japanese": "ズキズキズキ　『ズキズキズキ』",
+      "zh-CN": "隐隐作痛 『隐隐作痛』",
+      "segments": [
+        {
+          "text": "ズキズキズキ　",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "ズキズキズキ　"
+            }
+          ]
+        },
+        {
+          "text": "『ズキズキズキ』",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "『ズキズキズキ』"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 58.699279,
+      "end": 60.611296,
+      "japanese": "ズキンズキンズキン　『ズキンズキン』",
+      "zh-CN": "阵阵刺痛 『阵阵刺痛』",
+      "segments": [
+        {
+          "text": "ズキンズキンズキン　",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "ズキンズキンズキン　"
+            }
+          ]
+        },
+        {
+          "text": "『ズキンズキン』",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "『ズキンズキン』"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 60.611296,
+      "end": 62.716314,
+      "japanese": "ズキズキズキ　『ズキズキズキ』",
+      "zh-CN": "隐隐作痛 『隐隐作痛』",
+      "segments": [
+        {
+          "text": "ズキズキズキ　",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "ズキズキズキ　"
+            }
+          ]
+        },
+        {
+          "text": "『ズキズキズキ』",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "『ズキズキズキ』"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 62.716314,
+      "end": 64.581331,
+      "japanese": "ズキズキズキン 変われ",
+      "zh-CN": "隐隐阵痛 改变吧",
+      "segments": [
+        {
+          "text": "ズキズキズキン ",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "ズキズキズキン "
+            }
+          ]
+        },
+        {
+          "text": "変われ",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "変",
+              "reading": "か"
+            },
+            {
+              "text": "われ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 18,
+      "start": 64.581331,
+      "end": 66.539348,
+      "japanese": "『ズキズキズキズキズキ』",
+      "zh-CN": "『剧烈刺痛隐隐作痛』",
+      "segments": [
+        {
+          "text": "『ズキズキズキズキズキ』",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "『ズキズキズキズキズキ』"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 67.842359,
+      "end": 71.799393,
+      "japanese": "誰だって魂辛辛 ズキズキズキ",
+      "zh-CN": "无论谁都九死一生 隐隐作痛",
+      "segments": [
+        {
+          "text": "誰だって魂辛辛 ",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-19",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "誰",
+              "reading": "だれ"
+            },
+            {
+              "text": "だって"
+            },
+            {
+              "text": "魂辛辛",
+              "reading": "たましいからがら"
+            },
+            {
+              "text": " "
+            }
+          ]
+        },
+        {
+          "text": "ズキズキズキ",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "ズキズキズキ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 71.799393,
+      "end": 75.727427,
+      "japanese": "痛みと怒れる人を喰らったったらった",
+      "zh-CN": "吞噬了痛楚与愤怒之人 哒啦哒",
+      "segments": [
+        {
+          "text": "痛みと怒れる人を喰らったったらった",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-19",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "痛",
+              "reading": "いた"
+            },
+            {
+              "text": "みと"
+            },
+            {
+              "text": "怒",
+              "reading": "ラン"
+            },
+            {
+              "text": "れる"
+            },
+            {
+              "text": "人",
+              "reading": "グラー"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "喰",
+              "reading": "く"
+            },
+            {
+              "text": "らったったらった"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 75.733,
+      "end": 79.855,
+      "japanese": "だのに何故だろう今も ズキズキズキって",
+      "zh-CN": "即使如此为何如今依然 隐隐作痛",
+      "segments": [
+        {
+          "text": "だのに何故だろう今も ",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-20",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "だのに"
+            },
+            {
+              "text": "何故",
+              "reading": "なぜ"
+            },
+            {
+              "text": "だろう"
+            },
+            {
+              "text": "今",
+              "reading": "いま"
+            },
+            {
+              "text": "も "
+            }
+          ]
+        },
+        {
+          "text": "ズキズキズキって",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "ズキズキズキって"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000023",
+      "order": 22,
+      "index": 22,
+      "start": 79.855,
+      "end": 83.597,
+      "japanese": "林檎をかじるようにザザザムザ",
+      "zh-CN": "宛若啃食着苹果一般 萨萨萨姆莎",
+      "segments": [
+        {
+          "text": "林檎をかじるようにザザザムザ",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-20",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "林檎",
+              "reading": "りんご"
+            },
+            {
+              "text": "をかじるようにザザザムザ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000024",
+      "order": 23,
+      "index": 23,
+      "start": 83.597,
+      "end": 87.64,
+      "japanese": "どうしようもない成れの果てでもここにいる",
+      "zh-CN": "哪怕是无可救药的悲惨下场也依旧伫立在此",
+      "segments": [
+        {
+          "text": "どうしようもない成れの果てでもここにいる",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "どうしようもない"
+            },
+            {
+              "text": "成",
+              "reading": "な"
+            },
+            {
+              "text": "れの"
+            },
+            {
+              "text": "果",
+              "reading": "は"
+            },
+            {
+              "text": "てでもここにいる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000025",
+      "order": 24,
+      "index": 24,
+      "start": 88.245,
+      "end": 91.351,
+      "japanese": "シャガの花に毒されても",
+      "zh-CN": "纵使被射干花所荼毒",
+      "segments": [
+        {
+          "text": "シャガの花に毒されても",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "シャガの"
+            },
+            {
+              "text": "花",
+              "reading": "はな"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "毒",
+              "reading": "どく"
+            },
+            {
+              "text": "されても"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 25,
+      "start": 91.635428,
+      "end": 95.755464,
+      "japanese": "光は１時の方角にある",
+      "zh-CN": "光芒就在1点钟的方向",
+      "segments": [
+        {
+          "text": "光は１時の方角にある",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "光",
+              "reading": "ひかり"
+            },
+            {
+              "text": "は１"
+            },
+            {
+              "text": "時",
+              "reading": "じ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "方角",
+              "reading": "ほうがく"
+            },
+            {
+              "text": "にある"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000027",
+      "order": 26,
+      "index": 26,
+      "start": 95.902,
+      "end": 98.267,
+      "japanese": "今は尻尾を引き摺りゆけ",
+      "zh-CN": "此刻就拖拽着尾巴前行吧",
+      "segments": [
+        {
+          "text": "今は尻尾を引き摺りゆけ",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "今",
+              "reading": "いま"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "尻尾",
+              "reading": "しっぽ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "引",
+              "reading": "ひ"
+            },
+            {
+              "text": "き"
+            },
+            {
+              "text": "摺",
+              "reading": "ず"
+            },
+            {
+              "text": "りゆけ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000028",
+      "order": 27,
+      "index": 27,
+      "start": 97.981,
+      "end": 99.887,
+      "japanese": "ザザザザ　ザムザ",
+      "zh-CN": "萨萨萨萨 萨姆莎",
+      "segments": [
+        {
+          "text": "ザザザザ　ザムザ",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-18",
+            "歌唱者-19",
+            "歌唱者-20",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "ザザザザ　ザムザ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000029",
+      "order": 28,
+      "index": 28,
+      "start": 99.92,
+      "end": 103.96,
+      "japanese": "だから「現実はもういい」なんて云うなよザムザ",
+      "zh-CN": "所以别说什么「现实已经够了」啊 萨姆莎",
+      "segments": [
+        {
+          "text": "だから「現実はもういい」なんて云うなよザムザ",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "だから「"
+            },
+            {
+              "text": "現実",
+              "reading": "げんじつ"
+            },
+            {
+              "text": "はもういい」なんて"
+            },
+            {
+              "text": "云",
+              "reading": "い"
+            },
+            {
+              "text": "うなよザムザ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000030",
+      "order": 29,
+      "index": 29,
+      "start": 103.951,
+      "end": 105.074,
+      "japanese": "おーけー？",
+      "zh-CN": "OK？",
+      "segments": [
+        {
+          "text": "おーけー？",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "おーけー？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000031",
+      "order": 30,
+      "index": 30,
+      "start": 106.585,
+      "end": 107.329,
+      "japanese": "『ズキズキ』",
+      "zh-CN": "『隐隐作痛』",
+      "segments": [
+        {
+          "text": "『ズキズキ』",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "『ズキズキ』"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000032",
+      "order": 31,
+      "index": 31,
+      "start": 107.16,
+      "end": 108.76,
+      "japanese": "ザザザザ　ザムザ",
+      "zh-CN": "萨萨萨萨 萨姆莎",
+      "segments": [
+        {
+          "text": "ザザザザ　ザムザ",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "ザザザザ　ザムザ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 32,
+      "start": 108.442574,
+      "end": 115.166633,
+      "japanese": "『ズキズキ』『ズキズキズキ』",
+      "zh-CN": "『隐隐作痛』『隐隐作痛』",
+      "segments": [
+        {
+          "text": "『ズキズキ』",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "『ズキズキ』"
+            }
+          ]
+        },
+        {
+          "text": "『ズキズキズキ』",
+          "performerIds": [
+            "歌唱者-19",
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "『ズキズキズキ』"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "index": 33,
+      "start": 115.166633,
+      "end": 116.446644,
+      "japanese": "ザザザザ　ザムザ",
+      "zh-CN": "萨萨萨萨 萨姆莎",
+      "segments": [
+        {
+          "text": "ザザザザ　ザムザ",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "ザザザザ　ザムザ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 34,
+      "start": 116.446644,
+      "end": 119.052666,
+      "japanese": "『ズキズキズキ』",
+      "zh-CN": "『隐隐作痛』",
+      "segments": [
+        {
+          "text": "『ズキズキズキ』",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "『ズキズキズキ』"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 35,
+      "start": 120.052675,
+      "end": 120.468679,
+      "japanese": "ズキ",
+      "zh-CN": "隐痛",
+      "segments": [
+        {
+          "text": "ズキ",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "ズキ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

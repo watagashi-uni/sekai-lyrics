@@ -1,0 +1,1037 @@
+{
+  "music_id": 51,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-13",
+      "name": "天馬司"
+    },
+    {
+      "performerId": "歌唱者-14",
+      "name": "鳳えむ"
+    },
+    {
+      "performerId": "歌唱者-15",
+      "name": "草薙寧々"
+    },
+    {
+      "performerId": "歌唱者-16",
+      "name": "神代類"
+    },
+    {
+      "performerId": "歌唱者-21",
+      "name": "初音ミク"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 16.847,
+      "end": 24.465,
+      "japanese": "イッツショウタイム　Hey　Hey",
+      "zh-CN": "It's Showtime Hey Hey",
+      "segments": [
+        {
+          "text": "イッツショウタイム　Hey　Hey",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "イッツショウタイム　Hey　Hey"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 23.833,
+      "end": 26.426,
+      "japanese": "イッツショウタイム　Hey　Hey",
+      "zh-CN": "It's Showtime Hey Hey",
+      "segments": [
+        {
+          "text": "イッツショウタイム　Hey　Hey",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "イッツショウタイム　Hey　Hey"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 30.9335,
+      "end": 31.6055,
+      "japanese": "レッツゴー",
+      "zh-CN": "Let's Go",
+      "segments": [
+        {
+          "text": "レッツゴー",
+          "performerIds": [
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "レッツゴー"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 31.8215,
+      "end": 34.6025,
+      "japanese": "魔法使いのキャストも　",
+      "zh-CN": "无论是扮演魔法使的演员",
+      "segments": [
+        {
+          "text": "魔法使いのキャストも　",
+          "performerIds": [
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "魔法使",
+              "reading": "まほうつか"
+            },
+            {
+              "text": "いのキャストも　"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 35.2275,
+      "end": 38.5895,
+      "japanese": "トラウマ背負った怪物も",
+      "zh-CN": "还是背负着心理阴影的心灵怪物",
+      "segments": [
+        {
+          "text": "トラウマ背負った怪物も",
+          "performerIds": [
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "トラウマ"
+            },
+            {
+              "text": "背負",
+              "reading": "せお"
+            },
+            {
+              "text": "った"
+            },
+            {
+              "text": "怪物",
+              "reading": "かいぶつ"
+            },
+            {
+              "text": "も"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 38.7965,
+      "end": 44.8155,
+      "japanese": "いつかみんな　いなくなること知ってる",
+      "zh-CN": "我早就知道 总有一天大家都会不复存在",
+      "segments": [
+        {
+          "text": "いつかみんな　いなくなること知ってる",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "いつかみんな　いなくなること"
+            },
+            {
+              "text": "知",
+              "reading": "し"
+            },
+            {
+              "text": "ってる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 45.73,
+      "end": 49.034,
+      "japanese": "期限切れのチケット（チケット）　",
+      "zh-CN": "早已过期的入场券（门票）",
+      "segments": [
+        {
+          "text": "期限切れのチケット",
+          "performerIds": [
+            "歌唱者-16",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "期限切",
+              "reading": "きげんぎ"
+            },
+            {
+              "text": "れのチケット"
+            }
+          ]
+        },
+        {
+          "text": "（チケット）　",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "（チケット）　"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 49.1805,
+      "end": 52.4965,
+      "japanese": "経年劣化するハートビート",
+      "zh-CN": "随岁月老化的心跳脉搏",
+      "segments": [
+        {
+          "text": "経年劣化する",
+          "performerIds": [
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "経年劣化",
+              "reading": "けいねんれっか"
+            },
+            {
+              "text": "する"
+            }
+          ]
+        },
+        {
+          "text": "ハートビート",
+          "performerIds": [
+            "歌唱者-16",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ハートビート"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 52.681,
+      "end": 56.049,
+      "japanese": "「来年、また来ようね」って（来ようねって）　",
+      "zh-CN": "说着「明年还要再来哦」（还要再来哦）",
+      "segments": [
+        {
+          "text": "「来年、また来ようね」って",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "「"
+            },
+            {
+              "text": "来年",
+              "reading": "らいねん"
+            },
+            {
+              "text": "、また"
+            },
+            {
+              "text": "来",
+              "reading": "こ"
+            },
+            {
+              "text": "ようね」って"
+            }
+          ]
+        },
+        {
+          "text": "（来ようねって）　",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "（"
+            },
+            {
+              "text": "来",
+              "reading": "こ"
+            },
+            {
+              "text": "ようねって）　"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 56.1525,
+      "end": 58.6135,
+      "japanese": "約束を果たせずに",
+      "zh-CN": "这个约定却始终未能兑现",
+      "segments": [
+        {
+          "text": "約束を果たせずに",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "約束",
+              "reading": "やくそく"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "果",
+              "reading": "は"
+            },
+            {
+              "text": "たせずに"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 58.8485,
+      "end": 60.8585,
+      "japanese": "もうダメかも　ダメかも",
+      "zh-CN": "感觉已经不行了 不行了吧",
+      "segments": [
+        {
+          "text": "もうダメかも　",
+          "performerIds": [
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "もうダメかも　"
+            }
+          ]
+        },
+        {
+          "text": "ダメかも",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ダメかも"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 60.8585,
+      "end": 62.8085,
+      "japanese": "それハウマッチ？　ハウマッチ？",
+      "zh-CN": "那要多少钱？ 到底多少钱？",
+      "segments": [
+        {
+          "text": "それハウマッチ？　",
+          "performerIds": [
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "それハウマッチ？　"
+            }
+          ]
+        },
+        {
+          "text": "ハウマッチ？",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ハウマッチ？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 62.8085,
+      "end": 66.5015,
+      "japanese": "ノイズばっか　ノイズばっか増える",
+      "zh-CN": "唯独杂音 唯独杂音不断增多",
+      "segments": [
+        {
+          "text": "ノイズばっか　",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "ノイズばっか　"
+            }
+          ]
+        },
+        {
+          "text": "ノイズばっか増える",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ノイズばっか"
+            },
+            {
+              "text": "増",
+              "reading": "ふ"
+            },
+            {
+              "text": "える"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 66.7095,
+      "end": 69.2465,
+      "japanese": "素直に感動したいよ　",
+      "zh-CN": "好想坦率地去感动一场啊",
+      "segments": [
+        {
+          "text": "素直に感動したいよ　",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "素直",
+              "reading": "すなお"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "感動",
+              "reading": "かんどう"
+            },
+            {
+              "text": "したいよ　"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 69.4055,
+      "end": 71.6105,
+      "japanese": "ずっと　そうだった",
+      "zh-CN": "一直以来 都是如此",
+      "segments": [
+        {
+          "text": "ずっと　そうだった",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "ずっと　そうだった"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 73.7465,
+      "end": 76.6855,
+      "japanese": "錆びた廃屋で夢を見てる",
+      "zh-CN": "在锈迹斑斑的废屋中做着美梦",
+      "segments": [
+        {
+          "text": "錆びた廃屋で夢を見てる",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "錆",
+              "reading": "さ"
+            },
+            {
+              "text": "びた"
+            },
+            {
+              "text": "廃屋",
+              "reading": "はいおく"
+            },
+            {
+              "text": "で"
+            },
+            {
+              "text": "夢",
+              "reading": "ゆめ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "てる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 76.794,
+      "end": 80.118,
+      "japanese": "Hey　終わりを超えて　ずっとパーティーを",
+      "zh-CN": "Hey 跨越终结 永远把派对继续下去",
+      "segments": [
+        {
+          "text": "Hey　終わりを超えて　ずっとパーティーを",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "Hey　"
+            },
+            {
+              "text": "終",
+              "reading": "お"
+            },
+            {
+              "text": "わりを"
+            },
+            {
+              "text": "超",
+              "reading": "こ"
+            },
+            {
+              "text": "えて　ずっとパーティーを"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 80.409,
+      "end": 83.71,
+      "japanese": "Hey　回り続けるメリーゴーラウンド",
+      "zh-CN": "Hey 永不停歇旋转的旋转木马",
+      "segments": [
+        {
+          "text": "Hey　回り続けるメリーゴーラウンド",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "Hey　"
+            },
+            {
+              "text": "回",
+              "reading": "まわ"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "続",
+              "reading": "つづ"
+            },
+            {
+              "text": "けるメリーゴーラウンド"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 83.725,
+      "end": 89.691,
+      "japanese": "Hey　セカイはまだ始まってすらいないぜ",
+      "zh-CN": "Hey 属于我们的世界甚至根本还没开始呢",
+      "segments": [
+        {
+          "text": "Hey　セカイはまだ始まってすらいないぜ",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "Hey　セカイはまだ"
+            },
+            {
+              "text": "始",
+              "reading": "はじ"
+            },
+            {
+              "text": "まってすらいないぜ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 89.688,
+      "end": 93.51,
+      "japanese": "Hey　壊せ　予定調和の未来を",
+      "zh-CN": "Hey 彻底打破那按部就班的既定未来",
+      "segments": [
+        {
+          "text": "Hey　壊せ　予定調和の未来を",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "Hey　"
+            },
+            {
+              "text": "壊",
+              "reading": "こわ"
+            },
+            {
+              "text": "せ　"
+            },
+            {
+              "text": "予定調和",
+              "reading": "よていちょうわ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "未来",
+              "reading": "みらい"
+            },
+            {
+              "text": "を"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 93.678,
+      "end": 97.202,
+      "japanese": "Hey　鳴らせ　再生を告げる鐘を",
+      "zh-CN": "Hey 敲响宣告重生再起的钟声吧",
+      "segments": [
+        {
+          "text": "Hey　鳴らせ　再生を告げる鐘を",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "Hey　"
+            },
+            {
+              "text": "鳴",
+              "reading": "な"
+            },
+            {
+              "text": "らせ　"
+            },
+            {
+              "text": "再生",
+              "reading": "さいせい"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "告",
+              "reading": "つ"
+            },
+            {
+              "text": "げる"
+            },
+            {
+              "text": "鐘",
+              "reading": "かね"
+            },
+            {
+              "text": "を"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 97.491,
+      "end": 103.6,
+      "japanese": "Hey セカイはまだ始まってすら",
+      "zh-CN": "Hey 属于我们的世界甚至根本",
+      "segments": [
+        {
+          "text": "Hey セカイはまだ始まってすら",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "Hey セカイはまだ"
+            },
+            {
+              "text": "始",
+              "reading": "はじ"
+            },
+            {
+              "text": "まってすら"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000023",
+      "order": 22,
+      "index": 22,
+      "start": 103.44,
+      "end": 110.02,
+      "japanese": "いないぜ",
+      "zh-CN": "还没开始呢",
+      "segments": [
+        {
+          "text": "いないぜ",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "いないぜ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000024",
+      "order": 23,
+      "index": 23,
+      "start": 109.7,
+      "end": 112.831,
+      "japanese": "Hey！　Hey！　Hey！　Hey！　Hey！　Hey！",
+      "zh-CN": "Hey！ Hey！ Hey！ Hey！ Hey！ Hey！",
+      "segments": [
+        {
+          "text": "Hey！　Hey！　Hey！　Hey！　Hey！　Hey！",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "Hey！　Hey！　Hey！　Hey！　Hey！　Hey！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000025",
+      "order": 24,
+      "index": 24,
+      "start": 110.74,
+      "end": 117.715,
+      "japanese": "イッツショウタイム",
+      "zh-CN": "It's Showtime",
+      "segments": [
+        {
+          "text": "イッツショウタイム",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "イッツショウタイム"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000026",
+      "order": 25,
+      "index": 25,
+      "start": 110.74,
+      "end": 114.548,
+      "japanese": "Hey！　Hey！　Hey！　Hey！　Hey！　Hey！",
+      "zh-CN": "Hey！ Hey！ Hey！ Hey！ Hey！ Hey！",
+      "segments": [
+        {
+          "text": "Hey！　Hey！　Hey！　Hey！　Hey！　Hey！",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "Hey！　Hey！　Hey！　Hey！　Hey！　Hey！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000027",
+      "order": 26,
+      "index": 26,
+      "start": 117.704,
+      "end": 124.675,
+      "japanese": "イッツショウタイム",
+      "zh-CN": "It's Showtime",
+      "segments": [
+        {
+          "text": "イッツショウタイム",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "イッツショウタイム"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000028",
+      "order": 27,
+      "index": 27,
+      "start": 124.675,
+      "end": 125.717,
+      "japanese": "イッツショウタイム",
+      "zh-CN": "It's Showtime",
+      "segments": [
+        {
+          "text": "イッツショウタイム",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "イッツショウタイム"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

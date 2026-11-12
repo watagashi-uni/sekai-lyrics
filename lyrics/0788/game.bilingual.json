@@ -1,0 +1,913 @@
+{
+  "music_id": 788,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-07",
+      "name": "桃井愛莉"
+    },
+    {
+      "performerId": "歌唱者-11",
+      "name": "東雲彰人"
+    },
+    {
+      "performerId": "歌唱者-15",
+      "name": "草薙寧々"
+    },
+    {
+      "performerId": "歌唱者-19",
+      "name": "東雲絵名"
+    },
+    {
+      "performerId": "歌唱者-25",
+      "name": "MEIKO"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 15.212,
+      "end": 18.27,
+      "japanese": "ey ey Let's go Let's go Let's go",
+      "zh-CN": "ey ey Let's go Let's go Let's go！",
+      "segments": [
+        {
+          "text": "ey ey Let's go Let's go Let's go",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "ey ey Let's go Let's go Let's go"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 18.27,
+      "end": 20.421,
+      "japanese": "全て賭けてんのさ 簡単にゃ割れない",
+      "zh-CN": "早已赌上了一切 哪有那么容易碎裂！",
+      "segments": [
+        {
+          "text": "全て賭けてんのさ 簡単にゃ割れない",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "全",
+              "reading": "すべ"
+            },
+            {
+              "text": "て"
+            },
+            {
+              "text": "賭",
+              "reading": "か"
+            },
+            {
+              "text": "けてんのさ "
+            },
+            {
+              "text": "簡単",
+              "reading": "かんたん"
+            },
+            {
+              "text": "にゃ"
+            },
+            {
+              "text": "割",
+              "reading": "わ"
+            },
+            {
+              "text": "れない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 20.421,
+      "end": 22.679,
+      "japanese": "継ぎ足し続けてんだ 一歩だって引けない",
+      "zh-CN": "一直在不断倾注加码 半步都绝不退让！",
+      "segments": [
+        {
+          "text": "継ぎ足し続けてんだ 一歩だって引けない",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "継",
+              "reading": "つ"
+            },
+            {
+              "text": "ぎ"
+            },
+            {
+              "text": "足",
+              "reading": "た"
+            },
+            {
+              "text": "し"
+            },
+            {
+              "text": "続",
+              "reading": "つず"
+            },
+            {
+              "text": "けてんだ "
+            },
+            {
+              "text": "一歩",
+              "reading": "いっぽ"
+            },
+            {
+              "text": "だって"
+            },
+            {
+              "text": "引",
+              "reading": "ひ"
+            },
+            {
+              "text": "けない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 22.679,
+      "end": 24.946,
+      "japanese": "キミはキミ以外の何者にもなれない",
+      "zh-CN": "你除了做你自己 谁也成不了！",
+      "segments": [
+        {
+          "text": "キミはキミ以外の何者にもなれない",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "キミはキミ"
+            },
+            {
+              "text": "以外",
+              "reading": "いがい"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "何者",
+              "reading": "なにもの"
+            },
+            {
+              "text": "にもなれない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 24.995826,
+      "end": 26.890647,
+      "japanese": "無双不可避で ３２１",
+      "zh-CN": "天下无双势不可挡 3 2 1！",
+      "segments": [
+        {
+          "text": "無双不可避で ",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "無双不可避",
+              "reading": "むそうふかひ"
+            },
+            {
+              "text": "で "
+            }
+          ]
+        },
+        {
+          "text": "３２１",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-11",
+            "歌唱者-15",
+            "歌唱者-19",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "３２１"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 36.441705,
+      "end": 38.756265,
+      "japanese": "どうして上手く出来ないんだろう",
+      "zh-CN": "为什么我就是做不好呢……",
+      "segments": [
+        {
+          "text": "どうして上手く出来ないんだろう",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "どうして"
+            },
+            {
+              "text": "上手",
+              "reading": "うま"
+            },
+            {
+              "text": "く"
+            },
+            {
+              "text": "出来",
+              "reading": "でき"
+            },
+            {
+              "text": "ないんだろう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 38.90917,
+      "end": 41.103804,
+      "japanese": "どうしてこんなダメなんだろう",
+      "zh-CN": "为什么我就是这么没用呢……",
+      "segments": [
+        {
+          "text": "どうしてこんなダメなんだろう",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "どうしてこんなダメなんだろう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 41.328664,
+      "end": 44.846476,
+      "japanese": "人生ってのは自己嫌悪との終身雇用",
+      "zh-CN": "所谓人生 就是与自我厌恶签下的终身雇佣！",
+      "segments": [
+        {
+          "text": "人生ってのは自己嫌悪との終身雇用",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "人生",
+              "reading": "じんせい"
+            },
+            {
+              "text": "ってのは"
+            },
+            {
+              "text": "自己嫌悪",
+              "reading": "じこけの"
+            },
+            {
+              "text": "との"
+            },
+            {
+              "text": "終身雇用",
+              "reading": "しゅうしんこよう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 45.279,
+      "end": 47.886,
+      "japanese": "とか嘆いていても 結局何もなんにもなんない",
+      "zh-CN": "就算这样唉声叹气 到头来也根本无济于事！",
+      "segments": [
+        {
+          "text": "とか嘆いていても 結局何もなんにもなんない",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "とか"
+            },
+            {
+              "text": "嘆",
+              "reading": "なげ"
+            },
+            {
+              "text": "いていても "
+            },
+            {
+              "text": "結局何",
+              "reading": "けっきょくなに"
+            },
+            {
+              "text": "もなんにもなんない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 47.704698,
+      "end": 49.744429,
+      "japanese": "上りエスカレーター 逆行するメンタル",
+      "zh-CN": "在上行的自动扶梯上 逆向狂奔的心态！",
+      "segments": [
+        {
+          "text": "上りエスカレーター 逆行するメンタル",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "上",
+              "reading": "のぼ"
+            },
+            {
+              "text": "りエスカレーター "
+            },
+            {
+              "text": "逆行",
+              "reading": "ぎゃっこう"
+            },
+            {
+              "text": "するメンタル"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 49.744429,
+      "end": 52.775543,
+      "japanese": "くだらない 上がらない",
+      "zh-CN": "无聊透顶！ 提不起劲！",
+      "segments": [
+        {
+          "text": "くだらない 上がらない",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "くだらない "
+            },
+            {
+              "text": "上",
+              "reading": "あ"
+            },
+            {
+              "text": "がらない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 54.740321,
+      "end": 59.116598,
+      "japanese": "I know I'm No 才能",
+      "zh-CN": "我深知自己毫无才能！",
+      "segments": [
+        {
+          "text": "I know I'm No 才能",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-11",
+            "歌唱者-15",
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "I know I'm No "
+            },
+            {
+              "text": "才能",
+              "reading": "さいのう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 54.740321,
+      "end": 59.116598,
+      "japanese": "I know I'm No 才能",
+      "zh-CN": "我深知自己毫无才能！",
+      "segments": [
+        {
+          "text": "I know I'm No 才能",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-11",
+            "歌唱者-15",
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "I know I'm No "
+            },
+            {
+              "text": "才能",
+              "reading": "さいのう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 59.400421,
+      "end": 63.946593,
+      "japanese": "凡人にはきっと凡人のやり方がある",
+      "zh-CN": "凡人一定也有属于凡人的活法啊！",
+      "segments": [
+        {
+          "text": "凡人にはきっと凡人のやり方がある",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "凡人",
+              "reading": "ぼんじん"
+            },
+            {
+              "text": "にはきっと"
+            },
+            {
+              "text": "凡人",
+              "reading": "ぼんじん"
+            },
+            {
+              "text": "のやり"
+            },
+            {
+              "text": "方",
+              "reading": "かた"
+            },
+            {
+              "text": "がある"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 66.252159,
+      "end": 70.345612,
+      "japanese": "才能なんかなくたって最強なんじゃない",
+      "zh-CN": "就算毫无才能 不也一样能成为最强吗！",
+      "segments": [
+        {
+          "text": "才能なんかなくたって最強なんじゃない",
+          "performerIds": [
+            "歌唱者-11",
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "才能",
+              "reading": "さいのう"
+            },
+            {
+              "text": "なんかなくたって"
+            },
+            {
+              "text": "最強",
+              "reading": "さいきょう"
+            },
+            {
+              "text": "なんじゃない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 70.745363,
+      "end": 74.789847,
+      "japanese": "本気じゃ勝てんなら狂気に至っていこう",
+      "zh-CN": "光靠认真若赢不了 那就彻底化身狂气吧！",
+      "segments": [
+        {
+          "text": "本気じゃ勝てんなら狂気に至っていこう",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "本気",
+              "reading": "ほんき"
+            },
+            {
+              "text": "じゃ"
+            },
+            {
+              "text": "勝",
+              "reading": "か"
+            },
+            {
+              "text": "てんなら"
+            },
+            {
+              "text": "狂気",
+              "reading": "きょうき"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "至",
+              "reading": "いた"
+            },
+            {
+              "text": "っていこう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 75.373,
+      "end": 77.792,
+      "japanese": "そうアタシがただ ただ動く間にダラダラ",
+      "zh-CN": "没错 在我只顾拼命行动的间隙里 懒散懈怠的——",
+      "segments": [
+        {
+          "text": "そうアタシがただ ただ動く間にダラダラ",
+          "performerIds": [
+            "歌唱者-11",
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "そうアタシがただ ただ"
+            },
+            {
+              "text": "動",
+              "reading": "うご"
+            },
+            {
+              "text": "く"
+            },
+            {
+              "text": "間",
+              "reading": "ま"
+            },
+            {
+              "text": "にダラダラ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 77.792,
+      "end": 80.15,
+      "japanese": "する自分はどうでもいい(HEY HEY)",
+      "zh-CN": "那个自己怎样都无所谓 (HEY HEY)！",
+      "segments": [
+        {
+          "text": "する自分はどうでもいい",
+          "performerIds": [
+            "歌唱者-11",
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "する"
+            },
+            {
+              "text": "自分",
+              "reading": "やつ"
+            },
+            {
+              "text": "はどうでもいい"
+            }
+          ]
+        },
+        {
+          "text": "(HEY HEY)",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-11",
+            "歌唱者-15",
+            "歌唱者-19",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "(HEY HEY)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 80.15,
+      "end": 82.398,
+      "japanese": "勝ち取れ キラキラ 金メダルイライラ",
+      "zh-CN": "去夺取闪耀的金牌吧！为此焦躁不安的——",
+      "segments": [
+        {
+          "text": "勝ち取れ キラキラ 金メダルイライラ",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "勝",
+              "reading": "か"
+            },
+            {
+              "text": "ち"
+            },
+            {
+              "text": "取",
+              "reading": "と"
+            },
+            {
+              "text": "れ キラキラ "
+            },
+            {
+              "text": "金",
+              "reading": "きん"
+            },
+            {
+              "text": "メダルイライラ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 82.398,
+      "end": 84.691,
+      "japanese": "する自分は銅でもいい(HEY HEY)",
+      "zh-CN": "那个自己就算只拿铜牌也无所谓 (HEY HEY)！",
+      "segments": [
+        {
+          "text": "する自分は銅でもいい",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "する"
+            },
+            {
+              "text": "自分",
+              "reading": "やつ"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "銅",
+              "reading": "どう"
+            },
+            {
+              "text": "でもいい"
+            }
+          ]
+        },
+        {
+          "text": "(HEY HEY)",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-11",
+            "歌唱者-15",
+            "歌唱者-19",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "(HEY HEY)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 84.6697,
+      "end": 88.490324,
+      "japanese": "進みたけりゃ 過去を捨て",
+      "zh-CN": "想要继续前行 就彻底抛下过去！",
+      "segments": [
+        {
+          "text": "進みたけりゃ 過去を捨て",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-11",
+            "歌唱者-15",
+            "歌唱者-19",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "進",
+              "reading": "すす"
+            },
+            {
+              "text": "みたけりゃ "
+            },
+            {
+              "text": "過去",
+              "reading": "かこ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "捨",
+              "reading": "す"
+            },
+            {
+              "text": "て"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 88.490324,
+      "end": 91.572406,
+      "japanese": "強く前を向け",
+      "zh-CN": "坚定地昂首面向前方！",
+      "segments": [
+        {
+          "text": "強く前を向け",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-11",
+            "歌唱者-15",
+            "歌唱者-19",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "強",
+              "reading": "つよ"
+            },
+            {
+              "text": "く"
+            },
+            {
+              "text": "前",
+              "reading": "まえ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "向",
+              "reading": "む"
+            },
+            {
+              "text": "け"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

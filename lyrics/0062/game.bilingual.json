@@ -1,0 +1,656 @@
+{
+  "music_id": 62,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-17",
+      "name": "宵崎奏"
+    },
+    {
+      "performerId": "歌唱者-18",
+      "name": "朝比奈まふゆ"
+    },
+    {
+      "performerId": "歌唱者-19",
+      "name": "東雲絵名"
+    },
+    {
+      "performerId": "歌唱者-20",
+      "name": "暁山瑞希"
+    },
+    {
+      "performerId": "歌唱者-21",
+      "name": "初音ミク"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 24.15814,
+      "end": 26.402526,
+      "japanese": "標準偏差以内の人生",
+      "zh-CN": "在标准差之内的人生",
+      "segments": [
+        {
+          "text": "標準偏差以内の人生",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "標準偏差以内",
+              "reading": "ひょうじゅんへんさいない"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "人生",
+              "reading": "じんせい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 26.402526,
+      "end": 28.763881,
+      "japanese": "表情殺して腐った品性",
+      "zh-CN": "扼杀表情而腐朽的人格",
+      "segments": [
+        {
+          "text": "表情殺して腐った品性",
+          "performerIds": [
+            "歌唱者-19",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "表情殺",
+              "reading": "ひょうじょうころ"
+            },
+            {
+              "text": "して"
+            },
+            {
+              "text": "腐",
+              "reading": "くさ"
+            },
+            {
+              "text": "った"
+            },
+            {
+              "text": "品性",
+              "reading": "ひんせい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 28.763881,
+      "end": 30.891299,
+      "japanese": "ほらほら　気づけばまた",
+      "zh-CN": "看啊看啊 猛然回神",
+      "segments": [
+        {
+          "text": "ほらほら　気づけばまた",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-18",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ほらほら　"
+            },
+            {
+              "text": "気",
+              "reading": "き"
+            },
+            {
+              "text": "づけばまた"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 31.11,
+      "end": 33.29,
+      "japanese": "ただただ　過ぎゆく日々",
+      "zh-CN": "依旧只是 虚度流逝的日常",
+      "segments": [
+        {
+          "text": "ただただ　過ぎゆく日々",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-20",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ただただ　"
+            },
+            {
+              "text": "過",
+              "reading": "す"
+            },
+            {
+              "text": "ぎゆく"
+            },
+            {
+              "text": "日々",
+              "reading": "ひび"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 33.62,
+      "end": 35.76,
+      "japanese": "表現欲も非凡の才も",
+      "zh-CN": "无论表达欲还是非凡的才能",
+      "segments": [
+        {
+          "text": "表現欲も非凡の才も",
+          "performerIds": [
+            "歌唱者-19",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "表現欲",
+              "reading": "ひょうげんよく"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "非凡",
+              "reading": "ひぼん"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "才",
+              "reading": "さい"
+            },
+            {
+              "text": "も"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 35.76,
+      "end": 38.23,
+      "japanese": "漫然と生きてちゃ何もなんないの",
+      "zh-CN": "浑浑噩噩地活着可就一事无成",
+      "segments": [
+        {
+          "text": "漫然と生きてちゃ何もなんないの",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "漫然",
+              "reading": "まんぜん"
+            },
+            {
+              "text": "と"
+            },
+            {
+              "text": "生",
+              "reading": "い"
+            },
+            {
+              "text": "きてちゃ"
+            },
+            {
+              "text": "何",
+              "reading": "なに"
+            },
+            {
+              "text": "もなんないの"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 38.379251,
+      "end": 40.306724,
+      "japanese": "やだやだ　あたしはやだ",
+      "zh-CN": "不要不要 我才不要这样",
+      "segments": [
+        {
+          "text": "やだやだ　あたしはやだ",
+          "performerIds": [
+            "歌唱者-19",
+            "歌唱者-20",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "やだやだ　あたしはやだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 40.506669,
+      "end": 42.649084,
+      "japanese": "嘆けど変わらぬまま",
+      "zh-CN": "尽管叹息 现实却毫无改变",
+      "segments": [
+        {
+          "text": "嘆けど変わらぬまま",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-19",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "嘆",
+              "reading": "なげ"
+            },
+            {
+              "text": "けど"
+            },
+            {
+              "text": "変",
+              "reading": "か"
+            },
+            {
+              "text": "わらぬまま"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 43.297906,
+      "end": 50.360975,
+      "japanese": "受け入れ難い心情をねじ込むのが愛なんだ",
+      "zh-CN": "将难以接受的心情强行塞入 这便是爱啊",
+      "segments": [
+        {
+          "text": "受け入れ難い心情をねじ込むのが愛なんだ",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "受",
+              "reading": "う"
+            },
+            {
+              "text": "け"
+            },
+            {
+              "text": "入",
+              "reading": "い"
+            },
+            {
+              "text": "れ"
+            },
+            {
+              "text": "難",
+              "reading": "がた"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "心情",
+              "reading": "しんじょう"
+            },
+            {
+              "text": "をねじ"
+            },
+            {
+              "text": "込",
+              "reading": "こ"
+            },
+            {
+              "text": "むのが"
+            },
+            {
+              "text": "愛",
+              "reading": "あい"
+            },
+            {
+              "text": "なんだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 51.207743,
+      "end": 52.395419,
+      "japanese": "あたしは",
+      "zh-CN": "我是",
+      "segments": [
+        {
+          "text": "あたしは",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "あたしは"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 52.395419,
+      "end": 56.463306,
+      "japanese": "ジャックポットサッドガール 分かり合えぬまま",
+      "zh-CN": "头奖悲伤女孩 彼此依然无法相互理解",
+      "segments": [
+        {
+          "text": "ジャックポットサッドガール 分かり合えぬまま",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-19",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ジャックポットサッドガール "
+            },
+            {
+              "text": "分",
+              "reading": "わ"
+            },
+            {
+              "text": "かり"
+            },
+            {
+              "text": "合",
+              "reading": "あ"
+            },
+            {
+              "text": "えぬまま"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 57.055144,
+      "end": 61.014062,
+      "japanese": "点と線でエンドロール描く日々の中",
+      "zh-CN": "在用点与线描摹片尾字幕的日常之中",
+      "segments": [
+        {
+          "text": "点と線でエンドロール描く日々の中",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-20",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "点",
+              "reading": "てん"
+            },
+            {
+              "text": "と"
+            },
+            {
+              "text": "線",
+              "reading": "せん"
+            },
+            {
+              "text": "でエンドロール"
+            },
+            {
+              "text": "描",
+              "reading": "えが"
+            },
+            {
+              "text": "く"
+            },
+            {
+              "text": "日々",
+              "reading": "ひび"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "中",
+              "reading": "なか"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 61.249997,
+      "end": 66.190646,
+      "japanese": "誰にも言えないまんま抱えた想いこそ価値があるんだ",
+      "zh-CN": "唯有那无法向任何人倾诉而深藏入怀的心意才具有价值",
+      "segments": [
+        {
+          "text": "誰にも言えないまんま抱えた想いこそ価値があるんだ",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "誰",
+              "reading": "だれ"
+            },
+            {
+              "text": "にも"
+            },
+            {
+              "text": "言",
+              "reading": "い"
+            },
+            {
+              "text": "えないまんま"
+            },
+            {
+              "text": "抱",
+              "reading": "かか"
+            },
+            {
+              "text": "えた"
+            },
+            {
+              "text": "想",
+              "reading": "おも"
+            },
+            {
+              "text": "いこそ"
+            },
+            {
+              "text": "価値",
+              "reading": "かち"
+            },
+            {
+              "text": "があるんだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 66.43,
+      "end": 72.438,
+      "japanese": "探していた答えだって 未来みたいに手の中に",
+      "zh-CN": "就连曾苦苦追寻的答案 也如未来一般早已握在手中",
+      "segments": [
+        {
+          "text": "探していた答えだって ",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-20",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "探",
+              "reading": "さが"
+            },
+            {
+              "text": "していた"
+            },
+            {
+              "text": "答",
+              "reading": "こた"
+            },
+            {
+              "text": "えだって "
+            }
+          ]
+        },
+        {
+          "text": "未来みたいに手の中に",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-19",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "未来",
+              "reading": "みらい"
+            },
+            {
+              "text": "みたいに"
+            },
+            {
+              "text": "手",
+              "reading": "て"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "中",
+              "reading": "なか"
+            },
+            {
+              "text": "に"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 66.43,
+      "end": 72.438,
+      "japanese": "あった",
+      "zh-CN": "就在手心之中",
+      "segments": [
+        {
+          "text": "あった",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "あった"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    }
+  ]
+}

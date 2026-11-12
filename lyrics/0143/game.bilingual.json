@@ -1,0 +1,1423 @@
+{
+  "music_id": 143,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-09",
+      "name": "小豆沢こはね"
+    },
+    {
+      "performerId": "歌唱者-10",
+      "name": "白石杏"
+    },
+    {
+      "performerId": "歌唱者-11",
+      "name": "東雲彰人"
+    },
+    {
+      "performerId": "歌唱者-12",
+      "name": "青柳冬弥"
+    },
+    {
+      "performerId": "歌唱者-22",
+      "name": "鏡音リン"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 18.927,
+      "end": 19.823,
+      "japanese": "Haha, shut up.",
+      "zh-CN": "Haha, shut up.",
+      "segments": [
+        {
+          "text": "Haha, shut up.",
+          "performerIds": [],
+          "ruby": [
+            {
+              "text": "Haha, shut up."
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 34.922958,
+      "end": 38.545672,
+      "japanese": "ああやだやだ衝突だ 何処のどいつが悪いんだ",
+      "zh-CN": "啊真讨厌真讨厌撞车了 到底是哪里的哪位搞的鬼",
+      "segments": [
+        {
+          "text": "ああやだやだ衝突だ 何処のどいつが悪いんだ",
+          "performerIds": [
+            "歌唱者-12",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "ああやだやだ"
+            },
+            {
+              "text": "衝突",
+              "reading": "しょうとつ"
+            },
+            {
+              "text": "だ "
+            },
+            {
+              "text": "何処",
+              "reading": "どこ"
+            },
+            {
+              "text": "のどいつが"
+            },
+            {
+              "text": "悪",
+              "reading": "わる"
+            },
+            {
+              "text": "いんだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 38.545672,
+      "end": 41.963401,
+      "japanese": "パシャパシャとフラッシュ焚いた まあなんて可哀想な",
+      "zh-CN": "咔嚓咔嚓闪光灯狂闪 哎呀真是太可怜了",
+      "segments": [
+        {
+          "text": "パシャパシャとフラッシュ焚いた まあなんて可哀想な",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "パシャパシャとフラッシュ"
+            },
+            {
+              "text": "焚",
+              "reading": "た"
+            },
+            {
+              "text": "いた まあなんて"
+            },
+            {
+              "text": "可哀想",
+              "reading": "かわいそう"
+            },
+            {
+              "text": "な"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 42.205382,
+      "end": 45.844094,
+      "japanese": "首吊って詫びんのが良いや 先立つ不孝を許してや",
+      "zh-CN": "上吊谢罪才最省事 原谅我不孝先走一步啦",
+      "segments": [
+        {
+          "text": "首吊って詫びんのが良いや 先立つ不孝を許してや",
+          "performerIds": [
+            "歌唱者-11",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "首吊",
+              "reading": "くびつ"
+            },
+            {
+              "text": "って"
+            },
+            {
+              "text": "詫",
+              "reading": "わ"
+            },
+            {
+              "text": "びんのが"
+            },
+            {
+              "text": "良",
+              "reading": "い"
+            },
+            {
+              "text": "いや "
+            },
+            {
+              "text": "先立",
+              "reading": "さきだ"
+            },
+            {
+              "text": "つ"
+            },
+            {
+              "text": "不孝",
+              "reading": "ふこう"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "許",
+              "reading": "ゆる"
+            },
+            {
+              "text": "してや"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 45.844094,
+      "end": 49.517803,
+      "japanese": "許さねえや 追い込めや 逃げんのかい この腰抜けが",
+      "zh-CN": "绝不原谅 逼入绝境 要逃跑吗 你这个懦夫",
+      "segments": [
+        {
+          "text": "許さねえや 追い込めや 逃げんのかい この腰抜けが",
+          "performerIds": [
+            "歌唱者-10",
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "許",
+              "reading": "ゆる"
+            },
+            {
+              "text": "さねえや "
+            },
+            {
+              "text": "追",
+              "reading": "お"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "込",
+              "reading": "こ"
+            },
+            {
+              "text": "めや "
+            },
+            {
+              "text": "逃",
+              "reading": "に"
+            },
+            {
+              "text": "げんのかい この"
+            },
+            {
+              "text": "腰抜",
+              "reading": "こしぬ"
+            },
+            {
+              "text": "けが"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 49.689789,
+      "end": 53.102519,
+      "japanese": "ああまただ 衝突だ 赤信号点滅だ さあ",
+      "zh-CN": "啊又来了 又是撞车 红灯疯狂闪烁 来吧",
+      "segments": [
+        {
+          "text": "ああまただ 衝突だ 赤信号点滅だ さあ",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "ああまただ "
+            },
+            {
+              "text": "衝突",
+              "reading": "しょうとつ"
+            },
+            {
+              "text": "だ "
+            },
+            {
+              "text": "赤信号点滅",
+              "reading": "あかしんごうてんめつ"
+            },
+            {
+              "text": "だ さあ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 53.102519,
+      "end": 55.767308,
+      "japanese": "今度はどいつが悪いんだ 誰でもいいや",
+      "zh-CN": "这次又是谁的错 谁都无所谓啦",
+      "segments": [
+        {
+          "text": "今度はどいつが悪いんだ 誰でもいいや",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "今度",
+              "reading": "こんど"
+            },
+            {
+              "text": "はどいつが"
+            },
+            {
+              "text": "悪",
+              "reading": "わる"
+            },
+            {
+              "text": "いんだ "
+            },
+            {
+              "text": "誰",
+              "reading": "だれ"
+            },
+            {
+              "text": "でもいいや"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 55.767308,
+      "end": 56.808226,
+      "japanese": "じゃああいつのせいだ",
+      "zh-CN": "那就全怪那个家伙吧",
+      "segments": [
+        {
+          "text": "じゃああいつのせいだ",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "じゃああいつのせいだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 56.975213,
+      "end": 59.295029,
+      "japanese": "譲り合いもへったくれもない",
+      "zh-CN": "谦让礼让根本连影儿都没有",
+      "segments": [
+        {
+          "text": "譲り合いもへったくれもない",
+          "performerIds": [
+            "歌唱者-10",
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "譲",
+              "reading": "ゆず"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "合",
+              "reading": "あ"
+            },
+            {
+              "text": "いもへったくれもない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 59.295029,
+      "end": 60.763913,
+      "japanese": "やるかやられるか 大概にせえや",
+      "zh-CN": "不是你死就是我亡 适可而止一点吧",
+      "segments": [
+        {
+          "text": "やるかやられるか 大概にせえや",
+          "performerIds": [
+            "歌唱者-10",
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "やるかやられるか "
+            },
+            {
+              "text": "大概",
+              "reading": "たいがい"
+            },
+            {
+              "text": "にせえや"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 60.763913,
+      "end": 61.901823,
+      "japanese": "おいらにゃ関係ない?",
+      "zh-CN": "跟我毫无关系？",
+      "segments": [
+        {
+          "text": "おいらにゃ関係ない?",
+          "performerIds": [
+            "歌唱者-10",
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "おいらにゃ"
+            },
+            {
+              "text": "関係",
+              "reading": "かんけい"
+            },
+            {
+              "text": "ない?"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 62.086808,
+      "end": 64.545613,
+      "japanese": "そうは問屋が卸しゃしねえんだわ",
+      "zh-CN": "天底下可没这么便宜的好事",
+      "segments": [
+        {
+          "text": "そうは問屋が卸しゃしねえんだわ",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "そうは"
+            },
+            {
+              "text": "問屋",
+              "reading": "とにゃ"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "卸",
+              "reading": "おろ"
+            },
+            {
+              "text": "しゃしねえんだわ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 65.989499,
+      "end": 67.217402,
+      "japanese": "Deuce Deuce Deuce！",
+      "zh-CN": "Deuce Deuce Deuce！",
+      "segments": [
+        {
+          "text": "Deuce Deuce Deuce！",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-10",
+            "歌唱者-11",
+            "歌唱者-12",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "Deuce Deuce Deuce！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 67.441384,
+      "end": 70.738123,
+      "japanese": "君が逝くまで",
+      "zh-CN": "直到你命丧黄泉",
+      "segments": [
+        {
+          "text": "君が逝くまで",
+          "performerIds": [
+            "歌唱者-09"
+          ],
+          "ruby": [
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "逝",
+              "reading": "い"
+            },
+            {
+              "text": "くまで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 67.441384,
+      "end": 70.738123,
+      "japanese": "僕が逝くまで",
+      "zh-CN": "直到我撒手人寰",
+      "segments": [
+        {
+          "text": "僕が逝くまで",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "逝",
+              "reading": "い"
+            },
+            {
+              "text": "くまで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 71.002102,
+      "end": 73.258924,
+      "japanese": "痛み分けなどしないんで",
+      "zh-CN": "绝不搞什么平分秋色各打五十大板",
+      "segments": [
+        {
+          "text": "痛み分けなどしないんで",
+          "performerIds": [
+            "歌唱者-09"
+          ],
+          "ruby": [
+            {
+              "text": "痛",
+              "reading": "いた"
+            },
+            {
+              "text": "み"
+            },
+            {
+              "text": "分",
+              "reading": "わ"
+            },
+            {
+              "text": "けなどしないんで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 73.440909,
+      "end": 74.517824,
+      "japanese": "Deuce Deuce Deuce！",
+      "zh-CN": "Deuce Deuce Deuce！",
+      "segments": [
+        {
+          "text": "Deuce Deuce Deuce！",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-10",
+            "歌唱者-11",
+            "歌唱者-12",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "Deuce Deuce Deuce！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 74.756805,
+      "end": 78.131538,
+      "japanese": "鍍金が剥げるまで",
+      "zh-CN": "直到镀金剥落殆尽",
+      "segments": [
+        {
+          "text": "鍍金が剥げるまで",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "鍍金",
+              "reading": "めっき"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "剥",
+              "reading": "は"
+            },
+            {
+              "text": "げるまで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 74.756805,
+      "end": 78.131538,
+      "japanese": "朝が来るまで",
+      "zh-CN": "直到黎明晨曦降临",
+      "segments": [
+        {
+          "text": "朝が来るまで",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "朝",
+              "reading": "あさ"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "来",
+              "reading": "く"
+            },
+            {
+              "text": "るまで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 78.34325,
+      "end": 81.0025,
+      "japanese": "二人で涎分け合っていよう",
+      "zh-CN": "两个人共同分食唾液吧",
+      "segments": [
+        {
+          "text": "二人で涎分け合っていよう",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "二人",
+              "reading": "ふたり"
+            },
+            {
+              "text": "で"
+            },
+            {
+              "text": "涎分",
+              "reading": "よだれわ"
+            },
+            {
+              "text": "け"
+            },
+            {
+              "text": "合",
+              "reading": "あ"
+            },
+            {
+              "text": "っていよう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 81.062791,
+      "end": 84.262538,
+      "japanese": "ああいつもの衝突だ さあ今度はどいつが犠牲者だ",
+      "zh-CN": "啊又是家常便饭的撞车 来吧这次又是谁成了牺牲品",
+      "segments": [
+        {
+          "text": "ああいつもの衝突だ さあ今度はどいつが犠牲者だ",
+          "performerIds": [
+            "歌唱者-10",
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "ああいつもの"
+            },
+            {
+              "text": "衝突",
+              "reading": "しょうとつ"
+            },
+            {
+              "text": "だ さあ"
+            },
+            {
+              "text": "今度",
+              "reading": "こんど"
+            },
+            {
+              "text": "はどいつが"
+            },
+            {
+              "text": "犠牲者",
+              "reading": "ぎせいしゃ"
+            },
+            {
+              "text": "だ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 84.262538,
+      "end": 86.569355,
+      "japanese": "こりゃ相当タチが悪いぜって ウケる",
+      "zh-CN": "“这性质可真够恶劣啊” 真是搞笑",
+      "segments": [
+        {
+          "text": "こりゃ相当タチが悪いぜって ウケる",
+          "performerIds": [
+            "歌唱者-10",
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "こりゃ"
+            },
+            {
+              "text": "相当",
+              "reading": "そうとう"
+            },
+            {
+              "text": "タチが"
+            },
+            {
+              "text": "悪",
+              "reading": "わる"
+            },
+            {
+              "text": "いぜって ウケる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000023",
+      "order": 22,
+      "index": 22,
+      "start": 86.569355,
+      "end": 88.296219,
+      "japanese": "キリもモラルもハナから無いわ",
+      "zh-CN": "底线与道德打从一开始就不复存在",
+      "segments": [
+        {
+          "text": "キリもモラルもハナから無いわ",
+          "performerIds": [
+            "歌唱者-10",
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "キリもモラルもハナから"
+            },
+            {
+              "text": "無",
+              "reading": "な"
+            },
+            {
+              "text": "いわ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000024",
+      "order": 23,
+      "index": 23,
+      "start": 88.296219,
+      "end": 90.066079,
+      "japanese": "踊り踊らされ満ちてく渋滞",
+      "zh-CN": "起舞与被玩弄起舞 满溢堵塞的交通大拥堵",
+      "segments": [
+        {
+          "text": "踊り踊らされ満ちてく渋滞",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "踊",
+              "reading": "おど"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "踊",
+              "reading": "おど"
+            },
+            {
+              "text": "らされ"
+            },
+            {
+              "text": "満",
+              "reading": "み"
+            },
+            {
+              "text": "ちてく"
+            },
+            {
+              "text": "渋滞",
+              "reading": "じゅうたい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000025",
+      "order": 24,
+      "index": 24,
+      "start": 90.066079,
+      "end": 92.090918,
+      "japanese": "無意味な人生既に袋小路",
+      "zh-CN": "毫无意义的人生早已沦为死胡同",
+      "segments": [
+        {
+          "text": "無意味な人生既に袋小路",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "無意味",
+              "reading": "むいみ"
+            },
+            {
+              "text": "な"
+            },
+            {
+              "text": "人生既",
+              "reading": "じんせいすで"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "袋小路",
+              "reading": "ふくろこうじ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000026",
+      "order": 25,
+      "index": 25,
+      "start": 92.090918,
+      "end": 93.784784,
+      "japanese": "誰も彼も手前を解さぬよう",
+      "zh-CN": "为了让任谁都无法看透理解你",
+      "segments": [
+        {
+          "text": "誰も彼も手前を解さぬよう",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "誰",
+              "reading": "だれ"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "彼",
+              "reading": "かれ"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "手前",
+              "reading": "てまえ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "解",
+              "reading": "かい"
+            },
+            {
+              "text": "さぬよう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000027",
+      "order": 26,
+      "index": 26,
+      "start": 93.67375,
+      "end": 99.41975,
+      "japanese": "俺が日々 聢と祈ってやろう",
+      "zh-CN": "就由我每日 为你虔诚祈祷吧",
+      "segments": [
+        {
+          "text": "俺が日々 聢と祈ってやろう",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "俺",
+              "reading": "おれ"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "日々",
+              "reading": "ひび"
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "聢",
+              "reading": "しか"
+            },
+            {
+              "text": "と"
+            },
+            {
+              "text": "祈",
+              "reading": "いの"
+            },
+            {
+              "text": "ってやろう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000028",
+      "order": 27,
+      "index": 27,
+      "start": 99.41975,
+      "end": 100.6315,
+      "japanese": "Deuce Deuce Deuce！",
+      "zh-CN": "Deuce Deuce Deuce！",
+      "segments": [
+        {
+          "text": "Deuce Deuce Deuce！",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-10",
+            "歌唱者-11",
+            "歌唱者-12",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "Deuce Deuce Deuce！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000029",
+      "order": 28,
+      "index": 28,
+      "start": 100.570828,
+      "end": 104.07855,
+      "japanese": "咳が爆ぜるまで",
+      "zh-CN": "直到剧烈咳嗽迸发而出",
+      "segments": [
+        {
+          "text": "咳が爆ぜるまで",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "咳",
+              "reading": "せき"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "爆",
+              "reading": "は"
+            },
+            {
+              "text": "ぜるまで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000030",
+      "order": 29,
+      "index": 29,
+      "start": 100.570828,
+      "end": 104.07855,
+      "japanese": "喉が軋むまで",
+      "zh-CN": "直到咽喉干涩咯咯作响",
+      "segments": [
+        {
+          "text": "喉が軋むまで",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "喉",
+              "reading": "のど"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "軋",
+              "reading": "きし"
+            },
+            {
+              "text": "むまで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000031",
+      "order": 30,
+      "index": 30,
+      "start": 104.07855,
+      "end": 106.702343,
+      "japanese": "二人で吐息剥奪して",
+      "zh-CN": "两个人互相剥夺呼吸与叹息",
+      "segments": [
+        {
+          "text": "二人で吐息剥奪して",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "二人",
+              "reading": "ふたり"
+            },
+            {
+              "text": "で"
+            },
+            {
+              "text": "吐息剥奪",
+              "reading": "といきはくだつ"
+            },
+            {
+              "text": "して"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000032",
+      "order": 31,
+      "index": 31,
+      "start": 106.702343,
+      "end": 110.622032,
+      "japanese": "ずっとずっと居られたなら",
+      "zh-CN": "若能一直一直这样相伴下去",
+      "segments": [
+        {
+          "text": "ずっとずっと居られたなら",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "ずっとずっと"
+            },
+            {
+              "text": "居",
+              "reading": "い"
+            },
+            {
+              "text": "られたなら"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000033",
+      "order": 32,
+      "index": 32,
+      "start": 110.78202,
+      "end": 115.797623,
+      "japanese": "俺は人間なんかに成らずに済んだのにな",
+      "zh-CN": "我本就不必沦为凡人人类了啊",
+      "segments": [
+        {
+          "text": "俺は人間なんかに成らずに済んだのにな",
+          "performerIds": [
+            "歌唱者-10",
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "俺",
+              "reading": "おれ"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "人間",
+              "reading": "にんげん"
+            },
+            {
+              "text": "なんかに"
+            },
+            {
+              "text": "成",
+              "reading": "な"
+            },
+            {
+              "text": "らずに"
+            },
+            {
+              "text": "済",
+              "reading": "す"
+            },
+            {
+              "text": "んだのにな"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000034",
+      "order": 33,
+      "index": 33,
+      "start": 120.936216,
+      "end": 122.732074,
+      "japanese": "さあ往生しよう",
+      "zh-CN": "来吧 安然寿终就木吧",
+      "segments": [
+        {
+          "text": "さあ往生しよう",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-10",
+            "歌唱者-11",
+            "歌唱者-12",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "さあ"
+            },
+            {
+              "text": "往生",
+              "reading": "おうじょう"
+            },
+            {
+              "text": "しよう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000035",
+      "order": 34,
+      "index": 34,
+      "start": 122.732074,
+      "end": 126.06781,
+      "japanese": "この終わった世界で Deuceが尽きるまで",
+      "zh-CN": "在这终结毁灭的世界里 直到Deuce彻底耗尽",
+      "segments": [
+        {
+          "text": "この終わった世界で Deuceが尽きるまで",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-10",
+            "歌唱者-11",
+            "歌唱者-12",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "この"
+            },
+            {
+              "text": "終",
+              "reading": "お"
+            },
+            {
+              "text": "わった"
+            },
+            {
+              "text": "世界",
+              "reading": "せかい"
+            },
+            {
+              "text": "で Deuceが"
+            },
+            {
+              "text": "尽",
+              "reading": "つ"
+            },
+            {
+              "text": "きるまで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000036",
+      "order": 35,
+      "index": 35,
+      "start": 126.268794,
+      "end": 129.169564,
+      "japanese": "骨身惜しまず交わっていよう",
+      "zh-CN": "不惜粉身碎骨交融在一起吧",
+      "segments": [
+        {
+          "text": "骨身惜しまず交わっていよう",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-10",
+            "歌唱者-11",
+            "歌唱者-12",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "骨身惜",
+              "reading": "ほねみお"
+            },
+            {
+              "text": "しまず"
+            },
+            {
+              "text": "交",
+              "reading": "まじ"
+            },
+            {
+              "text": "わっていよう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

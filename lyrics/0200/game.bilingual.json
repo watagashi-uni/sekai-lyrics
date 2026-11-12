@@ -1,0 +1,1153 @@
+{
+  "music_id": 200,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-11",
+      "name": "東雲彰人"
+    },
+    {
+      "performerId": "歌唱者-12",
+      "name": "青柳冬弥"
+    },
+    {
+      "performerId": "歌唱者-23",
+      "name": "鏡音レン"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 10.221112,
+      "end": 12.580653,
+      "japanese": "All my love, said it don't",
+      "zh-CN": "All my love, said it don't",
+      "segments": [
+        {
+          "text": "All my love, said it don't",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "All my love, said it don't"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 12.580653,
+      "end": 15.260132,
+      "japanese": "All my love, said it don't",
+      "zh-CN": "All my love, said it don't",
+      "segments": [
+        {
+          "text": "All my love, said it don't",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "All my love, said it don't"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 15.260132,
+      "end": 17.849629,
+      "japanese": "All my love, said it don't",
+      "zh-CN": "All my love, said it don't",
+      "segments": [
+        {
+          "text": "All my love, said it don't",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "All my love, said it don't"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 17.849629,
+      "end": 21.098997,
+      "japanese": "All my love, pappa rararuru",
+      "zh-CN": "All my love, pappa rararuru",
+      "segments": [
+        {
+          "text": "All my love, ",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "All my love, "
+            }
+          ]
+        },
+        {
+          "text": "pappa rararuru",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "pappa rararuru"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 21.1005,
+      "end": 24.9415,
+      "japanese": "阿呆を見るランデブー ",
+      "zh-CN": "看着像傻子一样的约会幽会",
+      "segments": [
+        {
+          "text": "阿呆を見るランデブー ",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "阿呆",
+              "reading": "あほ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "るランデブー "
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 21.1005,
+      "end": 24.9415,
+      "japanese": "ボビデバビデンベッデボン",
+      "zh-CN": "啵比得巴比登贝得嘣",
+      "segments": [
+        {
+          "text": "ボビデバビデンベッデボン",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "ボビデバビデンベッデボン"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 24.9415,
+      "end": 31.2705,
+      "japanese": "だから今はそれとなくなあなあ散々淡々と暮らしていて",
+      "zh-CN": "所以如今便若无其事随随便便惨兮兮平淡度日",
+      "segments": [
+        {
+          "text": "だから今は",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "だから"
+            },
+            {
+              "text": "今",
+              "reading": "いま"
+            },
+            {
+              "text": "は"
+            }
+          ]
+        },
+        {
+          "text": "それとなくなあなあ散々淡々と",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "それとなくなあなあ"
+            },
+            {
+              "text": "散々淡々",
+              "reading": "なあなあさんざんたんたん"
+            },
+            {
+              "text": "と"
+            }
+          ]
+        },
+        {
+          "text": "暮らしていて",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "暮",
+              "reading": "く"
+            },
+            {
+              "text": "らしていて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 31.2705,
+      "end": 34.8335,
+      "japanese": "乾涸びた脳みそふざけた街の中でそう",
+      "zh-CN": "在干涸枯竭的大脑开着玩笑的街道中没错",
+      "segments": [
+        {
+          "text": "乾涸びた脳みそふざけた街の中でそう",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "乾涸",
+              "reading": "ひから"
+            },
+            {
+              "text": "びた"
+            },
+            {
+              "text": "脳",
+              "reading": "のう"
+            },
+            {
+              "text": "みそふざけた"
+            },
+            {
+              "text": "街",
+              "reading": "まち"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "中",
+              "reading": "なか"
+            },
+            {
+              "text": "でそう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 34.8335,
+      "end": 41.5585,
+      "japanese": "解らなくて今フラフラの脳みそ駄目になってそっと捨てる",
+      "zh-CN": "无法理解如今晕晕乎乎的大脑彻底废掉悄悄丢弃",
+      "segments": [
+        {
+          "text": "解らなくて今",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "解",
+              "reading": "わか"
+            },
+            {
+              "text": "らなくて"
+            },
+            {
+              "text": "今",
+              "reading": "いま"
+            }
+          ]
+        },
+        {
+          "text": "フラフラの脳みそ駄目になってそっと捨てる",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "フラフラの"
+            },
+            {
+              "text": "脳",
+              "reading": "のう"
+            },
+            {
+              "text": "みそ"
+            },
+            {
+              "text": "駄目",
+              "reading": "だめ"
+            },
+            {
+              "text": "になってそっと"
+            },
+            {
+              "text": "捨",
+              "reading": "す"
+            },
+            {
+              "text": "てる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 39.96533,
+      "end": 41.48503,
+      "japanese": "HAHAHAHAHAHA",
+      "zh-CN": "HAHAHAHAHAHA",
+      "segments": [
+        {
+          "text": "HAHAHAHAHAHA",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "HAHAHAHAHAHA"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 41.5585,
+      "end": 45.9225,
+      "japanese": "明日って何度言う? ",
+      "zh-CN": "明天到底要说上多少次？",
+      "segments": [
+        {
+          "text": "明日って何度言う? ",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "明日",
+              "reading": "あした"
+            },
+            {
+              "text": "って"
+            },
+            {
+              "text": "何度言",
+              "reading": "なんどい"
+            },
+            {
+              "text": "う? "
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 41.5585,
+      "end": 45.9225,
+      "japanese": "ボビデバビデンベッデボン?",
+      "zh-CN": "啵比得巴比登贝得嘣？",
+      "segments": [
+        {
+          "text": "ボビデバビデンベッデボン?",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "ボビデバビデンベッデボン?"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 45.9225,
+      "end": 51.9385,
+      "japanese": "洗剤食らって睫毛乾く? NoでNoでNo",
+      "zh-CN": "吃下洗涤剂睫毛就能干透吗？不是 不是 绝不是",
+      "segments": [
+        {
+          "text": "洗剤食らって睫毛乾く? NoでNoでNo",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "洗剤食",
+              "reading": "せんざいく"
+            },
+            {
+              "text": "らって"
+            },
+            {
+              "text": "睫毛乾",
+              "reading": "まつげかわ"
+            },
+            {
+              "text": "く? NoでNoでNo"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 50.343312,
+      "end": 51.923005,
+      "japanese": "OHOHOHOHOH",
+      "zh-CN": "OHOHOHOHOH",
+      "segments": [
+        {
+          "text": "OHOHOHOHOH",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "OHOHOHOHOH"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 51.9385,
+      "end": 57.4375,
+      "japanese": "思い出して何、泣いてんだ 今 ",
+      "zh-CN": "想起来又在哭泣些什么啊 此刻",
+      "segments": [
+        {
+          "text": "思い出して何、泣いてんだ 今 ",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "思",
+              "reading": "おも"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "して"
+            },
+            {
+              "text": "何",
+              "reading": "なに"
+            },
+            {
+              "text": "、"
+            },
+            {
+              "text": "泣",
+              "reading": "な"
+            },
+            {
+              "text": "いてんだ "
+            },
+            {
+              "text": "今",
+              "reading": "いま"
+            },
+            {
+              "text": " "
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 51.9385,
+      "end": 57.4375,
+      "japanese": "さよならに慣れてしまってんだ",
+      "zh-CN": "早就对道别习以为常了啊",
+      "segments": [
+        {
+          "text": "さよならに慣れてしまってんだ",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "さよならに"
+            },
+            {
+              "text": "慣",
+              "reading": "な"
+            },
+            {
+              "text": "れてしまってんだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 57.4375,
+      "end": 58.6835,
+      "japanese": "これでいいのか? なんて浪々々",
+      "zh-CN": "这样真的好吗？什么的浪浪浪",
+      "segments": [
+        {
+          "text": "これでいいのか? なんて浪々々",
+          "performerIds": [
+            "歌唱者-11",
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "これでいいのか? なんて"
+            },
+            {
+              "text": "浪々々",
+              "reading": "ろうろうろう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 61.8315,
+      "end": 71.7435,
+      "japanese": "Lonely? 浪人? Morning? Sorry?",
+      "zh-CN": "Lonely? 浪人? Morning? Sorry?",
+      "segments": [
+        {
+          "text": "Lonely? 浪人? Morning? Sorry?",
+          "performerIds": [
+            "歌唱者-12",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "Lonely? "
+            },
+            {
+              "text": "浪人",
+              "reading": "ろにん"
+            },
+            {
+              "text": "? Morning? Sorry?"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 61.8315,
+      "end": 71.7435,
+      "japanese": "苦労人？ 病人？ 考えたって今は",
+      "zh-CN": "劳苦人？ 病人？ 哪怕再怎么思考如今也",
+      "segments": [
+        {
+          "text": "苦労人？ 病人？ 考えたって今は",
+          "performerIds": [
+            "歌唱者-12",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "苦労人",
+              "reading": "くろうにん"
+            },
+            {
+              "text": "？ "
+            },
+            {
+              "text": "病人",
+              "reading": "びょうにん"
+            },
+            {
+              "text": "？ "
+            },
+            {
+              "text": "考",
+              "reading": "かんが"
+            },
+            {
+              "text": "えたって"
+            },
+            {
+              "text": "今",
+              "reading": "いま"
+            },
+            {
+              "text": "は"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 67.576,
+      "end": 69.24,
+      "japanese": "Oh-oh-oh, la-la-da-da",
+      "zh-CN": "Oh-oh-oh, la-la-da-da",
+      "segments": [
+        {
+          "text": "Oh-oh-oh, la-la-da-da",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "Oh-oh-oh, la-la-da-da"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "partial_text": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 69.344,
+      "end": 71.784,
+      "japanese": "Da-la-la-la-la-la, oh-la-la-la-la-da",
+      "zh-CN": "Da-la-la-la-la-la, oh-la-la-la-la-da",
+      "segments": [
+        {
+          "text": "Da-la-la-la-la-la, oh-la-la-la-la-da",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "Da-la-la-la-la-la, oh-la-la-la-la-da"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "partial_text": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 71.7435,
+      "end": 76.8605,
+      "japanese": "(Oh Oh) 思い出して魚の眼",
+      "zh-CN": "(Oh Oh) 回想起来死鱼般的双眼",
+      "segments": [
+        {
+          "text": "(Oh Oh) 思い出して魚の眼",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "(Oh Oh) "
+            },
+            {
+              "text": "思",
+              "reading": "おも"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "して"
+            },
+            {
+              "text": "魚",
+              "reading": "さかな"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "眼",
+              "reading": "め"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000023",
+      "order": 22,
+      "index": 22,
+      "start": 71.7435,
+      "end": 76.8605,
+      "japanese": "(Oh Oh) それとなくキルミーして!",
+      "zh-CN": "(Oh Oh) 若无其事地杀了我吧！",
+      "segments": [
+        {
+          "text": "(Oh Oh) それとなくキルミーして!",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "(Oh Oh) それとなくキルミーして!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000024",
+      "order": 23,
+      "index": 23,
+      "start": 76.8605,
+      "end": 88.7345,
+      "japanese": "(Oh Oh) Dancing in the room, number 10884 夜でも",
+      "zh-CN": "(Oh Oh) Dancing in the room, number 10884 纵然黑夜",
+      "segments": [
+        {
+          "text": "(Oh Oh) Dancing in the room, number ",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "(Oh Oh) Dancing in the room, number "
+            }
+          ]
+        },
+        {
+          "text": "10884 夜でも",
+          "performerIds": [
+            "歌唱者-11",
+            "歌唱者-12",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "10884 "
+            },
+            {
+              "text": "夜",
+              "reading": "る"
+            },
+            {
+              "text": "でも"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000025",
+      "order": 24,
+      "index": 24,
+      "start": 96.386,
+      "end": 102.64275,
+      "japanese": "Lonely? 浪人? Morning? Sorry?",
+      "zh-CN": "Lonely? 浪人? Morning? Sorry?",
+      "segments": [
+        {
+          "text": "Lonely? 浪人? Morning? Sorry?",
+          "performerIds": [
+            "歌唱者-11",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "Lonely? "
+            },
+            {
+              "text": "浪人",
+              "reading": "ろにん"
+            },
+            {
+              "text": "? Morning? Sorry?"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000026",
+      "order": 25,
+      "index": 25,
+      "start": 96.386,
+      "end": 102.64275,
+      "japanese": "苦労人？ 病人？ 考えたって今は",
+      "zh-CN": "劳苦人？ 病人？ 哪怕再怎么思考如今也",
+      "segments": [
+        {
+          "text": "苦労人？ 病人？ 考えたって今は",
+          "performerIds": [
+            "歌唱者-11",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "苦労人",
+              "reading": "くろうにん"
+            },
+            {
+              "text": "？ "
+            },
+            {
+              "text": "病人",
+              "reading": "びょうにん"
+            },
+            {
+              "text": "？ "
+            },
+            {
+              "text": "考",
+              "reading": "かんが"
+            },
+            {
+              "text": "えたって"
+            },
+            {
+              "text": "今",
+              "reading": "いま"
+            },
+            {
+              "text": "は"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000027",
+      "order": 26,
+      "index": 26,
+      "start": 98.544,
+      "end": 100.16,
+      "japanese": "Oh-oh-oh, la-la-da-da",
+      "zh-CN": "Oh-oh-oh, la-la-da-da",
+      "segments": [
+        {
+          "text": "Oh-oh-oh, la-la-da-da",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "Oh-oh-oh, la-la-da-da"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "partial_text": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000028",
+      "order": 27,
+      "index": 27,
+      "start": 100.304,
+      "end": 102.768,
+      "japanese": "Du-du-la-la-la-la, oh-la-la-la-la-da",
+      "zh-CN": "Du-du-la-la-la-la, oh-la-la-la-la-da",
+      "segments": [
+        {
+          "text": "Du-du-la-la-la-la, oh-la-la-la-la-da",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "Du-du-la-la-la-la, oh-la-la-la-la-da"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "partial_text": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000029",
+      "order": 28,
+      "index": 28,
+      "start": 102.64275,
+      "end": 107.85075,
+      "japanese": "(Oh Oh) 思い出して魚の眼",
+      "zh-CN": "(Oh Oh) 回想起来死鱼般的双眼",
+      "segments": [
+        {
+          "text": "(Oh Oh) 思い出して魚の眼",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "(Oh Oh) "
+            },
+            {
+              "text": "思",
+              "reading": "おも"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "して"
+            },
+            {
+              "text": "魚",
+              "reading": "さかな"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "眼",
+              "reading": "め"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000030",
+      "order": 29,
+      "index": 29,
+      "start": 102.64275,
+      "end": 107.85075,
+      "japanese": "(Oh Oh) それとなくキルミーして!",
+      "zh-CN": "(Oh Oh) 若无其事地杀了我吧！",
+      "segments": [
+        {
+          "text": "(Oh Oh) それとなくキルミーして!",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "(Oh Oh) それとなくキルミーして!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000031",
+      "order": 30,
+      "index": 30,
+      "start": 107.85075,
+      "end": 127.38675,
+      "japanese": "(Oh Oh) Dancing in the room, number 10884 夜でも",
+      "zh-CN": "(Oh Oh) Dancing in the room, number 10884 纵然黑夜",
+      "segments": [
+        {
+          "text": "(Oh Oh) Dancing in the room, number ",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "(Oh Oh) Dancing in the room, number "
+            }
+          ]
+        },
+        {
+          "text": "10884 夜でも",
+          "performerIds": [
+            "歌唱者-11",
+            "歌唱者-12",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "10884 "
+            },
+            {
+              "text": "夜",
+              "reading": "る"
+            },
+            {
+              "text": "でも"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000032",
+      "order": 31,
+      "index": 31,
+      "start": 133.087449,
+      "end": 134.917093,
+      "japanese": "夜でも",
+      "zh-CN": "纵然黑夜",
+      "segments": [
+        {
+          "text": "夜でも",
+          "performerIds": [
+            "歌唱者-11",
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "夜",
+              "reading": "よる"
+            },
+            {
+              "text": "でも"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    }
+  ]
+}

@@ -1,0 +1,1188 @@
+{
+  "music_id": 631,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-13",
+      "name": "天馬司"
+    },
+    {
+      "performerId": "歌唱者-14",
+      "name": "鳳えむ"
+    },
+    {
+      "performerId": "歌唱者-15",
+      "name": "草薙寧々"
+    },
+    {
+      "performerId": "歌唱者-16",
+      "name": "神代類"
+    },
+    {
+      "performerId": "歌唱者-22",
+      "name": "鏡音リン"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 9.041,
+      "end": 11.972,
+      "japanese": "ア　ア　ア　愛という名の人体実験臨床",
+      "zh-CN": "爱、爱、爱 冠以爱之名的人体实验临床",
+      "segments": [
+        {
+          "text": "ア　ア　ア　愛という名の人体実験臨床",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "ア　ア　ア　"
+            },
+            {
+              "text": "愛",
+              "reading": "あい"
+            },
+            {
+              "text": "という"
+            },
+            {
+              "text": "名",
+              "reading": "な"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "人体実験臨床",
+              "reading": "じんたいじっけんりんしょう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 11.972,
+      "end": 13.695,
+      "japanese": "私は恋する　C8H11NO2",
+      "zh-CN": "我正深陷爱恋之中的 C8H11NO2 多巴胺",
+      "segments": [
+        {
+          "text": "私は恋する　C8H11NO2",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "私",
+              "reading": "わたし"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "恋",
+              "reading": "こい"
+            },
+            {
+              "text": "する　C8H11NO2"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 13.695,
+      "end": 16.065,
+      "japanese": "カ　カ　カ　化学反応　心拍数の上昇",
+      "zh-CN": "化、化、化 化学反应 心率飙升",
+      "segments": [
+        {
+          "text": "カ　カ　カ　化学反応　心拍数の上昇",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "カ　カ　カ　"
+            },
+            {
+              "text": "化学反応",
+              "reading": "かがくはんのう"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "心拍数",
+              "reading": "しんぱくすう"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "上昇",
+              "reading": "じょうしょう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 16.065,
+      "end": 31.067,
+      "japanese": "あなたに起こすの　生体反応：あいしている",
+      "zh-CN": "在你体内引发 生理反应：我爱你",
+      "segments": [
+        {
+          "text": "あなたに起こすの　生体反応：",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "あなたに"
+            },
+            {
+              "text": "起",
+              "reading": "お"
+            },
+            {
+              "text": "こすの　"
+            },
+            {
+              "text": "生体反応",
+              "reading": "せいたいはんのう"
+            },
+            {
+              "text": "："
+            }
+          ]
+        },
+        {
+          "text": "あいしている",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "あいしている"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 31.067,
+      "end": 33.983,
+      "japanese": "サ　サ　サ　サイケフィーリン　頭はガンガン",
+      "zh-CN": "迷、迷、迷 迷幻心绪 头疼欲裂",
+      "segments": [
+        {
+          "text": "サ　サ　サ　サイケフィーリン　頭はガンガン",
+          "performerIds": [
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "サ　サ　サ　サイケフィーリン　"
+            },
+            {
+              "text": "頭",
+              "reading": "あたま"
+            },
+            {
+              "text": "はガンガン"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "index": 5,
+      "start": 33.983,
+      "end": 35.986,
+      "japanese": "溢れて　C8H11N",
+      "zh-CN": "满溢而出的 苯乙胺 C8H11N",
+      "segments": [
+        {
+          "text": "溢れて　C8H11N",
+          "performerIds": [
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "溢",
+              "reading": "あふ"
+            },
+            {
+              "text": "れて　C8H11N"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 35.986,
+      "end": 38.733,
+      "japanese": "ダ　ダ　ダ　大嫌い→から　こんがらがって→陽性",
+      "zh-CN": "极、极、极 从极其讨厌 纠缠交织 变为阳性",
+      "segments": [
+        {
+          "text": "ダ　ダ　ダ　大嫌い→から　こんがらがって→陽性",
+          "performerIds": [
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "ダ　ダ　ダ　"
+            },
+            {
+              "text": "大嫌",
+              "reading": "だいきら"
+            },
+            {
+              "text": "い→から　こんがらがって→"
+            },
+            {
+              "text": "陽性",
+              "reading": "ようせい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 38.733,
+      "end": 46.985,
+      "japanese": "その手を握れば　生体反応：あいしている",
+      "zh-CN": "只要握住那双手 生理反应：我爱你",
+      "segments": [
+        {
+          "text": "その手を握れば　生体反応：",
+          "performerIds": [
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "その"
+            },
+            {
+              "text": "手",
+              "reading": "て"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "握",
+              "reading": "にぎ"
+            },
+            {
+              "text": "れば　"
+            },
+            {
+              "text": "生体反応",
+              "reading": "せいたいはんのう"
+            },
+            {
+              "text": "："
+            }
+          ]
+        },
+        {
+          "text": "あいしている",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-16",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "あいしている"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 46.985,
+      "end": 50.775,
+      "japanese": "理科室の鍵をかけたなら",
+      "zh-CN": "只要反锁上理科实验室的门",
+      "segments": [
+        {
+          "text": "理科室の鍵をかけたなら",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "理科室",
+              "reading": "りかしつ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "鍵",
+              "reading": "かぎ"
+            },
+            {
+              "text": "をかけたなら"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 50.775,
+      "end": 52.791,
+      "japanese": "私　天才だから　天才だから",
+      "zh-CN": "因为我是天才 因为我是天才",
+      "segments": [
+        {
+          "text": "私　天才だから　天才だから",
+          "performerIds": [
+            "歌唱者-15",
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "私",
+              "reading": "わたし"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "天才",
+              "reading": "てんさい"
+            },
+            {
+              "text": "だから　"
+            },
+            {
+              "text": "天才",
+              "reading": "てんさい"
+            },
+            {
+              "text": "だから"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 52.791,
+      "end": 56.042,
+      "japanese": "あなたの気持ちも分かっちゃう",
+      "zh-CN": "你的心思我也全都了如指掌",
+      "segments": [
+        {
+          "text": "あなたの気持ちも分かっちゃう",
+          "performerIds": [
+            "歌唱者-15",
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "あなたの"
+            },
+            {
+              "text": "気持",
+              "reading": "きも"
+            },
+            {
+              "text": "ちも"
+            },
+            {
+              "text": "分",
+              "reading": "わ"
+            },
+            {
+              "text": "かっちゃう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 56.042,
+      "end": 60.712,
+      "japanese": "あなたはだんだん　私を好きになる",
+      "zh-CN": "你会渐渐地 越来越喜欢我",
+      "segments": [
+        {
+          "text": "あなたはだんだん　私を好きになる",
+          "performerIds": [
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "あなたはだんだん　"
+            },
+            {
+              "text": "私",
+              "reading": "わたし"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "好",
+              "reading": "す"
+            },
+            {
+              "text": "きになる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 60.712,
+      "end": 63.09,
+      "japanese": "天才だから　天才だから",
+      "zh-CN": "因为我是天才 因为我是天才",
+      "segments": [
+        {
+          "text": "天才だから　天才だから",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "天才",
+              "reading": "てんさい"
+            },
+            {
+              "text": "だから　"
+            },
+            {
+              "text": "天才",
+              "reading": "てんさい"
+            },
+            {
+              "text": "だから"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 63.09,
+      "end": 65.569,
+      "japanese": "あなたのすべても奪っちゃう",
+      "zh-CN": "你的全部我都要统统夺走",
+      "segments": [
+        {
+          "text": "あなたのすべても奪っちゃう",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "あなたのすべても"
+            },
+            {
+              "text": "奪",
+              "reading": "うば"
+            },
+            {
+              "text": "っちゃう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 65.569,
+      "end": 68.281,
+      "japanese": "脳神経→から感覚細胞",
+      "zh-CN": "从脑神经 蔓延至感觉细胞",
+      "segments": [
+        {
+          "text": "脳神経→から感覚細胞",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "脳神経",
+              "reading": "のうしんけい"
+            },
+            {
+              "text": "→から"
+            },
+            {
+              "text": "感覚細胞",
+              "reading": "かんかくさいぼう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 68.281,
+      "end": 80.205,
+      "japanese": "意識の果てまで　Hack into",
+      "zh-CN": "直至意识的最深尽头 Hack into",
+      "segments": [
+        {
+          "text": "意識の果てまで　",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "意識",
+              "reading": "いしき"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "果",
+              "reading": "は"
+            },
+            {
+              "text": "てまで　"
+            }
+          ]
+        },
+        {
+          "text": "Hack into",
+          "performerIds": [
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "Hack into"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 80.205,
+      "end": 83.718,
+      "japanese": "嗚呼　愛も恋も",
+      "zh-CN": "啊啊 无论是爱意还是恋情",
+      "segments": [
+        {
+          "text": "嗚呼　愛も恋も",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "嗚呼",
+              "reading": "ああ"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "愛",
+              "reading": "あい"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "恋",
+              "reading": "こい"
+            },
+            {
+              "text": "も"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 83.718,
+      "end": 92.087,
+      "japanese": "化学式の中のマボロシ　あぁ",
+      "zh-CN": "全是化学方程式中的幻影 啊啊",
+      "segments": [
+        {
+          "text": "化学式の中のマボロシ　あぁ",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "化学式",
+              "reading": "かがくしき"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "中",
+              "reading": "なか"
+            },
+            {
+              "text": "のマボロシ　あぁ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 92.087,
+      "end": 94.773,
+      "japanese": "私　天才だから　天才だから",
+      "zh-CN": "因为我是天才 因为我是天才",
+      "segments": [
+        {
+          "text": "私　天才だから　天才だから",
+          "performerIds": [
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "私",
+              "reading": "わたし"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "天才",
+              "reading": "てんさい"
+            },
+            {
+              "text": "だから　"
+            },
+            {
+              "text": "天才",
+              "reading": "てんさい"
+            },
+            {
+              "text": "だから"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 94.773,
+      "end": 97.817,
+      "japanese": "遍く全てが分かっちゃう",
+      "zh-CN": "世间万物我都了如指掌",
+      "segments": [
+        {
+          "text": "遍く全てが分かっちゃう",
+          "performerIds": [
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "遍",
+              "reading": "あまね"
+            },
+            {
+              "text": "く"
+            },
+            {
+              "text": "全",
+              "reading": "すべ"
+            },
+            {
+              "text": "てが"
+            },
+            {
+              "text": "分",
+              "reading": "わ"
+            },
+            {
+              "text": "かっちゃう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 97.817,
+      "end": 102.55,
+      "japanese": "そろそろこの世に飽きてきたころなの",
+      "zh-CN": "差不多正是对这个世界感到厌倦的时候了呢",
+      "segments": [
+        {
+          "text": "そろそろこの世に飽きてきたころなの",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "そろそろこの"
+            },
+            {
+              "text": "世",
+              "reading": "よ"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "飽",
+              "reading": "あ"
+            },
+            {
+              "text": "きてきたころなの"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 102.55,
+      "end": 104.715,
+      "japanese": "天才だから　天才だから",
+      "zh-CN": "因为我是天才 因为我是天才",
+      "segments": [
+        {
+          "text": "天才だから　天才だから",
+          "performerIds": [
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "天才",
+              "reading": "てんさい"
+            },
+            {
+              "text": "だから　"
+            },
+            {
+              "text": "天才",
+              "reading": "てんさい"
+            },
+            {
+              "text": "だから"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000023",
+      "order": 22,
+      "index": 22,
+      "start": 104.715,
+      "end": 107.441,
+      "japanese": "あなたのその手を掴んじゃう",
+      "zh-CN": "我会一把紧紧抓住你的那双手",
+      "segments": [
+        {
+          "text": "あなたのその手を掴んじゃう",
+          "performerIds": [
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "あなたのその"
+            },
+            {
+              "text": "手",
+              "reading": "て"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "掴",
+              "reading": "つか"
+            },
+            {
+              "text": "んじゃう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000024",
+      "order": 23,
+      "index": 23,
+      "start": 107.441,
+      "end": 111.532,
+      "japanese": "屋上階から飛び出して　銀河の果てまで",
+      "zh-CN": "从天台之上纵身跃出 直奔银河的最深尽头",
+      "segments": [
+        {
+          "text": "屋上階から飛び出して　銀河の果てまで",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "屋上階",
+              "reading": "おくじょうかい"
+            },
+            {
+              "text": "から"
+            },
+            {
+              "text": "飛",
+              "reading": "と"
+            },
+            {
+              "text": "び"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "して　"
+            },
+            {
+              "text": "銀河",
+              "reading": "ぎんが"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "果",
+              "reading": "は"
+            },
+            {
+              "text": "てまで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000025",
+      "order": 24,
+      "index": 24,
+      "start": 111.532,
+      "end": 114.586,
+      "japanese": "私　天才だから　天才だから",
+      "zh-CN": "因为我是天才 因为我是天才",
+      "segments": [
+        {
+          "text": "私　天才だから　天才だから",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "私",
+              "reading": "わたし"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "天才",
+              "reading": "てんさい"
+            },
+            {
+              "text": "だから　"
+            },
+            {
+              "text": "天才",
+              "reading": "てんさい"
+            },
+            {
+              "text": "だから"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000026",
+      "order": 25,
+      "index": 25,
+      "start": 114.586,
+      "end": 117.162,
+      "japanese": "愛など無くても分かっちゃう",
+      "zh-CN": "哪怕毫无爱意我也能彻底理解",
+      "segments": [
+        {
+          "text": "愛など無くても分かっちゃう",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "愛",
+              "reading": "あい"
+            },
+            {
+              "text": "など"
+            },
+            {
+              "text": "無",
+              "reading": "な"
+            },
+            {
+              "text": "くても"
+            },
+            {
+              "text": "分",
+              "reading": "わ"
+            },
+            {
+              "text": "かっちゃう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000027",
+      "order": 26,
+      "index": 26,
+      "start": 117.162,
+      "end": 119.536,
+      "japanese": "脳神経→から感覚細胞",
+      "zh-CN": "从脑神经 蔓延至感觉细胞",
+      "segments": [
+        {
+          "text": "脳神経→から感覚細胞",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "脳神経",
+              "reading": "のうしんけい"
+            },
+            {
+              "text": "→から"
+            },
+            {
+              "text": "感覚細胞",
+              "reading": "かんかくさいぼう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000028",
+      "order": 27,
+      "index": 27,
+      "start": 119.536,
+      "end": 121.962,
+      "japanese": "意識の果てまで　全部埋めてよ",
+      "zh-CN": "直至意识的最深尽头 全部彻底填满吧",
+      "segments": [
+        {
+          "text": "意識の果てまで　全部埋めてよ",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "意識",
+              "reading": "いしき"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "果",
+              "reading": "は"
+            },
+            {
+              "text": "てまで　"
+            },
+            {
+              "text": "全部埋",
+              "reading": "ぜんぶう"
+            },
+            {
+              "text": "めてよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000029",
+      "order": 28,
+      "index": 28,
+      "start": 121.962,
+      "end": 142.30912,
+      "japanese": "ねぇ、あなたを　“あいしてる”",
+      "zh-CN": "我说，我“深爱着”你哦",
+      "segments": [
+        {
+          "text": "ねぇ、あなたを　“あいしてる”",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "ねぇ、あなたを　“あいしてる”"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    }
+  ]
+}

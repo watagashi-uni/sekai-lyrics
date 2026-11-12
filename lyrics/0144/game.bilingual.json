@@ -1,0 +1,1114 @@
+{
+  "music_id": 144,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-05",
+      "name": "花里みのり"
+    },
+    {
+      "performerId": "歌唱者-06",
+      "name": "桐谷遥"
+    },
+    {
+      "performerId": "歌唱者-07",
+      "name": "桃井愛莉"
+    },
+    {
+      "performerId": "歌唱者-08",
+      "name": "日野森雫"
+    },
+    {
+      "performerId": "歌唱者-25",
+      "name": "MEIKO"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 10.4925,
+      "end": 14.4575,
+      "japanese": "（I know アイノシンパシー　コレモ）",
+      "zh-CN": "（I know 爱的共鸣 这个也是）",
+      "segments": [
+        {
+          "text": "（I know アイノシンパシー　",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "（I know アイノシンパシー　"
+            }
+          ]
+        },
+        {
+          "text": "コレモ）",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "コレモ）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 14.4575,
+      "end": 18.4145,
+      "japanese": "（I know アイノマテリアル　ココニ",
+      "zh-CN": "（I know 爱的素材 在这里",
+      "segments": [
+        {
+          "text": "（I know アイノマテリアル　",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "（I know アイノマテリアル　"
+            }
+          ]
+        },
+        {
+          "text": "ココニ",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "ココニ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 18.4145,
+      "end": 22.4195,
+      "japanese": "（I know アイノシンパシー　ダッテ）",
+      "zh-CN": "（I know 爱的共鸣 因为）",
+      "segments": [
+        {
+          "text": "（I know アイノシンパシー　",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "（I know アイノシンパシー　"
+            }
+          ]
+        },
+        {
+          "text": "ダッテ）",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-08",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "ダッテ）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 22.4195,
+      "end": 25.7135,
+      "japanese": "（アイノマテリアル）",
+      "zh-CN": "（爱的素材）",
+      "segments": [
+        {
+          "text": "（アイノマテリアル）",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "（アイノマテリアル）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 26.4155,
+      "end": 29.6665,
+      "japanese": "不意にキュンって寂しくなる",
+      "zh-CN": "忽然心中一揪泛起阵阵落寞",
+      "segments": [
+        {
+          "text": "不意にキュンって寂しくなる",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "不意",
+              "reading": "ふい"
+            },
+            {
+              "text": "にキュンって"
+            },
+            {
+              "text": "寂",
+              "reading": "さび"
+            },
+            {
+              "text": "しくなる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 29.6665,
+      "end": 33.6495,
+      "japanese": "空は今日も星を隠した",
+      "zh-CN": "夜空今天也把繁星悄悄藏起",
+      "segments": [
+        {
+          "text": "空は今日も星を隠した",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "空",
+              "reading": "そら"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "今日",
+              "reading": "きょう"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "星",
+              "reading": "ほし"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "隠",
+              "reading": "かく"
+            },
+            {
+              "text": "した"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 34.4575,
+      "end": 37.3955,
+      "japanese": "聞こえた声が嬉しいの",
+      "zh-CN": "能听见你的声音真的好开心",
+      "segments": [
+        {
+          "text": "聞こえた声が嬉しいの",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "聞",
+              "reading": "き"
+            },
+            {
+              "text": "こえた"
+            },
+            {
+              "text": "声",
+              "reading": "こえ"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "嬉",
+              "reading": "うれ"
+            },
+            {
+              "text": "しいの"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 37.6225,
+      "end": 41.5105,
+      "japanese": "花は頬をパッと色付けた",
+      "zh-CN": "鲜花让脸颊瞬间染上一抹绯红",
+      "segments": [
+        {
+          "text": "花は頬をパッと色付けた",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "花",
+              "reading": "はな"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "頬",
+              "reading": "ほう"
+            },
+            {
+              "text": "をパッと"
+            },
+            {
+              "text": "色付",
+              "reading": "いろつ"
+            },
+            {
+              "text": "けた"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 41.7745,
+      "end": 45.4705,
+      "japanese": "キミが見つめていた未来",
+      "zh-CN": "你所凝视着的未来",
+      "segments": [
+        {
+          "text": "キミが見つめていた未来",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "キミが"
+            },
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "つめていた"
+            },
+            {
+              "text": "未来",
+              "reading": "みらい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 45.6865,
+      "end": 49.5545,
+      "japanese": "連れていく事は出来ないのかな",
+      "zh-CN": "是否也能将我一同带去呢",
+      "segments": [
+        {
+          "text": "連れていく事は出来ないのかな",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "連",
+              "reading": "つ"
+            },
+            {
+              "text": "れていく"
+            },
+            {
+              "text": "事",
+              "reading": "こと"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "出来",
+              "reading": "でき"
+            },
+            {
+              "text": "ないのかな"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 49.7435,
+      "end": 53.5355,
+      "japanese": "キミが歩き続ける隣",
+      "zh-CN": "在你不断前行的身旁",
+      "segments": [
+        {
+          "text": "キミが歩き続ける隣",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "キミが"
+            },
+            {
+              "text": "歩",
+              "reading": "ある"
+            },
+            {
+              "text": "き"
+            },
+            {
+              "text": "続",
+              "reading": "つづ"
+            },
+            {
+              "text": "ける"
+            },
+            {
+              "text": "隣",
+              "reading": "となり"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 53.7035,
+      "end": 57.1425,
+      "japanese": "支えられたらいいな",
+      "zh-CN": "若能给予你支持该有多好",
+      "segments": [
+        {
+          "text": "支えられたらいいな",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "支",
+              "reading": "ささ"
+            },
+            {
+              "text": "えられたらいいな"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 57.6865,
+      "end": 61.8825,
+      "japanese": "（アシタヘジャンプ）星が降りそうな",
+      "zh-CN": "（跃向明天）繁星仿佛即将坠落",
+      "segments": [
+        {
+          "text": "（アシタヘジャンプ）",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "（アシタヘジャンプ）"
+            }
+          ]
+        },
+        {
+          "text": "星が降りそうな",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "星",
+              "reading": "ほし"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "降",
+              "reading": "お"
+            },
+            {
+              "text": "りそうな"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 62.0265,
+      "end": 66.2695,
+      "japanese": "（いつでも）キラキラ笑顔だって",
+      "zh-CN": "（无论何时）那闪闪发光的笑容",
+      "segments": [
+        {
+          "text": "（いつでも）",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "（いつでも）"
+            }
+          ]
+        },
+        {
+          "text": "キラキラ笑顔だって",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "キラキラ"
+            },
+            {
+              "text": "笑顔",
+              "reading": "えがお"
+            },
+            {
+              "text": "だって"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 66.2695,
+      "end": 69.7845,
+      "japanese": "（笑顔で）辛くても隠して",
+      "zh-CN": "（带着笑容）哪怕痛苦也深藏心底",
+      "segments": [
+        {
+          "text": "（笑顔で）",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-07",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "（"
+            },
+            {
+              "text": "笑顔",
+              "reading": "えがお"
+            },
+            {
+              "text": "で）"
+            }
+          ]
+        },
+        {
+          "text": "辛くても隠して",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "辛",
+              "reading": "つら"
+            },
+            {
+              "text": "くても"
+            },
+            {
+              "text": "隠",
+              "reading": "かく"
+            },
+            {
+              "text": "して"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 69.7845,
+      "end": 75.0635,
+      "japanese": "（会いたい）見せないで笑ってたんだね",
+      "zh-CN": "（好想相见）不露痕迹地勉强欢笑呢",
+      "segments": [
+        {
+          "text": "（会いたい）",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "（"
+            },
+            {
+              "text": "会",
+              "reading": "あ"
+            },
+            {
+              "text": "いたい）"
+            }
+          ]
+        },
+        {
+          "text": "見せないで笑ってたんだね",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "せないで"
+            },
+            {
+              "text": "笑",
+              "reading": "わら"
+            },
+            {
+              "text": "ってたんだね"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 75.7905,
+      "end": 79.5355,
+      "japanese": "いつでも笑顔でいたいから",
+      "zh-CN": "因为无论何时都想保持微笑",
+      "segments": [
+        {
+          "text": "いつでも笑顔でいたいから",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "いつでも"
+            },
+            {
+              "text": "笑顔",
+              "reading": "えがお"
+            },
+            {
+              "text": "でいたいから"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 79.7275,
+      "end": 83.5125,
+      "japanese": "辛くないよ、もっとがんばるよ",
+      "zh-CN": "“一点都不辛苦哦，我会更加努力的”",
+      "segments": [
+        {
+          "text": "辛くないよ、もっとがんばるよ",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "辛",
+              "reading": "つら"
+            },
+            {
+              "text": "くないよ、もっとがんばるよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 83.7225,
+      "end": 87.5435,
+      "japanese": "そんなウソ、ギュっと抱きしめて",
+      "zh-CN": "紧紧怀揣着那样的谎言",
+      "segments": [
+        {
+          "text": "そんなウソ、ギュっと抱きしめて",
+          "performerIds": [
+            "歌唱者-08",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "そんなウソ、ギュっと"
+            },
+            {
+              "text": "抱",
+              "reading": "だ"
+            },
+            {
+              "text": "きしめて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 87.7515,
+      "end": 91.1395,
+      "japanese": "ずっと歩いてたのかな",
+      "zh-CN": "你是不是一直这样一步步走过来的呢",
+      "segments": [
+        {
+          "text": "ずっと歩いてたのかな",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "ずっと"
+            },
+            {
+              "text": "歩",
+              "reading": "ある"
+            },
+            {
+              "text": "いてたのかな"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 91.7795,
+      "end": 95.4985,
+      "japanese": "高くもっともっと飛べるよ",
+      "zh-CN": "你能飞得更高更高哦",
+      "segments": [
+        {
+          "text": "高くもっともっと飛べるよ",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "高",
+              "reading": "たか"
+            },
+            {
+              "text": "くもっともっと"
+            },
+            {
+              "text": "飛",
+              "reading": "と"
+            },
+            {
+              "text": "べるよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 95.7005,
+      "end": 99.5805,
+      "japanese": "キミなら笑顔で出来ちゃうけど",
+      "zh-CN": "只要是你 面带笑容一定都能做到",
+      "segments": [
+        {
+          "text": "キミなら笑顔で出来ちゃうけど",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "キミなら"
+            },
+            {
+              "text": "笑顔",
+              "reading": "えがお"
+            },
+            {
+              "text": "で"
+            },
+            {
+              "text": "出来",
+              "reading": "でき"
+            },
+            {
+              "text": "ちゃうけど"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000023",
+      "order": 22,
+      "index": 22,
+      "start": 99.7635,
+      "end": 103.5415,
+      "japanese": "ほんのちょっとだってでもいいから",
+      "zh-CN": "哪怕只有一点点也完全没关系",
+      "segments": [
+        {
+          "text": "ほんのちょっとだってでもいいから",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "ほんのちょっとだってでもいいから"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000024",
+      "order": 23,
+      "index": 23,
+      "start": 103.7655,
+      "end": 107.1075,
+      "japanese": "そっと甘えてもいいの",
+      "zh-CN": "悄悄向我撒撒娇也是可以的哦",
+      "segments": [
+        {
+          "text": "そっと甘えてもいいの",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "そっと"
+            },
+            {
+              "text": "甘",
+              "reading": "あま"
+            },
+            {
+              "text": "えてもいいの"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000025",
+      "order": 24,
+      "index": 24,
+      "start": 107.7625,
+      "end": 111.8905,
+      "japanese": "むしろ甘えてほしいの",
+      "zh-CN": "不如说更想让你向我撒娇依赖呢",
+      "segments": [
+        {
+          "text": "むしろ甘えてほしいの",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "むしろ"
+            },
+            {
+              "text": "甘",
+              "reading": "あま"
+            },
+            {
+              "text": "えてほしいの"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000026",
+      "order": 25,
+      "index": 25,
+      "start": 112.3455,
+      "end": 116.4675,
+      "japanese": "（I know アイノシンパシー　コレモ）",
+      "zh-CN": "（I know 爱的共鸣 这个也是）",
+      "segments": [
+        {
+          "text": "（I know アイノシンパシー　",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "（I know アイノシンパシー　"
+            }
+          ]
+        },
+        {
+          "text": "コレモ）",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "コレモ）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000027",
+      "order": 26,
+      "index": 26,
+      "start": 116.4675,
+      "end": 120.4725,
+      "japanese": "（I know アイノマテリアル　ココニ）",
+      "zh-CN": "（I know 爱的素材 在这里）",
+      "segments": [
+        {
+          "text": "（I know アイノマテリアル　",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "（I know アイノマテリアル　"
+            }
+          ]
+        },
+        {
+          "text": "ココニ）",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "ココニ）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000028",
+      "order": 27,
+      "index": 27,
+      "start": 120.4725,
+      "end": 124.4445,
+      "japanese": "（I know アイノシンパシー　ダッテ）",
+      "zh-CN": "（I know 爱的共鸣 因为）",
+      "segments": [
+        {
+          "text": "（I know アイノシンパシー　",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "（I know アイノシンパシー　"
+            }
+          ]
+        },
+        {
+          "text": "ダッテ）",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "ダッテ）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000029",
+      "order": 28,
+      "index": 28,
+      "start": 124.4445,
+      "end": 127.9645,
+      "japanese": "（アイノマテリアル）",
+      "zh-CN": "（爱的素材）",
+      "segments": [
+        {
+          "text": "（アイノマテリアル）",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "（アイノマテリアル）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

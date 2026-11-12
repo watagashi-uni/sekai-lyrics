@@ -1,0 +1,734 @@
+{
+  "music_id": 752,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-17",
+      "name": "宵崎奏"
+    },
+    {
+      "performerId": "歌唱者-18",
+      "name": "朝比奈まふゆ"
+    },
+    {
+      "performerId": "歌唱者-19",
+      "name": "東雲絵名"
+    },
+    {
+      "performerId": "歌唱者-20",
+      "name": "暁山瑞希"
+    },
+    {
+      "performerId": "歌唱者-25",
+      "name": "MEIKO"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 9.6976,
+      "end": 19.26875,
+      "japanese": "思い出していたのは　また、家族の事",
+      "zh-CN": "回想起来的 又是关于家人的事",
+      "segments": [
+        {
+          "text": "思い出していたのは　また、家族の事",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "思",
+              "reading": "おも"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "していたのは　また、"
+            },
+            {
+              "text": "家族",
+              "reading": "かぞく"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "事",
+              "reading": "こと"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 19.26875,
+      "end": 34.95475,
+      "japanese": "「アヤノはお姉ちゃんだから　皆の事、よろしくね」",
+      "zh-CN": "「文乃是姐姐 大家就拜托你照顾了哦」",
+      "segments": [
+        {
+          "text": "「アヤノはお姉ちゃんだから　皆の事、よろしくね」",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "「アヤノはお"
+            },
+            {
+              "text": "姉",
+              "reading": "ねえ"
+            },
+            {
+              "text": "ちゃんだから　"
+            },
+            {
+              "text": "皆",
+              "reading": "みな"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "事",
+              "reading": "こと"
+            },
+            {
+              "text": "、よろしくね」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 34.95475,
+      "end": 40.24675,
+      "japanese": "赤煉瓦の壁　小さな家の中で",
+      "zh-CN": "红砖墙壁的 小小房屋里",
+      "segments": [
+        {
+          "text": "赤煉瓦の壁　小さな家の中で",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "赤",
+              "reading": "あか"
+            },
+            {
+              "text": "煉瓦",
+              "reading": "れんが"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "壁",
+              "reading": "かべ"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "小",
+              "reading": "ちい"
+            },
+            {
+              "text": "さな"
+            },
+            {
+              "text": "家",
+              "reading": "いえ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "中",
+              "reading": "なか"
+            },
+            {
+              "text": "で"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 40.24675,
+      "end": 45.91075,
+      "japanese": "ひそひそ話そう　秘密の作戦みたいに",
+      "zh-CN": "悄悄咬耳朵吧 就像秘密作战一样",
+      "segments": [
+        {
+          "text": "ひそひそ話そう　秘密の作戦みたいに",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "ひそひそ"
+            },
+            {
+              "text": "話",
+              "reading": "はな"
+            },
+            {
+              "text": "そう　"
+            },
+            {
+              "text": "秘密",
+              "reading": "ひみつ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "作戦",
+              "reading": "さくせん"
+            },
+            {
+              "text": "みたいに"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 45.91075,
+      "end": 51.62275,
+      "japanese": "連れて来られた　三人の真っ赤な目には",
+      "zh-CN": "被带过来的 三个人的猩红双眸中",
+      "segments": [
+        {
+          "text": "連れて来られた　三人の真っ赤な目には",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "連",
+              "reading": "つ"
+            },
+            {
+              "text": "れて"
+            },
+            {
+              "text": "来",
+              "reading": "きた"
+            },
+            {
+              "text": "られた　"
+            },
+            {
+              "text": "三",
+              "reading": "さん"
+            },
+            {
+              "text": "人",
+              "reading": "にん"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "真",
+              "reading": "ま"
+            },
+            {
+              "text": "っ"
+            },
+            {
+              "text": "赤",
+              "reading": "か"
+            },
+            {
+              "text": "な"
+            },
+            {
+              "text": "目",
+              "reading": "め"
+            },
+            {
+              "text": "には"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 51.62275,
+      "end": 55.96675,
+      "japanese": "大人に隠していた　過去がある",
+      "zh-CN": "藏着对大人们隐瞒的 过去",
+      "segments": [
+        {
+          "text": "大人に隠していた　過去がある",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "大人",
+              "reading": "おとな"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "隠",
+              "reading": "かく"
+            },
+            {
+              "text": "していた　"
+            },
+            {
+              "text": "過去",
+              "reading": "かこ"
+            },
+            {
+              "text": "がある"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 55.938944,
+      "end": 67.733205,
+      "japanese": "面白い事　悩んでは　今日もお姉ちゃんぶって",
+      "zh-CN": "苦思冥想着有趣的事情 今天也装模作样扮起姐姐",
+      "segments": [
+        {
+          "text": "面白い事　悩んでは　今日もお姉ちゃんぶって",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "面白",
+              "reading": "おもしろ"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "事",
+              "reading": "こと"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "悩",
+              "reading": "なや"
+            },
+            {
+              "text": "んでは　"
+            },
+            {
+              "text": "今日",
+              "reading": "きょう"
+            },
+            {
+              "text": "もお"
+            },
+            {
+              "text": "姉",
+              "reading": "ねえ"
+            },
+            {
+              "text": "ちゃんぶって"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 67.940175,
+      "end": 74.223248,
+      "japanese": "「ほら、見ていて」　赤いマフラー巻き付けた",
+      "zh-CN": "「看好咯」围上鲜红的围巾",
+      "segments": [
+        {
+          "text": "「ほら、見ていて」　赤いマフラー巻き付けた",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "「ほら、"
+            },
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "ていて」　"
+            },
+            {
+              "text": "赤",
+              "reading": "あか"
+            },
+            {
+              "text": "いマフラー"
+            },
+            {
+              "text": "巻",
+              "reading": "ま"
+            },
+            {
+              "text": "き"
+            },
+            {
+              "text": "付",
+              "reading": "つ"
+            },
+            {
+              "text": "けた"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 74.431218,
+      "end": 77.863712,
+      "japanese": "『秘密組織みたい！』",
+      "zh-CN": "『就像秘密组织一样！』",
+      "segments": [
+        {
+          "text": "『秘密組織みたい！』",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "『"
+            },
+            {
+              "text": "秘密",
+              "reading": "ひみつ"
+            },
+            {
+              "text": "組織",
+              "reading": "そしき"
+            },
+            {
+              "text": "みたい！』"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 78.121674,
+      "end": 89.668972,
+      "japanese": "茜色、染めて、始めよう 小さな「ヒーローのフリ」だけど",
+      "zh-CN": "染上茜色 开始吧 虽然只是小小的「假扮英雄」",
+      "segments": [
+        {
+          "text": "茜色、染めて、始めよう ",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "茜色",
+              "reading": "あかねいろ"
+            },
+            {
+              "text": "、"
+            },
+            {
+              "text": "染",
+              "reading": "そ"
+            },
+            {
+              "text": "めて、"
+            },
+            {
+              "text": "始",
+              "reading": "はじ"
+            },
+            {
+              "text": "めよう "
+            }
+          ]
+        },
+        {
+          "text": "小さな「ヒーローのフリ」だけど",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "小",
+              "reading": "ちい"
+            },
+            {
+              "text": "さな「ヒーローのフリ」だけど"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 89.892939,
+      "end": 99.876467,
+      "japanese": "「少しでも、また笑えたら」 って　今日も家族でいよう",
+      "zh-CN": "心想着「只要能稍微再次绽放笑容」 今天也做一家人吧",
+      "segments": [
+        {
+          "text": "「少しでも、また笑えたら」 ",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "「"
+            },
+            {
+              "text": "少",
+              "reading": "すこ"
+            },
+            {
+              "text": "しでも、また"
+            },
+            {
+              "text": "笑",
+              "reading": "わら"
+            },
+            {
+              "text": "えたら」 "
+            }
+          ]
+        },
+        {
+          "text": "って　今日も家族でいよう",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "って　"
+            },
+            {
+              "text": "今日",
+              "reading": "きょう"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "家族",
+              "reading": "かぞく"
+            },
+            {
+              "text": "でいよう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 100.117432,
+      "end": 111.946688,
+      "japanese": "「幸せ」を願おう、先にある未来が どれだけ　悲しくても",
+      "zh-CN": "祈求「幸福」吧 哪怕前方的未来 无论多么悲伤",
+      "segments": [
+        {
+          "text": "「幸せ」を願おう、先にある未来が ",
+          "performerIds": [
+            "歌唱者-19",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "「"
+            },
+            {
+              "text": "幸",
+              "reading": "しあわ"
+            },
+            {
+              "text": "せ」を"
+            },
+            {
+              "text": "願",
+              "reading": "ねが"
+            },
+            {
+              "text": "おう、"
+            },
+            {
+              "text": "先",
+              "reading": "さき"
+            },
+            {
+              "text": "にある"
+            },
+            {
+              "text": "未来",
+              "reading": "みらい"
+            },
+            {
+              "text": "が "
+            }
+          ]
+        },
+        {
+          "text": "どれだけ　悲しくても",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "どれだけ　"
+            },
+            {
+              "text": "悲",
+              "reading": "かな"
+            },
+            {
+              "text": "しくても"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 112.250643,
+      "end": 122.364152,
+      "japanese": "「このことは秘密だよ」 楽しくて陽が沈んだ",
+      "zh-CN": "「这件事要保密哦」在欢声笑语中夕阳西下",
+      "segments": [
+        {
+          "text": "「このことは秘密だよ」 ",
+          "performerIds": [
+            "歌唱者-20",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "「このことは"
+            },
+            {
+              "text": "秘密",
+              "reading": "ひみつ"
+            },
+            {
+              "text": "だよ」 "
+            }
+          ]
+        },
+        {
+          "text": "楽しくて陽が沈んだ",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "楽",
+              "reading": "たの"
+            },
+            {
+              "text": "しくて"
+            },
+            {
+              "text": "陽",
+              "reading": "ひ"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "沈",
+              "reading": "しず"
+            },
+            {
+              "text": "んだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

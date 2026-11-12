@@ -1,0 +1,862 @@
+{
+  "music_id": 103,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-15",
+      "name": "草薙寧々"
+    },
+    {
+      "performerId": "歌唱者-16",
+      "name": "神代類"
+    },
+    {
+      "performerId": "歌唱者-25",
+      "name": "MEIKO"
+    },
+    {
+      "performerId": "歌唱者-26",
+      "name": "KAITO"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 21.572635,
+      "end": 25.912693,
+      "japanese": "廻る街角　",
+      "zh-CN": "街角流转",
+      "segments": [
+        {
+          "text": "廻る街角　",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "廻",
+              "reading": "まわ"
+            },
+            {
+              "text": "る"
+            },
+            {
+              "text": "街角",
+              "reading": "まちかど"
+            },
+            {
+              "text": "　"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 21.572635,
+      "end": 25.912693,
+      "japanese": "行き交う人々",
+      "zh-CN": "行人来来往往",
+      "segments": [
+        {
+          "text": "行き交う人々",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "行",
+              "reading": "ゆ"
+            },
+            {
+              "text": "き"
+            },
+            {
+              "text": "交",
+              "reading": "か"
+            },
+            {
+              "text": "う"
+            },
+            {
+              "text": "人々",
+              "reading": "ひとびと"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 25.912693,
+      "end": 31.389717,
+      "japanese": "ひとりにひとつ　かけがえのないstory",
+      "zh-CN": "每个人都拥有独一无二的story",
+      "segments": [
+        {
+          "text": "ひとりにひとつ　かけがえのないstory",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "ひとりにひとつ　かけがえのないstory"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 31.389717,
+      "end": 38.408341,
+      "japanese": "きっと私もそんな風になりたかった",
+      "zh-CN": "曾经的我也一定渴望成为那般模样",
+      "segments": [
+        {
+          "text": "きっと私もそんな風になりたかった",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "きっと"
+            },
+            {
+              "text": "私",
+              "reading": "わたし"
+            },
+            {
+              "text": "もそんな"
+            },
+            {
+              "text": "風",
+              "reading": "ふう"
+            },
+            {
+              "text": "になりたかった"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 38.408341,
+      "end": 42.424693,
+      "japanese": "黄金の月　寄り添う星も",
+      "zh-CN": "黄金般的明月 与相依相伴的星辰",
+      "segments": [
+        {
+          "text": "黄金の月　寄り添う星も",
+          "performerIds": [
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "黄金",
+              "reading": "おうごん"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "月",
+              "reading": "つき"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "寄",
+              "reading": "よ"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "添",
+              "reading": "そ"
+            },
+            {
+              "text": "う"
+            },
+            {
+              "text": "星",
+              "reading": "ほし"
+            },
+            {
+              "text": "も"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 42.424693,
+      "end": 45.865567,
+      "japanese": "朝露に濡れた花も",
+      "zh-CN": "亦或是沾染朝露的花朵",
+      "segments": [
+        {
+          "text": "朝露に濡れた花も",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "朝露",
+              "reading": "あさつゆ"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "濡",
+              "reading": "ぬ"
+            },
+            {
+              "text": "れた"
+            },
+            {
+              "text": "花",
+              "reading": "はな"
+            },
+            {
+              "text": "も"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 45.865567,
+      "end": 53.043047,
+      "japanese": "届かないと　臆病な",
+      "zh-CN": "认定自己无法企及 胆怯地",
+      "segments": [
+        {
+          "text": "届かないと　臆病な",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "届",
+              "reading": "とど"
+            },
+            {
+              "text": "かないと　"
+            },
+            {
+              "text": "臆病",
+              "reading": "おくびょう"
+            },
+            {
+              "text": "な"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 45.865567,
+      "end": 53.043047,
+      "japanese": "心に　鍵をかけた",
+      "zh-CN": "将心房上了锁",
+      "segments": [
+        {
+          "text": "心に　鍵をかけた",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "心",
+              "reading": "こころ"
+            },
+            {
+              "text": "に　"
+            },
+            {
+              "text": "鍵",
+              "reading": "かぎ"
+            },
+            {
+              "text": "をかけた"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 53.043047,
+      "end": 59.033604,
+      "japanese": "俯く涙",
+      "zh-CN": "低头垂下的泪水",
+      "segments": [
+        {
+          "text": "俯く涙",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "俯",
+              "reading": "うつむ"
+            },
+            {
+              "text": "く"
+            },
+            {
+              "text": "涙",
+              "reading": "なみだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 53.043047,
+      "end": 59.033604,
+      "japanese": "落ちて弾けた小さな虹",
+      "zh-CN": "坠落绽裂成小小的彩虹",
+      "segments": [
+        {
+          "text": "落ちて弾けた小さな虹",
+          "performerIds": [
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "落",
+              "reading": "お"
+            },
+            {
+              "text": "ちて"
+            },
+            {
+              "text": "弾",
+              "reading": "はじ"
+            },
+            {
+              "text": "けた"
+            },
+            {
+              "text": "小",
+              "reading": "ちい"
+            },
+            {
+              "text": "さな"
+            },
+            {
+              "text": "虹",
+              "reading": "にじ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 59.033604,
+      "end": 62.069846,
+      "japanese": "映したクラウン",
+      "zh-CN": "倒映出的小丑",
+      "segments": [
+        {
+          "text": "映したクラウン",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "映",
+              "reading": "うつ"
+            },
+            {
+              "text": "したクラウン"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 62.069846,
+      "end": 70.709997,
+      "japanese": "拾い上げる手　ひとりじゃなかった",
+      "zh-CN": "拾起它的那双手 让我不再孤身一人",
+      "segments": [
+        {
+          "text": "拾い上げる手　",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "拾",
+              "reading": "ひろ"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "上",
+              "reading": "あ"
+            },
+            {
+              "text": "げる"
+            },
+            {
+              "text": "手",
+              "reading": "て"
+            },
+            {
+              "text": "　"
+            }
+          ]
+        },
+        {
+          "text": "ひとりじゃなかった",
+          "performerIds": [
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "ひとりじゃなかった"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 70.709997,
+      "end": 78.399012,
+      "japanese": "隣で歌う声",
+      "zh-CN": "身旁歌唱的声音",
+      "segments": [
+        {
+          "text": "隣で歌う声",
+          "performerIds": [
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "隣",
+              "reading": "となり"
+            },
+            {
+              "text": "で"
+            },
+            {
+              "text": "歌",
+              "reading": "うた"
+            },
+            {
+              "text": "う"
+            },
+            {
+              "text": "声",
+              "reading": "こえ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 70.709997,
+      "end": 78.399012,
+      "japanese": "怖がりな背中を押して",
+      "zh-CN": "推了我胆怯的后背一把",
+      "segments": [
+        {
+          "text": "怖がりな背中を押して",
+          "performerIds": [
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "怖",
+              "reading": "こわ"
+            },
+            {
+              "text": "がりな"
+            },
+            {
+              "text": "背中",
+              "reading": "せなか"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "押",
+              "reading": "お"
+            },
+            {
+              "text": "して"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 78.399012,
+      "end": 82.372403,
+      "japanese": "閉じ込めたはずの心に",
+      "zh-CN": "赋予了本该紧闭的心灵",
+      "segments": [
+        {
+          "text": "閉じ込めたはずの心に",
+          "performerIds": [
+            "歌唱者-16",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "閉",
+              "reading": "と"
+            },
+            {
+              "text": "じ"
+            },
+            {
+              "text": "込",
+              "reading": "こ"
+            },
+            {
+              "text": "めたはずの"
+            },
+            {
+              "text": "心",
+              "reading": "こころ"
+            },
+            {
+              "text": "に"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 82.42,
+      "end": 90.464,
+      "japanese": "翼宿す魔法をくれたから",
+      "zh-CN": "寄宿双翼的魔法",
+      "segments": [
+        {
+          "text": "翼宿す魔法",
+          "performerIds": [
+            "歌唱者-15",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "翼宿",
+              "reading": "つばさやど"
+            },
+            {
+              "text": "す"
+            },
+            {
+              "text": "魔法",
+              "reading": "まほう"
+            }
+          ]
+        },
+        {
+          "text": "をくれたから",
+          "performerIds": [
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "をくれたから"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 90.959479,
+      "end": 98.794361,
+      "japanese": "いつか見た",
+      "zh-CN": "哪怕与曾经憧憬的",
+      "segments": [
+        {
+          "text": "いつか見た",
+          "performerIds": [
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "いつか"
+            },
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "た"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 90.959479,
+      "end": 98.794361,
+      "japanese": "憧れと違ったとしても",
+      "zh-CN": "模样有所不同",
+      "segments": [
+        {
+          "text": "憧れと違った",
+          "performerIds": [
+            "歌唱者-16",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "憧",
+              "reading": "あこが"
+            },
+            {
+              "text": "れと"
+            },
+            {
+              "text": "違",
+              "reading": "ちが"
+            },
+            {
+              "text": "った"
+            }
+          ]
+        },
+        {
+          "text": "としても",
+          "performerIds": [
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "としても"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 98.794361,
+      "end": 105.282467,
+      "japanese": "みんながすくい上げてくれたこの私で",
+      "zh-CN": "被大家拯救出来的这个我",
+      "segments": [
+        {
+          "text": "みんながすくい上げてくれたこの私で",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "みんながすくい"
+            },
+            {
+              "text": "上",
+              "reading": "あ"
+            },
+            {
+              "text": "げてくれたこの"
+            },
+            {
+              "text": "私",
+              "reading": "わたし"
+            },
+            {
+              "text": "で"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 105.282467,
+      "end": 116.211539,
+      "japanese": "その脚で　歩き出すstory",
+      "zh-CN": "用这双脚 迈步前行的story",
+      "segments": [
+        {
+          "text": "その脚で　",
+          "performerIds": [
+            "歌唱者-16",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "その"
+            },
+            {
+              "text": "脚",
+              "reading": "あし"
+            },
+            {
+              "text": "で　"
+            }
+          ]
+        },
+        {
+          "text": "歩き出す",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "歩",
+              "reading": "ある"
+            },
+            {
+              "text": "き"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "す"
+            }
+          ]
+        },
+        {
+          "text": "story",
+          "performerIds": [
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "story"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

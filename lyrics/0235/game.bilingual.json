@@ -1,0 +1,1918 @@
+{
+  "music_id": 235,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-01",
+      "name": "星乃一歌"
+    },
+    {
+      "performerId": "歌唱者-05",
+      "name": "花里みのり"
+    },
+    {
+      "performerId": "歌唱者-09",
+      "name": "小豆沢こはね"
+    },
+    {
+      "performerId": "歌唱者-13",
+      "name": "天馬司"
+    },
+    {
+      "performerId": "歌唱者-17",
+      "name": "宵崎奏"
+    },
+    {
+      "performerId": "歌唱者-21",
+      "name": "初音ミク"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 14.390584,
+      "end": 15.871132,
+      "japanese": "Jo-jo-jo-journey",
+      "zh-CN": "Jo-jo-jo-journey",
+      "segments": [
+        {
+          "text": "Jo-jo-jo-journey",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-05",
+            "歌唱者-09",
+            "歌唱者-13",
+            "歌唱者-17",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "Jo-jo-jo-journey"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 1,
+      "start": 16.065204,
+      "end": 17.977913,
+      "japanese": "溜めてきた　“なんとかなる”は",
+      "zh-CN": "积攒积蓄下来的 “总会有办法的”",
+      "segments": [
+        {
+          "text": "溜めてきた　“なんとかなる”は",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "溜",
+              "reading": "た"
+            },
+            {
+              "text": "めてきた　“なんとかなる”は"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 2,
+      "start": 17.977913,
+      "end": 20.125709,
+      "japanese": "いつまで経っても　なくならないな",
+      "zh-CN": "无论过去多久 都依然不会消失殆尽呢",
+      "segments": [
+        {
+          "text": "いつまで経っても　なくならないな",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "いつまで"
+            },
+            {
+              "text": "経",
+              "reading": "た"
+            },
+            {
+              "text": "っても　なくならないな"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 3,
+      "start": 20.125709,
+      "end": 23.731045,
+      "japanese": "チクっとしちゃうおいかけっこに参っちゃって（参っちゃって）",
+      "zh-CN": "在隐隐刺痛的追逐赛中感到吃不消（感到吃不消）",
+      "segments": [
+        {
+          "text": "チクっとしちゃうおいかけっこに参っちゃって",
+          "performerIds": [
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "チクっとしちゃうおいかけっこに"
+            },
+            {
+              "text": "参",
+              "reading": "まい"
+            },
+            {
+              "text": "っちゃって"
+            }
+          ]
+        },
+        {
+          "text": "（参っちゃって）",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "（"
+            },
+            {
+              "text": "参",
+              "reading": "まい"
+            },
+            {
+              "text": "っちゃって）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 4,
+      "start": 23.731045,
+      "end": 25.443679,
+      "japanese": "変わらなきゃ　壁壊さなきゃ",
+      "zh-CN": "必须改变 必须击碎高墙",
+      "segments": [
+        {
+          "text": "変わらなきゃ　壁壊さなきゃ",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "変",
+              "reading": "か"
+            },
+            {
+              "text": "わらなきゃ　"
+            },
+            {
+              "text": "壁壊",
+              "reading": "かべこわ"
+            },
+            {
+              "text": "さなきゃ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 5,
+      "start": 25.443679,
+      "end": 27.68651,
+      "japanese": "間違い建設の後始末を",
+      "zh-CN": "将错误建设的烂摊子妥善善后",
+      "segments": [
+        {
+          "text": "間違い建設の後始末を",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "間違",
+              "reading": "まちが"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "建設",
+              "reading": "けんせつ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "後始末",
+              "reading": "あとしまつ"
+            },
+            {
+              "text": "を"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 6,
+      "start": 27.68651,
+      "end": 31.346866,
+      "japanese": "目一杯の深呼吸したら殴っちゃって（殴っちゃって）",
+      "zh-CN": "竭尽全力深呼吸一口气后狠狠挥拳出击（狠狠出击）",
+      "segments": [
+        {
+          "text": "目一杯の深呼吸したら殴っちゃって",
+          "performerIds": [
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "目一杯",
+              "reading": "めいっぱい"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "深呼吸",
+              "reading": "しんこきゅう"
+            },
+            {
+              "text": "したら"
+            },
+            {
+              "text": "殴",
+              "reading": "なぐ"
+            },
+            {
+              "text": "っちゃって"
+            }
+          ]
+        },
+        {
+          "text": "（殴っちゃって）",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "（"
+            },
+            {
+              "text": "殴",
+              "reading": "なぐ"
+            },
+            {
+              "text": "っちゃって）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 7,
+      "start": 31.456907,
+      "end": 34.759131,
+      "japanese": "期待改めプレッシャーの中　シュレッダーかけたダメダメ論",
+      "zh-CN": "重新调整期待置身沉重压力之中 送入碎纸机粉碎的失败自弃论",
+      "segments": [
+        {
+          "text": "期待改めプレッシャーの中　シュレッダーかけたダメダメ論",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "期待改",
+              "reading": "きたいあらた"
+            },
+            {
+              "text": "めプレッシャーの"
+            },
+            {
+              "text": "中",
+              "reading": "なか"
+            },
+            {
+              "text": "　シュレッダーかけたダメダメ"
+            },
+            {
+              "text": "論",
+              "reading": "ろん"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 8,
+      "start": 35.139272,
+      "end": 38.891662,
+      "japanese": "ひとりでもできる　それはもうやめる　だから助けて　お願いします",
+      "zh-CN": "孤身一人也能搞定 这种逞强就此打住吧 所以请拉我一把 拜托了",
+      "segments": [
+        {
+          "text": "ひとりでもできる　それはもうやめる　だから助けて　お願いします",
+          "performerIds": [
+            "歌唱者-09"
+          ],
+          "ruby": [
+            {
+              "text": "ひとりでもできる　それはもうやめる　だから"
+            },
+            {
+              "text": "助",
+              "reading": "たす"
+            },
+            {
+              "text": "けて　お"
+            },
+            {
+              "text": "願",
+              "reading": "ねが"
+            },
+            {
+              "text": "いします"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 9,
+      "start": 38.891662,
+      "end": 42.58403,
+      "japanese": "期待改めプレッシャーの中　シュレッダーかけたダメダメ論",
+      "zh-CN": "重新调整期待置身沉重压力之中 送入碎纸机粉碎的失败自弃论",
+      "segments": [
+        {
+          "text": "期待改めプレッシャーの中　シュレッダーかけたダメダメ論",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "期待改",
+              "reading": "きたいあらた"
+            },
+            {
+              "text": "めプレッシャーの"
+            },
+            {
+              "text": "中",
+              "reading": "なか"
+            },
+            {
+              "text": "　シュレッダーかけたダメダメ"
+            },
+            {
+              "text": "論",
+              "reading": "ろん"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 10,
+      "start": 42.58403,
+      "end": 45.757206,
+      "japanese": "ひとりでもできる　それはもうやめる　だって叶えたいもん",
+      "zh-CN": "孤身一人也能搞定 这种逞强就此打住吧 毕竟好想实现梦想嘛",
+      "segments": [
+        {
+          "text": "ひとりでもできる　それはもうやめる　だって叶えたいもん",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "ひとりでもできる　それはもうやめる　だって"
+            },
+            {
+              "text": "叶",
+              "reading": "かな"
+            },
+            {
+              "text": "えたいもん"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 11,
+      "start": 45.757206,
+      "end": 49.319526,
+      "japanese": "ぼくにない想いも　ぼくにない強さも",
+      "zh-CN": "我所欠缺的心意也好 我所欠缺的坚强也罢",
+      "segments": [
+        {
+          "text": "ぼくにない想いも　",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "ぼくにない"
+            },
+            {
+              "text": "想",
+              "reading": "おも"
+            },
+            {
+              "text": "いも　"
+            }
+          ]
+        },
+        {
+          "text": "ぼくにない強さも",
+          "performerIds": [
+            "歌唱者-09"
+          ],
+          "ruby": [
+            {
+              "text": "ぼくにない"
+            },
+            {
+              "text": "強",
+              "reading": "つよ"
+            },
+            {
+              "text": "さも"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 12,
+      "start": 49.319526,
+      "end": 53.067915,
+      "japanese": "きみは持ってるんだよ　きっと　セカイが待ってる",
+      "zh-CN": "你都切切实实拥有着哦 一定 SEKAI正在等待着",
+      "segments": [
+        {
+          "text": "きみは持ってるんだよ　",
+          "performerIds": [
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "きみは"
+            },
+            {
+              "text": "持",
+              "reading": "も"
+            },
+            {
+              "text": "ってるんだよ　"
+            }
+          ]
+        },
+        {
+          "text": "きっと　セカイが待ってる",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-05",
+            "歌唱者-09",
+            "歌唱者-13",
+            "歌唱者-17",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "きっと　セカイが"
+            },
+            {
+              "text": "待",
+              "reading": "ま"
+            },
+            {
+              "text": "ってる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 13,
+      "start": 53.067915,
+      "end": 56.801298,
+      "japanese": "きみにない涙も　きみにない弱さも",
+      "zh-CN": "你所未曾流过的泪水也好 你所未曾展露的软弱也罢",
+      "segments": [
+        {
+          "text": "きみにない涙も　",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "きみにない"
+            },
+            {
+              "text": "涙",
+              "reading": "なみだ"
+            },
+            {
+              "text": "も　"
+            }
+          ]
+        },
+        {
+          "text": "きみにない弱さも",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "きみにない"
+            },
+            {
+              "text": "弱",
+              "reading": "よわ"
+            },
+            {
+              "text": "さも"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 14,
+      "start": 56.801298,
+      "end": 60.636719,
+      "japanese": "ぼくは持ってるけど　ずっと　セカイで待ってる",
+      "zh-CN": "纵然我都拥有着 但一直 都会在SEKAI中静静等待",
+      "segments": [
+        {
+          "text": "ぼくは持ってるけど　",
+          "performerIds": [
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "ぼくは"
+            },
+            {
+              "text": "持",
+              "reading": "も"
+            },
+            {
+              "text": "ってるけど　"
+            }
+          ]
+        },
+        {
+          "text": "ずっと　セカイで待ってる",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-05",
+            "歌唱者-09",
+            "歌唱者-13",
+            "歌唱者-17",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ずっと　セカイで"
+            },
+            {
+              "text": "待",
+              "reading": "ま"
+            },
+            {
+              "text": "ってる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 15,
+      "start": 60.947834,
+      "end": 64.782255,
+      "japanese": "悩みながらだって大丈夫　立ち止まったって大丈夫",
+      "zh-CN": "纵然一边烦恼迷茫也毫无关系 哪怕停下脚步也绝无大碍",
+      "segments": [
+        {
+          "text": "悩みながらだって大丈夫　",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "悩",
+              "reading": "なや"
+            },
+            {
+              "text": "みながらだって"
+            },
+            {
+              "text": "大丈夫",
+              "reading": "だいじょうぶ"
+            },
+            {
+              "text": "　"
+            }
+          ]
+        },
+        {
+          "text": "立ち止まったって大丈夫",
+          "performerIds": [
+            "歌唱者-09"
+          ],
+          "ruby": [
+            {
+              "text": "立",
+              "reading": "た"
+            },
+            {
+              "text": "ち"
+            },
+            {
+              "text": "止",
+              "reading": "ど"
+            },
+            {
+              "text": "まったって"
+            },
+            {
+              "text": "大丈夫",
+              "reading": "だいじょうぶ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 16,
+      "start": 64.782255,
+      "end": 68.567658,
+      "japanese": "ぼくらはまだここから歩いていける",
+      "zh-CN": "我们依然能够从这里继续迈步前行",
+      "segments": [
+        {
+          "text": "ぼくらはまだここから歩いていける",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ぼくらはまだここから"
+            },
+            {
+              "text": "歩",
+              "reading": "ある"
+            },
+            {
+              "text": "いていける"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 17,
+      "start": 68.567658,
+      "end": 72.214009,
+      "japanese": "泣き顔もなんかいい感じ　笑えたらもっといい感じ",
+      "zh-CN": "哭泣的面庞也感觉挺不错的 若能绽放笑颜便更加美好啦",
+      "segments": [
+        {
+          "text": "泣き顔もなんかいい感じ　",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "泣",
+              "reading": "な"
+            },
+            {
+              "text": "き"
+            },
+            {
+              "text": "顔",
+              "reading": "がお"
+            },
+            {
+              "text": "もなんかいい"
+            },
+            {
+              "text": "感",
+              "reading": "かん"
+            },
+            {
+              "text": "じ　"
+            }
+          ]
+        },
+        {
+          "text": "笑えたらもっといい感じ",
+          "performerIds": [
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "笑",
+              "reading": "わら"
+            },
+            {
+              "text": "えたらもっといい"
+            },
+            {
+              "text": "感",
+              "reading": "かん"
+            },
+            {
+              "text": "じ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 18,
+      "start": 72.214009,
+      "end": 74.478848,
+      "japanese": "行こうよ　きみとぼくで",
+      "zh-CN": "出发吧 由你和我携手同行",
+      "segments": [
+        {
+          "text": "行こうよ　",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "行",
+              "reading": "い"
+            },
+            {
+              "text": "こうよ　"
+            }
+          ]
+        },
+        {
+          "text": "きみとぼくで",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "きみとぼくで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 19,
+      "start": 81.370402,
+      "end": 83.965363,
+      "japanese": "大きくなる不安は期待の裏返し",
+      "zh-CN": "不断扩大的不安正是期待的反面映照",
+      "segments": [
+        {
+          "text": "大きくなる不安は期待の裏返し",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "大",
+              "reading": "おお"
+            },
+            {
+              "text": "きくなる"
+            },
+            {
+              "text": "不安",
+              "reading": "ふあん"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "期待",
+              "reading": "きたい"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "裏返",
+              "reading": "うらがえ"
+            },
+            {
+              "text": "し"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 20,
+      "start": 83.965363,
+      "end": 88.725127,
+      "japanese": "じゃあぼくを裏返すとどうだ　気になって眠れないよ",
+      "zh-CN": "那么若将我翻转过来又会如何 挂念得甚至难以入眠啊",
+      "segments": [
+        {
+          "text": "じゃあぼくを裏返すとどうだ　",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "じゃあぼくを"
+            },
+            {
+              "text": "裏返",
+              "reading": "うらがえ"
+            },
+            {
+              "text": "すとどうだ　"
+            }
+          ]
+        },
+        {
+          "text": "気になって眠れないよ",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "気",
+              "reading": "き"
+            },
+            {
+              "text": "になって"
+            },
+            {
+              "text": "眠",
+              "reading": "ねむ"
+            },
+            {
+              "text": "れないよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 21,
+      "start": 88.899191,
+      "end": 93.377851,
+      "japanese": "違った　きみとぼくのダメな部分は　背中合わせで隠しちゃえば",
+      "zh-CN": "不对啦 你与我身上不争气的部分 只要背靠背彻底隐藏起来",
+      "segments": [
+        {
+          "text": "違った　きみとぼくのダメな部分は　背中合わせで隠しちゃえば",
+          "performerIds": [
+            "歌唱者-09"
+          ],
+          "ruby": [
+            {
+              "text": "違",
+              "reading": "ちが"
+            },
+            {
+              "text": "った　きみとぼくのダメな"
+            },
+            {
+              "text": "部分",
+              "reading": "ぶんぶん"
+            },
+            {
+              "text": "は　"
+            },
+            {
+              "text": "背中合",
+              "reading": "せなかあ"
+            },
+            {
+              "text": "わせで"
+            },
+            {
+              "text": "隠",
+              "reading": "かく"
+            },
+            {
+              "text": "しちゃえば"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 22,
+      "start": 93.377851,
+      "end": 96.242912,
+      "japanese": "裏なんてなくなるでしょ",
+      "zh-CN": "所谓反面不就荡然无存了吗",
+      "segments": [
+        {
+          "text": "裏なんてなくなるでしょ",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "裏",
+              "reading": "うら"
+            },
+            {
+              "text": "なんてなくなるでしょ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 23,
+      "start": 97.060215,
+      "end": 100.68856,
+      "japanese": "期待改めプレッシャーの中　シュレッダーかけたダメダメ論",
+      "zh-CN": "重新调整期待置身沉重压力之中 送入碎纸机粉碎的失败自弃论",
+      "segments": [
+        {
+          "text": "期待改めプレッシャーの中　シュレッダーかけたダメダメ論",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "期待改",
+              "reading": "きたいあらた"
+            },
+            {
+              "text": "めプレッシャーの"
+            },
+            {
+              "text": "中",
+              "reading": "なか"
+            },
+            {
+              "text": "　シュレッダーかけたダメダメ"
+            },
+            {
+              "text": "論",
+              "reading": "ろん"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 24,
+      "start": 100.68856,
+      "end": 104.555993,
+      "japanese": "ひとりでもできる　それはもうやめる　だから助けて　お願いします",
+      "zh-CN": "孤身一人也能搞定 这种逞强就此打住吧 所以请拉我一把 拜托了",
+      "segments": [
+        {
+          "text": "ひとりでもできる　それはもうやめる　だから助けて　お願いします",
+          "performerIds": [
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "ひとりでもできる　それはもうやめる　だから"
+            },
+            {
+              "text": "助",
+              "reading": "たす"
+            },
+            {
+              "text": "けて　お"
+            },
+            {
+              "text": "願",
+              "reading": "ねが"
+            },
+            {
+              "text": "いします"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 25,
+      "start": 104.555993,
+      "end": 108.167331,
+      "japanese": "期待改めプレッシャーの中　シュレッダーかけたダメダメ論",
+      "zh-CN": "重新调整期待置身沉重压力之中 送入碎纸机粉碎的失败自弃论",
+      "segments": [
+        {
+          "text": "期待改めプレッシャーの中　シュレッダーかけたダメダメ論",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "期待改",
+              "reading": "きたいあらた"
+            },
+            {
+              "text": "めプレッシャーの"
+            },
+            {
+              "text": "中",
+              "reading": "なか"
+            },
+            {
+              "text": "　シュレッダーかけたダメダメ"
+            },
+            {
+              "text": "論",
+              "reading": "ろん"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 26,
+      "start": 108.167331,
+      "end": 111.328502,
+      "japanese": "ひとりでもできる　それはもうやめる　だって叶えたいもん",
+      "zh-CN": "孤身一人也能搞定 这种逞强就此打住吧 毕竟好想实现梦想嘛",
+      "segments": [
+        {
+          "text": "ひとりでもできる　それはもうやめる　だって叶えたいもん",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "ひとりでもできる　それはもうやめる　だって"
+            },
+            {
+              "text": "叶",
+              "reading": "かな"
+            },
+            {
+              "text": "えたいもん"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 27,
+      "start": 111.328502,
+      "end": 115.109903,
+      "japanese": "“なにもない”とかじゃない　“きみ以外”とかじゃない",
+      "zh-CN": "并非什么“一无所有” 也并非什么“唯独除你之外”",
+      "segments": [
+        {
+          "text": "“なにもない”とかじゃない　",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "“なにもない”とかじゃない　"
+            }
+          ]
+        },
+        {
+          "text": "“きみ以外”とかじゃない",
+          "performerIds": [
+            "歌唱者-09"
+          ],
+          "ruby": [
+            {
+              "text": "“きみ"
+            },
+            {
+              "text": "以外",
+              "reading": "いがい"
+            },
+            {
+              "text": "”とかじゃない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 28,
+      "start": 115.109903,
+      "end": 118.902308,
+      "japanese": "きみはちゃんとぼくの“救い”になってる",
+      "zh-CN": "你已经确确实实成为了我的“救赎”",
+      "segments": [
+        {
+          "text": "きみはちゃんとぼくの“救い”になってる",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "きみはちゃんとぼくの“"
+            },
+            {
+              "text": "救",
+              "reading": "すく"
+            },
+            {
+              "text": "い”になってる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 29,
+      "start": 118.9645,
+      "end": 122.6525,
+      "japanese": "なってる",
+      "zh-CN": "成为救赎",
+      "segments": [
+        {
+          "text": "なってる",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "なってる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 30,
+      "start": 122.6525,
+      "end": 126.1375,
+      "japanese": "なってる",
+      "zh-CN": "成为救赎",
+      "segments": [
+        {
+          "text": "なってる",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "なってる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 31,
+      "start": 126.442102,
+      "end": 129.99842,
+      "japanese": "ぼくにない想いも　ぼくにない強さも",
+      "zh-CN": "我所欠缺的心意也好 我所欠缺的坚强也罢",
+      "segments": [
+        {
+          "text": "ぼくにない想いも　",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "ぼくにない"
+            },
+            {
+              "text": "想",
+              "reading": "おも"
+            },
+            {
+              "text": "いも　"
+            }
+          ]
+        },
+        {
+          "text": "ぼくにない強さも",
+          "performerIds": [
+            "歌唱者-09"
+          ],
+          "ruby": [
+            {
+              "text": "ぼくにない"
+            },
+            {
+              "text": "強",
+              "reading": "つよ"
+            },
+            {
+              "text": "さも"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 32,
+      "start": 129.99842,
+      "end": 133.7238,
+      "japanese": "きみは持ってるんだよ　きっと　セカイが待ってる",
+      "zh-CN": "你都切切实实拥有着哦 一定 SEKAI正在等待着",
+      "segments": [
+        {
+          "text": "きみは持ってるんだよ　",
+          "performerIds": [
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "きみは"
+            },
+            {
+              "text": "持",
+              "reading": "も"
+            },
+            {
+              "text": "ってるんだよ　"
+            }
+          ]
+        },
+        {
+          "text": "きっと　セカイが待ってる",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-05",
+            "歌唱者-09",
+            "歌唱者-13",
+            "歌唱者-17",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "きっと　セカイが"
+            },
+            {
+              "text": "待",
+              "reading": "ま"
+            },
+            {
+              "text": "ってる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 33,
+      "start": 133.7238,
+      "end": 137.44918,
+      "japanese": "きみにない涙も　きみにない弱さも",
+      "zh-CN": "你所未曾流过的泪水也好 你所未曾展露的软弱也罢",
+      "segments": [
+        {
+          "text": "きみにない涙も　",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "きみにない"
+            },
+            {
+              "text": "涙",
+              "reading": "なみだ"
+            },
+            {
+              "text": "も　"
+            }
+          ]
+        },
+        {
+          "text": "きみにない弱さも",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "きみにない"
+            },
+            {
+              "text": "弱",
+              "reading": "よわ"
+            },
+            {
+              "text": "さも"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 34,
+      "start": 137.44918,
+      "end": 141.179563,
+      "japanese": "ぼくは持ってるけど　ずっと　セカイで待ってる",
+      "zh-CN": "纵然我都拥有着 但一直 都会在SEKAI中静静等待",
+      "segments": [
+        {
+          "text": "ぼくは持ってるけど　",
+          "performerIds": [
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "ぼくは"
+            },
+            {
+              "text": "持",
+              "reading": "も"
+            },
+            {
+              "text": "ってるけど　"
+            }
+          ]
+        },
+        {
+          "text": "ずっと　セカイで待ってる",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-05",
+            "歌唱者-09",
+            "歌唱者-13",
+            "歌唱者-17",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ずっと　セカイで"
+            },
+            {
+              "text": "待",
+              "reading": "ま"
+            },
+            {
+              "text": "ってる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 35,
+      "start": 141.485676,
+      "end": 145.418133,
+      "japanese": "悩みながらだって大丈夫　立ち止まったって大丈夫",
+      "zh-CN": "纵然一边烦恼迷茫也毫无关系 哪怕停下脚步也绝无大碍",
+      "segments": [
+        {
+          "text": "悩みながらだって大丈夫　",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "悩",
+              "reading": "なや"
+            },
+            {
+              "text": "みながらだって"
+            },
+            {
+              "text": "大丈夫",
+              "reading": "だいじょうぶ"
+            },
+            {
+              "text": "　"
+            }
+          ]
+        },
+        {
+          "text": "立ち止まったって大丈夫",
+          "performerIds": [
+            "歌唱者-09"
+          ],
+          "ruby": [
+            {
+              "text": "立",
+              "reading": "た"
+            },
+            {
+              "text": "ち"
+            },
+            {
+              "text": "止",
+              "reading": "ど"
+            },
+            {
+              "text": "まったって"
+            },
+            {
+              "text": "大丈夫",
+              "reading": "だいじょうぶ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 36,
+      "start": 145.418133,
+      "end": 149.262558,
+      "japanese": "ぼくらはまだここから歩いていける",
+      "zh-CN": "我们依然能够从这里继续迈步前行",
+      "segments": [
+        {
+          "text": "ぼくらはまだここから歩いていける",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-05",
+            "歌唱者-09",
+            "歌唱者-13",
+            "歌唱者-17",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ぼくらはまだここから"
+            },
+            {
+              "text": "歩",
+              "reading": "ある"
+            },
+            {
+              "text": "いていける"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 37,
+      "start": 149.262558,
+      "end": 152.883899,
+      "japanese": "泣き顔もなんかいい感じ　笑えたらもっといい感じ",
+      "zh-CN": "哭泣的面庞也感觉挺不错的 若能绽放笑颜便更加美好啦",
+      "segments": [
+        {
+          "text": "泣き顔もなんかいい感じ　",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "泣",
+              "reading": "な"
+            },
+            {
+              "text": "き"
+            },
+            {
+              "text": "顔",
+              "reading": "がお"
+            },
+            {
+              "text": "もなんかいい"
+            },
+            {
+              "text": "感",
+              "reading": "かん"
+            },
+            {
+              "text": "じ　"
+            }
+          ]
+        },
+        {
+          "text": "笑えたらもっといい感じ",
+          "performerIds": [
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "笑",
+              "reading": "わら"
+            },
+            {
+              "text": "えたらもっといい"
+            },
+            {
+              "text": "感",
+              "reading": "かん"
+            },
+            {
+              "text": "じ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 38,
+      "start": 152.883899,
+      "end": 154.976675,
+      "japanese": "行こうよ　きみとぼくで",
+      "zh-CN": "出发吧 由你和我携手同行",
+      "segments": [
+        {
+          "text": "行こうよ　",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "行",
+              "reading": "い"
+            },
+            {
+              "text": "こうよ　"
+            }
+          ]
+        },
+        {
+          "text": "きみとぼくで",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-05",
+            "歌唱者-09",
+            "歌唱者-13",
+            "歌唱者-17",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "きみとぼくで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 39,
+      "start": 154.976675,
+      "end": 156.665301,
+      "japanese": "変わらなきゃ　壁壊さなきゃ",
+      "zh-CN": "必须改变 必须击碎高墙",
+      "segments": [
+        {
+          "text": "変わらなきゃ　壁壊さなきゃ",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-17",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "変",
+              "reading": "か"
+            },
+            {
+              "text": "わらなきゃ　"
+            },
+            {
+              "text": "壁壊",
+              "reading": "かべこわ"
+            },
+            {
+              "text": "さなきゃ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 40,
+      "start": 156.665301,
+      "end": 158.780084,
+      "japanese": "間違い建設の後始末を",
+      "zh-CN": "将错误建设的烂摊子妥善善后",
+      "segments": [
+        {
+          "text": "間違い建設の後始末を",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-17",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "間違",
+              "reading": "まちが"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "建設",
+              "reading": "けんせつ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "後始末",
+              "reading": "あとしまつ"
+            },
+            {
+              "text": "を"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 41,
+      "start": 159.06619,
+      "end": 162.463449,
+      "japanese": "目一杯の深呼吸したら殴っちゃって（殴っちゃって）",
+      "zh-CN": "竭尽全力深呼吸一口气后狠狠挥拳出击（狠狠出击）",
+      "segments": [
+        {
+          "text": "目一杯の深呼吸したら殴っちゃって",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-05",
+            "歌唱者-13",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "目一杯",
+              "reading": "めいっぱい"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "深呼吸",
+              "reading": "しんこきゅう"
+            },
+            {
+              "text": "したら"
+            },
+            {
+              "text": "殴",
+              "reading": "なぐ"
+            },
+            {
+              "text": "っちゃって"
+            }
+          ]
+        },
+        {
+          "text": "（殴っちゃって）",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "（"
+            },
+            {
+              "text": "殴",
+              "reading": "なぐ"
+            },
+            {
+              "text": "っちゃって）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 42,
+      "start": 162.463449,
+      "end": 164.215098,
+      "japanese": "走り出せ　夢、音に乗せ",
+      "zh-CN": "奋力奔跑吧 梦想，乘着乐声飞扬",
+      "segments": [
+        {
+          "text": "走り出せ　夢、音に乗せ",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-05",
+            "歌唱者-13",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "走",
+              "reading": "はし"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "せ　"
+            },
+            {
+              "text": "夢",
+              "reading": "ゆめ"
+            },
+            {
+              "text": "、"
+            },
+            {
+              "text": "音",
+              "reading": "おと"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "乗",
+              "reading": "の"
+            },
+            {
+              "text": "せ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 43,
+      "start": 164.215098,
+      "end": 166.48694,
+      "japanese": "ぼくら団結の旗立てるんだ",
+      "zh-CN": "我们定要高高树立起团结的旗帜",
+      "segments": [
+        {
+          "text": "ぼくら団結の旗立てるんだ",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-05",
+            "歌唱者-13",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ぼくら"
+            },
+            {
+              "text": "団結",
+              "reading": "だんけつ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "旗立",
+              "reading": "はたた"
+            },
+            {
+              "text": "てるんだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 44,
+      "start": 166.3795,
+      "end": 174.9375,
+      "japanese": "笑って生きていくためのJo-jo-jo-journey　奏でるMelody",
+      "zh-CN": "为了能够欢笑着活下去的 Jo-jo-jo-journey 奏响的 Melody",
+      "segments": [
+        {
+          "text": "笑って生きていくためのJo-jo-jo-journey　奏でるMelody",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-05",
+            "歌唱者-09",
+            "歌唱者-13",
+            "歌唱者-17",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "笑",
+              "reading": "わら"
+            },
+            {
+              "text": "って"
+            },
+            {
+              "text": "生",
+              "reading": "い"
+            },
+            {
+              "text": "きていくためのJo-jo-jo-journey　"
+            },
+            {
+              "text": "奏",
+              "reading": "かな"
+            },
+            {
+              "text": "でるMelody"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

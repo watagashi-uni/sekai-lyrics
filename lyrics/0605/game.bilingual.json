@@ -1,0 +1,726 @@
+{
+  "music_id": 605,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-01",
+      "name": "星乃一歌"
+    },
+    {
+      "performerId": "歌唱者-02",
+      "name": "天馬咲希"
+    },
+    {
+      "performerId": "歌唱者-03",
+      "name": "望月穂波"
+    },
+    {
+      "performerId": "歌唱者-04",
+      "name": "日野森志歩"
+    },
+    {
+      "performerId": "歌唱者-21",
+      "name": "初音ミク"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 29.765975,
+      "end": 31.579897,
+      "japanese": "思い返していた",
+      "zh-CN": "曾一遍遍回想追忆",
+      "segments": [
+        {
+          "text": "思い返していた",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "思",
+              "reading": "おも"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "返",
+              "reading": "かえ"
+            },
+            {
+              "text": "していた"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 31.729725,
+      "end": 34.269816,
+      "japanese": "思い出の中で泣いていた",
+      "zh-CN": "在回忆之中默默垂泪",
+      "segments": [
+        {
+          "text": "思い出の中で泣いていた",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "思",
+              "reading": "おも"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "出",
+              "reading": "で"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "中",
+              "reading": "なか"
+            },
+            {
+              "text": "で"
+            },
+            {
+              "text": "泣",
+              "reading": "な"
+            },
+            {
+              "text": "いていた"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 34.429633,
+      "end": 39.964292,
+      "japanese": "不確かな夢と",
+      "zh-CN": "怀抱着模糊不清的梦想",
+      "segments": [
+        {
+          "text": "不確かな夢と",
+          "performerIds": [
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "不確",
+              "reading": "ふたし"
+            },
+            {
+              "text": "かな"
+            },
+            {
+              "text": "夢",
+              "reading": "ゆめ"
+            },
+            {
+              "text": "と"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 34.429633,
+      "end": 39.964292,
+      "japanese": "孤独を抱えて笑っていた",
+      "zh-CN": "与挥之不去的孤独展露笑颜",
+      "segments": [
+        {
+          "text": "孤独を抱えて笑っていた",
+          "performerIds": [
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "孤独",
+              "reading": "こどく"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "抱",
+              "reading": "かか"
+            },
+            {
+              "text": "えて"
+            },
+            {
+              "text": "笑",
+              "reading": "わら"
+            },
+            {
+              "text": "っていた"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 39.964292,
+      "end": 42.841996,
+      "japanese": "この痛みも傷もいたいけな瞳も",
+      "zh-CN": "这份痛楚、伤痕、幼小纯真的眼眸",
+      "segments": [
+        {
+          "text": "この痛みも傷もいたいけな瞳も",
+          "performerIds": [
+            "歌唱者-02",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "この"
+            },
+            {
+              "text": "痛",
+              "reading": "いた"
+            },
+            {
+              "text": "みも"
+            },
+            {
+              "text": "傷",
+              "reading": "きず"
+            },
+            {
+              "text": "もいたいけな"
+            },
+            {
+              "text": "瞳",
+              "reading": "ひとみ"
+            },
+            {
+              "text": "も"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 42.841996,
+      "end": 45.018503,
+      "japanese": "無に帰してしまいそうな",
+      "zh-CN": "仿佛都要统统归于虚无",
+      "segments": [
+        {
+          "text": "無に帰してしまいそうな",
+          "performerIds": [
+            "歌唱者-02",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "無",
+              "reading": "む"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "帰",
+              "reading": "かえ"
+            },
+            {
+              "text": "してしまいそうな"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 45.18631,
+      "end": 47.402771,
+      "japanese": "焦りと不安が滲んで",
+      "zh-CN": "焦躁与不安不断晕染开来",
+      "segments": [
+        {
+          "text": "焦りと不安が滲んで",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-03",
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "焦",
+              "reading": "あせ"
+            },
+            {
+              "text": "りと"
+            },
+            {
+              "text": "不安",
+              "reading": "ふあん"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "滲",
+              "reading": "にじ"
+            },
+            {
+              "text": "んで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 47.402771,
+      "end": 50.225538,
+      "japanese": "涙に飲まれてしまう",
+      "zh-CN": "几乎要被泪水彻底吞没",
+      "segments": [
+        {
+          "text": "涙に飲まれてしまう",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-03",
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "涙",
+              "reading": "なみだ"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "飲",
+              "reading": "の"
+            },
+            {
+              "text": "まれてしまう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 50.560154,
+      "end": 55.781173,
+      "japanese": "誰一人欠けることはない　ちぐはぐだった",
+      "zh-CN": "哪怕缺了任何一人都不行 曾格格不入的",
+      "segments": [
+        {
+          "text": "誰一人欠けることはない　ちぐはぐだった",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "誰一人欠",
+              "reading": "だれひとりか"
+            },
+            {
+              "text": "けることはない　ちぐはぐだった"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 55.781173,
+      "end": 60.195117,
+      "japanese": "僕らの想いが音になって繋ぐ",
+      "zh-CN": "我们的心意化作音符紧密相系",
+      "segments": [
+        {
+          "text": "僕らの",
+          "performerIds": [
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "らの"
+            }
+          ]
+        },
+        {
+          "text": "想いが",
+          "performerIds": [
+            "歌唱者-03"
+          ],
+          "ruby": [
+            {
+              "text": "想",
+              "reading": "おも"
+            },
+            {
+              "text": "いが"
+            }
+          ]
+        },
+        {
+          "text": "音になって繋ぐ",
+          "performerIds": [
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "音",
+              "reading": "おと"
+            },
+            {
+              "text": "になって"
+            },
+            {
+              "text": "繋",
+              "reading": "つな"
+            },
+            {
+              "text": "ぐ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 60.442833,
+      "end": 62.288719,
+      "japanese": "こだましていく",
+      "zh-CN": "回荡共鸣不息",
+      "segments": [
+        {
+          "text": "こだましていく",
+          "performerIds": [
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "こだましていく"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 62.338,
+      "end": 65.785,
+      "japanese": "忘れないようかき鳴らした日々を",
+      "zh-CN": "为了不至忘却而奋力奏响的每一天",
+      "segments": [
+        {
+          "text": "忘れないようかき鳴らした日々を",
+          "performerIds": [
+            "歌唱者-03",
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "忘",
+              "reading": "わす"
+            },
+            {
+              "text": "れないようかき"
+            },
+            {
+              "text": "鳴",
+              "reading": "な"
+            },
+            {
+              "text": "らした"
+            },
+            {
+              "text": "日々",
+              "reading": "ひび"
+            },
+            {
+              "text": "を"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 65.712796,
+      "end": 70.810956,
+      "japanese": "あの日僕らは 間違っていなかったんだと知る",
+      "zh-CN": "那一天我们终于明白 自己并未走错道路",
+      "segments": [
+        {
+          "text": "あの日僕らは ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "あの"
+            },
+            {
+              "text": "日僕",
+              "reading": "ひぼく"
+            },
+            {
+              "text": "らは "
+            }
+          ]
+        },
+        {
+          "text": "間違っていなかったんだと知る",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-03"
+          ],
+          "ruby": [
+            {
+              "text": "間違",
+              "reading": "まちが"
+            },
+            {
+              "text": "っていなかったんだと"
+            },
+            {
+              "text": "知",
+              "reading": "し"
+            },
+            {
+              "text": "る"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 70.994746,
+      "end": 76.705204,
+      "japanese": "閉ざして　しまいこんだ　一閃の光探して",
+      "zh-CN": "寻觅着深锁紧闭 悉心珍藏的一线微光",
+      "segments": [
+        {
+          "text": "閉ざして　しまいこんだ　一閃の光探して",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "閉",
+              "reading": "と"
+            },
+            {
+              "text": "ざして　しまいこんだ　"
+            },
+            {
+              "text": "一閃",
+              "reading": "いっせん"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "光探",
+              "reading": "ひかりさが"
+            },
+            {
+              "text": "して"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 77.744014,
+      "end": 81.953192,
+      "japanese": "君の声を聴かせて ここにいるって ",
+      "zh-CN": "让我听听你的声音 呼喊着我在这里",
+      "segments": [
+        {
+          "text": "君の声を聴かせて ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "声",
+              "reading": "こえ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "聴",
+              "reading": "き"
+            },
+            {
+              "text": "かせて "
+            }
+          ]
+        },
+        {
+          "text": "ここにいるって ",
+          "performerIds": [
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "ここにいるって "
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 81.953192,
+      "end": 88.894241,
+      "japanese": "叫んでくれよ その手を離さないで",
+      "zh-CN": "放声呐喊吧 千万不要松开那双手",
+      "segments": [
+        {
+          "text": "叫んでくれよ ",
+          "performerIds": [
+            "歌唱者-02",
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "叫",
+              "reading": "さけ"
+            },
+            {
+              "text": "んでくれよ "
+            }
+          ]
+        },
+        {
+          "text": "その手を離さないで",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-03"
+          ],
+          "ruby": [
+            {
+              "text": "その"
+            },
+            {
+              "text": "手",
+              "reading": "て"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "離",
+              "reading": "はな"
+            },
+            {
+              "text": "さないで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

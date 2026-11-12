@@ -1,0 +1,1482 @@
+{
+  "music_id": 550,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-05",
+      "name": "花里みのり"
+    },
+    {
+      "performerId": "歌唱者-06",
+      "name": "桐谷遥"
+    },
+    {
+      "performerId": "歌唱者-07",
+      "name": "桃井愛莉"
+    },
+    {
+      "performerId": "歌唱者-08",
+      "name": "日野森雫"
+    },
+    {
+      "performerId": "歌唱者-22",
+      "name": "鏡音リン"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 9.062,
+      "end": 13.832,
+      "japanese": "寂しくて切ない一人の夜には",
+      "zh-CN": "寂寞难耐 独自一人的夜晚",
+      "segments": [
+        {
+          "text": "寂しくて切ない一人の夜には",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "寂",
+              "reading": "さみ"
+            },
+            {
+              "text": "しくて"
+            },
+            {
+              "text": "切",
+              "reading": "せつ"
+            },
+            {
+              "text": "ない"
+            },
+            {
+              "text": "一人",
+              "reading": "ひとり"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "夜",
+              "reading": "よる"
+            },
+            {
+              "text": "には"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 13.832,
+      "end": 17.522,
+      "japanese": "消えたい言葉を捜して",
+      "zh-CN": "寻觅着想要抹去的话语",
+      "segments": [
+        {
+          "text": "消えたい言葉を捜して",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "消",
+              "reading": "き"
+            },
+            {
+              "text": "えたい"
+            },
+            {
+              "text": "言葉",
+              "reading": "ことば"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "捜",
+              "reading": "さが"
+            },
+            {
+              "text": "して"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 17.522,
+      "end": 21.168,
+      "japanese": "秘密のドアを抜けてきて here we go",
+      "zh-CN": "穿过那扇秘密之门走出来吧 here we go",
+      "segments": [
+        {
+          "text": "秘密のドアを抜けてきて here we go",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "秘密",
+              "reading": "ひみつ"
+            },
+            {
+              "text": "のドアを"
+            },
+            {
+              "text": "抜",
+              "reading": "ぬ"
+            },
+            {
+              "text": "けてきて here we go"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 21.168,
+      "end": 24.117,
+      "japanese": "oh yeah (oh yeah) oh yeah (oh yeah)",
+      "zh-CN": "oh yeah (oh yeah) oh yeah (oh yeah)",
+      "segments": [
+        {
+          "text": "oh yeah ",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "oh yeah "
+            }
+          ]
+        },
+        {
+          "text": "(oh yeah) ",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "(oh yeah) "
+            }
+          ]
+        },
+        {
+          "text": "oh yeah ",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "oh yeah "
+            }
+          ]
+        },
+        {
+          "text": "(oh yeah)",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "(oh yeah)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 32.462,
+      "end": 35.812,
+      "japanese": "目の前の扉を開ければ",
+      "zh-CN": "只要推开眼前的这扇门扉",
+      "segments": [
+        {
+          "text": "目の前の扉を開ければ",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "目",
+              "reading": "め"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "前",
+              "reading": "まえ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "扉",
+              "reading": "とびら"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "開",
+              "reading": "あ"
+            },
+            {
+              "text": "ければ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 35.812,
+      "end": 39.918,
+      "japanese": "そう、終わりのない夜への始まりだ",
+      "zh-CN": "没错 这便是永无止境之夜的开端",
+      "segments": [
+        {
+          "text": "そう、終わりのない夜への始まりだ",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "そう、"
+            },
+            {
+              "text": "終",
+              "reading": "お"
+            },
+            {
+              "text": "わりのない"
+            },
+            {
+              "text": "夜",
+              "reading": "よる"
+            },
+            {
+              "text": "への"
+            },
+            {
+              "text": "始",
+              "reading": "はじ"
+            },
+            {
+              "text": "まりだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 39.918,
+      "end": 43.805,
+      "japanese": "気球状のフロアの影から",
+      "zh-CN": "从热气球般的舞池阴影中",
+      "segments": [
+        {
+          "text": "気球状のフロアの影から",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "気球状",
+              "reading": "ききゅうじょう"
+            },
+            {
+              "text": "のフロアの"
+            },
+            {
+              "text": "影",
+              "reading": "かげ"
+            },
+            {
+              "text": "から"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 43.805,
+      "end": 47.329,
+      "japanese": "四次元への旅が始まるよ",
+      "zh-CN": "通往四次元的旅程就要启程咯",
+      "segments": [
+        {
+          "text": "四次元への旅が始まるよ",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "四次元",
+              "reading": "よじげん"
+            },
+            {
+              "text": "への"
+            },
+            {
+              "text": "旅",
+              "reading": "たび"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "始",
+              "reading": "はじ"
+            },
+            {
+              "text": "まるよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 47.329,
+      "end": 50.682,
+      "japanese": "流星の箱舟に乗って",
+      "zh-CN": "乘上流星构筑的方舟",
+      "segments": [
+        {
+          "text": "流星の箱舟に乗って",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "流星",
+              "reading": "りゅうせい"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "箱舟",
+              "reading": "はこぶね"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "乗",
+              "reading": "の"
+            },
+            {
+              "text": "って"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 50.682,
+      "end": 54.846,
+      "japanese": "さぁ　時空旅行へと進んでいくのさ",
+      "zh-CN": "来吧 一同迈向时空穿梭之旅",
+      "segments": [
+        {
+          "text": "さぁ　時空旅行へと進んでいくのさ",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "さぁ　"
+            },
+            {
+              "text": "時空旅行",
+              "reading": "じくうりょこう"
+            },
+            {
+              "text": "へと"
+            },
+            {
+              "text": "進",
+              "reading": "すす"
+            },
+            {
+              "text": "んでいくのさ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 54.846,
+      "end": 58.506,
+      "japanese": "天気予報は当てにならないから",
+      "zh-CN": "反正天气预报向来靠不住",
+      "segments": [
+        {
+          "text": "天気予報は当てにならないから",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "天気予報",
+              "reading": "てんきよほう"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "当",
+              "reading": "あ"
+            },
+            {
+              "text": "てにならないから"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 58.506,
+      "end": 62.15,
+      "japanese": "気の向くまま all right (all right)",
+      "zh-CN": "就随心所欲吧 all right (all right)",
+      "segments": [
+        {
+          "text": "気の向くまま all right ",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "気",
+              "reading": "き"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "向",
+              "reading": "む"
+            },
+            {
+              "text": "くまま all right "
+            }
+          ]
+        },
+        {
+          "text": "(all right)",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "(all right)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 62.15,
+      "end": 63.799,
+      "japanese": "Today is All night be",
+      "zh-CN": "Today is All night be",
+      "segments": [
+        {
+          "text": "Today is All night be",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "Today is All night be"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 63.799,
+      "end": 65.948,
+      "japanese": "funky funky funky night",
+      "zh-CN": "funky funky funky night",
+      "segments": [
+        {
+          "text": "funky funky funky night",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "funky funky funky night"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 65.948,
+      "end": 67.549,
+      "japanese": "You & I be together",
+      "zh-CN": "You & I be together",
+      "segments": [
+        {
+          "text": "You & I be together",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "You & I be together"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 67.549,
+      "end": 69.647,
+      "japanese": "funky funky funky night",
+      "zh-CN": "funky funky funky night",
+      "segments": [
+        {
+          "text": "funky funky funky night",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "funky funky funky night"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 69.647,
+      "end": 71.121,
+      "japanese": "Today is All night be",
+      "zh-CN": "Today is All night be",
+      "segments": [
+        {
+          "text": "Today is All night be",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "Today is All night be"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 71.121,
+      "end": 73.337,
+      "japanese": "funky funky funky night",
+      "zh-CN": "funky funky funky night",
+      "segments": [
+        {
+          "text": "funky funky funky night",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "funky funky funky night"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 73.337,
+      "end": 75.613,
+      "japanese": "You & I funky night!",
+      "zh-CN": "You & I funky night!",
+      "segments": [
+        {
+          "text": "You & I funky night!",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "You & I funky night!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 75.613,
+      "end": 76.736,
+      "japanese": "☆あげ↑てきな",
+      "zh-CN": "☆嗨起来吧↑",
+      "segments": [
+        {
+          "text": "☆あげ↑てきな",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "☆あげ↑てきな"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 76.736,
+      "end": 83.899,
+      "japanese": "Dance Dance 君の瞳から 輝く金の流星が",
+      "zh-CN": "Dance Dance 从你的双眸中 闪烁出璀璨的金色流星",
+      "segments": [
+        {
+          "text": "Dance Dance 君の瞳から ",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "Dance Dance "
+            },
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "瞳",
+              "reading": "ひとみ"
+            },
+            {
+              "text": "から "
+            }
+          ]
+        },
+        {
+          "text": "輝く金の流星が",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "輝",
+              "reading": "かがや"
+            },
+            {
+              "text": "く"
+            },
+            {
+              "text": "金",
+              "reading": "きん"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "流星",
+              "reading": "りゅうせい"
+            },
+            {
+              "text": "が"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 83.899,
+      "end": 87.615,
+      "japanese": "秘密のドアを抜けてきて here we go",
+      "zh-CN": "穿过那扇秘密之门走出来吧 here we go",
+      "segments": [
+        {
+          "text": "秘密のドアを抜けてきて here we go",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "秘密",
+              "reading": "ひみつ"
+            },
+            {
+              "text": "のドアを"
+            },
+            {
+              "text": "抜",
+              "reading": "ぬ"
+            },
+            {
+              "text": "けてきて here we go"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000023",
+      "order": 22,
+      "index": 22,
+      "start": 87.615,
+      "end": 89.723,
+      "japanese": "oh yeah (oh yeah) oh yeah (oh yeah)",
+      "zh-CN": "oh yeah (oh yeah) oh yeah (oh yeah)",
+      "segments": [
+        {
+          "text": "oh yeah ",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "oh yeah "
+            }
+          ]
+        },
+        {
+          "text": "(oh yeah) ",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "(oh yeah) "
+            }
+          ]
+        },
+        {
+          "text": "oh yeah ",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "oh yeah "
+            }
+          ]
+        },
+        {
+          "text": "(oh yeah)",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "(oh yeah)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "partial_text": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000024",
+      "order": 23,
+      "index": 23,
+      "start": 89.723,
+      "end": 91.432,
+      "japanese": "yeah yeah yeah yeah",
+      "zh-CN": "yeah yeah yeah yeah",
+      "segments": [
+        {
+          "text": "yeah yeah yeah yeah",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "yeah yeah yeah yeah"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000025",
+      "order": 24,
+      "index": 24,
+      "start": 91.504,
+      "end": 94.459,
+      "japanese": "Shake Shake 今夜は止まらない",
+      "zh-CN": "Shake Shake 今夜绝不停歇",
+      "segments": [
+        {
+          "text": "Shake Shake 今夜は止まらない",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "Shake Shake "
+            },
+            {
+              "text": "今夜",
+              "reading": "こんや"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "止",
+              "reading": "と"
+            },
+            {
+              "text": "まらない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000026",
+      "order": 25,
+      "index": 25,
+      "start": 94.459,
+      "end": 98.715,
+      "japanese": "だから今は　oh　夢の中",
+      "zh-CN": "所以此刻就在 oh 梦境之中",
+      "segments": [
+        {
+          "text": "だから今は　oh　夢の中",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "だから"
+            },
+            {
+              "text": "今",
+              "reading": "いま"
+            },
+            {
+              "text": "は　oh　"
+            },
+            {
+              "text": "夢",
+              "reading": "ゆめ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "中",
+              "reading": "なか"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000027",
+      "order": 26,
+      "index": 26,
+      "start": 98.715,
+      "end": 102.341,
+      "japanese": "ミラーボールが回りまわる hurry up",
+      "zh-CN": "霓虹球旋转不休 hurry up",
+      "segments": [
+        {
+          "text": "ミラーボールが回りまわる hurry up",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "ミラーボールが"
+            },
+            {
+              "text": "回",
+              "reading": "まわ"
+            },
+            {
+              "text": "りまわる hurry up"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000028",
+      "order": 27,
+      "index": 27,
+      "start": 102.341,
+      "end": 104.403,
+      "japanese": "oh yeah (oh yeah) oh yeah (oh yeah)",
+      "zh-CN": "oh yeah (oh yeah) oh yeah (oh yeah)",
+      "segments": [
+        {
+          "text": "oh yeah ",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "oh yeah "
+            }
+          ]
+        },
+        {
+          "text": "(oh yeah) ",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "(oh yeah) "
+            }
+          ]
+        },
+        {
+          "text": "oh yeah ",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "oh yeah "
+            }
+          ]
+        },
+        {
+          "text": "(oh yeah)",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "(oh yeah)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "partial_text": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000029",
+      "order": 28,
+      "index": 28,
+      "start": 104.403,
+      "end": 106.2,
+      "japanese": "yeah yeah yeah yeah",
+      "zh-CN": "yeah yeah yeah yeah",
+      "segments": [
+        {
+          "text": "yeah yeah yeah yeah",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "yeah yeah yeah yeah"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000030",
+      "order": 29,
+      "index": 29,
+      "start": 106.259,
+      "end": 113.417,
+      "japanese": "Dance Dance 君の瞳から　輝く金の流星が",
+      "zh-CN": "Dance Dance 从你的双眸中　闪烁出璀璨的金色流星",
+      "segments": [
+        {
+          "text": "Dance Dance 君の瞳から　輝く金の流星が",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "Dance Dance "
+            },
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "瞳",
+              "reading": "ひとみ"
+            },
+            {
+              "text": "から　"
+            },
+            {
+              "text": "輝",
+              "reading": "かがや"
+            },
+            {
+              "text": "く"
+            },
+            {
+              "text": "金",
+              "reading": "きん"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "流星",
+              "reading": "りゅうせい"
+            },
+            {
+              "text": "が"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000031",
+      "order": 30,
+      "index": 30,
+      "start": 113.417,
+      "end": 117.127,
+      "japanese": "秘密のドアを抜けてきて here we go",
+      "zh-CN": "穿过那扇秘密之门走出来吧 here we go",
+      "segments": [
+        {
+          "text": "秘密のドアを抜けてきて here we go",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "秘密",
+              "reading": "ひみつ"
+            },
+            {
+              "text": "のドアを"
+            },
+            {
+              "text": "抜",
+              "reading": "ぬ"
+            },
+            {
+              "text": "けてきて here we go"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000032",
+      "order": 31,
+      "index": 31,
+      "start": 117.127,
+      "end": 119.21,
+      "japanese": "oh yeah (oh yeah) oh yeah (oh yeah)",
+      "zh-CN": "oh yeah (oh yeah) oh yeah (oh yeah)",
+      "segments": [
+        {
+          "text": "oh yeah ",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "oh yeah "
+            }
+          ]
+        },
+        {
+          "text": "(oh yeah) ",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-07",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "(oh yeah) "
+            }
+          ]
+        },
+        {
+          "text": "oh yeah ",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "oh yeah "
+            }
+          ]
+        },
+        {
+          "text": "(oh yeah)",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-07",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "(oh yeah)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "partial_text": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000033",
+      "order": 32,
+      "index": 32,
+      "start": 119.21,
+      "end": 120.857,
+      "japanese": "yeah yeah yeah yeah",
+      "zh-CN": "yeah yeah yeah yeah",
+      "segments": [
+        {
+          "text": "yeah yeah yeah yeah",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "yeah yeah yeah yeah"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000034",
+      "order": 33,
+      "index": 33,
+      "start": 120.919,
+      "end": 122.953,
+      "japanese": "oh yeah (oh yeah) oh yeah (oh yeah)",
+      "zh-CN": "oh yeah (oh yeah) oh yeah (oh yeah)",
+      "segments": [
+        {
+          "text": "oh yeah ",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "oh yeah "
+            }
+          ]
+        },
+        {
+          "text": "(oh yeah) ",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "(oh yeah) "
+            }
+          ]
+        },
+        {
+          "text": "oh yeah ",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "oh yeah "
+            }
+          ]
+        },
+        {
+          "text": "(oh yeah)",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "(oh yeah)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "partial_text": true,
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000035",
+      "order": 34,
+      "index": 34,
+      "start": 122.953,
+      "end": 124.516,
+      "japanese": "yeah yeah yeah yeah",
+      "zh-CN": "yeah yeah yeah yeah",
+      "segments": [
+        {
+          "text": "yeah yeah yeah yeah",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "yeah yeah yeah yeah"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000036",
+      "order": 35,
+      "index": 35,
+      "start": 124.707,
+      "end": 126.565,
+      "japanese": "oh yeah (oh yeah) oh yeah (oh yeah)",
+      "zh-CN": "oh yeah (oh yeah) oh yeah (oh yeah)",
+      "segments": [
+        {
+          "text": "oh yeah ",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "oh yeah "
+            }
+          ]
+        },
+        {
+          "text": "(oh yeah) ",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "(oh yeah) "
+            }
+          ]
+        },
+        {
+          "text": "oh yeah ",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "oh yeah "
+            }
+          ]
+        },
+        {
+          "text": "(oh yeah)",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "(oh yeah)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "partial_text": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000037",
+      "order": 36,
+      "index": 36,
+      "start": 126.565,
+      "end": 128.428,
+      "japanese": "yeah yeah yeah yeah",
+      "zh-CN": "yeah yeah yeah yeah",
+      "segments": [
+        {
+          "text": "yeah yeah yeah yeah",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "yeah yeah yeah yeah"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

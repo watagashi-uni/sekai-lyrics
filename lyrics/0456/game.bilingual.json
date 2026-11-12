@@ -1,0 +1,787 @@
+{
+  "music_id": 456,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-01",
+      "name": "星乃一歌"
+    },
+    {
+      "performerId": "歌唱者-02",
+      "name": "天馬咲希"
+    },
+    {
+      "performerId": "歌唱者-03",
+      "name": "望月穂波"
+    },
+    {
+      "performerId": "歌唱者-04",
+      "name": "日野森志歩"
+    },
+    {
+      "performerId": "歌唱者-25",
+      "name": "MEIKO"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 22.21025,
+      "end": 29.35025,
+      "japanese": "朔 藍 染めてく この星空に",
+      "zh-CN": "朔月 幽蓝 染透这片星空",
+      "segments": [
+        {
+          "text": "朔 藍 染めてく この星空に",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "朔",
+              "reading": "ついたち"
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "藍",
+              "reading": "あい"
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "染",
+              "reading": "そ"
+            },
+            {
+              "text": "めてく この"
+            },
+            {
+              "text": "星空",
+              "reading": "ほしぞら"
+            },
+            {
+              "text": "に"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 29.35025,
+      "end": 35.94425,
+      "japanese": "破滅的な暗闇に 私は立ち尽くす",
+      "zh-CN": "在毁灭般的黑暗之中 我呆立伫立",
+      "segments": [
+        {
+          "text": "破滅的な暗闇に 私は立ち尽くす",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "破滅的",
+              "reading": "はめつてき"
+            },
+            {
+              "text": "な"
+            },
+            {
+              "text": "暗闇",
+              "reading": "くらやみ"
+            },
+            {
+              "text": "に "
+            },
+            {
+              "text": "私",
+              "reading": "わたし"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "立",
+              "reading": "た"
+            },
+            {
+              "text": "ち"
+            },
+            {
+              "text": "尽",
+              "reading": "つ"
+            },
+            {
+              "text": "くす"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 35.94425,
+      "end": 42.84425,
+      "japanese": "巡り巡るクロニクル この繊月に",
+      "zh-CN": "循环往复的编年史 面对这纤细的新月",
+      "segments": [
+        {
+          "text": "巡り巡るクロニクル この繊月に",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "巡",
+              "reading": "めぐ"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "巡",
+              "reading": "めぐ"
+            },
+            {
+              "text": "るクロニクル この"
+            },
+            {
+              "text": "繊月",
+              "reading": "せんげつ"
+            },
+            {
+              "text": "に"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 42.84425,
+      "end": 47.92125,
+      "japanese": "アスファルトを踏みしめて 見上げた",
+      "zh-CN": "脚踏柏油路面 举目仰望",
+      "segments": [
+        {
+          "text": "アスファルトを踏みしめて 見上げた",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "アスファルトを"
+            },
+            {
+              "text": "踏",
+              "reading": "ふ"
+            },
+            {
+              "text": "みしめて "
+            },
+            {
+              "text": "見上",
+              "reading": "みあ"
+            },
+            {
+              "text": "げた"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 47.92125,
+      "end": 50.20225,
+      "japanese": "宇宙へ高く羽を伸ばすよ",
+      "zh-CN": "展翅高飞奔向浩瀚宇宙",
+      "segments": [
+        {
+          "text": "宇宙へ高く羽を伸ばすよ",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "宇宙",
+              "reading": "そら"
+            },
+            {
+              "text": "へ"
+            },
+            {
+              "text": "高",
+              "reading": "たか"
+            },
+            {
+              "text": "く"
+            },
+            {
+              "text": "羽",
+              "reading": "はね"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "伸",
+              "reading": "の"
+            },
+            {
+              "text": "ばすよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 50.20225,
+      "end": 56.59725,
+      "japanese": "大気の底映す オペラグラス覗く",
+      "zh-CN": "倒映着大气的底层 透过观剧镜窥视",
+      "segments": [
+        {
+          "text": "大気の底映す ",
+          "performerIds": [
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "大気",
+              "reading": "たいき"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "底映",
+              "reading": "そこうつ"
+            },
+            {
+              "text": "す "
+            }
+          ]
+        },
+        {
+          "text": "オペラグラス覗く",
+          "performerIds": [
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "オペラグラス"
+            },
+            {
+              "text": "覗",
+              "reading": "のぞ"
+            },
+            {
+              "text": "く"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 56.59725,
+      "end": 62.56925,
+      "japanese": "揺蕩う明かりさ",
+      "zh-CN": "那是摇曳荡漾的光芒",
+      "segments": [
+        {
+          "text": "揺蕩う明かりさ",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-03"
+          ],
+          "ruby": [
+            {
+              "text": "揺蕩",
+              "reading": "たゆた"
+            },
+            {
+              "text": "う"
+            },
+            {
+              "text": "明",
+              "reading": "あ"
+            },
+            {
+              "text": "かりさ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 62.56925,
+      "end": 66.10225,
+      "japanese": "三日月の風に乗り 宇宙 飛び回るよ",
+      "zh-CN": "乘着新月的微风 在宇宙中翱翔飞舞",
+      "segments": [
+        {
+          "text": "三日月の風に乗り 宇宙 ",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "三日月",
+              "reading": "みかずき"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "風",
+              "reading": "かぜ"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "乗",
+              "reading": "の"
+            },
+            {
+              "text": "り "
+            },
+            {
+              "text": "宇宙",
+              "reading": "そら"
+            },
+            {
+              "text": " "
+            }
+          ]
+        },
+        {
+          "text": "飛び回るよ",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "飛",
+              "reading": "と"
+            },
+            {
+              "text": "び"
+            },
+            {
+              "text": "回",
+              "reading": "まわ"
+            },
+            {
+              "text": "るよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 66.10225,
+      "end": 69.44625,
+      "japanese": "月明かりを切り取る さあ今",
+      "zh-CN": "裁剪定格月光 来吧正是现在",
+      "segments": [
+        {
+          "text": "月明かりを切り取る ",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "月明",
+              "reading": "つきあ"
+            },
+            {
+              "text": "かりを"
+            },
+            {
+              "text": "切",
+              "reading": "き"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "取",
+              "reading": "と"
+            },
+            {
+              "text": "る "
+            }
+          ]
+        },
+        {
+          "text": "さあ今",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "さあ"
+            },
+            {
+              "text": "今",
+              "reading": "いま"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 69.44625,
+      "end": 72.84725,
+      "japanese": "一閃の光が 夜 切り裂いてく",
+      "zh-CN": "一道闪光 划破漫漫黑夜",
+      "segments": [
+        {
+          "text": "一閃の光が 夜 切り",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "一閃",
+              "reading": "ひとすじ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "光",
+              "reading": "ひかり"
+            },
+            {
+              "text": "が "
+            },
+            {
+              "text": "夜",
+              "reading": "よる"
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "切",
+              "reading": "き"
+            },
+            {
+              "text": "り"
+            }
+          ]
+        },
+        {
+          "text": "裂いてく",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "裂",
+              "reading": "さ"
+            },
+            {
+              "text": "いてく"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 72.84725,
+      "end": 92.11425,
+      "japanese": "flying through the night",
+      "zh-CN": "flying through the night",
+      "segments": [
+        {
+          "text": "flying through the night",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "flying through the night"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 92.11425,
+      "end": 95.74925,
+      "japanese": "幾望の月に満ち この夜空を抜け",
+      "zh-CN": "盈满十四日的几望之月 穿透这片夜空",
+      "segments": [
+        {
+          "text": "幾望の月に満ち この",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "幾望",
+              "reading": "きぼう"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "月",
+              "reading": "つき"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "満",
+              "reading": "み"
+            },
+            {
+              "text": "ち この"
+            }
+          ]
+        },
+        {
+          "text": "夜空を抜け",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "夜空",
+              "reading": "よぞら"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "抜",
+              "reading": "ぬ"
+            },
+            {
+              "text": "け"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 95.74925,
+      "end": 98.95325,
+      "japanese": "月明かりを切り取る さあ今",
+      "zh-CN": "裁剪定格月光 来吧正是现在",
+      "segments": [
+        {
+          "text": "月明かりを切り取る ",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "月明",
+              "reading": "つきあ"
+            },
+            {
+              "text": "かりを"
+            },
+            {
+              "text": "切",
+              "reading": "き"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "取",
+              "reading": "と"
+            },
+            {
+              "text": "る "
+            }
+          ]
+        },
+        {
+          "text": "さあ今",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "さあ"
+            },
+            {
+              "text": "今",
+              "reading": "いま"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 98.95325,
+      "end": 102.46525,
+      "japanese": "永久に続く時間が 星空を照らす",
+      "zh-CN": "永恒延续的时间 照亮璀璨星空",
+      "segments": [
+        {
+          "text": "永久に続く時間が ",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "永久",
+              "reading": "とわ"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "続",
+              "reading": "つづ"
+            },
+            {
+              "text": "く"
+            },
+            {
+              "text": "時間",
+              "reading": "じかん"
+            },
+            {
+              "text": "が "
+            }
+          ]
+        },
+        {
+          "text": "星空を照らす",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "星空",
+              "reading": "ほしぞら"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "照",
+              "reading": "て"
+            },
+            {
+              "text": "らす"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 102.46525,
+      "end": 131.8275,
+      "japanese": "flying through the night",
+      "zh-CN": "flying through the night",
+      "segments": [
+        {
+          "text": "flying through the night",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "flying through the night"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

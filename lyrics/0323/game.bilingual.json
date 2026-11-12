@@ -1,0 +1,1389 @@
+{
+  "music_id": 323,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-01",
+      "name": "星乃一歌"
+    },
+    {
+      "performerId": "歌唱者-02",
+      "name": "天馬咲希"
+    },
+    {
+      "performerId": "歌唱者-03",
+      "name": "望月穂波"
+    },
+    {
+      "performerId": "歌唱者-04",
+      "name": "日野森志歩"
+    },
+    {
+      "performerId": "歌唱者-25",
+      "name": "MEIKO"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 25.721018,
+      "end": 28.322537,
+      "japanese": "梅雨が明けるまであとどれくらい？",
+      "zh-CN": "距离梅雨季节结束还有多久？",
+      "segments": [
+        {
+          "text": "梅雨が明けるまであとどれくらい？",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "梅雨",
+              "reading": "つゆ"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "明",
+              "reading": "あ"
+            },
+            {
+              "text": "けるまであとどれくらい？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 28.322537,
+      "end": 31.202004,
+      "japanese": "まだ紫陽花の光る朝 君の愚痴",
+      "zh-CN": "绣球花依然闪烁微光的清晨 你的抱怨",
+      "segments": [
+        {
+          "text": "まだ紫陽花の光る朝 君の愚痴",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "まだ"
+            },
+            {
+              "text": "紫陽花",
+              "reading": "あじさい"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "光",
+              "reading": "ひか"
+            },
+            {
+              "text": "る"
+            },
+            {
+              "text": "朝",
+              "reading": "あさ"
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "愚痴",
+              "reading": "ぐち"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 31.202004,
+      "end": 33.840515,
+      "japanese": "夏の足音はすぐそこまで",
+      "zh-CN": "夏天的脚步声已近在咫尺",
+      "segments": [
+        {
+          "text": "夏の足音はすぐそこまで",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "夏",
+              "reading": "なつ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "足音",
+              "reading": "あしおと"
+            },
+            {
+              "text": "はすぐそこまで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 33.840515,
+      "end": 36.808966,
+      "japanese": "ねぇ迎えに行こって 僕を急かす",
+      "zh-CN": "呐「一起去迎接吧」催促着我",
+      "segments": [
+        {
+          "text": "ねぇ迎えに行こって 僕を急かす",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "ねぇ"
+            },
+            {
+              "text": "迎",
+              "reading": "むか"
+            },
+            {
+              "text": "えに"
+            },
+            {
+              "text": "行",
+              "reading": "い"
+            },
+            {
+              "text": "こって "
+            },
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "急",
+              "reading": "せ"
+            },
+            {
+              "text": "かす"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 36.916946,
+      "end": 39.43448,
+      "japanese": "君に言われるがまま 路地を抜け",
+      "zh-CN": "任由你拉着穿过小巷",
+      "segments": [
+        {
+          "text": "君に言われるがまま 路地を抜け",
+          "performerIds": [
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "言",
+              "reading": "い"
+            },
+            {
+              "text": "われるがまま "
+            },
+            {
+              "text": "路地",
+              "reading": "ろじ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "抜",
+              "reading": "ぬ"
+            },
+            {
+              "text": "け"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 39.43448,
+      "end": 42.233961,
+      "japanese": "あのときの坂を越え 虹を越え",
+      "zh-CN": "翻过那时的坡道 越过彩虹",
+      "segments": [
+        {
+          "text": "あのときの坂を越え 虹を越え",
+          "performerIds": [
+            "歌唱者-03"
+          ],
+          "ruby": [
+            {
+              "text": "あのときの"
+            },
+            {
+              "text": "坂",
+              "reading": "さか"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "越",
+              "reading": "こ"
+            },
+            {
+              "text": "え "
+            },
+            {
+              "text": "虹",
+              "reading": "にじ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "越",
+              "reading": "こ"
+            },
+            {
+              "text": "え"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 42.233961,
+      "end": 45.090433,
+      "japanese": "まだ誰もいない夏の空を",
+      "zh-CN": "将空无一人的夏日天空",
+      "segments": [
+        {
+          "text": "まだ誰もいない夏の空を",
+          "performerIds": [
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "まだ"
+            },
+            {
+              "text": "誰",
+              "reading": "だれ"
+            },
+            {
+              "text": "もいない"
+            },
+            {
+              "text": "夏",
+              "reading": "なつ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "空",
+              "reading": "そら"
+            },
+            {
+              "text": "を"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 45.090433,
+      "end": 49.007707,
+      "japanese": "全部 全部",
+      "zh-CN": "全部 全部",
+      "segments": [
+        {
+          "text": "全部 全部",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "全部",
+              "reading": "ぜんぶ"
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "全部",
+              "reading": "ぜんぶ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 45.090433,
+      "end": 49.007707,
+      "japanese": "二人占めにするんだ",
+      "zh-CN": "占为我们两个人所有",
+      "segments": [
+        {
+          "text": "二人占めにするんだ",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "二人占",
+              "reading": "ふたりし"
+            },
+            {
+              "text": "めにするんだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 49.16,
+      "end": 50.42,
+      "japanese": "あぁ",
+      "zh-CN": "啊啊",
+      "segments": [
+        {
+          "text": "あぁ",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "あぁ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 50.18249,
+      "end": 53.992785,
+      "japanese": "なんて 君は笑ってたよな",
+      "zh-CN": "这样说着 你露出了笑容呢",
+      "segments": [
+        {
+          "text": "なんて 君は笑ってたよな",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "なんて "
+            },
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "笑",
+              "reading": "わら"
+            },
+            {
+              "text": "ってたよな"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 54.151755,
+      "end": 57.487138,
+      "japanese": "遠い夏の記憶",
+      "zh-CN": "遥远的夏日回忆",
+      "segments": [
+        {
+          "text": "遠い夏の記憶",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "遠",
+              "reading": "とお"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "夏",
+              "reading": "なつ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "記憶",
+              "reading": "きおく"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 57.487138,
+      "end": 59.74472,
+      "japanese": "もう逢えなくても",
+      "zh-CN": "纵使再也无法相逢",
+      "segments": [
+        {
+          "text": "もう逢えなくても",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-03"
+          ],
+          "ruby": [
+            {
+              "text": "もう"
+            },
+            {
+              "text": "逢",
+              "reading": "あ"
+            },
+            {
+              "text": "えなくても"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 59.74472,
+      "end": 62.675177,
+      "japanese": "二度と帰れなくても",
+      "zh-CN": "纵使再也无法回到过去",
+      "segments": [
+        {
+          "text": "二度と帰れなくても",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "二度",
+              "reading": "にど"
+            },
+            {
+              "text": "と"
+            },
+            {
+              "text": "帰",
+              "reading": "かえ"
+            },
+            {
+              "text": "れなくても"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 62.867142,
+      "end": 65.243702,
+      "japanese": "それは美しい",
+      "zh-CN": "那也是美丽无比的",
+      "segments": [
+        {
+          "text": "それは美しい",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "それは"
+            },
+            {
+              "text": "美",
+              "reading": "うつく"
+            },
+            {
+              "text": "しい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 65.243702,
+      "end": 68.726057,
+      "japanese": "僕らだけの夏だったろう",
+      "zh-CN": "仅属于我们的夏天吧",
+      "segments": [
+        {
+          "text": "僕らだけの夏だったろう",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "らだけの"
+            },
+            {
+              "text": "夏",
+              "reading": "なつ"
+            },
+            {
+              "text": "だったろう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 69.728872,
+      "end": 75.175863,
+      "japanese": "さよなら, I love you",
+      "zh-CN": "再见了，I love you",
+      "segments": [
+        {
+          "text": "さよなら, I love you",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-04",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "さよなら, I love you"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 69.728872,
+      "end": 75.175863,
+      "japanese": "それで全て",
+      "zh-CN": "难道就会因此",
+      "segments": [
+        {
+          "text": "それで全て",
+          "performerIds": [
+            "歌唱者-02",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "それで"
+            },
+            {
+              "text": "全",
+              "reading": "すべ"
+            },
+            {
+              "text": "て"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 75.175863,
+      "end": 78.550239,
+      "japanese": "終わってしまうような",
+      "zh-CN": "彻底迎来终结吗",
+      "segments": [
+        {
+          "text": "終わってしまうような",
+          "performerIds": [
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "終",
+              "reading": "お"
+            },
+            {
+              "text": "わってしまうような"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 78.550239,
+      "end": 80.818819,
+      "japanese": "僕らじゃないだろう",
+      "zh-CN": "我们可不是那样脆弱的关系吧",
+      "segments": [
+        {
+          "text": "僕らじゃないだろう",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "らじゃないだろう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 80.818819,
+      "end": 84.138204,
+      "japanese": "変わらないな",
+      "zh-CN": "毫无改变啊",
+      "segments": [
+        {
+          "text": "変わらないな",
+          "performerIds": [
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "変",
+              "reading": "か"
+            },
+            {
+              "text": "わらないな"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 84.138204,
+      "end": 87.763533,
+      "japanese": "空も星も その泣き顔も",
+      "zh-CN": "天空、繁星以及那副哭泣的脸庞",
+      "segments": [
+        {
+          "text": "空も星も その泣き顔も",
+          "performerIds": [
+            "歌唱者-04",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "空",
+              "reading": "そら"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "星",
+              "reading": "ほし"
+            },
+            {
+              "text": "も その"
+            },
+            {
+              "text": "泣",
+              "reading": "な"
+            },
+            {
+              "text": "き"
+            },
+            {
+              "text": "顔",
+              "reading": "がお"
+            },
+            {
+              "text": "も"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000023",
+      "order": 22,
+      "index": 22,
+      "start": 87.755,
+      "end": 89.939,
+      "japanese": "っていつか君と",
+      "zh-CN": "祈愿有朝一日能与你",
+      "segments": [
+        {
+          "text": "っていつか君と",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "っていつか"
+            },
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "と"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000024",
+      "order": 23,
+      "index": 23,
+      "start": 89.939,
+      "end": 95.5795,
+      "japanese": "また 笑えますように",
+      "zh-CN": "再次 一同欢笑",
+      "segments": [
+        {
+          "text": "また 笑えますように",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "また "
+            },
+            {
+              "text": "笑",
+              "reading": "わら"
+            },
+            {
+              "text": "えますように"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000025",
+      "order": 24,
+      "index": 24,
+      "start": 96.655771,
+      "end": 99.46725,
+      "japanese": "そりゃ色々あっただろう",
+      "zh-CN": "那肯定经历过很多很多事吧",
+      "segments": [
+        {
+          "text": "そりゃ色々あっただろう",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "そりゃ"
+            },
+            {
+              "text": "色々",
+              "reading": "いろいろ"
+            },
+            {
+              "text": "あっただろう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000026",
+      "order": 25,
+      "index": 25,
+      "start": 99.46725,
+      "end": 101.722833,
+      "japanese": "今もあるだろう",
+      "zh-CN": "现在也一定有很多烦恼吧",
+      "segments": [
+        {
+          "text": "今もあるだろう",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "今",
+              "reading": "いま"
+            },
+            {
+              "text": "もあるだろう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000027",
+      "order": 26,
+      "index": 26,
+      "start": 102.07925,
+      "end": 105.04025,
+      "japanese": "過ぎ去っていく日々に 意味はない",
+      "zh-CN": "若逝去的岁月毫无意义",
+      "segments": [
+        {
+          "text": "過ぎ去っていく日々に 意味はない",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "過",
+              "reading": "す"
+            },
+            {
+              "text": "ぎ"
+            },
+            {
+              "text": "去",
+              "reading": "さ"
+            },
+            {
+              "text": "っていく"
+            },
+            {
+              "text": "日々",
+              "reading": "ひび"
+            },
+            {
+              "text": "に "
+            },
+            {
+              "text": "意味",
+              "reading": "いみ"
+            },
+            {
+              "text": "はない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000028",
+      "order": 27,
+      "index": 27,
+      "start": 105.001909,
+      "end": 107.846383,
+      "japanese": "なら 明日の僕は僕 じゃない",
+      "zh-CN": "那么明天的我也将不再是我",
+      "segments": [
+        {
+          "text": "なら 明日の僕は僕 じゃない",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "なら "
+            },
+            {
+              "text": "明日",
+              "reading": "あした"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": " じゃない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000029",
+      "order": 28,
+      "index": 28,
+      "start": 107.846383,
+      "end": 112.909445,
+      "japanese": "そんな筈はないだろう",
+      "zh-CN": "绝不可能发生那种事吧",
+      "segments": [
+        {
+          "text": "そんな筈はないだろう",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "そんな"
+            },
+            {
+              "text": "筈",
+              "reading": "はず"
+            },
+            {
+              "text": "はないだろう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000030",
+      "order": 29,
+      "index": 29,
+      "start": 113.17475,
+      "end": 116.17525,
+      "japanese": "I know this sky loves you",
+      "zh-CN": "I know this sky loves you",
+      "segments": [
+        {
+          "text": "I know this sky loves you",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-04",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "I know this sky loves you"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000031",
+      "order": 30,
+      "index": 30,
+      "start": 116.17525,
+      "end": 118.42025,
+      "japanese": "いずれ全て",
+      "zh-CN": "纵然终有一天",
+      "segments": [
+        {
+          "text": "いずれ全て",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-04",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "いずれ"
+            },
+            {
+              "text": "全",
+              "reading": "すべ"
+            },
+            {
+              "text": "て"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000032",
+      "order": 31,
+      "index": 31,
+      "start": 118.437289,
+      "end": 121.747676,
+      "japanese": "変わってしまったって",
+      "zh-CN": "一切都变得面目全非",
+      "segments": [
+        {
+          "text": "変わってしまったって",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-04",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "変",
+              "reading": "か"
+            },
+            {
+              "text": "わってしまったって"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000033",
+      "order": 32,
+      "index": 32,
+      "start": 121.747676,
+      "end": 124.057249,
+      "japanese": "空は青いだろう！",
+      "zh-CN": "天空依旧蔚蓝吧！",
+      "segments": [
+        {
+          "text": "空は青いだろう！",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-04",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "空",
+              "reading": "そら"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "青",
+              "reading": "あお"
+            },
+            {
+              "text": "いだろう！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000034",
+      "order": 33,
+      "index": 33,
+      "start": 124.057249,
+      "end": 127.304648,
+      "japanese": "忘れないさ",
+      "zh-CN": "绝不会遗忘",
+      "segments": [
+        {
+          "text": "忘れないさ",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-04",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "忘",
+              "reading": "わす"
+            },
+            {
+              "text": "れないさ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000035",
+      "order": 34,
+      "index": 34,
+      "start": 127.304648,
+      "end": 130.929977,
+      "japanese": "でもまた出逢えますように",
+      "zh-CN": "但愿有朝一日能与你再次相逢",
+      "segments": [
+        {
+          "text": "でもまた出逢えますように",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-04",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "でもまた"
+            },
+            {
+              "text": "出逢",
+              "reading": "であ"
+            },
+            {
+              "text": "えますように"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000036",
+      "order": 35,
+      "index": 35,
+      "start": 130.929977,
+      "end": 134.266359,
+      "japanese": "って生きて征くよ",
+      "zh-CN": "怀揣这份心愿勇敢活下去",
+      "segments": [
+        {
+          "text": "って生きて征くよ",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "って"
+            },
+            {
+              "text": "生",
+              "reading": "い"
+            },
+            {
+              "text": "きて"
+            },
+            {
+              "text": "征",
+              "reading": "ゆ"
+            },
+            {
+              "text": "くよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000037",
+      "order": 36,
+      "index": 36,
+      "start": 134.266359,
+      "end": 139.193447,
+      "japanese": "君は笑っていて",
+      "zh-CN": "请你一定要保持微笑",
+      "segments": [
+        {
+          "text": "君は笑って",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "笑",
+              "reading": "わら"
+            },
+            {
+              "text": "って"
+            }
+          ]
+        },
+        {
+          "text": "いて",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02"
+          ],
+          "ruby": [
+            {
+              "text": "いて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

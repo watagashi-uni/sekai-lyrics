@@ -1,0 +1,944 @@
+{
+  "music_id": 507,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-17",
+      "name": "宵崎奏"
+    },
+    {
+      "performerId": "歌唱者-18",
+      "name": "朝比奈まふゆ"
+    },
+    {
+      "performerId": "歌唱者-19",
+      "name": "東雲絵名"
+    },
+    {
+      "performerId": "歌唱者-20",
+      "name": "暁山瑞希"
+    },
+    {
+      "performerId": "歌唱者-22",
+      "name": "鏡音リン"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 10.603661,
+      "end": 15.249433,
+      "japanese": "Empurple",
+      "zh-CN": "Empurple",
+      "segments": [
+        {
+          "text": "Empurple",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "Empurple"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 22.376016,
+      "end": 23.507473,
+      "japanese": "電線に跨って",
+      "zh-CN": "跨坐在电线上",
+      "segments": [
+        {
+          "text": "電線に跨って",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "電線",
+              "reading": "でんせん"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "跨",
+              "reading": "またが"
+            },
+            {
+              "text": "って"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 23.507473,
+      "end": 25.762392,
+      "japanese": "明日どんな自分かを考える",
+      "zh-CN": "思考着明天会是怎样的自己",
+      "segments": [
+        {
+          "text": "明日どんな自分かを考える",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "明日",
+              "reading": "あした"
+            },
+            {
+              "text": "どんな"
+            },
+            {
+              "text": "自分",
+              "reading": "じぶん"
+            },
+            {
+              "text": "かを"
+            },
+            {
+              "text": "考",
+              "reading": "かんが"
+            },
+            {
+              "text": "える"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 25.762392,
+      "end": 27.010793,
+      "japanese": "運命を匿って",
+      "zh-CN": "隐匿庇护着命运",
+      "segments": [
+        {
+          "text": "運命を匿って",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "運命",
+              "reading": "うんめい"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "匿",
+              "reading": "かくま"
+            },
+            {
+              "text": "って"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 27.010793,
+      "end": 29.260714,
+      "japanese": "黒いドレスの少女は考える",
+      "zh-CN": "黑色礼服的少女陷入沉思",
+      "segments": [
+        {
+          "text": "黒いドレスの少女は考える",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "黒",
+              "reading": "くろ"
+            },
+            {
+              "text": "いドレスの"
+            },
+            {
+              "text": "少女",
+              "reading": "しょうじょ"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "考",
+              "reading": "かんが"
+            },
+            {
+              "text": "える"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 29.260714,
+      "end": 30.5411,
+      "japanese": "解答が錆びついた",
+      "zh-CN": "答案早已锈迹斑斑",
+      "segments": [
+        {
+          "text": "解答が錆びついた",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "解答",
+              "reading": "かいとう"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "錆",
+              "reading": "さ"
+            },
+            {
+              "text": "びついた"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 30.5411,
+      "end": 32.834001,
+      "japanese": "君はどんな顔する花瓶のレベッカ？",
+      "zh-CN": "花瓶里的丽贝卡 你又会露出怎样的神情？",
+      "segments": [
+        {
+          "text": "君はどんな顔する花瓶のレベッカ？",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "はどんな"
+            },
+            {
+              "text": "顔",
+              "reading": "かお"
+            },
+            {
+              "text": "する"
+            },
+            {
+              "text": "花瓶",
+              "reading": "かびん"
+            },
+            {
+              "text": "のレベッカ？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 32.834001,
+      "end": 36.392294,
+      "japanese": "本当の私が喉につかえてるままEmpurple",
+      "zh-CN": "真正的我依旧哽咽在咽喉之中 Empurple",
+      "segments": [
+        {
+          "text": "本当の私が喉につかえてるままEmpurple",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "本当",
+              "reading": "ほんとう"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "私",
+              "reading": "わたし"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "喉",
+              "reading": "のど"
+            },
+            {
+              "text": "につかえてるままEmpurple"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 42.702269,
+      "end": 49.306102,
+      "japanese": "私の左手を開けてみて？",
+      "zh-CN": "试着摊开我的左手看看吧？",
+      "segments": [
+        {
+          "text": "私の左手を開けてみて？",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "私",
+              "reading": "わたし"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "左手",
+              "reading": "ひだりて"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "開",
+              "reading": "あ"
+            },
+            {
+              "text": "けてみて？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 49.306102,
+      "end": 55.454154,
+      "japanese": "まだ青い瞳の",
+      "zh-CN": "若是被那双依然碧蓝的眸子的",
+      "segments": [
+        {
+          "text": "まだ青い瞳の",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "まだ"
+            },
+            {
+              "text": "青",
+              "reading": "あお"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "瞳",
+              "reading": "ひとみ"
+            },
+            {
+              "text": "の"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 55.593087,
+      "end": 59.107402,
+      "japanese": "私が見たら呆れるかしら",
+      "zh-CN": "我看到的话 会感到无语厌烦吧",
+      "segments": [
+        {
+          "text": "私が見たら呆れるかしら",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "私",
+              "reading": "わたし"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "たら"
+            },
+            {
+              "text": "呆",
+              "reading": "あき"
+            },
+            {
+              "text": "れるかしら"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 59.107402,
+      "end": 62.362841,
+      "japanese": "素直な気持ちだけで生きてみたい",
+      "zh-CN": "只想凭借纯粹坦诚的心意活下去",
+      "segments": [
+        {
+          "text": "素直な気持ちだけで生きてみたい",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "素直",
+              "reading": "すなお"
+            },
+            {
+              "text": "な"
+            },
+            {
+              "text": "気持",
+              "reading": "きも"
+            },
+            {
+              "text": "ちだけで"
+            },
+            {
+              "text": "生",
+              "reading": "い"
+            },
+            {
+              "text": "きてみたい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 62.650703,
+      "end": 66.110044,
+      "japanese": "手を繋いだらわかると良いね",
+      "zh-CN": "牵起手若是能够明白就好了呢",
+      "segments": [
+        {
+          "text": "手を繋いだらわかると良いね",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "手",
+              "reading": "て"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "繋",
+              "reading": "つな"
+            },
+            {
+              "text": "いだらわかると"
+            },
+            {
+              "text": "良",
+              "reading": "い"
+            },
+            {
+              "text": "いね"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 66.22175,
+      "end": 67.7175,
+      "japanese": "Please, Forgive me and \"Purple\"",
+      "zh-CN": "Please, Forgive me and \"Purple\"",
+      "segments": [
+        {
+          "text": "Please, Forgive me and \"Purple\"",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "Please, Forgive me and \"Purple\""
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 67.724171,
+      "end": 70.012073,
+      "japanese": "まだ真ん中の私Empurple",
+      "zh-CN": "依然处于正中央的我 Empurple",
+      "segments": [
+        {
+          "text": "まだ真ん中の私Empurple",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "まだ"
+            },
+            {
+              "text": "真",
+              "reading": "ま"
+            },
+            {
+              "text": "ん"
+            },
+            {
+              "text": "中",
+              "reading": "なか"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "私",
+              "reading": "わたし"
+            },
+            {
+              "text": "Empurple"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 76.718857,
+      "end": 80.150212,
+      "japanese": "まだ青いこの瞳が",
+      "zh-CN": "哪怕这双依然碧蓝的眼眸",
+      "segments": [
+        {
+          "text": "まだ青いこの瞳が",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "まだ"
+            },
+            {
+              "text": "青",
+              "reading": "あお"
+            },
+            {
+              "text": "いこの"
+            },
+            {
+              "text": "瞳",
+              "reading": "ひとみ"
+            },
+            {
+              "text": "が"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 80.150212,
+      "end": 83.585565,
+      "japanese": "知られざる色だとして",
+      "zh-CN": "是未曾为人所知的色彩",
+      "segments": [
+        {
+          "text": "知られざる色だとして",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "知",
+              "reading": "し"
+            },
+            {
+              "text": "られざる"
+            },
+            {
+              "text": "色",
+              "reading": "いろ"
+            },
+            {
+              "text": "だとして"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 83.840442,
+      "end": 87.039908,
+      "japanese": "ひた匿す茜空を",
+      "zh-CN": "哪怕全心隐匿的茜色天空",
+      "segments": [
+        {
+          "text": "ひた匿す茜空を",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "ひた"
+            },
+            {
+              "text": "匿",
+              "reading": "かく"
+            },
+            {
+              "text": "す"
+            },
+            {
+              "text": "茜空",
+              "reading": "あかねぞら"
+            },
+            {
+              "text": "を"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 87.335766,
+      "end": 92.757166,
+      "japanese": "あなたなら覚えてるとして",
+      "zh-CN": "唯有你能够清晰铭记",
+      "segments": [
+        {
+          "text": "あなたなら覚えてるとして",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "あなたなら"
+            },
+            {
+              "text": "覚",
+              "reading": "おぼ"
+            },
+            {
+              "text": "えてるとして"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 101.308066,
+      "end": 104.914337,
+      "japanese": "大事なものは離さないから",
+      "zh-CN": "我也绝不会放开珍贵的事物",
+      "segments": [
+        {
+          "text": "大事なものは離さないから",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "大事",
+              "reading": "だいじ"
+            },
+            {
+              "text": "なものは"
+            },
+            {
+              "text": "離",
+              "reading": "はな"
+            },
+            {
+              "text": "さないから"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 104.914337,
+      "end": 108.192764,
+      "japanese": "身体の中でまだ壊れている",
+      "zh-CN": "在身躯深处依然处于破碎",
+      "segments": [
+        {
+          "text": "身体の中でまだ壊れている",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "身体",
+              "reading": "からだ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "中",
+              "reading": "なか"
+            },
+            {
+              "text": "でまだ"
+            },
+            {
+              "text": "壊",
+              "reading": "こわ"
+            },
+            {
+              "text": "れている"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 108.3945,
+      "end": 112.0775,
+      "japanese": "手を繋いだら直してあげて",
+      "zh-CN": "牵起手便请为我抚平治愈吧",
+      "segments": [
+        {
+          "text": "手を繋いだら直してあげて",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "手",
+              "reading": "て"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "繋",
+              "reading": "つな"
+            },
+            {
+              "text": "いだら"
+            },
+            {
+              "text": "直",
+              "reading": "なお"
+            },
+            {
+              "text": "してあげて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000023",
+      "order": 22,
+      "index": 22,
+      "start": 112.0775,
+      "end": 113.5805,
+      "japanese": "Please, Forgive me and \"Purple\"",
+      "zh-CN": "Please, Forgive me and \"Purple\"",
+      "segments": [
+        {
+          "text": "Please, Forgive me and \"Purple\"",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "Please, Forgive me and \"Purple\""
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000024",
+      "order": 23,
+      "index": 23,
+      "start": 113.5805,
+      "end": 127.01,
+      "japanese": "まだ真ん中の私Empurple",
+      "zh-CN": "依然处于正中央的我 Empurple",
+      "segments": [
+        {
+          "text": "まだ真ん中の私Empurple",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "まだ"
+            },
+            {
+              "text": "真",
+              "reading": "ま"
+            },
+            {
+              "text": "ん"
+            },
+            {
+              "text": "中",
+              "reading": "なか"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "私",
+              "reading": "わたし"
+            },
+            {
+              "text": "Empurple"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

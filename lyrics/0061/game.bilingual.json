@@ -1,0 +1,752 @@
+{
+  "music_id": 61,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-19",
+      "name": "東雲絵名"
+    },
+    {
+      "performerId": "歌唱者-20",
+      "name": "暁山瑞希"
+    },
+    {
+      "performerId": "歌唱者-21",
+      "name": "初音ミク"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 35.930332,
+      "end": 40.443763,
+      "japanese": "いつまでも手放せない感情は",
+      "zh-CN": "始终无法放下的这份感情",
+      "segments": [
+        {
+          "text": "いつまでも手放せない感情は",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "いつまでも"
+            },
+            {
+              "text": "手放",
+              "reading": "てばな"
+            },
+            {
+              "text": "せない"
+            },
+            {
+              "text": "感情",
+              "reading": "かんじょう"
+            },
+            {
+              "text": "は"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 42.177544,
+      "end": 46.999936,
+      "japanese": "ひとさじの甘さで薄汚れている",
+      "zh-CN": "因一小勺多余的甜度而略显污浊",
+      "segments": [
+        {
+          "text": "ひとさじの甘さで薄汚れている",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "ひとさじの"
+            },
+            {
+              "text": "甘",
+              "reading": "あま"
+            },
+            {
+              "text": "さで"
+            },
+            {
+              "text": "薄汚",
+              "reading": "うすよご"
+            },
+            {
+              "text": "れている"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 48.661726,
+      "end": 53.450122,
+      "japanese": "憧れの物語と違うのは",
+      "zh-CN": "与憧憬中的美好故事有所不同的",
+      "segments": [
+        {
+          "text": "憧れの物語と違うのは",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "憧",
+              "reading": "あこが"
+            },
+            {
+              "text": "れの"
+            },
+            {
+              "text": "物語",
+              "reading": "ものがたり"
+            },
+            {
+              "text": "と"
+            },
+            {
+              "text": "違",
+              "reading": "ちが"
+            },
+            {
+              "text": "うのは"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 54.908938,
+      "end": 61.596094,
+      "japanese": "どうしても　不安になる以上の感触が",
+      "zh-CN": "是无论如何 除去不安之外的切身实感",
+      "segments": [
+        {
+          "text": "どうしても　不安になる以上の感触が",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "どうしても　"
+            },
+            {
+              "text": "不安",
+              "reading": "ふあん"
+            },
+            {
+              "text": "になる"
+            },
+            {
+              "text": "以上",
+              "reading": "いじょう"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "感触",
+              "reading": "かんしょく"
+            },
+            {
+              "text": "が"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 54.908938,
+      "end": 61.596094,
+      "japanese": "足りない",
+      "zh-CN": "始终有所欠缺",
+      "segments": [
+        {
+          "text": "足りない",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "足",
+              "reading": "ざ"
+            },
+            {
+              "text": "りない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 61.63309,
+      "end": 63.21489,
+      "japanese": "チクタク　チクタク",
+      "zh-CN": "滴答 滴答",
+      "segments": [
+        {
+          "text": "チクタク　チクタク",
+          "performerIds": [
+            "歌唱者-19",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "チクタク　チクタク"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 63.21489,
+      "end": 67.993287,
+      "japanese": "君と交わす　とりとめのない言葉　結わいて",
+      "zh-CN": "将与你交谈的漫无边际的话语 紧紧系起",
+      "segments": [
+        {
+          "text": "君と交わす　とりとめのない言葉　結わいて",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "と"
+            },
+            {
+              "text": "交",
+              "reading": "か"
+            },
+            {
+              "text": "わす　とりとめのない"
+            },
+            {
+              "text": "言葉",
+              "reading": "ことば"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "結",
+              "reading": "ゆ"
+            },
+            {
+              "text": "わいて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 67.993287,
+      "end": 69.604084,
+      "japanese": "チクタク　チクタク",
+      "zh-CN": "滴答 滴答",
+      "segments": [
+        {
+          "text": "チクタク　チクタク",
+          "performerIds": [
+            "歌唱者-20",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "チクタク　チクタク"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 69.604084,
+      "end": 73.292619,
+      "japanese": "お別れの頃合いになっただけ",
+      "zh-CN": "不过是迎来了该说告别的时候罢了",
+      "segments": [
+        {
+          "text": "お別れの頃合いになっただけ",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "お"
+            },
+            {
+              "text": "別",
+              "reading": "わか"
+            },
+            {
+              "text": "れの"
+            },
+            {
+              "text": "頃合",
+              "reading": "ころあ"
+            },
+            {
+              "text": "いになっただけ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 73.545587,
+      "end": 79.803798,
+      "japanese": "口元に残る甘さはどこへやろう",
+      "zh-CN": "残留在嘴角的甜意究竟该往何处安放",
+      "segments": [
+        {
+          "text": "口元に残る甘さはどこへやろう",
+          "performerIds": [
+            "歌唱者-19",
+            "歌唱者-20",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "口元",
+              "reading": "くちもと"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "残",
+              "reading": "のこ"
+            },
+            {
+              "text": "る"
+            },
+            {
+              "text": "甘",
+              "reading": "あま"
+            },
+            {
+              "text": "さはどこへやろう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 80.129756,
+      "end": 83.777296,
+      "japanese": "ねえ　愛すなら愛して　厭ならば嫌って",
+      "zh-CN": "呐 要爱就好好爱我 讨厌就干脆厌弃我",
+      "segments": [
+        {
+          "text": "ねえ　愛すなら愛して　厭ならば嫌って",
+          "performerIds": [
+            "歌唱者-20",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ねえ　"
+            },
+            {
+              "text": "愛",
+              "reading": "あい"
+            },
+            {
+              "text": "すなら"
+            },
+            {
+              "text": "愛",
+              "reading": "あい"
+            },
+            {
+              "text": "して　"
+            },
+            {
+              "text": "厭",
+              "reading": "いや"
+            },
+            {
+              "text": "ならば"
+            },
+            {
+              "text": "嫌",
+              "reading": "きら"
+            },
+            {
+              "text": "って"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 83.777296,
+      "end": 86.868906,
+      "japanese": "白黒つかないダージリン",
+      "zh-CN": "暧昧不清黑白难辨的大吉岭红茶",
+      "segments": [
+        {
+          "text": "白黒つかないダージリン",
+          "performerIds": [
+            "歌唱者-20",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "白黒",
+              "reading": "しろくろ"
+            },
+            {
+              "text": "つかないダージリン"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 87.019887,
+      "end": 92.104246,
+      "japanese": "瞼のいらない嘘の言葉に　愛をせがんでしまう",
+      "zh-CN": "面对无需闭眼便能轻易说出的虚伪谎言 却忍不住向其乞求着爱意",
+      "segments": [
+        {
+          "text": "瞼のいらない嘘の言葉に　愛をせがんでしまう",
+          "performerIds": [
+            "歌唱者-19",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "瞼",
+              "reading": "まぶた"
+            },
+            {
+              "text": "のいらない"
+            },
+            {
+              "text": "嘘",
+              "reading": "うそ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "言葉",
+              "reading": "ことば"
+            },
+            {
+              "text": "に　"
+            },
+            {
+              "text": "愛",
+              "reading": "あい"
+            },
+            {
+              "text": "をせがんでしまう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 92.104246,
+      "end": 93.445077,
+      "japanese": "「いかないでよ」",
+      "zh-CN": "“别离开我啊”",
+      "segments": [
+        {
+          "text": "「いかないでよ」",
+          "performerIds": [
+            "歌唱者-19",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "「いかないでよ」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 93.445077,
+      "end": 96.582681,
+      "japanese": "口をつけずに冷めた紅茶を",
+      "zh-CN": "甚至未曾碰唇便已冷掉的红茶",
+      "segments": [
+        {
+          "text": "口をつけずに冷めた紅茶を",
+          "performerIds": [
+            "歌唱者-20",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "口",
+              "reading": "くち"
+            },
+            {
+              "text": "をつけずに"
+            },
+            {
+              "text": "冷",
+              "reading": "さ"
+            },
+            {
+              "text": "めた"
+            },
+            {
+              "text": "紅茶",
+              "reading": "こおちゃ"
+            },
+            {
+              "text": "を"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 96.582681,
+      "end": 99.748282,
+      "japanese": "捨てられないような恋でも",
+      "zh-CN": "哪怕是宛如无法将其丢弃一般的恋情",
+      "segments": [
+        {
+          "text": "捨てられないような恋でも",
+          "performerIds": [
+            "歌唱者-20",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "捨",
+              "reading": "す"
+            },
+            {
+              "text": "てられないような"
+            },
+            {
+              "text": "恋",
+              "reading": "こい"
+            },
+            {
+              "text": "でも"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 99.774278,
+      "end": 105.839513,
+      "japanese": "心以上の言葉で君を聞かせて",
+      "zh-CN": "也请用超越心灵的话语 让我聆听你的心声",
+      "segments": [
+        {
+          "text": "心以上の言葉で君を聞かせて",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "心以上",
+              "reading": "こころいじょう"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "言葉",
+              "reading": "ことば"
+            },
+            {
+              "text": "で"
+            },
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "聞",
+              "reading": "き"
+            },
+            {
+              "text": "かせて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 105.746059,
+      "end": 108.595335,
+      "japanese": "もしもし",
+      "zh-CN": "喂喂",
+      "segments": [
+        {
+          "text": "もしもし",
+          "performerIds": [
+            "歌唱者-19",
+            "歌唱者-20",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "もしもし"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 108.727149,
+      "end": 115.965236,
+      "japanese": "君と 繋げて　もしもし",
+      "zh-CN": "与你 紧密相连 喂喂",
+      "segments": [
+        {
+          "text": "君と ",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "と "
+            }
+          ]
+        },
+        {
+          "text": "繋げて　もしもし",
+          "performerIds": [
+            "歌唱者-19",
+            "歌唱者-20",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "繋",
+              "reading": "つな"
+            },
+            {
+              "text": "げて　もしもし"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    }
+  ]
+}

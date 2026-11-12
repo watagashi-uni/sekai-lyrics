@@ -1,0 +1,925 @@
+{
+  "music_id": 270,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-17",
+      "name": "宵崎奏"
+    },
+    {
+      "performerId": "歌唱者-20",
+      "name": "暁山瑞希"
+    },
+    {
+      "performerId": "歌唱者-21",
+      "name": "初音ミク"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 33.023,
+      "end": 38.671,
+      "japanese": "砕けた心が濾過できなくて　",
+      "zh-CN": "破碎的心无法被过滤",
+      "segments": [
+        {
+          "text": "砕けた心が濾過できなくて　",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "砕",
+              "reading": "くだ"
+            },
+            {
+              "text": "けた"
+            },
+            {
+              "text": "心",
+              "reading": "こころ"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "濾過",
+              "reading": "ろか"
+            },
+            {
+              "text": "できなくて　"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 38.681,
+      "end": 43.587,
+      "japanese": "涙はそっと枯れてゆく",
+      "zh-CN": "泪水悄然枯竭",
+      "segments": [
+        {
+          "text": "涙はそっと枯れてゆく",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "涙",
+              "reading": "なみだ"
+            },
+            {
+              "text": "はそっと"
+            },
+            {
+              "text": "枯",
+              "reading": "か"
+            },
+            {
+              "text": "れてゆく"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 43.581,
+      "end": 49.728,
+      "japanese": "もう一粒も　流れなくて　",
+      "zh-CN": "再流不出一滴泪",
+      "segments": [
+        {
+          "text": "もう一粒も　流れなくて　",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "もう"
+            },
+            {
+              "text": "一粒",
+              "reading": "ひとつぶ"
+            },
+            {
+              "text": "も　"
+            },
+            {
+              "text": "流",
+              "reading": "なが"
+            },
+            {
+              "text": "れなくて　"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 49.728,
+      "end": 55.414,
+      "japanese": "可笑しいよねって　笑ってる",
+      "zh-CN": "笑着说「真可笑呢」",
+      "segments": [
+        {
+          "text": "可笑しいよねって　笑ってる",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "可笑",
+              "reading": "おか"
+            },
+            {
+              "text": "しいよねって　"
+            },
+            {
+              "text": "笑",
+              "reading": "わら"
+            },
+            {
+              "text": "ってる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 55.403,
+      "end": 60.927,
+      "japanese": "酷烈な人生　あなたを遮る迷路の荊棘",
+      "zh-CN": "严酷的人生 阻挡你前路的迷宫荆棘",
+      "segments": [
+        {
+          "text": "酷烈な人生　あなたを遮る迷路の荊棘",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "酷烈",
+              "reading": "こくれつ"
+            },
+            {
+              "text": "な"
+            },
+            {
+              "text": "人生",
+              "reading": "じんせい"
+            },
+            {
+              "text": "　あなたを"
+            },
+            {
+              "text": "遮",
+              "reading": "さえぎ"
+            },
+            {
+              "text": "る"
+            },
+            {
+              "text": "迷路",
+              "reading": "めいろ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "荊棘",
+              "reading": "けいきょく"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 60.92,
+      "end": 66.027,
+      "japanese": "濁世の闇　立ちはだかる　君は誰よりも憂う人",
+      "zh-CN": "浊世之暗 阻挡在前 你是比谁都忧心忡忡的人",
+      "segments": [
+        {
+          "text": "濁世の闇　立ちはだかる　君は誰よりも憂う人",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "濁世",
+              "reading": "じょくせ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "闇",
+              "reading": "やみ"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "立",
+              "reading": "た"
+            },
+            {
+              "text": "ちはだかる　"
+            },
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "誰",
+              "reading": "だれ"
+            },
+            {
+              "text": "よりも"
+            },
+            {
+              "text": "憂",
+              "reading": "うれ"
+            },
+            {
+              "text": "う"
+            },
+            {
+              "text": "人",
+              "reading": "ひと"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 66.027,
+      "end": 72.196,
+      "japanese": "だから今　僕らは溺れかけてる寸前だろう",
+      "zh-CN": "所以现在 我们正处于濒临溺亡的边缘吧",
+      "segments": [
+        {
+          "text": "だから今　僕らは溺れかけてる寸前だろう",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "だから"
+            },
+            {
+              "text": "今",
+              "reading": "いま"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "らは"
+            },
+            {
+              "text": "溺",
+              "reading": "おぼ"
+            },
+            {
+              "text": "れかけてる"
+            },
+            {
+              "text": "寸前",
+              "reading": "すんぜん"
+            },
+            {
+              "text": "だろう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 72.201,
+      "end": 75.043,
+      "japanese": "正しい呼吸に救われた　",
+      "zh-CN": "被正确的呼吸所拯救",
+      "segments": [
+        {
+          "text": "正しい呼吸に救われた　",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "正",
+              "reading": "ただ"
+            },
+            {
+              "text": "しい"
+            },
+            {
+              "text": "呼吸",
+              "reading": "こきゅう"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "救",
+              "reading": "すく"
+            },
+            {
+              "text": "われた　"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 75.0,
+      "end": 78.78,
+      "japanese": "今はいつか死ぬために生きてるだけだ",
+      "zh-CN": "现在不过是为了终将迎来的死亡而活着罢了",
+      "segments": [
+        {
+          "text": "今はいつか死ぬために生きてるだけだ",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "今",
+              "reading": "いま"
+            },
+            {
+              "text": "はいつか"
+            },
+            {
+              "text": "死",
+              "reading": "し"
+            },
+            {
+              "text": "ぬために"
+            },
+            {
+              "text": "生",
+              "reading": "い"
+            },
+            {
+              "text": "きてるだけだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 88.771,
+      "end": 94.755,
+      "japanese": "この身体を投げ出す　その瞬間があるとすれば",
+      "zh-CN": "若真有奋不顾身抛掷这具躯体的那一瞬间",
+      "segments": [
+        {
+          "text": "この身体を投げ出す　その瞬間があるとすれば",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-20",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "この"
+            },
+            {
+              "text": "身体",
+              "reading": "からだ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "投",
+              "reading": "な"
+            },
+            {
+              "text": "げ"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "す　その"
+            },
+            {
+              "text": "瞬間",
+              "reading": "しゅんかん"
+            },
+            {
+              "text": "があるとすれば"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 94.748,
+      "end": 100.594,
+      "japanese": "この世の闇　切り裂いてさ　ここに生まれた意味を探そうか",
+      "zh-CN": "撕裂这世间的黑暗 寻找诞生于此的意义吧",
+      "segments": [
+        {
+          "text": "この世の闇　切り裂いてさ　ここに生まれた意味を探そうか",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "この"
+            },
+            {
+              "text": "世",
+              "reading": "よ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "闇",
+              "reading": "やみ"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "切",
+              "reading": "き"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "裂",
+              "reading": "さ"
+            },
+            {
+              "text": "いてさ　ここに"
+            },
+            {
+              "text": "生",
+              "reading": "う"
+            },
+            {
+              "text": "まれた"
+            },
+            {
+              "text": "意味",
+              "reading": "いみ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "探",
+              "reading": "さが"
+            },
+            {
+              "text": "そうか"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 100.581,
+      "end": 106.03,
+      "japanese": "終わりの始まり　始まれば最後の人生だから",
+      "zh-CN": "终焉的开端 一旦开启便是仅有一次的最后人生",
+      "segments": [
+        {
+          "text": "終わりの始まり　始まれば最後の人生だから",
+          "performerIds": [
+            "歌唱者-20",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "終",
+              "reading": "お"
+            },
+            {
+              "text": "わりの"
+            },
+            {
+              "text": "始",
+              "reading": "はじ"
+            },
+            {
+              "text": "まり　"
+            },
+            {
+              "text": "始",
+              "reading": "はじ"
+            },
+            {
+              "text": "まれば"
+            },
+            {
+              "text": "最後",
+              "reading": "さいご"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "人生",
+              "reading": "じんせい"
+            },
+            {
+              "text": "だから"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 106.03,
+      "end": 108.914,
+      "japanese": "途方もない　旅の末に",
+      "zh-CN": "在漫无边际的旅途尽头",
+      "segments": [
+        {
+          "text": "途方もない　旅の末に",
+          "performerIds": [
+            "歌唱者-20",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "途方",
+              "reading": "とほう"
+            },
+            {
+              "text": "もない　"
+            },
+            {
+              "text": "旅",
+              "reading": "たび"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "末",
+              "reading": "すえ"
+            },
+            {
+              "text": "に"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 109.081,
+      "end": 112.265,
+      "japanese": "今しかない「時」があるのだろう",
+      "zh-CN": "一定存在着唯有此刻才有的「时光」吧",
+      "segments": [
+        {
+          "text": "今しかない「時」があるのだろう",
+          "performerIds": [
+            "歌唱者-20",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "今",
+              "reading": "いま"
+            },
+            {
+              "text": "しかない「"
+            },
+            {
+              "text": "時",
+              "reading": "とき"
+            },
+            {
+              "text": "」があるのだろう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 111.96,
+      "end": 114.68,
+      "japanese": "雨に溺れることはないな",
+      "zh-CN": "倒也不至于溺毙于雨中",
+      "segments": [
+        {
+          "text": "雨に溺れることはないな",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "雨",
+              "reading": "あめ"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "溺",
+              "reading": "おぼ"
+            },
+            {
+              "text": "れることはないな"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 117.341,
+      "end": 123.029,
+      "japanese": "それでもなんだか息苦しいな",
+      "zh-CN": "即便如此总觉得有些透不过气",
+      "segments": [
+        {
+          "text": "それでもなんだか息苦しいな",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "それでもなんだか"
+            },
+            {
+              "text": "息苦",
+              "reading": "いきぐる"
+            },
+            {
+              "text": "しいな"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 123.022,
+      "end": 128.63,
+      "japanese": "今　この世の行方を　遮る迷路に　線を引こうぜ",
+      "zh-CN": "此刻 在阻挡这世间去向的迷宫中 画下一条线吧",
+      "segments": [
+        {
+          "text": "今　この世の行方を　遮る迷路に　線を引こうぜ",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "今",
+              "reading": "いま"
+            },
+            {
+              "text": "　この"
+            },
+            {
+              "text": "世",
+              "reading": "よ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "行方",
+              "reading": "ゆくえ"
+            },
+            {
+              "text": "を　"
+            },
+            {
+              "text": "遮",
+              "reading": "さえぎ"
+            },
+            {
+              "text": "る"
+            },
+            {
+              "text": "迷路",
+              "reading": "めいろ"
+            },
+            {
+              "text": "に　"
+            },
+            {
+              "text": "線",
+              "reading": "せん"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "引",
+              "reading": "ひ"
+            },
+            {
+              "text": "こうぜ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 128.622,
+      "end": 131.289,
+      "japanese": "その線がさ　重なる地図",
+      "zh-CN": "那条线条重叠交织的地图",
+      "segments": [
+        {
+          "text": "その線がさ　重なる地図",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-20",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "その"
+            },
+            {
+              "text": "線",
+              "reading": "せん"
+            },
+            {
+              "text": "がさ　"
+            },
+            {
+              "text": "重",
+              "reading": "かさ"
+            },
+            {
+              "text": "なる"
+            },
+            {
+              "text": "地図",
+              "reading": "ちず"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 131.26,
+      "end": 134.82,
+      "japanese": "君を照らすために咲く花さ",
+      "zh-CN": "正是为你照亮前路而盛开的花朵",
+      "segments": [
+        {
+          "text": "君を照らすために咲く花さ",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-20",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "照",
+              "reading": "て"
+            },
+            {
+              "text": "らすために"
+            },
+            {
+              "text": "咲",
+              "reading": "さ"
+            },
+            {
+              "text": "く"
+            },
+            {
+              "text": "花",
+              "reading": "はな"
+            },
+            {
+              "text": "さ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

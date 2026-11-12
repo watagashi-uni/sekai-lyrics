@@ -1,0 +1,941 @@
+{
+  "music_id": 169,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-06",
+      "name": "桐谷遥"
+    },
+    {
+      "performerId": "歌唱者-08",
+      "name": "日野森雫"
+    },
+    {
+      "performerId": "歌唱者-21",
+      "name": "初音ミク"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 23.26575,
+      "end": 29.39975,
+      "japanese": "本能が狂い始める 追い詰められたハツカネズミ",
+      "zh-CN": "本能开始错乱疯狂　被逼入绝境的小白鼠",
+      "segments": [
+        {
+          "text": "本能が狂い始める 追い詰められたハツカネズミ",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "本能",
+              "reading": "ほんのう"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "狂",
+              "reading": "くる"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "始",
+              "reading": "はじ"
+            },
+            {
+              "text": "める "
+            },
+            {
+              "text": "追",
+              "reading": "お"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "詰",
+              "reading": "つ"
+            },
+            {
+              "text": "められたハツカネズミ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 29.39975,
+      "end": 32.50175,
+      "japanese": "今、絶望の淵に立って 踏切へと飛び出した",
+      "zh-CN": "此刻伫立在绝望深渊的边缘　猛然冲向了铁道道口",
+      "segments": [
+        {
+          "text": "今、絶望の淵に立って 踏切へと飛び出した",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "今",
+              "reading": "いま"
+            },
+            {
+              "text": "、"
+            },
+            {
+              "text": "絶望",
+              "reading": "ぜつぼう"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "淵",
+              "reading": "ふち"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "立",
+              "reading": "た"
+            },
+            {
+              "text": "って "
+            },
+            {
+              "text": "踏切",
+              "reading": "ふみきり"
+            },
+            {
+              "text": "へと"
+            },
+            {
+              "text": "飛",
+              "reading": "と"
+            },
+            {
+              "text": "び"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "した"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 35.99575,
+      "end": 42.36475,
+      "japanese": "そう 君は友達 僕の手を掴めよ",
+      "zh-CN": "没错 你是我的朋友 快紧紧握住我的手吧",
+      "segments": [
+        {
+          "text": "そう 君は友達 僕の手を掴めよ",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "そう "
+            },
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "友達",
+              "reading": "ともだち"
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "手",
+              "reading": "て"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "掴",
+              "reading": "つか"
+            },
+            {
+              "text": "めよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 42.36475,
+      "end": 47.75175,
+      "japanese": "そう 君は独りさ 居場所なんて無いだろ",
+      "zh-CN": "没错 你终究是孤身一人 根本无处容身对吧",
+      "segments": [
+        {
+          "text": "そう 君は独りさ 居場所なんて無いだろ",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "そう "
+            },
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "独",
+              "reading": "ひと"
+            },
+            {
+              "text": "りさ "
+            },
+            {
+              "text": "居場所",
+              "reading": "いばしょ"
+            },
+            {
+              "text": "なんて"
+            },
+            {
+              "text": "無",
+              "reading": "な"
+            },
+            {
+              "text": "いだろ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 48.80175,
+      "end": 52.57875,
+      "japanese": "二人きりこの儘",
+      "zh-CN": "唯独我们两人就这样",
+      "segments": [
+        {
+          "text": "二人きりこの儘",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "二人",
+              "reading": "ふたり"
+            },
+            {
+              "text": "きりこの"
+            },
+            {
+              "text": "儘",
+              "reading": "まま"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 48.80175,
+      "end": 52.57875,
+      "japanese": "愛し合えるさー。",
+      "zh-CN": "彼此深爱到底吧——。",
+      "segments": [
+        {
+          "text": "愛し合えるさー。",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "愛",
+              "reading": "あい"
+            },
+            {
+              "text": "し"
+            },
+            {
+              "text": "合",
+              "reading": "あ"
+            },
+            {
+              "text": "えるさー。"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 55.682201,
+      "end": 56.716045,
+      "japanese": "繰り返す",
+      "zh-CN": "反复不断",
+      "segments": [
+        {
+          "text": "繰り返す",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "繰",
+              "reading": "く"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "返",
+              "reading": "かえ"
+            },
+            {
+              "text": "す"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 56.716045,
+      "end": 62.973104,
+      "japanese": "フラッシュバック・ 蝉の声・ 二度とは帰らぬ君",
+      "zh-CN": "记忆闪回・蝉鸣声声・再也无法归来的你",
+      "segments": [
+        {
+          "text": "フラッシュバック・ 蝉の声・ ",
+          "performerIds": [
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "フラッシュバック・ "
+            },
+            {
+              "text": "蝉",
+              "reading": "せみ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "声",
+              "reading": "こえ"
+            },
+            {
+              "text": "・ "
+            }
+          ]
+        },
+        {
+          "text": "二度とは帰らぬ君",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "二度",
+              "reading": "にど"
+            },
+            {
+              "text": "とは"
+            },
+            {
+              "text": "帰",
+              "reading": "かえ"
+            },
+            {
+              "text": "らぬ"
+            },
+            {
+              "text": "君",
+              "reading": "きみ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 63.220067,
+      "end": 69.394137,
+      "japanese": "永遠に千切れてく お揃いのキーホルダー",
+      "zh-CN": "永远被撕裂扯断的 同款配对钥匙扣",
+      "segments": [
+        {
+          "text": "永遠に千切れてく お揃いのキーホルダー",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "永遠",
+              "reading": "とわ"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "千切",
+              "reading": "ちぎ"
+            },
+            {
+              "text": "れてく お"
+            },
+            {
+              "text": "揃",
+              "reading": "そろ"
+            },
+            {
+              "text": "いのキーホルダー"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 69.6411,
+      "end": 75.829169,
+      "japanese": "夏が消し去った 白い肌の少女に",
+      "zh-CN": "向着被漫长夏天抹去 肤白胜雪的少女",
+      "segments": [
+        {
+          "text": "夏が消し去った ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "夏",
+              "reading": "なつ"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "消",
+              "reading": "け"
+            },
+            {
+              "text": "し"
+            },
+            {
+              "text": "去",
+              "reading": "さ"
+            },
+            {
+              "text": "った "
+            }
+          ]
+        },
+        {
+          "text": "白い肌の少女に",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "白",
+              "reading": "しろ"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "肌",
+              "reading": "はだ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "少女",
+              "reading": "しょうじょ"
+            },
+            {
+              "text": "に"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 75.829169,
+      "end": 82.372184,
+      "japanese": "哀しい程 とり憑かれて仕舞いたい",
+      "zh-CN": "渴望近乎悲哀地 彻底被其纠缠附身",
+      "segments": [
+        {
+          "text": "哀しい程 ",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "哀",
+              "reading": "かな"
+            },
+            {
+              "text": "しい"
+            },
+            {
+              "text": "程",
+              "reading": "ほど"
+            },
+            {
+              "text": " "
+            }
+          ]
+        },
+        {
+          "text": "とり憑かれて仕舞いたい",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "とり"
+            },
+            {
+              "text": "憑",
+              "reading": "つ"
+            },
+            {
+              "text": "かれて"
+            },
+            {
+              "text": "仕舞",
+              "reading": "しま"
+            },
+            {
+              "text": "いたい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 11,
+      "start": 82.771754,
+      "end": 84.069559,
+      "japanese": "繰り返す",
+      "zh-CN": "反复不断",
+      "segments": [
+        {
+          "text": "繰り返す",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "繰",
+              "reading": "く"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "返",
+              "reading": "かえ"
+            },
+            {
+              "text": "す"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "index": 12,
+      "start": 84.351517,
+      "end": 90.587578,
+      "japanese": "フラッシュバック・蝉の声・ 二度とは帰らぬ君",
+      "zh-CN": "记忆闪回・蝉鸣声声・再也无法归来的你",
+      "segments": [
+        {
+          "text": "フラッシュバック・蝉の声・ ",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "フラッシュバック・"
+            },
+            {
+              "text": "蝉",
+              "reading": "せみ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "声",
+              "reading": "こえ"
+            },
+            {
+              "text": "・ "
+            }
+          ]
+        },
+        {
+          "text": "二度とは帰らぬ君",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "二度",
+              "reading": "にど"
+            },
+            {
+              "text": "とは"
+            },
+            {
+              "text": "帰",
+              "reading": "かえ"
+            },
+            {
+              "text": "らぬ"
+            },
+            {
+              "text": "君",
+              "reading": "きみ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 90.6965,
+      "end": 97.1205,
+      "japanese": "永遠に千切れてく お揃いのキーホルダー",
+      "zh-CN": "永远被撕裂扯断的 同款配对钥匙扣",
+      "segments": [
+        {
+          "text": "永遠に千切れてく お揃いのキーホルダー",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "永遠",
+              "reading": "とわ"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "千切",
+              "reading": "ちぎ"
+            },
+            {
+              "text": "れてく お"
+            },
+            {
+              "text": "揃",
+              "reading": "そろ"
+            },
+            {
+              "text": "いのキーホルダー"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 97.238577,
+      "end": 103.33366,
+      "japanese": "夏が消し去った 白い肌の少女に",
+      "zh-CN": "向着被漫长夏天抹去 肤白胜雪的少女",
+      "segments": [
+        {
+          "text": "夏が消し去った ",
+          "performerIds": [
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "夏",
+              "reading": "なつ"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "消",
+              "reading": "け"
+            },
+            {
+              "text": "し"
+            },
+            {
+              "text": "去",
+              "reading": "さ"
+            },
+            {
+              "text": "った "
+            }
+          ]
+        },
+        {
+          "text": "白い肌の少女に",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "白",
+              "reading": "しろ"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "肌",
+              "reading": "はだ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "少女",
+              "reading": "しょうじょ"
+            },
+            {
+              "text": "に"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 103.406649,
+      "end": 109.787689,
+      "japanese": "哀しい程 とり憑かれて仕舞いたい",
+      "zh-CN": "渴望近乎悲哀地 彻底被其纠缠附身",
+      "segments": [
+        {
+          "text": "哀しい程 ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "哀",
+              "reading": "かな"
+            },
+            {
+              "text": "しい"
+            },
+            {
+              "text": "程",
+              "reading": "ほど"
+            },
+            {
+              "text": " "
+            }
+          ]
+        },
+        {
+          "text": "とり憑かれて仕舞いたい",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "とり"
+            },
+            {
+              "text": "憑",
+              "reading": "つ"
+            },
+            {
+              "text": "かれて"
+            },
+            {
+              "text": "仕舞",
+              "reading": "しま"
+            },
+            {
+              "text": "いたい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 109.953664,
+      "end": 116.592664,
+      "japanese": "透明な 君は僕を指差してた―。",
+      "zh-CN": "透明的你 正伸出手指指向了我——。",
+      "segments": [
+        {
+          "text": "透明な ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "透明",
+              "reading": "とうめい"
+            },
+            {
+              "text": "な "
+            }
+          ]
+        },
+        {
+          "text": "君は僕を指差してた―。",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "指差",
+              "reading": "ゆびさ"
+            },
+            {
+              "text": "してた―。"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    }
+  ]
+}

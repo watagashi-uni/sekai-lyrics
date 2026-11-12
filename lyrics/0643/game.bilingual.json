@@ -1,0 +1,929 @@
+{
+  "music_id": 643,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-09",
+      "name": "小豆沢こはね"
+    },
+    {
+      "performerId": "歌唱者-10",
+      "name": "白石杏"
+    },
+    {
+      "performerId": "歌唱者-11",
+      "name": "東雲彰人"
+    },
+    {
+      "performerId": "歌唱者-12",
+      "name": "青柳冬弥"
+    },
+    {
+      "performerId": "歌唱者-21",
+      "name": "初音ミク"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 30.59875,
+      "end": 32.80575,
+      "japanese": "I have a story to tell",
+      "zh-CN": "我有一个故事想诉说",
+      "segments": [
+        {
+          "text": "I have a story to tell",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "I have a story to tell"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 32.912769,
+      "end": 34.510595,
+      "japanese": "Do you hear me tonight",
+      "zh-CN": "今晚你听得见我吗",
+      "segments": [
+        {
+          "text": "Do you hear me tonight",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "Do you hear me tonight"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 34.710449,
+      "end": 37.579341,
+      "japanese": "It's things about me",
+      "zh-CN": "那是关于我自身的故事",
+      "segments": [
+        {
+          "text": "It's things about me",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "It's things about me"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 37.779194,
+      "end": 39.860665,
+      "japanese": "I'll be waiting in bedroom",
+      "zh-CN": "我会在卧室里静静等待",
+      "segments": [
+        {
+          "text": "I'll be waiting in bedroom",
+          "performerIds": [
+            "歌唱者-09"
+          ],
+          "ruby": [
+            {
+              "text": "I'll be waiting in bedroom"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 40.052524,
+      "end": 41.542429,
+      "japanese": "But anyway you can't come",
+      "zh-CN": "反正你也无法赴约前来了",
+      "segments": [
+        {
+          "text": "But anyway you can't come",
+          "performerIds": [
+            "歌唱者-09"
+          ],
+          "ruby": [
+            {
+              "text": "But anyway you can't come"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 41.347572,
+      "end": 43.428044,
+      "japanese": "I get it, never mind",
+      "zh-CN": "我明白的 别放在心上",
+      "segments": [
+        {
+          "text": "I get it, never mind",
+          "performerIds": [
+            "歌唱者-09"
+          ],
+          "ruby": [
+            {
+              "text": "I get it, never mind"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 44.446296,
+      "end": 46.587722,
+      "japanese": "Now, it is starting to rain",
+      "zh-CN": "此刻 天空开始落下了雨滴",
+      "segments": [
+        {
+          "text": "Now, it is starting to rain",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "Now, it is starting to rain"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 46.770588,
+      "end": 48.153572,
+      "japanese": "I feel you drop tears",
+      "zh-CN": "我能感觉到你滑落的泪水",
+      "segments": [
+        {
+          "text": "I feel you drop tears",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "I feel you drop tears"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 48.353425,
+      "end": 50.855587,
+      "japanese": "And my heart become heavy",
+      "zh-CN": "我的心也随之变得沉重无比",
+      "segments": [
+        {
+          "text": "And my heart become heavy",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "And my heart become heavy"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 52.160628,
+      "end": 54.191136,
+      "japanese": "What's this world coming to?",
+      "zh-CN": "这个世界到底会变成什么样？",
+      "segments": [
+        {
+          "text": "What's this world coming to?",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "What's this world coming to?"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 54.390989,
+      "end": 56.062761,
+      "japanese": "There's nothing that can be done",
+      "zh-CN": "已经无能为力了",
+      "segments": [
+        {
+          "text": "There's nothing that can be done",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "There's nothing that can be done"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 56.182673,
+      "end": 58.20119,
+      "japanese": "I couldn't careless",
+      "zh-CN": "我也不想再去在乎了",
+      "segments": [
+        {
+          "text": "I couldn't careless",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "I couldn't careless"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 58.224173,
+      "end": 62.018385,
+      "japanese": "It's wonderful for me that world is moving now",
+      "zh-CN": "此时此刻世界仍在运转 对我而言是多么奇妙",
+      "segments": [
+        {
+          "text": "It's wonderful for me that world is moving now",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "It's wonderful for me that world is moving now"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 62.218238,
+      "end": 65.245014,
+      "japanese": "Some lights turn around and around",
+      "zh-CN": "点点微光在周围盘旋流转",
+      "segments": [
+        {
+          "text": "Some lights turn around and around",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "Some lights turn around and around"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 65.444868,
+      "end": 67.167602,
+      "japanese": "I lost my head again",
+      "zh-CN": "我又一次失去了理智",
+      "segments": [
+        {
+          "text": "I lost my head again",
+          "performerIds": [
+            "歌唱者-10",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "I lost my head again"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 67.277521,
+      "end": 69.937567,
+      "japanese": "And just want to throw everything away",
+      "zh-CN": "只想把所有的一切都彻底抛弃",
+      "segments": [
+        {
+          "text": "And just want to throw everything away",
+          "performerIds": [
+            "歌唱者-10",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "And just want to throw everything away"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 70.13742,
+      "end": 72.175922,
+      "japanese": "It's not that easy",
+      "zh-CN": "可这谈何容易",
+      "segments": [
+        {
+          "text": "It's not that easy",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "It's not that easy"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 72.40075,
+      "end": 76.81675,
+      "japanese": "Maybe I'm afraid I'm not as tender guy as you think",
+      "zh-CN": "或许我只是在害怕 自己并不如你想象中那般温柔",
+      "segments": [
+        {
+          "text": "Maybe I'm afraid I'm not as tender guy as you think",
+          "performerIds": [
+            "歌唱者-10",
+            "歌唱者-11",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "Maybe I'm afraid I'm not as tender guy as you think"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 76.81675,
+      "end": 80.46875,
+      "japanese": "Looking your eyes, and I say \"love you\" with fake smile",
+      "zh-CN": "凝望着你的双眸 挂着虚伪的微笑说着「我爱你」",
+      "segments": [
+        {
+          "text": "Looking your eyes, and I say \"love you\" with fake smile",
+          "performerIds": [
+            "歌唱者-10",
+            "歌唱者-11",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "Looking your eyes, and I say \"love you\" with fake smile"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 80.46875,
+      "end": 81.99075,
+      "japanese": "I don't know what to do",
+      "zh-CN": "我不知道该如何是好",
+      "segments": [
+        {
+          "text": "I don't know what to do",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-12",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "I don't know what to do"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 81.99075,
+      "end": 83.92375,
+      "japanese": "Please tell me what should I do",
+      "zh-CN": "请告诉我 究竟该怎么做才好",
+      "segments": [
+        {
+          "text": "Please tell me what should I do",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-12",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "Please tell me what should I do"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 83.92375,
+      "end": 87.27275,
+      "japanese": "Just feel so sad inside, but I kiss you",
+      "zh-CN": "内心明明如此悲伤 却依然吻向了你",
+      "segments": [
+        {
+          "text": "Just feel so sad inside, but I kiss you",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-12",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "Just feel so sad inside, but I kiss you"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000023",
+      "order": 22,
+      "index": 22,
+      "start": 87.229862,
+      "end": 88.526909,
+      "japanese": "Kiss you...",
+      "zh-CN": "亲吻着你……",
+      "segments": [
+        {
+          "text": "Kiss you...",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "Kiss you..."
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000024",
+      "order": 23,
+      "index": 23,
+      "start": 101.12275,
+      "end": 105.44875,
+      "japanese": "気付いた時には終わりを告げ",
+      "zh-CN": "当回过神来一切已宣告终结",
+      "segments": [
+        {
+          "text": "気付いた時には終わりを告げ",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "気付",
+              "reading": "きず"
+            },
+            {
+              "text": "いた"
+            },
+            {
+              "text": "時",
+              "reading": "とき"
+            },
+            {
+              "text": "には"
+            },
+            {
+              "text": "終",
+              "reading": "お"
+            },
+            {
+              "text": "わりを"
+            },
+            {
+              "text": "告",
+              "reading": "つ"
+            },
+            {
+              "text": "げ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000025",
+      "order": 24,
+      "index": 24,
+      "start": 105.44875,
+      "end": 109.16575,
+      "japanese": "全てが僕を笑うんだろう？",
+      "zh-CN": "所有的一切都在嘲笑着我吧？",
+      "segments": [
+        {
+          "text": "全てが僕を笑うんだろう？",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "全",
+              "reading": "すべ"
+            },
+            {
+              "text": "てが"
+            },
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "笑",
+              "reading": "わら"
+            },
+            {
+              "text": "うんだろう？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000026",
+      "order": 25,
+      "index": 25,
+      "start": 109.16575,
+      "end": 112.66575,
+      "japanese": "風が冷たいこんな日は",
+      "zh-CN": "在寒风刺骨的这般日子里",
+      "segments": [
+        {
+          "text": "風が冷たいこんな日は",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "風",
+              "reading": "かぜ"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "冷",
+              "reading": "つめ"
+            },
+            {
+              "text": "たいこんな"
+            },
+            {
+              "text": "日",
+              "reading": "ひ"
+            },
+            {
+              "text": "は"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000027",
+      "order": 26,
+      "index": 26,
+      "start": 112.66575,
+      "end": 115.26175,
+      "japanese": "君を思い出すよ",
+      "zh-CN": "总会不由得想起你啊",
+      "segments": [
+        {
+          "text": "君を思い出すよ",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "思",
+              "reading": "おも"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "すよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000028",
+      "order": 27,
+      "index": 27,
+      "start": 115.26175,
+      "end": 119.84175,
+      "japanese": "Maybe I'm afraid I'm not as tender guy as you think",
+      "zh-CN": "或许我只是在害怕 自己并不如你想象中那般温柔",
+      "segments": [
+        {
+          "text": "Maybe I'm afraid I'm not as tender guy as you think",
+          "performerIds": [
+            "歌唱者-10",
+            "歌唱者-12",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "Maybe I'm afraid I'm not as tender guy as you think"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000029",
+      "order": 28,
+      "index": 28,
+      "start": 119.84175,
+      "end": 123.51575,
+      "japanese": "I close my eyes, and I say \"love you\" with true smile",
+      "zh-CN": "我合上双眸 带着发自真心的微笑说着「我爱你」",
+      "segments": [
+        {
+          "text": "I close my eyes, and I say \"love you\" with true smile",
+          "performerIds": [
+            "歌唱者-10",
+            "歌唱者-12",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "I close my eyes, and I say \"love you\" with true smile"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000030",
+      "order": 29,
+      "index": 29,
+      "start": 123.51575,
+      "end": 125.00475,
+      "japanese": "I don't know what to do",
+      "zh-CN": "我不知道该如何是好",
+      "segments": [
+        {
+          "text": "I don't know what to do",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-11",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "I don't know what to do"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000031",
+      "order": 30,
+      "index": 30,
+      "start": 125.00475,
+      "end": 126.73775,
+      "japanese": "Please tell me what should I do",
+      "zh-CN": "请告诉我 究竟该怎么做才好",
+      "segments": [
+        {
+          "text": "Please tell me what should I do",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-11",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "Please tell me what should I do"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000032",
+      "order": 31,
+      "index": 31,
+      "start": 126.73775,
+      "end": 130.10775,
+      "japanese": "Just feel so sad inside, but say good-bye",
+      "zh-CN": "内心明明如此悲伤 却还是道出了告别",
+      "segments": [
+        {
+          "text": "Just feel so sad inside, but say good-bye",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-11",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "Just feel so sad inside, but say good-bye"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000033",
+      "order": 32,
+      "index": 32,
+      "start": 130.10775,
+      "end": 137.20625,
+      "japanese": "Good-bye...",
+      "zh-CN": "再见……",
+      "segments": [
+        {
+          "text": "Good-bye...",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "Good-bye..."
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

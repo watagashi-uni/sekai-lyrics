@@ -1,0 +1,1292 @@
+{
+  "music_id": 492,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-17",
+      "name": "宵崎奏"
+    },
+    {
+      "performerId": "歌唱者-18",
+      "name": "朝比奈まふゆ"
+    },
+    {
+      "performerId": "歌唱者-19",
+      "name": "東雲絵名"
+    },
+    {
+      "performerId": "歌唱者-20",
+      "name": "暁山瑞希"
+    },
+    {
+      "performerId": "歌唱者-23",
+      "name": "鏡音レン"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 14.387,
+      "end": 20.649,
+      "japanese": "私は誰 あなたの哀れ ",
+      "zh-CN": "我是谁 你的可怜",
+      "segments": [
+        {
+          "text": "私は誰 あなたの哀れ ",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "私",
+              "reading": "わたし"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "誰",
+              "reading": "だれ"
+            },
+            {
+              "text": " あなたの"
+            },
+            {
+              "text": "哀",
+              "reading": "あわ"
+            },
+            {
+              "text": "れ "
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 20.586822,
+      "end": 27.350357,
+      "japanese": "夜空の中で 名前を無くして",
+      "zh-CN": "在夜空之中 失去了姓名",
+      "segments": [
+        {
+          "text": "夜空の中で ",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "夜空",
+              "reading": "よぞら"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "中",
+              "reading": "なか"
+            },
+            {
+              "text": "で "
+            }
+          ]
+        },
+        {
+          "text": "名前を無くして",
+          "performerIds": [
+            "歌唱者-19",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "名前",
+              "reading": "なまえ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "無",
+              "reading": "な"
+            },
+            {
+              "text": "くして"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 27.785456,
+      "end": 32.608551,
+      "japanese": "うねりのない 水面に潜む景色を",
+      "zh-CN": "将平静无波的 水面下潜藏的景色",
+      "segments": [
+        {
+          "text": "うねりのない ",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "うねりのない "
+            }
+          ]
+        },
+        {
+          "text": "水面に潜む",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "水面",
+              "reading": "みなも"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "潜",
+              "reading": "ひそ"
+            },
+            {
+              "text": "む"
+            }
+          ]
+        },
+        {
+          "text": "景色を",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "景色",
+              "reading": "けしき"
+            },
+            {
+              "text": "を"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 34.429964,
+      "end": 37.790727,
+      "japanese": "知らないまま (霧になってしまっても)",
+      "zh-CN": "在一无所知中 (哪怕化作迷雾)",
+      "segments": [
+        {
+          "text": "知らないまま ",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "知",
+              "reading": "し"
+            },
+            {
+              "text": "らないまま "
+            }
+          ]
+        },
+        {
+          "text": "(霧になってしまっても)",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "("
+            },
+            {
+              "text": "霧",
+              "reading": "きり"
+            },
+            {
+              "text": "になってしまっても)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 37.790727,
+      "end": 41.121483,
+      "japanese": "漂う雲 (別にいいのに)",
+      "zh-CN": "漂泊的云 (明明也无所谓)",
+      "segments": [
+        {
+          "text": "漂う雲 ",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "漂",
+              "reading": "ただよ"
+            },
+            {
+              "text": "う"
+            },
+            {
+              "text": "雲",
+              "reading": "くも"
+            },
+            {
+              "text": " "
+            }
+          ]
+        },
+        {
+          "text": "(別にいいのに)",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "("
+            },
+            {
+              "text": "別",
+              "reading": "べつ"
+            },
+            {
+              "text": "にいいのに)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 41.121483,
+      "end": 44.481245,
+      "japanese": "昨日までは (構わないのに)",
+      "zh-CN": "直到昨天 (明明都毫无关系)",
+      "segments": [
+        {
+          "text": "昨日までは ",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "昨日",
+              "reading": "きのう"
+            },
+            {
+              "text": "までは "
+            }
+          ]
+        },
+        {
+          "text": "(構わないのに)",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "("
+            },
+            {
+              "text": "構",
+              "reading": "かま"
+            },
+            {
+              "text": "わないのに)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 44.481245,
+      "end": 45.817549,
+      "japanese": "漂う雲",
+      "zh-CN": "漂泊的云",
+      "segments": [
+        {
+          "text": "漂う雲",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "漂",
+              "reading": "ただよ"
+            },
+            {
+              "text": "う"
+            },
+            {
+              "text": "雲",
+              "reading": "くも"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 49.451373,
+      "end": 53.676332,
+      "japanese": "私はなぜ真っ直ぐに落ちる",
+      "zh-CN": "我为何笔直地坠落",
+      "segments": [
+        {
+          "text": "私はなぜ真っ直ぐに落ちる",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "私",
+              "reading": "わたし"
+            },
+            {
+              "text": "はなぜ"
+            },
+            {
+              "text": "真",
+              "reading": "ま"
+            },
+            {
+              "text": "っ"
+            },
+            {
+              "text": "直",
+              "reading": "す"
+            },
+            {
+              "text": "ぐに"
+            },
+            {
+              "text": "落",
+              "reading": "お"
+            },
+            {
+              "text": "ちる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 53.676332,
+      "end": 57.468193,
+      "japanese": "だれかの手のひらを探すため",
+      "zh-CN": "为了寻觅某人的手掌",
+      "segments": [
+        {
+          "text": "だれ",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "だれ"
+            }
+          ]
+        },
+        {
+          "text": "かの手のひらを探すため",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "かの"
+            },
+            {
+              "text": "手",
+              "reading": "て"
+            },
+            {
+              "text": "のひらを"
+            },
+            {
+              "text": "探",
+              "reading": "さが"
+            },
+            {
+              "text": "すため"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 58.638458,
+      "end": 62.459325,
+      "japanese": "空をできる限り目に収めながら",
+      "zh-CN": "尽力将天空尽收眼底",
+      "segments": [
+        {
+          "text": "空をできる限り目に収めながら",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "空",
+              "reading": "そら"
+            },
+            {
+              "text": "をできる"
+            },
+            {
+              "text": "限",
+              "reading": "かぎ"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "目",
+              "reading": "め"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "収",
+              "reading": "おさ"
+            },
+            {
+              "text": "めながら"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 62.716384,
+      "end": 65.34598,
+      "japanese": "私は雨 (雨 雨 雨)",
+      "zh-CN": "我是雨 (雨 雨 雨)",
+      "segments": [
+        {
+          "text": "私は雨 ",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "私",
+              "reading": "わたし"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "雨",
+              "reading": "あめ"
+            },
+            {
+              "text": " "
+            }
+          ]
+        },
+        {
+          "text": "(雨 雨 雨)",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "("
+            },
+            {
+              "text": "雨",
+              "reading": "あめ"
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "雨",
+              "reading": "あめ"
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "雨",
+              "reading": "あめ"
+            },
+            {
+              "text": ")"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 65.34598,
+      "end": 66.913336,
+      "japanese": "弾かれて判る",
+      "zh-CN": "被弹开后方才明白",
+      "segments": [
+        {
+          "text": "弾かれて判る",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "弾",
+              "reading": "はじ"
+            },
+            {
+              "text": "かれて"
+            },
+            {
+              "text": "判",
+              "reading": "わか"
+            },
+            {
+              "text": "る"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 66.913336,
+      "end": 69.393899,
+      "japanese": "だれ (だれ だれ だれ) かのようには",
+      "zh-CN": "无法像 (某人 某人 某人) 那样",
+      "segments": [
+        {
+          "text": "だれ ",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "だれ "
+            }
+          ]
+        },
+        {
+          "text": "(だれ だれ だれ) ",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "(だれ だれ だれ) "
+            }
+          ]
+        },
+        {
+          "text": "かのようには",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "かのようには"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "partial_text": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 69.393899,
+      "end": 71.946478,
+      "japanese": "なれない雨 (雨 雨 雨)",
+      "zh-CN": "的一场雨 (雨 雨 雨)",
+      "segments": [
+        {
+          "text": "なれない雨 ",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "なれない"
+            },
+            {
+              "text": "雨",
+              "reading": "あめ"
+            },
+            {
+              "text": " "
+            }
+          ]
+        },
+        {
+          "text": "(雨 雨 雨)",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "("
+            },
+            {
+              "text": "雨",
+              "reading": "あめ"
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "雨",
+              "reading": "あめ"
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "雨",
+              "reading": "あめ"
+            },
+            {
+              "text": ")"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 71.946478,
+      "end": 76.421494,
+      "japanese": "地球を困らせる",
+      "zh-CN": "因为不知晓足以让",
+      "segments": [
+        {
+          "text": "地球を困らせる",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "地球",
+              "reading": "ちきゅう"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "困",
+              "reading": "こま"
+            },
+            {
+              "text": "らせる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 71.946478,
+      "end": 76.421494,
+      "japanese": "ほどの痛みを 知らないから",
+      "zh-CN": "地球为之困扰的痛苦",
+      "segments": [
+        {
+          "text": "ほどの痛みを 知らないから",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "ほどの"
+            },
+            {
+              "text": "痛",
+              "reading": "いた"
+            },
+            {
+              "text": "みを "
+            },
+            {
+              "text": "知",
+              "reading": "し"
+            },
+            {
+              "text": "らないから"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 76.421494,
+      "end": 80.244362,
+      "japanese": "私は雨 セカイを暈す ",
+      "zh-CN": "我是雨 模糊着SEKAI",
+      "segments": [
+        {
+          "text": "私は雨 ",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-19",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "私",
+              "reading": "わたし"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "雨",
+              "reading": "あめ"
+            },
+            {
+              "text": " "
+            }
+          ]
+        },
+        {
+          "text": "セカイを暈す ",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "セカイを"
+            },
+            {
+              "text": "暈",
+              "reading": "ぼか"
+            },
+            {
+              "text": "す "
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 80.275179,
+      "end": 83.948012,
+      "japanese": "夜明－(夜明　夜明　夜明)－けに導かれている雨 ",
+      "zh-CN": "被黎－(黎明 黎明 黎明)－明所引领的雨",
+      "segments": [
+        {
+          "text": "夜明－(夜明　夜明　夜明)",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "夜明",
+              "reading": "よあ"
+            },
+            {
+              "text": "－("
+            },
+            {
+              "text": "夜明",
+              "reading": "よあ"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "夜明",
+              "reading": "よあ"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "夜明",
+              "reading": "よあ"
+            },
+            {
+              "text": ")"
+            }
+          ]
+        },
+        {
+          "text": "－けに導かれている雨 ",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "－けに"
+            },
+            {
+              "text": "導",
+              "reading": "みちび"
+            },
+            {
+              "text": "かれている"
+            },
+            {
+              "text": "雨",
+              "reading": "あめ"
+            },
+            {
+              "text": " "
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "partial_text": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 83.948012,
+      "end": 85.340328,
+      "japanese": "(雨 雨 雨 雨)",
+      "zh-CN": "(雨 雨 雨 雨)",
+      "segments": [
+        {
+          "text": "(雨 雨 雨 雨)",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "("
+            },
+            {
+              "text": "雨",
+              "reading": "あ"
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "雨",
+              "reading": "め"
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "雨",
+              "reading": "あ"
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "雨",
+              "reading": "めあめ"
+            },
+            {
+              "text": ")"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "partial_text": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 85.340328,
+      "end": 89.838349,
+      "japanese": "流れ着いた海の隠し味になるまで",
+      "zh-CN": "直至成为流落大海的隐秘滋味",
+      "segments": [
+        {
+          "text": "流れ着いた海の隠し味になるまで",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-18",
+            "歌唱者-19",
+            "歌唱者-20",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "流",
+              "reading": "なが"
+            },
+            {
+              "text": "れ"
+            },
+            {
+              "text": "着",
+              "reading": "つ"
+            },
+            {
+              "text": "いた"
+            },
+            {
+              "text": "海",
+              "reading": "うみ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "隠",
+              "reading": "かく"
+            },
+            {
+              "text": "し"
+            },
+            {
+              "text": "味",
+              "reading": "あじみ"
+            },
+            {
+              "text": "になるまで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 96.155783,
+      "end": 99.100451,
+      "japanese": "私は雨",
+      "zh-CN": "我是雨",
+      "segments": [
+        {
+          "text": "私は雨",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "私",
+              "reading": "わたし"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "雨",
+              "reading": "あめ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 116.41338,
+      "end": 118.971961,
+      "japanese": "辿り着くまでに",
+      "zh-CN": "在抵达彼方之前",
+      "segments": [
+        {
+          "text": "辿り着くまでに",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "辿",
+              "reading": "たど"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "着",
+              "reading": "つ"
+            },
+            {
+              "text": "くまでに"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000023",
+      "order": 22,
+      "index": 22,
+      "start": 119.49608,
+      "end": 122.303717,
+      "japanese": "おさらいを忘れないで",
+      "zh-CN": "请不要忘记复习回顾",
+      "segments": [
+        {
+          "text": "おさらいを忘れないで",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "おさらいを"
+            },
+            {
+              "text": "忘",
+              "reading": "わす"
+            },
+            {
+              "text": "れないで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000024",
+      "order": 23,
+      "index": 23,
+      "start": 122.303717,
+      "end": 125.650477,
+      "japanese": "凪の海で向かい合わせ",
+      "zh-CN": "在风平浪静的大海上四目相对",
+      "segments": [
+        {
+          "text": "凪の海で向かい合わせ",
+          "performerIds": [
+            "歌唱者-19",
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "凪",
+              "reading": "なぎ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "海",
+              "reading": "うみ"
+            },
+            {
+              "text": "で"
+            },
+            {
+              "text": "向",
+              "reading": "む"
+            },
+            {
+              "text": "かい"
+            },
+            {
+              "text": "合",
+              "reading": "あ"
+            },
+            {
+              "text": "わせ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000025",
+      "order": 24,
+      "index": 24,
+      "start": 125.650477,
+      "end": 130.432562,
+      "japanese": "違う景色 同じ模様の",
+      "zh-CN": "不同的景色 相同的纹理",
+      "segments": [
+        {
+          "text": "違う景色 同じ模様の",
+          "performerIds": [
+            "歌唱者-19",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "違",
+              "reading": "ちが"
+            },
+            {
+              "text": "う"
+            },
+            {
+              "text": "景色",
+              "reading": "けしき"
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "同",
+              "reading": "おな"
+            },
+            {
+              "text": "じ"
+            },
+            {
+              "text": "模様",
+              "reading": "もよう"
+            },
+            {
+              "text": "の"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000026",
+      "order": 25,
+      "index": 25,
+      "start": 125.650477,
+      "end": 130.432562,
+      "japanese": "答え合わせ",
+      "zh-CN": "核对答案",
+      "segments": [
+        {
+          "text": "答え合わせ",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "答",
+              "reading": "こた"
+            },
+            {
+              "text": "え"
+            },
+            {
+              "text": "合",
+              "reading": "あ"
+            },
+            {
+              "text": "わせ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    }
+  ]
+}

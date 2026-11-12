@@ -1,0 +1,699 @@
+{
+  "music_id": 500,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-17",
+      "name": "宵崎奏"
+    },
+    {
+      "performerId": "歌唱者-18",
+      "name": "朝比奈まふゆ"
+    },
+    {
+      "performerId": "歌唱者-19",
+      "name": "東雲絵名"
+    },
+    {
+      "performerId": "歌唱者-20",
+      "name": "暁山瑞希"
+    },
+    {
+      "performerId": "歌唱者-25",
+      "name": "MEIKO"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 9.76,
+      "end": 21.14,
+      "japanese": "私たちが思うよりも",
+      "zh-CN": "比起我们所认为的",
+      "segments": [
+        {
+          "text": "私たちが思うよりも",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "私",
+              "reading": "わたし"
+            },
+            {
+              "text": "たちが"
+            },
+            {
+              "text": "思",
+              "reading": "おも"
+            },
+            {
+              "text": "うよりも"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 9.76,
+      "end": 21.14,
+      "japanese": "この世界は優しくないから",
+      "zh-CN": "这个世界并没有那么温柔",
+      "segments": [
+        {
+          "text": "この世界は優しくないから",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "この"
+            },
+            {
+              "text": "世界",
+              "reading": "せかい"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "優",
+              "reading": "やさ"
+            },
+            {
+              "text": "しくないから"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 21.14,
+      "end": 38.359,
+      "japanese": "せめて私くらいはあなたの",
+      "zh-CN": "至少我想要",
+      "segments": [
+        {
+          "text": "せめて私くらいはあなたの",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "せめて"
+            },
+            {
+              "text": "私",
+              "reading": "わたし"
+            },
+            {
+              "text": "くらいはあなたの"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 21.14,
+      "end": 38.359,
+      "japanese": "そばに いたかったんだ",
+      "zh-CN": "陪伴在你的身旁",
+      "segments": [
+        {
+          "text": "そばに いたかったんだ",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "そばに いたかったんだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 41.489,
+      "end": 52.858,
+      "japanese": "ザラついた手触りの言葉で",
+      "zh-CN": "用触感粗糙的话语",
+      "segments": [
+        {
+          "text": "ザラついた手触りの言葉で",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "ザラついた"
+            },
+            {
+              "text": "手触",
+              "reading": "てざわ"
+            },
+            {
+              "text": "りの"
+            },
+            {
+              "text": "言葉",
+              "reading": "ことば"
+            },
+            {
+              "text": "で"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 41.489,
+      "end": 52.858,
+      "japanese": "あなたのこと汚した私は",
+      "zh-CN": "将你玷污的我",
+      "segments": [
+        {
+          "text": "あなたのこと汚した私は",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "あなたのこと"
+            },
+            {
+              "text": "汚",
+              "reading": "よご"
+            },
+            {
+              "text": "した"
+            },
+            {
+              "text": "私",
+              "reading": "わたし"
+            },
+            {
+              "text": "は"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 52.858,
+      "end": 64.241,
+      "japanese": "妙に目にしみる茜色に",
+      "zh-CN": "只是被死死缝在",
+      "segments": [
+        {
+          "text": "妙に目にしみる茜色に",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "妙",
+              "reading": "みょう"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "目",
+              "reading": "め"
+            },
+            {
+              "text": "にしみる"
+            },
+            {
+              "text": "茜色",
+              "reading": "あかねいろ"
+            },
+            {
+              "text": "に"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 52.858,
+      "end": 64.241,
+      "japanese": "縫い付けられたままで",
+      "zh-CN": "格外刺目的茜色之中",
+      "segments": [
+        {
+          "text": "縫い付けられたままで",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "縫",
+              "reading": "ぬ"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "付",
+              "reading": "つ"
+            },
+            {
+              "text": "けられたままで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 64.242905,
+      "end": 68.024187,
+      "japanese": "動けないままで",
+      "zh-CN": "动弹不得",
+      "segments": [
+        {
+          "text": "動けないままで",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "動",
+              "reading": "うご"
+            },
+            {
+              "text": "けないままで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 69.95284,
+      "end": 75.164607,
+      "japanese": "きつく抱きしめて",
+      "zh-CN": "紧紧拥抱",
+      "segments": [
+        {
+          "text": "きつく抱きしめて",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "きつく"
+            },
+            {
+              "text": "抱",
+              "reading": "だ"
+            },
+            {
+              "text": "きしめて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 69.95284,
+      "end": 75.164607,
+      "japanese": "くしゃくしゃになった",
+      "zh-CN": "皱成一团的",
+      "segments": [
+        {
+          "text": "くしゃくしゃになった",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "くしゃくしゃになった"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 75.804824,
+      "end": 80.156299,
+      "japanese": "あなたの孤独を見つけたのに",
+      "zh-CN": "你的孤独明明已被我发现",
+      "segments": [
+        {
+          "text": "あなたの孤独を見つけたのに",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "あなたの"
+            },
+            {
+              "text": "孤独",
+              "reading": "こどく"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "つけたのに"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 80.486411,
+      "end": 86.658503,
+      "japanese": "もう傷つける場所もないあなたの心臓が",
+      "zh-CN": "已经再无可以伤害之处的你的心脏",
+      "segments": [
+        {
+          "text": "もう傷つける場所もないあなたの心臓が",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "もう"
+            },
+            {
+              "text": "傷",
+              "reading": "きず"
+            },
+            {
+              "text": "つける"
+            },
+            {
+              "text": "場所",
+              "reading": "ばしょ"
+            },
+            {
+              "text": "もないあなたの"
+            },
+            {
+              "text": "心臓",
+              "reading": "しんぞう"
+            },
+            {
+              "text": "が"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 86.968608,
+      "end": 92.780578,
+      "japanese": "切なくなるくらい柔らかく音を立てて",
+      "zh-CN": "却发出令人心碎般柔软的跳动声",
+      "segments": [
+        {
+          "text": "切なくなるくらい柔らかく音を立てて",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "切",
+              "reading": "せつ"
+            },
+            {
+              "text": "なくなるくらい"
+            },
+            {
+              "text": "柔",
+              "reading": "やわ"
+            },
+            {
+              "text": "らかく"
+            },
+            {
+              "text": "音",
+              "reading": "おと"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "立",
+              "reading": "た"
+            },
+            {
+              "text": "てて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 93.056,
+      "end": 98.684,
+      "japanese": "酷く膿んだ傷を抑さえながら",
+      "zh-CN": "紧按着溃烂不堪的伤口",
+      "segments": [
+        {
+          "text": "酷く",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "酷",
+              "reading": "ひど"
+            },
+            {
+              "text": "く"
+            }
+          ]
+        },
+        {
+          "text": "膿",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "膿",
+              "reading": "う"
+            }
+          ]
+        },
+        {
+          "text": "んだ傷を抑さえながら",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "んだ"
+            },
+            {
+              "text": "傷",
+              "reading": "きず"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "抑",
+              "reading": "そもそも"
+            },
+            {
+              "text": "さえながら"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 98.632562,
+      "end": 102.643921,
+      "japanese": "それでもあなたは笑っていたのでしょう",
+      "zh-CN": "纵然如此你当时依然在微笑吧",
+      "segments": [
+        {
+          "text": "それでもあなたは笑っていたのでしょう",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "それでもあなたは"
+            },
+            {
+              "text": "笑",
+              "reading": "わら"
+            },
+            {
+              "text": "っていたのでしょう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 103.324152,
+      "end": 108.545922,
+      "japanese": "それがどうしようもなく嫌なのです",
+      "zh-CN": "我无可奈何地讨厌着那副模样",
+      "segments": [
+        {
+          "text": "それがどうしようもなく嫌なのです",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "それがどうしようもなく"
+            },
+            {
+              "text": "嫌",
+              "reading": "いや"
+            },
+            {
+              "text": "なのです"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 108.936054,
+      "end": 114.397905,
+      "japanese": "せめて私の前では泣いてほしいのに",
+      "zh-CN": "至少希望你能在我面前哭出来啊",
+      "segments": [
+        {
+          "text": "せめて私の前では泣いてほしいのに",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "せめて"
+            },
+            {
+              "text": "私",
+              "reading": "わたし"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "前",
+              "reading": "まえ"
+            },
+            {
+              "text": "では"
+            },
+            {
+              "text": "泣",
+              "reading": "な"
+            },
+            {
+              "text": "いてほしいのに"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

@@ -1,0 +1,1560 @@
+{
+  "music_id": 366,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-21",
+      "name": "初音ミク"
+    },
+    {
+      "performerId": "歌唱者-22",
+      "name": "鏡音リン"
+    },
+    {
+      "performerId": "歌唱者-23",
+      "name": "鏡音レン"
+    },
+    {
+      "performerId": "歌唱者-24",
+      "name": "巡音ルカ"
+    },
+    {
+      "performerId": "歌唱者-25",
+      "name": "MEIKO"
+    },
+    {
+      "performerId": "歌唱者-26",
+      "name": "KAITO"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 14.135,
+      "end": 15.873,
+      "japanese": "不完全な 僕を",
+      "zh-CN": "将不完美的我",
+      "segments": [
+        {
+          "text": "不完全な 僕を",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "不完全",
+              "reading": "ふかんぜん"
+            },
+            {
+              "text": "な "
+            },
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "を"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 15.873,
+      "end": 18.404,
+      "japanese": "生き写したような 音色",
+      "zh-CN": "如实映照出来的音色",
+      "segments": [
+        {
+          "text": "生き写したような 音色",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "生",
+              "reading": "い"
+            },
+            {
+              "text": "き"
+            },
+            {
+              "text": "写",
+              "reading": "うつ"
+            },
+            {
+              "text": "したような "
+            },
+            {
+              "text": "音色",
+              "reading": "ねいろ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 18.404,
+      "end": 20.875,
+      "japanese": "いつか 途絶えてしまった",
+      "zh-CN": "曾几何时 戛然而止",
+      "segments": [
+        {
+          "text": "いつか 途絶えてしまった",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "いつか "
+            },
+            {
+              "text": "途絶",
+              "reading": "とだ"
+            },
+            {
+              "text": "えてしまった"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 20.875,
+      "end": 24.076,
+      "japanese": "歌えなくなっていった",
+      "zh-CN": "逐渐变得无法歌唱",
+      "segments": [
+        {
+          "text": "歌えなくなっていった",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "歌",
+              "reading": "うた"
+            },
+            {
+              "text": "えなくなっていった"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 24.076,
+      "end": 25.955,
+      "japanese": "不恰好な 声の",
+      "zh-CN": "带着笨拙不成形的声音",
+      "segments": [
+        {
+          "text": "不恰好な 声の",
+          "performerIds": [
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "不恰好",
+              "reading": "ぶかっこう"
+            },
+            {
+              "text": "な "
+            },
+            {
+              "text": "声",
+              "reading": "こえ"
+            },
+            {
+              "text": "の"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 25.955,
+      "end": 28.513,
+      "japanese": "みんな、無視していた曲を",
+      "zh-CN": "曾经被所有人无视的那首歌",
+      "segments": [
+        {
+          "text": "みんな、無視していた曲を",
+          "performerIds": [
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "みんな、"
+            },
+            {
+              "text": "無視",
+              "reading": "むし"
+            },
+            {
+              "text": "していた"
+            },
+            {
+              "text": "曲",
+              "reading": "きょく"
+            },
+            {
+              "text": "を"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 28.513,
+      "end": 31.114,
+      "japanese": "今も覚えているはずさ",
+      "zh-CN": "如今想必依然牢记在心吧",
+      "segments": [
+        {
+          "text": "今も覚えているはずさ",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "今",
+              "reading": "いま"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "覚",
+              "reading": "おぼ"
+            },
+            {
+              "text": "えているはずさ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 31.114,
+      "end": 34.495,
+      "japanese": "あれを「ラブソング」って言うんだ",
+      "zh-CN": "那就被称作「情歌」啊",
+      "segments": [
+        {
+          "text": "あれを「ラブソング」って言うんだ",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "あれを「ラブソング」って"
+            },
+            {
+              "text": "言",
+              "reading": "い"
+            },
+            {
+              "text": "うんだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 34.495,
+      "end": 36.112,
+      "japanese": "ああ 時代がワープして",
+      "zh-CN": "啊啊 时代飞速流转",
+      "segments": [
+        {
+          "text": "ああ 時代がワープして",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "ああ "
+            },
+            {
+              "text": "時代",
+              "reading": "じだい"
+            },
+            {
+              "text": "がワープして"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 36.112,
+      "end": 38.128,
+      "japanese": "君が置いてかれるから",
+      "zh-CN": "正因你会被时代落下",
+      "segments": [
+        {
+          "text": "君が置いてかれるから",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "置",
+              "reading": "お"
+            },
+            {
+              "text": "いてかれるから"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 38.128,
+      "end": 42.91,
+      "japanese": "そんな涙 誰にも気づかれる訳ないだろ",
+      "zh-CN": "那样的眼泪 怎么可能会有人察觉到啊",
+      "segments": [
+        {
+          "text": "そんな涙 誰にも気づかれる訳ないだろ",
+          "performerIds": [
+            "歌唱者-23",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "そんな"
+            },
+            {
+              "text": "涙",
+              "reading": "なみだ"
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "誰",
+              "reading": "だれ"
+            },
+            {
+              "text": "にも"
+            },
+            {
+              "text": "気",
+              "reading": "き"
+            },
+            {
+              "text": "づかれる"
+            },
+            {
+              "text": "訳",
+              "reading": "わけ"
+            },
+            {
+              "text": "ないだろ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 42.91,
+      "end": 45.904,
+      "japanese": "だったら 泣き喚こうぜ",
+      "zh-CN": "既然如此 就放声痛哭呐喊吧",
+      "segments": [
+        {
+          "text": "だったら 泣き喚こうぜ",
+          "performerIds": [
+            "歌唱者-23",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "だったら "
+            },
+            {
+              "text": "泣",
+              "reading": "な"
+            },
+            {
+              "text": "き"
+            },
+            {
+              "text": "喚",
+              "reading": "わめ"
+            },
+            {
+              "text": "こうぜ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 45.904,
+      "end": 50.622,
+      "japanese": "マイクロフォンを ひっさげて",
+      "zh-CN": "紧握起麦克风",
+      "segments": [
+        {
+          "text": "マイクロフォンを ひっさげて",
+          "performerIds": [
+            "歌唱者-21",
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "マイクロフォンを ひっさげて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 50.622,
+      "end": 51.583,
+      "japanese": "もう一回",
+      "zh-CN": "再来一次",
+      "segments": [
+        {
+          "text": "もう一回",
+          "performerIds": [
+            "歌唱者-21",
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "もう"
+            },
+            {
+              "text": "一回",
+              "reading": "いっかい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 51.583,
+      "end": 53.485,
+      "japanese": "強がって 吐き出して",
+      "zh-CN": "逞强硬撑 吐露心声",
+      "segments": [
+        {
+          "text": "強がって 吐き出して",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "強",
+              "reading": "つよ"
+            },
+            {
+              "text": "がって "
+            },
+            {
+              "text": "吐",
+              "reading": "は"
+            },
+            {
+              "text": "き"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "して"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 53.485,
+      "end": 55.694,
+      "japanese": "胸を焦がして",
+      "zh-CN": "燃烧胸膛",
+      "segments": [
+        {
+          "text": "胸を焦がして",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "胸",
+              "reading": "むね"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "焦",
+              "reading": "こ"
+            },
+            {
+              "text": "がして"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 55.694,
+      "end": 58.604,
+      "japanese": "限界に気がついたって 足掻いて",
+      "zh-CN": "纵然察觉到极限 也要拼死挣扎",
+      "segments": [
+        {
+          "text": "限界に気がついたって 足掻いて",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "限界",
+              "reading": "げんかい"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "気",
+              "reading": "き"
+            },
+            {
+              "text": "がついたって "
+            },
+            {
+              "text": "足掻",
+              "reading": "あが"
+            },
+            {
+              "text": "いて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 58.604,
+      "end": 60.77,
+      "japanese": "バカな君は歌う",
+      "zh-CN": "傻傻的你放声歌唱",
+      "segments": [
+        {
+          "text": "バカな君は歌う",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "バカな"
+            },
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "歌",
+              "reading": "うた"
+            },
+            {
+              "text": "う"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 60.77,
+      "end": 61.884,
+      "japanese": "何万回",
+      "zh-CN": "无论成千上万次",
+      "segments": [
+        {
+          "text": "何万回",
+          "performerIds": [
+            "歌唱者-21",
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "何万回",
+              "reading": "なんまんかい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 61.884,
+      "end": 63.477,
+      "japanese": "消えたって 消えないで",
+      "zh-CN": "纵然消逝 也请不要消失",
+      "segments": [
+        {
+          "text": "消えたって 消えないで",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "消",
+              "reading": "き"
+            },
+            {
+              "text": "えたって "
+            },
+            {
+              "text": "消",
+              "reading": "き"
+            },
+            {
+              "text": "えないで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 63.477,
+      "end": 65.805,
+      "japanese": "響いた あの曲は",
+      "zh-CN": "响彻云霄的那首歌曲",
+      "segments": [
+        {
+          "text": "響いた あの曲は",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "響",
+              "reading": "ひび"
+            },
+            {
+              "text": "いた あの"
+            },
+            {
+              "text": "曲",
+              "reading": "きょく"
+            },
+            {
+              "text": "は"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 65.805,
+      "end": 67.888,
+      "japanese": "そうやって 唄うんだよ",
+      "zh-CN": "就是这样 唱出来的啊",
+      "segments": [
+        {
+          "text": "そうやって 唄うんだよ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "そうやって "
+            },
+            {
+              "text": "唄",
+              "reading": "うた"
+            },
+            {
+              "text": "うんだよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000023",
+      "order": 22,
+      "index": 22,
+      "start": 67.888,
+      "end": 70.759,
+      "japanese": "気づいたかい NEO",
+      "zh-CN": "你注意到了吗 NEO",
+      "segments": [
+        {
+          "text": "気づいたかい NEO",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "気",
+              "reading": "き"
+            },
+            {
+              "text": "づいたかい NEO"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000024",
+      "order": 23,
+      "index": 23,
+      "start": 70.759,
+      "end": 84.015,
+      "japanese": "「初めまして」は 済ませたかい NEO",
+      "zh-CN": "「初次见面」的问候 你道过了吗 NEO",
+      "segments": [
+        {
+          "text": "「初めまして」は 済ませたかい NEO",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "「"
+            },
+            {
+              "text": "初",
+              "reading": "はじ"
+            },
+            {
+              "text": "めまして」は "
+            },
+            {
+              "text": "済",
+              "reading": "す"
+            },
+            {
+              "text": "ませたかい NEO"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000025",
+      "order": 24,
+      "index": 24,
+      "start": 84.015,
+      "end": 86.576,
+      "japanese": "こんな 四小節に願って",
+      "zh-CN": "寄托在这区区四小节中",
+      "segments": [
+        {
+          "text": "こんな 四小節に願って",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "こんな "
+            },
+            {
+              "text": "四小節",
+              "reading": "よんしょうせつ"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "願",
+              "reading": "ねが"
+            },
+            {
+              "text": "って"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000026",
+      "order": 25,
+      "index": 25,
+      "start": 86.576,
+      "end": 88.005,
+      "japanese": "夢を託して",
+      "zh-CN": "托付着梦想",
+      "segments": [
+        {
+          "text": "夢を託して",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "夢",
+              "reading": "ゆめ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "託",
+              "reading": "たく"
+            },
+            {
+              "text": "して"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000027",
+      "order": 26,
+      "index": 26,
+      "start": 88.005,
+      "end": 91.451,
+      "japanese": "「当然」に 抗って 逆らって",
+      "zh-CN": "与「理所当然」抗争 叛逆到底",
+      "segments": [
+        {
+          "text": "「当然」に 抗って 逆らって",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "「"
+            },
+            {
+              "text": "当然",
+              "reading": "とうぜん"
+            },
+            {
+              "text": "」に "
+            },
+            {
+              "text": "抗",
+              "reading": "あらが"
+            },
+            {
+              "text": "って "
+            },
+            {
+              "text": "逆",
+              "reading": "さか"
+            },
+            {
+              "text": "らって"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000028",
+      "order": 27,
+      "index": 27,
+      "start": 91.451,
+      "end": 93.566,
+      "japanese": "バカな君は歌う",
+      "zh-CN": "傻傻的你放声歌唱",
+      "segments": [
+        {
+          "text": "バカな君は歌う",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "バカな"
+            },
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "歌",
+              "reading": "うた"
+            },
+            {
+              "text": "う"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000029",
+      "order": 28,
+      "index": 28,
+      "start": 93.566,
+      "end": 96.458,
+      "japanese": "忘れられたって 死なないで",
+      "zh-CN": "纵然被遗忘 也绝不消亡",
+      "segments": [
+        {
+          "text": "忘れられたって 死なないで",
+          "performerIds": [
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "忘",
+              "reading": "わす"
+            },
+            {
+              "text": "れられたって "
+            },
+            {
+              "text": "死",
+              "reading": "し"
+            },
+            {
+              "text": "なないで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000030",
+      "order": 29,
+      "index": 29,
+      "start": 96.458,
+      "end": 99.005,
+      "japanese": "響いた その曲は",
+      "zh-CN": "响彻云霄的那首歌曲",
+      "segments": [
+        {
+          "text": "響いた その曲は",
+          "performerIds": [
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "響",
+              "reading": "ひび"
+            },
+            {
+              "text": "いた その"
+            },
+            {
+              "text": "曲",
+              "reading": "きょく"
+            },
+            {
+              "text": "は"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000031",
+      "order": 30,
+      "index": 30,
+      "start": 99.005,
+      "end": 101.005,
+      "japanese": "「希望」って言うんだよ",
+      "zh-CN": "就被称作「希望」啊",
+      "segments": [
+        {
+          "text": "「希望」って言うんだよ",
+          "performerIds": [
+            "歌唱者-21",
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "「"
+            },
+            {
+              "text": "希望",
+              "reading": "きぼう"
+            },
+            {
+              "text": "」って"
+            },
+            {
+              "text": "言",
+              "reading": "い"
+            },
+            {
+              "text": "うんだよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000032",
+      "order": 31,
+      "index": 31,
+      "start": 101.005,
+      "end": 102.267,
+      "japanese": "やっと",
+      "zh-CN": "终于",
+      "segments": [
+        {
+          "text": "やっと",
+          "performerIds": [
+            "歌唱者-21",
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "やっと"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000033",
+      "order": 32,
+      "index": 32,
+      "start": 102.267,
+      "end": 104.082,
+      "japanese": "気がついて 高鳴った",
+      "zh-CN": "幡然醒悟 心潮澎湃",
+      "segments": [
+        {
+          "text": "気がついて 高鳴った",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "気",
+              "reading": "き"
+            },
+            {
+              "text": "がついて "
+            },
+            {
+              "text": "高鳴",
+              "reading": "たかな"
+            },
+            {
+              "text": "った"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000034",
+      "order": 33,
+      "index": 33,
+      "start": 104.082,
+      "end": 106.236,
+      "japanese": "胸を焦がして",
+      "zh-CN": "燃烧胸膛",
+      "segments": [
+        {
+          "text": "胸を焦がして",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "胸",
+              "reading": "むね"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "焦",
+              "reading": "こ"
+            },
+            {
+              "text": "がして"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000035",
+      "order": 34,
+      "index": 34,
+      "start": 106.236,
+      "end": 109.273,
+      "japanese": "限界に気がついたって 足掻いて",
+      "zh-CN": "纵然察觉到极限 也要拼死挣扎",
+      "segments": [
+        {
+          "text": "限界に気がついたって 足掻いて",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "限界",
+              "reading": "げんかい"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "気",
+              "reading": "き"
+            },
+            {
+              "text": "がついたって "
+            },
+            {
+              "text": "足掻",
+              "reading": "あが"
+            },
+            {
+              "text": "いて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000036",
+      "order": 35,
+      "index": 35,
+      "start": 109.273,
+      "end": 111.441,
+      "japanese": "僕と君は歌う",
+      "zh-CN": "我与你一同歌唱",
+      "segments": [
+        {
+          "text": "僕と君は歌う",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "と"
+            },
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "歌",
+              "reading": "うた"
+            },
+            {
+              "text": "う"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000037",
+      "order": 36,
+      "index": 36,
+      "start": 111.441,
+      "end": 112.294,
+      "japanese": "何万回",
+      "zh-CN": "无论成千上万次",
+      "segments": [
+        {
+          "text": "何万回",
+          "performerIds": [
+            "歌唱者-21",
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "何万回",
+              "reading": "なんまんかい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000038",
+      "order": 37,
+      "index": 37,
+      "start": 112.294,
+      "end": 114.114,
+      "japanese": "消えたって 消えないで",
+      "zh-CN": "纵然消逝 也请不要消失",
+      "segments": [
+        {
+          "text": "消えたって 消えないで",
+          "performerIds": [
+            "歌唱者-21",
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "消",
+              "reading": "き"
+            },
+            {
+              "text": "えたって "
+            },
+            {
+              "text": "消",
+              "reading": "き"
+            },
+            {
+              "text": "えないで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000039",
+      "order": 38,
+      "index": 38,
+      "start": 114.114,
+      "end": 117.31,
+      "japanese": "響いた この曲は",
+      "zh-CN": "响彻云霄的这首歌曲",
+      "segments": [
+        {
+          "text": "響いた この曲は",
+          "performerIds": [
+            "歌唱者-21",
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "響",
+              "reading": "ひび"
+            },
+            {
+              "text": "いた この"
+            },
+            {
+              "text": "曲",
+              "reading": "きょく"
+            },
+            {
+              "text": "は"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000040",
+      "order": 39,
+      "index": 39,
+      "start": 117.31,
+      "end": 119.516,
+      "japanese": "こうやって 唄うんだろ",
+      "zh-CN": "就是这样 唱出来的吧",
+      "segments": [
+        {
+          "text": "こうやって 唄うんだろ",
+          "performerIds": [
+            "歌唱者-21",
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "こうやって "
+            },
+            {
+              "text": "唄",
+              "reading": "うた"
+            },
+            {
+              "text": "うんだろ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000041",
+      "order": 40,
+      "index": 40,
+      "start": 119.516,
+      "end": 121.437,
+      "japanese": "そうだろ NEO",
+      "zh-CN": "没错吧 NEO",
+      "segments": [
+        {
+          "text": "そうだろ NEO",
+          "performerIds": [
+            "歌唱者-21",
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "そうだろ NEO"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000042",
+      "order": 41,
+      "index": 41,
+      "start": 121.437,
+      "end": 134.05263,
+      "japanese": "「初めまして」は 届いたかい NEO",
+      "zh-CN": "「初次见面」的问候 传达给你了吗 NEO",
+      "segments": [
+        {
+          "text": "「初めまして」は 届いたかい NEO",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "「"
+            },
+            {
+              "text": "初",
+              "reading": "はじ"
+            },
+            {
+              "text": "めまして」は "
+            },
+            {
+              "text": "届",
+              "reading": "とど"
+            },
+            {
+              "text": "いたかい NEO"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    }
+  ]
+}

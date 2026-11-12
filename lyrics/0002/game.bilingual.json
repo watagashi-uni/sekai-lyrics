@@ -1,0 +1,832 @@
+{
+  "music_id": 2,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-01",
+      "name": "星乃一歌"
+    },
+    {
+      "performerId": "歌唱者-21",
+      "name": "初音ミク"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 24.556832,
+      "end": 27.779546,
+      "japanese": "さあ 眠眠打破",
+      "zh-CN": "来吧 眠眠打破",
+      "segments": [
+        {
+          "text": "さあ 眠眠打破",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "さあ "
+            },
+            {
+              "text": "眠眠打破",
+              "reading": "みんみんだは"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 24.556832,
+      "end": 27.779546,
+      "japanese": "昼夜逆転",
+      "zh-CN": "昼夜颠倒",
+      "segments": [
+        {
+          "text": "昼夜逆転",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "昼夜逆転",
+              "reading": "ちゅうやぎゃくてん"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 24.556832,
+      "end": 27.779546,
+      "japanese": "VOX AC30w",
+      "zh-CN": "VOX 30瓦音箱",
+      "segments": [
+        {
+          "text": "VOX AC30w",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "VOX AC30w"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 28.37,
+      "end": 31.52,
+      "japanese": "テレキャスター背負ったサブカルボーイがバンド仲間にやっほー",
+      "zh-CN": "背着电吉他的亚文化男孩向乐队伙伴打着招呼",
+      "segments": [
+        {
+          "text": "テレキャスター背負ったサブカルボーイがバンド仲間にやっほー",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "テレキャスター"
+            },
+            {
+              "text": "背負",
+              "reading": "せお"
+            },
+            {
+              "text": "ったサブカルボーイがバンド"
+            },
+            {
+              "text": "仲間",
+              "reading": "なかま"
+            },
+            {
+              "text": "にやっほー"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 31.52,
+      "end": 33.11,
+      "japanese": "アルバイトはネクラモード",
+      "zh-CN": "打工时切换成阴沉模式",
+      "segments": [
+        {
+          "text": "アルバイトはネクラモード",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "アルバイトはネクラモード"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 33.11,
+      "end": 34.69,
+      "japanese": "対バンにはATフィールド",
+      "zh-CN": "面对同台竞演张开绝对领域",
+      "segments": [
+        {
+          "text": "対バンにはATフィールド",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "対",
+              "reading": "たい"
+            },
+            {
+              "text": "バンにはATフィールド"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 34.612818,
+      "end": 37.811542,
+      "japanese": "人見知り”宣言で逃げる気か BOY",
+      "zh-CN": "打算用一句“怕生”宣言临阵脱逃吗 BOY",
+      "segments": [
+        {
+          "text": "人見知り”宣言で逃げる気か BOY",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "人見知",
+              "reading": "ひとみし"
+            },
+            {
+              "text": "り”"
+            },
+            {
+              "text": "宣言",
+              "reading": "せんげん"
+            },
+            {
+              "text": "で"
+            },
+            {
+              "text": "逃",
+              "reading": "に"
+            },
+            {
+              "text": "げる"
+            },
+            {
+              "text": "気",
+              "reading": "き"
+            },
+            {
+              "text": "か BOY"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 40.75,
+      "end": 44.5,
+      "japanese": "ゆーて お坊ちゃん お嬢ちゃん お金も才能も",
+      "zh-CN": "话虽如此 少爷 小姐 无论是金钱还是才华",
+      "segments": [
+        {
+          "text": "ゆーて お坊ちゃん お嬢ちゃん お金も才能も",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ゆーて お"
+            },
+            {
+              "text": "坊",
+              "reading": "ぼっ"
+            },
+            {
+              "text": "ちゃん お"
+            },
+            {
+              "text": "嬢",
+              "reading": "じょう"
+            },
+            {
+              "text": "ちゃん お"
+            },
+            {
+              "text": "金",
+              "reading": "かね"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "才能",
+              "reading": "さいのう"
+            },
+            {
+              "text": "も"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 44.5,
+      "end": 47.73,
+      "japanese": "なまじっかあるだけ厄介でやんす",
+      "zh-CN": "半吊子有那么一点反倒更加麻烦",
+      "segments": [
+        {
+          "text": "なまじっかあるだけ厄介でやんす",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "なまじっかあるだけ"
+            },
+            {
+              "text": "厄介",
+              "reading": "やっかい"
+            },
+            {
+              "text": "でやんす"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 47.73,
+      "end": 50.81,
+      "japanese": "Boys be ambitious…",
+      "zh-CN": "少年当胸怀大志……",
+      "segments": [
+        {
+          "text": "Boys be ambitious…",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "Boys be ambitious…"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 47.73,
+      "end": 50.81,
+      "japanese": "(はい はい)",
+      "zh-CN": "(好啦 好啦)",
+      "segments": [
+        {
+          "text": "(はい はい)",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "(はい はい)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 47.73,
+      "end": 50.81,
+      "japanese": "like this old man",
+      "zh-CN": "就像那位老人所言一般",
+      "segments": [
+        {
+          "text": "like this old man",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "like this old man"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 51.016272,
+      "end": 53.988086,
+      "japanese": "長い前髪 君 誰の信者",
+      "zh-CN": "留着长刘海的你 究竟是谁的信徒",
+      "segments": [
+        {
+          "text": "長い前髪 君 誰の信者",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "長",
+              "reading": "なが"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "前髪",
+              "reading": "まえがみ"
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "誰",
+              "reading": "だれ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "信者",
+              "reading": "しんじゃ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 56.5874,
+      "end": 63.47928,
+      "japanese": "信者 信者",
+      "zh-CN": "信徒 信徒",
+      "segments": [
+        {
+          "text": "信者 信者",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "信者",
+              "reading": "しんじゃ"
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "信者",
+              "reading": "しんじゃ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 63.631237,
+      "end": 66.361148,
+      "japanese": "勘違いすんな 教祖はオマエだ",
+      "zh-CN": "别搞错了 教祖正是你自己啊",
+      "segments": [
+        {
+          "text": "勘違いすんな ",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "勘違",
+              "reading": "かんちが"
+            },
+            {
+              "text": "いすんな "
+            }
+          ]
+        },
+        {
+          "text": "教祖はオマエだ",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "教祖",
+              "reading": "きょうそ"
+            },
+            {
+              "text": "はオマエだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 66.86,
+      "end": 69.3,
+      "japanese": "ロキロキのロックンロックンロール",
+      "zh-CN": "ROKI ROKI 的摇滚摇滚乐",
+      "segments": [
+        {
+          "text": "ロキロキのロックンロックンロール",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ロキロキのロックンロックンロール"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 69.3,
+      "end": 71.7,
+      "japanese": "かき鳴らすエレクトリックギターは",
+      "zh-CN": "肆意拨响的电吉他",
+      "segments": [
+        {
+          "text": "かき鳴らすエレクトリックギターは",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "かき"
+            },
+            {
+              "text": "鳴",
+              "reading": "な"
+            },
+            {
+              "text": "らすエレクトリックギターは"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 71.728006,
+      "end": 72.726607,
+      "japanese": "Don't Stop! Don't Stop!",
+      "zh-CN": "不要停下！ 不要停下！",
+      "segments": [
+        {
+          "text": "Don't Stop! Don't Stop!",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "Don't Stop! Don't Stop!"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 73.15,
+      "end": 74.66,
+      "japanese": "さあ君の全てを",
+      "zh-CN": "来吧 将你的一切",
+      "segments": [
+        {
+          "text": "さあ君の全てを",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "さあ"
+            },
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "全",
+              "reading": "すべ"
+            },
+            {
+              "text": "てを"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 74.66,
+      "end": 76.44,
+      "japanese": "曝け出してみせろよ",
+      "zh-CN": "全都袒露给我看啊",
+      "segments": [
+        {
+          "text": "曝け出してみせろよ",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "曝",
+              "reading": "さら"
+            },
+            {
+              "text": "け"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "してみせろよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 76.44,
+      "end": 79.49,
+      "japanese": "ロキロキのロックンロックンロール",
+      "zh-CN": "ROKI ROKI 的摇滚摇滚乐",
+      "segments": [
+        {
+          "text": "ロキロキのロックンロックンロール",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ロキロキのロックンロックンロール"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 79.784,
+      "end": 88.98,
+      "japanese": "ロキロキの ロックンロックンロール",
+      "zh-CN": "ROKI ROKI 的 摇滚摇滚乐",
+      "segments": [
+        {
+          "text": "ロキロキの ロックンロックンロール",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ロキロキの ロックンロックンロール"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000023",
+      "order": 22,
+      "index": 22,
+      "start": 89.176006,
+      "end": 90.759006,
+      "japanese": "死ぬんじゃねぇぞ",
+      "zh-CN": "可别轻易死掉啊",
+      "segments": [
+        {
+          "text": "死ぬんじゃねぇぞ",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "死",
+              "reading": "し"
+            },
+            {
+              "text": "ぬんじゃねぇぞ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000024",
+      "order": 23,
+      "index": 23,
+      "start": 90.759006,
+      "end": 92.162006,
+      "japanese": "（死ぬんじゃねぇぞ）",
+      "zh-CN": "（可别轻易死掉啊）",
+      "segments": [
+        {
+          "text": "（死ぬんじゃねぇぞ）",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "（"
+            },
+            {
+              "text": "死",
+              "reading": "し"
+            },
+            {
+              "text": "ぬんじゃねぇぞ）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000025",
+      "order": 24,
+      "index": 24,
+      "start": 92.372006,
+      "end": 96.554006,
+      "japanese": "死にたかねぇのは お互い様！",
+      "zh-CN": "不想死的心情 彼此彼此！",
+      "segments": [
+        {
+          "text": "死にたかねぇのは お互い様！",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "死",
+              "reading": "し"
+            },
+            {
+              "text": "にたかねぇのは お"
+            },
+            {
+              "text": "互",
+              "reading": "たが"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "様",
+              "reading": "さま"
+            },
+            {
+              "text": "！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

@@ -1,0 +1,725 @@
+{
+  "music_id": 217,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-09",
+      "name": "小豆沢こはね"
+    },
+    {
+      "performerId": "歌唱者-10",
+      "name": "白石杏"
+    },
+    {
+      "performerId": "歌唱者-11",
+      "name": "東雲彰人"
+    },
+    {
+      "performerId": "歌唱者-12",
+      "name": "青柳冬弥"
+    },
+    {
+      "performerId": "歌唱者-22",
+      "name": "鏡音リン"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 9.42,
+      "end": 13.24,
+      "japanese": "笑って走っていく日も",
+      "zh-CN": "笑着奔跑前行的日子",
+      "segments": [
+        {
+          "text": "笑って走っていく日も",
+          "performerIds": [
+            "歌唱者-09"
+          ],
+          "ruby": [
+            {
+              "text": "笑",
+              "reading": "わら"
+            },
+            {
+              "text": "って"
+            },
+            {
+              "text": "走",
+              "reading": "はし"
+            },
+            {
+              "text": "っていく"
+            },
+            {
+              "text": "日",
+              "reading": "ひ"
+            },
+            {
+              "text": "も"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 13.24,
+      "end": 16.96,
+      "japanese": "泣きながら帰る日も",
+      "zh-CN": "哭着踏上归途的日子",
+      "segments": [
+        {
+          "text": "泣きながら帰る日も",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "泣",
+              "reading": "な"
+            },
+            {
+              "text": "きながら"
+            },
+            {
+              "text": "帰",
+              "reading": "かえ"
+            },
+            {
+              "text": "る"
+            },
+            {
+              "text": "日",
+              "reading": "ひ"
+            },
+            {
+              "text": "も"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 16.71346,
+      "end": 20.40079,
+      "japanese": "この街と共に生きてる",
+      "zh-CN": "都与这座街区一同生活着",
+      "segments": [
+        {
+          "text": "この街と共に生きてる",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "この"
+            },
+            {
+              "text": "街",
+              "reading": "まち"
+            },
+            {
+              "text": "と"
+            },
+            {
+              "text": "共",
+              "reading": "とも"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "生",
+              "reading": "い"
+            },
+            {
+              "text": "きてる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 36.166028,
+      "end": 38.935529,
+      "japanese": "ガラガラの電車に乗る度",
+      "zh-CN": "每当坐上空空荡荡的电车",
+      "segments": [
+        {
+          "text": "ガラガラの電車に乗る度",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "ガラガラの"
+            },
+            {
+              "text": "電車",
+              "reading": "でんしゃ"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "乗",
+              "reading": "の"
+            },
+            {
+              "text": "る"
+            },
+            {
+              "text": "度",
+              "reading": "たび"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 39.51205,
+      "end": 42.033327,
+      "japanese": "思い出すことがあった",
+      "zh-CN": "总会想起某些往事",
+      "segments": [
+        {
+          "text": "思い出すことがあった",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "思",
+              "reading": "おも"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "すことがあった"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 43.901013,
+      "end": 46.623472,
+      "japanese": "窓の外から見えてるのは",
+      "zh-CN": "从车窗外映入眼帘的",
+      "segments": [
+        {
+          "text": "窓の外から見えてるのは",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "窓",
+              "reading": "まど"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "外",
+              "reading": "そと"
+            },
+            {
+              "text": "から"
+            },
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "えてるのは"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 46.840668,
+      "end": 49.203802,
+      "japanese": "それぞれの物語",
+      "zh-CN": "是属于各自的故事",
+      "segments": [
+        {
+          "text": "それぞれの物語",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "それぞれの"
+            },
+            {
+              "text": "物語",
+              "reading": "ものがたり"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 54.234346,
+      "end": 56.681556,
+      "japanese": "仲間の呼ぶ声がする",
+      "zh-CN": "听到了伙伴们的呼唤声",
+      "segments": [
+        {
+          "text": "仲間の呼ぶ声がする",
+          "performerIds": [
+            "歌唱者-09"
+          ],
+          "ruby": [
+            {
+              "text": "仲間",
+              "reading": "なかま"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "呼",
+              "reading": "よ"
+            },
+            {
+              "text": "ぶ"
+            },
+            {
+              "text": "声",
+              "reading": "こえ"
+            },
+            {
+              "text": "がする"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 57.831594,
+      "end": 62.269602,
+      "japanese": "合わさって初めて動き出す",
+      "zh-CN": "唯有相互交融才真正开始运转",
+      "segments": [
+        {
+          "text": "合わさって初めて動き出す",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "合",
+              "reading": "あ"
+            },
+            {
+              "text": "わさって"
+            },
+            {
+              "text": "初",
+              "reading": "はじ"
+            },
+            {
+              "text": "めて"
+            },
+            {
+              "text": "動",
+              "reading": "うご"
+            },
+            {
+              "text": "き"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "す"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 65.76,
+      "end": 69.45,
+      "japanese": "笑って走っていく日も",
+      "zh-CN": "笑着奔跑前行的日子",
+      "segments": [
+        {
+          "text": "笑って走っていく日も",
+          "performerIds": [
+            "歌唱者-10",
+            "歌唱者-11",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "笑",
+              "reading": "わら"
+            },
+            {
+              "text": "って"
+            },
+            {
+              "text": "走",
+              "reading": "はし"
+            },
+            {
+              "text": "っていく"
+            },
+            {
+              "text": "日",
+              "reading": "ひ"
+            },
+            {
+              "text": "も"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 69.45,
+      "end": 73.21,
+      "japanese": "泣きながら帰る日も",
+      "zh-CN": "哭着踏上归途的日子",
+      "segments": [
+        {
+          "text": "泣きながら帰る日も",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-12",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "泣",
+              "reading": "な"
+            },
+            {
+              "text": "きながら"
+            },
+            {
+              "text": "帰",
+              "reading": "かえ"
+            },
+            {
+              "text": "る"
+            },
+            {
+              "text": "日",
+              "reading": "ひ"
+            },
+            {
+              "text": "も"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 73.21,
+      "end": 76.94,
+      "japanese": "この街はいつもここに",
+      "zh-CN": "这座街区始终都在此处",
+      "segments": [
+        {
+          "text": "この街はいつもここに",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "この"
+            },
+            {
+              "text": "街",
+              "reading": "まち"
+            },
+            {
+              "text": "はいつもここに"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 76.94,
+      "end": 80.17,
+      "japanese": "刻み込んでいく",
+      "zh-CN": "深刻铭记着这一切",
+      "segments": [
+        {
+          "text": "刻み込んでいく",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "刻",
+              "reading": "きざ"
+            },
+            {
+              "text": "み"
+            },
+            {
+              "text": "込",
+              "reading": "こ"
+            },
+            {
+              "text": "んでいく"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 80.18,
+      "end": 84.46,
+      "japanese": "誰かが笑ったような気がした",
+      "zh-CN": "隐约觉得似乎有人在笑",
+      "segments": [
+        {
+          "text": "誰かが笑ったような気がした",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-12",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "誰",
+              "reading": "だれ"
+            },
+            {
+              "text": "かが"
+            },
+            {
+              "text": "笑",
+              "reading": "わら"
+            },
+            {
+              "text": "ったような"
+            },
+            {
+              "text": "気",
+              "reading": "き"
+            },
+            {
+              "text": "がした"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 84.46,
+      "end": 88.24,
+      "japanese": "泣いたような気がした",
+      "zh-CN": "隐约觉得似乎有人在哭泣",
+      "segments": [
+        {
+          "text": "泣いたような気がした",
+          "performerIds": [
+            "歌唱者-10",
+            "歌唱者-11",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "泣",
+              "reading": "な"
+            },
+            {
+              "text": "いたような"
+            },
+            {
+              "text": "気",
+              "reading": "き"
+            },
+            {
+              "text": "がした"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 88.24,
+      "end": 96.13,
+      "japanese": "遥か昔の記憶に針が落ちていく",
+      "zh-CN": "唱针落向久远过去的记忆深处",
+      "segments": [
+        {
+          "text": "遥か昔の記憶に針が落ちていく",
+          "performerIds": [
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "遥",
+              "reading": "はる"
+            },
+            {
+              "text": "か"
+            },
+            {
+              "text": "昔",
+              "reading": "むかし"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "記憶",
+              "reading": "きおく"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "針",
+              "reading": "はり"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "落",
+              "reading": "お"
+            },
+            {
+              "text": "ちていく"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 96.13,
+      "end": 100.13,
+      "japanese": "街と共に",
+      "zh-CN": "与街区相伴",
+      "segments": [
+        {
+          "text": "街と共に",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "街",
+              "reading": "まち"
+            },
+            {
+              "text": "と"
+            },
+            {
+              "text": "共",
+              "reading": "とも"
+            },
+            {
+              "text": "に"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

@@ -1,0 +1,1775 @@
+{
+  "music_id": 502,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-21",
+      "name": "初音ミク"
+    },
+    {
+      "performerId": "歌唱者-22",
+      "name": "鏡音リン"
+    },
+    {
+      "performerId": "歌唱者-23",
+      "name": "鏡音レン"
+    },
+    {
+      "performerId": "歌唱者-24",
+      "name": "巡音ルカ"
+    },
+    {
+      "performerId": "歌唱者-25",
+      "name": "MEIKO"
+    },
+    {
+      "performerId": "歌唱者-26",
+      "name": "KAITO"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 9.141,
+      "end": 11.626,
+      "japanese": "One, a two, one, two, three",
+      "zh-CN": "One, a two, one, two, three",
+      "segments": [
+        {
+          "text": "One, a two, one, two, three",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "One, a two, one, two, three"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 11.626,
+      "end": 14.163,
+      "japanese": "(　ﾟ∀ﾟ)o彡゜えーりん！えーりん！ （(　ﾟ∀ﾟ)o彡゜えーりん！えーりん！）",
+      "zh-CN": "( ﾟ∀ﾟ)o彡゜永琳！永琳！ （( ﾟ∀ﾟ)o彡゜永琳！永琳！）",
+      "segments": [
+        {
+          "text": "(　ﾟ∀ﾟ)o彡゜えーりん！えーりん！ ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "(　ﾟ∀ﾟ)o"
+            },
+            {
+              "text": "彡",
+              "reading": "え"
+            },
+            {
+              "text": "゜えーりん！えーりん！ "
+            }
+          ]
+        },
+        {
+          "text": "（(　ﾟ∀ﾟ)o彡゜えーりん！えーりん！）",
+          "performerIds": [
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "（(　ﾟ∀ﾟ)o"
+            },
+            {
+              "text": "彡",
+              "reading": "え"
+            },
+            {
+              "text": "゜えーりん！えーりん！）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 14.163,
+      "end": 16.714,
+      "japanese": "(　ﾟ∀ﾟ)o彡゜えーりん！えーりん！ （(　ﾟ∀ﾟ)o彡゜えーりん！えーりん！）",
+      "zh-CN": "( ﾟ∀ﾟ)o彡゜永琳！永琳！ （( ﾟ∀ﾟ)o彡゜永琳！永琳！）",
+      "segments": [
+        {
+          "text": "(　ﾟ∀ﾟ)o彡゜えーりん！えーりん！ ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "(　ﾟ∀ﾟ)o"
+            },
+            {
+              "text": "彡",
+              "reading": "え"
+            },
+            {
+              "text": "゜えーりん！えーりん！ "
+            }
+          ]
+        },
+        {
+          "text": "（(　ﾟ∀ﾟ)o彡゜えーりん！えーりん！）",
+          "performerIds": [
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "（(　ﾟ∀ﾟ)o"
+            },
+            {
+              "text": "彡",
+              "reading": "え"
+            },
+            {
+              "text": "゜えーりん！えーりん！）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 16.714,
+      "end": 19.728,
+      "japanese": "(　ﾟ∀ﾟ)o彡゜えーりん！えーりん！えーりん！えーりん！",
+      "zh-CN": "( ﾟ∀ﾟ)o彡゜永琳！永琳！永琳！永琳！",
+      "segments": [
+        {
+          "text": "(　ﾟ∀ﾟ)o彡゜えーりん！えーりん！えーりん！えーりん！",
+          "performerIds": [
+            "歌唱者-21",
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "(　ﾟ∀ﾟ)o"
+            },
+            {
+              "text": "彡",
+              "reading": "え"
+            },
+            {
+              "text": "゜えーりん！えーりん！えーりん！えーりん！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 19.728,
+      "end": 22.03,
+      "japanese": "HELP ME, ERINNNNNNNN!! （(　ﾟ∀ﾟ)o彡゜えーりん！えーりん！助けてえーりん！）",
+      "zh-CN": "HELP ME, ERINNNNNNNN!! （( ﾟ∀ﾟ)o彡゜永琳！永琳！救救我永琳！）",
+      "segments": [
+        {
+          "text": "HELP ME, ERINNNNNNNN!! ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "HELP ME, ERINNNNNNNN!! "
+            }
+          ]
+        },
+        {
+          "text": "（(　ﾟ∀ﾟ)o彡゜えーりん！えーりん！助けてえーりん！）",
+          "performerIds": [
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "（(　ﾟ∀ﾟ)o"
+            },
+            {
+              "text": "彡",
+              "reading": "た"
+            },
+            {
+              "text": "゜えーりん！えーりん！"
+            },
+            {
+              "text": "助",
+              "reading": "す"
+            },
+            {
+              "text": "けてえーりん！）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 22.03,
+      "end": 27.036,
+      "japanese": "あぁ、どうしよう！？　高く振りあげたこの腕 （(　ﾟ∀ﾟ)o彡゜えーりん！えーりん！）",
+      "zh-CN": "啊啊、该如何是好！？ 高高扬起的这条手臂 （( ﾟ∀ﾟ)o彡゜永琳！永琳！）",
+      "segments": [
+        {
+          "text": "あぁ、どうしよう！？　高く振りあげたこの腕 ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "あぁ、どうしよう！？　"
+            },
+            {
+              "text": "高",
+              "reading": "たか"
+            },
+            {
+              "text": "く"
+            },
+            {
+              "text": "振",
+              "reading": "ふ"
+            },
+            {
+              "text": "りあげたこの"
+            },
+            {
+              "text": "腕",
+              "reading": "うで"
+            },
+            {
+              "text": " "
+            }
+          ]
+        },
+        {
+          "text": "（(　ﾟ∀ﾟ)o彡゜えーりん！えーりん！）",
+          "performerIds": [
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "（(　ﾟ∀ﾟ)o"
+            },
+            {
+              "text": "彡",
+              "reading": "え"
+            },
+            {
+              "text": "゜えーりん！えーりん！）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 27.036,
+      "end": 32.389,
+      "japanese": "私のお月様　逆さまのお月様 （(　ﾟ∀ﾟ)o彡゜助けてえーりん！）",
+      "zh-CN": "我的月亮大人 颠倒倒悬的月亮大人 （( ﾟ∀ﾟ)o彡゜救救我永琳！）",
+      "segments": [
+        {
+          "text": "私のお月様　逆さまのお月様 ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "私",
+              "reading": "わたし"
+            },
+            {
+              "text": "のお"
+            },
+            {
+              "text": "月様",
+              "reading": "つきさま"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "逆",
+              "reading": "さか"
+            },
+            {
+              "text": "さまのお"
+            },
+            {
+              "text": "月様",
+              "reading": "つきさま"
+            },
+            {
+              "text": " "
+            }
+          ]
+        },
+        {
+          "text": "（(　ﾟ∀ﾟ)o彡゜助けてえーりん！）",
+          "performerIds": [
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "（(　ﾟ∀ﾟ)o"
+            },
+            {
+              "text": "彡",
+              "reading": "た"
+            },
+            {
+              "text": "゜"
+            },
+            {
+              "text": "助",
+              "reading": "す"
+            },
+            {
+              "text": "けてえーりん！）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 32.389,
+      "end": 37.153,
+      "japanese": "もう、早くして！強く振りおろした腕は （(　ﾟ∀ﾟ)o彡゜えーりん！えーりん！）",
+      "zh-CN": "真是的、快点啦！ 用力挥落的手臂 （( ﾟ∀ﾟ)o彡゜永琳！永琳！）",
+      "segments": [
+        {
+          "text": "もう、早くして！強く振りおろした腕は ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "もう、"
+            },
+            {
+              "text": "早",
+              "reading": "はや"
+            },
+            {
+              "text": "くして！"
+            },
+            {
+              "text": "強",
+              "reading": "つよ"
+            },
+            {
+              "text": "く"
+            },
+            {
+              "text": "振",
+              "reading": "ふ"
+            },
+            {
+              "text": "りおろした"
+            },
+            {
+              "text": "腕",
+              "reading": "うで"
+            },
+            {
+              "text": "は "
+            }
+          ]
+        },
+        {
+          "text": "（(　ﾟ∀ﾟ)o彡゜えーりん！えーりん！）",
+          "performerIds": [
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "（(　ﾟ∀ﾟ)o"
+            },
+            {
+              "text": "彡",
+              "reading": "え"
+            },
+            {
+              "text": "゜えーりん！えーりん！）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 37.153,
+      "end": 42.634,
+      "japanese": "あなたを呼ぶサイン　えーりん！あなたへのサイン",
+      "zh-CN": "是呼唤你的信号 永琳！给你的信号",
+      "segments": [
+        {
+          "text": "あなたを呼ぶサイン　えーりん！あなたへのサイン",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "あなたを"
+            },
+            {
+              "text": "呼",
+              "reading": "よ"
+            },
+            {
+              "text": "ぶサイン　えーりん！あなたへのサイン"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 42.634,
+      "end": 45.273,
+      "japanese": "(　ﾟ∀ﾟ)o彡゜えーりん！えーりん！ （(　ﾟ∀ﾟ)o彡゜えーりん！えーりん！）",
+      "zh-CN": "( ﾟ∀ﾟ)o彡゜永琳！永琳！ （( ﾟ∀ﾟ)o彡゜永琳！永琳！）",
+      "segments": [
+        {
+          "text": "(　ﾟ∀ﾟ)o彡゜えーりん！えーりん！ ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "(　ﾟ∀ﾟ)o"
+            },
+            {
+              "text": "彡",
+              "reading": "え"
+            },
+            {
+              "text": "゜えーりん！えーりん！ "
+            }
+          ]
+        },
+        {
+          "text": "（(　ﾟ∀ﾟ)o彡゜えーりん！えーりん！）",
+          "performerIds": [
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "（(　ﾟ∀ﾟ)o"
+            },
+            {
+              "text": "彡",
+              "reading": "え"
+            },
+            {
+              "text": "゜えーりん！えーりん！）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 45.273,
+      "end": 47.833,
+      "japanese": "(　ﾟ∀ﾟ)o彡゜えーりん！えーりん！ （(　ﾟ∀ﾟ)o彡゜えーりん！えーりん！）",
+      "zh-CN": "( ﾟ∀ﾟ)o彡゜永琳！永琳！ （( ﾟ∀ﾟ)o彡゜永琳！永琳！）",
+      "segments": [
+        {
+          "text": "(　ﾟ∀ﾟ)o彡゜えーりん！えーりん！ ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "(　ﾟ∀ﾟ)o"
+            },
+            {
+              "text": "彡",
+              "reading": "え"
+            },
+            {
+              "text": "゜えーりん！えーりん！ "
+            }
+          ]
+        },
+        {
+          "text": "（(　ﾟ∀ﾟ)o彡゜えーりん！えーりん！）",
+          "performerIds": [
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "（(　ﾟ∀ﾟ)o"
+            },
+            {
+              "text": "彡",
+              "reading": "え"
+            },
+            {
+              "text": "゜えーりん！えーりん！）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 47.833,
+      "end": 50.567,
+      "japanese": "(　ﾟ∀ﾟ)o彡゜えーりん！えーりん！ （(　ﾟ∀ﾟ)o彡゜えーりん！えーりん！）",
+      "zh-CN": "( ﾟ∀ﾟ)o彡゜永琳！永琳！ （( ﾟ∀ﾟ)o彡゜永琳！永琳！）",
+      "segments": [
+        {
+          "text": "(　ﾟ∀ﾟ)o彡゜えーりん！えーりん！ ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "(　ﾟ∀ﾟ)o"
+            },
+            {
+              "text": "彡",
+              "reading": "え"
+            },
+            {
+              "text": "゜えーりん！えーりん！ "
+            }
+          ]
+        },
+        {
+          "text": "（(　ﾟ∀ﾟ)o彡゜えーりん！えーりん！）",
+          "performerIds": [
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "（(　ﾟ∀ﾟ)o"
+            },
+            {
+              "text": "彡",
+              "reading": "え"
+            },
+            {
+              "text": "゜えーりん！えーりん！）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 50.567,
+      "end": 53.055,
+      "japanese": "(　ﾟ∀ﾟ)o彡゜助けてえーりん！ （(　ﾟ∀ﾟ)o彡゜助けてえーりん！）",
+      "zh-CN": "( ﾟ∀ﾟ)o彡゜救救我永琳！ （( ﾟ∀ﾟ)o彡゜救救我永琳！）",
+      "segments": [
+        {
+          "text": "(　ﾟ∀ﾟ)o彡゜助けてえーりん！ ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "(　ﾟ∀ﾟ)o"
+            },
+            {
+              "text": "彡",
+              "reading": "た"
+            },
+            {
+              "text": "゜"
+            },
+            {
+              "text": "助",
+              "reading": "す"
+            },
+            {
+              "text": "けてえーりん！ "
+            }
+          ]
+        },
+        {
+          "text": "（(　ﾟ∀ﾟ)o彡゜助けてえーりん！）",
+          "performerIds": [
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "（(　ﾟ∀ﾟ)o"
+            },
+            {
+              "text": "彡",
+              "reading": "た"
+            },
+            {
+              "text": "゜"
+            },
+            {
+              "text": "助",
+              "reading": "す"
+            },
+            {
+              "text": "けてえーりん！）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 63.548,
+      "end": 68.609,
+      "japanese": "「えーりん！えーりん！助けて！」今日も聞こえてくる",
+      "zh-CN": "“永琳！永琳！救救我！”今天也听到了呼喊声",
+      "segments": [
+        {
+          "text": "「えーりん！えーりん！助けて！」今日も聞こえてくる",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "「えーりん！えーりん！"
+            },
+            {
+              "text": "助",
+              "reading": "たす"
+            },
+            {
+              "text": "けて！」"
+            },
+            {
+              "text": "今日",
+              "reading": "きょう"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "聞",
+              "reading": "き"
+            },
+            {
+              "text": "こえてくる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 68.609,
+      "end": 73.666,
+      "japanese": "誠心誠意　まごころ込めて助けに行こう",
+      "zh-CN": "诚心诚意 满怀真心前去施救吧",
+      "segments": [
+        {
+          "text": "誠心誠意　まごころ込めて助けに行こう",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "誠心誠意",
+              "reading": "せいしんせいい"
+            },
+            {
+              "text": "　まごころ"
+            },
+            {
+              "text": "込",
+              "reading": "こ"
+            },
+            {
+              "text": "めて"
+            },
+            {
+              "text": "助",
+              "reading": "たす"
+            },
+            {
+              "text": "けに"
+            },
+            {
+              "text": "行",
+              "reading": "い"
+            },
+            {
+              "text": "こう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 73.666,
+      "end": 78.702,
+      "japanese": "永遠亭のウサギ達は　いつも無邪気",
+      "zh-CN": "永远亭的兔子们 总是天真烂漫",
+      "segments": [
+        {
+          "text": "永遠亭のウサギ達は　いつも無邪気",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "永遠亭",
+              "reading": "えいえんてい"
+            },
+            {
+              "text": "のウサギ"
+            },
+            {
+              "text": "達",
+              "reading": "たち"
+            },
+            {
+              "text": "は　いつも"
+            },
+            {
+              "text": "無邪気",
+              "reading": "むじゃき"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 78.702,
+      "end": 83.11,
+      "japanese": "ほらまた誰かに　呼ばれてるよ",
+      "zh-CN": "瞧啊 又被某人 所呼唤了呢",
+      "segments": [
+        {
+          "text": "ほらまた誰かに　呼ばれてるよ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ほらまた"
+            },
+            {
+              "text": "誰",
+              "reading": "だれ"
+            },
+            {
+              "text": "かに　"
+            },
+            {
+              "text": "呼",
+              "reading": "よ"
+            },
+            {
+              "text": "ばれてるよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 83.11,
+      "end": 84.212,
+      "japanese": "(Hey, come on!)",
+      "zh-CN": "(Hey, come on!)",
+      "segments": [
+        {
+          "text": "(Hey, come on!)",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "(Hey, come on!)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000023",
+      "order": 22,
+      "index": 22,
+      "start": 84.212,
+      "end": 86.812,
+      "japanese": "（(　ﾟ∀ﾟ)o彡゜えーりん！えーりん！助けてえーりん！）",
+      "zh-CN": "（( ﾟ∀ﾟ)o彡゜永琳！永琳！救救我永琳！）",
+      "segments": [
+        {
+          "text": "（(　ﾟ∀ﾟ)o彡゜えーりん！えーりん！助けてえーりん！）",
+          "performerIds": [
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "（(　ﾟ∀ﾟ)o"
+            },
+            {
+              "text": "彡",
+              "reading": "え"
+            },
+            {
+              "text": "゜えーりん！えーりん！"
+            },
+            {
+              "text": "助",
+              "reading": "たす"
+            },
+            {
+              "text": "けてえーりん！）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000024",
+      "order": 23,
+      "index": 23,
+      "start": 86.812,
+      "end": 89.38,
+      "japanese": "(　ﾟ∀ﾟ)o彡゜えーりん！えーりん！助けてえーりん！",
+      "zh-CN": "( ﾟ∀ﾟ)o彡゜永琳！永琳！救救我永琳！",
+      "segments": [
+        {
+          "text": "(　ﾟ∀ﾟ)o彡゜えーりん！えーりん！助けてえーりん！",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "(　ﾟ∀ﾟ)o"
+            },
+            {
+              "text": "彡",
+              "reading": "え"
+            },
+            {
+              "text": "゜えーりん！えーりん！"
+            },
+            {
+              "text": "助",
+              "reading": "たす"
+            },
+            {
+              "text": "けてえーりん！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000025",
+      "order": 24,
+      "index": 24,
+      "start": 89.38,
+      "end": 92.082,
+      "japanese": "（(　ﾟ∀ﾟ)o彡゜えーりん！えーりん！助けてえーりん！）",
+      "zh-CN": "（( ﾟ∀ﾟ)o彡゜永琳！永琳！救救我永琳！）",
+      "segments": [
+        {
+          "text": "（(　ﾟ∀ﾟ)o彡゜えーりん！えーりん！助けてえーりん！）",
+          "performerIds": [
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "（(　ﾟ∀ﾟ)o"
+            },
+            {
+              "text": "彡",
+              "reading": "え"
+            },
+            {
+              "text": "゜えーりん！えーりん！"
+            },
+            {
+              "text": "助",
+              "reading": "たす"
+            },
+            {
+              "text": "けてえーりん！）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000026",
+      "order": 25,
+      "index": 25,
+      "start": 92.082,
+      "end": 94.705,
+      "japanese": "早く来てー！",
+      "zh-CN": "快点来啊——！",
+      "segments": [
+        {
+          "text": "早く来てー！",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "早",
+              "reading": "はや"
+            },
+            {
+              "text": "く"
+            },
+            {
+              "text": "来",
+              "reading": "き"
+            },
+            {
+              "text": "てー！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000027",
+      "order": 26,
+      "index": 26,
+      "start": 94.705,
+      "end": 99.382,
+      "japanese": "さぁ、助けましょう！　高く振りあがるあの腕 （(　ﾟ∀ﾟ)o彡゜えーりん！えーりん！）",
+      "zh-CN": "来吧、去拯救吧！ 高高扬起的那条手臂 （( ﾟ∀ﾟ)o彡゜永琳！永琳！）",
+      "segments": [
+        {
+          "text": "さぁ、助けましょう！　高く振りあがるあの腕 ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "さぁ、"
+            },
+            {
+              "text": "助",
+              "reading": "たす"
+            },
+            {
+              "text": "けましょう！　"
+            },
+            {
+              "text": "高",
+              "reading": "たか"
+            },
+            {
+              "text": "く"
+            },
+            {
+              "text": "振",
+              "reading": "ふ"
+            },
+            {
+              "text": "りあがるあの"
+            },
+            {
+              "text": "腕",
+              "reading": "うで"
+            },
+            {
+              "text": " "
+            }
+          ]
+        },
+        {
+          "text": "（(　ﾟ∀ﾟ)o彡゜えーりん！えーりん！）",
+          "performerIds": [
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "（(　ﾟ∀ﾟ)o"
+            },
+            {
+              "text": "彡",
+              "reading": "え"
+            },
+            {
+              "text": "゜えーりん！えーりん！）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000028",
+      "order": 27,
+      "index": 27,
+      "start": 99.382,
+      "end": 104.979,
+      "japanese": "あなたはお姫様　わがままなお姫様 （(　ﾟ∀ﾟ)o彡゜助けてえーりん！）",
+      "zh-CN": "您是尊贵的公主殿下 任性妄为的公主殿下 （( ﾟ∀ﾟ)o彡゜救救我永琳！）",
+      "segments": [
+        {
+          "text": "あなたはお姫様　わがままなお姫様 ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "あなたはお"
+            },
+            {
+              "text": "姫様",
+              "reading": "ひめさま"
+            },
+            {
+              "text": "　わがままなお"
+            },
+            {
+              "text": "姫様",
+              "reading": "ひめさま"
+            },
+            {
+              "text": " "
+            }
+          ]
+        },
+        {
+          "text": "（(　ﾟ∀ﾟ)o彡゜助けてえーりん！）",
+          "performerIds": [
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "（(　ﾟ∀ﾟ)o"
+            },
+            {
+              "text": "彡",
+              "reading": "た"
+            },
+            {
+              "text": "゜"
+            },
+            {
+              "text": "助",
+              "reading": "す"
+            },
+            {
+              "text": "けてえーりん！）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000029",
+      "order": 28,
+      "index": 28,
+      "start": 104.979,
+      "end": 109.805,
+      "japanese": "ほら、急がなきゃ！　強く振りおろした腕は （(　ﾟ∀ﾟ)o彡゜えーりん！えーりん！）",
+      "zh-CN": "瞧啊、必须快点了！ 用力挥落的手臂 （( ﾟ∀ﾟ)o彡゜永琳！永琳！）",
+      "segments": [
+        {
+          "text": "ほら、急がなきゃ！　強く振りおろした腕は ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ほら、"
+            },
+            {
+              "text": "急",
+              "reading": "いそ"
+            },
+            {
+              "text": "がなきゃ！　"
+            },
+            {
+              "text": "強",
+              "reading": "つよ"
+            },
+            {
+              "text": "く"
+            },
+            {
+              "text": "振",
+              "reading": "ふ"
+            },
+            {
+              "text": "りおろした"
+            },
+            {
+              "text": "腕",
+              "reading": "うで"
+            },
+            {
+              "text": "は "
+            }
+          ]
+        },
+        {
+          "text": "（(　ﾟ∀ﾟ)o彡゜えーりん！えーりん！）",
+          "performerIds": [
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "（(　ﾟ∀ﾟ)o"
+            },
+            {
+              "text": "彡",
+              "reading": "え"
+            },
+            {
+              "text": "゜えーりん！えーりん！）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000030",
+      "order": 29,
+      "index": 29,
+      "start": 109.805,
+      "end": 118.195,
+      "japanese": "私を呼ぶサイン　えーりん！助けてえーりん！",
+      "zh-CN": "是呼唤我的信号 永琳！救救我永琳！",
+      "segments": [
+        {
+          "text": "私を呼ぶサイン　えーりん！助けてえーりん！",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "私",
+              "reading": "わたし"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "呼",
+              "reading": "よ"
+            },
+            {
+              "text": "ぶサイン　えーりん！"
+            },
+            {
+              "text": "助",
+              "reading": "たす"
+            },
+            {
+              "text": "けてえーりん！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000031",
+      "order": 30,
+      "index": 30,
+      "start": 118.195,
+      "end": 120.571,
+      "japanese": "みんな行くよ！",
+      "zh-CN": "大家要上咯！",
+      "segments": [
+        {
+          "text": "みんな行くよ！",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "みんな"
+            },
+            {
+              "text": "行",
+              "reading": "い"
+            },
+            {
+              "text": "くよ！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000032",
+      "order": 31,
+      "index": 31,
+      "start": 120.571,
+      "end": 122.995,
+      "japanese": "(　ﾟ∀ﾟ)o彡゜MEIKO！MEIKO！ （(　ﾟ∀ﾟ)o彡゜MEIKO！MEIKO！）",
+      "zh-CN": "( ﾟ∀ﾟ)o彡゜MEIKO！MEIKO！ （( ﾟ∀ﾟ)o彡゜MEIKO！MEIKO！）",
+      "segments": [
+        {
+          "text": "(　ﾟ∀ﾟ)o彡゜MEIKO！MEIKO！ ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "(　ﾟ∀ﾟ)o"
+            },
+            {
+              "text": "彡",
+              "reading": "さん"
+            },
+            {
+              "text": "゜MEIKO！MEIKO！ "
+            }
+          ]
+        },
+        {
+          "text": "（(　ﾟ∀ﾟ)o彡゜MEIKO！MEIKO！）",
+          "performerIds": [
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "（(　ﾟ∀ﾟ)o"
+            },
+            {
+              "text": "彡",
+              "reading": "さん"
+            },
+            {
+              "text": "゜MEIKO！MEIKO！）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000033",
+      "order": 32,
+      "index": 32,
+      "start": 122.995,
+      "end": 125.603,
+      "japanese": "(　ﾟ∀ﾟ)o彡゜KAITO！KAITO！ （(　ﾟ∀ﾟ)o彡゜KAITO！KAITO！）",
+      "zh-CN": "( ﾟ∀ﾟ)o彡゜KAITO！KAITO！ （( ﾟ∀ﾟ)o彡゜KAITO！KAITO！）",
+      "segments": [
+        {
+          "text": "(　ﾟ∀ﾟ)o彡゜KAITO！KAITO！ ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "(　ﾟ∀ﾟ)o"
+            },
+            {
+              "text": "彡",
+              "reading": "さん"
+            },
+            {
+              "text": "゜KAITO！KAITO！ "
+            }
+          ]
+        },
+        {
+          "text": "（(　ﾟ∀ﾟ)o彡゜KAITO！KAITO！）",
+          "performerIds": [
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "（(　ﾟ∀ﾟ)o"
+            },
+            {
+              "text": "彡",
+              "reading": "さん"
+            },
+            {
+              "text": "゜KAITO！KAITO！）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000034",
+      "order": 33,
+      "index": 33,
+      "start": 125.603,
+      "end": 128.166,
+      "japanese": "(　ﾟ∀ﾟ)o彡゜鏡音リン！ （(　ﾟ∀ﾟ)o彡゜鏡音リン！）",
+      "zh-CN": "( ﾟ∀ﾟ)o彡゜镜音铃！ （( ﾟ∀ﾟ)o彡゜镜音铃！）",
+      "segments": [
+        {
+          "text": "(　ﾟ∀ﾟ)o彡゜鏡音リン！ ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "(　ﾟ∀ﾟ)o"
+            },
+            {
+              "text": "彡",
+              "reading": "か"
+            },
+            {
+              "text": "゜"
+            },
+            {
+              "text": "鏡音",
+              "reading": "がみね"
+            },
+            {
+              "text": "リン！ "
+            }
+          ]
+        },
+        {
+          "text": "（(　ﾟ∀ﾟ)o彡゜鏡音リン！）",
+          "performerIds": [
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "（(　ﾟ∀ﾟ)o"
+            },
+            {
+              "text": "彡",
+              "reading": "か"
+            },
+            {
+              "text": "゜"
+            },
+            {
+              "text": "鏡音",
+              "reading": "がみね"
+            },
+            {
+              "text": "リン！）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000035",
+      "order": 34,
+      "index": 34,
+      "start": 128.166,
+      "end": 131.03,
+      "japanese": "(　ﾟ∀ﾟ)o彡゜鏡音レン！ （(　ﾟ∀ﾟ)o彡゜鏡音レン！）",
+      "zh-CN": "( ﾟ∀ﾟ)o彡゜镜音连！ （( ﾟ∀ﾟ)o彡゜镜音连！）",
+      "segments": [
+        {
+          "text": "(　ﾟ∀ﾟ)o彡゜鏡音レン！ ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "(　ﾟ∀ﾟ)o"
+            },
+            {
+              "text": "彡",
+              "reading": "か"
+            },
+            {
+              "text": "゜"
+            },
+            {
+              "text": "鏡音",
+              "reading": "がみね"
+            },
+            {
+              "text": "レン！ "
+            }
+          ]
+        },
+        {
+          "text": "（(　ﾟ∀ﾟ)o彡゜鏡音レン！）",
+          "performerIds": [
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "（(　ﾟ∀ﾟ)o"
+            },
+            {
+              "text": "彡",
+              "reading": "か"
+            },
+            {
+              "text": "゜"
+            },
+            {
+              "text": "鏡音",
+              "reading": "がみね"
+            },
+            {
+              "text": "レン！）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000036",
+      "order": 35,
+      "index": 35,
+      "start": 131.03,
+      "end": 133.067,
+      "japanese": "(　ﾟ∀ﾟ)o彡゜巡音ルカ！ （(　ﾟ∀ﾟ)o彡゜巡音ルカ！）",
+      "zh-CN": "( ﾟ∀ﾟ)o彡゜巡音流歌！ （( ﾟ∀ﾟ)o彡゜巡音流歌！）",
+      "segments": [
+        {
+          "text": "(　ﾟ∀ﾟ)o彡゜巡音ルカ！ ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "(　ﾟ∀ﾟ)o"
+            },
+            {
+              "text": "彡",
+              "reading": "め"
+            },
+            {
+              "text": "゜"
+            },
+            {
+              "text": "巡音",
+              "reading": "ぐりね"
+            },
+            {
+              "text": "ルカ！ "
+            }
+          ]
+        },
+        {
+          "text": "（(　ﾟ∀ﾟ)o彡゜巡音ルカ！）",
+          "performerIds": [
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "（(　ﾟ∀ﾟ)o"
+            },
+            {
+              "text": "彡",
+              "reading": "め"
+            },
+            {
+              "text": "゜"
+            },
+            {
+              "text": "巡音",
+              "reading": "ぐりね"
+            },
+            {
+              "text": "ルカ！）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000037",
+      "order": 36,
+      "index": 36,
+      "start": 133.067,
+      "end": 136.301,
+      "japanese": "(　ﾟ∀ﾟ)o彡゜そして初音ミク！ （(　ﾟ∀ﾟ)o彡゜初音ミク！）",
+      "zh-CN": "( ﾟ∀ﾟ)o彡゜然后是初音未来！ （( ﾟ∀ﾟ)o彡゜初音未来！）",
+      "segments": [
+        {
+          "text": "(　ﾟ∀ﾟ)o彡゜そして初音ミク！ ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "(　ﾟ∀ﾟ)o"
+            },
+            {
+              "text": "彡",
+              "reading": "そ"
+            },
+            {
+              "text": "゜そして"
+            },
+            {
+              "text": "初音",
+              "reading": "はつね"
+            },
+            {
+              "text": "ミク！ "
+            }
+          ]
+        },
+        {
+          "text": "（(　ﾟ∀ﾟ)o彡゜初音ミク！）",
+          "performerIds": [
+            "歌唱者-22",
+            "歌唱者-23",
+            "歌唱者-24",
+            "歌唱者-25",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "（(　ﾟ∀ﾟ)o"
+            },
+            {
+              "text": "彡",
+              "reading": "は"
+            },
+            {
+              "text": "゜"
+            },
+            {
+              "text": "初音",
+              "reading": "つね"
+            },
+            {
+              "text": "ミク！）"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000038",
+      "order": 37,
+      "index": 37,
+      "start": 136.301,
+      "end": 152.28,
+      "japanese": "ありがとうございました！",
+      "zh-CN": "非常感谢大家！",
+      "segments": [
+        {
+          "text": "ありがとうございました！",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ありがとうございました！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    }
+  ]
+}

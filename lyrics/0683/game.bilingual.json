@@ -1,0 +1,795 @@
+{
+  "music_id": 683,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-05",
+      "name": "花里みのり"
+    },
+    {
+      "performerId": "歌唱者-06",
+      "name": "桐谷遥"
+    },
+    {
+      "performerId": "歌唱者-07",
+      "name": "桃井愛莉"
+    },
+    {
+      "performerId": "歌唱者-08",
+      "name": "日野森雫"
+    },
+    {
+      "performerId": "歌唱者-26",
+      "name": "KAITO"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 14.68075,
+      "end": 20.76475,
+      "japanese": "これは 見せかけなんかじゃない",
+      "zh-CN": "这可绝非虚有其表的伪装",
+      "segments": [
+        {
+          "text": "これは 見せかけなんかじゃない",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "これは "
+            },
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "せかけなんかじゃない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 14.68075,
+      "end": 20.76475,
+      "japanese": "強気なファンデーション",
+      "zh-CN": "强势干练的粉底粉饼",
+      "segments": [
+        {
+          "text": "強気なファンデーション",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "強気",
+              "reading": "つよき"
+            },
+            {
+              "text": "なファンデーション"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 20.76475,
+      "end": 26.45675,
+      "japanese": "ほら ネクストフェースひらりと",
+      "zh-CN": "瞧 翩然展现崭新的面貌",
+      "segments": [
+        {
+          "text": "ほら ネクストフェースひらりと",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "ほら ネクストフェースひらりと"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 20.76475,
+      "end": 26.45675,
+      "japanese": "変幻自在さ",
+      "zh-CN": "变幻自如游刃有余",
+      "segments": [
+        {
+          "text": "変幻自在さ",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "変幻自在",
+              "reading": "へんげんじざい"
+            },
+            {
+              "text": "さ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 26.45675,
+      "end": 33.95475,
+      "japanese": "迷わない心が イロトリドリの世界を泳ぐ",
+      "zh-CN": "毫不犹豫的心灵 畅游在五彩缤纷的世界",
+      "segments": [
+        {
+          "text": "迷わない心が イロトリドリの世界を泳ぐ",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "迷",
+              "reading": "まよ"
+            },
+            {
+              "text": "わない"
+            },
+            {
+              "text": "心",
+              "reading": "こころ"
+            },
+            {
+              "text": "が イロトリドリの"
+            },
+            {
+              "text": "世界",
+              "reading": "せかい"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "泳",
+              "reading": "およ"
+            },
+            {
+              "text": "ぐ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 33.95475,
+      "end": 38.30575,
+      "japanese": "武器になる",
+      "zh-CN": "化作前行的武器",
+      "segments": [
+        {
+          "text": "武器になる",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "武器",
+              "reading": "ぶき"
+            },
+            {
+              "text": "になる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 38.32075,
+      "end": 43.96375,
+      "japanese": "追い風を背に感じて 揺れるリアリティ",
+      "zh-CN": "感受后背吹拂而来的顺风 动摇摇摆的现实感",
+      "segments": [
+        {
+          "text": "追い風を背に感じて 揺れるリアリティ",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "追",
+              "reading": "お"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "風",
+              "reading": "かぜ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "背",
+              "reading": "せ"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "感",
+              "reading": "かん"
+            },
+            {
+              "text": "じて "
+            },
+            {
+              "text": "揺",
+              "reading": "ゆ"
+            },
+            {
+              "text": "れるリアリティ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 43.96375,
+      "end": 49.76175,
+      "japanese": "涙より早く走れゴールはないんだ",
+      "zh-CN": "比泪水更快奔跑吧 这里可没有所谓的终点",
+      "segments": [
+        {
+          "text": "涙より早く走れゴールはないんだ",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "涙",
+              "reading": "なみだ"
+            },
+            {
+              "text": "より"
+            },
+            {
+              "text": "早",
+              "reading": "はや"
+            },
+            {
+              "text": "く"
+            },
+            {
+              "text": "走",
+              "reading": "はし"
+            },
+            {
+              "text": "れゴールはないんだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 49.76175,
+      "end": 55.44375,
+      "japanese": "共鳴している胸の空洞に ほら",
+      "zh-CN": "在产生共鸣的心之空洞中 瞧啊",
+      "segments": [
+        {
+          "text": "共鳴している胸の空洞に ほら",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "共鳴",
+              "reading": "きょうめい"
+            },
+            {
+              "text": "している"
+            },
+            {
+              "text": "胸",
+              "reading": "むね"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "空洞",
+              "reading": "くうらん"
+            },
+            {
+              "text": "に ほら"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 55.44375,
+      "end": 60.06912,
+      "japanese": "刺さる不敵なメロディ",
+      "zh-CN": "刺入无畏不羁的旋律",
+      "segments": [
+        {
+          "text": "刺さる不敵なメロディ",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "刺",
+              "reading": "さ"
+            },
+            {
+              "text": "さる"
+            },
+            {
+              "text": "不敵",
+              "reading": "ふてき"
+            },
+            {
+              "text": "なメロディ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 62.55725,
+      "end": 68.57225,
+      "japanese": "これは 見せかけなんかじゃない",
+      "zh-CN": "这可绝非虚有其表的伪装",
+      "segments": [
+        {
+          "text": "これは 見せかけなんかじゃない",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "これは "
+            },
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "せかけなんかじゃない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 62.55725,
+      "end": 68.57225,
+      "japanese": "強気なファンデーション",
+      "zh-CN": "强势干练的粉底粉饼",
+      "segments": [
+        {
+          "text": "強気なファンデーション",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "強気",
+              "reading": "つよき"
+            },
+            {
+              "text": "なファンデーション"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 68.57225,
+      "end": 74.22625,
+      "japanese": "ほら ネクストフェース ひらりと",
+      "zh-CN": "瞧 翩然展现崭新的面貌",
+      "segments": [
+        {
+          "text": "ほら ネクストフェース ひらりと",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "ほら ネクストフェース ひらりと"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 68.57225,
+      "end": 74.22625,
+      "japanese": "変幻自在さ",
+      "zh-CN": "变幻自如游刃有余",
+      "segments": [
+        {
+          "text": "変幻自在さ",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "変幻自在",
+              "reading": "へんげんじざい"
+            },
+            {
+              "text": "さ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 74.22625,
+      "end": 81.92325,
+      "japanese": "迷わない心が イロトリドリの世界を泳ぐ",
+      "zh-CN": "毫不犹豫的心灵 畅游在五彩缤纷的世界",
+      "segments": [
+        {
+          "text": "迷わない心が イロトリドリの世界を泳ぐ",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "迷",
+              "reading": "まよ"
+            },
+            {
+              "text": "わない"
+            },
+            {
+              "text": "心",
+              "reading": "こころ"
+            },
+            {
+              "text": "が イロトリドリの"
+            },
+            {
+              "text": "世界",
+              "reading": "せかい"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "泳",
+              "reading": "およ"
+            },
+            {
+              "text": "ぐ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 81.92325,
+      "end": 84.35825,
+      "japanese": "武器になる",
+      "zh-CN": "化作前行的武器",
+      "segments": [
+        {
+          "text": "武器になる",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "武器",
+              "reading": "ぶき"
+            },
+            {
+              "text": "になる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 84.44425,
+      "end": 88.80225,
+      "japanese": "結末はいらないから",
+      "zh-CN": "因为根本不需要所谓的结局",
+      "segments": [
+        {
+          "text": "結末はいらないから",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "結末",
+              "reading": "けつまつ"
+            },
+            {
+              "text": "はいらないから"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 88.80225,
+      "end": 94.27725,
+      "japanese": "矛盾を抱えヒラリと飛んでみたいんだ",
+      "zh-CN": "好想怀抱着内心的矛盾翩然轻盈跃起",
+      "segments": [
+        {
+          "text": "矛盾を抱えヒラリと飛んでみたいんだ",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "矛盾",
+              "reading": "むじゅん"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "抱",
+              "reading": "かか"
+            },
+            {
+              "text": "えヒラリと"
+            },
+            {
+              "text": "飛",
+              "reading": "と"
+            },
+            {
+              "text": "んでみたいんだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 94.27725,
+      "end": 105.48525,
+      "japanese": "燻った心の闇を散らす一閃の火花が",
+      "zh-CN": "击碎心中郁结阴暗的一线闪耀火花",
+      "segments": [
+        {
+          "text": "燻った心の闇を散らす一閃の火花が",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "燻",
+              "reading": "くすぶ"
+            },
+            {
+              "text": "った"
+            },
+            {
+              "text": "心",
+              "reading": "こころ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "闇",
+              "reading": "やみ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "散",
+              "reading": "ち"
+            },
+            {
+              "text": "らす"
+            },
+            {
+              "text": "一閃",
+              "reading": "いっせん"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "火花",
+              "reading": "ひばな"
+            },
+            {
+              "text": "が"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 94.27725,
+      "end": 105.48525,
+      "japanese": "イメージが希望となり",
+      "zh-CN": "意象化作无尽希望",
+      "segments": [
+        {
+          "text": "イメージが希望となり",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "イメージが"
+            },
+            {
+              "text": "希望",
+              "reading": "きぼう"
+            },
+            {
+              "text": "となり"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 105.48525,
+      "end": 121.85712,
+      "japanese": "線でつなぐ過去と未来を",
+      "zh-CN": "用线条将过去与未来紧密相连",
+      "segments": [
+        {
+          "text": "線でつなぐ過去と未来を",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "線",
+              "reading": "せん"
+            },
+            {
+              "text": "でつなぐ"
+            },
+            {
+              "text": "過去",
+              "reading": "かこ"
+            },
+            {
+              "text": "と"
+            },
+            {
+              "text": "未来",
+              "reading": "みらい"
+            },
+            {
+              "text": "を"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

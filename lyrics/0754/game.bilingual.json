@@ -1,0 +1,531 @@
+{
+  "music_id": 754,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-17",
+      "name": "宵崎奏"
+    },
+    {
+      "performerId": "歌唱者-18",
+      "name": "朝比奈まふゆ"
+    },
+    {
+      "performerId": "歌唱者-19",
+      "name": "東雲絵名"
+    },
+    {
+      "performerId": "歌唱者-20",
+      "name": "暁山瑞希"
+    },
+    {
+      "performerId": "歌唱者-25",
+      "name": "MEIKO"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 20.81,
+      "end": 28.88,
+      "japanese": "この涙が渇くまで",
+      "zh-CN": "在这泪水风干之前",
+      "segments": [
+        {
+          "text": "この涙が渇くまで",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "この"
+            },
+            {
+              "text": "涙",
+              "reading": "なみだ"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "渇",
+              "reading": "かわ"
+            },
+            {
+              "text": "くまで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 31.71725,
+      "end": 42.69425,
+      "japanese": "無理に笑う必要はないよ",
+      "zh-CN": "根本没必要勉强去欢笑",
+      "segments": [
+        {
+          "text": "無理に笑う必要はないよ",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "無理",
+              "reading": "むり"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "笑",
+              "reading": "わら"
+            },
+            {
+              "text": "う"
+            },
+            {
+              "text": "必要",
+              "reading": "ひつよう"
+            },
+            {
+              "text": "はないよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 42.91,
+      "end": 48.455,
+      "japanese": "追い続けた夢の途中",
+      "zh-CN": "在执着追寻梦想的途中",
+      "segments": [
+        {
+          "text": "追い続けた夢の途中",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "追",
+              "reading": "お"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "続",
+              "reading": "つづ"
+            },
+            {
+              "text": "けた"
+            },
+            {
+              "text": "夢",
+              "reading": "ゆめ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "途中",
+              "reading": "とちゅう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 48.427,
+      "end": 54.073,
+      "japanese": "時間だけが迫っていく",
+      "zh-CN": "唯有时间在分秒紧逼",
+      "segments": [
+        {
+          "text": "時間だけが迫っていく",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "時間",
+              "reading": "じかん"
+            },
+            {
+              "text": "だけが"
+            },
+            {
+              "text": "迫",
+              "reading": "せま"
+            },
+            {
+              "text": "っていく"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 54.068,
+      "end": 59.935,
+      "japanese": "君の声を聞くことも",
+      "zh-CN": "能听见你声音的时刻",
+      "segments": [
+        {
+          "text": "君の声を聞くことも",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "声",
+              "reading": "こえ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "聞",
+              "reading": "き"
+            },
+            {
+              "text": "くことも"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 59.921,
+      "end": 64.827,
+      "japanese": "少なくなるのかな",
+      "zh-CN": "是否也会越来越少呢",
+      "segments": [
+        {
+          "text": "少なくなるのかな",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "少",
+              "reading": "すく"
+            },
+            {
+              "text": "なくなるのかな"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 64.827,
+      "end": 69.393,
+      "japanese": "今この瞬間を",
+      "zh-CN": "将此刻这瞬间",
+      "segments": [
+        {
+          "text": "今",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "今",
+              "reading": "いま"
+            }
+          ]
+        },
+        {
+          "text": "この瞬間を",
+          "performerIds": [
+            "歌唱者-19",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "この"
+            },
+            {
+              "text": "瞬間",
+              "reading": "しゅんかん"
+            },
+            {
+              "text": "を"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 69.382,
+      "end": 76.009,
+      "japanese": "大切に今日も生きている",
+      "zh-CN": "珍重以待今天也努力生活着",
+      "segments": [
+        {
+          "text": "大切に今日も生きている",
+          "performerIds": [
+            "歌唱者-19",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "大切",
+              "reading": "たいせつ"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "今日",
+              "reading": "きょう"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "生",
+              "reading": "い"
+            },
+            {
+              "text": "きている"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 76.009,
+      "end": 78.572,
+      "japanese": "不器用だから",
+      "zh-CN": "正因笨拙",
+      "segments": [
+        {
+          "text": "不器用だから",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "不器用",
+              "reading": "ぶきよう"
+            },
+            {
+              "text": "だから"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 80.201,
+      "end": 87.53,
+      "japanese": "全てが煌めいていた",
+      "zh-CN": "眼前的一切都曾闪烁璀璨",
+      "segments": [
+        {
+          "text": "全てが煌めいていた",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "全",
+              "reading": "すべ"
+            },
+            {
+              "text": "てが"
+            },
+            {
+              "text": "煌",
+              "reading": "きら"
+            },
+            {
+              "text": "めいていた"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 87.53,
+      "end": 91.014,
+      "japanese": "君と居られたら",
+      "zh-CN": "只要能与你相伴",
+      "segments": [
+        {
+          "text": "君と居られたら",
+          "performerIds": [
+            "歌唱者-20",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "と"
+            },
+            {
+              "text": "居",
+              "reading": "い"
+            },
+            {
+              "text": "られたら"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 90.74,
+      "end": 95.78,
+      "japanese": "それだけで幸せなんだ",
+      "zh-CN": "仅此而已便已是莫大的幸福",
+      "segments": [
+        {
+          "text": "それだけで幸せなんだ",
+          "performerIds": [
+            "歌唱者-20",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "それだけで"
+            },
+            {
+              "text": "幸",
+              "reading": "しあわ"
+            },
+            {
+              "text": "せなんだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 96.30225,
+      "end": 103.88662,
+      "japanese": "星空は今日も照らし続ける",
+      "zh-CN": "星空在今天也继续普照大地",
+      "segments": [
+        {
+          "text": "星空は今日も照らし続ける",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "星空",
+              "reading": "ほしぞら"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "今日",
+              "reading": "きょう"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "照",
+              "reading": "て"
+            },
+            {
+              "text": "らし"
+            },
+            {
+              "text": "続",
+              "reading": "つづ"
+            },
+            {
+              "text": "ける"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

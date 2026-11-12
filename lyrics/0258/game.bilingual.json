@@ -1,0 +1,1194 @@
+{
+  "music_id": 258,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-05",
+      "name": "花里みのり"
+    },
+    {
+      "performerId": "歌唱者-06",
+      "name": "桐谷遥"
+    },
+    {
+      "performerId": "歌唱者-07",
+      "name": "桃井愛莉"
+    },
+    {
+      "performerId": "歌唱者-08",
+      "name": "日野森雫"
+    },
+    {
+      "performerId": "歌唱者-21",
+      "name": "初音ミク"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 9.035773,
+      "end": 12.782351,
+      "japanese": "悲しみの海に沈んだ私",
+      "zh-CN": "沉入悲伤海洋之中的我",
+      "segments": [
+        {
+          "text": "悲しみの海に沈んだ私",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "悲",
+              "reading": "かな"
+            },
+            {
+              "text": "しみの"
+            },
+            {
+              "text": "海",
+              "reading": "うみ"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "沈",
+              "reading": "しず"
+            },
+            {
+              "text": "んだ"
+            },
+            {
+              "text": "私",
+              "reading": "わたし"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 12.782351,
+      "end": 15.976843,
+      "japanese": "目を開けるのも億劫",
+      "zh-CN": "连睁开双眼都觉得沉重疲惫",
+      "segments": [
+        {
+          "text": "目を開けるのも億劫",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "目",
+              "reading": "め"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "開",
+              "reading": "あ"
+            },
+            {
+              "text": "けるのも"
+            },
+            {
+              "text": "億劫",
+              "reading": "おっくう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 15.976843,
+      "end": 19.669413,
+      "japanese": "このままどこまでも堕ちて行き",
+      "zh-CN": "就这样无休止地向着深处坠落",
+      "segments": [
+        {
+          "text": "このままどこまでも堕ちて行き",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "このままどこまでも"
+            },
+            {
+              "text": "堕",
+              "reading": "お"
+            },
+            {
+              "text": "ちて"
+            },
+            {
+              "text": "行",
+              "reading": "ゆ"
+            },
+            {
+              "text": "き"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 19.669413,
+      "end": 23.177954,
+      "japanese": "誰にも見つけられないのかな",
+      "zh-CN": "想必再也不会被任何人所发现了吧",
+      "segments": [
+        {
+          "text": "誰にも見つけられないのかな",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "誰",
+              "reading": "だれ"
+            },
+            {
+              "text": "にも"
+            },
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "つけられないのかな"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 23.337979,
+      "end": 26.731502,
+      "japanese": "どこへ向かい、何をすれば？",
+      "zh-CN": "究竟该去向何方，该做些什么？",
+      "segments": [
+        {
+          "text": "どこへ向かい、何をすれば？",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "どこへ"
+            },
+            {
+              "text": "向",
+              "reading": "む"
+            },
+            {
+              "text": "かい、"
+            },
+            {
+              "text": "何",
+              "reading": "なに"
+            },
+            {
+              "text": "をすれば？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 26.731502,
+      "end": 30.061015,
+      "japanese": "ふと射し込む一筋の光",
+      "zh-CN": "忽然照射射入了一缕光芒",
+      "segments": [
+        {
+          "text": "ふと射し込む一筋の光",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ふと"
+            },
+            {
+              "text": "射",
+              "reading": "さ"
+            },
+            {
+              "text": "し"
+            },
+            {
+              "text": "込",
+              "reading": "こ"
+            },
+            {
+              "text": "む"
+            },
+            {
+              "text": "一筋",
+              "reading": "ひとすじ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "光",
+              "reading": "ひかり"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 30.061015,
+      "end": 33.717579,
+      "japanese": "手を伸ばせば届きそうだけど",
+      "zh-CN": "伸出双手仿佛触手可及",
+      "segments": [
+        {
+          "text": "手を伸ばせば届きそうだけど",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "手",
+              "reading": "て"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "伸",
+              "reading": "の"
+            },
+            {
+              "text": "ばせば"
+            },
+            {
+              "text": "届",
+              "reading": "とど"
+            },
+            {
+              "text": "きそうだけど"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 33.717579,
+      "end": 37.186114,
+      "japanese": "波に拐われて見失った",
+      "zh-CN": "却被浪潮卷走迷失了方向",
+      "segments": [
+        {
+          "text": "波に拐われて見失った",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "波",
+              "reading": "なみ"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "拐",
+              "reading": "さら"
+            },
+            {
+              "text": "われて"
+            },
+            {
+              "text": "見失",
+              "reading": "みうしな"
+            },
+            {
+              "text": "った"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 37.186114,
+      "end": 40.747664,
+      "japanese": "あれは一体なんだったのかな",
+      "zh-CN": "那个究竟到底是什么呢",
+      "segments": [
+        {
+          "text": "あれは一体なんだったのかな",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "あれは"
+            },
+            {
+              "text": "一体",
+              "reading": "いったい"
+            },
+            {
+              "text": "なんだったのかな"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 40.747664,
+      "end": 44.2252,
+      "japanese": "あたたかくて眩しかったの",
+      "zh-CN": "感觉那般温暖而耀眼夺目",
+      "segments": [
+        {
+          "text": "あたたかくて眩しかったの",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "あたたかくて"
+            },
+            {
+              "text": "眩",
+              "reading": "まぶ"
+            },
+            {
+              "text": "しかったの"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 44.2252,
+      "end": 47.548713,
+      "japanese": "無意識のカウンターイルミネーション",
+      "zh-CN": "无意识的逆光照明",
+      "segments": [
+        {
+          "text": "無意識のカウンターイルミネーション",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "無意識",
+              "reading": "むいしき"
+            },
+            {
+              "text": "のカウンターイルミネーション"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 47.787749,
+      "end": 50.962239,
+      "japanese": "嘘つきは誰？",
+      "zh-CN": "说谎的人到底是谁？",
+      "segments": [
+        {
+          "text": "嘘つきは誰？",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "嘘",
+              "reading": "うそ"
+            },
+            {
+              "text": "つきは"
+            },
+            {
+              "text": "誰",
+              "reading": "だれ"
+            },
+            {
+              "text": "？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 50.962239,
+      "end": 54.514787,
+      "japanese": "深海少女　まだまだ沈む",
+      "zh-CN": "深海少女　依然在不断沉沦",
+      "segments": [
+        {
+          "text": "深海少女　まだまだ沈む",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-07",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "深海少女",
+              "reading": "しんかいしょうじょ"
+            },
+            {
+              "text": "　まだまだ"
+            },
+            {
+              "text": "沈",
+              "reading": "しず"
+            },
+            {
+              "text": "む"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 54.514787,
+      "end": 58.067335,
+      "japanese": "暗闇の彼方へ閉じこもる",
+      "zh-CN": "闭门自封在黑暗的彼方",
+      "segments": [
+        {
+          "text": "暗闇の彼方へ閉じこもる",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "暗闇",
+              "reading": "くらやみ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "彼方",
+              "reading": "かなた"
+            },
+            {
+              "text": "へ"
+            },
+            {
+              "text": "閉",
+              "reading": "と"
+            },
+            {
+              "text": "じこもる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 58.067335,
+      "end": 61.53887,
+      "japanese": "深海少女　だけど知りたい",
+      "zh-CN": "深海少女　却好想知晓明白",
+      "segments": [
+        {
+          "text": "深海少女　だけど知りたい",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "深海少女",
+              "reading": "しんかいしょうじょ"
+            },
+            {
+              "text": "　だけど"
+            },
+            {
+              "text": "知",
+              "reading": "し"
+            },
+            {
+              "text": "りたい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 61.53887,
+      "end": 69.260061,
+      "japanese": "心惹かれるあの人を見つけたから",
+      "zh-CN": "因为终于找到了令我心动的那个人",
+      "segments": [
+        {
+          "text": "心惹かれるあの人を見つけたから",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "心惹",
+              "reading": "こころひ"
+            },
+            {
+              "text": "かれるあの"
+            },
+            {
+              "text": "人",
+              "reading": "ひと"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "つけたから"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 76.126428,
+      "end": 81.344232,
+      "japanese": "声にならない気持ちが溢れてとけた",
+      "zh-CN": "无法化作言语的心绪满溢消融",
+      "segments": [
+        {
+          "text": "声にならない気持ちが溢れてとけた",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "声",
+              "reading": "こえ"
+            },
+            {
+              "text": "にならない"
+            },
+            {
+              "text": "気持",
+              "reading": "きも"
+            },
+            {
+              "text": "ちが"
+            },
+            {
+              "text": "溢",
+              "reading": "あふ"
+            },
+            {
+              "text": "れてとけた"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 82.829462,
+      "end": 90.305615,
+      "japanese": "次の瞬間、君が突然姿を消した",
+      "zh-CN": "下一个瞬间，你却突然消失不见了",
+      "segments": [
+        {
+          "text": "次の瞬間、君が突然姿を消した",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "次",
+              "reading": "つぎ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "瞬間",
+              "reading": "しゅんかん"
+            },
+            {
+              "text": "、"
+            },
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "突然姿",
+              "reading": "とつぜんすがた"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "消",
+              "reading": "け"
+            },
+            {
+              "text": "した"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 91.361777,
+      "end": 94.890322,
+      "japanese": "心配性の　彼女は焦る",
+      "zh-CN": "容易担忧多虑的 她心急如焚",
+      "segments": [
+        {
+          "text": "心配性の　彼女は焦る",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "心配性",
+              "reading": "しんぱいしょう"
+            },
+            {
+              "text": "の　"
+            },
+            {
+              "text": "彼女",
+              "reading": "かのじょ"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "焦",
+              "reading": "あせ"
+            },
+            {
+              "text": "る"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 94.890322,
+      "end": 98.346855,
+      "japanese": "闇が彼を隠しひとりきり",
+      "zh-CN": "黑暗将他彻底隐藏只剩形单影只",
+      "segments": [
+        {
+          "text": "闇が彼を隠しひとりきり",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "闇",
+              "reading": "やみ"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "彼",
+              "reading": "かれ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "隠",
+              "reading": "かく"
+            },
+            {
+              "text": "しひとりきり"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 98.346855,
+      "end": 101.779384,
+      "japanese": "限界少女　その手を伸ばす",
+      "zh-CN": "极限少女　奋力伸展出双手",
+      "segments": [
+        {
+          "text": "限界少女　その手を伸ばす",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "限界少女",
+              "reading": "げんかいしょうじょ"
+            },
+            {
+              "text": "　その"
+            },
+            {
+              "text": "手",
+              "reading": "て"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "伸",
+              "reading": "の"
+            },
+            {
+              "text": "ばす"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 101.779384,
+      "end": 108.880479,
+      "japanese": "「ほらね、君も素敵な色を隠してた」",
+      "zh-CN": "「瞧吧，你不也藏着如此美丽的色彩嘛」",
+      "segments": [
+        {
+          "text": "「ほらね、君も素敵な色を隠してた」",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "「ほらね、"
+            },
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "素敵",
+              "reading": "すてき"
+            },
+            {
+              "text": "な"
+            },
+            {
+              "text": "色",
+              "reading": "いろ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "隠",
+              "reading": "かく"
+            },
+            {
+              "text": "してた」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000023",
+      "order": 22,
+      "index": 22,
+      "start": 108.880479,
+      "end": 112.313009,
+      "japanese": "深海少女　腕を引かれる",
+      "zh-CN": "深海少女　被牵起了手臂",
+      "segments": [
+        {
+          "text": "深海少女　腕を引かれる",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "深海",
+              "reading": "ふかうみ"
+            },
+            {
+              "text": "少女",
+              "reading": "しょうじょ"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "腕",
+              "reading": "うで"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "引",
+              "reading": "ひ"
+            },
+            {
+              "text": "かれる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000024",
+      "order": 23,
+      "index": 23,
+      "start": 112.313009,
+      "end": 115.854555,
+      "japanese": "歌う祝福のマリンスノー",
+      "zh-CN": "歌唱着献上祝福的深海之雪",
+      "segments": [
+        {
+          "text": "歌う祝福の",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "歌",
+              "reading": "うた"
+            },
+            {
+              "text": "う"
+            },
+            {
+              "text": "祝福",
+              "reading": "しゅくふく"
+            },
+            {
+              "text": "の"
+            }
+          ]
+        },
+        {
+          "text": "マリンスノー",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "マリンスノー"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000025",
+      "order": 24,
+      "index": 24,
+      "start": 115.854555,
+      "end": 119.335092,
+      "japanese": "深海少女　もっと知りたい",
+      "zh-CN": "深海少女　想要知晓得更多更多",
+      "segments": [
+        {
+          "text": "深海少女　もっと知りたい",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "深海少女",
+              "reading": "しんかいしょうじょ"
+            },
+            {
+              "text": "　もっと"
+            },
+            {
+              "text": "知",
+              "reading": "し"
+            },
+            {
+              "text": "りたい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000026",
+      "order": 25,
+      "index": 25,
+      "start": 119.335092,
+      "end": 126.928263,
+      "japanese": "心惹かれるあの人を見つけたから",
+      "zh-CN": "因为终于找到了令我心动的那个人",
+      "segments": [
+        {
+          "text": "心惹かれる",
+          "performerIds": [
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "心惹",
+              "reading": "こころひ"
+            },
+            {
+              "text": "かれる"
+            }
+          ]
+        },
+        {
+          "text": "あの人を見つけたから",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "あの"
+            },
+            {
+              "text": "人",
+              "reading": "ひと"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "つけたから"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000027",
+      "order": 26,
+      "index": 26,
+      "start": 133.309247,
+      "end": 144.151919,
+      "japanese": "この海を出て　今飛び立つの",
+      "zh-CN": "离开这片海洋　此刻便要展翅飞翔",
+      "segments": [
+        {
+          "text": "この海を出て　今飛び立つの",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "この"
+            },
+            {
+              "text": "海",
+              "reading": "うみ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "出",
+              "reading": "で"
+            },
+            {
+              "text": "て　"
+            },
+            {
+              "text": "今飛",
+              "reading": "いまと"
+            },
+            {
+              "text": "び"
+            },
+            {
+              "text": "立",
+              "reading": "た"
+            },
+            {
+              "text": "つの"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000028",
+      "order": 27,
+      "index": 27,
+      "start": 144.78,
+      "end": 148.16,
+      "japanese": "ああ",
+      "zh-CN": "啊啊",
+      "segments": [
+        {
+          "text": "ああ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ああ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

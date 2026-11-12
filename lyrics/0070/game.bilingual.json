@@ -1,0 +1,1050 @@
+{
+  "music_id": 70,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-05",
+      "name": "花里みのり"
+    },
+    {
+      "performerId": "歌唱者-06",
+      "name": "桐谷遥"
+    },
+    {
+      "performerId": "歌唱者-07",
+      "name": "桃井愛莉"
+    },
+    {
+      "performerId": "歌唱者-08",
+      "name": "日野森雫"
+    },
+    {
+      "performerId": "歌唱者-21",
+      "name": "初音ミク"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 25.99,
+      "end": 29.45,
+      "japanese": "案外そんなフューチャー",
+      "zh-CN": "出人意料的未来",
+      "segments": [
+        {
+          "text": "案外そんなフューチャー",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "案外",
+              "reading": "あんがい"
+            },
+            {
+              "text": "そんなフューチャー"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 29.45,
+      "end": 32.96,
+      "japanese": "先天的なフューチャー",
+      "zh-CN": "先天注定的未来",
+      "segments": [
+        {
+          "text": "先天的なフューチャー",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "先天的",
+              "reading": "せんてんてき"
+            },
+            {
+              "text": "なフューチャー"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 32.96,
+      "end": 39.37,
+      "japanese": "案外そんなフューチャーだよ",
+      "zh-CN": "所谓未来其实也不过如此啊",
+      "segments": [
+        {
+          "text": "案外そんなフューチャーだよ",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "案外",
+              "reading": "あんがい"
+            },
+            {
+              "text": "そんなフューチャーだよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 39.805694,
+      "end": 43.093677,
+      "japanese": "わんつーさんはい、いちにさん",
+      "zh-CN": "一 二 预备 起 一二三",
+      "segments": [
+        {
+          "text": "わんつーさんはい、いちにさん",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "わんつーさんはい、いちにさん"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 43.093677,
+      "end": 45.653442,
+      "japanese": "そろそろ起きたらどう",
+      "zh-CN": "差不多该醒醒了吧",
+      "segments": [
+        {
+          "text": "そろそろ起きたらどう",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "そろそろ"
+            },
+            {
+              "text": "起",
+              "reading": "お"
+            },
+            {
+              "text": "きたらどう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 46.533705,
+      "end": 49.518598,
+      "japanese": "驚く顔なら知ってるよ",
+      "zh-CN": "你吃惊的表情我早就知道了哦",
+      "segments": [
+        {
+          "text": "驚く顔なら知ってるよ",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "驚",
+              "reading": "おどろ"
+            },
+            {
+              "text": "く"
+            },
+            {
+              "text": "顔",
+              "reading": "かお"
+            },
+            {
+              "text": "なら"
+            },
+            {
+              "text": "知",
+              "reading": "し"
+            },
+            {
+              "text": "ってるよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 49.918718,
+      "end": 53.023646,
+      "japanese": "いっつもそういう顔をする",
+      "zh-CN": "你总是露出那种表情",
+      "segments": [
+        {
+          "text": "いっつもそういう顔をする",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "いっつもそういう"
+            },
+            {
+              "text": "顔",
+              "reading": "かお"
+            },
+            {
+              "text": "をする"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 53.614823,
+      "end": 56.392653,
+      "japanese": "Welcome to the メルティランド",
+      "zh-CN": "Welcome to the 融化乐园",
+      "segments": [
+        {
+          "text": "Welcome to the メルティランド",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "Welcome to the メルティランド"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 56.392653,
+      "end": 59.947716,
+      "japanese": "ここはひとりもふたりも無い場所",
+      "zh-CN": "这里既没有一个人 也没有两个人",
+      "segments": [
+        {
+          "text": "ここはひとりもふたりも無い場所",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "ここはひとりもふたりも"
+            },
+            {
+              "text": "無",
+              "reading": "な"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "場所",
+              "reading": "ばしょ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 60.258809,
+      "end": 63.324726,
+      "japanese": "Welcome to the メルティランド",
+      "zh-CN": "Welcome to the 融化乐园",
+      "segments": [
+        {
+          "text": "Welcome to the メルティランド",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "Welcome to the メルティランド"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 63.324726,
+      "end": 66.861783,
+      "japanese": "美しい夢だけが遺る場所",
+      "zh-CN": "只有绝美的梦境残留于此",
+      "segments": [
+        {
+          "text": "美しい夢だけが遺る場所",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "美",
+              "reading": "うつく"
+            },
+            {
+              "text": "しい"
+            },
+            {
+              "text": "夢",
+              "reading": "ゆめ"
+            },
+            {
+              "text": "だけが"
+            },
+            {
+              "text": "遺",
+              "reading": "のこ"
+            },
+            {
+              "text": "る"
+            },
+            {
+              "text": "場所",
+              "reading": "ばしょ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 67.060843,
+      "end": 69.839674,
+      "japanese": "貴方はドアを開けたの",
+      "zh-CN": "你推开了那扇门",
+      "segments": [
+        {
+          "text": "貴方はドアを開けたの",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "貴方",
+              "reading": "あなた"
+            },
+            {
+              "text": "はドアを"
+            },
+            {
+              "text": "開",
+              "reading": "あ"
+            },
+            {
+              "text": "けたの"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 70.014726,
+      "end": 73.597798,
+      "japanese": "僕の世界のドアを選んだの",
+      "zh-CN": "选择了通往我世界的门扉",
+      "segments": [
+        {
+          "text": "僕の世界のドアを選んだの",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "世界",
+              "reading": "せかい"
+            },
+            {
+              "text": "のドアを"
+            },
+            {
+              "text": "選",
+              "reading": "えら"
+            },
+            {
+              "text": "んだの"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 73.967908,
+      "end": 77.198874,
+      "japanese": "十年前から待っていたわ",
+      "zh-CN": "我早在十年前就一直等待着你",
+      "segments": [
+        {
+          "text": "十年前から待っていたわ",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "十年前",
+              "reading": "じゅうねんまえ"
+            },
+            {
+              "text": "から"
+            },
+            {
+              "text": "待",
+              "reading": "ま"
+            },
+            {
+              "text": "っていたわ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 77.462953,
+      "end": 82.350415,
+      "japanese": "Welcome to the メルティランド",
+      "zh-CN": "Welcome to the 融化乐园",
+      "segments": [
+        {
+          "text": "Welcome to the メルティランド",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "Welcome to the メルティランド"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 82.865569,
+      "end": 84.451043,
+      "japanese": "疑ってしまうような",
+      "zh-CN": "令人忍不住心生怀疑",
+      "segments": [
+        {
+          "text": "疑ってしまうような",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "疑",
+              "reading": "うたが"
+            },
+            {
+              "text": "ってしまうような"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 84.451043,
+      "end": 86.211569,
+      "japanese": "不可侵のスターリーナイト",
+      "zh-CN": "神圣不可侵犯的繁星之夜",
+      "segments": [
+        {
+          "text": "不可侵のスターリーナイト",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "不可侵",
+              "reading": "ふかしん"
+            },
+            {
+              "text": "のスターリーナイト"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 86.211569,
+      "end": 87.879068,
+      "japanese": "ずっと前の空想が",
+      "zh-CN": "很久以前的空想",
+      "segments": [
+        {
+          "text": "ずっと前の空想が",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "ずっと"
+            },
+            {
+              "text": "前",
+              "reading": "まえ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "空想",
+              "reading": "くうそう"
+            },
+            {
+              "text": "が"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 87.879068,
+      "end": 89.569573,
+      "japanese": "今日の君の白昼夢",
+      "zh-CN": "成了你今天的白日梦",
+      "segments": [
+        {
+          "text": "今日の君の白昼夢",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "今日",
+              "reading": "きょう"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "白昼夢",
+              "reading": "はくちゅうむ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 89.569573,
+      "end": 91.3321,
+      "japanese": "時間すら　止まったら",
+      "zh-CN": "若是连时间都静止停滞",
+      "segments": [
+        {
+          "text": "時間すら　止まったら",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "時間",
+              "reading": "じかん"
+            },
+            {
+              "text": "すら　"
+            },
+            {
+              "text": "止",
+              "reading": "と"
+            },
+            {
+              "text": "まったら"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 91.3321,
+      "end": 96.077519,
+      "japanese": "見え始める君のナイトメア",
+      "zh-CN": "便能逐渐看清你的恶梦",
+      "segments": [
+        {
+          "text": "見え始める君のナイトメア",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "え"
+            },
+            {
+              "text": "始",
+              "reading": "はじ"
+            },
+            {
+              "text": "める"
+            },
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "のナイトメア"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 96.48364,
+      "end": 98.18915,
+      "japanese": "正常なグッドモーニング",
+      "zh-CN": "稀松平常的早安问候",
+      "segments": [
+        {
+          "text": "正常なグッドモーニング",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "正常",
+              "reading": "せいじょう"
+            },
+            {
+              "text": "なグッドモーニング"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000023",
+      "order": 22,
+      "index": 22,
+      "start": 98.18915,
+      "end": 99.885658,
+      "japanese": "人生のハッピーエンディング",
+      "zh-CN": "人生圆满的美好结局",
+      "segments": [
+        {
+          "text": "人生のハッピーエンディング",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "人生",
+              "reading": "じんせい"
+            },
+            {
+              "text": "のハッピーエンディング"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000024",
+      "order": 23,
+      "index": 23,
+      "start": 99.885658,
+      "end": 103.117624,
+      "japanese": "僕達は何ひとつ叶わないのなら",
+      "zh-CN": "若是我们连任何一样都无法实现的话",
+      "segments": [
+        {
+          "text": "僕達は何ひとつ叶わないのなら",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "僕達",
+              "reading": "ぼくたち"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "何",
+              "reading": "なに"
+            },
+            {
+              "text": "ひとつ"
+            },
+            {
+              "text": "叶",
+              "reading": "かな"
+            },
+            {
+              "text": "わないのなら"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000025",
+      "order": 24,
+      "index": 24,
+      "start": 103.341691,
+      "end": 104.991184,
+      "japanese": "疑ってしまうような",
+      "zh-CN": "令人忍不住心生怀疑",
+      "segments": [
+        {
+          "text": "疑ってしまうような",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "疑",
+              "reading": "うたが"
+            },
+            {
+              "text": "ってしまうような"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000026",
+      "order": 25,
+      "index": 25,
+      "start": 104.991184,
+      "end": 106.791723,
+      "japanese": "不可侵のスターリーナイト",
+      "zh-CN": "神圣不可侵犯的繁星之夜",
+      "segments": [
+        {
+          "text": "不可侵のスターリーナイト",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "不可侵",
+              "reading": "ふかしん"
+            },
+            {
+              "text": "のスターリーナイト"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000027",
+      "order": 26,
+      "index": 26,
+      "start": 106.791723,
+      "end": 110.0617,
+      "japanese": "一瞬だけ忘れないでよね",
+      "zh-CN": "哪怕只是一瞬间也请千万别忘记啊",
+      "segments": [
+        {
+          "text": "一瞬だけ忘れないでよね",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "一瞬",
+              "reading": "いっしゅん"
+            },
+            {
+              "text": "だけ"
+            },
+            {
+              "text": "忘",
+              "reading": "わす"
+            },
+            {
+              "text": "れないでよね"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000028",
+      "order": 27,
+      "index": 27,
+      "start": 110.0617,
+      "end": 113.274661,
+      "japanese": "案外そんなフューチャー",
+      "zh-CN": "出人意料的未来",
+      "segments": [
+        {
+          "text": "案外そんなフューチャー",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "案外",
+              "reading": "あんがい"
+            },
+            {
+              "text": "そんなフューチャー"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000029",
+      "order": 28,
+      "index": 28,
+      "start": 113.497728,
+      "end": 116.625663,
+      "japanese": "先天的なフューチャー",
+      "zh-CN": "先天注定的未来",
+      "segments": [
+        {
+          "text": "先天的なフューチャー",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "先天的",
+              "reading": "せんてんてき"
+            },
+            {
+              "text": "なフューチャー"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000030",
+      "order": 29,
+      "index": 29,
+      "start": 116.841727,
+      "end": 122.339371,
+      "japanese": "案外そんなフューチャーだよ",
+      "zh-CN": "所谓未来其实也不过如此啊",
+      "segments": [
+        {
+          "text": "案外そんなフューチャーだよ",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "案外",
+              "reading": "あんがい"
+            },
+            {
+              "text": "そんなフューチャーだよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

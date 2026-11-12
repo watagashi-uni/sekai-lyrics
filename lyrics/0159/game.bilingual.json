@@ -1,0 +1,883 @@
+{
+  "music_id": 159,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-01",
+      "name": "星乃一歌"
+    },
+    {
+      "performerId": "歌唱者-02",
+      "name": "天馬咲希"
+    },
+    {
+      "performerId": "歌唱者-03",
+      "name": "望月穂波"
+    },
+    {
+      "performerId": "歌唱者-04",
+      "name": "日野森志歩"
+    },
+    {
+      "performerId": "歌唱者-23",
+      "name": "鏡音レン"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 9.63,
+      "end": 13.93,
+      "japanese": "君が輝ける場所はここだよ",
+      "zh-CN": "能让你绽放光芒的舞台就在这里啊",
+      "segments": [
+        {
+          "text": "君が輝ける場所はここだよ",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "輝",
+              "reading": "かがや"
+            },
+            {
+              "text": "ける"
+            },
+            {
+              "text": "場所",
+              "reading": "ばしょ"
+            },
+            {
+              "text": "はここだよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 13.990494,
+      "end": 16.989262,
+      "japanese": "未来の自分を　忘れないで",
+      "zh-CN": "不要遗忘了　未来的自己",
+      "segments": [
+        {
+          "text": "未来の自分を　忘れないで",
+          "performerIds": [
+            "歌唱者-03"
+          ],
+          "ruby": [
+            {
+              "text": "未来",
+              "reading": "みらい"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "自分",
+              "reading": "じぶん"
+            },
+            {
+              "text": "を　"
+            },
+            {
+              "text": "忘",
+              "reading": "わす"
+            },
+            {
+              "text": "れないで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 16.989262,
+      "end": 21.281363,
+      "japanese": "きっと出来るから",
+      "zh-CN": "一定能够做得到的",
+      "segments": [
+        {
+          "text": "きっと出来るから",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-03"
+          ],
+          "ruby": [
+            {
+              "text": "きっと"
+            },
+            {
+              "text": "出来",
+              "reading": "でき"
+            },
+            {
+              "text": "るから"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 33.577514,
+      "end": 37.854611,
+      "japanese": "泣き虫が泣かなくなった帰り道",
+      "zh-CN": "爱哭鬼不再哭泣的归途",
+      "segments": [
+        {
+          "text": "泣き虫が泣かなくなった帰り道",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "泣",
+              "reading": "な"
+            },
+            {
+              "text": "き"
+            },
+            {
+              "text": "虫",
+              "reading": "むし"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "泣",
+              "reading": "な"
+            },
+            {
+              "text": "かなくなった"
+            },
+            {
+              "text": "帰",
+              "reading": "かえ"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "道",
+              "reading": "みち"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 37.953636,
+      "end": 42.874897,
+      "japanese": "誰から見ても君は強くなってひとりぼっち",
+      "zh-CN": "在任何人看来你都变得坚强却也成了形单影只",
+      "segments": [
+        {
+          "text": "誰から見ても君は強くなってひとりぼっち",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "誰",
+              "reading": "だれ"
+            },
+            {
+              "text": "から"
+            },
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "ても"
+            },
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "強",
+              "reading": "つよ"
+            },
+            {
+              "text": "くなってひとりぼっち"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 43.616087,
+      "end": 47.967203,
+      "japanese": "そんなことばかりあったから腑に落ちて",
+      "zh-CN": "净是遇到这种事情后渐渐想通了",
+      "segments": [
+        {
+          "text": "そんなことばかりあったから腑に落ちて",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "そんなことばかりあったから"
+            },
+            {
+              "text": "腑",
+              "reading": "ふ"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "落",
+              "reading": "お"
+            },
+            {
+              "text": "ちて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 48.026218,
+      "end": 51.135015,
+      "japanese": "日に日につまらないことが増えて",
+      "zh-CN": "一天天地无聊琐事不断增多",
+      "segments": [
+        {
+          "text": "日に日につまらないことが増えて",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "日",
+              "reading": "ひ"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "日",
+              "reading": "ひ"
+            },
+            {
+              "text": "につまらないことが"
+            },
+            {
+              "text": "増",
+              "reading": "ふ"
+            },
+            {
+              "text": "えて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 51.135015,
+      "end": 52.877461,
+      "japanese": "たぶん　慣れちゃった",
+      "zh-CN": "大概　已经习以为常了吧",
+      "segments": [
+        {
+          "text": "たぶん　慣れちゃった",
+          "performerIds": [
+            "歌唱者-01"
+          ],
+          "ruby": [
+            {
+              "text": "たぶん　"
+            },
+            {
+              "text": "慣",
+              "reading": "な"
+            },
+            {
+              "text": "れちゃった"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 53.033501,
+      "end": 57.938758,
+      "japanese": "今の自分を歌にして歌えるほど強くないね",
+      "zh-CN": "还没有坚强到能把现在的自己化作歌声唱出来呢",
+      "segments": [
+        {
+          "text": "今の自分を歌にして歌えるほど強くないね",
+          "performerIds": [
+            "歌唱者-03",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "今",
+              "reading": "いま"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "自分",
+              "reading": "じぶん"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "歌",
+              "reading": "うた"
+            },
+            {
+              "text": "にして"
+            },
+            {
+              "text": "歌",
+              "reading": "うた"
+            },
+            {
+              "text": "えるほど"
+            },
+            {
+              "text": "強",
+              "reading": "つよ"
+            },
+            {
+              "text": "くないね"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 58.127807,
+      "end": 63.292131,
+      "japanese": "だけど それを知っている　声が歌うから",
+      "zh-CN": "但是　深知这一切的歌声　此刻正放声歌唱着",
+      "segments": [
+        {
+          "text": "だけど それを知っている　",
+          "performerIds": [
+            "歌唱者-03",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "だけど それを"
+            },
+            {
+              "text": "知",
+              "reading": "し"
+            },
+            {
+              "text": "っている　"
+            }
+          ]
+        },
+        {
+          "text": "声が歌うから",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-03",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "声",
+              "reading": "こえ"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "歌",
+              "reading": "うた"
+            },
+            {
+              "text": "うから"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 63.9,
+      "end": 68.144,
+      "japanese": "君が輝ける場所はここだよ",
+      "zh-CN": "能让你绽放光芒的舞台就在这里啊",
+      "segments": [
+        {
+          "text": "君が輝ける場所はここだよ",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "輝",
+              "reading": "かがや"
+            },
+            {
+              "text": "ける"
+            },
+            {
+              "text": "場所",
+              "reading": "ばしょ"
+            },
+            {
+              "text": "はここだよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 68.399947,
+      "end": 73.845342,
+      "japanese": "誰のために届けるんだリズムとメロディー",
+      "zh-CN": "究竟要为了谁去传达这节奏与旋律",
+      "segments": [
+        {
+          "text": "誰のために届けるんだリズムとメロディー",
+          "performerIds": [
+            "歌唱者-03",
+            "歌唱者-04",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "誰",
+              "reading": "だれ"
+            },
+            {
+              "text": "のために"
+            },
+            {
+              "text": "届",
+              "reading": "とど"
+            },
+            {
+              "text": "けるんだリズムとメロディー"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 74.424,
+      "end": 78.49,
+      "japanese": "一人の世界で生まれた歌は",
+      "zh-CN": "在一人的世界里诞生的歌曲",
+      "segments": [
+        {
+          "text": "一人の世界で生まれた歌は",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "一人",
+              "reading": "ひとり"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "世界",
+              "reading": "せかい"
+            },
+            {
+              "text": "で"
+            },
+            {
+              "text": "生",
+              "reading": "う"
+            },
+            {
+              "text": "まれた"
+            },
+            {
+              "text": "歌",
+              "reading": "うた"
+            },
+            {
+              "text": "は"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 78.49,
+      "end": 84.224,
+      "japanese": "ここにあるって　見つけてって　ずっと待っている",
+      "zh-CN": "喊着我就在这里　快来找到我吧　一直在静静等待",
+      "segments": [
+        {
+          "text": "ここにあるって　見つけてって　ずっと待っている",
+          "performerIds": [
+            "歌唱者-03",
+            "歌唱者-04",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "ここにあるって　"
+            },
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "つけてって　ずっと"
+            },
+            {
+              "text": "待",
+              "reading": "ま"
+            },
+            {
+              "text": "っている"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 87.982571,
+      "end": 92.161642,
+      "japanese": "君が輝ける場所はここだよ",
+      "zh-CN": "能让你绽放光芒的舞台就在这里啊",
+      "segments": [
+        {
+          "text": "君が輝ける場所はここだよ",
+          "performerIds": [
+            "歌唱者-02",
+            "歌唱者-04",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "輝",
+              "reading": "かがや"
+            },
+            {
+              "text": "ける"
+            },
+            {
+              "text": "場所",
+              "reading": "ばしょ"
+            },
+            {
+              "text": "はここだよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 92.322684,
+      "end": 97.876107,
+      "japanese": "未来の自分はここにいる　君という未来に",
+      "zh-CN": "未来的自己就在这里　身处名为你的未来之中",
+      "segments": [
+        {
+          "text": "未来の自分はここにいる　君という未来に",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-03",
+            "歌唱者-04"
+          ],
+          "ruby": [
+            {
+              "text": "未来",
+              "reading": "みらい"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "自分",
+              "reading": "じぶん"
+            },
+            {
+              "text": "はここにいる　"
+            },
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "という"
+            },
+            {
+              "text": "未来",
+              "reading": "みらい"
+            },
+            {
+              "text": "に"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 98.04315,
+      "end": 102.247227,
+      "japanese": "全力　全力で歌を届けよう",
+      "zh-CN": "全力以赴　竭尽全力将歌声传达出去吧",
+      "segments": [
+        {
+          "text": "全力　全力で歌を届けよう",
+          "performerIds": [
+            "歌唱者-02",
+            "歌唱者-04",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "全力",
+              "reading": "ぜんりょく"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "全力",
+              "reading": "ぜんりょく"
+            },
+            {
+              "text": "で"
+            },
+            {
+              "text": "歌",
+              "reading": "うた"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "届",
+              "reading": "とど"
+            },
+            {
+              "text": "けよう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 102.387263,
+      "end": 109.096983,
+      "japanese": "世界中にずっと　自分にずっと　歌を届けよう",
+      "zh-CN": "向着全世界　向着自己永远永远　将这首歌传达出去吧",
+      "segments": [
+        {
+          "text": "世界中にずっと　自分にずっと　歌を届けよう",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-02",
+            "歌唱者-03",
+            "歌唱者-04",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "世界中",
+              "reading": "せかいじゅう"
+            },
+            {
+              "text": "にずっと　"
+            },
+            {
+              "text": "自分",
+              "reading": "じぶん"
+            },
+            {
+              "text": "にずっと　"
+            },
+            {
+              "text": "歌",
+              "reading": "うた"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "届",
+              "reading": "とど"
+            },
+            {
+              "text": "けよう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 110.3333,
+      "end": 116.02976,
+      "japanese": "君に届けよう",
+      "zh-CN": "传达给你吧",
+      "segments": [
+        {
+          "text": "君に届けよう",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-03",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "届",
+              "reading": "とど"
+            },
+            {
+              "text": "けよう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    }
+  ]
+}

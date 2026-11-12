@@ -1,0 +1,1075 @@
+{
+  "music_id": 240,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-13",
+      "name": "天馬司"
+    },
+    {
+      "performerId": "歌唱者-14",
+      "name": "鳳えむ"
+    },
+    {
+      "performerId": "歌唱者-15",
+      "name": "草薙寧々"
+    },
+    {
+      "performerId": "歌唱者-16",
+      "name": "神代類"
+    },
+    {
+      "performerId": "歌唱者-24",
+      "name": "巡音ルカ"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 25.032,
+      "end": 27.674,
+      "japanese": "さぁさぁこの指に止まれ",
+      "zh-CN": "来吧来吧快停在我的指尖上",
+      "segments": [
+        {
+          "text": "さぁさぁこの指に止まれ",
+          "performerIds": [
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "さぁさぁこの"
+            },
+            {
+              "text": "指",
+              "reading": "ゆび"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "止",
+              "reading": "と"
+            },
+            {
+              "text": "まれ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 27.674,
+      "end": 31.016,
+      "japanese": "後悔、後でしても知らないぞ",
+      "zh-CN": "事后若是后悔我可概不负责哦",
+      "segments": [
+        {
+          "text": "後悔、後でしても知らないぞ",
+          "performerIds": [
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "後悔",
+              "reading": "こうかい"
+            },
+            {
+              "text": "、"
+            },
+            {
+              "text": "後",
+              "reading": "あと"
+            },
+            {
+              "text": "でしても"
+            },
+            {
+              "text": "知",
+              "reading": "し"
+            },
+            {
+              "text": "らないぞ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 31.34,
+      "end": 35.691,
+      "japanese": "音に呑まれて、歌って踊って満たすだけ",
+      "zh-CN": "彻底沉醉吞没在音乐中，尽情歌唱起舞填满心房就好",
+      "segments": [
+        {
+          "text": "音に呑まれて、歌って踊って満たすだけ",
+          "performerIds": [
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "音",
+              "reading": "おと"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "呑",
+              "reading": "の"
+            },
+            {
+              "text": "まれて、"
+            },
+            {
+              "text": "歌",
+              "reading": "うた"
+            },
+            {
+              "text": "って"
+            },
+            {
+              "text": "踊",
+              "reading": "おど"
+            },
+            {
+              "text": "って"
+            },
+            {
+              "text": "満",
+              "reading": "み"
+            },
+            {
+              "text": "たすだけ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 35.681,
+      "end": 38.306,
+      "japanese": "パンパン手を打ち鳴らして",
+      "zh-CN": "啪啪地拍响双掌",
+      "segments": [
+        {
+          "text": "パンパン手を打ち鳴らして",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "パンパン"
+            },
+            {
+              "text": "手",
+              "reading": "て"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "打",
+              "reading": "う"
+            },
+            {
+              "text": "ち"
+            },
+            {
+              "text": "鳴",
+              "reading": "な"
+            },
+            {
+              "text": "らして"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 38.306,
+      "end": 41.331,
+      "japanese": "ソソソラシドんな五線譜も",
+      "zh-CN": "唆唆唆拉西哆无论怎样的五线谱",
+      "segments": [
+        {
+          "text": "ソソソラシドんな五線譜も",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "ソソソラシドんな"
+            },
+            {
+              "text": "五線譜",
+              "reading": "ごせんふ"
+            },
+            {
+              "text": "も"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 41.7,
+      "end": 46.309,
+      "japanese": "音色を敷いて、今導き出すよ",
+      "zh-CN": "铺展上美妙音色，此刻便指引引导而出哦",
+      "segments": [
+        {
+          "text": "音色を敷いて、今導き出すよ",
+          "performerIds": [
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "音色",
+              "reading": "ねいろ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "敷",
+              "reading": "し"
+            },
+            {
+              "text": "いて、"
+            },
+            {
+              "text": "今導",
+              "reading": "いまみちび"
+            },
+            {
+              "text": "き"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "すよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 46.306,
+      "end": 51.854,
+      "japanese": "正体は実は案外歯がゆいもの",
+      "zh-CN": "真相实际上出乎意料令人焦躁心急",
+      "segments": [
+        {
+          "text": "正体は実は案外歯がゆいもの",
+          "performerIds": [
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "正体",
+              "reading": "しょうたい"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "実",
+              "reading": "じつ"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "案外歯",
+              "reading": "あんがいは"
+            },
+            {
+              "text": "がゆいもの"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 51.85,
+      "end": 54.494,
+      "japanese": "魔法のタクト、空にかざすだけ",
+      "zh-CN": "只要将手中的魔法指挥棒，指向天空即可",
+      "segments": [
+        {
+          "text": "魔法のタクト、空にかざすだけ",
+          "performerIds": [
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "魔法",
+              "reading": "まほう"
+            },
+            {
+              "text": "のタクト、"
+            },
+            {
+              "text": "空",
+              "reading": "そら"
+            },
+            {
+              "text": "にかざすだけ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 55.429,
+      "end": 58.857,
+      "japanese": "(ああ．．．)",
+      "zh-CN": "（啊啊……）",
+      "segments": [
+        {
+          "text": "(ああ．．．)",
+          "performerIds": [
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "(ああ．．．)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 58.841,
+      "end": 60.143,
+      "japanese": "おいでよ",
+      "zh-CN": "快快过来吧",
+      "segments": [
+        {
+          "text": "おいでよ",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "おいでよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 60.362,
+      "end": 65.007,
+      "japanese": "街を包み込んだ超常現象が",
+      "zh-CN": "笼罩整座街道的超常现象",
+      "segments": [
+        {
+          "text": "街を包み込んだ超常現象が",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "街",
+              "reading": "まち"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "包",
+              "reading": "つつ"
+            },
+            {
+              "text": "み"
+            },
+            {
+              "text": "込",
+              "reading": "こ"
+            },
+            {
+              "text": "んだ"
+            },
+            {
+              "text": "超常現象",
+              "reading": "ちょうじょうげんしょう"
+            },
+            {
+              "text": "が"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 65.001,
+      "end": 69.506,
+      "japanese": "夜空に、ほらこだまして、退屈が泣き出す",
+      "zh-CN": "瞧啊在夜空之中回荡轰鸣，无聊乏味放声痛哭起来",
+      "segments": [
+        {
+          "text": "夜空に、ほらこだまして、",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-15",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "夜空",
+              "reading": "よぞら"
+            },
+            {
+              "text": "に、ほらこだまして、"
+            }
+          ]
+        },
+        {
+          "text": "退屈が泣き出す",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-16",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "退屈",
+              "reading": "たいくつ"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "泣",
+              "reading": "な"
+            },
+            {
+              "text": "き"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "す"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 68.68,
+      "end": 75.648,
+      "japanese": "愉快な歌を歌おう、最終演奏アンサンブルを",
+      "zh-CN": "唱响欢快的歌谣吧，最终合奏乐章",
+      "segments": [
+        {
+          "text": "愉快な",
+          "performerIds": [
+            "歌唱者-16",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "愉快",
+              "reading": "ゆかい"
+            },
+            {
+              "text": "な"
+            }
+          ]
+        },
+        {
+          "text": "歌を歌おう、最終演奏アンサンブルを",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "歌",
+              "reading": "うた"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "歌",
+              "reading": "うた"
+            },
+            {
+              "text": "おう、"
+            },
+            {
+              "text": "最終演奏",
+              "reading": "さいしゅえんそう"
+            },
+            {
+              "text": "アンサンブルを"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 75.661,
+      "end": 81.007,
+      "japanese": "君は聞こえた？星に舞う旋律を",
+      "zh-CN": "你听见了吗？在繁星中飞舞的优美旋律",
+      "segments": [
+        {
+          "text": "君は聞こえた？",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "聞",
+              "reading": "き"
+            },
+            {
+              "text": "こえた？"
+            }
+          ]
+        },
+        {
+          "text": "星に舞う旋律を",
+          "performerIds": [
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "星",
+              "reading": "ほし"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "舞",
+              "reading": "ま"
+            },
+            {
+              "text": "う"
+            },
+            {
+              "text": "旋律",
+              "reading": "せんりつ"
+            },
+            {
+              "text": "を"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 81.007,
+      "end": 86.353,
+      "japanese": "ワンツーさんしで、泣いてた過去に負けない廻る力を",
+      "zh-CN": "伴着一二三四，赋予不输给哭泣过去的轮回之力",
+      "segments": [
+        {
+          "text": "ワンツーさんしで、泣いてた過去に負けない廻る力を",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-15",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "ワンツーさんしで、"
+            },
+            {
+              "text": "泣",
+              "reading": "な"
+            },
+            {
+              "text": "いてた"
+            },
+            {
+              "text": "過去",
+              "reading": "かこ"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "負",
+              "reading": "ま"
+            },
+            {
+              "text": "けない"
+            },
+            {
+              "text": "廻",
+              "reading": "めぐ"
+            },
+            {
+              "text": "る"
+            },
+            {
+              "text": "力",
+              "reading": "ちから"
+            },
+            {
+              "text": "を"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 86.347,
+      "end": 92.036,
+      "japanese": "楽しいリズムで途切れない音を乗せて　タッタン",
+      "zh-CN": "乘着欢快的节奏载满永不间断的乐声 哒哒",
+      "segments": [
+        {
+          "text": "楽しいリズムで途切れない音を乗せて　タッタン",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-16",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "楽",
+              "reading": "たの"
+            },
+            {
+              "text": "しいリズムで"
+            },
+            {
+              "text": "途切",
+              "reading": "とぎ"
+            },
+            {
+              "text": "れない"
+            },
+            {
+              "text": "音",
+              "reading": "おと"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "乗",
+              "reading": "の"
+            },
+            {
+              "text": "せて　タッタン"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 91.682,
+      "end": 93.827,
+      "japanese": "パンパン手を打ち鳴らして",
+      "zh-CN": "啪啪地拍响双掌",
+      "segments": [
+        {
+          "text": "パンパン手を打ち鳴らして",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "パンパン"
+            },
+            {
+              "text": "手",
+              "reading": "て"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "打",
+              "reading": "う"
+            },
+            {
+              "text": "ち"
+            },
+            {
+              "text": "鳴",
+              "reading": "な"
+            },
+            {
+              "text": "らして"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 93.827,
+      "end": 97.014,
+      "japanese": "踊れ踊れオーケストラ",
+      "zh-CN": "翩翩起舞吧管弦乐团",
+      "segments": [
+        {
+          "text": "踊れ踊れオーケストラ",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "踊",
+              "reading": "おど"
+            },
+            {
+              "text": "れ"
+            },
+            {
+              "text": "踊",
+              "reading": "おど"
+            },
+            {
+              "text": "れオーケストラ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 97.022,
+      "end": 99.166,
+      "japanese": "バイバイ今夜はさよなら",
+      "zh-CN": "拜拜今夜就此道别作罢",
+      "segments": [
+        {
+          "text": "バイバイ今夜はさよなら",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "バイバイ"
+            },
+            {
+              "text": "今夜",
+              "reading": "こにゃ"
+            },
+            {
+              "text": "はさよなら"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 99.18,
+      "end": 102.24,
+      "japanese": "次は君もステージで　タッタン",
+      "zh-CN": "下次你也要站上舞台哦 哒哒",
+      "segments": [
+        {
+          "text": "次は君もステージで　タッタン",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "次",
+              "reading": "つぎ"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "もステージで　タッタン"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 102.368,
+      "end": 104.592,
+      "japanese": "さぁさぁこの指に止まれ",
+      "zh-CN": "来吧来吧快停在我的指尖上",
+      "segments": [
+        {
+          "text": "さぁさぁこの指に止まれ",
+          "performerIds": [
+            "歌唱者-16"
+          ],
+          "ruby": [
+            {
+              "text": "さぁさぁこの"
+            },
+            {
+              "text": "指",
+              "reading": "ゆび"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "止",
+              "reading": "と"
+            },
+            {
+              "text": "まれ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 104.585,
+      "end": 108.993,
+      "japanese": "後悔、後でしても知らないぞ",
+      "zh-CN": "事后若是后悔我可概不负责哦",
+      "segments": [
+        {
+          "text": "後悔、後でしても知らないぞ",
+          "performerIds": [
+            "歌唱者-13"
+          ],
+          "ruby": [
+            {
+              "text": "後悔",
+              "reading": "こうかい"
+            },
+            {
+              "text": "、"
+            },
+            {
+              "text": "後",
+              "reading": "あと"
+            },
+            {
+              "text": "でしても"
+            },
+            {
+              "text": "知",
+              "reading": "し"
+            },
+            {
+              "text": "らないぞ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000023",
+      "order": 22,
+      "index": 22,
+      "start": 107.94,
+      "end": 112.28,
+      "japanese": "耳をすまして、僕らと踊るだけ",
+      "zh-CN": "侧耳倾听，与我们一同起舞就好",
+      "segments": [
+        {
+          "text": "耳をすまして、",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "耳",
+              "reading": "みみ"
+            },
+            {
+              "text": "をすまして、"
+            }
+          ]
+        },
+        {
+          "text": "僕らと踊るだけ",
+          "performerIds": [
+            "歌唱者-13",
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-16",
+            "歌唱者-24"
+          ],
+          "ruby": [
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "らと"
+            },
+            {
+              "text": "踊",
+              "reading": "おど"
+            },
+            {
+              "text": "るだけ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    }
+  ]
+}

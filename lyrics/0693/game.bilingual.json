@@ -1,0 +1,1035 @@
+{
+  "music_id": 693,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-06",
+      "name": "桐谷遥"
+    },
+    {
+      "performerId": "歌唱者-08",
+      "name": "日野森雫"
+    },
+    {
+      "performerId": "歌唱者-23",
+      "name": "鏡音レン"
+    },
+    {
+      "performerId": "歌唱者-26",
+      "name": "KAITO"
+    }
+  ],
+  "lines": [
+    {
+      "id": "game-000001",
+      "order": 0,
+      "index": 0,
+      "start": 13.4585,
+      "end": 17.4285,
+      "japanese": "掴んだ腕も　未来の　闇も",
+      "zh-CN": "紧抓的手臂 未来的 黑暗",
+      "segments": [
+        {
+          "text": "掴んだ腕も　未来の　闇も",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "掴",
+              "reading": "つか"
+            },
+            {
+              "text": "んだ"
+            },
+            {
+              "text": "腕",
+              "reading": "うで"
+            },
+            {
+              "text": "も　"
+            },
+            {
+              "text": "未来",
+              "reading": "みらい"
+            },
+            {
+              "text": "の　"
+            },
+            {
+              "text": "闇",
+              "reading": "やみ"
+            },
+            {
+              "text": "も"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000002",
+      "order": 1,
+      "index": 1,
+      "start": 17.4285,
+      "end": 20.5585,
+      "japanese": "キミの　となりと願った",
+      "zh-CN": "都曾祈求 能留在你的身旁",
+      "segments": [
+        {
+          "text": "キミの　",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "キミの　"
+            }
+          ]
+        },
+        {
+          "text": "となりと",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "となりと"
+            }
+          ]
+        },
+        {
+          "text": "願った",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "願",
+              "reading": "ねが"
+            },
+            {
+              "text": "った"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000003",
+      "order": 2,
+      "index": 2,
+      "start": 20.8985,
+      "end": 24.1385,
+      "japanese": "はじまる朝に　還れぬ夜に",
+      "zh-CN": "在开始的清晨 在回不去的夜晚",
+      "segments": [
+        {
+          "text": "はじまる朝に　還れぬ夜に",
+          "performerIds": [
+            "歌唱者-08",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "はじまる"
+            },
+            {
+              "text": "朝",
+              "reading": "あさ"
+            },
+            {
+              "text": "に　"
+            },
+            {
+              "text": "還",
+              "reading": "かえ"
+            },
+            {
+              "text": "れぬ"
+            },
+            {
+              "text": "夜",
+              "reading": "よる"
+            },
+            {
+              "text": "に"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000004",
+      "order": 3,
+      "index": 3,
+      "start": 24.4285,
+      "end": 30.8075,
+      "japanese": "涙も　ボクも なにも 残せずに…",
+      "zh-CN": "泪水也好 我也罢 无论什么都未能留下……",
+      "segments": [
+        {
+          "text": "涙も　",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "涙",
+              "reading": "なみだ"
+            },
+            {
+              "text": "も　"
+            }
+          ]
+        },
+        {
+          "text": "ボクも ",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "ボクも "
+            }
+          ]
+        },
+        {
+          "text": "なにも ",
+          "performerIds": [
+            "歌唱者-08",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "なにも "
+            }
+          ]
+        },
+        {
+          "text": "残せずに…",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-08",
+            "歌唱者-23",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "残",
+              "reading": "のこ"
+            },
+            {
+              "text": "せずに…"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000005",
+      "order": 4,
+      "index": 4,
+      "start": 35.2065,
+      "end": 48.9945,
+      "japanese": "踏み出せば　埋もれ　倒れても",
+      "zh-CN": "若迈出步伐 哪怕被掩埋 倒下",
+      "segments": [
+        {
+          "text": "踏み出せば　埋もれ　倒れても",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "踏",
+              "reading": "ふ"
+            },
+            {
+              "text": "み"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "せば　"
+            },
+            {
+              "text": "埋",
+              "reading": "う"
+            },
+            {
+              "text": "もれ　"
+            },
+            {
+              "text": "倒",
+              "reading": "たお"
+            },
+            {
+              "text": "れても"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000006",
+      "order": 5,
+      "index": 5,
+      "start": 35.2065,
+      "end": 48.9945,
+      "japanese": "ピュアな自由に 強気に 笑い返す",
+      "zh-CN": "也会对着纯粹的自由 倔强地回以微笑",
+      "segments": [
+        {
+          "text": "ピュアな自由に ",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "ピュアな"
+            },
+            {
+              "text": "自由",
+              "reading": "じゆう"
+            },
+            {
+              "text": "に "
+            }
+          ]
+        },
+        {
+          "text": "強気に ",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "強気",
+              "reading": "つよき"
+            },
+            {
+              "text": "に "
+            }
+          ]
+        },
+        {
+          "text": "笑い返す",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "笑",
+              "reading": "わら"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "返",
+              "reading": "かえ"
+            },
+            {
+              "text": "す"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000007",
+      "order": 6,
+      "index": 6,
+      "start": 48.9945,
+      "end": 62.5385,
+      "japanese": "ただ　見たいのはラスト　ナイーブな",
+      "zh-CN": "唯独 想要见证那结局 纤细敏锐的",
+      "segments": [
+        {
+          "text": "ただ　見たいのはラスト　ナイーブな",
+          "performerIds": [
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "ただ　"
+            },
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "たいのはラスト　ナイーブな"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000008",
+      "order": 7,
+      "index": 7,
+      "start": 48.9945,
+      "end": 62.5385,
+      "japanese": "沈黙をよむシステム眠らぬ空",
+      "zh-CN": "读懂沉默的系统 不眠的天空",
+      "segments": [
+        {
+          "text": "沈黙をよむ",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "沈黙",
+              "reading": "ちんもく"
+            },
+            {
+              "text": "をよむ"
+            }
+          ]
+        },
+        {
+          "text": "システム",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "システム"
+            }
+          ]
+        },
+        {
+          "text": "眠らぬ空",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "眠",
+              "reading": "ねむ"
+            },
+            {
+              "text": "らぬ"
+            },
+            {
+              "text": "空",
+              "reading": "そら"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000009",
+      "order": 8,
+      "index": 8,
+      "start": 62.8065,
+      "end": 69.1365,
+      "japanese": "瞳　焼き付けた熱さ　忘レテモ覚エテテ",
+      "zh-CN": "烙印在眼眸中的热度 就算遗忘也请铭记",
+      "segments": [
+        {
+          "text": "瞳　焼き付けた熱さ　忘レテモ覚エテテ",
+          "performerIds": [
+            "歌唱者-08",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "瞳",
+              "reading": "ひとみ"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "焼",
+              "reading": "や"
+            },
+            {
+              "text": "き"
+            },
+            {
+              "text": "付",
+              "reading": "つ"
+            },
+            {
+              "text": "けた"
+            },
+            {
+              "text": "熱",
+              "reading": "あつ"
+            },
+            {
+              "text": "さ　"
+            },
+            {
+              "text": "忘",
+              "reading": "わす"
+            },
+            {
+              "text": "レテモ"
+            },
+            {
+              "text": "覚",
+              "reading": "おぼ"
+            },
+            {
+              "text": "エテテ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000010",
+      "order": 9,
+      "index": 9,
+      "start": 69.6065,
+      "end": 76.6565,
+      "japanese": "千切れそうな　運命を押しのけ届かせて",
+      "zh-CN": "推开那近乎撕裂的命运 让声音传达过去",
+      "segments": [
+        {
+          "text": "千切れそうな　",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "千切",
+              "reading": "ちぎ"
+            },
+            {
+              "text": "れそうな　"
+            }
+          ]
+        },
+        {
+          "text": "運命を",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "運命",
+              "reading": "うんめい"
+            },
+            {
+              "text": "を"
+            }
+          ]
+        },
+        {
+          "text": "押しのけ届かせて",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "押",
+              "reading": "お"
+            },
+            {
+              "text": "しのけ"
+            },
+            {
+              "text": "届",
+              "reading": "とど"
+            },
+            {
+              "text": "かせて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000011",
+      "order": 10,
+      "index": 10,
+      "start": 76.8365,
+      "end": 80.9515,
+      "japanese": "こんなボクらは　いつもどうして",
+      "zh-CN": "这样的我们 为何总是",
+      "segments": [
+        {
+          "text": "こんなボクらは　いつもどうして",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "こんなボクらは　いつもどうして"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000012",
+      "order": 11,
+      "index": 11,
+      "start": 80.9515,
+      "end": 84.5255,
+      "japanese": "カワすコトバに つまづき",
+      "zh-CN": "被彼此交错的言语绊倒",
+      "segments": [
+        {
+          "text": "カワすコトバに ",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "カワすコトバに "
+            }
+          ]
+        },
+        {
+          "text": "つまづき",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "つまづき"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000013",
+      "order": 12,
+      "index": 12,
+      "start": 84.5255,
+      "end": 87.9745,
+      "japanese": "崩れ　壊れて　引き換えに生まれ",
+      "zh-CN": "崩溃 碎裂 却以此为代价而重生",
+      "segments": [
+        {
+          "text": "崩れ　壊れて　引き換えに生まれ",
+          "performerIds": [
+            "歌唱者-08",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "崩",
+              "reading": "くず"
+            },
+            {
+              "text": "れ　"
+            },
+            {
+              "text": "壊",
+              "reading": "こわ"
+            },
+            {
+              "text": "れて　"
+            },
+            {
+              "text": "引",
+              "reading": "ひ"
+            },
+            {
+              "text": "き"
+            },
+            {
+              "text": "換",
+              "reading": "か"
+            },
+            {
+              "text": "えに"
+            },
+            {
+              "text": "生",
+              "reading": "う"
+            },
+            {
+              "text": "まれ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000014",
+      "order": 13,
+      "index": 13,
+      "start": 87.9745,
+      "end": 91.2145,
+      "japanese": "おしえて？ 理由の イミを",
+      "zh-CN": "能告诉我吗？ 缘由的 意义",
+      "segments": [
+        {
+          "text": "おしえて？ ",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "おしえて？ "
+            }
+          ]
+        },
+        {
+          "text": "理由の ",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "理由",
+              "reading": "わけ"
+            },
+            {
+              "text": "の "
+            }
+          ]
+        },
+        {
+          "text": "イミを",
+          "performerIds": [
+            "歌唱者-08",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "イミを"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000015",
+      "order": 14,
+      "index": 14,
+      "start": 91.3625,
+      "end": 94.6825,
+      "japanese": "コンナ　ボクラハ　いつもどうして",
+      "zh-CN": "这样的我们 为何总是",
+      "segments": [
+        {
+          "text": "コンナ　ボクラハ　いつもどうして",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "コンナ　ボクラハ　いつもどうして"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    },
+    {
+      "id": "game-000016",
+      "order": 15,
+      "index": 15,
+      "start": 94.6825,
+      "end": 97.7725,
+      "japanese": "カワすコトバに　つまづき",
+      "zh-CN": "被彼此交错的言语 绊倒",
+      "segments": [
+        {
+          "text": "カワすコトバに　つまづき",
+          "performerIds": [
+            "歌唱者-08",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "カワすコトバに　つまづき"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000017",
+      "order": 16,
+      "index": 16,
+      "start": 98.2325,
+      "end": 101.6825,
+      "japanese": "崩れ　壊れて　引き換えに生まれ",
+      "zh-CN": "崩溃 碎裂 却以此为代价而重生",
+      "segments": [
+        {
+          "text": "崩れ　壊れて　引き換えに生まれ",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "崩",
+              "reading": "くず"
+            },
+            {
+              "text": "れ　"
+            },
+            {
+              "text": "壊",
+              "reading": "こわ"
+            },
+            {
+              "text": "れて　"
+            },
+            {
+              "text": "引",
+              "reading": "ひ"
+            },
+            {
+              "text": "き"
+            },
+            {
+              "text": "換",
+              "reading": "か"
+            },
+            {
+              "text": "えに"
+            },
+            {
+              "text": "生",
+              "reading": "う"
+            },
+            {
+              "text": "まれ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000018",
+      "order": 17,
+      "index": 17,
+      "start": 101.6825,
+      "end": 102.6325,
+      "japanese": "おしえて？",
+      "zh-CN": "能告诉我吗？",
+      "segments": [
+        {
+          "text": "おしえて？",
+          "performerIds": [
+            "歌唱者-23",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "おしえて？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": false
+    },
+    {
+      "id": "game-000019",
+      "order": 18,
+      "index": 18,
+      "start": 102.1455,
+      "end": 105.2705,
+      "japanese": "理由を イミを…！",
+      "zh-CN": "缘由与 意义……！",
+      "segments": [
+        {
+          "text": "理由を ",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "理由",
+              "reading": "わけ"
+            },
+            {
+              "text": "を "
+            }
+          ]
+        },
+        {
+          "text": "イミを…！",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-08",
+            "歌唱者-23",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "イミを…！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000020",
+      "order": 19,
+      "index": 19,
+      "start": 105.3625,
+      "end": 108.5215,
+      "japanese": "遠イ、夕陽モ",
+      "zh-CN": "遥远的、夕阳",
+      "segments": [
+        {
+          "text": "遠イ、夕陽モ",
+          "performerIds": [
+            "歌唱者-08",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "遠",
+              "reading": "とお"
+            },
+            {
+              "text": "イ、"
+            },
+            {
+              "text": "夕陽",
+              "reading": "ゆうひ"
+            },
+            {
+              "text": "モ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": true
+    },
+    {
+      "id": "game-000021",
+      "order": 20,
+      "index": 20,
+      "start": 105.3625,
+      "end": 108.5215,
+      "japanese": "同ジ、夜明ケモ",
+      "zh-CN": "同一片、黎明",
+      "segments": [
+        {
+          "text": "同ジ、夜明ケモ",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "同",
+              "reading": "おな"
+            },
+            {
+              "text": "ジ、"
+            },
+            {
+              "text": "夜明",
+              "reading": "よあ"
+            },
+            {
+              "text": "ケモ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "shared_interval": true
+    },
+    {
+      "id": "game-000022",
+      "order": 21,
+      "index": 21,
+      "start": 111.9015,
+      "end": 117.2015,
+      "japanese": "コンナ　ボクラハ イツモ　ドウシテ",
+      "zh-CN": "这样的我们 为何 总是如此",
+      "segments": [
+        {
+          "text": "コンナ　ボクラハ ",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-26"
+          ],
+          "ruby": [
+            {
+              "text": "コンナ　ボクラハ "
+            }
+          ]
+        },
+        {
+          "text": "イツモ　ドウシテ",
+          "performerIds": [
+            "歌唱者-08",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "イツモ　ドウシテ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
+      "stanzaBreakBefore": true,
+      "shared_interval": false
+    }
+  ]
+}
