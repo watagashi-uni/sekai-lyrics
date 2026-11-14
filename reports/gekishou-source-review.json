@@ -819,5 +819,25 @@
   "limitations": [
     "波形映射验证同轨与时间偏移，不代表逐句人声起点已逐字人工听审。",
     "采用来源的 0.1 秒级句段边界；最后两个源句段合并，暂不提供逐字高亮。"
-  ]
+  ],
+  "maintainerReview": {
+    "date": "2026-11-14",
+    "musicIds": [
+      131,
+      388
+    ],
+    "decision": "retired_by_maintainer",
+    "provider": "QQ音乐",
+    "recordId": "1162274",
+    "source_url": "https://y.qq.com/n/ryqq/songDetail/002l4QZV4eVWdB",
+    "format": "qrc",
+    "reason": "维护者实际使用后确认原逐字高亮效果极差，已换源。旧逐字切分与读音不对应，短版还存在段落错带。",
+    "replacement": {
+      "provider": "Typing Tube",
+      "recordId": "30166",
+      "format": "line",
+      "source_url": "https://typing-tube.net/movie/show/30166"
+    },
+    "evidence": "reports/gekishou-source-review.json"
+  }
 }
