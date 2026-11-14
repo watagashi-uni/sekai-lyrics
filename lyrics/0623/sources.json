@@ -59,6 +59,22 @@
       "note": null
     },
     {
+      "usage": "时间轴",
+      "provider": "game_audio_review",
+      "recordId": null,
+      "url": null,
+      "license": null,
+      "note": "2026-11-14 按游戏音频重定全部 41 行：原时间轴（含逐字单元与三个 LRC）是 QQ 游戏尺寸 LRC 映射到游戏音频时偏移取错，整体早约 1.1 s。按 shinonomeenana/sekai_lyrics 的方法核对：se_0623_01 htdemucs 人声轨上的日语音素 CTC、MMS、Whisper 强制对齐，加网易云 2697930568（完整版，按邻句模型一致点求局部偏移）投票，27 个有逐字轴的行残差中位 +1.12 s；两版人声轨起音与 376 个 QQ 单元互相关同样在 +1.11–1.12 s；逐字层面复核（如「の」10.19 对音素 n@10.20、「必」80.98 对 k@80.96）。因此行起止、逐字单元和 game.lrc／game.enhanced.lrc 统一 +1.12 s，game.zh-CN.lrc 跟随双语行起点。例外：首字「夢」原截在音频起点 9.000，改为 9.880；末行「まだ会おうね」起点 117.000、句尾吸附到人声静音 118.150（LRC 保持 QQ 平移）。vs_0623_01（默认）与 se_0623_01 同一时间轴。时间含前置空白。逐行依据见 reports/audio-timing-review-2026-11-14.json"
+    },
+    {
+      "usage": "时间轴",
+      "provider": "网易云音乐",
+      "recordId": "2697930568",
+      "url": null,
+      "license": null,
+      "note": "とうほう☆ワンダーランド 完整版逐句 LRC，仅作对照：游戏版前段相当于完整版 +8.95 s、后段（最后一次副歌）−110.66 s，用于判定 QQ 映射偏移；未直接采用其时间"
+    },
+    {
       "usage": "罗马音",
       "provider": "Sekaipedia",
       "url": "https://www.sekaipedia.org/wiki/Touhou%E2%98%86Wonderland",
