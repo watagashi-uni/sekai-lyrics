@@ -83,6 +83,69 @@
       "via": "https://github.com/shinonomeenana/sekai_lyrics",
       "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
       "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "逐句结束时间",
+      "provider": "shinonomeenana/sekai_lyrics",
+      "url": "https://github.com/shinonomeenana/sekai_lyrics",
+      "license": null,
+      "vocalId": 594,
+      "verdict": "ok",
+      "fillerSec": 9.0,
+      "method": "ordered exact normalized text; starts agree within 0.3s; non-clamped; end shortened within existing interval; upstream vocal-silence alignment, no independent acoustic verification",
+      "lines": [
+        {
+          "line": 11,
+          "upstreamLine": 11,
+          "text": "溢れ出す''''声''''に(''''声''''に)、想いに(想いに)",
+          "before": [
+            53.750691,
+            59.336712
+          ],
+          "proposed": [
+            53.708,
+            58.209
+          ],
+          "after": [
+            53.750691,
+            58.209
+          ]
+        },
+        {
+          "line": 13,
+          "upstreamLine": 13,
+          "text": "ありふれた涙(涙)、痛みも(痛みも)",
+          "before": [
+            63.808129,
+            69.549234
+          ],
+          "proposed": [
+            63.83,
+            68.311
+          ],
+          "after": [
+            63.808129,
+            68.311
+          ]
+        },
+        {
+          "line": 23,
+          "upstreamLine": 23,
+          "text": "ありふれた涙(涙)、痛みも(痛みも)",
+          "before": [
+            109.39875,
+            115.03875
+          ],
+          "proposed": [
+            109.317,
+            113.778
+          ],
+          "after": [
+            109.39875,
+            113.778
+          ]
+        }
+      ]
     }
   ]
 }

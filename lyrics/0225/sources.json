@@ -91,6 +91,188 @@
       "via": "https://github.com/shinonomeenana/sekai_lyrics",
       "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
       "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "逐句结束时间",
+      "provider": "shinonomeenana/sekai_lyrics",
+      "url": "https://github.com/shinonomeenana/sekai_lyrics",
+      "license": null,
+      "vocalId": 559,
+      "verdict": "ok",
+      "fillerSec": 9.0,
+      "method": "ordered exact normalized text; starts agree within 0.3s; non-clamped; end shortened within existing interval; upstream vocal-silence alignment, no independent acoustic verification",
+      "lines": [
+        {
+          "line": 0,
+          "upstreamLine": 0,
+          "text": "ヘい！",
+          "before": [
+            9.333532,
+            10.394199
+          ],
+          "proposed": [
+            9.6,
+            10.08
+          ],
+          "after": [
+            9.333532,
+            10.08
+          ]
+        },
+        {
+          "line": 2,
+          "upstreamLine": 2,
+          "text": "パッパラパトゥル",
+          "before": [
+            12.445487,
+            14.456751
+          ],
+          "proposed": [
+            12.46,
+            14.35
+          ],
+          "after": [
+            12.445487,
+            14.35
+          ]
+        },
+        {
+          "line": 3,
+          "upstreamLine": 3,
+          "text": "パッパラパパッララ （yeah）",
+          "before": [
+            14.456751,
+            18.759455
+          ],
+          "proposed": [
+            14.6,
+            18.61
+          ],
+          "after": [
+            14.456751,
+            18.61
+          ]
+        },
+        {
+          "line": 4,
+          "upstreamLine": 4,
+          "text": "パッパラパパッラ",
+          "before": [
+            18.759455,
+            20.910807
+          ],
+          "proposed": [
+            18.93,
+            20.57
+          ],
+          "after": [
+            18.759455,
+            20.57
+          ]
+        },
+        {
+          "line": 6,
+          "upstreamLine": 6,
+          "text": "パッパラパパッララ",
+          "before": [
+            22.982108,
+            27.124711
+          ],
+          "proposed": [
+            23.14,
+            26.13
+          ],
+          "after": [
+            22.982108,
+            26.13
+          ]
+        },
+        {
+          "line": 10,
+          "upstreamLine": 10,
+          "text": "悲劇の歴史で踊ろうか　ほらテンテコへンテコ舞舞はあ",
+          "before": [
+            39.781,
+            44.224
+          ],
+          "proposed": [
+            39.61,
+            43.9
+          ],
+          "after": [
+            39.781,
+            43.9
+          ]
+        },
+        {
+          "line": 11,
+          "upstreamLine": 11,
+          "text": "僕の心はエゴロック斜め45度ナンセンス",
+          "before": [
+            43.94,
+            48.465
+          ],
+          "proposed": [
+            43.92,
+            47.84
+          ],
+          "after": [
+            43.94,
+            47.84
+          ]
+        },
+        {
+          "line": 15,
+          "upstreamLine": 15,
+          "text": "透明な感情は染まるだけさ　",
+          "before": [
+            75.941,
+            80.748
+          ],
+          "proposed": [
+            75.94,
+            80.43
+          ],
+          "after": [
+            75.941,
+            80.43
+          ]
+        },
+        {
+          "line": 16,
+          "upstreamLine": 16,
+          "text": "だったら見て見ぬふりする奴らを押し出せ",
+          "before": [
+            80.748,
+            84.753
+          ],
+          "proposed": [
+            80.72,
+            84.66
+          ],
+          "after": [
+            80.748,
+            84.66
+          ]
+        },
+        {
+          "line": 17,
+          "upstreamLine": 17,
+          "text": "人生かけても負けそうです　勝ち負け取り憑かれナンセンス",
+          "before": [
+            84.748,
+            89.015
+          ],
+          "proposed": [
+            84.68,
+            88.68
+          ],
+          "after": [
+            84.748,
+            88.68
+          ]
+        }
+      ]
     }
   ]
 }

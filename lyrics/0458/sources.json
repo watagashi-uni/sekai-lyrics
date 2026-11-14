@@ -75,6 +75,341 @@
       "via": "https://github.com/shinonomeenana/sekai_lyrics",
       "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
       "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "逐句结束时间",
+      "provider": "shinonomeenana/sekai_lyrics",
+      "url": "https://github.com/shinonomeenana/sekai_lyrics",
+      "license": null,
+      "vocalId": 1445,
+      "verdict": "ok",
+      "fillerSec": 7.7143,
+      "method": "ordered exact normalized text; starts agree within 0.3s; non-clamped; end shortened within existing interval; upstream vocal-silence alignment, no independent acoustic verification",
+      "lines": [
+        {
+          "line": 10,
+          "upstreamLine": 10,
+          "text": "水底に根差す　あなたと穿った少女時代",
+          "before": [
+            43.694105,
+            48.858495
+          ],
+          "proposed": [
+            43.6863,
+            48.5703
+          ],
+          "after": [
+            43.694105,
+            48.5703
+          ]
+        },
+        {
+          "line": 11,
+          "upstreamLine": 11,
+          "text": "さよならする頃",
+          "before": [
+            48.858495,
+            53.906013
+          ],
+          "proposed": [
+            48.8403,
+            50.4873
+          ],
+          "after": [
+            48.858495,
+            50.4873
+          ]
+        },
+        {
+          "line": 20,
+          "upstreamLine": 20,
+          "text": "結えているのでしょう",
+          "before": [
+            65.91297,
+            69.037576
+          ],
+          "proposed": [
+            66.0093,
+            68.6903
+          ],
+          "after": [
+            65.91297,
+            68.6903
+          ]
+        },
+        {
+          "line": 22,
+          "upstreamLine": 22,
+          "text": "水面に散って",
+          "before": [
+            70.6145,
+            88.2565
+          ],
+          "proposed": [
+            70.7403,
+            73.8103
+          ],
+          "after": [
+            70.6145,
+            73.8103
+          ]
+        },
+        {
+          "line": 23,
+          "upstreamLine": 23,
+          "text": "傷の数を数えて",
+          "before": [
+            88.2565,
+            89.8985
+          ],
+          "proposed": [
+            88.2513,
+            89.6523
+          ],
+          "after": [
+            88.2565,
+            89.6523
+          ]
+        },
+        {
+          "line": 24,
+          "upstreamLine": 24,
+          "text": "痛みの数　指を折る",
+          "before": [
+            89.8985,
+            91.6975
+          ],
+          "proposed": [
+            89.8323,
+            91.3923
+          ],
+          "after": [
+            89.8985,
+            91.3923
+          ]
+        },
+        {
+          "line": 25,
+          "upstreamLine": 25,
+          "text": "一つあまり　小指は",
+          "before": [
+            91.6975,
+            93.3215
+          ],
+          "proposed": [
+            91.6723,
+            93.0923
+          ],
+          "after": [
+            91.6975,
+            93.0923
+          ]
+        },
+        {
+          "line": 26,
+          "upstreamLine": 26,
+          "text": "愛しさのぶんね",
+          "before": [
+            93.3215,
+            95.0985
+          ],
+          "proposed": [
+            93.3323,
+            94.9103
+          ],
+          "after": [
+            93.3215,
+            94.9103
+          ]
+        },
+        {
+          "line": 27,
+          "upstreamLine": 27,
+          "text": "悔やむこともありましょう",
+          "before": [
+            95.0985,
+            96.6915
+          ],
+          "proposed": [
+            95.1123,
+            96.6333
+          ],
+          "after": [
+            95.0985,
+            96.6333
+          ]
+        },
+        {
+          "line": 28,
+          "upstreamLine": 28,
+          "text": "わたしの所為もありましょう",
+          "before": [
+            96.6915,
+            98.5235
+          ],
+          "proposed": [
+            96.6933,
+            98.2533
+          ],
+          "after": [
+            96.6915,
+            98.2533
+          ]
+        },
+        {
+          "line": 29,
+          "upstreamLine": 29,
+          "text": "いつかは赤い糸",
+          "before": [
+            98.5235,
+            100.2225
+          ],
+          "proposed": [
+            98.6133,
+            99.9333
+          ],
+          "after": [
+            98.5235,
+            99.9333
+          ]
+        },
+        {
+          "line": 30,
+          "upstreamLine": 30,
+          "text": "断ち切るのでしょう",
+          "before": [
+            100.2225,
+            101.9815
+          ],
+          "proposed": [
+            100.2733,
+            101.2333
+          ],
+          "after": [
+            100.2225,
+            101.2333
+          ]
+        },
+        {
+          "line": 31,
+          "upstreamLine": 31,
+          "text": "花びらにささやきを",
+          "before": [
+            101.9815,
+            103.6585
+          ],
+          "proposed": [
+            101.9733,
+            103.3533
+          ],
+          "after": [
+            101.9815,
+            103.3533
+          ]
+        },
+        {
+          "line": 32,
+          "upstreamLine": 32,
+          "text": "哀れみから口づけを",
+          "before": [
+            103.6585,
+            105.3595
+          ],
+          "proposed": [
+            103.6133,
+            105.0743
+          ],
+          "after": [
+            103.6585,
+            105.0743
+          ]
+        },
+        {
+          "line": 33,
+          "upstreamLine": 33,
+          "text": "懐かしんではじめて",
+          "before": [
+            105.3595,
+            107.0815
+          ],
+          "proposed": [
+            105.3943,
+            106.7943
+          ],
+          "after": [
+            105.3595,
+            106.7943
+          ]
+        },
+        {
+          "line": 34,
+          "upstreamLine": 34,
+          "text": "過ぎ行くのでしょう",
+          "before": [
+            107.0815,
+            108.8295
+          ],
+          "proposed": [
+            107.1143,
+            108.0743
+          ],
+          "after": [
+            107.0815,
+            108.0743
+          ]
+        },
+        {
+          "line": 35,
+          "upstreamLine": 35,
+          "text": "惑うこともありましょう",
+          "before": [
+            108.8295,
+            110.5675
+          ],
+          "proposed": [
+            108.8343,
+            110.3543
+          ],
+          "after": [
+            108.8295,
+            110.3543
+          ]
+        },
+        {
+          "line": 36,
+          "upstreamLine": 36,
+          "text": "誰かの所為じゃないでしょう",
+          "before": [
+            110.5675,
+            112.2065
+          ],
+          "proposed": [
+            110.4143,
+            111.9343
+          ],
+          "after": [
+            110.5675,
+            111.9343
+          ]
+        },
+        {
+          "line": 37,
+          "upstreamLine": 37,
+          "text": "難しいものですね",
+          "before": [
+            112.2065,
+            114.0225
+          ],
+          "proposed": [
+            112.2753,
+            113.5953
+          ],
+          "after": [
+            112.2065,
+            113.5953
+          ]
+        }
+      ]
     }
   ]
 }

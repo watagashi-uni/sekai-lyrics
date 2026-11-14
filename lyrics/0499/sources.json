@@ -51,6 +51,103 @@
       "via": "https://github.com/shinonomeenana/sekai_lyrics",
       "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
       "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "逐句结束时间",
+      "provider": "shinonomeenana/sekai_lyrics",
+      "url": "https://github.com/shinonomeenana/sekai_lyrics",
+      "license": null,
+      "vocalId": 1529,
+      "verdict": "ok",
+      "fillerSec": 9.3158,
+      "method": "ordered exact normalized text; starts agree within 0.3s; non-clamped; end shortened within existing interval; upstream vocal-silence alignment, no independent acoustic verification",
+      "lines": [
+        {
+          "line": 4,
+          "upstreamLine": 4,
+          "text": "いっせーので ぶっ飛ぶだけ",
+          "before": [
+            17.089,
+            19.801
+          ],
+          "proposed": [
+            16.7998,
+            19.0398
+          ],
+          "after": [
+            17.089,
+            19.0398
+          ]
+        },
+        {
+          "line": 6,
+          "upstreamLine": 6,
+          "text": "ドンビーシャイだ ドンビーシャイだもう",
+          "before": [
+            22.035,
+            24.653
+          ],
+          "proposed": [
+            21.8398,
+            24.2598
+          ],
+          "after": [
+            22.035,
+            24.2598
+          ]
+        },
+        {
+          "line": 16,
+          "upstreamLine": 16,
+          "text": "世間体とか投げ出したい",
+          "before": [
+            54.632,
+            57.521
+          ],
+          "proposed": [
+            54.7198,
+            57.2898
+          ],
+          "after": [
+            54.632,
+            57.2898
+          ]
+        },
+        {
+          "line": 17,
+          "upstreamLine": 17,
+          "text": "狂った様に泣き出したい",
+          "before": [
+            57.521,
+            62.612
+          ],
+          "proposed": [
+            57.4698,
+            59.7598
+          ],
+          "after": [
+            57.521,
+            59.7598
+          ]
+        },
+        {
+          "line": 25,
+          "upstreamLine": 25,
+          "text": "ドンビーシャイだ ドンビーシャイだもう",
+          "before": [
+            77.621,
+            80.584
+          ],
+          "proposed": [
+            77.3998,
+            79.8198
+          ],
+          "after": [
+            77.621,
+            79.8198
+          ]
+        }
+      ]
     }
   ]
 }

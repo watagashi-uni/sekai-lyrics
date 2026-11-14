@@ -41,5 +41,20 @@
       }
     },
     "limitations": "No phonetic split imported; unknown dictionary readings remain absent. Excel not regenerated."
+  },
+  "task2": {
+    "comparedSongs": 194,
+    "noWordTimingSongs": 30,
+    "partialWordTimingSongs": 124,
+    "differentVocalSongs": 22,
+    "endTimeSongs": 66,
+    "endTimeLines": 450,
+    "startCorrections": 0,
+    "audioCheckedSongs": 68,
+    "unresolved": "291 onset candidates in accepted same-vocal reports: full-mix RMS alone cannot verify singing onset. No onset changed. 54/731/766 are review; full-mix checks cannot establish which timeline is correct. Require isolated vocals or listening review.",
+    "details": [
+      "timing-comparison.json",
+      "timing-audio-check.json"
+    ]
   }
 }

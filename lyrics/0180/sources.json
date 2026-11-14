@@ -107,6 +107,86 @@
       "via": "https://github.com/shinonomeenana/sekai_lyrics",
       "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
       "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "逐句结束时间",
+      "provider": "shinonomeenana/sekai_lyrics",
+      "url": "https://github.com/shinonomeenana/sekai_lyrics",
+      "license": null,
+      "vocalId": 462,
+      "verdict": "ok",
+      "fillerSec": 8.5485,
+      "method": "ordered exact normalized text; starts agree within 0.3s; non-clamped; end shortened within existing interval; upstream vocal-silence alignment, no independent acoustic verification",
+      "lines": [
+        {
+          "line": 0,
+          "upstreamLine": 0,
+          "text": "ただ何度も　何度も",
+          "before": [
+            9.3985,
+            38.2685
+          ],
+          "proposed": [
+            9.4995,
+            13.7195
+          ],
+          "after": [
+            9.3985,
+            13.7195
+          ]
+        },
+        {
+          "line": 6,
+          "upstreamLine": 6,
+          "text": "思い通りになるまで",
+          "before": [
+            48.7085,
+            52.0385
+          ],
+          "proposed": [
+            48.4795,
+            51.5395
+          ],
+          "after": [
+            48.7085,
+            51.5395
+          ]
+        },
+        {
+          "line": 8,
+          "upstreamLine": 8,
+          "text": "その輪郭を撫ででいた",
+          "before": [
+            55.6485,
+            59.0885
+          ],
+          "proposed": [
+            55.4395,
+            58.7395
+          ],
+          "after": [
+            55.6485,
+            58.7395
+          ]
+        },
+        {
+          "line": 21,
+          "upstreamLine": 21,
+          "text": "ただ何度も　何度も",
+          "before": [
+            120.6415,
+            135.3315
+          ],
+          "proposed": [
+            120.8795,
+            124.9995
+          ],
+          "after": [
+            120.6415,
+            124.9995
+          ]
+        }
+      ]
     }
   ]
 }

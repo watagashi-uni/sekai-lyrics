@@ -75,6 +75,137 @@
       "via": "https://github.com/shinonomeenana/sekai_lyrics",
       "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
       "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "逐句结束时间",
+      "provider": "shinonomeenana/sekai_lyrics",
+      "url": "https://github.com/shinonomeenana/sekai_lyrics",
+      "license": null,
+      "vocalId": 387,
+      "verdict": "ok",
+      "fillerSec": 9.0,
+      "method": "ordered exact normalized text; starts agree within 0.3s; non-clamped; end shortened within existing interval; upstream vocal-silence alignment, no independent acoustic verification",
+      "lines": [
+        {
+          "line": 0,
+          "upstreamLine": 0,
+          "text": "君と笑ってたこと",
+          "before": [
+            20.822,
+            27.172
+          ],
+          "proposed": [
+            20.8,
+            25.12
+          ],
+          "after": [
+            20.822,
+            25.12
+          ]
+        },
+        {
+          "line": 2,
+          "upstreamLine": 2,
+          "text": "何故か感情がただ",
+          "before": [
+            33.56,
+            39.807
+          ],
+          "proposed": [
+            33.44,
+            37.85
+          ],
+          "after": [
+            33.56,
+            37.85
+          ]
+        },
+        {
+          "line": 3,
+          "upstreamLine": 3,
+          "text": "騒ぎ続けていた",
+          "before": [
+            39.807,
+            46.494
+          ],
+          "proposed": [
+            39.8,
+            43.97
+          ],
+          "after": [
+            39.807,
+            43.97
+          ]
+        },
+        {
+          "line": 4,
+          "upstreamLine": 4,
+          "text": "これでよかったのか？",
+          "before": [
+            46.494,
+            50.57
+          ],
+          "proposed": [
+            46.48,
+            50.17
+          ],
+          "after": [
+            46.494,
+            50.17
+          ]
+        },
+        {
+          "line": 5,
+          "upstreamLine": 5,
+          "text": "どこで間違えた？",
+          "before": [
+            52.815,
+            56.75
+          ],
+          "proposed": [
+            52.79,
+            56.48
+          ],
+          "after": [
+            52.815,
+            56.48
+          ]
+        },
+        {
+          "line": 10,
+          "upstreamLine": 10,
+          "text": "さらりさらり落ちてく",
+          "before": [
+            84.008,
+            89.955
+          ],
+          "proposed": [
+            83.96,
+            89.53
+          ],
+          "after": [
+            84.008,
+            89.53
+          ]
+        },
+        {
+          "line": 11,
+          "upstreamLine": 11,
+          "text": "何もかもが全て",
+          "before": [
+            89.947,
+            96.254
+          ],
+          "proposed": [
+            89.75,
+            94.94
+          ],
+          "after": [
+            89.947,
+            94.94
+          ]
+        }
+      ]
     }
   ]
 }

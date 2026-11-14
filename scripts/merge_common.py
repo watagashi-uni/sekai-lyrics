@@ -22,7 +22,7 @@ def rows(data):
             match = next((w for w in data.get('wordLines', []) if abs(w['cueStart']-start)<.001 and w['text']==text), {})
             line.update(match)
             result.append(line)
-    result.sort(key=lambda r:r['start'])
+    result.sort(key=lambda r:r['cueStart'])
     for i, line in enumerate(result):
         line.setdefault('end', next((r['start'] for r in result[i+1:] if r['start']>line['start']), data['duration']))
     return result

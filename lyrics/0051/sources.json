@@ -83,6 +83,103 @@
       "via": "https://github.com/shinonomeenana/sekai_lyrics",
       "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
       "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "逐句结束时间",
+      "provider": "shinonomeenana/sekai_lyrics",
+      "url": "https://github.com/shinonomeenana/sekai_lyrics",
+      "license": null,
+      "vocalId": 47,
+      "verdict": "ok",
+      "fillerSec": 9.0,
+      "method": "ordered exact normalized text; starts agree within 0.3s; non-clamped; end shortened within existing interval; upstream vocal-silence alignment, no independent acoustic verification",
+      "lines": [
+        {
+          "line": 0,
+          "upstreamLine": 0,
+          "text": "イッツショウタイム　Hey　Hey",
+          "before": [
+            16.847,
+            24.465
+          ],
+          "proposed": [
+            16.86,
+            19.62
+          ],
+          "after": [
+            16.847,
+            19.62
+          ]
+        },
+        {
+          "line": 6,
+          "upstreamLine": 6,
+          "text": "期限切れのチケット（チケット）　",
+          "before": [
+            45.73,
+            49.034
+          ],
+          "proposed": [
+            45.56,
+            48.96
+          ],
+          "after": [
+            45.73,
+            48.96
+          ]
+        },
+        {
+          "line": 16,
+          "upstreamLine": 16,
+          "text": "Hey　終わりを超えて　ずっとパーティーを",
+          "before": [
+            76.794,
+            80.118
+          ],
+          "proposed": [
+            76.62,
+            80.06
+          ],
+          "after": [
+            76.794,
+            80.06
+          ]
+        },
+        {
+          "line": 17,
+          "upstreamLine": 17,
+          "text": "Hey　回り続けるメリーゴーラウンド",
+          "before": [
+            80.409,
+            83.71
+          ],
+          "proposed": [
+            80.26,
+            83.5
+          ],
+          "after": [
+            80.409,
+            83.5
+          ]
+        },
+        {
+          "line": 26,
+          "upstreamLine": 26,
+          "text": "イッツショウタイム",
+          "before": [
+            117.704,
+            124.675
+          ],
+          "proposed": [
+            117.67,
+            119.16
+          ],
+          "after": [
+            117.704,
+            119.16
+          ]
+        }
+      ]
     }
   ]
 }

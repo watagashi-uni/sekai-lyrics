@@ -75,6 +75,188 @@
       "via": "https://github.com/shinonomeenana/sekai_lyrics",
       "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
       "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "逐句结束时间",
+      "provider": "shinonomeenana/sekai_lyrics",
+      "url": "https://github.com/shinonomeenana/sekai_lyrics",
+      "license": null,
+      "vocalId": 48,
+      "verdict": "ok",
+      "fillerSec": 11.069,
+      "method": "ordered exact normalized text; starts agree within 0.3s; non-clamped; end shortened within existing interval; upstream vocal-silence alignment, no independent acoustic verification",
+      "lines": [
+        {
+          "line": 0,
+          "upstreamLine": 0,
+          "text": "もう救えない　スクラブばかりのブルペンじゃ",
+          "before": [
+            35.922,
+            39.82
+          ],
+          "proposed": [
+            35.9,
+            39.39
+          ],
+          "after": [
+            35.922,
+            39.39
+          ]
+        },
+        {
+          "line": 1,
+          "upstreamLine": 1,
+          "text": "ちゃちな青春も　お涙も　それすらないもんな",
+          "before": [
+            39.847,
+            43.913
+          ],
+          "proposed": [
+            39.7,
+            43.64
+          ],
+          "after": [
+            39.847,
+            43.64
+          ]
+        },
+        {
+          "line": 2,
+          "upstreamLine": 2,
+          "text": "相当に笑えない　コメディのワンシーンもままならない",
+          "before": [
+            43.901,
+            47.986
+          ],
+          "proposed": [
+            43.81,
+            47.46
+          ],
+          "after": [
+            43.901,
+            47.46
+          ]
+        },
+        {
+          "line": 4,
+          "upstreamLine": 4,
+          "text": "掛け違えたボタンの身なりを",
+          "before": [
+            56.261,
+            58.225
+          ],
+          "proposed": [
+            56.24,
+            57.9
+          ],
+          "after": [
+            56.261,
+            57.9
+          ]
+        },
+        {
+          "line": 5,
+          "upstreamLine": 5,
+          "text": "いつのいつまで見ぬ振りしようか",
+          "before": [
+            58.225,
+            60.43
+          ],
+          "proposed": [
+            58.02,
+            59.94
+          ],
+          "after": [
+            58.225,
+            59.94
+          ]
+        },
+        {
+          "line": 7,
+          "upstreamLine": 7,
+          "text": "たまたま火事場に逃げ込んで",
+          "before": [
+            66.421,
+            68.466
+          ],
+          "proposed": [
+            66.36,
+            68.25
+          ],
+          "after": [
+            66.421,
+            68.25
+          ]
+        },
+        {
+          "line": 8,
+          "upstreamLine": 8,
+          "text": "善かれと油を放り込んで",
+          "before": [
+            68.466,
+            70.51
+          ],
+          "proposed": [
+            68.43,
+            70.08
+          ],
+          "after": [
+            68.466,
+            70.08
+          ]
+        },
+        {
+          "line": 10,
+          "upstreamLine": 10,
+          "text": "ぐつぐつ明日が泡吹いて",
+          "before": [
+            74.711,
+            76.736
+          ],
+          "proposed": [
+            74.5,
+            76.24
+          ],
+          "after": [
+            74.711,
+            76.24
+          ]
+        },
+        {
+          "line": 13,
+          "upstreamLine": 13,
+          "text": "このままみんなで浸り散らかして",
+          "before": [
+            82.974,
+            84.818
+          ],
+          "proposed": [
+            82.92,
+            84.8
+          ],
+          "after": [
+            82.974,
+            84.8
+          ]
+        },
+        {
+          "line": 15,
+          "upstreamLine": 15,
+          "text": "そんなボウルの中で憂さ晴らしだとかしようぜ",
+          "before": [
+            87.362,
+            90.568
+          ],
+          "proposed": [
+            87.16,
+            90.18
+          ],
+          "after": [
+            87.362,
+            90.18
+          ]
+        }
+      ]
     }
   ]
 }

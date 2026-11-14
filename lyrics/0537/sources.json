@@ -99,6 +99,273 @@
       "via": "https://github.com/shinonomeenana/sekai_lyrics",
       "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
       "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "逐句结束时间",
+      "provider": "shinonomeenana/sekai_lyrics",
+      "url": "https://github.com/shinonomeenana/sekai_lyrics",
+      "license": null,
+      "vocalId": 1605,
+      "verdict": "ok-agree",
+      "fillerSec": 9.0,
+      "method": "ordered exact normalized text; starts agree within 0.3s; non-clamped; end shortened within existing interval; upstream vocal-silence alignment, no independent acoustic verification",
+      "lines": [
+        {
+          "line": 0,
+          "upstreamLine": 0,
+          "text": "憎たらしくて",
+          "before": [
+            21.113,
+            24.394
+          ],
+          "proposed": [
+            21.26,
+            23.02
+          ],
+          "after": [
+            21.113,
+            23.02
+          ]
+        },
+        {
+          "line": 1,
+          "upstreamLine": 1,
+          "text": "そっぽ向いた",
+          "before": [
+            24.394,
+            27.674
+          ],
+          "proposed": [
+            24.39,
+            25.6
+          ],
+          "after": [
+            24.394,
+            25.6
+          ]
+        },
+        {
+          "line": 2,
+          "upstreamLine": 2,
+          "text": "あたし何度も",
+          "before": [
+            27.674,
+            30.891
+          ],
+          "proposed": [
+            27.86,
+            29.66
+          ],
+          "after": [
+            27.674,
+            29.66
+          ]
+        },
+        {
+          "line": 3,
+          "upstreamLine": 3,
+          "text": "騙されてる",
+          "before": [
+            30.891,
+            34.6
+          ],
+          "proposed": [
+            31.08,
+            32.54
+          ],
+          "after": [
+            30.891,
+            32.54
+          ]
+        },
+        {
+          "line": 18,
+          "upstreamLine": 18,
+          "text": "どうでもいいどうでもいいどうでもいい事ばっか",
+          "before": [
+            80.091324,
+            82.656167
+          ],
+          "proposed": [
+            80.33,
+            82.5
+          ],
+          "after": [
+            80.091324,
+            82.5
+          ]
+        },
+        {
+          "line": 23,
+          "upstreamLine": 23,
+          "text": "行かないで！（ないで！）",
+          "before": [
+            94.319,
+            96.384
+          ],
+          "proposed": [
+            94.56,
+            96.2
+          ],
+          "after": [
+            94.319,
+            96.2
+          ]
+        },
+        {
+          "line": 24,
+          "upstreamLine": 24,
+          "text": "先なんて見据えないで",
+          "before": [
+            96.384,
+            99.493
+          ],
+          "proposed": [
+            96.32,
+            99.48
+          ],
+          "after": [
+            96.384,
+            99.48
+          ]
+        },
+        {
+          "line": 25,
+          "upstreamLine": 25,
+          "text": "今すぐに",
+          "before": [
+            99.493,
+            101.011
+          ],
+          "proposed": [
+            99.5,
+            100.72
+          ],
+          "after": [
+            99.493,
+            100.72
+          ]
+        },
+        {
+          "line": 26,
+          "upstreamLine": 26,
+          "text": "誰も居ない街を抜けて",
+          "before": [
+            101.011,
+            104.217
+          ],
+          "proposed": [
+            100.92,
+            103.56
+          ],
+          "after": [
+            101.011,
+            103.56
+          ]
+        },
+        {
+          "line": 27,
+          "upstreamLine": 27,
+          "text": "呼吸は荒いまま",
+          "before": [
+            104.217,
+            107.32
+          ],
+          "proposed": [
+            104.12,
+            107.12
+          ],
+          "after": [
+            104.217,
+            107.12
+          ]
+        },
+        {
+          "line": 28,
+          "upstreamLine": 28,
+          "text": "知らないで！（ないで！）",
+          "before": [
+            107.32,
+            109.461
+          ],
+          "proposed": [
+            107.26,
+            109.38
+          ],
+          "after": [
+            107.32,
+            109.38
+          ]
+        },
+        {
+          "line": 29,
+          "upstreamLine": 29,
+          "text": "他なんてどうだっていいのさ",
+          "before": [
+            109.461,
+            112.423
+          ],
+          "proposed": [
+            109.38,
+            112.38
+          ],
+          "after": [
+            109.461,
+            112.38
+          ]
+        },
+        {
+          "line": 30,
+          "upstreamLine": 30,
+          "text": "わかるかしら",
+          "before": [
+            112.423,
+            114.089
+          ],
+          "proposed": [
+            112.44,
+            113.99
+          ],
+          "after": [
+            112.423,
+            113.99
+          ]
+        },
+        {
+          "line": 31,
+          "upstreamLine": 31,
+          "text": "独り善がりの愛でもいい",
+          "before": [
+            114.089,
+            117.161
+          ],
+          "proposed": [
+            114.15,
+            116.72
+          ],
+          "after": [
+            114.089,
+            116.72
+          ]
+        },
+        {
+          "line": 32,
+          "upstreamLine": 32,
+          "text": "暗い方へ行こうぜ",
+          "before": [
+            117.161,
+            134.86025
+          ],
+          "proposed": [
+            116.92,
+            121.04
+          ],
+          "after": [
+            117.161,
+            121.04
+          ]
+        }
+      ]
     }
   ]
 }

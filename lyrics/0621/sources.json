@@ -67,6 +67,86 @@
       "via": "https://github.com/shinonomeenana/sekai_lyrics",
       "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
       "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "逐句结束时间",
+      "provider": "shinonomeenana/sekai_lyrics",
+      "url": "https://github.com/shinonomeenana/sekai_lyrics",
+      "license": null,
+      "vocalId": 1698,
+      "verdict": "ok-agree",
+      "fillerSec": 9.375,
+      "method": "ordered exact normalized text; starts agree within 0.3s; non-clamped; end shortened within existing interval; upstream vocal-silence alignment, no independent acoustic verification",
+      "lines": [
+        {
+          "line": 1,
+          "upstreamLine": 1,
+          "text": "「こんにちは」 (Ah)",
+          "before": [
+            16.6455,
+            20.7655
+          ],
+          "proposed": [
+            16.84,
+            19.94
+          ],
+          "after": [
+            16.6455,
+            19.94
+          ]
+        },
+        {
+          "line": 3,
+          "upstreamLine": 3,
+          "text": "「普通かな」 (Oo)",
+          "before": [
+            22.6255,
+            33.3335
+          ],
+          "proposed": [
+            22.85,
+            25.93
+          ],
+          "after": [
+            22.6255,
+            25.93
+          ]
+        },
+        {
+          "line": 20,
+          "upstreamLine": 20,
+          "text": "(Ah)",
+          "before": [
+            95.9885,
+            99.6995
+          ],
+          "proposed": [
+            96.071,
+            98.11
+          ],
+          "after": [
+            95.9885,
+            98.11
+          ]
+        },
+        {
+          "line": 23,
+          "upstreamLine": 23,
+          "text": "(Oo)",
+          "before": [
+            101.8375,
+            105.5995
+          ],
+          "proposed": [
+            102.051,
+            104.02
+          ],
+          "after": [
+            101.8375,
+            104.02
+          ]
+        }
+      ]
     }
   ]
 }

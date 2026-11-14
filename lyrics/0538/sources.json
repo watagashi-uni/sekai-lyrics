@@ -67,6 +67,69 @@
       "via": "https://github.com/shinonomeenana/sekai_lyrics",
       "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
       "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "逐句结束时间",
+      "provider": "shinonomeenana/sekai_lyrics",
+      "url": "https://github.com/shinonomeenana/sekai_lyrics",
+      "license": null,
+      "vocalId": 1611,
+      "verdict": "ok-agree",
+      "fillerSec": 9.3728,
+      "method": "ordered exact normalized text; starts agree within 0.3s; non-clamped; end shortened within existing interval; upstream vocal-silence alignment, no independent acoustic verification",
+      "lines": [
+        {
+          "line": 12,
+          "upstreamLine": 12,
+          "text": "子綺麗な結果主義ですか",
+          "before": [
+            53.1325,
+            56.5385
+          ],
+          "proposed": [
+            53.1798,
+            56.4298
+          ],
+          "after": [
+            53.1325,
+            56.4298
+          ]
+        },
+        {
+          "line": 18,
+          "upstreamLine": 18,
+          "text": "止めらない鼓動響かせて",
+          "before": [
+            67.8695,
+            70.6225
+          ],
+          "proposed": [
+            67.7998,
+            70.3598
+          ],
+          "after": [
+            67.8695,
+            70.3598
+          ]
+        },
+        {
+          "line": 23,
+          "upstreamLine": 23,
+          "text": "そんな解を提示切に",
+          "before": [
+            81.5825,
+            85.51675
+          ],
+          "proposed": [
+            81.6598,
+            83.7798
+          ],
+          "after": [
+            81.5825,
+            83.7798
+          ]
+        }
+      ]
     }
   ]
 }

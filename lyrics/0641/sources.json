@@ -59,6 +59,528 @@
       "via": "https://github.com/shinonomeenana/sekai_lyrics",
       "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
       "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "逐句结束时间",
+      "provider": "shinonomeenana/sekai_lyrics",
+      "url": "https://github.com/shinonomeenana/sekai_lyrics",
+      "license": null,
+      "vocalId": 1747,
+      "verdict": "ok",
+      "fillerSec": 9.0,
+      "method": "ordered exact normalized text; starts agree within 0.3s; non-clamped; end shortened within existing interval; upstream vocal-silence alignment, no independent acoustic verification",
+      "lines": [
+        {
+          "line": 0,
+          "upstreamLine": 0,
+          "text": "いきなり歌い始めてごめんね",
+          "before": [
+            14.1225,
+            16.6145
+          ],
+          "proposed": [
+            14.28,
+            16.44
+          ],
+          "after": [
+            14.1225,
+            16.44
+          ]
+        },
+        {
+          "line": 1,
+          "upstreamLine": 1,
+          "text": "ちょっとだけそのまま聞いててね",
+          "before": [
+            16.6145,
+            19.0295
+          ],
+          "proposed": [
+            16.52,
+            18.82
+          ],
+          "after": [
+            16.6145,
+            18.82
+          ]
+        },
+        {
+          "line": 2,
+          "upstreamLine": 2,
+          "text": "本日お伝えしたいのは",
+          "before": [
+            19.0295,
+            21.2885
+          ],
+          "proposed": [
+            19.14,
+            21.17
+          ],
+          "after": [
+            19.0295,
+            21.17
+          ]
+        },
+        {
+          "line": 3,
+          "upstreamLine": 3,
+          "text": "とっても大事な君のこと！",
+          "before": [
+            21.2885,
+            23.6955
+          ],
+          "proposed": [
+            21.42,
+            23.49
+          ],
+          "after": [
+            21.2885,
+            23.49
+          ]
+        },
+        {
+          "line": 4,
+          "upstreamLine": 4,
+          "text": "たまにはケンカもしてきたけど",
+          "before": [
+            23.6955,
+            25.8995
+          ],
+          "proposed": [
+            23.7,
+            25.77
+          ],
+          "after": [
+            23.6955,
+            25.77
+          ]
+        },
+        {
+          "line": 5,
+          "upstreamLine": 5,
+          "text": "だからこそ何でも知ってんだ",
+          "before": [
+            25.8995,
+            28.1175
+          ],
+          "proposed": [
+            25.97,
+            28.08
+          ],
+          "after": [
+            25.8995,
+            28.08
+          ]
+        },
+        {
+          "line": 6,
+          "upstreamLine": 6,
+          "text": "君の長所はマジメなこと",
+          "before": [
+            28.1175,
+            30.3285
+          ],
+          "proposed": [
+            28.3,
+            29.88
+          ],
+          "after": [
+            28.1175,
+            29.88
+          ]
+        },
+        {
+          "line": 7,
+          "upstreamLine": 7,
+          "text": "ただ妄想癖がひどい！",
+          "before": [
+            30.3285,
+            32.4735
+          ],
+          "proposed": [
+            30.16,
+            32.0
+          ],
+          "after": [
+            30.3285,
+            32.0
+          ]
+        },
+        {
+          "line": 8,
+          "upstreamLine": 8,
+          "text": "君が飛び降りるのならば僕は",
+          "before": [
+            32.4735,
+            35.0935
+          ],
+          "proposed": [
+            32.46,
+            34.93
+          ],
+          "after": [
+            32.4735,
+            34.93
+          ]
+        },
+        {
+          "line": 9,
+          "upstreamLine": 9,
+          "text": "笑って一緒に飛び降りる",
+          "before": [
+            35.0935,
+            37.3215
+          ],
+          "proposed": [
+            35.09,
+            36.84
+          ],
+          "after": [
+            35.0935,
+            36.84
+          ]
+        },
+        {
+          "line": 10,
+          "upstreamLine": 10,
+          "text": "止めてくれるとでも思ったか！",
+          "before": [
+            37.3215,
+            39.6585
+          ],
+          "proposed": [
+            37.18,
+            39.3
+          ],
+          "after": [
+            37.3215,
+            39.3
+          ]
+        },
+        {
+          "line": 11,
+          "upstreamLine": 11,
+          "text": "僕らの絆を見くびるか！",
+          "before": [
+            39.6585,
+            41.5995
+          ],
+          "proposed": [
+            39.64,
+            41.56
+          ],
+          "after": [
+            39.6585,
+            41.56
+          ]
+        },
+        {
+          "line": 12,
+          "upstreamLine": 12,
+          "text": "そして手を繋いで落ちて行こう",
+          "before": [
+            41.5995,
+            44.1875
+          ],
+          "proposed": [
+            41.62,
+            43.7
+          ],
+          "after": [
+            41.5995,
+            43.7
+          ]
+        },
+        {
+          "line": 13,
+          "upstreamLine": 13,
+          "text": "地面めがけてピースしよう",
+          "before": [
+            44.1875,
+            46.6425
+          ],
+          "proposed": [
+            44.12,
+            45.96
+          ],
+          "after": [
+            44.1875,
+            45.96
+          ]
+        },
+        {
+          "line": 15,
+          "upstreamLine": 15,
+          "text": "忘れているような……",
+          "before": [
+            48.7465,
+            51.2015
+          ],
+          "proposed": [
+            48.66,
+            51.1
+          ],
+          "after": [
+            48.7465,
+            51.1
+          ]
+        },
+        {
+          "line": 17,
+          "upstreamLine": 17,
+          "text": "やっぱり飛ぶの後でにしませんか！",
+          "before": [
+            55.5255,
+            69.0975
+          ],
+          "proposed": [
+            55.68,
+            58.94
+          ],
+          "after": [
+            55.5255,
+            58.94
+          ]
+        },
+        {
+          "line": 18,
+          "upstreamLine": 18,
+          "text": "いつか　僕らは",
+          "before": [
+            69.0975,
+            73.4775
+          ],
+          "proposed": [
+            69.26,
+            71.92
+          ],
+          "after": [
+            69.0975,
+            71.92
+          ]
+        },
+        {
+          "line": 19,
+          "upstreamLine": 19,
+          "text": "答え合わせするのかな",
+          "before": [
+            73.4775,
+            78.3005
+          ],
+          "proposed": [
+            73.52,
+            77.6
+          ],
+          "after": [
+            73.4775,
+            77.6
+          ]
+        },
+        {
+          "line": 20,
+          "upstreamLine": 20,
+          "text": "そんな　未来は",
+          "before": [
+            78.3005,
+            82.6025
+          ],
+          "proposed": [
+            78.12,
+            80.96
+          ],
+          "after": [
+            78.3005,
+            80.96
+          ]
+        },
+        {
+          "line": 21,
+          "upstreamLine": 21,
+          "text": "忘れるまで秘めたまま",
+          "before": [
+            82.6025,
+            87.4245
+          ],
+          "proposed": [
+            82.68,
+            86.72
+          ],
+          "after": [
+            82.6025,
+            86.72
+          ]
+        },
+        {
+          "line": 23,
+          "upstreamLine": 23,
+          "text": "笑って一緒に飛び降りる",
+          "before": [
+            89.7055,
+            92.1585
+          ],
+          "proposed": [
+            89.64,
+            91.78
+          ],
+          "after": [
+            89.7055,
+            91.78
+          ]
+        },
+        {
+          "line": 24,
+          "upstreamLine": 24,
+          "text": "止めてくれるとでも思ったか！",
+          "before": [
+            92.1585,
+            94.3875
+          ],
+          "proposed": [
+            92.12,
+            94.14
+          ],
+          "after": [
+            92.1585,
+            94.14
+          ]
+        },
+        {
+          "line": 26,
+          "upstreamLine": 26,
+          "text": "次に僕らが出会う世界でも",
+          "before": [
+            96.3595,
+            98.7065
+          ],
+          "proposed": [
+            96.52,
+            98.54
+          ],
+          "after": [
+            96.3595,
+            98.54
+          ]
+        },
+        {
+          "line": 27,
+          "upstreamLine": 27,
+          "text": "またこんな風になれたらいいね",
+          "before": [
+            98.7065,
+            101.2615
+          ],
+          "proposed": [
+            98.66,
+            100.9
+          ],
+          "after": [
+            98.7065,
+            100.9
+          ]
+        },
+        {
+          "line": 28,
+          "upstreamLine": 28,
+          "text": "生まれ変わったら何になるか",
+          "before": [
+            101.2615,
+            103.5745
+          ],
+          "proposed": [
+            101.12,
+            103.28
+          ],
+          "after": [
+            101.2615,
+            103.28
+          ]
+        },
+        {
+          "line": 29,
+          "upstreamLine": 29,
+          "text": "本で占ってみようか？",
+          "before": [
+            103.5745,
+            106.0635
+          ],
+          "proposed": [
+            103.52,
+            105.94
+          ],
+          "after": [
+            103.5745,
+            105.94
+          ]
+        },
+        {
+          "line": 30,
+          "upstreamLine": 30,
+          "text": "君は「玉ねぎ」　僕は「タイヤ」",
+          "before": [
+            106.0635,
+            110.5295
+          ],
+          "proposed": [
+            105.94,
+            110.16
+          ],
+          "after": [
+            106.0635,
+            110.16
+          ]
+        },
+        {
+          "line": 31,
+          "upstreamLine": 31,
+          "text": "やっぱり飛ぶの今度にしませんか……？",
+          "before": [
+            110.5295,
+            114.3725
+          ],
+          "proposed": [
+            110.5,
+            114.26
+          ],
+          "after": [
+            110.5295,
+            114.26
+          ]
+        },
+        {
+          "line": 32,
+          "upstreamLine": 32,
+          "text": "ホントのホントーに飛べる日　目指して",
+          "before": [
+            114.3725,
+            119.7665
+          ],
+          "proposed": [
+            114.26,
+            119.02
+          ],
+          "after": [
+            114.3725,
+            119.02
+          ]
+        },
+        {
+          "line": 33,
+          "upstreamLine": 33,
+          "text": "もうちょっとだけ一緒に居ませんか！",
+          "before": [
+            119.7665,
+            125.83638
+          ],
+          "proposed": [
+            119.84,
+            124.36
+          ],
+          "after": [
+            119.7665,
+            124.36
+          ]
+        }
+      ]
     }
   ]
 }

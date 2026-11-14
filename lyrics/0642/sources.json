@@ -83,6 +83,69 @@
       "via": "https://github.com/shinonomeenana/sekai_lyrics",
       "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
       "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "逐句结束时间",
+      "provider": "shinonomeenana/sekai_lyrics",
+      "url": "https://github.com/shinonomeenana/sekai_lyrics",
+      "license": null,
+      "vocalId": 1762,
+      "verdict": "ok",
+      "fillerSec": 7.9831,
+      "method": "ordered exact normalized text; starts agree within 0.3s; non-clamped; end shortened within existing interval; upstream vocal-silence alignment, no independent acoustic verification",
+      "lines": [
+        {
+          "line": 1,
+          "upstreamLine": 1,
+          "text": "どきどき心は靴擦れする",
+          "before": [
+            25.16362,
+            30.58262
+          ],
+          "proposed": [
+            25.2431,
+            29.7701
+          ],
+          "after": [
+            25.16362,
+            29.7701
+          ]
+        },
+        {
+          "line": 10,
+          "upstreamLine": 10,
+          "text": "僕たち朝に出会えた",
+          "before": [
+            61.43462,
+            65.48062
+          ],
+          "proposed": [
+            61.5271,
+            65.3201
+          ],
+          "after": [
+            61.43462,
+            65.3201
+          ]
+        },
+        {
+          "line": 14,
+          "upstreamLine": 14,
+          "text": "どうせ長く なる旅路さ",
+          "before": [
+            76.87562,
+            83.45175
+          ],
+          "proposed": [
+            76.9491,
+            79.2491
+          ],
+          "after": [
+            76.87562,
+            79.2491
+          ]
+        }
+      ]
     }
   ]
 }

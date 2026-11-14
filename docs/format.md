@@ -79,3 +79,7 @@ LRC 基于保留的来源行，双语 JSON 基于原项目行，分句、拟声�
 罗马音来源优先级：`romaji.sekaipedia.json` 保存可复用的人工罗马音输入；按 NFKC、去空白及 Unicode 标点后的全文严格匹配，优先采用，保留原大小写、空格和标点。输入由 `import-sekaipedia-romaji.py <只读仓库目录>` 提取，排除对方报告的零基 `heuristic_lines`，冲突读音不采用。无法可靠切分、文字不同或无来源的行沿用 Janome＋注音生成；不按字数比例切分。重复句按实际文字匹配。纯英文、符号行不添加。
 
 双语行的 `romajiSource`、LRC `romajiLines[].source` 分别为 `sekaipedia`（人工来源）或 `generated`（自动生成）。人工输入记录页面、转取仓库及提交号，许可为 CC BY-SA 4.0；既有文字来源的 oldid 不被当作此次抓取罗马音的修订号。重新运行 `add-romaji.py` 不覆盖人工输入，内容相同不重写。
+
+### LRC 逐句结束时间
+
+可选 `lineTimings: [{cueStart,text,start,end,source}]` 给没有逐字轴的行补充结束时间。按原始 cueStart＋text 匹配，优先级低于 wordLines。旧客户端忽略此字段，仍按下一行开始时间结束；不向普通 LRC 硬塞结束标签。来源与核对方法在 sources.json 中逐行记录。

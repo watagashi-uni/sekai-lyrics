@@ -115,6 +115,239 @@
       "via": "https://github.com/shinonomeenana/sekai_lyrics",
       "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
       "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "逐句结束时间",
+      "provider": "shinonomeenana/sekai_lyrics",
+      "url": "https://github.com/shinonomeenana/sekai_lyrics",
+      "license": null,
+      "vocalId": 55,
+      "verdict": "ok-agree",
+      "fillerSec": 8.983,
+      "method": "ordered exact normalized text; starts agree within 0.3s; non-clamped; end shortened within existing interval; upstream vocal-silence alignment, no independent acoustic verification",
+      "lines": [
+        {
+          "line": 0,
+          "upstreamLine": 0,
+          "text": "取り戻したい　ヒーローみたいに",
+          "before": [
+            10.61,
+            13.26
+          ],
+          "proposed": [
+            10.71,
+            13.001
+          ],
+          "after": [
+            10.61,
+            13.001
+          ]
+        },
+        {
+          "line": 1,
+          "upstreamLine": 1,
+          "text": "苦笑いバイバイはもういいよ",
+          "before": [
+            13.26,
+            15.88
+          ],
+          "proposed": [
+            13.241,
+            15.542
+          ],
+          "after": [
+            13.26,
+            15.542
+          ]
+        },
+        {
+          "line": 10,
+          "upstreamLine": 10,
+          "text": "繋げよう　断線したストーリー",
+          "before": [
+            61.14,
+            63.78
+          ],
+          "proposed": [
+            61.187,
+            63.547
+          ],
+          "after": [
+            61.14,
+            63.547
+          ]
+        },
+        {
+          "line": 11,
+          "upstreamLine": 11,
+          "text": "進めよう　ワンテンポ日常に",
+          "before": [
+            63.78,
+            66.28
+          ],
+          "proposed": [
+            63.727,
+            66.067
+          ],
+          "after": [
+            63.78,
+            66.067
+          ]
+        },
+        {
+          "line": 12,
+          "upstreamLine": 12,
+          "text": "君を刺すその針は　私が奪ってあげるから",
+          "before": [
+            66.28,
+            71.05
+          ],
+          "proposed": [
+            66.247,
+            70.808
+          ],
+          "after": [
+            66.28,
+            70.808
+          ]
+        },
+        {
+          "line": 13,
+          "upstreamLine": 13,
+          "text": "取り戻したい　ヒーローみたいに",
+          "before": [
+            71.27,
+            73.95
+          ],
+          "proposed": [
+            71.328,
+            73.648
+          ],
+          "after": [
+            71.27,
+            73.648
+          ]
+        },
+        {
+          "line": 14,
+          "upstreamLine": 14,
+          "text": "苦笑いバイバイはもういいよ",
+          "before": [
+            73.95,
+            76.44
+          ],
+          "proposed": [
+            73.868,
+            76.148
+          ],
+          "after": [
+            73.95,
+            76.148
+          ]
+        },
+        {
+          "line": 15,
+          "upstreamLine": 15,
+          "text": "泣くときは教えてよ絶対",
+          "before": [
+            76.44,
+            79.7
+          ],
+          "proposed": [
+            76.388,
+            79.669
+          ],
+          "after": [
+            76.44,
+            79.669
+          ]
+        },
+        {
+          "line": 16,
+          "upstreamLine": 16,
+          "text": "どうだっていい存在じゃない",
+          "before": [
+            79.96,
+            82.27
+          ],
+          "proposed": [
+            80.029,
+            82.209
+          ],
+          "after": [
+            79.96,
+            82.209
+          ]
+        },
+        {
+          "line": 17,
+          "upstreamLine": 17,
+          "text": "簡単に愛は終わらないよ",
+          "before": [
+            82.27,
+            85.2
+          ],
+          "proposed": [
+            82.549,
+            84.869
+          ],
+          "after": [
+            82.27,
+            84.869
+          ]
+        },
+        {
+          "line": 20,
+          "upstreamLine": 20,
+          "text": "もう一度奏でていこう",
+          "before": [
+            89.99,
+            92.42
+          ],
+          "proposed": [
+            89.97,
+            92.25
+          ],
+          "after": [
+            89.99,
+            92.25
+          ]
+        },
+        {
+          "line": 21,
+          "upstreamLine": 21,
+          "text": "なんだって歌うよ　君が笑うなら",
+          "before": [
+            92.42,
+            95.92
+          ],
+          "proposed": [
+            92.65,
+            95.591
+          ],
+          "after": [
+            92.42,
+            95.591
+          ]
+        },
+        {
+          "line": 24,
+          "upstreamLine": 24,
+          "text": "すれ違う前のセカイまで",
+          "before": [
+            108.5,
+            112.68
+          ],
+          "proposed": [
+            108.592,
+            112.67
+          ],
+          "after": [
+            108.5,
+            112.67
+          ]
+        }
+      ]
     }
   ]
 }

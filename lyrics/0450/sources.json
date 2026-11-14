@@ -83,6 +83,86 @@
       "via": "https://github.com/shinonomeenana/sekai_lyrics",
       "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
       "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "逐句结束时间",
+      "provider": "shinonomeenana/sekai_lyrics",
+      "url": "https://github.com/shinonomeenana/sekai_lyrics",
+      "license": null,
+      "vocalId": 1432,
+      "verdict": "ok-agree",
+      "fillerSec": 8.0909,
+      "method": "ordered exact normalized text; starts agree within 0.3s; non-clamped; end shortened within existing interval; upstream vocal-silence alignment, no independent acoustic verification",
+      "lines": [
+        {
+          "line": 19,
+          "upstreamLine": 19,
+          "text": "オ！ペ！ラ！それでもいいや",
+          "before": [
+            64.882,
+            67.303
+          ],
+          "proposed": [
+            64.8599,
+            67.1999
+          ],
+          "after": [
+            64.882,
+            67.1999
+          ]
+        },
+        {
+          "line": 24,
+          "upstreamLine": 24,
+          "text": "歌え ルトゥトゥトゥトゥトゥトゥ トゥルットゥ",
+          "before": [
+            76.556,
+            79.136
+          ],
+          "proposed": [
+            76.5599,
+            78.7599
+          ],
+          "after": [
+            76.556,
+            78.7599
+          ]
+        },
+        {
+          "line": 28,
+          "upstreamLine": 28,
+          "text": "歌え ルトゥトゥトゥトゥトゥトゥ トゥルットゥ",
+          "before": [
+            86.258,
+            88.999
+          ],
+          "proposed": [
+            86.2599,
+            88.6999
+          ],
+          "after": [
+            86.258,
+            88.6999
+          ]
+        },
+        {
+          "line": 40,
+          "upstreamLine": 40,
+          "text": "歌え ルトゥトゥトゥトゥトゥトゥ トゥルットゥ",
+          "before": [
+            120.146,
+            122.915
+          ],
+          "proposed": [
+            120.2199,
+            122.5999
+          ],
+          "after": [
+            120.146,
+            122.5999
+          ]
+        }
+      ]
     }
   ]
 }

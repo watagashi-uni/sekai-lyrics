@@ -83,6 +83,35 @@
       "via": "https://github.com/shinonomeenana/sekai_lyrics",
       "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
       "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "逐句结束时间",
+      "provider": "shinonomeenana/sekai_lyrics",
+      "url": "https://github.com/shinonomeenana/sekai_lyrics",
+      "license": null,
+      "vocalId": 1584,
+      "verdict": "ok",
+      "fillerSec": 7.941,
+      "method": "ordered exact normalized text; starts agree within 0.3s; non-clamped; end shortened within existing interval; upstream vocal-silence alignment, no independent acoustic verification",
+      "lines": [
+        {
+          "line": 28,
+          "upstreamLine": 28,
+          "text": "ライアー （ライアー） ライアー （ライアー） ダンサー",
+          "before": [
+            102.5715,
+            105.1485
+          ],
+          "proposed": [
+            102.45,
+            105.08
+          ],
+          "after": [
+            102.5715,
+            105.08
+          ]
+        }
+      ]
     }
   ]
 }

@@ -39,6 +39,12 @@ for (const song of catalog.songs) {
     for (const stamp of translationStamps) assert.ok(lyricStamps.has(stamp), `translation row ${stamp} of ${mid} is not on a lyric line`)
     assert.equal(new Set(translationStamps).size, translationStamps.length, `two translation rows share a timestamp in ${mid}`)
   } else assert.ok(data.lines?.length)
+  for (const line of data.lineTimings || []) {
+    assert.equal(data.format, 'lrc')
+    assert.ok(Number.isFinite(line.cueStart) && Number.isFinite(line.start) && Number.isFinite(line.end))
+    assert.ok(line.start >= 0 && line.end > line.start && line.end <= data.duration)
+    assert.ok(!data.wordLines?.some(w => w.cueStart === line.cueStart && w.text === line.text && w.words?.length))
+  }
   let timed = 0, units = 0
   for (const line of data.format === 'lrc' ? data.wordLines || [] : data.lines) {
     assert.ok(Number.isFinite(line.start) && Number.isFinite(line.end) && line.end >= line.start)

@@ -91,6 +91,103 @@
       "via": "https://github.com/shinonomeenana/sekai_lyrics",
       "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
       "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "逐句结束时间",
+      "provider": "shinonomeenana/sekai_lyrics",
+      "url": "https://github.com/shinonomeenana/sekai_lyrics",
+      "license": null,
+      "vocalId": 533,
+      "verdict": "ok",
+      "fillerSec": 9.0,
+      "method": "ordered exact normalized text; starts agree within 0.3s; non-clamped; end shortened within existing interval; upstream vocal-silence alignment, no independent acoustic verification",
+      "lines": [
+        {
+          "line": 0,
+          "upstreamLine": 0,
+          "text": "Wow Wow Wow Wow Wow",
+          "before": [
+            9,
+            11.605123
+          ],
+          "proposed": [
+            9.22,
+            11.29
+          ],
+          "after": [
+            9,
+            11.29
+          ]
+        },
+        {
+          "line": 1,
+          "upstreamLine": 1,
+          "text": "Wow Wow Wow Wow Wow 飛び立てば 正解!",
+          "before": [
+            13.934123,
+            19.255189
+          ],
+          "proposed": [
+            14.03,
+            19.1
+          ],
+          "after": [
+            13.934123,
+            19.1
+          ]
+        },
+        {
+          "line": 2,
+          "upstreamLine": 2,
+          "text": "Wow Wow Wow Wow Wow, Wow Wow Wow Wow Wow",
+          "before": [
+            19.274123,
+            24.063123
+          ],
+          "proposed": [
+            19.26,
+            24.04
+          ],
+          "after": [
+            19.274123,
+            24.04
+          ]
+        },
+        {
+          "line": 3,
+          "upstreamLine": 3,
+          "text": "Wow Wow Wow Wow Wow 飛び立てば 正解!",
+          "before": [
+            24.384123,
+            29.38285
+          ],
+          "proposed": [
+            24.28,
+            29.26
+          ],
+          "after": [
+            24.384123,
+            29.26
+          ]
+        },
+        {
+          "line": 34,
+          "upstreamLine": 35,
+          "text": "Wow Wow Wow Wow Wow 飛び立てば 正解!",
+          "before": [
+            122.757373,
+            127.746883
+          ],
+          "proposed": [
+            122.59,
+            127.73
+          ],
+          "after": [
+            122.757373,
+            127.73
+          ]
+        }
+      ]
     }
   ]
 }

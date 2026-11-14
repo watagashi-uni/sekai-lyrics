@@ -19,6 +19,188 @@
       "via": "https://github.com/shinonomeenana/sekai_lyrics",
       "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
       "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "逐句结束时间",
+      "provider": "shinonomeenana/sekai_lyrics",
+      "url": "https://github.com/shinonomeenana/sekai_lyrics",
+      "license": null,
+      "vocalId": 1806,
+      "verdict": "ok-agree",
+      "fillerSec": 9.0,
+      "method": "ordered exact normalized text; starts agree within 0.3s; non-clamped; end shortened within existing interval; upstream vocal-silence alignment, no independent acoustic verification",
+      "lines": [
+        {
+          "line": 1,
+          "upstreamLine": 1,
+          "text": "あらゆる手を尽くして勝ちに行くのさ",
+          "before": [
+            32.0595,
+            38.3305
+          ],
+          "proposed": [
+            32.3,
+            37.04
+          ],
+          "after": [
+            32.0595,
+            37.04
+          ]
+        },
+        {
+          "line": 4,
+          "upstreamLine": 4,
+          "text": "凍りついた世界に新しい風が吹く",
+          "before": [
+            51.1175,
+            57.3875
+          ],
+          "proposed": [
+            51.22,
+            56.86
+          ],
+          "after": [
+            51.1175,
+            56.86
+          ]
+        },
+        {
+          "line": 5,
+          "upstreamLine": 5,
+          "text": "時計の針はもう動き出すから",
+          "before": [
+            57.3875,
+            61.3305
+          ],
+          "proposed": [
+            57.18,
+            60.96
+          ],
+          "after": [
+            57.3875,
+            60.96
+          ]
+        },
+        {
+          "line": 7,
+          "upstreamLine": 7,
+          "text": "僕らのために今　勇者は立ち上がる",
+          "before": [
+            67.8825,
+            74.7375
+          ],
+          "proposed": [
+            68.08,
+            74.56
+          ],
+          "after": [
+            67.8825,
+            74.56
+          ]
+        },
+        {
+          "line": 8,
+          "upstreamLine": 8,
+          "text": "卑怯の限りを尽くして　勝ち進め",
+          "before": [
+            74.7375,
+            80.7555
+          ],
+          "proposed": [
+            74.56,
+            79.88
+          ],
+          "after": [
+            74.7375,
+            79.88
+          ]
+        },
+        {
+          "line": 9,
+          "upstreamLine": 9,
+          "text": "きれいごとはいらない　要は勝てばいいのさ",
+          "before": [
+            80.7555,
+            87.5245
+          ],
+          "proposed": [
+            80.58,
+            86.86
+          ],
+          "after": [
+            80.7555,
+            86.86
+          ]
+        },
+        {
+          "line": 11,
+          "upstreamLine": 11,
+          "text": "ああ　僕らの戦士「うろたんだー」",
+          "before": [
+            93.5425,
+            105.8165
+          ],
+          "proposed": [
+            93.48,
+            99.97
+          ],
+          "after": [
+            93.5425,
+            99.97
+          ]
+        },
+        {
+          "line": 12,
+          "upstreamLine": 12,
+          "text": "きれいごとはいらない　要は勝てばいいのさ",
+          "before": [
+            105.8165,
+            112.5715
+          ],
+          "proposed": [
+            106.07,
+            112.18
+          ],
+          "after": [
+            105.8165,
+            112.18
+          ]
+        },
+        {
+          "line": 13,
+          "upstreamLine": 13,
+          "text": "もう誰にも止められはしないよ",
+          "before": [
+            112.5715,
+            118.7995
+          ],
+          "proposed": [
+            112.46,
+            117.94
+          ],
+          "after": [
+            112.5715,
+            117.94
+          ]
+        },
+        {
+          "line": 14,
+          "upstreamLine": 14,
+          "text": "ああ　僕らの戦士「うろたんだー」",
+          "before": [
+            118.7995,
+            139.548
+          ],
+          "proposed": [
+            118.72,
+            125.22
+          ],
+          "after": [
+            118.7995,
+            125.22
+          ]
+        }
+      ]
     }
   ]
 }

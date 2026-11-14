@@ -59,6 +59,137 @@
       "via": "https://github.com/shinonomeenana/sekai_lyrics",
       "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
       "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "逐句结束时间",
+      "provider": "shinonomeenana/sekai_lyrics",
+      "url": "https://github.com/shinonomeenana/sekai_lyrics",
+      "license": null,
+      "vocalId": 803,
+      "verdict": "ok",
+      "fillerSec": 7.9565,
+      "method": "ordered exact normalized text; starts agree within 0.3s; non-clamped; end shortened within existing interval; upstream vocal-silence alignment, no independent acoustic verification",
+      "lines": [
+        {
+          "line": 6,
+          "upstreamLine": 6,
+          "text": "豚になってyeah yeah ゴミ塗れの掃き溜めに",
+          "before": [
+            47.037,
+            51.343
+          ],
+          "proposed": [
+            46.9995,
+            51.0495
+          ],
+          "after": [
+            47.037,
+            51.0495
+          ]
+        },
+        {
+          "line": 7,
+          "upstreamLine": 7,
+          "text": "飛び込めyeah yeah 服も飾りもほっぽって",
+          "before": [
+            51.343,
+            55.381
+          ],
+          "proposed": [
+            51.2895,
+            54.8995
+          ],
+          "after": [
+            51.343,
+            54.8995
+          ]
+        },
+        {
+          "line": 8,
+          "upstreamLine": 8,
+          "text": "へべれけyeah yeah シャレたダボハゼ共など",
+          "before": [
+            55.381,
+            59.501
+          ],
+          "proposed": [
+            55.5395,
+            59.4695
+          ],
+          "after": [
+            55.381,
+            59.4695
+          ]
+        },
+        {
+          "line": 9,
+          "upstreamLine": 9,
+          "text": "くたばれyeah yeah アホ面を引っ剥がしたいぜyeah yeah",
+          "before": [
+            59.501,
+            68.424
+          ],
+          "proposed": [
+            59.7795,
+            64.9005
+          ],
+          "after": [
+            59.501,
+            64.9005
+          ]
+        },
+        {
+          "line": 14,
+          "upstreamLine": 14,
+          "text": "豚になってyeah yeah ゴミ塗れの掃き溜めに",
+          "before": [
+            86.431,
+            90.832
+          ],
+          "proposed": [
+            86.6495,
+            90.6995
+          ],
+          "after": [
+            86.431,
+            90.6995
+          ]
+        },
+        {
+          "line": 15,
+          "upstreamLine": 15,
+          "text": "飛び込めyeah yeah 服も飾りもほっぽって",
+          "before": [
+            90.832,
+            95.112
+          ],
+          "proposed": [
+            91.0895,
+            94.5795
+          ],
+          "after": [
+            90.832,
+            94.5795
+          ]
+        },
+        {
+          "line": 16,
+          "upstreamLine": 16,
+          "text": "へべれけyeah yeah シャレたダボハゼ共など",
+          "before": [
+            95.112,
+            99.169718
+          ],
+          "proposed": [
+            95.1795,
+            99.1195
+          ],
+          "after": [
+            95.112,
+            99.1195
+          ]
+        }
+      ]
     }
   ]
 }

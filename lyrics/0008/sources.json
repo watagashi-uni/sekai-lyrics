@@ -83,6 +83,35 @@
       "via": "https://github.com/shinonomeenana/sekai_lyrics",
       "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
       "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "逐句结束时间",
+      "provider": "shinonomeenana/sekai_lyrics",
+      "url": "https://github.com/shinonomeenana/sekai_lyrics",
+      "license": null,
+      "vocalId": 10,
+      "verdict": "ok-agree",
+      "fillerSec": 7.5714,
+      "method": "ordered exact normalized text; starts agree within 0.3s; non-clamped; end shortened within existing interval; upstream vocal-silence alignment, no independent acoustic verification",
+      "lines": [
+        {
+          "line": 8,
+          "upstreamLine": 8,
+          "text": "ah 声が遮られていく",
+          "before": [
+            70.31,
+            74.86
+          ],
+          "proposed": [
+            70.4304,
+            74.7104
+          ],
+          "after": [
+            70.31,
+            74.7104
+          ]
+        }
+      ]
     }
   ]
 }

@@ -51,6 +51,290 @@
       "via": "https://github.com/shinonomeenana/sekai_lyrics",
       "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
       "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "逐句结束时间",
+      "provider": "shinonomeenana/sekai_lyrics",
+      "url": "https://github.com/shinonomeenana/sekai_lyrics",
+      "license": null,
+      "vocalId": 1823,
+      "verdict": "ok-agree",
+      "fillerSec": 9.0,
+      "method": "ordered exact normalized text; starts agree within 0.3s; non-clamped; end shortened within existing interval; upstream vocal-silence alignment, no independent acoustic verification",
+      "lines": [
+        {
+          "line": 0,
+          "upstreamLine": 0,
+          "text": "きっと運命の寵児",
+          "before": [
+            21.72875,
+            23.07975
+          ],
+          "proposed": [
+            21.81,
+            22.903
+          ],
+          "after": [
+            21.72875,
+            22.903
+          ]
+        },
+        {
+          "line": 1,
+          "upstreamLine": 1,
+          "text": "まるで魔性の物語",
+          "before": [
+            23.07975,
+            24.34675
+          ],
+          "proposed": [
+            23.083,
+            24.103
+          ],
+          "after": [
+            23.07975,
+            24.103
+          ]
+        },
+        {
+          "line": 4,
+          "upstreamLine": 4,
+          "text": "あなたも知らないあなたを",
+          "before": [
+            28.16275,
+            30.72175
+          ],
+          "proposed": [
+            28.083,
+            30.364
+          ],
+          "after": [
+            28.16275,
+            30.364
+          ]
+        },
+        {
+          "line": 5,
+          "upstreamLine": 5,
+          "text": "わたしは知っている",
+          "before": [
+            30.72175,
+            32.97275
+          ],
+          "proposed": [
+            30.424,
+            32.904
+          ],
+          "after": [
+            30.72175,
+            32.904
+          ]
+        },
+        {
+          "line": 6,
+          "upstreamLine": 6,
+          "text": "なのに",
+          "before": [
+            33.07275,
+            34.42075
+          ],
+          "proposed": [
+            32.904,
+            33.82
+          ],
+          "after": [
+            33.07275,
+            33.82
+          ]
+        },
+        {
+          "line": 8,
+          "upstreamLine": 8,
+          "text": "みんな好きだから",
+          "before": [
+            34.53675,
+            36.09175
+          ],
+          "proposed": [
+            34.564,
+            36.064
+          ],
+          "after": [
+            34.53675,
+            36.064
+          ]
+        },
+        {
+          "line": 9,
+          "upstreamLine": 9,
+          "text": "Q.E.D",
+          "before": [
+            36.09175,
+            36.98475
+          ],
+          "proposed": [
+            36.164,
+            36.784
+          ],
+          "after": [
+            36.09175,
+            36.784
+          ]
+        },
+        {
+          "line": 10,
+          "upstreamLine": 10,
+          "text": "あけらかん",
+          "before": [
+            37.09675,
+            38.28575
+          ],
+          "proposed": [
+            37.244,
+            38.21
+          ],
+          "after": [
+            37.09675,
+            38.21
+          ]
+        },
+        {
+          "line": 11,
+          "upstreamLine": 11,
+          "text": "あなたは手をひらひら",
+          "before": [
+            38.28575,
+            40.87575
+          ],
+          "proposed": [
+            38.445,
+            40.865
+          ],
+          "after": [
+            38.28575,
+            40.865
+          ]
+        },
+        {
+          "line": 12,
+          "upstreamLine": 12,
+          "text": "見えない壁",
+          "before": [
+            40.97575,
+            42.31575
+          ],
+          "proposed": [
+            40.965,
+            42.285
+          ],
+          "after": [
+            40.97575,
+            42.285
+          ]
+        },
+        {
+          "line": 13,
+          "upstreamLine": 13,
+          "text": "冷たい汗",
+          "before": [
+            42.31575,
+            44.71675
+          ],
+          "proposed": [
+            42.385,
+            43.865
+          ],
+          "after": [
+            42.31575,
+            43.865
+          ]
+        },
+        {
+          "line": 16,
+          "upstreamLine": 16,
+          "text": "有象無象の世迷言？",
+          "before": [
+            50.30475,
+            53.39375
+          ],
+          "proposed": [
+            50.446,
+            53.106
+          ],
+          "after": [
+            50.30475,
+            53.106
+          ]
+        },
+        {
+          "line": 24,
+          "upstreamLine": 23,
+          "text": "有象無象のひとりなら",
+          "before": [
+            83.87175,
+            86.88475
+          ],
+          "proposed": [
+            84.07,
+            86.71
+          ],
+          "after": [
+            83.87175,
+            86.71
+          ]
+        },
+        {
+          "line": 25,
+          "upstreamLine": 24,
+          "text": "あなたの「特別」に成れたのね！",
+          "before": [
+            86.88475,
+            90.11075
+          ],
+          "proposed": [
+            87.09,
+            89.891
+          ],
+          "after": [
+            86.88475,
+            89.891
+          ]
+        },
+        {
+          "line": 27,
+          "upstreamLine": 26,
+          "text": "クセになっちゃうわ",
+          "before": [
+            92.29475,
+            104.70975
+          ],
+          "proposed": [
+            92.411,
+            101.8
+          ],
+          "after": [
+            92.29475,
+            101.8
+          ]
+        },
+        {
+          "line": 28,
+          "upstreamLine": 27,
+          "text": "目も当てられないわ",
+          "before": [
+            104.77175,
+            136.4345
+          ],
+          "proposed": [
+            104.993,
+            111.63
+          ],
+          "after": [
+            104.77175,
+            111.63
+          ]
+        }
+      ]
     }
   ]
 }
