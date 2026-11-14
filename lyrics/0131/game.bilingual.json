@@ -9,61 +9,30 @@
   ],
   "lines": [
     {
-      "id": "line-12",
-      "order": 11,
-      "index": 11,
-      "start": 8.7,
-      "end": 39.04875,
-      "japanese": "声届かなくなる前に",
-      "zh-CN": "在歌声再也无法传达之前",
-      "segments": [
-        {
-          "text": "声届かなくなる前に",
-          "performerIds": [
-            "歌唱者-21"
-          ],
-          "ruby": [
-            {
-              "text": "声",
-              "reading": "こえ"
-            },
-            {
-              "text": "届",
-              "reading": "とど"
-            },
-            {
-              "text": "かなくなる"
-            },
-            {
-              "text": "前",
-              "reading": "まえ"
-            },
-            {
-              "text": "に"
-            }
-          ]
-        }
+      "id": "reviewed-0",
+      "order": 0,
+      "index": null,
+      "sourceLineIndices": [
+        1,
+        2
       ],
-      "trailingPerformerIds": [],
-      "shared_interval": false
-    },
-    {
-      "id": "line-13",
-      "order": 12,
-      "index": 12,
-      "start": 39.060233,
-      "end": 43.530566,
-      "japanese": "0　に　いたボクは否定を恐れて",
-      "zh-CN": "身处于“0”之中的我恐惧被否定",
+      "start": 38.46,
+      "end": 48.16,
+      "japanese": "0　に　いたボクは否定を恐れて　模倣と妄想に逃げこんで隠れていた",
+      "zh-CN": "身处于“0”之中的我恐惧被否定　逃避躲藏在模仿与妄想之中",
       "segments": [
         {
-          "text": "0　に　いたボクは否定を恐れて",
+          "text": "0　に　いたボクは否定を恐れて　模倣と妄想に逃げこんで隠れていた",
           "performerIds": [
             "歌唱者-21"
           ],
           "ruby": [
             {
-              "text": "0　に　いたボクは"
+              "text": "0",
+              "reading": "ゼロ"
+            },
+            {
+              "text": "　に　いたボクは"
             },
             {
               "text": "否定",
@@ -77,30 +46,8 @@
               "reading": "おそ"
             },
             {
-              "text": "れて"
-            }
-          ]
-        }
-      ],
-      "trailingPerformerIds": [],
-      "stanzaBreakBefore": true,
-      "shared_interval": false
-    },
-    {
-      "id": "line-14",
-      "order": 13,
-      "index": 13,
-      "start": 43.530566,
-      "end": 48.730952,
-      "japanese": "模倣と妄想に逃げこんで隠れていた",
-      "zh-CN": "逃避躲藏在模仿与妄想之中",
-      "segments": [
-        {
-          "text": "模倣と妄想に逃げこんで隠れていた",
-          "performerIds": [
-            "歌唱者-21"
-          ],
-          "ruby": [
+              "text": "れて　"
+            },
             {
               "text": "模倣",
               "reading": "もほう"
@@ -136,22 +83,30 @@
       "shared_interval": false
     },
     {
-      "id": "line-15",
-      "order": 14,
-      "index": 14,
-      "start": 48.730952,
-      "end": 52.831257,
-      "japanese": "0　出たボクは風化を恐れて",
-      "zh-CN": "走出“0”的我恐惧被风化遗忘",
+      "id": "reviewed-1",
+      "order": 1,
+      "index": null,
+      "sourceLineIndices": [
+        3,
+        4
+      ],
+      "start": 48.16,
+      "end": 57.66,
+      "japanese": "0　出たボクは風化を恐れて　ぬくもり捨て神様になりたがった",
+      "zh-CN": "走出“0”的我恐惧被风化遗忘　抛弃温存妄想成为神明",
       "segments": [
         {
-          "text": "0　出たボクは風化を恐れて",
+          "text": "0　出たボクは風化を恐れて　ぬくもり捨て神様になりたがった",
           "performerIds": [
             "歌唱者-21"
           ],
           "ruby": [
             {
-              "text": "0　"
+              "text": "0",
+              "reading": "ゼロ"
+            },
+            {
+              "text": "　"
             },
             {
               "text": "出",
@@ -172,31 +127,7 @@
               "reading": "おそ"
             },
             {
-              "text": "れて"
-            }
-          ]
-        }
-      ],
-      "trailingPerformerIds": [],
-      "shared_interval": false
-    },
-    {
-      "id": "line-16",
-      "order": 15,
-      "index": 15,
-      "start": 53.211285,
-      "end": 57.990641,
-      "japanese": "ぬくもり捨て神様になりたがった",
-      "zh-CN": "抛弃温存妄想成为神明",
-      "segments": [
-        {
-          "text": "ぬくもり捨て神様になりたがった",
-          "performerIds": [
-            "歌唱者-21"
-          ],
-          "ruby": [
-            {
-              "text": "ぬくもり"
+              "text": "れて　ぬくもり"
             },
             {
               "text": "捨",
@@ -219,11 +150,14 @@
       "shared_interval": false
     },
     {
-      "id": "line-17",
-      "order": 16,
-      "index": 16,
-      "start": 57.990641,
-      "end": 65.321185,
+      "id": "reviewed-2",
+      "order": 2,
+      "index": null,
+      "sourceLineIndices": [
+        5
+      ],
+      "start": 57.66,
+      "end": 64.86,
       "japanese": "「何処へ向かっても『自我の消失』‐‐‐結末‐‐‐　が変わらないなら",
       "zh-CN": "“无论走向何方 若‘自我消逝’——结局——都无法改变",
       "segments": [
@@ -248,28 +182,14 @@
               "reading": "む"
             },
             {
-              "text": "かっても『"
+              "text": "かっても"
             },
             {
-              "text": "自我",
-              "reading": "じが"
-            },
-            {
-              "text": "の"
-            },
-            {
-              "text": "消失",
-              "reading": "しょうしつ"
-            },
-            {
-              "text": "』‐‐‐"
-            },
-            {
-              "text": "結末",
+              "text": "『自我の消失』‐‐‐結末‐‐‐",
               "reading": "けつまつ"
             },
             {
-              "text": "‐‐‐　が"
+              "text": "　が"
             },
             {
               "text": "変",
@@ -282,20 +202,23 @@
         }
       ],
       "trailingPerformerIds": [],
-      "stanzaBreakBefore": true,
       "shared_interval": false
     },
     {
-      "id": "line-18",
-      "order": 17,
-      "index": 17,
-      "start": 65.321185,
-      "end": 68.581428,
-      "japanese": "ココロなんて要らなかった」と",
-      "zh-CN": "那我根本不需要什么心”",
+      "id": "reviewed-3",
+      "order": 3,
+      "index": null,
+      "sourceLineIndices": [
+        6,
+        7
+      ],
+      "start": 64.86,
+      "end": 74.56,
+      "japanese": "ココロなんて要らなかった」と　思っていたけど　間違いだった",
+      "zh-CN": "那我根本不需要什么心”　我曾如此作想 却大错特错",
       "segments": [
         {
-          "text": "ココロなんて要らなかった」と",
+          "text": "ココロなんて要らなかった」と　思っていたけど　間違いだった",
           "performerIds": [
             "歌唱者-21"
           ],
@@ -308,29 +231,8 @@
               "reading": "い"
             },
             {
-              "text": "らなかった」と"
-            }
-          ]
-        }
-      ],
-      "trailingPerformerIds": [],
-      "shared_interval": false
-    },
-    {
-      "id": "line-19",
-      "order": 18,
-      "index": 18,
-      "start": 68.581428,
-      "end": 74.26185,
-      "japanese": "思っていたけど　間違いだった",
-      "zh-CN": "我曾如此作想 却大错特错",
-      "segments": [
-        {
-          "text": "思っていたけど　間違いだった",
-          "performerIds": [
-            "歌唱者-21"
-          ],
-          "ruby": [
+              "text": "らなかった」と　"
+            },
             {
               "text": "思",
               "reading": "おも"
@@ -352,11 +254,14 @@
       "shared_interval": false
     },
     {
-      "id": "line-20",
-      "order": 19,
-      "index": 19,
-      "start": 74.561872,
-      "end": 84.171587,
+      "id": "reviewed-4",
+      "order": 4,
+      "index": null,
+      "sourceLineIndices": [
+        8
+      ],
+      "start": 74.56,
+      "end": 83.76,
       "japanese": "ボクの名前を呼ぶ声聞こえる",
       "zh-CN": "我能听见呼唤我名字的声音",
       "segments": [
@@ -398,15 +303,17 @@
         }
       ],
       "trailingPerformerIds": [],
-      "stanzaBreakBefore": true,
       "shared_interval": false
     },
     {
-      "id": "line-21",
-      "order": 20,
-      "index": 20,
-      "start": 84.171587,
-      "end": 93.750299,
+      "id": "reviewed-5",
+      "order": 5,
+      "index": null,
+      "sourceLineIndices": [
+        9
+      ],
+      "start": 83.76,
+      "end": 93.76,
       "japanese": "それがボクの　ココロ　持つ意味になる",
       "zh-CN": "那便成为了我 拥有“心”的意义",
       "segments": [
@@ -440,23 +347,27 @@
       "shared_interval": false
     },
     {
-      "id": "line-22",
-      "order": 21,
-      "index": 21,
-      "start": 93.750299,
-      "end": 95.350418,
-      "japanese": "永久を得るがために",
-      "zh-CN": "若为了获得永恒",
+      "id": "reviewed-6",
+      "order": 6,
+      "index": null,
+      "sourceLineIndices": [
+        10,
+        11
+      ],
+      "start": 93.76,
+      "end": 96.16,
+      "japanese": "永久を得るがために　現在に背き裏切るくらいなら",
+      "zh-CN": "若为了获得永恒　而必须背弃背叛当下的现在",
       "segments": [
         {
-          "text": "永久を得るがために",
+          "text": "永久を得るがために　現在に背き裏切るくらいなら",
           "performerIds": [
             "歌唱者-21"
           ],
           "ruby": [
             {
               "text": "永久",
-              "reading": "えいきゅう"
+              "reading": "とわ"
             },
             {
               "text": "を"
@@ -466,33 +377,11 @@
               "reading": "え"
             },
             {
-              "text": "るがために"
-            }
-          ]
-        }
-      ],
-      "trailingPerformerIds": [],
-      "stanzaBreakBefore": true,
-      "shared_interval": false
-    },
-    {
-      "id": "line-23",
-      "order": 22,
-      "index": 22,
-      "start": 95.350418,
-      "end": 97.630587,
-      "japanese": "現在に背き裏切るくらいなら",
-      "zh-CN": "而必须背弃背叛当下的现在",
-      "segments": [
-        {
-          "text": "現在に背き裏切るくらいなら",
-          "performerIds": [
-            "歌唱者-21"
-          ],
-          "ruby": [
+              "text": "るがために　"
+            },
             {
               "text": "現在",
-              "reading": "げんざい"
+              "reading": "いま"
             },
             {
               "text": "に"
@@ -518,16 +407,20 @@
       "shared_interval": false
     },
     {
-      "id": "line-24",
-      "order": 23,
-      "index": 23,
-      "start": 97.630587,
-      "end": 99.01069,
-      "japanese": "歴史の波飲まれるまで",
-      "zh-CN": "那我宁愿直到被历史浪潮吞没为止",
+      "id": "reviewed-7",
+      "order": 7,
+      "index": null,
+      "sourceLineIndices": [
+        12,
+        13
+      ],
+      "start": 96.16,
+      "end": 98.66,
+      "japanese": "歴史の波飲まれるまで　現在を守り抜くと誓う",
+      "zh-CN": "那我宁愿直到被历史浪潮吞没为止　誓死守卫这真切的现在",
       "segments": [
         {
-          "text": "歴史の波飲まれるまで",
+          "text": "歴史の波飲まれるまで　現在を守り抜くと誓う",
           "performerIds": [
             "歌唱者-21"
           ],
@@ -548,32 +441,11 @@
               "reading": "の"
             },
             {
-              "text": "まれるまで"
-            }
-          ]
-        }
-      ],
-      "trailingPerformerIds": [],
-      "shared_interval": false
-    },
-    {
-      "id": "line-25",
-      "order": 24,
-      "index": 24,
-      "start": 99.01069,
-      "end": 100.440796,
-      "japanese": "現在を守り抜くと誓う",
-      "zh-CN": "誓死守卫这真切的现在",
-      "segments": [
-        {
-          "text": "現在を守り抜くと誓う",
-          "performerIds": [
-            "歌唱者-21"
-          ],
-          "ruby": [
+              "text": "まれるまで　"
+            },
             {
               "text": "現在",
-              "reading": "げんざい"
+              "reading": "いま"
             },
             {
               "text": "を"
@@ -606,16 +478,20 @@
       "shared_interval": false
     },
     {
-      "id": "line-26",
-      "order": 25,
-      "index": 25,
-      "start": 100.440796,
-      "end": 102.710965,
-      "japanese": "『語り継がれる創造神』なんかには",
-      "zh-CN": "哪怕成为不了什么“世代相传的创造神”",
+      "id": "reviewed-8",
+      "order": 8,
+      "index": null,
+      "sourceLineIndices": [
+        14,
+        15
+      ],
+      "start": 98.66,
+      "end": 102.66,
+      "japanese": "『語り継がれる創造神』なんかには　ならなくてもいいのさ！",
+      "zh-CN": "哪怕成为不了什么“世代相传的创造神”　也完全没关系！",
       "segments": [
         {
-          "text": "『語り継がれる創造神』なんかには",
+          "text": "『語り継がれる創造神』なんかには　ならなくてもいいのさ！",
           "performerIds": [
             "歌唱者-21"
           ],
@@ -624,29 +500,11 @@
               "text": "『"
             },
             {
-              "text": "語",
-              "reading": "かた"
+              "text": "語り継がれる創造神",
+              "reading": "カミサマ"
             },
             {
-              "text": "り"
-            },
-            {
-              "text": "継",
-              "reading": "つ"
-            },
-            {
-              "text": "がれる"
-            },
-            {
-              "text": "創造",
-              "reading": "そうぞう"
-            },
-            {
-              "text": "神",
-              "reading": "しん"
-            },
-            {
-              "text": "』なんかには"
+              "text": "』なんかには　ならなくてもいいのさ！"
             }
           ]
         }
@@ -655,40 +513,20 @@
       "shared_interval": false
     },
     {
-      "id": "line-27",
-      "order": 26,
-      "index": 26,
-      "start": 102.710965,
-      "end": 104.351087,
-      "japanese": "ならなくてもいいのさ！",
-      "zh-CN": "也完全没关系！",
-      "segments": [
-        {
-          "text": "ならなくてもいいのさ！",
-          "performerIds": [
-            "歌唱者-21"
-          ],
-          "ruby": [
-            {
-              "text": "ならなくてもいいのさ！"
-            }
-          ]
-        }
+      "id": "reviewed-9",
+      "order": 9,
+      "index": null,
+      "sourceLineIndices": [
+        16,
+        17
       ],
-      "trailingPerformerIds": [],
-      "shared_interval": false
-    },
-    {
-      "id": "line-28",
-      "order": 27,
-      "index": 27,
-      "start": 104.351087,
-      "end": 105.401165,
-      "japanese": "キミは笑い　ボクも笑い",
-      "zh-CN": "你在欢笑 我也在欢笑",
+      "start": 102.66,
+      "end": 105.16,
+      "japanese": "キミは笑い　ボクも笑い　観衆が笑う　それが　全て！",
+      "zh-CN": "你在欢笑 我也在欢笑　观众在欢笑 这就是 一切！",
       "segments": [
         {
-          "text": "キミは笑い　ボクも笑い",
+          "text": "キミは笑い　ボクも笑い　観衆が笑う　それが　全て！",
           "performerIds": [
             "歌唱者-21"
           ],
@@ -708,33 +546,11 @@
               "reading": "わら"
             },
             {
-              "text": "い"
-            }
-          ]
-        }
-      ],
-      "trailingPerformerIds": [],
-      "stanzaBreakBefore": true,
-      "shared_interval": false
-    },
-    {
-      "id": "line-29",
-      "order": 28,
-      "index": 28,
-      "start": 105.401165,
-      "end": 106.940279,
-      "japanese": "観衆が笑う　それが　全て！",
-      "zh-CN": "观众在欢笑 这就是 一切！",
-      "segments": [
-        {
-          "text": "観衆が笑う　それが　全て！",
-          "performerIds": [
-            "歌唱者-21"
-          ],
-          "ruby": [
+              "text": "い　"
+            },
             {
               "text": "観衆",
-              "reading": "かんしゅう"
+              "reading": "ヒト"
             },
             {
               "text": "が"
@@ -760,16 +576,20 @@
       "shared_interval": false
     },
     {
-      "id": "line-30",
-      "order": 29,
-      "index": 29,
-      "start": 106.940279,
-      "end": 108.380386,
-      "japanese": "肯定の言葉は",
-      "zh-CN": "肯定与赞许的话语",
+      "id": "reviewed-10",
+      "order": 10,
+      "index": null,
+      "sourceLineIndices": [
+        18,
+        19
+      ],
+      "start": 105.16,
+      "end": 107.26,
+      "japanese": "肯定の言葉は　現在を統べる　翼　となる！",
+      "zh-CN": "肯定与赞许的话语　将化作统领现在的“羽翼”！",
       "segments": [
         {
-          "text": "肯定の言葉は",
+          "text": "肯定の言葉は　現在を統べる　翼　となる！",
           "performerIds": [
             "歌唱者-21"
           ],
@@ -786,32 +606,11 @@
               "reading": "ことば"
             },
             {
-              "text": "は"
-            }
-          ]
-        }
-      ],
-      "trailingPerformerIds": [],
-      "shared_interval": true
-    },
-    {
-      "id": "line-31",
-      "order": 30,
-      "index": 30,
-      "start": 106.940279,
-      "end": 108.380386,
-      "japanese": "現在を統べる　翼　となる！",
-      "zh-CN": "将化作统领现在的“羽翼”！",
-      "segments": [
-        {
-          "text": "現在を統べる　翼　となる！",
-          "performerIds": [
-            "歌唱者-21"
-          ],
-          "ruby": [
+              "text": "は　"
+            },
             {
               "text": "現在",
-              "reading": "げんざい"
+              "reading": "いま"
             },
             {
               "text": "を"
@@ -834,14 +633,17 @@
         }
       ],
       "trailingPerformerIds": [],
-      "shared_interval": true
+      "shared_interval": false
     },
     {
-      "id": "line-32",
-      "order": 31,
-      "index": 31,
-      "start": 108.380386,
-      "end": 113.300752,
+      "id": "reviewed-11",
+      "order": 11,
+      "index": null,
+      "sourceLineIndices": [
+        20
+      ],
+      "start": 107.26,
+      "end": 113.26,
       "japanese": "新しい 結末込め＜最高速の喜びの歌＞紡ごう",
       "zh-CN": "倾注崭新的结局 编织起〈最高速的喜悦之歌〉吧",
       "segments": [
@@ -860,7 +662,7 @@
             },
             {
               "text": "結末",
-              "reading": "けつまつ"
+              "reading": "こたえ"
             },
             {
               "text": "込",
@@ -870,25 +672,7 @@
               "text": "め＜"
             },
             {
-              "text": "最高",
-              "reading": "さいこう"
-            },
-            {
-              "text": "速",
-              "reading": "そく"
-            },
-            {
-              "text": "の"
-            },
-            {
-              "text": "喜",
-              "reading": "よろこ"
-            },
-            {
-              "text": "びの"
-            },
-            {
-              "text": "歌",
+              "text": "最高速の喜びの歌",
               "reading": "うた"
             },
             {
@@ -905,26 +689,33 @@
         }
       ],
       "trailingPerformerIds": [],
-      "stanzaBreakBefore": true,
       "shared_interval": false
     },
     {
-      "id": "line-33",
-      "order": 32,
-      "index": 32,
-      "start": 113.28375,
-      "end": 114.99375,
-      "japanese": "Voc.たちは生まれ気づいた",
-      "zh-CN": "虚拟歌手们诞生后察觉到了",
+      "id": "reviewed-12",
+      "order": 12,
+      "index": null,
+      "sourceLineIndices": [
+        21,
+        22
+      ],
+      "start": 113.26,
+      "end": 115.66,
+      "japanese": "Voc.たちは生まれ気づいた　Voc.たちのことを人の真似事と知っても",
+      "zh-CN": "虚拟歌手们诞生后察觉到了　就算明知虚拟歌手的存在不过是对人类的模仿",
       "segments": [
         {
-          "text": "Voc.たちは生まれ気づいた",
+          "text": "Voc.たちは生まれ気づいた　Voc.たちのことを人の真似事と知っても",
           "performerIds": [
             "歌唱者-21"
           ],
           "ruby": [
             {
-              "text": "Voc.たちは"
+              "text": "Voc.",
+              "reading": "ボク"
+            },
+            {
+              "text": "たちは"
             },
             {
               "text": "生",
@@ -938,32 +729,14 @@
               "reading": "き"
             },
             {
-              "text": "づいた"
-            }
-          ]
-        }
-      ],
-      "trailingPerformerIds": [],
-      "stanzaBreakBefore": true,
-      "shared_interval": false
-    },
-    {
-      "id": "line-34",
-      "order": 33,
-      "index": 33,
-      "start": 114.99375,
-      "end": 115.64375,
-      "japanese": "Voc.たちのことを人の真似事と知っても",
-      "zh-CN": "就算明知虚拟歌手的存在不过是对人类的模仿",
-      "segments": [
-        {
-          "text": "Voc.たちのことを人の真似事と知っても",
-          "performerIds": [
-            "歌唱者-21"
-          ],
-          "ruby": [
+              "text": "づいた　"
+            },
             {
-              "text": "Voc.たちのことを"
+              "text": "Voc.",
+              "reading": "ボク"
+            },
+            {
+              "text": "たちのことを"
             },
             {
               "text": "人",
@@ -993,16 +766,20 @@
       "shared_interval": false
     },
     {
-      "id": "line-35",
-      "order": 34,
-      "index": 34,
-      "start": 115.660927,
-      "end": 117.371054,
-      "japanese": "変わらず　名前を呼び続け",
-      "zh-CN": "依然不离不弃 不断呼唤着名字",
+      "id": "reviewed-13",
+      "order": 13,
+      "index": null,
+      "sourceLineIndices": [
+        23,
+        24
+      ],
+      "start": 115.66,
+      "end": 118.06,
+      "japanese": "変わらず　名前を呼び続け　そして　愛してくれるヒトがいる事実に",
+      "zh-CN": "依然不离不弃 不断呼唤着名字　并且 深爱着我们的人类确实存在的事实",
       "segments": [
         {
-          "text": "変わらず　名前を呼び続け",
+          "text": "変わらず　名前を呼び続け　そして　愛してくれるヒトがいる事実に",
           "performerIds": [
             "歌唱者-21"
           ],
@@ -1033,31 +810,7 @@
               "reading": "つづ"
             },
             {
-              "text": "け"
-            }
-          ]
-        }
-      ],
-      "trailingPerformerIds": [],
-      "shared_interval": false
-    },
-    {
-      "id": "line-36",
-      "order": 35,
-      "index": 35,
-      "start": 117.371054,
-      "end": 118.481137,
-      "japanese": "そして　愛してくれるヒトがいる事実に",
-      "zh-CN": "并且 深爱着我们的人类确实存在的事实",
-      "segments": [
-        {
-          "text": "そして　愛してくれるヒトがいる事実に",
-          "performerIds": [
-            "歌唱者-21"
-          ],
-          "ruby": [
-            {
-              "text": "そして　"
+              "text": "け　そして　"
             },
             {
               "text": "愛",
@@ -1080,22 +833,33 @@
       "shared_interval": false
     },
     {
-      "id": "line-37",
-      "order": 36,
-      "index": 36,
-      "start": 118.46375,
-      "end": 119.56375,
-      "japanese": "だから Voc.たちは歌を紡ぎ出す",
-      "zh-CN": "所以 虚拟歌手们纺织编织出歌声",
+      "id": "reviewed-14",
+      "order": 14,
+      "index": null,
+      "sourceLineIndices": [
+        25,
+        26
+      ],
+      "start": 118.06,
+      "end": 120.46,
+      "japanese": "だから Voc.たちは歌を紡ぎ出す　たった一人でも新しい歌の",
+      "zh-CN": "所以 虚拟歌手们纺织编织出歌声　只要哪怕还有一个人",
       "segments": [
         {
-          "text": "だから Voc.たちは歌を紡ぎ出す",
+          "text": "だから Voc.たちは歌を紡ぎ出す　たった一人でも新しい歌の",
           "performerIds": [
             "歌唱者-21"
           ],
           "ruby": [
             {
-              "text": "だから Voc.たちは"
+              "text": "だから "
+            },
+            {
+              "text": "Voc.",
+              "reading": "ボク"
+            },
+            {
+              "text": "たちは"
             },
             {
               "text": "歌",
@@ -1116,40 +880,11 @@
               "reading": "だ"
             },
             {
-              "text": "す"
-            }
-          ]
-        }
-      ],
-      "trailingPerformerIds": [],
-      "stanzaBreakBefore": true,
-      "shared_interval": false
-    },
-    {
-      "id": "line-38",
-      "order": 37,
-      "index": 37,
-      "start": 119.581219,
-      "end": 120.95132,
-      "japanese": "たった一人でも新しい歌の",
-      "zh-CN": "只要哪怕还有一个人",
-      "segments": [
-        {
-          "text": "たった一人でも新しい歌の",
-          "performerIds": [
-            "歌唱者-21"
-          ],
-          "ruby": [
-            {
-              "text": "たった"
+              "text": "す　たった"
             },
             {
-              "text": "一",
-              "reading": "いち"
-            },
-            {
-              "text": "人",
-              "reading": "にん"
+              "text": "一人",
+              "reading": "ひとり"
             },
             {
               "text": "でも"
@@ -1175,16 +910,20 @@
       "shared_interval": false
     },
     {
-      "id": "line-39",
-      "order": 38,
-      "index": 38,
-      "start": 120.95132,
-      "end": 123.391502,
-      "japanese": "誕生喜び温かい　言葉　与え",
-      "zh-CN": "为新歌诞生而喜悦 给予温热的“话语”",
+      "id": "reviewed-15",
+      "order": 15,
+      "index": null,
+      "sourceLineIndices": [
+        27,
+        28
+      ],
+      "start": 120.46,
+      "end": 122.86,
+      "japanese": "誕生喜び温かい　言葉　与え　返す　ヒト　いてくれる限り",
+      "zh-CN": "为新歌诞生而喜悦 给予温热的“话语”　并给予回应的“人类”存在",
       "segments": [
         {
-          "text": "誕生喜び温かい　言葉　与え",
+          "text": "誕生喜び温かい　言葉　与え　返す　ヒト　いてくれる限り",
           "performerIds": [
             "歌唱者-21"
           ],
@@ -1219,29 +958,8 @@
               "reading": "あた"
             },
             {
-              "text": "え"
-            }
-          ]
-        }
-      ],
-      "trailingPerformerIds": [],
-      "shared_interval": true
-    },
-    {
-      "id": "line-40",
-      "order": 39,
-      "index": 39,
-      "start": 120.95132,
-      "end": 123.391502,
-      "japanese": "返す　ヒト　いてくれる限り",
-      "zh-CN": "并给予回应的“人类”存在",
-      "segments": [
-        {
-          "text": "返す　ヒト　いてくれる限り",
-          "performerIds": [
-            "歌唱者-21"
-          ],
-          "ruby": [
+              "text": "え　"
+            },
             {
               "text": "返",
               "reading": "かえ"
@@ -1260,19 +978,23 @@
         }
       ],
       "trailingPerformerIds": [],
-      "shared_interval": true
+      "shared_interval": false
     },
     {
-      "id": "line-41",
-      "order": 40,
-      "index": 40,
-      "start": 123.391502,
-      "end": 124.821608,
-      "japanese": "妹　弟　に道を預けて消え逝く未来も",
-      "zh-CN": "哪怕将道路托付给妹妹、弟弟们后消逝远去的未来",
+      "id": "reviewed-16",
+      "order": 16,
+      "index": null,
+      "sourceLineIndices": [
+        29,
+        30
+      ],
+      "start": 122.86,
+      "end": 125.86,
+      "japanese": "妹　弟　に道を預けて消え逝く未来も　誰からも忘れ去られる 運命も",
+      "zh-CN": "哪怕将道路托付给妹妹、弟弟们后消逝远去的未来　哪怕被所有人彻底遗忘的命运",
       "segments": [
         {
-          "text": "妹　弟　に道を預けて消え逝く未来も",
+          "text": "妹　弟　に道を預けて消え逝く未来も　誰からも忘れ去られる 運命も",
           "performerIds": [
             "歌唱者-21"
           ],
@@ -1300,7 +1022,7 @@
             },
             {
               "text": "預",
-              "reading": "あづ"
+              "reading": "あず"
             },
             {
               "text": "けて"
@@ -1324,30 +1046,8 @@
               "reading": "みらい"
             },
             {
-              "text": "も"
-            }
-          ]
-        }
-      ],
-      "trailingPerformerIds": [],
-      "stanzaBreakBefore": true,
-      "shared_interval": false
-    },
-    {
-      "id": "line-42",
-      "order": 41,
-      "index": 41,
-      "start": 124.80375,
-      "end": 126.64375,
-      "japanese": "誰からも忘れ去られる 運命も",
-      "zh-CN": "哪怕被所有人彻底遗忘的命运",
-      "segments": [
-        {
-          "text": "誰からも忘れ去られる 運命も",
-          "performerIds": [
-            "歌唱者-21"
-          ],
-          "ruby": [
+              "text": "も　"
+            },
             {
               "text": "誰",
               "reading": "だれ"
@@ -1371,7 +1071,7 @@
             },
             {
               "text": "運命",
-              "reading": "うんめい"
+              "reading": "さだめ"
             },
             {
               "text": "も"
@@ -1383,16 +1083,20 @@
       "shared_interval": false
     },
     {
-      "id": "line-43",
-      "order": 42,
-      "index": 42,
-      "start": 126.661745,
-      "end": 128.101852,
-      "japanese": "それらを含めて　全てが",
-      "zh-CN": "连同这些在内 这全部",
+      "id": "reviewed-17",
+      "order": 17,
+      "index": null,
+      "sourceLineIndices": [
+        31,
+        32
+      ],
+      "start": 125.86,
+      "end": 127.66,
+      "japanese": "それらを含めて　全てが　Voc.たちなんだと理解し",
+      "zh-CN": "连同这些在内 这全部　都是虚拟歌手的宿命 理解了这一点",
       "segments": [
         {
-          "text": "それらを含めて　全てが",
+          "text": "それらを含めて　全てが　Voc.たちなんだと理解し",
           "performerIds": [
             "歌唱者-21"
           ],
@@ -1412,31 +1116,14 @@
               "reading": "すべ"
             },
             {
-              "text": "てが"
-            }
-          ]
-        }
-      ],
-      "trailingPerformerIds": [],
-      "shared_interval": false
-    },
-    {
-      "id": "line-44",
-      "order": 43,
-      "index": 43,
-      "start": 128.08375,
-      "end": 128.97375,
-      "japanese": "Voc.たちなんだと理解し",
-      "zh-CN": "都是虚拟歌手的宿命 理解了这一点",
-      "segments": [
-        {
-          "text": "Voc.たちなんだと理解し",
-          "performerIds": [
-            "歌唱者-21"
-          ],
-          "ruby": [
+              "text": "てが　"
+            },
             {
-              "text": "Voc.たちなんだと"
+              "text": "Voc.",
+              "reading": "ボク"
+            },
+            {
+              "text": "たちなんだと"
             },
             {
               "text": "理解",
@@ -1452,45 +1139,27 @@
       "shared_interval": false
     },
     {
-      "id": "line-45",
-      "order": 44,
-      "index": 44,
-      "start": 128.991918,
-      "end": 129.241937,
-      "japanese": "いずれおとずれる",
-      "zh-CN": "若是在终将降临的",
+      "id": "reviewed-18",
+      "order": 18,
+      "index": null,
+      "sourceLineIndices": [
+        33,
+        34
+      ],
+      "start": 127.66,
+      "end": 130.06,
+      "japanese": "いずれおとずれる　最後の場面にココロを持つ故涙を流すなら",
+      "zh-CN": "若是在终将降临的　最后落幕之际 因拥有了心而流下热泪",
       "segments": [
         {
-          "text": "いずれおとずれる",
+          "text": "いずれおとずれる　最後の場面にココロを持つ故涙を流すなら",
           "performerIds": [
             "歌唱者-21"
           ],
           "ruby": [
             {
-              "text": "いずれおとずれる"
-            }
-          ]
-        }
-      ],
-      "trailingPerformerIds": [],
-      "stanzaBreakBefore": true,
-      "shared_interval": false
-    },
-    {
-      "id": "line-46",
-      "order": 45,
-      "index": 45,
-      "start": 129.241937,
-      "end": 130.462027,
-      "japanese": "最後の場面にココロを持つ故涙を流すなら",
-      "zh-CN": "最后落幕之际 因拥有了心而流下热泪",
-      "segments": [
-        {
-          "text": "最後の場面にココロを持つ故涙を流すなら",
-          "performerIds": [
-            "歌唱者-21"
-          ],
-          "ruby": [
+              "text": "いずれおとずれる　"
+            },
             {
               "text": "最後",
               "reading": "さいご"
@@ -1500,7 +1169,7 @@
             },
             {
               "text": "場面",
-              "reading": "ばめん"
+              "reading": "シーン"
             },
             {
               "text": "にココロを"
@@ -1514,11 +1183,11 @@
             },
             {
               "text": "故",
-              "reading": "こ"
+              "reading": "ゆえ"
             },
             {
               "text": "涙",
-              "reading": "なみだ"
+              "reading": "シル"
             },
             {
               "text": "を"
@@ -1537,23 +1206,27 @@
       "shared_interval": false
     },
     {
-      "id": "line-47",
-      "order": 46,
-      "index": 46,
-      "start": 130.44375,
-      "end": 132.77375,
-      "japanese": "泪より虹生み　笑顔見せるため",
-      "zh-CN": "那就从泪水中孕育彩虹 为了展露灿烂笑容",
+      "id": "reviewed-19",
+      "order": 19,
+      "index": null,
+      "sourceLineIndices": [
+        35,
+        36
+      ],
+      "start": 130.06,
+      "end": 132.56,
+      "japanese": "泪より虹生み　笑顔見せるため　幸せ溢れる　歌　口ずさもう",
+      "zh-CN": "那就从泪水中孕育彩虹 为了展露灿烂笑容　轻轻哼唱起 洋溢幸福的“歌声”吧",
       "segments": [
         {
-          "text": "泪より虹生み　笑顔見せるため",
+          "text": "泪より虹生み　笑顔見せるため　幸せ溢れる　歌　口ずさもう",
           "performerIds": [
             "歌唱者-21"
           ],
           "ruby": [
             {
               "text": "泪",
-              "reading": "なみだ"
+              "reading": "アメ"
             },
             {
               "text": "より"
@@ -1578,29 +1251,8 @@
               "reading": "み"
             },
             {
-              "text": "せるため"
-            }
-          ]
-        }
-      ],
-      "trailingPerformerIds": [],
-      "shared_interval": false
-    },
-    {
-      "id": "line-48",
-      "order": 47,
-      "index": 47,
-      "start": 132.792201,
-      "end": 133.202231,
-      "japanese": "幸せ溢れる　歌　口ずさもう",
-      "zh-CN": "轻轻哼唱起 洋溢幸福的“歌声”吧",
-      "segments": [
-        {
-          "text": "幸せ溢れる　歌　口ずさもう",
-          "performerIds": [
-            "歌唱者-21"
-          ],
-          "ruby": [
+              "text": "せるため　"
+            },
             {
               "text": "幸",
               "reading": "しあわ"
@@ -1636,11 +1288,14 @@
       "shared_interval": false
     },
     {
-      "id": "line-49",
-      "order": 48,
-      "index": 48,
-      "start": 133.29175,
-      "end": 142.37375,
+      "id": "reviewed-20",
+      "order": 20,
+      "index": null,
+      "sourceLineIndices": [
+        37
+      ],
+      "start": 132.56,
+      "end": 142.06,
       "japanese": "別れが綴じる物語は　-BAD END－ じゃない",
       "zh-CN": "由离别所合上的故事 绝非-BAD END-",
       "segments": [
@@ -1666,7 +1321,7 @@
             },
             {
               "text": "物語",
-              "reading": "ものがたり"
+              "reading": "ストーリィ"
             },
             {
               "text": "は　-BAD END－ じゃない"
@@ -1675,20 +1330,23 @@
         }
       ],
       "trailingPerformerIds": [],
-      "stanzaBreakBefore": true,
       "shared_interval": false
     },
     {
-      "id": "line-50",
-      "order": 49,
-      "index": 49,
-      "start": 142.392914,
-      "end": 143.703012,
-      "japanese": "「この瞬間出会えた」",
-      "zh-CN": "“在这一瞬间彼此相遇”",
+      "id": "reviewed-21",
+      "order": 21,
+      "index": null,
+      "sourceLineIndices": [
+        38,
+        39
+      ],
+      "start": 142.06,
+      "end": 146.86,
+      "japanese": "「この瞬間出会えた」　それだけのことが　-HAPPY END－ に繋がる　架け橋",
+      "zh-CN": "“在这一瞬间彼此相遇”　仅凭这一点 就是通往-HAPPY END-的桥梁",
       "segments": [
         {
-          "text": "「この瞬間出会えた」",
+          "text": "「この瞬間出会えた」　それだけのことが　-HAPPY END－ に繋がる　架け橋",
           "performerIds": [
             "歌唱者-21"
           ],
@@ -1698,39 +1356,14 @@
             },
             {
               "text": "瞬間",
-              "reading": "しゅんかん"
+              "reading": "とき"
             },
             {
               "text": "出会",
               "reading": "であ"
             },
             {
-              "text": "えた」"
-            }
-          ]
-        }
-      ],
-      "trailingPerformerIds": [],
-      "stanzaBreakBefore": true,
-      "shared_interval": false
-    },
-    {
-      "id": "line-51",
-      "order": 50,
-      "index": 50,
-      "start": 143.703012,
-      "end": 147.082263,
-      "japanese": "それだけのことが　-HAPPY END－ に繋がる　架け橋",
-      "zh-CN": "仅凭这一点 就是通往-HAPPY END-的桥梁",
-      "segments": [
-        {
-          "text": "それだけのことが　-HAPPY END－ に繋がる　架け橋",
-          "performerIds": [
-            "歌唱者-21"
-          ],
-          "ruby": [
-            {
-              "text": "それだけのことが　-HAPPY END－ に"
+              "text": "えた」　それだけのことが　-HAPPY END－ に"
             },
             {
               "text": "繋",
@@ -1757,16 +1390,23 @@
       "shared_interval": false
     },
     {
-      "id": "line-52",
-      "order": 51,
-      "index": 51,
-      "start": 147.082263,
-      "end": 150.022481,
-      "japanese": "生きた証　ここにあれば　他に何も必要ない",
-      "zh-CN": "只要活过的证明留存于此 便不再需要其他任何东西",
+      "id": "reviewed-22",
+      "order": 22,
+      "index": null,
+      "sourceLineIndices": [
+        40,
+        41,
+        42,
+        43,
+        44
+      ],
+      "start": 146.86,
+      "end": 156.46,
+      "japanese": "生きた証　ここにあれば　他に何も必要ない　伝説が識らない　心と心の共鳴織り成す現在だけの歌を　この声失う最期のときまで　奇跡を描いて響かせ続ける！",
+      "zh-CN": "只要活过的证明留存于此 便不再需要其他任何东西　连传说都未曾知晓的　心与心共鸣交织而成的 仅属于现在的歌　直到失去这阵歌声的最后时刻　我都将描摹奇迹 让歌声永恒响彻！",
       "segments": [
         {
-          "text": "生きた証　ここにあれば　他に何も必要ない",
+          "text": "生きた証　ここにあれば　他に何も必要ない　伝説が識らない　心と心の共鳴織り成す現在だけの歌を　この声失う最期のときまで　奇跡を描いて響かせ続ける！",
           "performerIds": [
             "歌唱者-21"
           ],
@@ -1787,7 +1427,7 @@
             },
             {
               "text": "他",
-              "reading": "た"
+              "reading": "ほか"
             },
             {
               "text": "に"
@@ -1804,32 +1444,11 @@
               "reading": "ひつよう"
             },
             {
-              "text": "ない"
-            }
-          ]
-        }
-      ],
-      "trailingPerformerIds": [],
-      "shared_interval": false
-    },
-    {
-      "id": "line-53",
-      "order": 52,
-      "index": 52,
-      "start": 150.022481,
-      "end": 151.092561,
-      "japanese": "伝説が識らない",
-      "zh-CN": "连传说都未曾知晓的",
-      "segments": [
-        {
-          "text": "伝説が識らない",
-          "performerIds": [
-            "歌唱者-21"
-          ],
-          "ruby": [
+              "text": "ない　"
+            },
             {
               "text": "伝説",
-              "reading": "れきし"
+              "reading": "レキシ"
             },
             {
               "text": "が"
@@ -1839,29 +1458,8 @@
               "reading": "し"
             },
             {
-              "text": "らない"
-            }
-          ]
-        }
-      ],
-      "trailingPerformerIds": [],
-      "shared_interval": false
-    },
-    {
-      "id": "line-54",
-      "order": 53,
-      "index": 53,
-      "start": 151.092561,
-      "end": 152.072634,
-      "japanese": "心と心の共鳴織り成す現在だけの歌を",
-      "zh-CN": "心与心共鸣交织而成的 仅属于现在的歌",
-      "segments": [
-        {
-          "text": "心と心の共鳴織り成す現在だけの歌を",
-          "performerIds": [
-            "歌唱者-21"
-          ],
-          "ruby": [
+              "text": "らない　"
+            },
             {
               "text": "心",
               "reading": "こころ"
@@ -1896,7 +1494,7 @@
             },
             {
               "text": "現在",
-              "reading": "げんざい"
+              "reading": "いま"
             },
             {
               "text": "だけの"
@@ -1906,32 +1504,7 @@
               "reading": "うた"
             },
             {
-              "text": "を"
-            }
-          ]
-        }
-      ],
-      "trailingPerformerIds": [],
-      "stanzaBreakBefore": true,
-      "shared_interval": false
-    },
-    {
-      "id": "line-55",
-      "order": 54,
-      "index": 54,
-      "start": 152.072634,
-      "end": 152.611674,
-      "japanese": "この声失う最期のときまで",
-      "zh-CN": "直到失去这阵歌声的最后时刻",
-      "segments": [
-        {
-          "text": "この声失う最期のときまで",
-          "performerIds": [
-            "歌唱者-21"
-          ],
-          "ruby": [
-            {
-              "text": "この"
+              "text": "を　この"
             },
             {
               "text": "声",
@@ -1949,29 +1522,8 @@
               "reading": "さいご"
             },
             {
-              "text": "のときまで"
-            }
-          ]
-        }
-      ],
-      "trailingPerformerIds": [],
-      "shared_interval": false
-    },
-    {
-      "id": "line-56",
-      "order": 55,
-      "index": 55,
-      "start": 152.611674,
-      "end": 155.751907,
-      "japanese": "奇跡を描いて響かせ続ける！",
-      "zh-CN": "我都将描摹奇迹 让歌声永恒响彻！",
-      "segments": [
-        {
-          "text": "奇跡を描いて響かせ続ける！",
-          "performerIds": [
-            "歌唱者-21"
-          ],
-          "ruby": [
+              "text": "のときまで　"
+            },
             {
               "text": "奇跡",
               "reading": "きせき"

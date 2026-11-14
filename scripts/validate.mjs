@@ -68,6 +68,7 @@ for (const song of catalog.songs) {
     if (line.words?.length) timed++
   }
   const rubyLines = data.format === 'lrc' ? data.rubyLines || [] : data.lines
+  assert.equal(song.reviewedRomajiLines ?? 0, romajiRows.filter(l => (l.romajiSource ?? l.source) === 'reviewed').length, `catalog reviewed romaji ${mid}`)
   for (const line of rubyLines) {
     if (data.format === 'lrc') assert.ok(Number.isFinite(line.cueStart) && line.cueStart >= 0 && line.cueStart <= data.duration)
     let cursor = 0

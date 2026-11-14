@@ -280,7 +280,11 @@ def main() -> int:
         data = json.loads(original)
         source_file = folder / 'romaji.sekaipedia.json'
         human = {normalize(r['text']): r['romaji'] for r in json.loads(source_file.read_text())['lines']} if source_file.exists() else {}
+        reviewed_file = folder / 'readings.reviewed.json'
+        reviewed = {r['text']: r['romaji'] for r in json.loads(reviewed_file.read_text())['lines'] if r.get('romaji')} if reviewed_file.exists() else {}
         def choose(text, ruby):
+            if text in reviewed:
+                return reviewed[text], 'reviewed'
             if JAPANESE.search(text) and normalize(text) in human:
                 return human[normalize(text)], 'sekaipedia'
             return romaji_for(text, ruby), 'generated'

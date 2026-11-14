@@ -3,12 +3,12 @@
   "title": "初音ミクの激唱",
   "sources": [
     {
-      "usage": "日文歌词及 QRC 逐字时间轴",
+      "usage": "历史来源（时间轴已停用）",
       "provider": "QQ音乐",
       "recordId": "1162274",
       "url": "https://y.qq.com/n/ryqq/songDetail/002l4QZV4eVWdB",
       "license": null,
-      "note": "保留原 QRC 字词单元。沿用已核对的短版映射，再用两版游戏音频重叠段校准长版。QRC 时间 +8.388222 秒。"
+      "note": "2026-11-14：替换为 Typing Tube 30166 逐句时间；旧 QRC 不再用于高亮。"
     },
     {
       "usage": "中文译文",
@@ -43,6 +43,21 @@
       "via": "https://github.com/shinonomeenana/sekai_lyrics",
       "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
       "note": "APPEND/Full Version (upstream page override); exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "逐句时间轴",
+      "provider": "Typing Tube",
+      "recordId": "30166",
+      "url": "https://typing-tube.net/movie/show/30166",
+      "license": null,
+      "note": "2018 Remake；官方视频时间 +8.36 秒映射到本游戏音频。没有逐字时间。详见 reports/gekishou-source-review.json。"
+    },
+    {
+      "usage": "当て字读音复核",
+      "provider": "UtaTen",
+      "url": "https://utaten.com/lyric/jb51012507/",
+      "license": null,
+      "note": "仅修正仓库既有歌词的读音；整段当て字作为一个 ruby span。readings.reviewed.json 保证重跑不被普通词典读音覆盖。"
     }
   ]
 }

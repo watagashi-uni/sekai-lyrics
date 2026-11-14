@@ -2890,10 +2890,10 @@
       "format": "bilingual_json",
       "duration": 169.2,
       "vocalId": 241,
-      "assetbundle": null,
-      "hasWordTiming": true,
-      "wordTimedLines": 35,
-      "wordUnits": 433,
+      "assetbundle": "vs_0131_01",
+      "hasWordTiming": false,
+      "wordTimedLines": 0,
+      "wordUnits": 0,
       "performerTagged": true,
       "credits": {
         "translation": "雪莹ちゃん"
@@ -2903,10 +2903,26 @@
           "https://www.sekaipedia.org/wiki/Hatsune_Miku_no_Gekishou?oldid=328924",
           "CC BY-SA 4.0",
           "https://creativecommons.org/licenses/by-sa/4.0/"
+        ],
+        [
+          "https://typing-tube.net/movie/show/30166",
+          null,
+          null
+        ],
+        [
+          "https://utaten.com/lyric/jb51012507/",
+          null,
+          null
+        ],
+        [
+          "https://www.youtube.com/watch?v=MFEaIgMkR_0",
+          null,
+          null
         ]
       ],
-      "sekaipediaRomajiLines": 44,
-      "generatedRomajiLines": 1
+      "sekaipediaRomajiLines": 0,
+      "generatedRomajiLines": 0,
+      "reviewedRomajiLines": 23
     },
     {
       "musicId": 132,
@@ -9758,9 +9774,9 @@
       "duration": 308.4,
       "vocalId": 926,
       "assetbundle": "vs_0388_01",
-      "hasWordTiming": true,
-      "wordTimedLines": 60,
-      "wordUnits": 744,
+      "hasWordTiming": false,
+      "wordTimedLines": 0,
+      "wordUnits": 0,
       "performerTagged": false,
       "credits": {
         "作词": "GAiA",
@@ -9787,10 +9803,21 @@
           "https://pjsk.moe/zh-cn/lyrics/131/",
           null,
           null
+        ],
+        [
+          "https://typing-tube.net/movie/show/30166",
+          null,
+          null
+        ],
+        [
+          "https://utaten.com/lyric/jb51012507/",
+          null,
+          null
         ]
       ],
-      "sekaipediaRomajiLines": 38,
-      "generatedRomajiLines": 22
+      "sekaipediaRomajiLines": 1,
+      "generatedRomajiLines": 6,
+      "reviewedRomajiLines": 23
     },
     {
       "musicId": 390,
@@ -19520,8 +19547,8 @@
     }
   ],
   "mergeStatistics": {
-    "sekaipediaRomajiLines": 17742,
-    "generatedRomajiLines": 3182,
+    "sekaipediaRomajiLines": 17661,
+    "generatedRomajiLines": 3165,
     "additionalVersions": 141,
     "versionedSongs": 108,
     "versionSources": {
@@ -19530,6 +19557,7 @@
       "C": 48,
       "D": 2
     },
+    "reviewedRomajiLines": 46,
     "totalPlaybackVersions": 863
   }
 }

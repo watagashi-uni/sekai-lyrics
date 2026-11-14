@@ -10,6 +10,10 @@ for song in c['songs']:
  for origin,key in [('sekaipedia','sekaipediaRomajiLines'),('generated','generatedRomajiLines')]:
   song[key]=sum(r.get('romajiSource',r.get('source'))==origin for r in lines)
   totals[key]+=song[key]
+ reviewed=sum(r.get('romajiSource',r.get('source'))=='reviewed' for r in lines)
+ if reviewed: song['reviewedRomajiLines']=reviewed
+ else: song.pop('reviewedRomajiLines',None)
+ totals['reviewedRomajiLines']=totals.get('reviewedRomajiLines',0)+reviewed
  if 'versions' in d:
   song['versions']=[{'vocalId':v['vocalId'],'assetbundle':v['assetbundle'],'duration':v['duration'],'source':v['source'],'lines':len(v['lines'])} for v in d['versions']]
   totals['additionalVersions']+=len(d['versions'])

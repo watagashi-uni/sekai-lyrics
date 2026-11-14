@@ -1,0 +1,823 @@
+{
+  "date": "2026-11-14",
+  "sourceUrls": [
+    "https://typing-tube.net/movie/show/30166",
+    "https://utaten.com/lyric/jb51012507/",
+    "https://www.youtube.com/watch?v=MFEaIgMkR_0"
+  ],
+  "timingGranularity": "line",
+  "officialToFull": {
+    "method": "spectral",
+    "coverage": 1.0,
+    "median_score": 0.975734,
+    "segments": [
+      {
+        "target_start": 8.7,
+        "target_end": 308.4,
+        "source_start": 0.34,
+        "source_end": 300.04,
+        "source_minus_target": -8.36,
+        "matched_windows": 147,
+        "median_score": 0.975734,
+        "gain": 0.4995133792828423
+      }
+    ]
+  },
+  "fullToShort": {
+    "method": "waveform",
+    "coverage": 0.975,
+    "median_score": 0.989192,
+    "segments": [
+      {
+        "target_start": 8.7,
+        "target_end": 13.50013,
+        "source_start": 8.7,
+        "source_end": 13.50013,
+        "source_minus_target": 0.0,
+        "matched_windows": 2,
+        "median_score": 0.998825,
+        "gain": 1.6932075127879969
+      },
+      {
+        "target_start": 13.50013,
+        "target_end": 169.2,
+        "source_start": 152.70013,
+        "source_end": 308.4,
+        "source_minus_target": 139.2,
+        "matched_windows": 76,
+        "median_score": 0.989055,
+        "gain": 0.8547057807524704
+      }
+    ]
+  },
+  "notes": [
+    "Replaces QQ 1162274 timing; no word boundaries inferred.",
+    "Typing Tube times have 0.1 s resolution; waveform precision does not imply lyric-onset precision.",
+    "Final two source cues grouped together to preserve existing text/translation boundaries.",
+    "Short-version row 0 removed: its sung phrase is outside the retained audio cut.",
+    "Typing Tube reading spanning 故涙 is not adopted; retain separate readings verified against UtaTen."
+  ],
+  "songs": {
+    "131": {
+      "oldLines": 45,
+      "newLines": 23,
+      "offsetSeconds": -130.83999999999997,
+      "groups": [
+        {
+          "sourceStart": 169.3,
+          "sourceEnd": 179,
+          "oldShortRows": [
+            1,
+            2
+          ],
+          "oldFullRows": [
+            12,
+            13
+          ],
+          "start": 38.46,
+          "end": 48.16
+        },
+        {
+          "sourceStart": 179,
+          "sourceEnd": 188.5,
+          "oldShortRows": [
+            3,
+            4
+          ],
+          "oldFullRows": [
+            14,
+            15
+          ],
+          "start": 48.16,
+          "end": 57.66
+        },
+        {
+          "sourceStart": 188.5,
+          "sourceEnd": 195.7,
+          "oldShortRows": [
+            5
+          ],
+          "oldFullRows": [
+            16
+          ],
+          "start": 57.66,
+          "end": 64.86
+        },
+        {
+          "sourceStart": 195.7,
+          "sourceEnd": 205.4,
+          "oldShortRows": [
+            6,
+            7
+          ],
+          "oldFullRows": [
+            17,
+            18
+          ],
+          "start": 64.86,
+          "end": 74.56
+        },
+        {
+          "sourceStart": 205.4,
+          "sourceEnd": 214.6,
+          "oldShortRows": [
+            8
+          ],
+          "oldFullRows": [
+            19
+          ],
+          "start": 74.56,
+          "end": 83.76
+        },
+        {
+          "sourceStart": 214.6,
+          "sourceEnd": 224.6,
+          "oldShortRows": [
+            9
+          ],
+          "oldFullRows": [
+            20
+          ],
+          "start": 83.76,
+          "end": 93.76
+        },
+        {
+          "sourceStart": 224.6,
+          "sourceEnd": 227,
+          "oldShortRows": [
+            10,
+            11
+          ],
+          "oldFullRows": [
+            21,
+            22
+          ],
+          "start": 93.76,
+          "end": 96.16
+        },
+        {
+          "sourceStart": 227,
+          "sourceEnd": 229.5,
+          "oldShortRows": [
+            12,
+            13
+          ],
+          "oldFullRows": [
+            23,
+            24
+          ],
+          "start": 96.16,
+          "end": 98.66
+        },
+        {
+          "sourceStart": 229.5,
+          "sourceEnd": 233.5,
+          "oldShortRows": [
+            14,
+            15
+          ],
+          "oldFullRows": [
+            25,
+            26
+          ],
+          "start": 98.66,
+          "end": 102.66
+        },
+        {
+          "sourceStart": 233.5,
+          "sourceEnd": 236,
+          "oldShortRows": [
+            16,
+            17
+          ],
+          "oldFullRows": [
+            27,
+            28
+          ],
+          "start": 102.66,
+          "end": 105.16
+        },
+        {
+          "sourceStart": 236,
+          "sourceEnd": 238.1,
+          "oldShortRows": [
+            18,
+            19
+          ],
+          "oldFullRows": [
+            29
+          ],
+          "start": 105.16,
+          "end": 107.26
+        },
+        {
+          "sourceStart": 238.1,
+          "sourceEnd": 244.1,
+          "oldShortRows": [
+            20
+          ],
+          "oldFullRows": [
+            30,
+            31
+          ],
+          "start": 107.26,
+          "end": 113.26
+        },
+        {
+          "sourceStart": 244.1,
+          "sourceEnd": 246.5,
+          "oldShortRows": [
+            21,
+            22
+          ],
+          "oldFullRows": [
+            32,
+            33
+          ],
+          "start": 113.26,
+          "end": 115.66
+        },
+        {
+          "sourceStart": 246.5,
+          "sourceEnd": 248.9,
+          "oldShortRows": [
+            23,
+            24
+          ],
+          "oldFullRows": [
+            34,
+            35
+          ],
+          "start": 115.66,
+          "end": 118.06
+        },
+        {
+          "sourceStart": 248.9,
+          "sourceEnd": 251.3,
+          "oldShortRows": [
+            25,
+            26
+          ],
+          "oldFullRows": [
+            36,
+            37
+          ],
+          "start": 118.06,
+          "end": 120.46
+        },
+        {
+          "sourceStart": 251.3,
+          "sourceEnd": 253.7,
+          "oldShortRows": [
+            27,
+            28
+          ],
+          "oldFullRows": [
+            38
+          ],
+          "start": 120.46,
+          "end": 122.86
+        },
+        {
+          "sourceStart": 253.7,
+          "sourceEnd": 256.7,
+          "oldShortRows": [
+            29,
+            30
+          ],
+          "oldFullRows": [
+            39,
+            40
+          ],
+          "start": 122.86,
+          "end": 125.86
+        },
+        {
+          "sourceStart": 256.7,
+          "sourceEnd": 258.5,
+          "oldShortRows": [
+            31,
+            32
+          ],
+          "oldFullRows": [
+            41,
+            42
+          ],
+          "start": 125.86,
+          "end": 127.66
+        },
+        {
+          "sourceStart": 258.5,
+          "sourceEnd": 260.9,
+          "oldShortRows": [
+            33,
+            34
+          ],
+          "oldFullRows": [
+            43,
+            44,
+            45
+          ],
+          "start": 127.66,
+          "end": 130.06
+        },
+        {
+          "sourceStart": 260.9,
+          "sourceEnd": 263.4,
+          "oldShortRows": [
+            35,
+            36
+          ],
+          "oldFullRows": [
+            46,
+            47,
+            48
+          ],
+          "start": 130.06,
+          "end": 132.56
+        },
+        {
+          "sourceStart": 263.4,
+          "sourceEnd": 272.9,
+          "oldShortRows": [
+            37
+          ],
+          "oldFullRows": [
+            49,
+            50
+          ],
+          "start": 132.56,
+          "end": 142.06
+        },
+        {
+          "sourceStart": 272.9,
+          "sourceEnd": 277.7,
+          "oldShortRows": [
+            38,
+            39
+          ],
+          "oldFullRows": [
+            51,
+            52,
+            53
+          ],
+          "start": 142.06,
+          "end": 146.86
+        },
+        {
+          "sourceStart": 277.7,
+          "sourceEnd": 287.3,
+          "oldShortRows": [
+            40,
+            41,
+            42,
+            43,
+            44
+          ],
+          "oldFullRows": [
+            54,
+            55,
+            56,
+            57,
+            58,
+            59
+          ],
+          "start": 146.86,
+          "end": 156.46
+        }
+      ]
+    },
+    "388": {
+      "oldLines": 60,
+      "newLines": 30,
+      "offsetSeconds": 8.36,
+      "groups": [
+        {
+          "sourceStart": 38,
+          "sourceEnd": 48.1,
+          "oldFullRows": [
+            0,
+            1
+          ],
+          "start": 46.36,
+          "end": 56.46
+        },
+        {
+          "sourceStart": 48.1,
+          "sourceEnd": 57.7,
+          "oldFullRows": [
+            2,
+            3
+          ],
+          "start": 56.46,
+          "end": 66.06
+        },
+        {
+          "sourceStart": 67.4,
+          "sourceEnd": 76.9,
+          "oldFullRows": [
+            4
+          ],
+          "start": 75.76,
+          "end": 85.26
+        },
+        {
+          "sourceStart": 76.9,
+          "sourceEnd": 86.6,
+          "oldFullRows": [
+            5,
+            6
+          ],
+          "start": 85.26,
+          "end": 94.96
+        },
+        {
+          "sourceStart": 86.6,
+          "sourceEnd": 96.2,
+          "oldFullRows": [
+            7,
+            8
+          ],
+          "start": 94.96,
+          "end": 104.56
+        },
+        {
+          "sourceStart": 96.2,
+          "sourceEnd": 105.7,
+          "oldFullRows": [
+            9
+          ],
+          "start": 104.56,
+          "end": 114.06
+        },
+        {
+          "sourceStart": 105.7,
+          "sourceEnd": 115.5,
+          "oldFullRows": [
+            10,
+            11
+          ],
+          "start": 114.06,
+          "end": 123.86
+        },
+        {
+          "sourceStart": 169.3,
+          "sourceEnd": 179,
+          "oldShortRows": [
+            1,
+            2
+          ],
+          "oldFullRows": [
+            12,
+            13
+          ],
+          "start": 177.66,
+          "end": 187.36
+        },
+        {
+          "sourceStart": 179,
+          "sourceEnd": 188.5,
+          "oldShortRows": [
+            3,
+            4
+          ],
+          "oldFullRows": [
+            14,
+            15
+          ],
+          "start": 187.36,
+          "end": 196.86
+        },
+        {
+          "sourceStart": 188.5,
+          "sourceEnd": 195.7,
+          "oldShortRows": [
+            5
+          ],
+          "oldFullRows": [
+            16
+          ],
+          "start": 196.86,
+          "end": 204.06
+        },
+        {
+          "sourceStart": 195.7,
+          "sourceEnd": 205.4,
+          "oldShortRows": [
+            6,
+            7
+          ],
+          "oldFullRows": [
+            17,
+            18
+          ],
+          "start": 204.06,
+          "end": 213.76
+        },
+        {
+          "sourceStart": 205.4,
+          "sourceEnd": 214.6,
+          "oldShortRows": [
+            8
+          ],
+          "oldFullRows": [
+            19
+          ],
+          "start": 213.76,
+          "end": 222.96
+        },
+        {
+          "sourceStart": 214.6,
+          "sourceEnd": 224.6,
+          "oldShortRows": [
+            9
+          ],
+          "oldFullRows": [
+            20
+          ],
+          "start": 222.96,
+          "end": 232.96
+        },
+        {
+          "sourceStart": 224.6,
+          "sourceEnd": 227,
+          "oldShortRows": [
+            10,
+            11
+          ],
+          "oldFullRows": [
+            21,
+            22
+          ],
+          "start": 232.96,
+          "end": 235.36
+        },
+        {
+          "sourceStart": 227,
+          "sourceEnd": 229.5,
+          "oldShortRows": [
+            12,
+            13
+          ],
+          "oldFullRows": [
+            23,
+            24
+          ],
+          "start": 235.36,
+          "end": 237.86
+        },
+        {
+          "sourceStart": 229.5,
+          "sourceEnd": 233.5,
+          "oldShortRows": [
+            14,
+            15
+          ],
+          "oldFullRows": [
+            25,
+            26
+          ],
+          "start": 237.86,
+          "end": 241.86
+        },
+        {
+          "sourceStart": 233.5,
+          "sourceEnd": 236,
+          "oldShortRows": [
+            16,
+            17
+          ],
+          "oldFullRows": [
+            27,
+            28
+          ],
+          "start": 241.86,
+          "end": 244.36
+        },
+        {
+          "sourceStart": 236,
+          "sourceEnd": 238.1,
+          "oldShortRows": [
+            18,
+            19
+          ],
+          "oldFullRows": [
+            29
+          ],
+          "start": 244.36,
+          "end": 246.46
+        },
+        {
+          "sourceStart": 238.1,
+          "sourceEnd": 244.1,
+          "oldShortRows": [
+            20
+          ],
+          "oldFullRows": [
+            30,
+            31
+          ],
+          "start": 246.46,
+          "end": 252.46
+        },
+        {
+          "sourceStart": 244.1,
+          "sourceEnd": 246.5,
+          "oldShortRows": [
+            21,
+            22
+          ],
+          "oldFullRows": [
+            32,
+            33
+          ],
+          "start": 252.46,
+          "end": 254.86
+        },
+        {
+          "sourceStart": 246.5,
+          "sourceEnd": 248.9,
+          "oldShortRows": [
+            23,
+            24
+          ],
+          "oldFullRows": [
+            34,
+            35
+          ],
+          "start": 254.86,
+          "end": 257.26
+        },
+        {
+          "sourceStart": 248.9,
+          "sourceEnd": 251.3,
+          "oldShortRows": [
+            25,
+            26
+          ],
+          "oldFullRows": [
+            36,
+            37
+          ],
+          "start": 257.26,
+          "end": 259.66
+        },
+        {
+          "sourceStart": 251.3,
+          "sourceEnd": 253.7,
+          "oldShortRows": [
+            27,
+            28
+          ],
+          "oldFullRows": [
+            38
+          ],
+          "start": 259.66,
+          "end": 262.06
+        },
+        {
+          "sourceStart": 253.7,
+          "sourceEnd": 256.7,
+          "oldShortRows": [
+            29,
+            30
+          ],
+          "oldFullRows": [
+            39,
+            40
+          ],
+          "start": 262.06,
+          "end": 265.06
+        },
+        {
+          "sourceStart": 256.7,
+          "sourceEnd": 258.5,
+          "oldShortRows": [
+            31,
+            32
+          ],
+          "oldFullRows": [
+            41,
+            42
+          ],
+          "start": 265.06,
+          "end": 266.86
+        },
+        {
+          "sourceStart": 258.5,
+          "sourceEnd": 260.9,
+          "oldShortRows": [
+            33,
+            34
+          ],
+          "oldFullRows": [
+            43,
+            44,
+            45
+          ],
+          "start": 266.86,
+          "end": 269.26
+        },
+        {
+          "sourceStart": 260.9,
+          "sourceEnd": 263.4,
+          "oldShortRows": [
+            35,
+            36
+          ],
+          "oldFullRows": [
+            46,
+            47,
+            48
+          ],
+          "start": 269.26,
+          "end": 271.76
+        },
+        {
+          "sourceStart": 263.4,
+          "sourceEnd": 272.9,
+          "oldShortRows": [
+            37
+          ],
+          "oldFullRows": [
+            49,
+            50
+          ],
+          "start": 271.76,
+          "end": 281.26
+        },
+        {
+          "sourceStart": 272.9,
+          "sourceEnd": 277.7,
+          "oldShortRows": [
+            38,
+            39
+          ],
+          "oldFullRows": [
+            51,
+            52,
+            53
+          ],
+          "start": 281.26,
+          "end": 286.06
+        },
+        {
+          "sourceStart": 277.7,
+          "sourceEnd": 287.3,
+          "oldShortRows": [
+            40,
+            41,
+            42,
+            43,
+            44
+          ],
+          "oldFullRows": [
+            54,
+            55,
+            56,
+            57,
+            58,
+            59
+          ],
+          "start": 286.06,
+          "end": 295.66
+        }
+      ]
+    }
+  },
+  "candidates": [
+    {
+      "provider": "QQ音乐",
+      "recordId": "1162274",
+      "decision": "retired",
+      "reason": "原逐字分段与歌词实际读音不符，旧起点相对新逐句源存在非恒定偏差；短版误带入已唱完的上文。"
+    },
+    {
+      "provider": "LRCLIB",
+      "recordIds": [
+        31562302,
+        18270768,
+        19671931,
+        31041361
+      ],
+      "decision": "not adopted",
+      "reason": "仅有逐句轴；2018 条目与既有平台轴高度重复，另一个原版条目在高速段时间不兼容。"
+    },
+    {
+      "provider": "网易云音乐",
+      "recordId": "1313102248",
+      "decision": "translation retained, timing not adopted",
+      "reason": "查询返回普通 LRC，没有可用于此次替换的 YRC 逐字轴；译文与署名保留。"
+    },
+    {
+      "provider": "Typing Tube",
+      "recordId": "30166",
+      "decision": "line timing adopted",
+      "reason": "明确对应作者 2018 Remake 视频；独立逐句时间，保留空白间奏，未推测逐字边界。"
+    }
+  ],
+  "limitations": [
+    "波形映射验证同轨与时间偏移，不代表逐句人声起点已逐字人工听审。",
+    "采用来源的 0.1 秒级句段边界；最后两个源句段合并，暂不提供逐字高亮。"
+  ]
+}

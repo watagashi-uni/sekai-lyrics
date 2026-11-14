@@ -144,6 +144,11 @@ function parseLrc(lrc, duration) {
 const totals = { bilingual_json: 0, lrc: 0, lines: 0, readings: 0 }
 for (const folder of (await readdir(root)).filter(name => /^\d+$/.test(name))) {
   const dir = path.join(root, folder)
+  const reviewedFile = await readFile(path.join(dir, 'readings.reviewed.json'), 'utf8').catch(error => {
+    if (error.code === 'ENOENT') return null
+    throw error
+  })
+  const reviewed = new Map((reviewedFile ? JSON.parse(reviewedFile).lines : []).map(line => [line.text, line.ruby]))
   const source = await readFile(path.join(dir, 'game.bilingual.json'), 'utf8').catch(error => {
     if (error.code === 'ENOENT') return null
     throw error
@@ -153,7 +158,7 @@ for (const folder of (await readdir(root)).filter(name => /^\d+$/.test(name))) {
     if (error.code === 'ENOENT') return null
     throw error
   })
-  if (!source && !upstream) continue
+  if (!source && !upstream && !reviewed.size) continue
   const readings = projectReadings(upstream ? JSON.parse(upstream) : null)
   const sourceLines = (source ? JSON.parse(source).lines : []).filter(line => Number.isFinite(line.start) && Number.isFinite(line.end))
   const canonical = sourceLines.map(line => sourceLine(line, line.segments, line.japanese)).filter(Boolean).sort((a, b) => a.start - b.start)
@@ -172,8 +177,8 @@ for (const folder of (await readdir(root)).filter(name => /^\d+$/.test(name))) {
   const lines = data.format === 'lrc' ? parseLrc(data.lrc, data.duration) : data.lines
   const rubyLines = []
   for (const line of lines) {
-    const ruby = project(line, display)
-    const fallback = [
+    const ruby = reviewed.has(line.text) ? structuredClone(reviewed.get(line.text)) : project(line, display)
+    const fallback = reviewed.has(line.text) ? [] : [
       ...project(line, canonical),
       ...exactProjectRuby(line, readings),
       ...project(line, timedUpstream),
