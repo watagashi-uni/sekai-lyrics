@@ -118,6 +118,14 @@
         }
       ],
       "note": "Snapshot 20261110-all-v2; only recorded aligned lines; no cross-version word transfer; shared intervals retained."
+    },
+    {
+      "usage": "歌词修正",
+      "provider": "manual_review",
+      "recordId": null,
+      "url": null,
+      "license": null,
+      "note": "2026-11-14 第 30 行（1:22.844）原项目文字「ままでいたい」缺「ありの」，按本曲 game.lrc 与人工确认改为「ありのままでいたい」；「ありの」的逐字时间取自 game.enhanced.lrc。game.bilingual.json 原文保留，修正写在 display_japanese／display_segments。"
     }
   ]
 }
