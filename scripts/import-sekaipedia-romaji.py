@@ -37,7 +37,7 @@ for folder in sorted((root/'lyrics').glob('[0-9]*')):
     (folder/'romaji.sekaipedia.json').write_text(json.dumps(payload,ensure_ascii=False,indent=2)+'\n')
     provenance = json.loads((folder/'sources.json').read_text())
     provenance['sources'] = [s for s in provenance['sources'] if s.get('usage')!='罗马音']
-    provenance['sources'].append({'usage':'罗马音','provider':'Sekaipedia','url':url,'license':'CC BY-SA 4.0','licenseUrl':'https://creativecommons.org/licenses/by-sa/4.0/','via':payload['via'],'revision':revision,'note':'Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision.'})
+    provenance['sources'].append({'usage':'罗马音','provider':'Sekaipedia','url':url,'license':'CC BY-SA 4.0','licenseUrl':'https://creativecommons.org/licenses/by-sa/4.0/','via':payload['via'],'revision':revision,'note':('APPEND/Full Version (upstream page override)' if mid == 388 else 'Game Version')+'; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision.'})
     (folder/'sources.json').write_text(json.dumps(provenance,ensure_ascii=False,indent=2)+'\n')
     stats[mid] = len(entries)
 print(json.dumps({'songs':len(stats),'uniqueLines':sum(stats.values()),'focus':{i:stats.get(i,0) for i in [43,426,478,562,590,643,679]}}))
