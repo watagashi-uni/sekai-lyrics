@@ -1,19 +1,27 @@
 // Every rendition of a song is sung to the same backing track, so all of them share the
-// default rendition's timeline; they differ only in who sings which row. This turns the
-// timed lines of each additional version into singer assignments on the default rows:
+// default rendition's timeline; they differ in who sings which row and, on a few rows, in
+// the words. This turns the timed lines of each additional version into singer
+// assignments on the default rows:
 //
 //   versions[].lines [{textRef|text, start, end, segments?, performerIds?}]
-//   → versions[].singers [{row, segments?, performerIds?}]
+//   → versions[].singers [{row, segments?, performerIds?, text?, translation?}]
 //
-// Version lines and default rows are paired in song order by text (ignoring spaces,
-// punctuation and width), preferring the pairing with the least time drift. textRef only
-// names *a* row with that text (the first), so repeats are told apart by order and time.
-// Sentences broken differently on the two sides are joined until their texts match.
-// Lines whose text the default rendition does not have are dropped and reported.
+// Version lines are paired with default rows in four passes, each only between lines whose
+// times meet (textRef only names the first row with a text, so it never decides alone):
+//   1. same text, in song order, least time drift;
+//   2. same text, out of order (rows sung over each other, or rows of one cue that all
+//      carry the cue's start);
+//   3. runs of lines and rows whose joined texts are the same (sentences broken differently);
+//   4. similar text at the same time. Only the singers are taken, unless the version's
+//      words for that row were reviewed as really sung differently
+//      (lyrics/<id>/version-text.reviewed.json): then the row shows them (`text`, `translation`).
+// Everything left is reported (reports/version-singers.json) for a person to check.
 //
-// Usage: node scripts/unify-version-singers.mjs [--write]
-// Without --write it only prints the report. Versions already holding `singers` are left as they are.
+// Usage: node scripts/unify-version-singers.mjs [--write] [--from <git revision>]
+// Without --write it only prints the report. Versions already holding `singers` are left as
+// they are, unless --from names a revision whose timed lines they are rebuilt from.
 import { readFile, writeFile, readdir } from 'node:fs/promises'
+import { execFileSync } from 'node:child_process'
 import { fileURLToPath } from 'node:url'
 import path from 'node:path'
 import { defaultRows, defaultTimeline } from './version-schema.mjs'
@@ -65,20 +73,39 @@ function toSegments(text, units) {
 
 /** How far a default row starting at `at` lies from a version span (0 inside it). */
 const driftOf = (at, line) => (at < line.start ? line.start - at : at > line.end ? at - line.end : 0)
-/** Furthest a matched row may start outside the version line's span. */
+/** Furthest a matched row may start outside the version line's span (pass 1 and 3). */
 const MAX_ALIGN_DRIFT_SEC = 8
 /** Most rows or lines joined to match one another when the two sides break a sentence differently. */
 const MAX_JOIN = 4
+/** Least similarity of two texts sung at the same time to take one's singers for the other. */
+const MIN_SIMILARITY = 0.5
+
+/** The spans overlap, or the row starts within `tolerance` of the line. */
+const meet = (v, d, tolerance) => Math.min(v.end, d.end) > Math.max(v.start, d.start) || driftOf(d.start, v) <= tolerance
+
+/** Dice coefficient of character bigrams of two normalized texts. */
+export function similarity(a, b) {
+  if (!a || !b) return 0
+  if (a === b) return 1
+  const grams = text => (text.length < 2 ? [text] : Array.from({ length: text.length - 1 }, (_, i) => text.slice(i, i + 2)))
+  const left = grams(a)
+  const right = new Map()
+  for (const g of grams(b)) right.set(g, (right.get(g) || 0) + 1)
+  let shared = 0
+  for (const g of left) if (right.get(g)) { shared++; right.set(g, right.get(g) - 1) }
+  return (2 * shared) / (left.length + grams(b).length)
+}
+
+const unionOf = line => [...new Set([...(line.segments || []).flatMap(s => s.performerIds || []), ...(line.performerIds || [])])]
 
 /**
- * Pair version lines with default rows in song order: as many equal texts as possible,
- * then the least time drift. Lines left over are tried against runs of rows (or rows
- * against runs of lines) whose joined text reads the same, for sentences broken differently.
+ * Pair version lines with default rows (see the passes above). `reviewed` holds version
+ * texts confirmed as sung differently from the default row at their place.
  */
-export function unifyVersion(data, version) {
+export function unifyVersion(data, version, reviewed = new Set()) {
   const base = defaultRows(data)
   const timeline = defaultTimeline(data)
-  const D = timeline.map((row, i) => ({ i, start: row.start, text: base[i].text, key: normalize(base[i].text) }))
+  const D = timeline.map((row, i) => ({ i, start: row.start, end: row.end, text: base[i].text, key: normalize(base[i].text) }))
     .sort((a, b) => a.start - b.start || a.i - b.i)
   const V = version.lines.map((line, i) => {
     const text = line.textRef != null ? base[line.textRef]?.text : line.text
@@ -86,7 +113,15 @@ export function unifyVersion(data, version) {
   })
   const n = V.length
   const m = D.length
-  // best[a][b]: [matches, -drift] for V[a:] against D[b:].
+  const usedV = new Set()
+  const usedD = new Set()
+  const matches = []
+  const take = (kind, v, d) => {
+    v.forEach(x => usedV.add(x))
+    d.forEach(x => usedD.add(x))
+    matches.push({ kind, v, d })
+  }
+  // 1. In order. best[a][b]: [matches, -drift] for V[a:] against D[b:].
   const best = Array.from({ length: n + 1 }, () => new Array(m + 1).fill(null))
   const better = (x, y) => (x[0] !== y[0] ? x[0] > y[0] : x[1] > y[1])
   for (let a = n; a >= 0; a--) {
@@ -96,59 +131,88 @@ export function unifyVersion(data, version) {
       if (better(best[a][b + 1], pick)) pick = best[a][b + 1]
       const drift = driftOf(D[b].start, V[a])
       if (V[a].key && V[a].key === D[b].key && drift <= MAX_ALIGN_DRIFT_SEC) {
-        const take = [best[a + 1][b + 1][0] + 1, best[a + 1][b + 1][1] - drift]
-        if (better(take, pick)) pick = take
+        const next = [best[a + 1][b + 1][0] + 1, best[a + 1][b + 1][1] - drift]
+        if (better(next, pick)) pick = next
       }
       best[a][b] = pick
     }
   }
-  const pairs = []
   for (let a = 0, b = 0; a < n && b < m;) {
     const drift = driftOf(D[b].start, V[a])
     if (V[a].key && V[a].key === D[b].key && drift <= MAX_ALIGN_DRIFT_SEC
       && best[a][b][0] === best[a + 1][b + 1][0] + 1 && best[a][b][1] === best[a + 1][b + 1][1] - drift) {
-      pairs.push({ v: [a], d: [b] })
+      take('exact', [a], [b])
       a++
       b++
     } else if (best[a][b][0] === best[a + 1][b][0] && best[a][b][1] === best[a + 1][b][1]) a++
     else b++
   }
-  // Between two matched pairs, join runs on either side where one sentence is broken differently.
-  const anchors = [{ v: [-1], d: [-1] }, ...pairs, { v: [n], d: [m] }]
-  const joined = []
-  for (let k = 0; k + 1 < anchors.length; k++) {
-    let a = anchors[k].v.at(-1) + 1
-    let b = anchors[k].d.at(-1) + 1
-    const aEnd = anchors[k + 1].v[0]
-    const bEnd = anchors[k + 1].d[0]
-    while (a < aEnd && b < bEnd) {
-      let found = null
-      for (let size = 3; size <= MAX_JOIN + 1 && !found; size++) {
-        for (let x = 1; x < size && !found; x++) {
-          const y = size - x
-          if (a + x > aEnd || b + y > bEnd) continue
-          const vs = V.slice(a, a + x)
-          const ds = D.slice(b, b + y)
-          if (vs.map(v => v.key).join('') !== ds.map(d => d.key).join('') || !vs[0].key) continue
-          const span = { start: vs[0].start, end: Math.max(...vs.map(v => v.end)) }
-          if (ds.some(d => driftOf(d.start, span) > MAX_ALIGN_DRIFT_SEC)) continue
-          found = { v: vs.map((_, t) => a + t), d: ds.map((_, t) => b + t) }
+  // 2. Out of order, where the times meet.
+  for (let a = 0; a < n; a++) {
+    if (usedV.has(a) || !V[a].key) continue
+    const pick = D.map((d, b) => ({ d, b }))
+      .filter(({ d, b }) => !usedD.has(b) && d.key === V[a].key && meet(V[a], d, 3))
+      .sort((x, y) => Math.abs(x.d.start - V[a].start) - Math.abs(y.d.start - V[a].start))[0]
+    if (pick) take('reordered', [a], [pick.b])
+  }
+  // 3. Runs of free lines against runs of free rows that read the same joined.
+  for (let a = 0; a < n; a++) {
+    if (usedV.has(a) || !V[a].key) continue
+    let found = null
+    for (let size = 3; size <= MAX_JOIN + 1 && !found; size++) {
+      for (let x = 1; x < size && !found; x++) {
+        const y = size - x
+        const vs = Array.from({ length: x }, (_, t) => a + t)
+        if (vs.some(t => t >= n || usedV.has(t))) continue
+        const key = vs.map(t => V[t].key).join('')
+        const span = { start: V[a].start, end: Math.max(...vs.map(t => V[t].end)) }
+        for (let b = 0; b + y <= m && !found; b++) {
+          const ds = Array.from({ length: y }, (_, t) => b + t)
+          if (ds.some(t => usedD.has(t)) || ds.some(t => driftOf(D[t].start, span) > MAX_ALIGN_DRIFT_SEC)) continue
+          if (ds.map(t => D[t].key).join('') === key) found = [vs, ds]
         }
       }
-      if (found) {
-        joined.push(found)
-        a += found.v.length
-        b += found.d.length
-      } else if (V[a].start <= D[b].start) a++
-      else b++
+    }
+    if (found) take('joined', ...found)
+  }
+  // 4. Similar text at the same time.
+  const similar = []
+  for (let a = 0; a < n; a++) {
+    if (usedV.has(a)) continue
+    for (let b = 0; b < m; b++) {
+      if (usedD.has(b) || !meet(V[a], D[b], 2)) continue
+      const score = similarity(V[a].key, D[b].key)
+      if (score >= MIN_SIMILARITY) similar.push({ a, b, score })
     }
   }
+  for (const { a, b } of similar.sort((x, y) => y.score - x.score)) {
+    if (usedV.has(a) || usedD.has(b)) continue
+    take('similar', [a], [b])
+  }
+
   const singers = []
-  const used = new Set()
-  for (const { v, d } of [...pairs, ...joined]) {
+  const similarRows = []
+  for (const { kind, v, d } of matches) {
     const lines = v.map(x => V[x])
     const rows = d.map(x => D[x])
-    v.forEach(x => used.add(x))
+    if (kind === 'similar') {
+      const [line] = lines
+      const [row] = rows
+      const own = reviewed.has(line.text)
+      similarRows.push({ row: row.i, default: row.text, version: line.text, start: row.start, score: Number(similarity(line.key, row.key).toFixed(2)), versionText: own })
+      const entry = { row: row.i }
+      if (own) {
+        entry.text = line.text
+        if (line.line.translation) entry.translation = line.line.translation
+        if (line.line.segments?.length) entry.segments = line.line.segments
+        if (line.line.performerIds?.length) entry.performerIds = line.line.performerIds
+      } else {
+        const ids = unionOf(line.line)
+        if (ids.length) entry.performerIds = ids
+      }
+      if (entry.segments || entry.performerIds || entry.text) singers.push(entry)
+      continue
+    }
     if (lines.length === 1 && rows.length === 1 && lines[0].text === rows[0].text) {
       const { segments, performerIds } = lines[0].line
       const entry = { row: rows[0].i }
@@ -170,9 +234,14 @@ export function unifyVersion(data, version) {
     }
   }
   singers.sort((a, b) => a.row - b.row)
-  const unmatched = V.filter(x => !used.has(x.i)).map(x => ({ text: x.text, start: x.start, end: x.end }))
+  const unmatched = V.filter(x => !usedV.has(x.i)).map((x) => {
+    const near = D.filter(d => meet(x, d, 1.5)).map(d => ({ row: d.i, start: d.start, text: d.text }))
+    return { text: x.text, start: x.start, end: x.end, defaultRowsAtThatTime: near }
+  })
+  const counts = {}
+  for (const { kind } of matches) counts[kind] = (counts[kind] || 0) + 1
   const { lines: _lines, credits: _credits, ...rest } = version
-  return { version: { ...rest, singers }, unmatched, lines: n, joined: joined.length }
+  return { version: { ...rest, singers }, unmatched, similar: similarRows, counts, lines: n }
 }
 
 /**
@@ -203,18 +272,34 @@ function replaceValue(body, key, value) {
 }
 
 if (process.argv[1] === fileURLToPath(import.meta.url)) {
+  const fromAt = process.argv.indexOf('--from')
+  const from = fromAt >= 0 ? process.argv[fromAt + 1] : null
   const report = []
   let changed = 0
   for (const folder of (await readdir(path.join(root, 'lyrics'))).sort()) {
     if (!/^\d+$/.test(folder)) continue
-    const file = path.join(root, 'lyrics', folder, 'lyrics.json')
+    const relative = `lyrics/${folder}/lyrics.json`
+    const file = path.join(root, relative)
     const body = await readFile(file, 'utf8')
     const data = JSON.parse(body)
-    if (!data.versions?.some(v => v.lines)) continue
+    if (!data.versions?.length) continue
+    let timed = new Map(data.versions.filter(v => v.lines).map(v => [v.vocalId, v]))
+    if (from) {
+      const old = JSON.parse(execFileSync('git', ['-C', root, 'show', `${from}:${relative}`], { encoding: 'utf8', maxBuffer: 1 << 28 }))
+      timed = new Map((old.versions || []).filter(v => v.lines).map(v => [v.vocalId, v]))
+    }
+    if (!timed.size) continue
+    let reviewed = {}
+    try {
+      reviewed = JSON.parse(await readFile(path.join(root, 'lyrics', folder, 'version-text.reviewed.json'), 'utf8')).vocals || {}
+    } catch (error) {
+      if (error.code !== 'ENOENT') throw error
+    }
     data.versions = data.versions.map((version) => {
-      if (!version.lines) return version
-      const result = unifyVersion(data, version)
-      report.push({ musicId: data.musicId, vocalId: version.vocalId, lines: result.lines, singers: result.version.singers.length, joined: result.joined, unmatched: result.unmatched })
+      const source = timed.get(version.vocalId)
+      if (!source) return version
+      const result = unifyVersion(data, source, new Set(reviewed[version.vocalId] || []))
+      report.push({ musicId: data.musicId, vocalId: version.vocalId, lines: result.lines, singers: result.version.singers.length, matched: result.counts, similar: result.similar, unmatched: result.unmatched })
       return result.version
     })
     if (write) {
@@ -222,8 +307,18 @@ if (process.argv[1] === fileURLToPath(import.meta.url)) {
       changed++
     }
   }
+  const total = kind => report.reduce((sum, r) => sum + (r.matched[kind] || 0), 0)
+  const similar = report.flatMap(r => r.similar.map(s => ({ musicId: r.musicId, vocalId: r.vocalId, ...s })))
   const unmatched = report.flatMap(r => r.unmatched.map(u => ({ musicId: r.musicId, vocalId: r.vocalId, ...u })))
-  console.log(JSON.stringify({ versions: report.length, lines: report.reduce((n, r) => n + r.lines, 0), unmatched: unmatched.length, files: changed }))
-  for (const u of unmatched) console.log(JSON.stringify(u))
-  if (write) await writeFile(path.join(root, 'reports', 'version-singers.json'), JSON.stringify({ note: 'Additional versions share the default timeline; their timed lines were turned into singer assignments on default rows by normalized text and nearest time after removing each version\'s median offset.', maxDriftSec: MAX_ALIGN_DRIFT_SEC, versions: report }, null, 1) + '\n')
+  console.log(JSON.stringify({ versions: report.length, lines: report.reduce((n, r) => n + r.lines, 0), exact: total('exact'), reordered: total('reordered'), joined: total('joined'), similar: similar.length, unmatched: unmatched.length, files: changed }))
+  if (process.argv.includes('--verbose')) {
+    for (const s of similar) console.log('similar', JSON.stringify(s))
+    for (const u of unmatched) console.log('unmatched', JSON.stringify(u))
+  }
+  if (write) {
+    await writeFile(path.join(root, 'reports', 'version-singers.json'), JSON.stringify({
+      note: 'Additional versions share the default timeline. Their timed lines became singer assignments on default rows: same text in order, same text out of order, joined runs, then similar text at the same time (singers only unless reviewed in lyrics/<id>/version-text.reviewed.json). `similar` and `unmatched` need a person to check.',
+      maxAlignDriftSec: MAX_ALIGN_DRIFT_SEC, minSimilarity: MIN_SIMILARITY, similar, unmatched, versions: report.map(({ similar: _s, unmatched: _u, ...rest }) => rest),
+    }, null, 1) + '\n')
+  }
 }

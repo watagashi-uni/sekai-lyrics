@@ -5,7 +5,7 @@ const data = {duration:4,format:'lrc', lrc:'[00:02.00][00:01.00]あ\n[00:01.00]�
 assert.deepEqual(defaultRows(data).map(l=>l.text),['あ','い','あ'])
 validateVersions(data)
 assert.equal(defaultRows({format:'lrc',duration:4,lrc:'[00:01]あ\n[00:02]\n[00:05]範囲外'})[0].end, 2)
-for (const mutate of [d=>d.versions[0].singers[0].row=3,d=>d.versions[0].singers[0].performerIds=['unknown'],d=>d.versions[0].singers[0].start=1,d=>d.versions[0].singers[1].row=0,d=>d.versions[0].singers[1].segments[0].text='い',d=>d.versions[0].singers.push({row:1}),d=>d.versions[0].lines=[],d=>d.versions[0].vocalId=1]) {
+for (const mutate of [d=>d.versions[0].singers[0].row=3,d=>d.versions[0].singers[0].performerIds=['unknown'],d=>d.versions[0].singers[0].start=1,d=>d.versions[0].singers[0].translation='x',d=>d.versions[0].singers[1].row=0,d=>d.versions[0].singers[1].segments[0].text='い',d=>d.versions[0].singers.push({row:1}),d=>d.versions[0].lines=[],d=>d.versions[0].vocalId=1]) {
   const copy=structuredClone(data);mutate(copy);assert.throws(()=>validateVersions(copy))
 }
 // Version lines become singers on the default rows: repeats by order and time, sentences broken differently joined.
@@ -23,4 +23,13 @@ assert.deepEqual(unified.unmatched.map(u => u.text), ['他'])
 assert.equal(unified.version.lines, undefined)
 assert.equal(unified.version.credits, undefined)
 validateVersions({...song, versions:[unified.version]})
+// Similar words at the same time: singers only, or the version's own words once reviewed.
+const sung = {duration:30,format:'lrc',vocalId:1,lrc:'[00:01.00]Jump 限界（みのり）\n[00:05.00]次',
+  versions:[{vocalId:2,assetbundle:'x',duration:30,source:'A',performers:[{performerId:'歌唱者-21',name:'ミク',characterId:21}],
+    lines:[{text:'Jump 限界（ミクさん）',translation:'Jump 极限（MIKU姐）',start:1.1,end:4,segments:[{text:'Jump 限界（ミクさん）',performerIds:['歌唱者-21']}]}]}]}
+assert.deepEqual(unifyVersion(sung, sung.versions[0]).version.singers, [{row:0,performerIds:['歌唱者-21']}])
+const own = unifyVersion(sung, sung.versions[0], new Set(['Jump 限界（ミクさん）'])).version
+assert.deepEqual(own.singers, [{row:0,text:'Jump 限界（ミクさん）',translation:'Jump 极限（MIKU姐）',segments:[{text:'Jump 限界（ミクさん）',performerIds:['歌唱者-21']}]}])
+validateVersions({...sung, versions:[own]})
+assert.throws(() => validateVersions({...sung, versions:[{...own, singers:[{row:0,text:'Jump 限界（みのり）'}]}]}))
 console.log('version schema checks passed')

@@ -1,1332 +1,1551 @@
 {
- "note": "Additional versions share the default timeline; their timed lines were turned into singer assignments on default rows by normalized text and nearest time after removing each version's median offset.",
- "maxDriftSec": 8,
+ "note": "Additional versions share the default timeline. Their timed lines became singer assignments on default rows: same text in order, same text out of order, joined runs, then similar text at the same time (singers only unless reviewed in lyrics/<id>/version-text.reviewed.json). `similar` and `unmatched` need a person to check.",
+ "maxAlignDriftSec": 8,
+ "minSimilarity": 0.5,
+ "similar": [
+  {
+   "musicId": 57,
+   "vocalId": 100,
+   "row": 29,
+   "default": "More More Jump!! 限界超え（愛莉）",
+   "version": "More More Jump!! 限界超え（ルカさん）",
+   "start": 84.622032,
+   "score": 0.83,
+   "versionText": true
+  },
+  {
+   "musicId": 57,
+   "vocalId": 100,
+   "row": 6,
+   "default": "Jump!! 元気をシェア（遥）",
+   "version": "Jump!! 元気をシェア（リンちゃん）",
+   "start": 20.18,
+   "score": 0.75,
+   "versionText": true
+  },
+  {
+   "musicId": 57,
+   "vocalId": 100,
+   "row": 17,
+   "default": "（キューティー・スマイル 遥）",
+   "version": "（キューティー・スマイル リンちゃん）",
+   "start": 50.015021,
+   "score": 0.75,
+   "versionText": true
+  },
+  {
+   "musicId": 57,
+   "vocalId": 100,
+   "row": 31,
+   "default": "Jump!! 元気をシェア（雫）",
+   "version": "Jump!! 元気をシェア（メイちゃん）",
+   "start": 91.172573,
+   "score": 0.75,
+   "versionText": true
+  },
+  {
+   "musicId": 57,
+   "vocalId": 100,
+   "row": 4,
+   "default": "Jump!! 限界超え（みのり）",
+   "version": "Jump!! 限界超え（ミクさん）",
+   "start": 14.71,
+   "score": 0.67,
+   "versionText": true
+  },
+  {
+   "musicId": 57,
+   "vocalId": 100,
+   "row": 15,
+   "default": "（ファイト・ファイト みのり）",
+   "version": "（ファイト・ファイト ミクさん）",
+   "start": 44.600054,
+   "score": 0.67,
+   "versionText": true
+  },
+  {
+   "musicId": 57,
+   "vocalId": 100,
+   "row": 22,
+   "default": "（ツンデレ・ガール 愛莉）",
+   "version": "（ツンデレ・ガール ルカさん）",
+   "start": 66.291912,
+   "score": 0.67,
+   "versionText": true
+  },
+  {
+   "musicId": 57,
+   "vocalId": 100,
+   "row": 24,
+   "default": "（G・U・T・S 雫）",
+   "version": "（G・U・T・S メイちゃん）",
+   "start": 71.75786,
+   "score": 0.5,
+   "versionText": true
+  },
+  {
+   "musicId": 156,
+   "vocalId": 336,
+   "row": 3,
+   "default": "雑な罠に嵌まるつもりなど無い",
+   "version": "雑な罠に嵌るつもりなど無い",
+   "start": 27.653826,
+   "score": 0.88,
+   "versionText": false
+  },
+  {
+   "musicId": 201,
+   "vocalId": 502,
+   "row": 26,
+   "default": "la la la la la la la",
+   "version": "(la la la…)",
+   "start": 122.88,
+   "score": 0.56,
+   "versionText": false
+  },
+  {
+   "musicId": 201,
+   "vocalId": 502,
+   "row": 28,
+   "default": "la la la la la la la",
+   "version": "(la la la…)",
+   "start": 128.26,
+   "score": 0.56,
+   "versionText": false
+  },
+  {
+   "musicId": 354,
+   "vocalId": 863,
+   "row": 4,
+   "default": "邁進！ 発射オーライ",
+   "version": "邁進！ 発射オーライ 未来！",
+   "start": 40.701,
+   "score": 0.88,
+   "versionText": false
+  },
+  {
+   "musicId": 471,
+   "vocalId": 1457,
+   "row": 16,
+   "default": "この生き様 Make some noise",
+   "version": "この生き様で Make some noise",
+   "start": 69.9,
+   "score": 0.91,
+   "versionText": false
+  },
+  {
+   "musicId": 471,
+   "vocalId": 1753,
+   "row": 16,
+   "default": "この生き様 Make some noise",
+   "version": "この生き様で Make some noise",
+   "start": 69.9,
+   "score": 0.91,
+   "versionText": false
+  },
+  {
+   "musicId": 471,
+   "vocalId": 1754,
+   "row": 16,
+   "default": "この生き様 Make some noise",
+   "version": "この生き様で Make some noise",
+   "start": 69.9,
+   "score": 0.91,
+   "versionText": false
+  },
+  {
+   "musicId": 660,
+   "vocalId": 1765,
+   "row": 29,
+   "default": "ままでいたい",
+   "version": "ありのままでいたい",
+   "start": 82.85925,
+   "score": 0.77,
+   "versionText": false
+  },
+  {
+   "musicId": 705,
+   "vocalId": 1830,
+   "row": 18,
+   "default": "赤く気高く立ち向かうたった一人",
+   "version": "赤く気高く立ち向かうたった一人 (woah)",
+   "start": 58.104734,
+   "score": 0.88,
+   "versionText": false
+  },
+  {
+   "musicId": 705,
+   "vocalId": 1830,
+   "row": 5,
+   "default": "Bye love",
+   "version": "Bye LOVE（ああ）",
+   "start": 20.957983,
+   "score": 0.86,
+   "versionText": false
+  }
+ ],
+ "unmatched": [
+  {
+   "musicId": 41,
+   "vocalId": 112,
+   "text": "\"Sweetie, Sweetie...\"",
+   "start": 125.04,
+   "end": 126.681,
+   "defaultRowsAtThatTime": [
+    {
+     "row": 25,
+     "start": 124.845218,
+     "text": "そんな「甘い魔法」使い"
+    }
+   ]
+  },
+  {
+   "musicId": 71,
+   "vocalId": 466,
+   "text": "ツギハギだらけの君との時間を",
+   "start": 122.98,
+   "end": 124.647,
+   "defaultRowsAtThatTime": [
+    {
+     "row": 26,
+     "start": 120.873622,
+     "text": "この糸 ちぎるだけ"
+    },
+    {
+     "row": 27,
+     "start": 123.588356,
+     "text": "簡単でしょ？ 笑えるよね？"
+    }
+   ]
+  },
+  {
+   "musicId": 103,
+   "vocalId": 186,
+   "text": "眩い夢の続きがはじまる",
+   "start": 84.86813,
+   "end": 90.73925,
+   "defaultRowsAtThatTime": [
+    {
+     "row": 15,
+     "start": 82.372403,
+     "text": "翼宿す魔法をくれたから"
+    },
+    {
+     "row": 16,
+     "start": 90.959479,
+     "text": "いつか見た"
+    },
+    {
+     "row": 17,
+     "start": 90.959479,
+     "text": "憧れと違ったとしても"
+    }
+   ]
+  },
+  {
+   "musicId": 361,
+   "vocalId": 880,
+   "text": "わたし　きゅうくらりん",
+   "start": 71.51475,
+   "end": 72.0375,
+   "defaultRowsAtThatTime": [
+    {
+     "row": 13,
+     "start": 72.2925,
+     "text": "そばにたぐりよせた末路"
+    }
+   ]
+  }
+ ],
  "versions": [
   {
    "musicId": 2,
    "vocalId": 465,
    "lines": 24,
    "singers": 24,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 24
+   }
   },
   {
    "musicId": 3,
    "vocalId": 113,
    "lines": 32,
    "singers": 32,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 32
+   }
   },
   {
    "musicId": 3,
    "vocalId": 486,
    "lines": 31,
    "singers": 31,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 31
+   }
   },
   {
    "musicId": 6,
    "vocalId": 80,
    "lines": 31,
    "singers": 31,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 31
+   }
   },
   {
    "musicId": 8,
    "vocalId": 111,
    "lines": 15,
    "singers": 15,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 15
+   }
   },
   {
    "musicId": 10,
    "vocalId": 12,
    "lines": 26,
    "singers": 26,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 26
+   }
   },
   {
    "musicId": 10,
    "vocalId": 87,
    "lines": 26,
    "singers": 26,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 26
+   }
   },
   {
    "musicId": 10,
    "vocalId": 571,
    "lines": 26,
    "singers": 26,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 26
+   }
   },
   {
    "musicId": 11,
    "vocalId": 14,
    "lines": 24,
    "singers": 24,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 24
+   }
   },
   {
    "musicId": 15,
    "vocalId": 18,
    "lines": 13,
    "singers": 13,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 13
+   }
   },
   {
    "musicId": 19,
    "vocalId": 22,
    "lines": 20,
-   "singers": 19,
-   "joined": 0,
-   "unmatched": [
-    {
-     "text": "いがみ合ってきりがないな",
-     "start": 80.23,
-     "end": 84.03
-    }
-   ]
+   "singers": 20,
+   "matched": {
+    "exact": 19,
+    "reordered": 1
+   }
   },
   {
    "musicId": 41,
    "vocalId": 112,
    "lines": 29,
-   "singers": 27,
-   "joined": 0,
-   "unmatched": [
-    {
-     "text": "\"Sweetie, Sweetie...\"",
-     "start": 125.04,
-     "end": 126.681
-    },
-    {
-     "text": "そんな「甘い魔法」使い",
-     "start": 125.1,
-     "end": 127.661
-    }
-   ]
+   "singers": 28,
+   "matched": {
+    "exact": 27,
+    "reordered": 1
+   }
   },
   {
    "musicId": 51,
    "vocalId": 97,
    "lines": 23,
    "singers": 23,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 23
+   }
   },
   {
    "musicId": 51,
    "vocalId": 98,
    "lines": 21,
    "singers": 21,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 21
+   }
   },
   {
    "musicId": 52,
    "vocalId": 72,
    "lines": 16,
    "singers": 16,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 16
+   }
   },
   {
    "musicId": 54,
    "vocalId": 99,
    "lines": 17,
    "singers": 0,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 17
+   }
   },
   {
    "musicId": 55,
    "vocalId": 50,
    "lines": 10,
    "singers": 10,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 10
+   }
   },
   {
    "musicId": 55,
    "vocalId": 172,
    "lines": 10,
    "singers": 10,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 10
+   }
   },
   {
    "musicId": 57,
    "vocalId": 100,
    "lines": 37,
-   "singers": 29,
-   "joined": 0,
-   "unmatched": [
-    {
-     "text": "Jump!! 限界超え（ミクさん）",
-     "start": 14.6415,
-     "end": 19.9915
-    },
-    {
-     "text": "Jump!! 元気をシェア（リンちゃん）",
-     "start": 19.9915,
-     "end": 25.1425
-    },
-    {
-     "text": "（ファイト・ファイト ミクさん）",
-     "start": 41.1335,
-     "end": 46.6595
-    },
-    {
-     "text": "（キューティー・スマイル リンちゃん）",
-     "start": 46.6595,
-     "end": 52.4225
-    },
-    {
-     "text": "（ツンデレ・ガール ルカさん）",
-     "start": 63.0255,
-     "end": 68.3845
-    },
-    {
-     "text": "（G・U・T・S メイちゃん）",
-     "start": 68.3845,
-     "end": 74.2185
-    },
-    {
-     "text": "More More Jump!! 限界超え（ルカさん）",
-     "start": 79.6345,
-     "end": 90.8325
-    },
-    {
-     "text": "Jump!! 元気をシェア（メイちゃん）",
-     "start": 90.8325,
-     "end": 96.0135
-    }
-   ]
+   "singers": 37,
+   "matched": {
+    "exact": 29,
+    "similar": 8
+   }
   },
   {
    "musicId": 61,
    "vocalId": 252,
    "lines": 19,
    "singers": 19,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 19
+   }
   },
   {
    "musicId": 62,
    "vocalId": 135,
    "lines": 15,
    "singers": 15,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 15
+   }
   },
   {
    "musicId": 68,
    "vocalId": 130,
    "lines": 29,
    "singers": 29,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 29
+   }
   },
   {
    "musicId": 71,
    "vocalId": 466,
    "lines": 23,
-   "singers": 21,
-   "joined": 0,
-   "unmatched": [
-    {
-     "text": "tick tack tick tack 円を描いて",
-     "start": 35.48,
-     "end": 43.41
-    },
-    {
-     "text": "ツギハギだらけの君との時間を",
-     "start": 122.98,
-     "end": 124.647
-    }
-   ]
+   "singers": 22,
+   "matched": {
+    "exact": 21,
+    "reordered": 1
+   }
   },
   {
    "musicId": 74,
    "vocalId": 181,
    "lines": 13,
    "singers": 13,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 13
+   }
   },
   {
    "musicId": 76,
    "vocalId": 1546,
    "lines": 23,
    "singers": 23,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 23
+   }
   },
   {
    "musicId": 81,
    "vocalId": 168,
    "lines": 26,
    "singers": 26,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 26
+   }
   },
   {
    "musicId": 81,
    "vocalId": 169,
    "lines": 26,
    "singers": 26,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 26
+   }
   },
   {
    "musicId": 88,
    "vocalId": 194,
    "lines": 20,
    "singers": 20,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 20
+   }
   },
   {
    "musicId": 90,
    "vocalId": 224,
    "lines": 26,
    "singers": 26,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 26
+   }
   },
   {
    "musicId": 92,
    "vocalId": 141,
    "lines": 29,
    "singers": 29,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 29
+   }
   },
   {
    "musicId": 96,
    "vocalId": 235,
    "lines": 23,
    "singers": 23,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 23
+   }
   },
   {
    "musicId": 96,
    "vocalId": 237,
    "lines": 23,
    "singers": 23,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 23
+   }
   },
   {
    "musicId": 98,
    "vocalId": 399,
    "lines": 23,
-   "singers": 22,
-   "joined": 0,
-   "unmatched": [
-    {
-     "text": "挙げ句の果て静脈を刺しちゃって",
-     "start": 26.612,
-     "end": 29.614
-    }
-   ]
+   "singers": 23,
+   "matched": {
+    "exact": 22,
+    "reordered": 1
+   }
   },
   {
    "musicId": 98,
    "vocalId": 401,
    "lines": 23,
    "singers": 23,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 23
+   }
   },
   {
    "musicId": 100,
    "vocalId": 180,
    "lines": 31,
    "singers": 31,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 31
+   }
   },
   {
    "musicId": 100,
    "vocalId": 193,
    "lines": 31,
    "singers": 31,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 31
+   }
   },
   {
    "musicId": 101,
    "vocalId": 207,
    "lines": 29,
    "singers": 29,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 29
+   }
   },
   {
    "musicId": 101,
    "vocalId": 213,
    "lines": 29,
    "singers": 29,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 29
+   }
   },
   {
    "musicId": 103,
    "vocalId": 186,
    "lines": 21,
    "singers": 20,
-   "joined": 0,
-   "unmatched": [
-    {
-     "text": "眩い夢の続きがはじまる",
-     "start": 84.86813,
-     "end": 90.73925
-    }
-   ]
+   "matched": {
+    "exact": 20
+   }
   },
   {
    "musicId": 103,
    "vocalId": 206,
    "lines": 20,
    "singers": 20,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 20
+   }
   },
   {
    "musicId": 106,
    "vocalId": 255,
    "lines": 23,
    "singers": 23,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 23
+   }
   },
   {
    "musicId": 110,
    "vocalId": 158,
    "lines": 28,
    "singers": 28,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 28
+   }
   },
   {
    "musicId": 121,
    "vocalId": 308,
    "lines": 24,
    "singers": 24,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 24
+   }
   },
   {
    "musicId": 122,
    "vocalId": 573,
    "lines": 27,
    "singers": 27,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 27
+   }
   },
   {
    "musicId": 133,
    "vocalId": 1474,
    "lines": 24,
    "singers": 24,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 24
+   }
   },
   {
    "musicId": 135,
    "vocalId": 1470,
    "lines": 29,
    "singers": 29,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 29
+   }
   },
   {
    "musicId": 136,
    "vocalId": 257,
    "lines": 19,
    "singers": 19,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 19
+   }
   },
   {
    "musicId": 136,
    "vocalId": 383,
    "lines": 20,
    "singers": 20,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 20
+   }
   },
   {
    "musicId": 138,
    "vocalId": 288,
    "lines": 37,
    "singers": 37,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 37
+   }
   },
   {
    "musicId": 138,
    "vocalId": 289,
    "lines": 37,
    "singers": 37,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 37
+   }
   },
   {
    "musicId": 143,
    "vocalId": 317,
    "lines": 35,
    "singers": 35,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 35
+   }
   },
   {
    "musicId": 143,
    "vocalId": 318,
    "lines": 35,
    "singers": 35,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 35
+   }
   },
   {
    "musicId": 145,
    "vocalId": 412,
    "lines": 30,
    "singers": 30,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 30
+   }
   },
   {
    "musicId": 145,
    "vocalId": 413,
    "lines": 30,
    "singers": 30,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 30
+   }
   },
   {
    "musicId": 145,
    "vocalId": 574,
    "lines": 30,
    "singers": 30,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 30
+   }
   },
   {
    "musicId": 147,
    "vocalId": 453,
    "lines": 18,
    "singers": 18,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 18
+   }
   },
   {
    "musicId": 156,
    "vocalId": 336,
    "lines": 20,
-   "singers": 22,
-   "joined": 3,
-   "unmatched": [
-    {
-     "text": "雑な罠に嵌るつもりなど無い",
-     "start": 28.136,
-     "end": 31.338
-    }
-   ]
+   "singers": 23,
+   "matched": {
+    "exact": 16,
+    "joined": 3,
+    "similar": 1
+   }
   },
   {
    "musicId": 160,
    "vocalId": 480,
    "lines": 33,
    "singers": 33,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 33
+   }
   },
   {
    "musicId": 172,
    "vocalId": 430,
    "lines": 34,
    "singers": 34,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 34
+   }
   },
   {
    "musicId": 174,
    "vocalId": 1596,
    "lines": 23,
    "singers": 23,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 23
+   }
   },
   {
    "musicId": 178,
    "vocalId": 386,
    "lines": 74,
-   "singers": 73,
-   "joined": 0,
-   "unmatched": [
-    {
-     "text": "それそれ！",
-     "start": 35.2,
-     "end": 35.72
-    }
-   ]
+   "singers": 74,
+   "matched": {
+    "exact": 73,
+    "reordered": 1
+   }
   },
   {
    "musicId": 188,
    "vocalId": 424,
    "lines": 35,
    "singers": 35,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 35
+   }
   },
   {
    "musicId": 189,
    "vocalId": 564,
    "lines": 18,
    "singers": 18,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 18
+   }
   },
   {
    "musicId": 199,
    "vocalId": 468,
    "lines": 47,
    "singers": 47,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 47
+   }
   },
   {
    "musicId": 199,
    "vocalId": 587,
    "lines": 53,
    "singers": 0,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 53
+   }
   },
   {
    "musicId": 201,
    "vocalId": 502,
    "lines": 33,
-   "singers": 24,
-   "joined": 6,
-   "unmatched": [
-    {
-     "text": "そうさ",
-     "start": 105.527,
-     "end": 106.847
-    },
-    {
-     "text": "神のまにまに",
-     "start": 106.907,
-     "end": 108.187
-    },
-    {
-     "text": "(la la la…)",
-     "start": 120.328,
-     "end": 124.88
-    },
-    {
-     "text": "(la la la…)",
-     "start": 124.88,
-     "end": 135.27
-    }
-   ]
+   "singers": 27,
+   "matched": {
+    "exact": 16,
+    "joined": 7,
+    "similar": 2
+   }
   },
   {
    "musicId": 204,
    "vocalId": 494,
    "lines": 34,
    "singers": 34,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 34
+   }
   },
   {
    "musicId": 204,
    "vocalId": 495,
    "lines": 34,
    "singers": 34,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 34
+   }
   },
   {
    "musicId": 208,
    "vocalId": 551,
    "lines": 29,
    "singers": 29,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 29
+   }
   },
   {
    "musicId": 212,
    "vocalId": 523,
    "lines": 26,
    "singers": 26,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 26
+   }
   },
   {
    "musicId": 213,
    "vocalId": 1790,
    "lines": 39,
    "singers": 39,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 39
+   }
   },
   {
    "musicId": 218,
    "vocalId": 1472,
    "lines": 26,
    "singers": 26,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 26
+   }
   },
   {
    "musicId": 224,
    "vocalId": 556,
    "lines": 37,
    "singers": 37,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 37
+   }
   },
   {
    "musicId": 224,
    "vocalId": 577,
    "lines": 37,
    "singers": 37,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 37
+   }
   },
   {
    "musicId": 224,
    "vocalId": 578,
    "lines": 37,
    "singers": 37,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 37
+   }
   },
   {
    "musicId": 224,
    "vocalId": 813,
    "lines": 37,
    "singers": 37,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 37
+   }
   },
   {
    "musicId": 231,
    "vocalId": 580,
    "lines": 38,
    "singers": 38,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 38
+   }
   },
   {
    "musicId": 233,
    "vocalId": 584,
    "lines": 46,
-   "singers": 42,
-   "joined": 0,
-   "unmatched": [
-    {
-     "text": "Pa Pa Pala Pa Pala",
-     "start": 34.607,
-     "end": 36.067
-    },
-    {
-     "text": "君の笑顔　隠し味に　（あははは）",
-     "start": 51.697,
-     "end": 54.447
-    },
-    {
-     "text": "ホクホクの星が浮かんでる",
-     "start": 63.297,
-     "end": 66.257
-    },
-    {
-     "text": "だからこそ輝いてる",
-     "start": 100.048,
-     "end": 102.638
-    }
-   ]
+   "singers": 46,
+   "matched": {
+    "exact": 42,
+    "reordered": 4
+   }
   },
   {
    "musicId": 246,
    "vocalId": 1473,
    "lines": 32,
    "singers": 32,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 32
+   }
   },
   {
    "musicId": 255,
    "vocalId": 639,
    "lines": 36,
    "singers": 36,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 36
+   }
   },
   {
    "musicId": 259,
    "vocalId": 766,
    "lines": 10,
    "singers": 10,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 10
+   }
   },
   {
    "musicId": 277,
    "vocalId": 694,
    "lines": 36,
    "singers": 36,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 36
+   }
   },
   {
    "musicId": 295,
    "vocalId": 746,
    "lines": 26,
    "singers": 26,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 26
+   }
   },
   {
    "musicId": 298,
    "vocalId": 808,
    "lines": 31,
    "singers": 31,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 31
+   }
   },
   {
    "musicId": 299,
    "vocalId": 866,
    "lines": 34,
    "singers": 34,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 34
+   }
   },
   {
    "musicId": 307,
    "vocalId": 772,
    "lines": 42,
    "singers": 42,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 42
+   }
   },
   {
    "musicId": 307,
    "vocalId": 887,
    "lines": 42,
    "singers": 42,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 42
+   }
   },
   {
    "musicId": 310,
    "vocalId": 776,
    "lines": 26,
    "singers": 26,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 26
+   }
   },
   {
    "musicId": 320,
    "vocalId": 1471,
    "lines": 25,
    "singers": 25,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 25
+   }
   },
   {
    "musicId": 333,
    "vocalId": 822,
    "lines": 33,
    "singers": 33,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 33
+   }
   },
   {
    "musicId": 333,
    "vocalId": 865,
    "lines": 34,
    "singers": 34,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 34
+   }
   },
   {
    "musicId": 346,
    "vocalId": 850,
    "lines": 35,
    "singers": 35,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 35
+   }
   },
   {
    "musicId": 353,
    "vocalId": 860,
    "lines": 31,
    "singers": 31,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 31
+   }
   },
   {
    "musicId": 353,
    "vocalId": 901,
    "lines": 31,
    "singers": 31,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 31
+   }
   },
   {
    "musicId": 354,
    "vocalId": 863,
    "lines": 28,
-   "singers": 27,
-   "joined": 0,
-   "unmatched": [
-    {
-     "text": "邁進！ 発射オーライ 未来！",
-     "start": 40.595,
-     "end": 42.904
-    }
-   ]
+   "singers": 28,
+   "matched": {
+    "exact": 27,
+    "similar": 1
+   }
   },
   {
    "musicId": 356,
    "vocalId": 1381,
    "lines": 17,
    "singers": 17,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 17
+   }
   },
   {
    "musicId": 361,
    "vocalId": 880,
    "lines": 29,
-   "singers": 27,
-   "joined": 0,
-   "unmatched": [
-    {
-     "text": "全部ばれてたらどうしよう",
-     "start": 56.6945,
-     "end": 58.6975
-    },
-    {
-     "text": "わたし　きゅうくらりん",
-     "start": 71.51475,
-     "end": 72.0375
-    }
-   ]
+   "singers": 28,
+   "matched": {
+    "exact": 27,
+    "reordered": 1
+   }
   },
   {
    "musicId": 366,
    "vocalId": 897,
    "lines": 41,
    "singers": 41,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 41
+   }
   },
   {
    "musicId": 375,
    "vocalId": 1368,
    "lines": 19,
    "singers": 19,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 19
+   }
   },
   {
    "musicId": 391,
    "vocalId": 1423,
    "lines": 40,
    "singers": 40,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 40
+   }
   },
   {
    "musicId": 395,
    "vocalId": 1379,
    "lines": 18,
    "singers": 18,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 18
+   }
   },
   {
    "musicId": 395,
    "vocalId": 1380,
    "lines": 18,
    "singers": 18,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 18
+   }
   },
   {
    "musicId": 400,
    "vocalId": 1373,
    "lines": 34,
    "singers": 34,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 34
+   }
   },
   {
    "musicId": 402,
    "vocalId": 1441,
    "lines": 41,
    "singers": 41,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 41
+   }
   },
   {
    "musicId": 402,
    "vocalId": 1442,
    "lines": 41,
    "singers": 41,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 41
+   }
   },
   {
    "musicId": 411,
    "vocalId": 949,
    "lines": 40,
    "singers": 40,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 40
+   }
   },
   {
    "musicId": 432,
    "vocalId": 1786,
    "lines": 22,
    "singers": 22,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 22
+   }
   },
   {
    "musicId": 432,
    "vocalId": 2071,
    "lines": 22,
    "singers": 22,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 22
+   }
   },
   {
    "musicId": 437,
    "vocalId": 1597,
    "lines": 29,
    "singers": 29,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 29
+   }
   },
   {
    "musicId": 450,
    "vocalId": 1609,
    "lines": 44,
    "singers": 44,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 44
+   }
   },
   {
    "musicId": 451,
    "vocalId": 1789,
    "lines": 66,
    "singers": 66,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 66
+   }
   },
   {
    "musicId": 471,
    "vocalId": 1457,
    "lines": 27,
-   "singers": 26,
-   "joined": 0,
-   "unmatched": [
-    {
-     "text": "この生き様で Make some noise",
-     "start": 69.4115,
-     "end": 73.2175
-    }
-   ]
+   "singers": 27,
+   "matched": {
+    "exact": 26,
+    "similar": 1
+   }
   },
   {
    "musicId": 471,
    "vocalId": 1753,
    "lines": 27,
-   "singers": 26,
-   "joined": 0,
-   "unmatched": [
-    {
-     "text": "この生き様で Make some noise",
-     "start": 69.72075,
-     "end": 73.38975
-    }
-   ]
+   "singers": 27,
+   "matched": {
+    "exact": 26,
+    "similar": 1
+   }
   },
   {
    "musicId": 471,
    "vocalId": 1754,
    "lines": 27,
-   "singers": 26,
-   "joined": 0,
-   "unmatched": [
-    {
-     "text": "この生き様で Make some noise",
-     "start": 69.87425,
-     "end": 73.54325
-    }
-   ]
+   "singers": 27,
+   "matched": {
+    "exact": 26,
+    "similar": 1
+   }
   },
   {
    "musicId": 478,
    "vocalId": 1641,
    "lines": 30,
    "singers": 30,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 30
+   }
   },
   {
    "musicId": 489,
    "vocalId": 1506,
    "lines": 20,
    "singers": 20,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 20
+   }
   },
   {
    "musicId": 489,
    "vocalId": 1509,
    "lines": 21,
    "singers": 21,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 21
+   }
   },
   {
    "musicId": 489,
    "vocalId": 1510,
    "lines": 21,
    "singers": 21,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 21
+   }
   },
   {
    "musicId": 492,
    "vocalId": 1777,
    "lines": 26,
    "singers": 26,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 26
+   }
   },
   {
    "musicId": 506,
    "vocalId": 1644,
    "lines": 44,
    "singers": 44,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 44
+   }
   },
   {
    "musicId": 507,
    "vocalId": 1733,
    "lines": 24,
    "singers": 24,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 24
+   }
   },
   {
    "musicId": 511,
    "vocalId": 1569,
    "lines": 18,
    "singers": 18,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 18
+   }
   },
   {
    "musicId": 511,
    "vocalId": 1570,
    "lines": 18,
    "singers": 18,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 18
+   }
   },
   {
    "musicId": 549,
    "vocalId": 1712,
    "lines": 28,
    "singers": 28,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 28
+   }
   },
   {
    "musicId": 564,
    "vocalId": 1121,
    "lines": 16,
    "singers": 16,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 16
+   }
   },
   {
    "musicId": 578,
    "vocalId": 1135,
    "lines": 18,
    "singers": 18,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 18
+   }
   },
   {
    "musicId": 595,
    "vocalId": 1627,
    "lines": 27,
    "singers": 27,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 27
+   }
   },
   {
    "musicId": 596,
    "vocalId": 1153,
    "lines": 32,
    "singers": 32,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 32
+   }
   },
   {
    "musicId": 600,
    "vocalId": 1722,
    "lines": 24,
-   "singers": 23,
-   "joined": 0,
-   "unmatched": [
-    {
-     "text": "今　光枯らし　落ちていくの　何処かへ",
-     "start": 24.7105,
-     "end": 31.1155
-    }
-   ]
+   "singers": 24,
+   "matched": {
+    "exact": 23,
+    "reordered": 1
+   }
   },
   {
    "musicId": 642,
    "vocalId": 1199,
    "lines": 20,
    "singers": 20,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 20
+   }
   },
   {
    "musicId": 642,
    "vocalId": 1799,
    "lines": 20,
    "singers": 20,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 20
+   }
   },
   {
    "musicId": 646,
    "vocalId": 1797,
    "lines": 22,
    "singers": 22,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 22
+   }
   },
   {
    "musicId": 660,
    "vocalId": 1765,
    "lines": 40,
-   "singers": 39,
-   "joined": 0,
-   "unmatched": [
-    {
-     "text": "ありのままでいたい",
-     "start": 82.84325,
-     "end": 85.09425
-    }
-   ]
+   "singers": 40,
+   "matched": {
+    "exact": 39,
+    "similar": 1
+   }
   },
   {
    "musicId": 672,
    "vocalId": 1229,
    "lines": 23,
    "singers": 23,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 23
+   }
   },
   {
    "musicId": 679,
    "vocalId": 1793,
    "lines": 55,
    "singers": 55,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 55
+   }
   },
   {
    "musicId": 681,
    "vocalId": 1238,
    "lines": 27,
    "singers": 27,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 27
+   }
   },
   {
    "musicId": 693,
    "vocalId": 1250,
    "lines": 18,
    "singers": 18,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 18
+   }
   },
   {
    "musicId": 702,
    "vocalId": 1833,
    "lines": 18,
    "singers": 18,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 18
+   }
   },
   {
    "musicId": 705,
    "vocalId": 1830,
    "lines": 22,
-   "singers": 27,
-   "joined": 7,
-   "unmatched": [
-    {
-     "text": "Bye LOVE（ああ）",
-     "start": 20.758,
-     "end": 32.511
-    },
-    {
-     "text": "赤く気高く立ち向かうたった一人 (woah)",
-     "start": 57.594,
-     "end": 63.107
-    },
-    {
-     "text": "やる気はあります 空回ります",
-     "start": 88.651,
-     "end": 91.383
-    }
-   ]
+   "singers": 30,
+   "matched": {
+    "exact": 12,
+    "joined": 8,
+    "similar": 2
+   }
   },
   {
    "musicId": 730,
    "vocalId": 2082,
    "lines": 19,
    "singers": 19,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 19
+   }
   },
   {
    "musicId": 811,
    "vocalId": 2077,
    "lines": 35,
    "singers": 35,
-   "joined": 0,
-   "unmatched": []
+   "matched": {
+    "exact": 35
+   }
   }
  ]
 }

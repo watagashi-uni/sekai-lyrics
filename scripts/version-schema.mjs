@@ -64,19 +64,22 @@ export function validateVersions(data) {
       else assert.equal(p.characterId, null)
     }
     // Every rendition is sung to the same backing track: it shares the default timeline and
-    // only says who sings which default row. No timing, text or words of its own.
+    // says who sings which default row (and, on reviewed rows, other words). No timing of its own.
     assert.equal(version.lines, undefined, 'versions keep singers only (run unify-version-singers.mjs)')
     assert.equal(version.credits, undefined, 'versions show the default text and its credits')
     assert.ok(Array.isArray(version.singers))
     let previous = -1
     for (const entry of version.singers) {
-      assert.deepEqual(Object.keys(entry).filter(k => !['row', 'segments', 'performerIds'].includes(k)), [], 'singer entries carry no timing or text')
+      assert.deepEqual(Object.keys(entry).filter(k => !['row', 'segments', 'performerIds', 'text', 'translation'].includes(k)), [], 'singer entries carry no timing')
       assert.ok(Number.isInteger(entry.row) && entry.row > previous && entry.row < base.length, 'singer rows in order, once each, on default rows')
       previous = entry.row
-      assert.ok(entry.segments?.length || entry.performerIds?.length, 'empty singer entry')
+      assert.ok(entry.segments?.length || entry.performerIds?.length || entry.text, 'empty singer entry')
+      // A row the version sings with other words (reviewed) shows them instead of the default text.
+      if (entry.text !== undefined) assert.ok(typeof entry.text === 'string' && entry.text && entry.text !== base[entry.row].text, 'version text must differ from the default row')
+      if (entry.translation !== undefined) assert.ok(entry.text !== undefined && typeof entry.translation === 'string', 'translation only with version text')
       for (const id of entry.performerIds || []) assert.ok(performers.has(id), 'unknown performer')
       if (entry.segments) {
-        assert.equal(entry.segments.map(s => s.text).join(''), base[entry.row].text)
+        assert.equal(entry.segments.map(s => s.text).join(''), entry.text ?? base[entry.row].text)
         for (const segment of entry.segments) for (const id of segment.performerIds || []) assert.ok(performers.has(id), 'unknown segment performer')
       }
     }
