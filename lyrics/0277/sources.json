@@ -126,6 +126,14 @@
           "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
         }
       ]
+    },
+    {
+      "usage": "时间轴",
+      "provider": "game_audio_review",
+      "recordId": null,
+      "url": null,
+      "license": null,
+      "note": "2026-11-14 按默认版本 af_0277_01（エイプリルフールver.，vocalId 1599）的人声轨重定 35 行起止：原时间为网易云 Game Size LRC（2696008950）+8.000 s，两句合一的 8 对行共用同一区间且普遍偏早。起点由日语音素 CTC、MMS 对齐和起音确定，并对照 shinonomeenana/sekai_lyrics 在 se_0277_01 上的独立对齐；句尾取人声收音处；时间含前置空白。三方歌词文字核对一致，无缺句。逐行依据见 reports/audio-timing-review-2026-11-14.json"
     }
   ]
 }
