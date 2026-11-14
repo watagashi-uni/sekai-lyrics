@@ -88,12 +88,12 @@ LRC 基于保留的来源行，双语 JSON 基于原项目行，分句、拟声�
 
 ### 多演唱版本（可选扩展）
 
-顶层继续代表既有默认版本，`versions` 保存其它版本，索引仍为 `v:1`。每项包含 `vocalId`、`assetbundle`、`duration`、`performers`、`source`（A/B/C/D）、`lines` 及可选 `credits`。每个版本的行都使用该版本音频的绝对时间，按 start 非递减排列；重叠行允许。
+顶层继续代表既有默认版本，`versions` 保存其它版本，索引仍为 `v:1`。同一首歌的所有演唱版本使用同一条伴奏，时间轴完全相同，区别只在于谁唱哪一行。因此附加版本**不保存时间、文字或逐字轴**，只保存歌手：每项包含 `vocalId`、`assetbundle`、`duration`（该版本音频长度）、`performers`、`source`（A/B/C/D）、`alignmentStatus` 和 `singers`。
 
-为避免重复文字，行可用 `textRef` 引用默认版本的零基播放行（双语 lines 数组；LRC 则所有非空行的时间标签展开后，按原始 cueStart 稳定排序，不去重）。只继承 text、translation、ruby、romaji、romajiSource；**不继承时间、words、segments 或 performerIds**。文字或译文不同则直接存 text、translation。分唱仅使用当前版本的行／segments；没有分唱就不填这些字段。逐字仅在该版本单独验证后显式保存，不能因 textRef 而继承。
+`singers` 每项为 `{row, segments?, performerIds?}`，`row` 是默认版本的零基播放行（双语 lines 数组；LRC 则所有非空行的时间标签展开后，按原始 cueStart 稳定排序，不去重，空白时间标签不占下标），按 row 递增、每行至多一项。`segments` 拼接后等于该默认行的 text。没有列出的行在该版本中没有分唱信息；来源 D 及部分覆盖（`partial_*`）的版本可能只有部分行或没有行。播放时文字、译文、注音、罗马音、逐字轴与起止时间一律取默认版本，只把默认行的 `segments`／`performerIds` 换成该版本的。
 
 ```json
-{"vocalId":465,"assetbundle":"an_0002_01","duration":116,"source":"A","performers":[{"performerId":"歌唱者-23","name":"鏡音レン","characterId":23},{"performerId":"歌唱者-26","name":"KAITO","characterId":26}],"lines":[{"textRef":0,"start":24.495,"end":25.705,"performerIds":["歌唱者-23"]}]}
+{"vocalId":465,"assetbundle":"an_0002_01","duration":116,"performers":[{"performerId":"歌唱者-23","name":"鏡音レン","characterId":23},{"performerId":"歌唱者-26","name":"KAITO","characterId":26}],"source":"A","alignmentStatus":"success","singers":[{"row":0,"segments":[{"text":"さあ 眠眠打破","performerIds":["歌唱者-23"]}]}]}
 ```
 
-示例节选歌曲 2 的一个附加版本，省略后续歌词行。所有 performers 的游戏角色附数字 characterId；外部歌手的 characterId 为 null；能对应官方 master 时另附 outsideCharacterId，不猜游戏 ID。版本来源与缺行情况记录在 sources.json；partial_alignment 仍表示部分覆盖，不能声称全曲完整。
+示例节选歌曲 2 的一个附加版本，省略后续行。所有 performers 的游戏角色附数字 characterId；外部歌手的 characterId 为 null；能对应官方 master 时另附 outsideCharacterId，不猜游戏 ID。版本来源与缺行情况记录在 sources.json；partial_alignment 仍表示部分覆盖，不能声称全曲完整。

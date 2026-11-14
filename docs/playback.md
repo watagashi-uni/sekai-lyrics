@@ -31,10 +31,8 @@ function progress(time, word) {
 
 逐句滚动、点击句子跳转和译文开关可独立实现。活动行可能存在重叠，应保留同时演唱的句子。译文只有句级时间，不应套用日文逐字轴生成伪逐字翻译。
 
-切换音频时检查参考版本和剪辑。时长差异可用于排除明显不匹配的版本，但时长相同不代表剪辑一致。分唱标记只用于对应参考版本。
+切换音频时检查剪辑。时长差异可用于排除明显不匹配的音频（例如直播版）。分唱标记只用于对应版本。
 
 LRC 模式可在匹配原始 LRC 行后合入 `lineTimings` 的起止时间，再合入优先级更高的 `wordLines`；不要用 `lineTimings` 覆盖有逐字轴的行。
 
-多版本接入：旧前端继续读取顶层，忽略 versions，索引无需迁移。新前端按选中 musicVocal 的 ID 查找 versions；找不到时应提示无该版本时间轴，不能静默套用默认版。按 docs/format.md 定义展开默认播放行，解引用 textRef 的文字、译文、注音与罗马音，然后应用版本行自己的起止时间和分唱。切换音频时同时切换 duration、performers、credits，清除旧逐字状态。versions 行没有 words 时只逐句高亮。目录的 versions 列表仅列附加版本，默认版本仍由原 vocalId 表示。
-
-现有 `src/api/lyrics.ts` 的 `normalizeLyrics` 最后会运行 `playbackTiming` 和 `mergeSharedCues`，改变行顺序或合并行。**textRef 必须在这两步之前解引用**，不能指向返回的 `SongLyrics.lines`。LRC 的无文本时间标签不占 textRef 下标，但仍是上一句的结束提示；解析时保留这些结束提示。推荐先解析原始默认行及其译文／注音／罗马音，再用白名单字段展开所选版本，最后执行显示层的整理。修改默认行顺序或断句时，必须同步重建附加版本的 textRef。
+多版本接入：旧前端继续读取顶层，忽略 versions，索引无需迁移。所有演唱版本共用默认版本的时间轴（含逐字轴），任何 vocal 都按顶层时间同步高亮；`versions` 只决定显示哪些歌手。按选中 musicVocal 的 ID 查找 versions：找到时，在 `playbackTiming`、`mergeSharedCues` 等显示整理之前，把默认原始行的 `segments`／`performerIds` 换成 `singers` 中同一 row 的内容（未列出的行不显示歌手）；顶层 vocalId 对应默认版本，用顶层分唱；两者都不是时不显示分唱，但照常同步。`row` 指向原始播放行，不能指向返回的 `SongLyrics.lines`。时长差异仍可用于排除剪辑不同的音频（直播版等），比较时用该版本的 `duration`。修改默认行顺序或断句时，必须同步重建附加版本的 row。

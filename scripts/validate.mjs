@@ -47,7 +47,7 @@ for (const song of catalog.songs) {
     assert.ok(line.start >= 0 && line.end > line.start && line.end <= data.duration)
     assert.ok(!data.wordLines?.some(w => w.cueStart === line.cueStart && w.text === line.text && w.words?.length))
   }
-  assert.deepEqual(song.versions || [], (data.versions || []).map(v => ({vocalId:v.vocalId, assetbundle:v.assetbundle, duration:v.duration, source:v.source, lines:v.lines.length})), `catalog versions ${mid}`)
+  assert.deepEqual(song.versions || [], (data.versions || []).map(v => ({vocalId:v.vocalId, assetbundle:v.assetbundle, duration:v.duration, source:v.source, singerRows:v.singers.length})), `catalog versions ${mid}`)
   const romajiRows = data.format === 'lrc' ? data.romajiLines || [] : data.lines
   for (const [source, key] of [['sekaipedia','sekaipediaRomajiLines'], ['generated','generatedRomajiLines']]) {
     assert.equal(song[key], romajiRows.filter(l => (l.romajiSource ?? l.source) === source).length, `catalog romaji ${mid}`)

@@ -30,6 +30,7 @@ Excel 是本次快照报告，构建脚本不会自动更新它。不要在只�
 - `import-vocal-versions.py <临时工作目录>` 读取精选的历史 manifest 作业、原项目歌词和 snapshot 导出。只保存合法的已对齐行，不补造缺句；重复 vocalId 只保存一份。
 - `map-vocal-audio.py <临时工作目录> pilot` 先检查 15 首；检查通过门槛与阴性对照后再运行 `batch`。使用 `uv run --no-project --with numpy --with scipy python`，批量最多同时处理 4 首歌曲。下载失败可通过临时报告看到，不绕过验证。音频下载至临时目录，解码后立即删除，异常也由临时目录回收。
 - `import-audio-mappings.py <临时工作目录>` 仅收录通过全曲一致性门槛且所有歌词行都在音频范围内的映射。即使波形相符也只收录逐句，不迁移逐字或多人分唱。
+- 导入版本后运行 `node scripts/unify-version-singers.mjs --write`：所有演唱版本共用默认时间轴，脚本按歌曲顺序和文字把各版本的逐句行对应到默认行，只保留分唱（`singers`），丢弃版本自带的时间、文字与署名；对不上的行（文字与默认版不同）记录在 `reports/version-singers.json`。未运行时 `validate.mjs` 会报错。
 - 最后运行 `update-catalog.py`、`build-playback.mjs`、`validate.mjs`。格式回归检查为 `node scripts/test-version-schema.mjs`，音频映射的合成正负对照为 `uv run --no-project --with numpy --with scipy python scripts/test-audio-mapping.py`。
 
 本次的合并总报告在 `reports/merge-report.json`，时间差与逐行改前／改后在 `reports/timing-comparison.json`，实际混音能量检查在 `reports/timing-audio-check.json`。混音能量只能发现某些无声区域，不能当成人声起点证据；54、731、766 的对错尚未完成独立人声级裁定。其中 731 的 57 行有 38 行共用区间，766 的 39 行有 30 行共用区间，部分大差异来自分句粒度，不能一律解释为整体时钟偏移。450 处句尾改动只采用同版本、非 review、非截零、起点接近且落在原区间内的结束时间。

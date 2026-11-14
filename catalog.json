@@ -57,9 +57,9 @@
         {
           "vocalId": 465,
           "assetbundle": "an_0002_01",
-          "duration": 116.0,
+          "duration": 116,
           "source": "A",
-          "lines": 24
+          "singerRows": 24
         }
       ]
     },
@@ -94,14 +94,14 @@
           "assetbundle": "an_0003_01",
           "duration": 125.41125,
           "source": "C",
-          "lines": 32
+          "singerRows": 32
         },
         {
           "vocalId": 486,
           "assetbundle": "an_0003_03",
           "duration": 125.41125,
           "source": "A",
-          "lines": 31
+          "singerRows": 31
         }
       ]
     },
@@ -136,7 +136,7 @@
           "assetbundle": "an_0006_01",
           "duration": 104.00025,
           "source": "C",
-          "lines": 31
+          "singerRows": 31
         }
       ]
     },
@@ -171,7 +171,7 @@
           "assetbundle": "vs_0008_01",
           "duration": 132.049,
           "source": "A",
-          "lines": 15
+          "singerRows": 15
         }
       ]
     },
@@ -204,23 +204,23 @@
         {
           "vocalId": 12,
           "assetbundle": "0010_02",
-          "duration": 142.0,
+          "duration": 142,
           "source": "A",
-          "lines": 26
+          "singerRows": 26
         },
         {
           "vocalId": 87,
           "assetbundle": "vs_0010_02",
           "duration": 142.02775,
           "source": "A",
-          "lines": 26
+          "singerRows": 26
         },
         {
           "vocalId": 571,
           "assetbundle": "af_0010_01",
-          "duration": 142.0,
+          "duration": 142,
           "source": "A",
-          "lines": 26
+          "singerRows": 26
         }
       ]
     },
@@ -255,7 +255,7 @@
           "assetbundle": "0011_02",
           "duration": 103.0385,
           "source": "A",
-          "lines": 24
+          "singerRows": 24
         }
       ]
     },
@@ -316,7 +316,7 @@
           "assetbundle": "0015_02",
           "duration": 114.9815,
           "source": "A",
-          "lines": 13
+          "singerRows": 13
         }
       ]
     },
@@ -377,7 +377,7 @@
           "assetbundle": "0019_02",
           "duration": 113.276125,
           "source": "A",
-          "lines": 20
+          "singerRows": 19
         }
       ]
     },
@@ -580,7 +580,7 @@
           "assetbundle": "vs_0041_01",
           "duration": 158.0146875,
           "source": "A",
-          "lines": 29
+          "singerRows": 27
         }
       ]
     },
@@ -823,14 +823,14 @@
           "assetbundle": "an_0051_01",
           "duration": 130.74,
           "source": "A",
-          "lines": 23
+          "singerRows": 23
         },
         {
           "vocalId": 98,
           "assetbundle": "an_0051_02",
           "duration": 130.74,
           "source": "A",
-          "lines": 21
+          "singerRows": 21
         }
       ]
     },
@@ -865,7 +865,7 @@
           "assetbundle": "vs_0052_02",
           "duration": 119.15625,
           "source": "A",
-          "lines": 16
+          "singerRows": 16
         }
       ]
     },
@@ -900,7 +900,7 @@
           "assetbundle": "vs_0054_01",
           "duration": 101.202,
           "source": "D",
-          "lines": 17
+          "singerRows": 0
         }
       ]
     },
@@ -935,14 +935,14 @@
           "assetbundle": "0055_01",
           "duration": 123.8988125,
           "source": "A",
-          "lines": 10
+          "singerRows": 10
         },
         {
           "vocalId": 172,
           "assetbundle": "vs_0055_02",
           "duration": 123.857125,
           "source": "A",
-          "lines": 10
+          "singerRows": 10
         }
       ]
     },
@@ -967,9 +967,9 @@
         {
           "vocalId": 100,
           "assetbundle": "vs_0057_01",
-          "duration": 115.0,
+          "duration": 115,
           "source": "A",
-          "lines": 37
+          "singerRows": 29
         }
       ]
     },
@@ -1030,7 +1030,7 @@
           "assetbundle": "an_0061_01",
           "duration": 148.1,
           "source": "C",
-          "lines": 19
+          "singerRows": 19
         }
       ]
     },
@@ -1065,7 +1065,7 @@
           "assetbundle": "an_0062_01",
           "duration": 92.54325,
           "source": "C",
-          "lines": 15
+          "singerRows": 15
         }
       ]
     },
@@ -1196,7 +1196,7 @@
           "assetbundle": "an_0068_01",
           "duration": 110.053,
           "source": "C",
-          "lines": 29
+          "singerRows": 29
         }
       ]
     },
@@ -1283,7 +1283,7 @@
           "assetbundle": "vs_0071_02",
           "duration": 130.6645,
           "source": "A",
-          "lines": 23
+          "singerRows": 21
         }
       ]
     },
@@ -1354,7 +1354,7 @@
           "assetbundle": "vs_0074_02",
           "duration": 83.8008125,
           "source": "A",
-          "lines": 13
+          "singerRows": 13
         }
       ]
     },
@@ -1415,7 +1415,7 @@
           "assetbundle": "vs_0076_01",
           "duration": 123.6375625,
           "source": "A",
-          "lines": 23
+          "singerRows": 23
         }
       ]
     },
@@ -1502,14 +1502,14 @@
           "assetbundle": "an_0081_01",
           "duration": 149.0025,
           "source": "C",
-          "lines": 26
+          "singerRows": 26
         },
         {
           "vocalId": 169,
           "assetbundle": "an_0081_02",
           "duration": 149.0025,
           "source": "C",
-          "lines": 26
+          "singerRows": 26
         }
       ]
     },
@@ -1700,7 +1700,7 @@
           "assetbundle": "se_0088_01",
           "duration": 152.454625,
           "source": "A",
-          "lines": 20
+          "singerRows": 20
         }
       ]
     },
@@ -1753,7 +1753,7 @@
           "assetbundle": "an_0090_01",
           "duration": 129.55575,
           "source": "C",
-          "lines": 26
+          "singerRows": 26
         }
       ]
     },
@@ -1814,7 +1814,7 @@
           "assetbundle": "an_0092_01",
           "duration": 119.6665,
           "source": "C",
-          "lines": 29
+          "singerRows": 29
         }
       ]
     },
@@ -1911,14 +1911,14 @@
           "assetbundle": "se_0096_01",
           "duration": 164.51025,
           "source": "A",
-          "lines": 23
+          "singerRows": 23
         },
         {
           "vocalId": 237,
           "assetbundle": "an_0096_02",
           "duration": 164.51025,
           "source": "A",
-          "lines": 23
+          "singerRows": 23
         }
       ]
     },
@@ -1971,14 +1971,14 @@
           "assetbundle": "vs_0098_02",
           "duration": 116.819625,
           "source": "A",
-          "lines": 23
+          "singerRows": 22
         },
         {
           "vocalId": 401,
           "assetbundle": "an_0098_01",
           "duration": 116.77775,
           "source": "C",
-          "lines": 23
+          "singerRows": 23
         }
       ]
     },
@@ -2039,14 +2039,14 @@
           "assetbundle": "se_0100_01",
           "duration": 108.241375,
           "source": "A",
-          "lines": 31
+          "singerRows": 31
         },
         {
           "vocalId": 193,
           "assetbundle": "an_0100_01",
           "duration": 108.741375,
           "source": "A",
-          "lines": 31
+          "singerRows": 31
         }
       ]
     },
@@ -2081,14 +2081,14 @@
           "assetbundle": "se_0101_01",
           "duration": 153.00025,
           "source": "A",
-          "lines": 29
+          "singerRows": 29
         },
         {
           "vocalId": 213,
           "assetbundle": "an_0101_02",
           "duration": 153.00025,
           "source": "A",
-          "lines": 29
+          "singerRows": 29
         }
       ]
     },
@@ -2149,14 +2149,14 @@
           "assetbundle": "an_0103_01",
           "duration": 129.782625,
           "source": "A",
-          "lines": 21
+          "singerRows": 20
         },
         {
           "vocalId": 206,
           "assetbundle": "an_0103_02",
           "duration": 129.782625,
           "source": "A",
-          "lines": 20
+          "singerRows": 20
         }
       ]
     },
@@ -2243,7 +2243,7 @@
           "assetbundle": "an_0106_01",
           "duration": 121.44775,
           "source": "C",
-          "lines": 23
+          "singerRows": 23
         }
       ]
     },
@@ -2348,7 +2348,7 @@
           "assetbundle": "vs_0110_01",
           "duration": 133.146122,
           "source": "B",
-          "lines": 28
+          "singerRows": 28
         }
       ]
     },
@@ -2635,7 +2635,7 @@
           "assetbundle": "vs_0121_02",
           "duration": 123.7420625,
           "source": "A",
-          "lines": 24
+          "singerRows": 24
         }
       ]
     },
@@ -2670,7 +2670,7 @@
           "assetbundle": "af_0122_01",
           "duration": 125.0481875,
           "source": "A",
-          "lines": 27
+          "singerRows": 27
         }
       ]
     },
@@ -2973,7 +2973,7 @@
           "assetbundle": "af_0133_01",
           "duration": 128.23625,
           "source": "A",
-          "lines": 24
+          "singerRows": 24
         }
       ]
     },
@@ -3034,7 +3034,7 @@
           "assetbundle": "af_0135_01",
           "duration": 132.516,
           "source": "A",
-          "lines": 29
+          "singerRows": 29
         }
       ]
     },
@@ -3069,14 +3069,14 @@
           "assetbundle": "se_0136_01",
           "duration": 136.947125,
           "source": "A",
-          "lines": 19
+          "singerRows": 19
         },
         {
           "vocalId": 383,
           "assetbundle": "an_0136_01",
           "duration": 136.947125,
           "source": "A",
-          "lines": 20
+          "singerRows": 20
         }
       ]
     },
@@ -3137,14 +3137,14 @@
           "assetbundle": "an_0138_01",
           "duration": 144.18075,
           "source": "C",
-          "lines": 37
+          "singerRows": 37
         },
         {
           "vocalId": 289,
           "assetbundle": "an_0138_02",
           "duration": 144.18075,
           "source": "C",
-          "lines": 37
+          "singerRows": 37
         }
       ]
     },
@@ -3275,14 +3275,14 @@
           "assetbundle": "an_0143_01",
           "duration": 138.735375,
           "source": "A",
-          "lines": 35
+          "singerRows": 35
         },
         {
           "vocalId": 318,
           "assetbundle": "an_0143_02",
           "duration": 138.735375,
           "source": "A",
-          "lines": 35
+          "singerRows": 35
         }
       ]
     },
@@ -3343,21 +3343,21 @@
           "assetbundle": "an_0145_01",
           "duration": 136.5,
           "source": "C",
-          "lines": 30
+          "singerRows": 30
         },
         {
           "vocalId": 413,
           "assetbundle": "an_0145_02",
           "duration": 136.5,
           "source": "C",
-          "lines": 30
+          "singerRows": 30
         },
         {
           "vocalId": 574,
           "assetbundle": "af_0145_01",
           "duration": 136.5,
           "source": "A",
-          "lines": 30
+          "singerRows": 30
         }
       ]
     },
@@ -3418,7 +3418,7 @@
           "assetbundle": "an_0147_02",
           "duration": 147.278375,
           "source": "A",
-          "lines": 18
+          "singerRows": 18
         }
       ]
     },
@@ -3661,7 +3661,7 @@
           "assetbundle": "se_0156_01",
           "duration": 108.0163125,
           "source": "A",
-          "lines": 20
+          "singerRows": 22
         }
       ]
     },
@@ -3774,7 +3774,7 @@
           "assetbundle": "an_0160_02",
           "duration": 117.23525,
           "source": "C",
-          "lines": 33
+          "singerRows": 33
         }
       ]
     },
@@ -4017,7 +4017,7 @@
           "assetbundle": "an_0172_02",
           "duration": 132.5,
           "source": "C",
-          "lines": 34
+          "singerRows": 34
         }
       ]
     },
@@ -4078,7 +4078,7 @@
           "assetbundle": "af_0174_01",
           "duration": 132.468375,
           "source": "A",
-          "lines": 23
+          "singerRows": 23
         }
       ]
     },
@@ -4191,7 +4191,7 @@
           "assetbundle": "vs_0178_01",
           "duration": 134.66675,
           "source": "A",
-          "lines": 74
+          "singerRows": 73
         }
       ]
     },
@@ -4452,7 +4452,7 @@
           "assetbundle": "se_0188_01",
           "duration": 142.42675,
           "source": "A",
-          "lines": 35
+          "singerRows": 35
         }
       ]
     },
@@ -4479,7 +4479,7 @@
           "assetbundle": "an_0189_01",
           "duration": 100.66675,
           "source": "C",
-          "lines": 18
+          "singerRows": 18
         }
       ]
     },
@@ -4746,16 +4746,16 @@
         {
           "vocalId": 468,
           "assetbundle": "se_0199_01",
-          "duration": 151.0,
+          "duration": 151,
           "source": "A",
-          "lines": 47
+          "singerRows": 47
         },
         {
           "vocalId": 587,
           "assetbundle": "an_0199_01",
-          "duration": 151.0,
+          "duration": 151,
           "source": "D",
-          "lines": 53
+          "singerRows": 0
         }
       ]
     },
@@ -4816,7 +4816,7 @@
           "assetbundle": "se_0201_01",
           "duration": 141.923265,
           "source": "B",
-          "lines": 33
+          "singerRows": 24
         }
       ]
     },
@@ -4903,14 +4903,14 @@
           "assetbundle": "an_0204_01",
           "duration": 145.17975,
           "source": "C",
-          "lines": 34
+          "singerRows": 34
         },
         {
           "vocalId": 495,
           "assetbundle": "an_0204_02",
           "duration": 145.17975,
           "source": "C",
-          "lines": 34
+          "singerRows": 34
         }
       ]
     },
@@ -5023,7 +5023,7 @@
           "assetbundle": "an_0208_02",
           "duration": 130.94175,
           "source": "C",
-          "lines": 29
+          "singerRows": 29
         }
       ]
     },
@@ -5136,7 +5136,7 @@
           "assetbundle": "vs_0212_01",
           "duration": 117.849625,
           "source": "A",
-          "lines": 26
+          "singerRows": 26
         }
       ]
     },
@@ -5161,9 +5161,9 @@
         {
           "vocalId": 1790,
           "assetbundle": "af_0213_01",
-          "duration": 152.0,
+          "duration": 152,
           "source": "A",
-          "lines": 39
+          "singerRows": 39
         }
       ]
     },
@@ -5302,7 +5302,7 @@
           "assetbundle": "af_0218_01",
           "duration": 149.5615,
           "source": "A",
-          "lines": 26
+          "singerRows": 26
         }
       ]
     },
@@ -5467,28 +5467,28 @@
           "assetbundle": "vs_0224_01",
           "duration": 136.2,
           "source": "A",
-          "lines": 37
+          "singerRows": 37
         },
         {
           "vocalId": 577,
           "assetbundle": "an_0224_01",
           "duration": 136.2,
           "source": "A",
-          "lines": 37
+          "singerRows": 37
         },
         {
           "vocalId": 578,
           "assetbundle": "an_0224_02",
           "duration": 136.2,
           "source": "A",
-          "lines": 37
+          "singerRows": 37
         },
         {
           "vocalId": 813,
           "assetbundle": "an_0224_03",
           "duration": 137.457375,
           "source": "A",
-          "lines": 37
+          "singerRows": 37
         }
       ]
     },
@@ -5671,7 +5671,7 @@
           "assetbundle": "vs_0231_01",
           "duration": 165.776125,
           "source": "A",
-          "lines": 38
+          "singerRows": 38
         }
       ]
     },
@@ -5732,7 +5732,7 @@
           "assetbundle": "vs_0233_01",
           "duration": 135.056,
           "source": "A",
-          "lines": 46
+          "singerRows": 42
         }
       ]
     },
@@ -6045,7 +6045,7 @@
           "assetbundle": "af_0246_01",
           "duration": 152.68425,
           "source": "A",
-          "lines": 32
+          "singerRows": 32
         }
       ]
     },
@@ -6280,7 +6280,7 @@
           "assetbundle": "se_0255_01",
           "duration": 154.5415,
           "source": "A",
-          "lines": 36
+          "singerRows": 36
         }
       ]
     },
@@ -6393,7 +6393,7 @@
           "assetbundle": "an_0259_01",
           "duration": 118.553,
           "source": "C",
-          "lines": 10
+          "singerRows": 10
         }
       ]
     },
@@ -6862,7 +6862,7 @@
           "assetbundle": "se_0277_01",
           "duration": 152.685714,
           "source": "B",
-          "lines": 36
+          "singerRows": 36
         }
       ]
     },
@@ -7297,7 +7297,7 @@
           "assetbundle": "an_0295_01",
           "duration": 111.60875,
           "source": "C",
-          "lines": 26
+          "singerRows": 26
         }
       ]
     },
@@ -7384,7 +7384,7 @@
           "assetbundle": "an_0298_02",
           "duration": 157.45725,
           "source": "C",
-          "lines": 31
+          "singerRows": 31
         }
       ]
     },
@@ -7419,7 +7419,7 @@
           "assetbundle": "an_0299_01",
           "duration": 156.333375,
           "source": "A",
-          "lines": 34
+          "singerRows": 34
         }
       ]
     },
@@ -7636,14 +7636,14 @@
           "assetbundle": "se_0307_01",
           "duration": 155.057125,
           "source": "A",
-          "lines": 42
+          "singerRows": 42
         },
         {
           "vocalId": 887,
           "assetbundle": "an_0307_01",
           "duration": 155.057125,
           "source": "A",
-          "lines": 42
+          "singerRows": 42
         }
       ]
     },
@@ -7730,7 +7730,7 @@
           "assetbundle": "vs_0310_01",
           "duration": 138.47375,
           "source": "A",
-          "lines": 26
+          "singerRows": 26
         }
       ]
     },
@@ -7999,7 +7999,7 @@
           "assetbundle": "af_0320_01",
           "duration": 104.9635,
           "source": "A",
-          "lines": 25
+          "singerRows": 25
         }
       ]
     },
@@ -8338,14 +8338,14 @@
           "assetbundle": "vs_0333_01",
           "duration": 147.715625,
           "source": "A",
-          "lines": 33
+          "singerRows": 33
         },
         {
           "vocalId": 865,
           "assetbundle": "an_0333_01",
           "duration": 147.715625,
           "source": "A",
-          "lines": 34
+          "singerRows": 34
         }
       ]
     },
@@ -8684,7 +8684,7 @@
           "assetbundle": "vs_0346_01",
           "duration": 158.69075,
           "source": "A",
-          "lines": 35
+          "singerRows": 35
         }
       ]
     },
@@ -8875,14 +8875,14 @@
           "assetbundle": "vs_0353_01",
           "duration": 123.03325,
           "source": "C",
-          "lines": 31
+          "singerRows": 31
         },
         {
           "vocalId": 901,
           "assetbundle": "an_0353_01",
           "duration": 123.4895,
           "source": "C",
-          "lines": 31
+          "singerRows": 31
         }
       ]
     },
@@ -8917,7 +8917,7 @@
           "assetbundle": "se_0354_01",
           "duration": 164.197375,
           "source": "A",
-          "lines": 28
+          "singerRows": 27
         }
       ]
     },
@@ -8978,7 +8978,7 @@
           "assetbundle": "an_0356_01",
           "duration": 102.82925,
           "source": "C",
-          "lines": 17
+          "singerRows": 17
         }
       ]
     },
@@ -9101,7 +9101,7 @@
           "assetbundle": "se_0361_01",
           "duration": 118.091,
           "source": "A",
-          "lines": 29
+          "singerRows": 27
         }
       ]
     },
@@ -9232,7 +9232,7 @@
           "assetbundle": "se_0366_01",
           "duration": 134.052625,
           "source": "A",
-          "lines": 41
+          "singerRows": 41
         }
       ]
     },
@@ -9449,7 +9449,7 @@
           "assetbundle": "an_0375_01",
           "duration": 106.98,
           "source": "C",
-          "lines": 19
+          "singerRows": 19
         }
       ]
     },
@@ -9876,7 +9876,7 @@
           "assetbundle": "an_0391_01",
           "duration": 141.12775,
           "source": "C",
-          "lines": 40
+          "singerRows": 40
         }
       ]
     },
@@ -9989,14 +9989,14 @@
           "assetbundle": "an_0395_01",
           "duration": 155.96625,
           "source": "C",
-          "lines": 18
+          "singerRows": 18
         },
         {
           "vocalId": 1380,
           "assetbundle": "an_0395_02",
           "duration": 155.96625,
           "source": "C",
-          "lines": 18
+          "singerRows": 18
         }
       ]
     },
@@ -10135,7 +10135,7 @@
           "assetbundle": "se_0400_01",
           "duration": 113.915375,
           "source": "A",
-          "lines": 34
+          "singerRows": 34
         }
       ]
     },
@@ -10196,14 +10196,14 @@
           "assetbundle": "an_0402_01",
           "duration": 146.353,
           "source": "C",
-          "lines": 41
+          "singerRows": 41
         },
         {
           "vocalId": 1442,
           "assetbundle": "an_0402_02",
           "duration": 146.353,
           "source": "C",
-          "lines": 41
+          "singerRows": 41
         }
       ]
     },
@@ -10432,7 +10432,7 @@
           "assetbundle": "vs_0411_01",
           "duration": 129.77425,
           "source": "A",
-          "lines": 40
+          "singerRows": 40
         }
       ]
     },
@@ -10945,16 +10945,16 @@
         {
           "vocalId": 1786,
           "assetbundle": "af_0432_01",
-          "duration": 145.0,
+          "duration": 145,
           "source": "A",
-          "lines": 22
+          "singerRows": 22
         },
         {
           "vocalId": 2071,
           "assetbundle": "an_0432_03",
           "duration": 146.02825,
           "source": "C",
-          "lines": 22
+          "singerRows": 22
         }
       ]
     },
@@ -11093,7 +11093,7 @@
           "assetbundle": "af_0437_01",
           "duration": 119.625,
           "source": "A",
-          "lines": 29
+          "singerRows": 29
         }
       ]
     },
@@ -11354,7 +11354,7 @@
           "assetbundle": "an_0450_02",
           "duration": 134.9615,
           "source": "C",
-          "lines": 44
+          "singerRows": 44
         }
       ]
     },
@@ -11379,9 +11379,9 @@
         {
           "vocalId": 1789,
           "assetbundle": "af_0451_01",
-          "duration": 131.0,
+          "duration": 131,
           "source": "A",
-          "lines": 66
+          "singerRows": 66
         }
       ]
     },
@@ -11850,21 +11850,21 @@
           "assetbundle": "se_0471_01",
           "duration": 106.03225,
           "source": "A",
-          "lines": 27
+          "singerRows": 26
         },
         {
           "vocalId": 1753,
           "assetbundle": "an_0471_01",
           "duration": 104.625,
           "source": "A",
-          "lines": 27
+          "singerRows": 26
         },
         {
           "vocalId": 1754,
           "assetbundle": "an_0471_02",
           "duration": 104.625,
           "source": "A",
-          "lines": 27
+          "singerRows": 26
         }
       ]
     },
@@ -12047,7 +12047,7 @@
           "assetbundle": "an_0478_01",
           "duration": 110.49,
           "source": "C",
-          "lines": 30
+          "singerRows": 30
         }
       ]
     },
@@ -12308,21 +12308,21 @@
           "assetbundle": "vs_0489_02",
           "duration": 121.76675,
           "source": "A",
-          "lines": 20
+          "singerRows": 20
         },
         {
           "vocalId": 1509,
           "assetbundle": "an_0489_02",
-          "duration": 119.0,
+          "duration": 119,
           "source": "C",
-          "lines": 21
+          "singerRows": 21
         },
         {
           "vocalId": 1510,
           "assetbundle": "an_0489_03",
-          "duration": 119.0,
+          "duration": 119,
           "source": "C",
-          "lines": 21
+          "singerRows": 21
         }
       ]
     },
@@ -12409,7 +12409,7 @@
           "assetbundle": "an_0492_02",
           "duration": 135.616,
           "source": "C",
-          "lines": 26
+          "singerRows": 26
         }
       ]
     },
@@ -12756,7 +12756,7 @@
           "assetbundle": "an_0506_03",
           "duration": 153.9615,
           "source": "C",
-          "lines": 44
+          "singerRows": 44
         }
       ]
     },
@@ -12791,7 +12791,7 @@
           "assetbundle": "an_0507_01",
           "duration": 127.23525,
           "source": "C",
-          "lines": 24
+          "singerRows": 24
         }
       ]
     },
@@ -12904,14 +12904,14 @@
           "assetbundle": "an_0511_01",
           "duration": 128.14,
           "source": "C",
-          "lines": 18
+          "singerRows": 18
         },
         {
           "vocalId": 1570,
           "assetbundle": "an_0511_02",
           "duration": 128.46,
           "source": "C",
-          "lines": 18
+          "singerRows": 18
         }
       ]
     },
@@ -13816,7 +13816,7 @@
           "assetbundle": "an_0549_02",
           "duration": 127.13275,
           "source": "C",
-          "lines": 28
+          "singerRows": 28
         }
       ]
     },
@@ -14175,7 +14175,7 @@
           "assetbundle": "vs_0564_01",
           "duration": 105.4,
           "source": "A",
-          "lines": 16
+          "singerRows": 16
         }
       ]
     },
@@ -14522,7 +14522,7 @@
           "assetbundle": "vs_0578_01",
           "duration": 113.72775,
           "source": "C",
-          "lines": 18
+          "singerRows": 18
         }
       ]
     },
@@ -14949,7 +14949,7 @@
           "assetbundle": "se_0595_01",
           "duration": 140.14,
           "source": "A",
-          "lines": 27
+          "singerRows": 27
         }
       ]
     },
@@ -14984,7 +14984,7 @@
           "assetbundle": "vs_0596_01",
           "duration": 137.984875,
           "source": "A",
-          "lines": 32
+          "singerRows": 32
         }
       ]
     },
@@ -15045,7 +15045,7 @@
           "assetbundle": "se_0600_01",
           "duration": 120.6,
           "source": "A",
-          "lines": 24
+          "singerRows": 23
         }
       ]
     },
@@ -16002,14 +16002,14 @@
           "assetbundle": "vs_0642_01",
           "duration": 117.993625,
           "source": "A",
-          "lines": 20
+          "singerRows": 20
         },
         {
           "vocalId": 1799,
           "assetbundle": "an_0642_01",
           "duration": 118.001,
           "source": "C",
-          "lines": 20
+          "singerRows": 20
         }
       ]
     },
@@ -16122,7 +16122,7 @@
           "assetbundle": "an_0646_01",
           "duration": 119.9995,
           "source": "C",
-          "lines": 22
+          "singerRows": 22
         }
       ]
     },
@@ -16469,7 +16469,7 @@
           "assetbundle": "se_0660_01",
           "duration": 131.9675,
           "source": "A",
-          "lines": 40
+          "singerRows": 39
         }
       ]
     },
@@ -16774,7 +16774,7 @@
           "assetbundle": "vs_0672_01",
           "duration": 129.987,
           "source": "A",
-          "lines": 23
+          "singerRows": 23
         }
       ]
     },
@@ -16859,9 +16859,9 @@
         {
           "vocalId": 1793,
           "assetbundle": "se_0679_01",
-          "duration": 129.0,
+          "duration": 129,
           "source": "A",
-          "lines": 55
+          "singerRows": 55
         }
       ]
     },
@@ -16922,7 +16922,7 @@
           "assetbundle": "vs_0681_01",
           "duration": 135.97,
           "source": "A",
-          "lines": 27
+          "singerRows": 27
         }
       ]
     },
@@ -17243,7 +17243,7 @@
           "assetbundle": "vs_0693_01",
           "duration": 139.147125,
           "source": "A",
-          "lines": 18
+          "singerRows": 18
         }
       ]
     },
@@ -17434,7 +17434,7 @@
           "assetbundle": "an_0702_01",
           "duration": 138.99175,
           "source": "C",
-          "lines": 18
+          "singerRows": 18
         }
       ]
     },
@@ -17521,7 +17521,7 @@
           "assetbundle": "se_0705_01",
           "duration": 133.99925,
           "source": "A",
-          "lines": 22
+          "singerRows": 27
         }
       ]
     },
@@ -18054,7 +18054,7 @@
           "assetbundle": "se_0730_01",
           "duration": 128.024,
           "source": "A",
-          "lines": 19
+          "singerRows": 19
         }
       ]
     },
@@ -19349,7 +19349,7 @@
           "assetbundle": "se_0811_01",
           "duration": 136.00075,
           "source": "A",
-          "lines": 35
+          "singerRows": 35
         }
       ]
     },

@@ -15,7 +15,7 @@ for song in c['songs']:
  else: song.pop('reviewedRomajiLines',None)
  totals['reviewedRomajiLines']=totals.get('reviewedRomajiLines',0)+reviewed
  if 'versions' in d:
-  song['versions']=[{'vocalId':v['vocalId'],'assetbundle':v['assetbundle'],'duration':v['duration'],'source':v['source'],'lines':len(v['lines'])} for v in d['versions']]
+  song['versions']=[{'vocalId':v['vocalId'],'assetbundle':v['assetbundle'],'duration':v['duration'],'source':v['source'],'singerRows':len(v['singers'])} for v in d['versions']]
   totals['additionalVersions']+=len(d['versions'])
   totals['versionedSongs']+=bool(d['versions'])
   for version in d['versions']:totals['versionSources'][version['source']]+=1
