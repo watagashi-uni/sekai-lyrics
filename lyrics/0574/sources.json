@@ -75,6 +75,17 @@
       "via": "https://github.com/shinonomeenana/sekai_lyrics",
       "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
       "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "附加演唱版本",
+      "provider": "shinonomeenana/sekai_lyrics",
+      "url": "https://github.com/shinonomeenana/sekai_lyrics",
+      "license": null,
+      "source": "B",
+      "vocalId": 1568,
+      "upstreamRevision": "7c170dac146a9c31d7fbb405e4c2bf507c5dd3f8",
+      "performerSource": "line characterIds; no segment inference",
+      "note": "2026-11-14：セカイver.（vocalId 1568，se_0574_01）原来没有任何分唱，现作为附加版本补上。逐行分唱取自对方 raw_lyrics/0574.json 的 characterIds：对方 20 行与默认版本的 20 行逐行对应，其中 20 行文字一致（忽略空白），按行直接对应，不做行内拆分，不推测；附加版本沿用默认时间轴。时间轴核对：两版时长 105.2100／105.2100 s；全曲混音按 4 秒窗互相关，相关≥0.3 的 23 窗最佳偏移中位 +0.000 s（22 窗在 ±0.01 s 内；相关低于 0.3 的窗两版混音差别大，不计）；两版人声分离轨逐行包络互相关（相关≥0.5 的 20／20 行）最佳偏移中位 -0.010 s，20 行在 ±0.05 s 内。游戏音频取自 sekai_3dmv_dl 仓库 music_dl/acb，按 sekai_lyrics tools/audio_source.py 选精确人声 cue（stream 1）解码；其中 vs_0574_01、se_0574_01 本地原先没有，于 2026-11-14 按仓库 7.1.0.60 官方 iOS 目录补下（music/long/<asset>，校验 HTTP 长度与解密后的 UnityFS 头）。"
     }
   ]
 }

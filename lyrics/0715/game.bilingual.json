@@ -1,7 +1,20 @@
 {
   "music_id": 715,
   "time_origin": "selected_game_recording_start_including_pre_roll",
-  "performers": [],
+  "performers": [
+    {
+      "performerId": "歌唱者-25",
+      "name": "MEIKO"
+    },
+    {
+      "performerId": "歌唱者-14",
+      "name": "鳳えむ"
+    },
+    {
+      "performerId": "歌唱者-15",
+      "name": "草薙寧々"
+    }
+  ],
   "lines": [
     {
       "index": 0,
@@ -9,6 +22,27 @@
       "end": 32.302631,
       "japanese": "いつだって一人で マルベリカ",
       "zh-CN": "无论何时都形单影只的 玛露贝莉卡",
+      "segments": [
+        {
+          "text": "いつだって一人で マルベリカ",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "いつだって"
+            },
+            {
+              "text": "一人",
+              "reading": "ひとり"
+            },
+            {
+              "text": "で マルベリカ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -17,6 +51,45 @@
       "end": 35.532775,
       "japanese": "大概ひと振り　退屈な奇跡だ",
       "zh-CN": "大抵只需挥一挥魔杖 便是无聊的奇迹",
+      "segments": [
+        {
+          "text": "大概ひと振り　退屈な奇跡だ",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "大概",
+              "reading": "たいがい"
+            },
+            {
+              "text": "ひと"
+            },
+            {
+              "text": "振",
+              "reading": "ふ"
+            },
+            {
+              "text": "り　"
+            },
+            {
+              "text": "退屈",
+              "reading": "たいくつ"
+            },
+            {
+              "text": "な"
+            },
+            {
+              "text": "奇跡",
+              "reading": "きせき"
+            },
+            {
+              "text": "だ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -25,6 +98,31 @@
       "end": 37.69852,
       "japanese": "助けのキッカケも悪戯も",
       "zh-CN": "无论是施救的契机还是恶作剧",
+      "segments": [
+        {
+          "text": "助けのキッカケも悪戯も",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "助",
+              "reading": "たす"
+            },
+            {
+              "text": "けのキッカケも"
+            },
+            {
+              "text": "悪戯",
+              "reading": "いたずら"
+            },
+            {
+              "text": "も"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -33,6 +131,31 @@
       "end": 40.35952,
       "japanese": "何だって叶う マギスペリカ",
       "zh-CN": "无论什么都能实现的 魔法佩莉卡",
+      "segments": [
+        {
+          "text": "何だって叶う マギスペリカ",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "何",
+              "reading": "なん"
+            },
+            {
+              "text": "だって"
+            },
+            {
+              "text": "叶",
+              "reading": "かな"
+            },
+            {
+              "text": "う マギスペリカ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -41,6 +164,31 @@
       "end": 42.925663,
       "japanese": "地味だって避けられ ソリタリカ",
       "zh-CN": "被嫌弃土气而遭到排挤的 索莉塔莉卡",
+      "segments": [
+        {
+          "text": "地味だって避けられ ソリタリカ",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "地味",
+              "reading": "じみ"
+            },
+            {
+              "text": "だって"
+            },
+            {
+              "text": "避",
+              "reading": "さ"
+            },
+            {
+              "text": "けられ ソリタリカ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -49,6 +197,34 @@
       "end": 46.271633,
       "japanese": "どうして隠さなきゃって　悲惨なオキテだって",
       "zh-CN": "为什么非要隐瞒不可 哪怕是悲惨的戒律",
+      "segments": [
+        {
+          "text": "どうして隠さなきゃって　悲惨なオキテだって",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "どうして"
+            },
+            {
+              "text": "隠",
+              "reading": "かく"
+            },
+            {
+              "text": "さなきゃって　"
+            },
+            {
+              "text": "悲惨",
+              "reading": "ひさん"
+            },
+            {
+              "text": "なオキテだって"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -57,6 +233,31 @@
       "end": 48.32954,
       "japanese": "妄念も束縛　そんなのって！",
       "zh-CN": "妄念与束缚 怎么会这样！",
+      "segments": [
+        {
+          "text": "妄念も束縛　そんなのって！",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "妄念",
+              "reading": "もうねん"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "束縛",
+              "reading": "そくばく"
+            },
+            {
+              "text": "　そんなのって！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -65,6 +266,45 @@
       "end": 51.783348,
       "japanese": "毎日、平均点はもう懲り懲りでさ",
       "zh-CN": "每天都拿平均分早已受够了",
+      "segments": [
+        {
+          "text": "毎日、平均点はもう懲り懲りでさ",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "毎日",
+              "reading": "まいにち"
+            },
+            {
+              "text": "、"
+            },
+            {
+              "text": "平均点",
+              "reading": "へいきんてん"
+            },
+            {
+              "text": "はもう"
+            },
+            {
+              "text": "懲",
+              "reading": "こ"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "懲",
+              "reading": "ご"
+            },
+            {
+              "text": "りでさ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -73,6 +313,27 @@
       "end": 54.144799,
       "japanese": "テレビも週刊誌も、そう。",
       "zh-CN": "电视也是 周刊也是 没错",
+      "segments": [
+        {
+          "text": "テレビも週刊誌も、そう。",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "テレビも"
+            },
+            {
+              "text": "週刊誌",
+              "reading": "しゅうかんし"
+            },
+            {
+              "text": "も、そう。"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -81,6 +342,38 @@
       "end": 56.804801,
       "japanese": "未来、期待もゼンブ揺れるけど",
       "zh-CN": "未来与期待虽然全都在动摇",
+      "segments": [
+        {
+          "text": "未来、期待もゼンブ揺れるけど",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "未来",
+              "reading": "みらい"
+            },
+            {
+              "text": "、"
+            },
+            {
+              "text": "期待",
+              "reading": "きたい"
+            },
+            {
+              "text": "もゼンブ"
+            },
+            {
+              "text": "揺",
+              "reading": "ゆ"
+            },
+            {
+              "text": "れるけど"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -89,6 +382,45 @@
       "end": 59.534697,
       "japanese": "答えが振り向かなきゃ 意味がないの",
       "zh-CN": "但若答案不肯回过头来 就毫无意义",
+      "segments": [
+        {
+          "text": "答えが振り向かなきゃ 意味がないの",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "答",
+              "reading": "こた"
+            },
+            {
+              "text": "えが"
+            },
+            {
+              "text": "振",
+              "reading": "ふ"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "向",
+              "reading": "む"
+            },
+            {
+              "text": "かなきゃ "
+            },
+            {
+              "text": "意味",
+              "reading": "いみ"
+            },
+            {
+              "text": "がないの"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -97,6 +429,15 @@
       "end": 61.994999,
       "japanese": "今日くらい 約束破って",
       "zh-CN": "至少在今天 打破约定",
+      "segments": [
+        {
+          "text": "今日くらい 約束破って",
+          "performerIds": [
+            "歌唱者-14"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -105,6 +446,35 @@
       "end": 63.627545,
       "japanese": "身勝手 変わった 幸福戦",
       "zh-CN": "任性妄为 异样的 幸福战",
+      "segments": [
+        {
+          "text": "身勝手 変わった 幸福戦",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "身勝手",
+              "reading": "みがって"
+            },
+            {
+              "text": " "
+            },
+            {
+              "text": "変",
+              "reading": "か"
+            },
+            {
+              "text": "わった "
+            },
+            {
+              "text": "幸福戦",
+              "reading": "こうふくせん"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -113,6 +483,45 @@
       "end": 67.172217,
       "japanese": "例えば一夜で 世界が終わるとか",
       "zh-CN": "比如在一夜之间 世界彻底终结",
+      "segments": [
+        {
+          "text": "例えば一夜で 世界が終わるとか",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "例",
+              "reading": "たと"
+            },
+            {
+              "text": "えば"
+            },
+            {
+              "text": "一夜",
+              "reading": "ひとや"
+            },
+            {
+              "text": "で "
+            },
+            {
+              "text": "世界",
+              "reading": "せかい"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "終",
+              "reading": "お"
+            },
+            {
+              "text": "わるとか"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -121,6 +530,34 @@
       "end": 69.685439,
       "japanese": "ちょっとした魔法が 使えたりだとか",
       "zh-CN": "比如能够施展 微不足道的魔法",
+      "segments": [
+        {
+          "text": "ちょっとした魔法が 使えたりだとか",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "ちょっとした"
+            },
+            {
+              "text": "魔法",
+              "reading": "まほう"
+            },
+            {
+              "text": "が "
+            },
+            {
+              "text": "使",
+              "reading": "つか"
+            },
+            {
+              "text": "えたりだとか"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -129,6 +566,34 @@
       "end": 72.694916,
       "japanese": "そんな冗談で 騙せないって",
       "zh-CN": "这种玩笑话 根本骗不过去",
+      "segments": [
+        {
+          "text": "そんな冗談で 騙せないって",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "そんな"
+            },
+            {
+              "text": "冗談",
+              "reading": "じょうだん"
+            },
+            {
+              "text": "で "
+            },
+            {
+              "text": "騙",
+              "reading": "だま"
+            },
+            {
+              "text": "せないって"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -137,6 +602,15 @@
       "end": 74.219624,
       "japanese": "わかっているけれど",
       "zh-CN": "虽然心里十分清楚",
+      "segments": [
+        {
+          "text": "わかっているけれど",
+          "performerIds": [
+            "歌唱者-15"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -145,6 +619,31 @@
       "end": 76.908582,
       "japanese": "生まれ変わらせて",
       "zh-CN": "但请让我脱胎换骨重生吧",
+      "segments": [
+        {
+          "text": "生まれ変わらせて",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "生",
+              "reading": "う"
+            },
+            {
+              "text": "まれ"
+            },
+            {
+              "text": "変",
+              "reading": "か"
+            },
+            {
+              "text": "わらせて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -153,6 +652,45 @@
       "end": 95.383636,
       "japanese": "相も変わらず 心情さえも醜く",
       "zh-CN": "依然如故 连心境都如此丑陋",
+      "segments": [
+        {
+          "text": "相も変わらず 心情さえも醜く",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "相",
+              "reading": "あい"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "変",
+              "reading": "か"
+            },
+            {
+              "text": "わらず "
+            },
+            {
+              "text": "心情",
+              "reading": "しんじょう"
+            },
+            {
+              "text": "さえも"
+            },
+            {
+              "text": "醜",
+              "reading": "みにく"
+            },
+            {
+              "text": "く"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -161,6 +699,45 @@
       "end": 98.189418,
       "japanese": "大事に育った 盲信少女の幻想は",
       "zh-CN": "被悉心呵护培育的 盲信少女之幻想",
+      "segments": [
+        {
+          "text": "大事に育った 盲信少女の幻想は",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "大事",
+              "reading": "だいじ"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "育",
+              "reading": "そだ"
+            },
+            {
+              "text": "った "
+            },
+            {
+              "text": "盲信少女",
+              "reading": "もうしんしょうじょ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "幻想",
+              "reading": "げんそう"
+            },
+            {
+              "text": "は"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -169,6 +746,41 @@
       "end": 100.92231,
       "japanese": "きっと気付かないまま 削げ落ちた",
       "zh-CN": "一定在毫无察觉间 剥落凋零",
+      "segments": [
+        {
+          "text": "きっと気付かないまま 削げ落ちた",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "きっと"
+            },
+            {
+              "text": "気付",
+              "reading": "きず"
+            },
+            {
+              "text": "かないまま "
+            },
+            {
+              "text": "削",
+              "reading": "そ"
+            },
+            {
+              "text": "げ"
+            },
+            {
+              "text": "落",
+              "reading": "お"
+            },
+            {
+              "text": "ちた"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -177,6 +789,41 @@
       "end": 103.535383,
       "japanese": "もう奇跡は 降り注がれないんだ",
       "zh-CN": "奇迹再也不会降临倾泻了",
+      "segments": [
+        {
+          "text": "もう奇跡は 降り注がれないんだ",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "もう"
+            },
+            {
+              "text": "奇跡",
+              "reading": "きせき"
+            },
+            {
+              "text": "は "
+            },
+            {
+              "text": "降",
+              "reading": "ふ"
+            },
+            {
+              "text": "り"
+            },
+            {
+              "text": "注",
+              "reading": "そそ"
+            },
+            {
+              "text": "がれないんだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -185,6 +832,52 @@
       "end": 106.478958,
       "japanese": "例え地球を 掻き乱す 魔法でさえも",
       "zh-CN": "纵使是能搅乱地球的魔法",
+      "segments": [
+        {
+          "text": "例え地球を 掻き乱す 魔法でさえも",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "例",
+              "reading": "たと"
+            },
+            {
+              "text": "え"
+            },
+            {
+              "text": "地球",
+              "reading": "ちきゅう"
+            },
+            {
+              "text": "を "
+            },
+            {
+              "text": "掻",
+              "reading": "か"
+            },
+            {
+              "text": "き"
+            },
+            {
+              "text": "乱",
+              "reading": "みだ"
+            },
+            {
+              "text": "す "
+            },
+            {
+              "text": "魔法",
+              "reading": "まほう"
+            },
+            {
+              "text": "でさえも"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -193,6 +886,35 @@
       "end": 108.368118,
       "japanese": "壊せない 想いの結晶",
       "zh-CN": "也无法摧毁 这思念的结晶",
+      "segments": [
+        {
+          "text": "壊せない 想いの結晶",
+          "performerIds": [
+            "歌唱者-15"
+          ],
+          "ruby": [
+            {
+              "text": "壊",
+              "reading": "こわ"
+            },
+            {
+              "text": "せない "
+            },
+            {
+              "text": "想",
+              "reading": "おも"
+            },
+            {
+              "text": "いの"
+            },
+            {
+              "text": "結晶",
+              "reading": "けっしょう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -201,6 +923,52 @@
       "end": 111.815936,
       "japanese": "欲の渦に巻かれ 沈んでく宇宙で",
       "zh-CN": "在卷入欲望漩涡 逐渐沉沦的宇宙中",
+      "segments": [
+        {
+          "text": "欲の渦に巻かれ 沈んでく宇宙で",
+          "performerIds": [
+            "歌唱者-14"
+          ],
+          "ruby": [
+            {
+              "text": "欲",
+              "reading": "よく"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "渦",
+              "reading": "うず"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "巻",
+              "reading": "ま"
+            },
+            {
+              "text": "かれ "
+            },
+            {
+              "text": "沈",
+              "reading": "しず"
+            },
+            {
+              "text": "んでく"
+            },
+            {
+              "text": "宇宙",
+              "reading": "うちゅう"
+            },
+            {
+              "text": "で"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -209,6 +977,45 @@
       "end": 114.239293,
       "japanese": "自分を失くした、愛の侵略者よ！",
       "zh-CN": "迷失自我的 爱之侵略者啊！",
+      "segments": [
+        {
+          "text": "自分を失くした、愛の侵略者よ！",
+          "performerIds": [
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "自分",
+              "reading": "じぶん"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "失",
+              "reading": "な"
+            },
+            {
+              "text": "くした、"
+            },
+            {
+              "text": "愛",
+              "reading": "あい"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "侵略者",
+              "reading": "しんりゃくしゃ"
+            },
+            {
+              "text": "よ！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -217,6 +1024,42 @@
       "end": 116.753514,
       "japanese": "ほんの一夜で　世界が終わるとか",
       "zh-CN": "仅仅一夜之间 世界彻底终结",
+      "segments": [
+        {
+          "text": "ほんの一夜で　世界が終わるとか",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "ほんの"
+            },
+            {
+              "text": "一夜",
+              "reading": "いちや"
+            },
+            {
+              "text": "で　"
+            },
+            {
+              "text": "世界",
+              "reading": "せかい"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "終",
+              "reading": "お"
+            },
+            {
+              "text": "わるとか"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -225,6 +1068,35 @@
       "end": 119.132937,
       "japanese": "ちょっとした魔法が　使えたりだとか",
       "zh-CN": "能够施展 微不足道的魔法",
+      "segments": [
+        {
+          "text": "ちょっとした魔法が　使えたりだとか",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "ちょっとした"
+            },
+            {
+              "text": "魔法",
+              "reading": "まほう"
+            },
+            {
+              "text": "が　"
+            },
+            {
+              "text": "使",
+              "reading": "つか"
+            },
+            {
+              "text": "えたりだとか"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -233,6 +1105,35 @@
       "end": 122.112459,
       "japanese": "そんな冗談で　愛してみたいんだ",
       "zh-CN": "想借着这般的玩笑 去试着深爱",
+      "segments": [
+        {
+          "text": "そんな冗談で　愛してみたいんだ",
+          "performerIds": [
+            "歌唱者-15",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "そんな"
+            },
+            {
+              "text": "冗談",
+              "reading": "じょうだん"
+            },
+            {
+              "text": "で　"
+            },
+            {
+              "text": "愛",
+              "reading": "あい"
+            },
+            {
+              "text": "してみたいんだ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -241,6 +1142,35 @@
       "end": 125.018091,
       "japanese": "この世の全てを",
       "zh-CN": "这个世间的一切",
+      "segments": [
+        {
+          "text": "この世の全てを",
+          "performerIds": [
+            "歌唱者-15",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "この"
+            },
+            {
+              "text": "世",
+              "reading": "よ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "全",
+              "reading": "すべ"
+            },
+            {
+              "text": "てを"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -249,6 +1179,33 @@
       "end": 126.462919,
       "japanese": "君に聞いてみたい",
       "zh-CN": "想亲口问一问你",
+      "segments": [
+        {
+          "text": "君に聞いてみたい",
+          "performerIds": [
+            "歌唱者-14",
+            "歌唱者-15",
+            "歌唱者-25"
+          ],
+          "ruby": [
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "聞",
+              "reading": "き"
+            },
+            {
+              "text": "いてみたい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     }
   ]

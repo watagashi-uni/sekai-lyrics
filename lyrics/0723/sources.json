@@ -3,12 +3,21 @@
   "title": "ラヴィ",
   "sources": [
     {
+      "usage": "歌词文字/分唱",
+      "provider": "shinonomeenana/sekai_lyrics",
+      "recordId": null,
+      "url": "https://github.com/shinonomeenana/sekai_lyrics",
+      "license": null,
+      "upstreamRevision": "7c170dac146a9c31d7fbb405e4c2bf507c5dd3f8",
+      "note": "2026-11-14：默认版本由バーチャル・シンガーver.（vocalId 1280，vs_0723_01）改为セカイver.（vocalId 1775，se_0723_01），格式由 LRC 改为双语 JSON。本曲 game.bilingual.json 原本没有分唱（performers 为空），所以当时只写了 VS 版；セカイver. 也未作为附加版本导入。现逐行分唱取自对方 raw_lyrics/0723.json 的 characterIds：54 个双语行与本曲 game.bilingual.json 逐行文字一致，按行直接对应；不做行内拆分，不推测。"
+    },
+    {
       "usage": "时间轴",
       "provider": "QQ音乐",
       "recordId": "629066365",
       "url": null,
       "license": null,
-      "note": null
+      "note": "逐字轴原按バーチャル・シンガーver.（1280）录音核对。2026-11-14 改用セカイver.（1775）为默认后沿用同一时间轴：两版时长 141.0842／141.0842 s；全曲混音按 4 秒窗互相关，相关≥0.3 的 33 窗最佳偏移中位 +0.000 s（33 窗在 ±0.01 s 内；相关低于 0.3 的窗两版混音差别大，不计）；两版人声分离轨逐行包络互相关（相关≥0.5 的 48／54 行）最佳偏移中位 -0.020 s，44 行在 ±0.05 s 内，其余：第 2 行 +0.49 s、第 9 行 -0.53 s、第 42 行 -0.06 s、第 45 行 -0.08 s；两版人声轨用 sekai_lyrics 的日语音素模型（HuBERT CTC）整首按序强制对齐，セカイver. 首音素置信度≥0.5 的 21 行，两版起点差 20 行在 0.1 s 内、21 行在 0.3 s 内（全部 54 行中位差 0.02 s；差超过 0.3 s 的 9 行都是セカイver. 置信度低于 0.5 的行）。原 LRC 的 54 个逐字行按出现顺序做字符对齐迁到54 个双语行：469 个逐字单元迁入 469 个，69／69 条注音全部保留。game.lrc／game.enhanced.lrc／game.zh-CN.lrc 仍保留原 LRC 成品。游戏音频取自 sekai_3dmv_dl 仓库 music_dl/acb，按 sekai_lyrics tools/audio_source.py 选精确人声 cue（stream 1）解码；其中 vs_0723_01、se_0723_01 本地原先没有，于 2026-11-14 按仓库 7.1.0.60 官方 iOS 目录补下（music/long/<asset>，校验 HTTP 长度与解密后的 UnityFS 头）。"
     },
     {
       "usage": "罗马音",

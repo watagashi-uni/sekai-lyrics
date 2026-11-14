@@ -1,7 +1,28 @@
 {
   "music_id": 723,
   "time_origin": "selected_game_recording_start_including_pre_roll",
-  "performers": [],
+  "performers": [
+    {
+      "performerId": "歌唱者-23",
+      "name": "鏡音レン"
+    },
+    {
+      "performerId": "歌唱者-17",
+      "name": "宵崎奏"
+    },
+    {
+      "performerId": "歌唱者-18",
+      "name": "朝比奈まふゆ"
+    },
+    {
+      "performerId": "歌唱者-19",
+      "name": "東雲絵名"
+    },
+    {
+      "performerId": "歌唱者-20",
+      "name": "暁山瑞希"
+    }
+  ],
   "lines": [
     {
       "index": 0,
@@ -9,6 +30,17 @@
       "end": 9.87,
       "japanese": "ラヴィラヴィチュウ",
       "zh-CN": "拉维拉维啾",
+      "segments": [
+        {
+          "text": "ラヴィラヴィチュウ",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-18",
+            "歌唱者-23"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -17,6 +49,29 @@
       "end": 11.138,
       "japanese": "ご褒美ラヴィチュウ",
       "zh-CN": "奖赏拉维啾",
+      "segments": [
+        {
+          "text": "ご褒美ラヴィチュウ",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-18",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "ご"
+            },
+            {
+              "text": "褒美",
+              "reading": "ほうび"
+            },
+            {
+              "text": "ラヴィチュウ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -25,6 +80,40 @@
       "end": 12.621,
       "japanese": "噛み付いて骨まで",
       "zh-CN": "咬噬撕咬深至白骨",
+      "segments": [
+        {
+          "text": "噛み付いて骨まで",
+          "performerIds": [
+            "歌唱者-19",
+            "歌唱者-20",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "噛",
+              "reading": "か"
+            },
+            {
+              "text": "み"
+            },
+            {
+              "text": "付",
+              "reading": "つ"
+            },
+            {
+              "text": "いて"
+            },
+            {
+              "text": "骨",
+              "reading": "ほね"
+            },
+            {
+              "text": "まで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -33,6 +122,17 @@
       "end": 13.69,
       "japanese": "チュッチュッチュッ",
       "zh-CN": "啾啾啾",
+      "segments": [
+        {
+          "text": "チュッチュッチュッ",
+          "performerIds": [
+            "歌唱者-19",
+            "歌唱者-20",
+            "歌唱者-23"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -41,6 +141,27 @@
       "end": 21.961,
       "japanese": "Bat 煽ってないの？え？",
       "zh-CN": "Bat 没在挑衅吗？诶？",
+      "segments": [
+        {
+          "text": "Bat 煽ってないの？え？",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "Bat "
+            },
+            {
+              "text": "煽",
+              "reading": "あお"
+            },
+            {
+              "text": "ってないの？え？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -49,6 +170,27 @@
       "end": 24.338,
       "japanese": "おつかれ今日もノーダメージ",
       "zh-CN": "辛苦啦今天也是毫发无损",
+      "segments": [
+        {
+          "text": "おつかれ今日もノーダメージ",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "おつかれ"
+            },
+            {
+              "text": "今日",
+              "reading": "きょう"
+            },
+            {
+              "text": "もノーダメージ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -57,6 +199,27 @@
       "end": 27.196,
       "japanese": "ズバッと威張ってたいの！ね？",
       "zh-CN": "想干脆利落地逞威风呢！呐？",
+      "segments": [
+        {
+          "text": "ズバッと威張ってたいの！ね？",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "ズバッと"
+            },
+            {
+              "text": "威張",
+              "reading": "いば"
+            },
+            {
+              "text": "ってたいの！ね？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -65,6 +228,31 @@
       "end": 29.443,
       "japanese": "笑えるほどに弱虫よ",
       "zh-CN": "简直可笑至极的胆小鬼哦",
+      "segments": [
+        {
+          "text": "笑えるほどに弱虫よ",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "笑",
+              "reading": "わら"
+            },
+            {
+              "text": "えるほどに"
+            },
+            {
+              "text": "弱虫",
+              "reading": "よわむし"
+            },
+            {
+              "text": "よ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -73,6 +261,24 @@
       "end": 31.135,
       "japanese": "踊るばぁかばぁか",
       "zh-CN": "跳舞的笨蛋笨蛋",
+      "segments": [
+        {
+          "text": "踊るばぁかばぁか",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "踊",
+              "reading": "おど"
+            },
+            {
+              "text": "るばぁかばぁか"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -81,6 +287,24 @@
       "end": 32.358,
       "japanese": "無駄ねほらほら",
       "zh-CN": "徒劳呢看吧看吧",
+      "segments": [
+        {
+          "text": "無駄ねほらほら",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "無駄",
+              "reading": "むだ"
+            },
+            {
+              "text": "ねほらほら"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -89,6 +313,15 @@
       "end": 34.041,
       "japanese": "ごめんちょっとタンマ",
       "zh-CN": "抱歉稍微暂停一下",
+      "segments": [
+        {
+          "text": "ごめんちょっとタンマ",
+          "performerIds": [
+            "歌唱者-17"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -97,6 +330,24 @@
       "end": 35.066,
       "japanese": "大草原",
       "zh-CN": "笑死草生",
+      "segments": [
+        {
+          "text": "大草原",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-18",
+            "歌唱者-19",
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "大草原",
+              "reading": "だいそうげん"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -105,6 +356,15 @@
       "end": 36.434,
       "japanese": "やばめドッキドキ",
       "zh-CN": "玩脱了扑通扑通",
+      "segments": [
+        {
+          "text": "やばめドッキドキ",
+          "performerIds": [
+            "歌唱者-20"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -113,6 +373,24 @@
       "end": 37.706,
       "japanese": "本音ラッキラッキー",
       "zh-CN": "吐露真心好运幸运",
+      "segments": [
+        {
+          "text": "本音ラッキラッキー",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "本音",
+              "reading": "ほんね"
+            },
+            {
+              "text": "ラッキラッキー"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -121,6 +399,15 @@
       "end": 39.851,
       "japanese": "マネジメントナンバー",
       "zh-CN": "管理编号",
+      "segments": [
+        {
+          "text": "マネジメントナンバー",
+          "performerIds": [
+            "歌唱者-23"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -129,6 +416,21 @@
       "end": 41.812,
       "japanese": "無能無能無能",
       "zh-CN": "无能无能无能",
+      "segments": [
+        {
+          "text": "無能無能無能",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "無能無能無能",
+              "reading": "むのうむのうむのう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -137,6 +439,24 @@
       "end": 43.0,
       "japanese": "意思のアンマッチ",
       "zh-CN": "意志的南辕北辙",
+      "segments": [
+        {
+          "text": "意思のアンマッチ",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "意思",
+              "reading": "いし"
+            },
+            {
+              "text": "のアンマッチ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -145,6 +465,21 @@
       "end": 44.375,
       "japanese": "無能無能無能",
       "zh-CN": "无能无能无能",
+      "segments": [
+        {
+          "text": "無能無能無能",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "無能無能無能",
+              "reading": "むのうむのうむのう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -153,6 +488,28 @@
       "end": 45.576,
       "japanese": "過度に反対",
       "zh-CN": "过度反对",
+      "segments": [
+        {
+          "text": "過度に反対",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "過度",
+              "reading": "かど"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "反対",
+              "reading": "はんたい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -161,6 +518,21 @@
       "end": 46.991,
       "japanese": "無能無能無能",
       "zh-CN": "无能无能无能",
+      "segments": [
+        {
+          "text": "無能無能無能",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "無能無能無能",
+              "reading": "むのうむのうむのう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -169,6 +541,24 @@
       "end": 48.179,
       "japanese": "ゴミも同然",
       "zh-CN": "等同垃圾",
+      "segments": [
+        {
+          "text": "ゴミも同然",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "ゴミも"
+            },
+            {
+              "text": "同然",
+              "reading": "どうぜん"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -177,6 +567,21 @@
       "end": 49.81,
       "japanese": "無能無能無能",
       "zh-CN": "无能无能无能",
+      "segments": [
+        {
+          "text": "無能無能無能",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "無能無能無能",
+              "reading": "むのうむのうむのう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -185,6 +590,15 @@
       "end": 50.51,
       "japanese": "ワンパン",
       "zh-CN": "一拳搞定",
+      "segments": [
+        {
+          "text": "ワンパン",
+          "performerIds": [
+            "歌唱者-18"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -193,6 +607,17 @@
       "end": 51.699,
       "japanese": "ラヴィラヴィチュウ",
       "zh-CN": "拉维拉维啾",
+      "segments": [
+        {
+          "text": "ラヴィラヴィチュウ",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-19",
+            "歌唱者-23"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -201,6 +626,29 @@
       "end": 53.069,
       "japanese": "ご褒美ラヴィチュウ",
       "zh-CN": "奖赏拉维啾",
+      "segments": [
+        {
+          "text": "ご褒美ラヴィチュウ",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-19",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "ご"
+            },
+            {
+              "text": "褒美",
+              "reading": "ほうび"
+            },
+            {
+              "text": "ラヴィチュウ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -209,6 +657,31 @@
       "end": 55.738,
       "japanese": "あなたじゃ話にならん平凡",
       "zh-CN": "平庸的你根本不值一提",
+      "segments": [
+        {
+          "text": "あなたじゃ話にならん平凡",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "あなたじゃ"
+            },
+            {
+              "text": "話",
+              "reading": "はなし"
+            },
+            {
+              "text": "にならん"
+            },
+            {
+              "text": "平凡",
+              "reading": "へいぼん"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -217,6 +690,17 @@
       "end": 57.015,
       "japanese": "ラヴィラヴィチュウ",
       "zh-CN": "拉维拉维啾",
+      "segments": [
+        {
+          "text": "ラヴィラヴィチュウ",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-20",
+            "歌唱者-23"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -225,6 +709,26 @@
       "end": 58.269,
       "japanese": "下等ねラヴィチュウ",
       "zh-CN": "真是下等呢拉维啾",
+      "segments": [
+        {
+          "text": "下等ねラヴィチュウ",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-20",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "下等",
+              "reading": "かとう"
+            },
+            {
+              "text": "ねラヴィチュウ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -233,6 +737,38 @@
       "end": 60.046,
       "japanese": "噛み付いて骨まで",
       "zh-CN": "咬噬撕咬深至白骨",
+      "segments": [
+        {
+          "text": "噛み付いて骨まで",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "噛",
+              "reading": "か"
+            },
+            {
+              "text": "み"
+            },
+            {
+              "text": "付",
+              "reading": "つ"
+            },
+            {
+              "text": "いて"
+            },
+            {
+              "text": "骨",
+              "reading": "ほね"
+            },
+            {
+              "text": "まで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -241,6 +777,15 @@
       "end": 60.969,
       "japanese": "チュッチュッチュッ",
       "zh-CN": "啾啾啾",
+      "segments": [
+        {
+          "text": "チュッチュッチュッ",
+          "performerIds": [
+            "歌唱者-20"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -249,6 +794,35 @@
       "end": 63.64,
       "japanese": "声を頂戴　涙頂戴",
       "zh-CN": "奉献出声音 奉献出泪水",
+      "segments": [
+        {
+          "text": "声を頂戴　涙頂戴",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "声",
+              "reading": "こえ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "頂戴",
+              "reading": "ちょうだい"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "涙頂戴",
+              "reading": "なみだちょうだい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -257,6 +831,15 @@
       "end": 66.114,
       "japanese": "ヤミーヤミーヤミー",
       "zh-CN": "美味美味真美味",
+      "segments": [
+        {
+          "text": "ヤミーヤミーヤミー",
+          "performerIds": [
+            "歌唱者-23"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -265,6 +848,35 @@
       "end": 69.001,
       "japanese": "声を頂戴　涙頂戴",
       "zh-CN": "奉献出声音 奉献出泪水",
+      "segments": [
+        {
+          "text": "声を頂戴　涙頂戴",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "声",
+              "reading": "こえ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "頂戴",
+              "reading": "ちょうだい"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "涙頂戴",
+              "reading": "なみだちょうだい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -273,6 +885,15 @@
       "end": 71.323,
       "japanese": "ラヴィラヴィラヴィ",
       "zh-CN": "拉维拉维拉维",
+      "segments": [
+        {
+          "text": "ラヴィラヴィラヴィ",
+          "performerIds": [
+            "歌唱者-23"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -281,6 +902,31 @@
       "end": 74.384,
       "japanese": "弱音吐いて悶えたって",
       "zh-CN": "哪怕示弱吐苦水痛苦挣扎",
+      "segments": [
+        {
+          "text": "弱音吐いて悶えたって",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "弱音吐",
+              "reading": "よわねは"
+            },
+            {
+              "text": "いて"
+            },
+            {
+              "text": "悶",
+              "reading": "もだ"
+            },
+            {
+              "text": "えたって"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -289,6 +935,45 @@
       "end": 76.965,
       "japanese": "無駄で無駄で愚かさすら気付けないよね",
       "zh-CN": "也是白费徒劳 甚至连愚蠢都未曾发觉呢",
+      "segments": [
+        {
+          "text": "無駄で無駄で愚かさすら気付けないよね",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "無駄",
+              "reading": "むだ"
+            },
+            {
+              "text": "で"
+            },
+            {
+              "text": "無駄",
+              "reading": "むだ"
+            },
+            {
+              "text": "で"
+            },
+            {
+              "text": "愚",
+              "reading": "おろ"
+            },
+            {
+              "text": "かさすら"
+            },
+            {
+              "text": "気付",
+              "reading": "きず"
+            },
+            {
+              "text": "けないよね"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -297,6 +982,38 @@
       "end": 79.647,
       "japanese": "喉渇いて血を含んで",
       "zh-CN": "喉咙干渴 含下一口鲜血",
+      "segments": [
+        {
+          "text": "喉渇いて血を含んで",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "喉渇",
+              "reading": "のどかわ"
+            },
+            {
+              "text": "いて"
+            },
+            {
+              "text": "血",
+              "reading": "ち"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "含",
+              "reading": "ふく"
+            },
+            {
+              "text": "んで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -305,6 +1022,52 @@
       "end": 82.337,
       "japanese": "悪い悪い顔で笑う逃げちゃダメダメ",
       "zh-CN": "露出邪恶反派的笑容 可不准逃跑哦",
+      "segments": [
+        {
+          "text": "悪い悪い顔で笑う逃げちゃダメダメ",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "悪",
+              "reading": "わる"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "悪",
+              "reading": "わる"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "顔",
+              "reading": "かお"
+            },
+            {
+              "text": "で"
+            },
+            {
+              "text": "笑",
+              "reading": "わら"
+            },
+            {
+              "text": "う"
+            },
+            {
+              "text": "逃",
+              "reading": "に"
+            },
+            {
+              "text": "げちゃダメダメ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -313,6 +1076,38 @@
       "end": 85.089,
       "japanese": "手に入れろ生出して",
       "zh-CN": "夺入手中 展露生存本能",
+      "segments": [
+        {
+          "text": "手に入れろ生出して",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "手",
+              "reading": "て"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "入",
+              "reading": "い"
+            },
+            {
+              "text": "れろ"
+            },
+            {
+              "text": "生出",
+              "reading": "せいだ"
+            },
+            {
+              "text": "して"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -321,6 +1116,31 @@
       "end": 87.651,
       "japanese": "馬鹿だろお前まじで",
       "zh-CN": "你真他妈是个蠢货吧",
+      "segments": [
+        {
+          "text": "馬鹿だろお前まじで",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "馬鹿",
+              "reading": "ばか"
+            },
+            {
+              "text": "だろお"
+            },
+            {
+              "text": "前",
+              "reading": "まえ"
+            },
+            {
+              "text": "まじで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -329,6 +1149,27 @@
       "end": 90.369,
       "japanese": "この傷倍貸しね",
       "zh-CN": "这道伤痛要加倍奉还哦",
+      "segments": [
+        {
+          "text": "この傷倍貸しね",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "この"
+            },
+            {
+              "text": "傷倍貸",
+              "reading": "きずばいか"
+            },
+            {
+              "text": "しね"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -337,6 +1178,31 @@
       "end": 92.734,
       "japanese": "恐怖から這いつくばって",
       "zh-CN": "因恐惧而伏地爬行",
+      "segments": [
+        {
+          "text": "恐怖から這いつくばって",
+          "performerIds": [
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "恐怖",
+              "reading": "きょうふ"
+            },
+            {
+              "text": "から"
+            },
+            {
+              "text": "這",
+              "reading": "は"
+            },
+            {
+              "text": "いつくばって"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -345,6 +1211,17 @@
       "end": 108.171,
       "japanese": "ラヴィラヴィチュウ",
       "zh-CN": "拉维拉维啾",
+      "segments": [
+        {
+          "text": "ラヴィラヴィチュウ",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-20",
+            "歌唱者-23"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -353,6 +1230,29 @@
       "end": 109.491,
       "japanese": "ご褒美ラヴィチュウ",
       "zh-CN": "奖赏拉维啾",
+      "segments": [
+        {
+          "text": "ご褒美ラヴィチュウ",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-20",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "ご"
+            },
+            {
+              "text": "褒美",
+              "reading": "ほうび"
+            },
+            {
+              "text": "ラヴィチュウ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -361,6 +1261,31 @@
       "end": 112.23,
       "japanese": "あなたじゃ話にならん平凡",
       "zh-CN": "平庸的你根本不值一提",
+      "segments": [
+        {
+          "text": "あなたじゃ話にならん平凡",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "あなたじゃ"
+            },
+            {
+              "text": "話",
+              "reading": "はなし"
+            },
+            {
+              "text": "にならん"
+            },
+            {
+              "text": "平凡",
+              "reading": "へいぼん"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -369,6 +1294,17 @@
       "end": 113.347,
       "japanese": "ラヴィラヴィチュウ",
       "zh-CN": "拉维拉维啾",
+      "segments": [
+        {
+          "text": "ラヴィラヴィチュウ",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-19",
+            "歌唱者-23"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -377,6 +1313,26 @@
       "end": 114.634,
       "japanese": "下等ねラヴィチュウ",
       "zh-CN": "真是下等呢拉维啾",
+      "segments": [
+        {
+          "text": "下等ねラヴィチュウ",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-19",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "下等",
+              "reading": "かとう"
+            },
+            {
+              "text": "ねラヴィチュウ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -385,6 +1341,38 @@
       "end": 116.402,
       "japanese": "噛み付いて骨まで",
       "zh-CN": "咬噬撕咬深至白骨",
+      "segments": [
+        {
+          "text": "噛み付いて骨まで",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "噛",
+              "reading": "か"
+            },
+            {
+              "text": "み"
+            },
+            {
+              "text": "付",
+              "reading": "つ"
+            },
+            {
+              "text": "いて"
+            },
+            {
+              "text": "骨",
+              "reading": "ほね"
+            },
+            {
+              "text": "まで"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -393,6 +1381,15 @@
       "end": 117.307,
       "japanese": "チュッチュッチュッ",
       "zh-CN": "啾啾啾",
+      "segments": [
+        {
+          "text": "チュッチュッチュッ",
+          "performerIds": [
+            "歌唱者-19"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -401,6 +1398,36 @@
       "end": 120.083,
       "japanese": "声を頂戴　涙頂戴",
       "zh-CN": "奉献出声音 奉献出泪水",
+      "segments": [
+        {
+          "text": "声を頂戴　涙頂戴",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-23"
+          ],
+          "ruby": [
+            {
+              "text": "声",
+              "reading": "こえ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "頂戴",
+              "reading": "ちょうだい"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "涙頂戴",
+              "reading": "なみだちょうだい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -409,6 +1436,15 @@
       "end": 122.355,
       "japanese": "ヤミーヤミーヤミー",
       "zh-CN": "美味美味真美味",
+      "segments": [
+        {
+          "text": "ヤミーヤミーヤミー",
+          "performerIds": [
+            "歌唱者-18"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -417,6 +1453,35 @@
       "end": 125.342,
       "japanese": "声を頂戴　涙頂戴",
       "zh-CN": "奉献出声音 奉献出泪水",
+      "segments": [
+        {
+          "text": "声を頂戴　涙頂戴",
+          "performerIds": [
+            "歌唱者-17"
+          ],
+          "ruby": [
+            {
+              "text": "声",
+              "reading": "こえ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "頂戴",
+              "reading": "ちょうだい"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "涙頂戴",
+              "reading": "なみだちょうだい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -425,6 +1490,16 @@
       "end": 127.6,
       "japanese": "ラヴィラヴィラヴィ",
       "zh-CN": "拉维拉维拉维",
+      "segments": [
+        {
+          "text": "ラヴィラヴィラヴィ",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-23"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -433,6 +1508,15 @@
       "end": 130.354,
       "japanese": "ヤミーヤミーラヴィ",
       "zh-CN": "美味美味拉维",
+      "segments": [
+        {
+          "text": "ヤミーヤミーラヴィ",
+          "performerIds": [
+            "歌唱者-23"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     }
   ]

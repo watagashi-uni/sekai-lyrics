@@ -35,12 +35,21 @@
       "note": "renditions/sekai/version"
     },
     {
+      "usage": "歌词文字/分唱",
+      "provider": "shinonomeenana/sekai_lyrics",
+      "recordId": null,
+      "url": "https://github.com/shinonomeenana/sekai_lyrics",
+      "license": null,
+      "upstreamRevision": "7c170dac146a9c31d7fbb405e4c2bf507c5dd3f8",
+      "note": "2026-11-14：默认版本本来就是セカイver.（vocalId 20），但原为没有分唱的 LRC；现改为带分唱的双语 JSON。逐行分唱取自对方 raw_lyrics/0018.json 的 characterIds：32 个双语行与本曲 game.bilingual.json 逐行文字一致，按行直接对应；不做行内拆分，不推测。"
+    },
+    {
       "usage": "时间轴",
       "provider": "QQ音乐",
       "recordId": "353828529",
       "url": "https://y.qq.com/n/ryqq/songDetail/000OtChK2IBRyQ",
       "license": null,
-      "note": "qrc"
+      "note": "qrc；2026-11-14 格式由 LRC 改为双语 JSON，参考音频不变。原 LRC 的 36 个逐字行按出现顺序做字符对齐迁到32 个双语行：307 个逐字单元迁入 306 个，77／77 条注音全部保留；游戏歌词中没有的 QQ 残行单元未迁入：「て」75.184 s。game.lrc／game.enhanced.lrc／game.zh-CN.lrc 仍保留原 LRC 成品。"
     },
     {
       "usage": "罗马音",

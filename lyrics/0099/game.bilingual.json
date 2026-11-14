@@ -1,7 +1,28 @@
 {
   "music_id": 99,
   "time_origin": "selected_game_recording_start_including_pre_roll",
-  "performers": [],
+  "performers": [
+    {
+      "performerId": "歌唱者-07",
+      "name": "桃井愛莉"
+    },
+    {
+      "performerId": "歌唱者-21",
+      "name": "初音ミク"
+    },
+    {
+      "performerId": "歌唱者-05",
+      "name": "花里みのり"
+    },
+    {
+      "performerId": "歌唱者-06",
+      "name": "桐谷遥"
+    },
+    {
+      "performerId": "歌唱者-08",
+      "name": "日野森雫"
+    }
+  ],
   "lines": [
     {
       "index": 0,
@@ -9,6 +30,27 @@
       "end": 12.777865,
       "japanese": "だからもっと 近づきたいから",
       "zh-CN": "所以因为想要 更加更加靠近你",
+      "segments": [
+        {
+          "text": "だからもっと 近づきたいから",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "だからもっと "
+            },
+            {
+              "text": "近",
+              "reading": "ちか"
+            },
+            {
+              "text": "づきたいから"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -17,6 +59,27 @@
       "end": 14.838406,
       "japanese": "もっと　声きかせて",
       "zh-CN": "请让我听见 更多的声音",
+      "segments": [
+        {
+          "text": "もっと　声きかせて",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "もっと　"
+            },
+            {
+              "text": "声",
+              "reading": "こえ"
+            },
+            {
+              "text": "きかせて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -25,6 +88,27 @@
       "end": 19.934796,
       "japanese": "その手掴んだらはなさないから",
       "zh-CN": "一旦抓住那双手就绝不会放开",
+      "segments": [
+        {
+          "text": "その手掴んだらはなさないから",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "その"
+            },
+            {
+              "text": "手掴",
+              "reading": "てつか"
+            },
+            {
+              "text": "んだらはなさないから"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -33,6 +117,19 @@
       "end": 20.80418,
       "japanese": "(いっせーのーで)",
       "zh-CN": "(预备——起)",
+      "segments": [
+        {
+          "text": "(いっせーのーで)",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -41,6 +138,19 @@
       "end": 21.82146,
       "japanese": "(もっともっとジャンプ！)",
       "zh-CN": "(跳得更高更高吧！)",
+      "segments": [
+        {
+          "text": "(もっともっとジャンプ！)",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -49,6 +159,19 @@
       "end": 22.238164,
       "japanese": "(ハイ！)",
       "zh-CN": "(嗨！)",
+      "segments": [
+        {
+          "text": "(ハイ！)",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -57,6 +180,19 @@
       "end": 36.330183,
       "japanese": "また最初は消えちゃいそうな思いから (一歩ずつ)",
       "zh-CN": "再次从微弱得仿佛要消散的心愿开端 (一步一步)",
+      "segments": [
+        {
+          "text": "また最初は消えちゃいそうな思いから (一歩ずつ)",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -65,6 +201,42 @@
       "end": 41.156765,
       "japanese": "気づいたら動き出したストーリー (いちにーさんはい！)",
       "zh-CN": "回过神来早已启程的故事 (一二三 预备！)",
+      "segments": [
+        {
+          "text": "気づいたら動き出したストーリー (いちにーさんはい！)",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-05",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "気",
+              "reading": "き"
+            },
+            {
+              "text": "づいたら"
+            },
+            {
+              "text": "動",
+              "reading": "うご"
+            },
+            {
+              "text": "き"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "したストーリー (いちにーさんはい！)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -73,6 +245,45 @@
       "end": 45.748512,
       "japanese": "ひとりじゃ届きそうもない場所 (今はもう)",
       "zh-CN": "仅凭独自一人似乎无法触及的场所 (现在已经)",
+      "segments": [
+        {
+          "text": "ひとりじゃ届きそうもない場所 (今はもう)",
+          "performerIds": [
+            "歌唱者-08",
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ひとりじゃ"
+            },
+            {
+              "text": "届",
+              "reading": "とど"
+            },
+            {
+              "text": "きそうもない"
+            },
+            {
+              "text": "場所",
+              "reading": "ばしょ"
+            },
+            {
+              "text": " ("
+            },
+            {
+              "text": "今",
+              "reading": "いま"
+            },
+            {
+              "text": "はもう)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -81,6 +292,28 @@
       "end": 50.563102,
       "japanese": "夢じゃないあなたがいるから (ポップ　ステップ　ジャンプ　はい！)",
       "zh-CN": "绝非幻梦 因为有你在身边 (起步 踏步 起跳 预备！)",
+      "segments": [
+        {
+          "text": "夢じゃないあなたがいるから (ポップ　ステップ　ジャンプ　はい！)",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "夢",
+              "reading": "ゆめ"
+            },
+            {
+              "text": "じゃないあなたがいるから (ポップ　ステップ　ジャンプ　はい！)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -89,6 +322,25 @@
       "end": 51.651332,
       "japanese": "未来でも",
       "zh-CN": "无论是未来",
+      "segments": [
+        {
+          "text": "未来でも",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "未来",
+              "reading": "みらい"
+            },
+            {
+              "text": "でも"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -97,6 +349,25 @@
       "end": 52.844487,
       "japanese": "世界でも",
       "zh-CN": "还是世界",
+      "segments": [
+        {
+          "text": "世界でも",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "世界",
+              "reading": "せかい"
+            },
+            {
+              "text": "でも"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -105,6 +376,39 @@
       "end": 57.124455,
       "japanese": "未知に満ち足りなくなっても",
       "zh-CN": "纵使充满未知再也无法满足",
+      "segments": [
+        {
+          "text": "未知に満ち足りなくなっても",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "未知",
+              "reading": "みち"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "満",
+              "reading": "み"
+            },
+            {
+              "text": "ち"
+            },
+            {
+              "text": "足",
+              "reading": "た"
+            },
+            {
+              "text": "りなくなっても"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -113,6 +417,19 @@
       "end": 59.324897,
       "japanese": "そんなの飛び越えて！",
       "zh-CN": "也要统统飞跃跨过！",
+      "segments": [
+        {
+          "text": "そんなの飛び越えて！",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -121,6 +438,31 @@
       "end": 62.490654,
       "japanese": "だからもっと (もっと！) 近づきたいから",
       "zh-CN": "所以因为想要更加 (更加！) 靠近你",
+      "segments": [
+        {
+          "text": "だからもっと (もっと！) 近づきたいから",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-21",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "だからもっと (もっと！) "
+            },
+            {
+              "text": "近",
+              "reading": "ちか"
+            },
+            {
+              "text": "づきたいから"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -129,6 +471,31 @@
       "end": 64.667113,
       "japanese": "もっと (もっと！) 声きかせて",
       "zh-CN": "请让我听见 (更加！) 更多的声音",
+      "segments": [
+        {
+          "text": "もっと (もっと！) 声きかせて",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-21",
+            "歌唱者-05",
+            "歌唱者-07",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "もっと (もっと！) "
+            },
+            {
+              "text": "声",
+              "reading": "こえ"
+            },
+            {
+              "text": "きかせて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -137,6 +504,25 @@
       "end": 67.214309,
       "japanese": "今鳴ったハートのビートが",
       "zh-CN": "此刻鸣响的心脏节拍",
+      "segments": [
+        {
+          "text": "今鳴ったハートのビートが",
+          "performerIds": [
+            "歌唱者-21",
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "今鳴",
+              "reading": "いまな"
+            },
+            {
+              "text": "ったハートのビートが"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -145,6 +531,19 @@
       "end": 69.667571,
       "japanese": "とめられない！とめたくない！ (ない！ない！)",
       "zh-CN": "无法停歇！也不想停下！ (不要！不要！)",
+      "segments": [
+        {
+          "text": "とめられない！とめたくない！ (ない！ない！)",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-08",
+            "歌唱者-21"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -153,6 +552,19 @@
       "end": 71.961946,
       "japanese": "もっと (もっと！) アイをしたいから",
       "zh-CN": "因为想要更加 (更加！) 尽情传递爱",
+      "segments": [
+        {
+          "text": "もっと (もっと！) アイをしたいから",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-21",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -161,6 +573,31 @@
       "end": 74.192366,
       "japanese": "もっと (もっと！) 愛をちょーだい",
       "zh-CN": "请给予我 (更加！) 更多的爱意",
+      "segments": [
+        {
+          "text": "もっと (もっと！) 愛をちょーだい",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-21",
+            "歌唱者-05",
+            "歌唱者-07",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "もっと (もっと！) "
+            },
+            {
+              "text": "愛",
+              "reading": "あい"
+            },
+            {
+              "text": "をちょーだい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -169,6 +606,16 @@
       "end": 79.157849,
       "japanese": "その手掴んだらはなさないから",
       "zh-CN": "一旦抓住那双手就绝不会放开",
+      "segments": [
+        {
+          "text": "その手掴んだらはなさないから",
+          "performerIds": [
+            "歌唱者-21",
+            "歌唱者-07"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -177,6 +624,31 @@
       "end": 81.310325,
       "japanese": "(モア＆モア！) 声をもっと！",
       "zh-CN": "(更多 更多！) 喊出更多声音！",
+      "segments": [
+        {
+          "text": "(モア＆モア！) 声をもっと！",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "(モア＆モア！) "
+            },
+            {
+              "text": "声",
+              "reading": "こえ"
+            },
+            {
+              "text": "をもっと！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -185,6 +657,38 @@
       "end": 83.715621,
       "japanese": "(ジャンプ＆ジャンプ) 高く高く！",
       "zh-CN": "(跳跃 跳跃) 跳得更高更高！",
+      "segments": [
+        {
+          "text": "(ジャンプ＆ジャンプ) 高く高く！",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "(ジャンプ＆ジャンプ) "
+            },
+            {
+              "text": "高",
+              "reading": "たか"
+            },
+            {
+              "text": "く"
+            },
+            {
+              "text": "高",
+              "reading": "たか"
+            },
+            {
+              "text": "く！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -193,6 +697,31 @@
       "end": 86.030981,
       "japanese": "(モア＆モア！) 愛をもっと！",
       "zh-CN": "(更多 更多！) 给予更多爱意！",
+      "segments": [
+        {
+          "text": "(モア＆モア！) 愛をもっと！",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "(モア＆モア！) "
+            },
+            {
+              "text": "愛",
+              "reading": "あい"
+            },
+            {
+              "text": "をもっと！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -201,6 +730,19 @@
       "end": 88.939921,
       "japanese": "(ジャンプ＆ジャンプ) こんなもんじゃないぞ！",
       "zh-CN": "(跳跃 跳跃) 远不止这种程度哦！",
+      "segments": [
+        {
+          "text": "(ジャンプ＆ジャンプ) こんなもんじゃないぞ！",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -209,6 +751,19 @@
       "end": 91.272269,
       "japanese": "(ジャンプ！ジャンプ！モアモアジャンプ！)",
       "zh-CN": "(Jump! Jump! MORE MORE JUMP!)",
+      "segments": [
+        {
+          "text": "(ジャンプ！ジャンプ！モアモアジャンプ！)",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -217,6 +772,19 @@
       "end": 93.469712,
       "japanese": "(ジャンプ！ジャンプ！モアモアジャンプ！)",
       "zh-CN": "(Jump! Jump! MORE MORE JUMP!)",
+      "segments": [
+        {
+          "text": "(ジャンプ！ジャンプ！モアモアジャンプ！)",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -225,6 +793,19 @@
       "end": 95.787071,
       "japanese": "(ジャンプ！ジャンプ！モアモアジャンプ！)",
       "zh-CN": "(Jump! Jump! MORE MORE JUMP!)",
+      "segments": [
+        {
+          "text": "(ジャンプ！ジャンプ！モアモアジャンプ！)",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -233,6 +814,19 @@
       "end": 98.155394,
       "japanese": "(ジャンプ！ジャンプ！モアモアジャンプ！)",
       "zh-CN": "(Jump! Jump! MORE MORE JUMP!)",
+      "segments": [
+        {
+          "text": "(ジャンプ！ジャンプ！モアモアジャンプ！)",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -241,6 +835,17 @@
       "end": 102.514363,
       "japanese": "今はちょっと思いのカケラ",
       "zh-CN": "虽然此刻心愿的碎片",
+      "segments": [
+        {
+          "text": "今はちょっと思いのカケラ",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-21",
+            "歌唱者-06"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -249,6 +854,29 @@
       "end": 104.991609,
       "japanese": "もうちょっと　足りなくても",
       "zh-CN": "稍微 还有那么一点不足",
+      "segments": [
+        {
+          "text": "もうちょっと　足りなくても",
+          "performerIds": [
+            "歌唱者-08",
+            "歌唱者-21",
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "もうちょっと　"
+            },
+            {
+              "text": "足",
+              "reading": "た"
+            },
+            {
+              "text": "りなくても"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -257,6 +885,31 @@
       "end": 107.351937,
       "japanese": "進みだした夢は",
       "zh-CN": "但已经启程迈进的梦想",
+      "segments": [
+        {
+          "text": "進みだした夢は",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "進",
+              "reading": "すす"
+            },
+            {
+              "text": "みだした"
+            },
+            {
+              "text": "夢",
+              "reading": "ゆめ"
+            },
+            {
+              "text": "は"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -265,6 +918,15 @@
       "end": 109.441457,
       "japanese": "あきらめない！やめたくない！",
       "zh-CN": "绝不放弃！不想就此止步！",
+      "segments": [
+        {
+          "text": "あきらめない！やめたくない！",
+          "performerIds": [
+            "歌唱者-07"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -273,6 +935,31 @@
       "end": 112.335407,
       "japanese": "あのねもっと (もっと！) 愛してくれるなら",
       "zh-CN": "那个呢 如果你愿意更加 (更加！) 给予我爱意",
+      "segments": [
+        {
+          "text": "あのねもっと (もっと！) 愛してくれるなら",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-21",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "あのねもっと (もっと！) "
+            },
+            {
+              "text": "愛",
+              "reading": "あい"
+            },
+            {
+              "text": "してくれるなら"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -281,6 +968,19 @@
       "end": 114.500874,
       "japanese": "もっと (もっと！) アイをあげる",
       "zh-CN": "我也会给予你 (更加！) 更多的爱",
+      "segments": [
+        {
+          "text": "もっと (もっと！) アイをあげる",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-21",
+            "歌唱者-05",
+            "歌唱者-07",
+            "歌唱者-08"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -289,6 +989,15 @@
       "end": 119.460361,
       "japanese": "あなたのハートをずっとはなさないから",
       "zh-CN": "永远都不会放开你的心",
+      "segments": [
+        {
+          "text": "あなたのハートをずっとはなさないから",
+          "performerIds": [
+            "歌唱者-07"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -297,6 +1006,31 @@
       "end": 121.504,
       "japanese": "(モア＆モア！) 声をもっと！",
       "zh-CN": "(更多 更多！) 喊出更多声音！",
+      "segments": [
+        {
+          "text": "(モア＆モア！) 声をもっと！",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "(モア＆モア！) "
+            },
+            {
+              "text": "声",
+              "reading": "こえ"
+            },
+            {
+              "text": "をもっと！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -305,6 +1039,38 @@
       "end": 124.07138,
       "japanese": "(ジャンプ＆ジャンプ) 高く高く！",
       "zh-CN": "(跳跃 跳跃) 跳得更高更高！",
+      "segments": [
+        {
+          "text": "(ジャンプ＆ジャンプ) 高く高く！",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "(ジャンプ＆ジャンプ) "
+            },
+            {
+              "text": "高",
+              "reading": "たか"
+            },
+            {
+              "text": "く"
+            },
+            {
+              "text": "高",
+              "reading": "たか"
+            },
+            {
+              "text": "く！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -313,6 +1079,31 @@
       "end": 126.418718,
       "japanese": "(モア＆モア！) 愛をもっと！",
       "zh-CN": "(更多 更多！) 给予更多爱意！",
+      "segments": [
+        {
+          "text": "(モア＆モア！) 愛をもっと！",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "(モア＆モア！) "
+            },
+            {
+              "text": "愛",
+              "reading": "あい"
+            },
+            {
+              "text": "をもっと！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -321,6 +1112,19 @@
       "end": 130.790621,
       "japanese": "(ジャンプ＆ジャンプ) こんなもんじゃないぞ！",
       "zh-CN": "(跳跃 跳跃) 远不止这种程度哦！",
+      "segments": [
+        {
+          "text": "(ジャンプ＆ジャンプ) こんなもんじゃないぞ！",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     }
   ]

@@ -1,7 +1,28 @@
 {
   "music_id": 244,
   "time_origin": "selected_game_recording_start_including_pre_roll",
-  "performers": [],
+  "performers": [
+    {
+      "performerId": "歌唱者-10",
+      "name": "白石杏"
+    },
+    {
+      "performerId": "歌唱者-21",
+      "name": "初音ミク"
+    },
+    {
+      "performerId": "歌唱者-09",
+      "name": "小豆沢こはね"
+    },
+    {
+      "performerId": "歌唱者-11",
+      "name": "東雲彰人"
+    },
+    {
+      "performerId": "歌唱者-12",
+      "name": "青柳冬弥"
+    }
+  ],
   "lines": [
     {
       "index": 0,
@@ -9,6 +30,15 @@
       "end": 18.91,
       "japanese": "Lazy Rainy My Soulは",
       "zh-CN": "Lazy Rainy My Soul",
+      "segments": [
+        {
+          "text": "Lazy Rainy My Soulは",
+          "performerIds": [
+            "歌唱者-11"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -17,6 +47,27 @@
       "end": 20.542,
       "japanese": "ご機嫌ななめ",
       "zh-CN": "情绪相当糟糕低落",
+      "segments": [
+        {
+          "text": "ご機嫌ななめ",
+          "performerIds": [
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "ご"
+            },
+            {
+              "text": "機嫌",
+              "reading": "きげん"
+            },
+            {
+              "text": "ななめ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -25,6 +76,24 @@
       "end": 22.522,
       "japanese": "初めてのLament",
       "zh-CN": "初次的哀歌悲叹 Lament",
+      "segments": [
+        {
+          "text": "初めてのLament",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "初",
+              "reading": "はじ"
+            },
+            {
+              "text": "めてのLament"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -33,6 +102,27 @@
       "end": 24.501,
       "japanese": "(初めてのLament)",
       "zh-CN": "(初次的哀歌悲叹 Lament)",
+      "segments": [
+        {
+          "text": "(初めてのLament)",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "("
+            },
+            {
+              "text": "初",
+              "reading": "はじ"
+            },
+            {
+              "text": "めてのLament)"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -41,6 +131,24 @@
       "end": 27.143,
       "japanese": "関係整理整頓が",
       "zh-CN": "关系梳理整顿",
+      "segments": [
+        {
+          "text": "関係整理整頓が",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "関係整理整頓",
+              "reading": "かんけいせいりせいとん"
+            },
+            {
+              "text": "が"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -49,6 +157,28 @@
       "end": 28.676,
       "japanese": "道で交錯",
       "zh-CN": "在道路中交错纠缠",
+      "segments": [
+        {
+          "text": "道で交錯",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "道",
+              "reading": "みち"
+            },
+            {
+              "text": "で"
+            },
+            {
+              "text": "交錯",
+              "reading": "こうさく"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -57,6 +187,15 @@
       "end": 30.74,
       "japanese": "Rhythmばかりが",
       "zh-CN": "唯独节拍律动 Rhythm",
+      "segments": [
+        {
+          "text": "Rhythmばかりが",
+          "performerIds": [
+            "歌唱者-09"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -65,6 +204,24 @@
       "end": 33.501,
       "japanese": "先走るの",
       "zh-CN": "抢先飞奔而出",
+      "segments": [
+        {
+          "text": "先走るの",
+          "performerIds": [
+            "歌唱者-09"
+          ],
+          "ruby": [
+            {
+              "text": "先走",
+              "reading": "さきばし"
+            },
+            {
+              "text": "るの"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -73,6 +230,24 @@
       "end": 36.799,
       "japanese": "情熱のままTry",
       "zh-CN": "顺从热情放手尝试 Try",
+      "segments": [
+        {
+          "text": "情熱のままTry",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "情熱",
+              "reading": "じょうねつ"
+            },
+            {
+              "text": "のままTry"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -81,6 +256,39 @@
       "end": 39.777,
       "japanese": "君が悪い訳じゃない",
       "zh-CN": "并不是你的过错",
+      "segments": [
+        {
+          "text": "君が悪い訳じゃない",
+          "performerIds": [
+            "歌唱者-21",
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "悪",
+              "reading": "わる"
+            },
+            {
+              "text": "い"
+            },
+            {
+              "text": "訳",
+              "reading": "わけ"
+            },
+            {
+              "text": "じゃない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -89,6 +297,28 @@
       "end": 43.142,
       "japanese": "Trip Step重ねたいよ",
       "zh-CN": "好想重叠交错 Trip Step 舞步",
+      "segments": [
+        {
+          "text": "Trip Step重ねたいよ",
+          "performerIds": [
+            "歌唱者-21",
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "Trip Step"
+            },
+            {
+              "text": "重",
+              "reading": "かさ"
+            },
+            {
+              "text": "ねたいよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -97,6 +327,27 @@
       "end": 45.225,
       "japanese": "いつまでも夜を",
       "zh-CN": "只要能够无论何时",
+      "segments": [
+        {
+          "text": "いつまでも夜を",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "いつまでも"
+            },
+            {
+              "text": "夜",
+              "reading": "よる"
+            },
+            {
+              "text": "を"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -105,6 +356,31 @@
       "end": 49.314,
       "japanese": "共に明せるなら",
       "zh-CN": "都能与你一同迎接天明的话",
+      "segments": [
+        {
+          "text": "共に明せるなら",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "共",
+              "reading": "とも"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "明",
+              "reading": "あか"
+            },
+            {
+              "text": "せるなら"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -113,6 +389,40 @@
       "end": 51.564,
       "japanese": "空へと羽を広げた",
       "zh-CN": "向着苍穹展开双翼",
+      "segments": [
+        {
+          "text": "空へと羽を広げた",
+          "performerIds": [
+            "歌唱者-21",
+            "歌唱者-09",
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "空",
+              "reading": "そら"
+            },
+            {
+              "text": "へと"
+            },
+            {
+              "text": "羽",
+              "reading": "はね"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "広",
+              "reading": "ひろ"
+            },
+            {
+              "text": "げた"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -121,6 +431,33 @@
       "end": 53.324,
       "japanese": "音を愛して",
       "zh-CN": "深爱着这道乐声",
+      "segments": [
+        {
+          "text": "音を愛して",
+          "performerIds": [
+            "歌唱者-21",
+            "歌唱者-09",
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "音",
+              "reading": "おと"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "愛",
+              "reading": "あい"
+            },
+            {
+              "text": "して"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -129,6 +466,46 @@
       "end": 57.397,
       "japanese": "夢の花が溢れ出す",
       "zh-CN": "梦想之花满溢迸发",
+      "segments": [
+        {
+          "text": "夢の花が溢れ出す",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "夢",
+              "reading": "ゆめ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "花",
+              "reading": "はな"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "溢",
+              "reading": "あふ"
+            },
+            {
+              "text": "れ"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "す"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -137,6 +514,33 @@
       "end": 59.949,
       "japanese": "気高く綺麗に",
       "zh-CN": "我定会让你高洁美丽地",
+      "segments": [
+        {
+          "text": "気高く綺麗に",
+          "performerIds": [
+            "歌唱者-21",
+            "歌唱者-10",
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "気高",
+              "reading": "けだか"
+            },
+            {
+              "text": "く"
+            },
+            {
+              "text": "綺麗",
+              "reading": "きれい"
+            },
+            {
+              "text": "に"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -145,6 +549,26 @@
       "end": 61.693,
       "japanese": "咲かせるからさ",
       "zh-CN": "盛开绽放啊",
+      "segments": [
+        {
+          "text": "咲かせるからさ",
+          "performerIds": [
+            "歌唱者-21",
+            "歌唱者-10",
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "咲",
+              "reading": "さ"
+            },
+            {
+              "text": "かせるからさ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -153,6 +577,32 @@
       "end": 66.424,
       "japanese": "傍にいると忘れないでね",
       "zh-CN": "可千万别忘记我始终陪伴在你身旁哦",
+      "segments": [
+        {
+          "text": "傍にいると忘れないでね",
+          "performerIds": [
+            "歌唱者-10",
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "傍",
+              "reading": "そば"
+            },
+            {
+              "text": "にいると"
+            },
+            {
+              "text": "忘",
+              "reading": "わす"
+            },
+            {
+              "text": "れないでね"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -161,6 +611,42 @@
       "end": 80.326,
       "japanese": "ただ素直に 椅子を近付けて",
       "zh-CN": "只是坦率自然地 将椅子拉近身旁",
+      "segments": [
+        {
+          "text": "ただ素直に 椅子を近付けて",
+          "performerIds": [
+            "歌唱者-21",
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "ただ"
+            },
+            {
+              "text": "素直",
+              "reading": "すなお"
+            },
+            {
+              "text": "に "
+            },
+            {
+              "text": "椅子",
+              "reading": "いす"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "近付",
+              "reading": "ちかず"
+            },
+            {
+              "text": "けて"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -169,6 +655,45 @@
       "end": 84.914,
       "japanese": "指を結びたいと踏み出した",
       "zh-CN": "迈开步伐想要十指紧扣相握",
+      "segments": [
+        {
+          "text": "指を結びたいと踏み出した",
+          "performerIds": [
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "指",
+              "reading": "ゆび"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "結",
+              "reading": "むす"
+            },
+            {
+              "text": "びたいと"
+            },
+            {
+              "text": "踏",
+              "reading": "ふ"
+            },
+            {
+              "text": "み"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "した"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -177,6 +702,46 @@
       "end": 92.413,
       "japanese": "歩幅の差を気にも留めないまま",
       "zh-CN": "对彼此步伐间距的差距全然不顾",
+      "segments": [
+        {
+          "text": "歩幅の差を気にも留めないまま",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "歩幅",
+              "reading": "ほはば"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "差",
+              "reading": "さ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "気",
+              "reading": "き"
+            },
+            {
+              "text": "にも"
+            },
+            {
+              "text": "留",
+              "reading": "ともで"
+            },
+            {
+              "text": "めないまま"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -185,6 +750,31 @@
       "end": 94.572,
       "japanese": "歌っても良いかい?",
       "zh-CN": "可以为你放声歌唱吗？",
+      "segments": [
+        {
+          "text": "歌っても良いかい?",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "歌",
+              "reading": "うた"
+            },
+            {
+              "text": "っても"
+            },
+            {
+              "text": "良",
+              "reading": "い"
+            },
+            {
+              "text": "いかい?"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -193,6 +783,40 @@
       "end": 96.845,
       "japanese": "空へと羽を広げた",
       "zh-CN": "向着苍穹展开双翼",
+      "segments": [
+        {
+          "text": "空へと羽を広げた",
+          "performerIds": [
+            "歌唱者-21",
+            "歌唱者-09",
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "空",
+              "reading": "そら"
+            },
+            {
+              "text": "へと"
+            },
+            {
+              "text": "羽",
+              "reading": "はね"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "広",
+              "reading": "ひろ"
+            },
+            {
+              "text": "げた"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -201,6 +825,33 @@
       "end": 98.502,
       "japanese": "音を愛して",
       "zh-CN": "深爱着这道乐声",
+      "segments": [
+        {
+          "text": "音を愛して",
+          "performerIds": [
+            "歌唱者-21",
+            "歌唱者-09",
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "音",
+              "reading": "おと"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "愛",
+              "reading": "あい"
+            },
+            {
+              "text": "して"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -209,6 +860,46 @@
       "end": 102.719,
       "japanese": "夢の花が溢れ出す",
       "zh-CN": "梦想之花满溢迸发",
+      "segments": [
+        {
+          "text": "夢の花が溢れ出す",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "夢",
+              "reading": "ゆめ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "花",
+              "reading": "はな"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "溢",
+              "reading": "あふ"
+            },
+            {
+              "text": "れ"
+            },
+            {
+              "text": "出",
+              "reading": "だ"
+            },
+            {
+              "text": "す"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -217,6 +908,32 @@
       "end": 105.023,
       "japanese": "気高く綺麗に",
       "zh-CN": "我定会让你高洁美丽地",
+      "segments": [
+        {
+          "text": "気高く綺麗に",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "気高",
+              "reading": "けだか"
+            },
+            {
+              "text": "く"
+            },
+            {
+              "text": "綺麗",
+              "reading": "きれい"
+            },
+            {
+              "text": "に"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -225,6 +942,26 @@
       "end": 106.72,
       "japanese": "咲かせるからさ",
       "zh-CN": "盛开绽放啊",
+      "segments": [
+        {
+          "text": "咲かせるからさ",
+          "performerIds": [
+            "歌唱者-21",
+            "歌唱者-10",
+            "歌唱者-11"
+          ],
+          "ruby": [
+            {
+              "text": "咲",
+              "reading": "さ"
+            },
+            {
+              "text": "かせるからさ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -233,6 +970,32 @@
       "end": 112.25,
       "japanese": "傍にいると忘れないでね",
       "zh-CN": "可千万别忘记我始终陪伴在你身旁哦",
+      "segments": [
+        {
+          "text": "傍にいると忘れないでね",
+          "performerIds": [
+            "歌唱者-10",
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "傍",
+              "reading": "そば"
+            },
+            {
+              "text": "にいると"
+            },
+            {
+              "text": "忘",
+              "reading": "わす"
+            },
+            {
+              "text": "れないでね"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -241,6 +1004,33 @@
       "end": 119.078,
       "japanese": "背中合わせが崩れても",
       "zh-CN": "纵使背靠背的默契逐渐瓦解崩溃",
+      "segments": [
+        {
+          "text": "背中合わせが崩れても",
+          "performerIds": [
+            "歌唱者-21",
+            "歌唱者-10",
+            "歌唱者-12"
+          ],
+          "ruby": [
+            {
+              "text": "背中合",
+              "reading": "せなかあ"
+            },
+            {
+              "text": "わせが"
+            },
+            {
+              "text": "崩",
+              "reading": "くず"
+            },
+            {
+              "text": "れても"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -249,6 +1039,19 @@
       "end": 119.96,
       "japanese": "Awake Now",
       "zh-CN": "Awake Now",
+      "segments": [
+        {
+          "text": "Awake Now",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-10",
+            "歌唱者-11",
+            "歌唱者-12",
+            "歌唱者-21"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -257,6 +1060,31 @@
       "end": 128.445,
       "japanese": "憧れでは終わらない",
       "zh-CN": "绝不会仅止步于憧憬",
+      "segments": [
+        {
+          "text": "憧れでは終わらない",
+          "performerIds": [
+            "歌唱者-10"
+          ],
+          "ruby": [
+            {
+              "text": "憧",
+              "reading": "あこが"
+            },
+            {
+              "text": "れでは"
+            },
+            {
+              "text": "終",
+              "reading": "お"
+            },
+            {
+              "text": "わらない"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     }
   ]

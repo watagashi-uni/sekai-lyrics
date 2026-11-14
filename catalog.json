@@ -325,14 +325,14 @@
       "title": "アスノヨゾラ哨戒班",
       "publishedAt": 1601532000000,
       "directory": "lyrics/0018",
-      "format": "lrc",
+      "format": "bilingual_json",
       "duration": 136.98725,
       "vocalId": 20,
       "assetbundle": null,
       "hasWordTiming": true,
-      "wordTimedLines": 36,
-      "wordUnits": 307,
-      "performerTagged": false,
+      "wordTimedLines": 32,
+      "wordUnits": 306,
+      "performerTagged": true,
       "credits": {
         "translation": "雪莹ちゃん"
       },
@@ -343,8 +343,8 @@
           "https://creativecommons.org/licenses/by-sa/4.0/"
         ]
       ],
-      "sekaipediaRomajiLines": 26,
-      "generatedRomajiLines": 10
+      "sekaipediaRomajiLines": 32,
+      "generatedRomajiLines": 0
     },
     {
       "musicId": 19,
@@ -449,7 +449,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 23,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 28,
+          "assetbundle": "0026_02",
+          "duration": 106.001995,
+          "source": "B",
+          "singerRows": 29
+        }
+      ]
     },
     {
       "musicId": 27,
@@ -1842,7 +1851,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 20,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 121,
+          "assetbundle": "se_0093_01",
+          "duration": 130.275193,
+          "source": "B",
+          "singerRows": 20
+        }
+      ]
     },
     {
       "musicId": 94,
@@ -1987,14 +2005,14 @@
       "title": "モア！ジャンプ！モア！",
       "publishedAt": 1605765600000,
       "directory": "lyrics/0099",
-      "format": "lrc",
-      "duration": 132.5725,
-      "vocalId": 1374,
+      "format": "bilingual_json",
+      "duration": 132.564354,
+      "vocalId": 147,
       "assetbundle": null,
       "hasWordTiming": true,
-      "wordTimedLines": 60,
-      "wordUnits": 520,
-      "performerTagged": false,
+      "wordTimedLines": 40,
+      "wordUnits": 518,
+      "performerTagged": true,
       "credits": {
         "translation": "雪莹ちゃん"
       },
@@ -2005,8 +2023,8 @@
           "https://creativecommons.org/licenses/by-sa/4.0/"
         ]
       ],
-      "sekaipediaRomajiLines": 16,
-      "generatedRomajiLines": 44
+      "sekaipediaRomajiLines": 40,
+      "generatedRomajiLines": 0
     },
     {
       "musicId": 100,
@@ -4074,6 +4092,13 @@
       "generatedRomajiLines": 0,
       "versions": [
         {
+          "vocalId": 554,
+          "assetbundle": "se_0174_01",
+          "duration": 133.96551,
+          "source": "B",
+          "singerRows": 29
+        },
+        {
           "vocalId": 1596,
           "assetbundle": "af_0174_01",
           "duration": 132.468375,
@@ -4715,7 +4740,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 33,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 460,
+          "assetbundle": "se_0198_01",
+          "duration": 135.705873,
+          "source": "B",
+          "singerRows": 33
+        }
+      ]
     },
     {
       "musicId": 199,
@@ -5967,14 +6001,14 @@
       "title": "Awake Now",
       "publishedAt": 1653976800000,
       "directory": "lyrics/0244",
-      "format": "lrc",
-      "duration": 130.561,
-      "vocalId": 613,
+      "format": "bilingual_json",
+      "duration": 130.538458,
+      "vocalId": 628,
       "assetbundle": null,
       "hasWordTiming": true,
-      "wordTimedLines": 24,
-      "wordUnits": 235,
-      "performerTagged": false,
+      "wordTimedLines": 32,
+      "wordUnits": 234,
+      "performerTagged": true,
       "credits": {
         "translation": "雪莹ちゃん"
       },
@@ -5985,8 +6019,8 @@
           "https://creativecommons.org/licenses/by-sa/4.0/"
         ]
       ],
-      "sekaipediaRomajiLines": 10,
-      "generatedRomajiLines": 14
+      "sekaipediaRomajiLines": 29,
+      "generatedRomajiLines": 2
     },
     {
       "musicId": 245,
@@ -10373,7 +10407,16 @@
       },
       "sources": [],
       "sekaipediaRomajiLines": 16,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 1428,
+          "assetbundle": "se_0409_01",
+          "duration": 127.604649,
+          "source": "B",
+          "singerRows": 16
+        }
+      ]
     },
     {
       "musicId": 410,
@@ -14411,7 +14454,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 20,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 1568,
+          "assetbundle": "se_0574_01",
+          "duration": 105.21,
+          "source": "B",
+          "singerRows": 20
+        }
+      ]
     },
     {
       "musicId": 575,
@@ -14679,18 +14731,18 @@
       "title": "ペンタトニック",
       "publishedAt": 1759158000000,
       "directory": "lyrics/0585",
-      "format": "lrc",
+      "format": "bilingual_json",
       "duration": 114.95125,
       "vocalId": 1686,
       "assetbundle": null,
       "hasWordTiming": true,
-      "wordTimedLines": 33,
-      "wordUnits": 303,
-      "performerTagged": false,
+      "wordTimedLines": 26,
+      "wordUnits": 301,
+      "performerTagged": true,
       "credits": {},
       "sources": [],
-      "sekaipediaRomajiLines": 20,
-      "generatedRomajiLines": 12
+      "sekaipediaRomajiLines": 26,
+      "generatedRomajiLines": 0
     },
     {
       "musicId": 586,
@@ -15551,7 +15603,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 36,
-      "generatedRomajiLines": 4
+      "generatedRomajiLines": 4,
+      "versions": [
+        {
+          "vocalId": 1617,
+          "assetbundle": "se_0623_01",
+          "duration": 122.45,
+          "source": "B",
+          "singerRows": 41
+        }
+      ]
     },
     {
       "musicId": 624,
@@ -17689,14 +17750,14 @@
       "title": "魔法少女幸福論",
       "publishedAt": 1777701600000,
       "directory": "lyrics/0715",
-      "format": "lrc",
-      "duration": 142.00275,
-      "vocalId": 1272,
+      "format": "bilingual_json",
+      "duration": 142.0,
+      "vocalId": 1800,
       "assetbundle": null,
       "hasWordTiming": true,
       "wordTimedLines": 31,
       "wordUnits": 391,
-      "performerTagged": false,
+      "performerTagged": true,
       "credits": {
         "translation": "雪莹ちゃん"
       },
@@ -17707,8 +17768,8 @@
           "https://creativecommons.org/licenses/by-sa/4.0/"
         ]
       ],
-      "sekaipediaRomajiLines": 25,
-      "generatedRomajiLines": 6
+      "sekaipediaRomajiLines": 29,
+      "generatedRomajiLines": 2
     },
     {
       "musicId": 716,
@@ -17889,14 +17950,14 @@
       "title": "ラヴィ",
       "publishedAt": 1773554400000,
       "directory": "lyrics/0723",
-      "format": "lrc",
-      "duration": 141.1135,
-      "vocalId": 1280,
+      "format": "bilingual_json",
+      "duration": 141.08424,
+      "vocalId": 1775,
       "assetbundle": null,
       "hasWordTiming": true,
       "wordTimedLines": 54,
       "wordUnits": 469,
-      "performerTagged": false,
+      "performerTagged": true,
       "credits": {},
       "sources": [],
       "sekaipediaRomajiLines": 54,
@@ -18327,7 +18388,16 @@
       "credits": {},
       "sources": [],
       "sekaipediaRomajiLines": 36,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 1835,
+          "assetbundle": "se_0742_01",
+          "duration": 128.005306,
+          "source": "B",
+          "singerRows": 36
+        }
+      ]
     },
     {
       "musicId": 743,
@@ -19104,14 +19174,14 @@
       "title": "バカ通信",
       "publishedAt": 1792389600000,
       "directory": "lyrics/0793",
-      "format": "lrc",
-      "duration": 126.982375,
-      "vocalId": 1350,
+      "format": "bilingual_json",
+      "duration": 126.978844,
+      "vocalId": 2098,
       "assetbundle": null,
       "hasWordTiming": true,
-      "wordTimedLines": 50,
-      "wordUnits": 459,
-      "performerTagged": false,
+      "wordTimedLines": 34,
+      "wordUnits": 456,
+      "performerTagged": true,
       "credits": {
         "translation": "雪莹ちゃん"
       },
@@ -19122,8 +19192,8 @@
           "https://creativecommons.org/licenses/by-sa/4.0/"
         ]
       ],
-      "sekaipediaRomajiLines": 20,
-      "generatedRomajiLines": 30
+      "sekaipediaRomajiLines": 34,
+      "generatedRomajiLines": 0
     },
     {
       "musicId": 794,
@@ -19545,17 +19615,17 @@
     }
   ],
   "mergeStatistics": {
-    "sekaipediaRomajiLines": 17675,
-    "generatedRomajiLines": 3120,
-    "additionalVersions": 141,
-    "versionedSongs": 108,
+    "sekaipediaRomajiLines": 17748,
+    "generatedRomajiLines": 3008,
+    "additionalVersions": 149,
+    "versionedSongs": 115,
     "versionSources": {
       "A": 88,
-      "B": 3,
+      "B": 11,
       "C": 48,
       "D": 2
     },
     "reviewedRomajiLines": 47,
-    "totalPlaybackVersions": 863
+    "totalPlaybackVersions": 871
   }
 }
