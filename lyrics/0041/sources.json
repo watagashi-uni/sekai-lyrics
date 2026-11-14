@@ -33,6 +33,75 @@
       "url": "https://y.qq.com/n/ryqq/songDetail/004e7T2i1h4i1r",
       "license": null,
       "note": null
+    },
+    {
+      "usage": "罗马音",
+      "provider": "Sekaipedia",
+      "url": "https://www.sekaipedia.org/wiki/Sweet_Magic",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "via": "https://github.com/shinonomeenana/sekai_lyrics",
+      "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
+      "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "附加演唱版本",
+      "provider": "historical alignment",
+      "url": null,
+      "license": null,
+      "vocalId": 112,
+      "source": "A",
+      "jobId": "0041-112-vocaloid",
+      "timingSource": "Independent vocal separation, Whisper ASR anchors and wav2vec2 CTC. No NetEase timestamps were available.",
+      "performerSource": "vocaloid",
+      "provenance": [
+        {
+          "component": "renditions/vocaloid/game_text",
+          "provider": "sekaipedia",
+          "title": "Sweet Magic",
+          "revisionId": 328753,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Sweet_Magic?oldid=328753",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/game_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Sweet Magic",
+          "revisionId": 328753,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Sweet_Magic?oldid=328753",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/game_ruby",
+          "provider": "sekaipedia",
+          "title": "Sweet Magic",
+          "revisionId": 328753,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Sweet_Magic?oldid=328753",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/relation",
+          "provider": "sekaipedia",
+          "title": "Sweet Magic",
+          "revisionId": 328753,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Sweet_Magic?oldid=328753",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/version",
+          "provider": "sekaipedia",
+          "title": "Sweet Magic",
+          "revisionId": 328753,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Sweet_Magic?oldid=328753",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "note": "Snapshot 20261110-all-v2; only recorded aligned lines; no cross-version word transfer; shared intervals retained."
     }
   ]
 }

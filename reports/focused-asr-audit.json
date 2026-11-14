@@ -1,0 +1,49 @@
+[
+  {
+    "musicId": 54,
+    "model": "faster-whisper small int8",
+    "matchedOutlierPhrases": [],
+    "conclusion": "review verdict retained; no automatic timing replacement. ASR contains lyric recognition errors and does not independently certify vocal boundaries."
+  },
+  {
+    "musicId": 731,
+    "model": "faster-whisper small int8",
+    "matchedOutlierPhrases": [
+      {
+        "line": 0,
+        "text": "あんたは食ってる",
+        "defaultStart": 21.8665,
+        "upstreamStart": 22.23,
+        "asrStart": 21.78,
+        "meanWordProbability": 0.7728,
+        "note": "Exact unique phrase at observed word boundaries; ASR timing is supporting evidence only, not listening verification."
+      },
+      {
+        "line": 1,
+        "text": "昨日のハンバーガーを",
+        "defaultStart": 21.8665,
+        "upstreamStart": 23.47,
+        "asrStart": 23.32,
+        "meanWordProbability": 0.8573,
+        "note": "Exact unique phrase at observed word boundaries; ASR timing is supporting evidence only, not listening verification."
+      }
+    ],
+    "conclusion": "review verdict retained; no automatic timing replacement. ASR contains lyric recognition errors and does not independently certify vocal boundaries."
+  },
+  {
+    "musicId": 766,
+    "model": "faster-whisper small int8",
+    "matchedOutlierPhrases": [
+      {
+        "line": 22,
+        "text": "狂え、狂え、狂え、狂え、狂え、狂え、狂え、踊れ。",
+        "defaultStart": 90.2845,
+        "upstreamStart": 89.6898,
+        "asrStart": 91.82,
+        "meanWordProbability": 0.9374,
+        "note": "Exact unique phrase at observed word boundaries; ASR timing is supporting evidence only, not listening verification."
+      }
+    ],
+    "conclusion": "review verdict retained; no automatic timing replacement. ASR contains lyric recognition errors and does not independently certify vocal boundaries."
+  }
+]

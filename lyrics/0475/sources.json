@@ -41,6 +41,181 @@
       "url": null,
       "license": null,
       "note": "已保存来源标签，未记录可直接引用的链接"
+    },
+    {
+      "usage": "罗马音",
+      "provider": "Sekaipedia",
+      "url": "https://www.sekaipedia.org/wiki/Chigau%21%21%21",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "via": "https://github.com/shinonomeenana/sekai_lyrics",
+      "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
+      "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "逐句结束时间",
+      "provider": "shinonomeenana/sekai_lyrics",
+      "url": "https://github.com/shinonomeenana/sekai_lyrics",
+      "license": null,
+      "vocalId": 1461,
+      "verdict": "ok",
+      "fillerSec": 9.0,
+      "method": "ordered exact normalized text; starts agree within 0.3s; non-clamped; end shortened within existing interval; upstream vocal-silence alignment, no independent acoustic verification",
+      "lines": [
+        {
+          "line": 2,
+          "upstreamLine": 2,
+          "text": "広い世界なのにここで会えた！！！（あァァァァァーッ！！！！！）",
+          "before": [
+            13.92,
+            19.006
+          ],
+          "proposed": [
+            14.121,
+            17.101
+          ],
+          "after": [
+            13.92,
+            17.101
+          ]
+        },
+        {
+          "line": 5,
+          "upstreamLine": 5,
+          "text": "HEY! HEY! HEY! HEY! HEY! HEY! HEY! HEY!",
+          "before": [
+            22.405,
+            24.918
+          ],
+          "proposed": [
+            22.421,
+            24.81
+          ],
+          "after": [
+            22.405,
+            24.81
+          ]
+        },
+        {
+          "line": 6,
+          "upstreamLine": 6,
+          "text": "HEY! HEY! HEY! HEY!",
+          "before": [
+            25.075,
+            26.37
+          ],
+          "proposed": [
+            25.05,
+            26.35
+          ],
+          "after": [
+            25.075,
+            26.35
+          ]
+        },
+        {
+          "line": 9,
+          "upstreamLine": 9,
+          "text": "(yo yo yo yo) 平日ずっとヤなことばっか",
+          "before": [
+            32.701,
+            37.489
+          ],
+          "proposed": [
+            32.74,
+            35.06
+          ],
+          "after": [
+            32.701,
+            35.06
+          ]
+        },
+        {
+          "line": 13,
+          "upstreamLine": 13,
+          "text": "(yo yo yo yo) マジでふっと食らった精神射撃",
+          "before": [
+            42.732,
+            48.059
+          ],
+          "proposed": [
+            42.822,
+            45.482
+          ],
+          "after": [
+            42.732,
+            45.482
+          ]
+        },
+        {
+          "line": 28,
+          "upstreamLine": 26,
+          "text": "キミは！ キミで！ ぼくは！ ぼくで！ だから出会えた！！！",
+          "before": [
+            90.984,
+            93.419
+          ],
+          "proposed": [
+            91.0,
+            93.304
+          ],
+          "after": [
+            90.984,
+            93.304
+          ]
+        },
+        {
+          "line": 29,
+          "upstreamLine": 27,
+          "text": "ちがう同士とどくように歌う （あァァァァァーッ！！！！！）",
+          "before": [
+            93.419,
+            98.615
+          ],
+          "proposed": [
+            93.644,
+            96.724
+          ],
+          "after": [
+            93.419,
+            96.724
+          ]
+        },
+        {
+          "line": 33,
+          "upstreamLine": 30,
+          "text": "キミと！ ぼくら！ ちがう！ ヒトで！ だからシアワセ!!!",
+          "before": [
+            101.664,
+            103.963
+          ],
+          "proposed": [
+            101.63,
+            103.864
+          ],
+          "after": [
+            101.664,
+            103.864
+          ]
+        },
+        {
+          "line": 34,
+          "upstreamLine": 31,
+          "text": "キミのもとへ鳴り響けロッケンロール〜〜〜！！！！！",
+          "before": [
+            104.300549,
+            107.640831
+          ],
+          "proposed": [
+            104.244,
+            107.164
+          ],
+          "after": [
+            104.300549,
+            107.164
+          ]
+        }
+      ]
     }
   ]
 }

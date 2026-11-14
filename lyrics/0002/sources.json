@@ -65,6 +65,274 @@
       "url": null,
       "license": null,
       "note": "已保存来源标签，未记录可直接引用的链接"
+    },
+    {
+      "usage": "罗马音",
+      "provider": "Sekaipedia",
+      "url": "https://www.sekaipedia.org/wiki/Roki",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "via": "https://github.com/shinonomeenana/sekai_lyrics",
+      "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
+      "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "附加演唱版本",
+      "provider": "historical alignment",
+      "url": null,
+      "license": null,
+      "vocalId": 465,
+      "source": "A",
+      "jobId": "0002-465-alternate-another-vocal-len-kaito",
+      "timingSource": "NetEase LRC; source text and timestamps retained in source.lrc",
+      "performerSource": "alternate-another-vocal-len-kaito",
+      "provenance": [
+        {
+          "component": "renditions/alternate-another-vocal-len-kaito/game_text",
+          "provider": "sekaipedia",
+          "title": "Roki",
+          "revisionId": 330574,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Roki?oldid=330574",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/alternate-another-vocal-len-kaito/game_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Roki",
+          "revisionId": 330574,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Roki?oldid=330574",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/alternate-another-vocal-len-kaito/game_ruby",
+          "provider": "sekaipedia",
+          "title": "Roki",
+          "revisionId": 330574,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Roki?oldid=330574",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/alternate-another-vocal-len-kaito/relation",
+          "provider": "sekaipedia",
+          "title": "Roki",
+          "revisionId": 330574,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Roki?oldid=330574",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/alternate-another-vocal-len-kaito/version",
+          "provider": "sekaipedia",
+          "title": "Roki",
+          "revisionId": 330574,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Roki?oldid=330574",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "note": "Snapshot 20261110-all-v2; only recorded aligned lines; no cross-version word transfer; shared intervals retained."
+    },
+    {
+      "usage": "逐句结束时间",
+      "provider": "shinonomeenana/sekai_lyrics",
+      "url": "https://github.com/shinonomeenana/sekai_lyrics",
+      "license": null,
+      "vocalId": 3,
+      "verdict": "ok",
+      "fillerSec": 8.989,
+      "method": "ordered exact normalized text; starts agree within 0.3s; non-clamped; end shortened within existing interval; upstream vocal-silence alignment, no independent acoustic verification",
+      "lines": [
+        {
+          "line": 3,
+          "upstreamLine": 3,
+          "text": "テレキャスター背負ったサブカルボーイがバンド仲間にやっほー",
+          "before": [
+            28.37,
+            31.52
+          ],
+          "proposed": [
+            28.358,
+            31.46
+          ],
+          "after": [
+            28.37,
+            31.46
+          ]
+        },
+        {
+          "line": 4,
+          "upstreamLine": 4,
+          "text": "アルバイトはネクラモード",
+          "before": [
+            31.52,
+            33.11
+          ],
+          "proposed": [
+            31.54,
+            33.02
+          ],
+          "after": [
+            31.52,
+            33.02
+          ]
+        },
+        {
+          "line": 5,
+          "upstreamLine": 5,
+          "text": "対バンにはATフィールド",
+          "before": [
+            33.11,
+            34.69
+          ],
+          "proposed": [
+            33.186,
+            34.6
+          ],
+          "after": [
+            33.11,
+            34.6
+          ]
+        },
+        {
+          "line": 8,
+          "upstreamLine": 8,
+          "text": "なまじっかあるだけ厄介でやんす",
+          "before": [
+            44.5,
+            47.73
+          ],
+          "proposed": [
+            44.548,
+            47.38
+          ],
+          "after": [
+            44.5,
+            47.38
+          ]
+        },
+        {
+          "line": 9,
+          "upstreamLine": 9,
+          "text": "Boys be ambitious…",
+          "before": [
+            47.73,
+            50.81
+          ],
+          "proposed": [
+            47.74,
+            49.08
+          ],
+          "after": [
+            47.73,
+            49.08
+          ]
+        },
+        {
+          "line": 13,
+          "upstreamLine": 13,
+          "text": "信者 信者",
+          "before": [
+            56.5874,
+            63.47928
+          ],
+          "proposed": [
+            56.54,
+            60.2
+          ],
+          "after": [
+            56.5874,
+            60.2
+          ]
+        },
+        {
+          "line": 15,
+          "upstreamLine": 15,
+          "text": "ロキロキのロックンロックンロール",
+          "before": [
+            66.86,
+            69.3
+          ],
+          "proposed": [
+            66.972,
+            69.252
+          ],
+          "after": [
+            66.86,
+            69.252
+          ]
+        },
+        {
+          "line": 16,
+          "upstreamLine": 16,
+          "text": "かき鳴らすエレクトリックギターは",
+          "before": [
+            69.3,
+            71.7
+          ],
+          "proposed": [
+            69.292,
+            71.632
+          ],
+          "after": [
+            69.3,
+            71.632
+          ]
+        },
+        {
+          "line": 20,
+          "upstreamLine": 20,
+          "text": "ロキロキのロックンロックンロール",
+          "before": [
+            76.44,
+            79.49
+          ],
+          "proposed": [
+            76.553,
+            79.43
+          ],
+          "after": [
+            76.44,
+            79.43
+          ]
+        },
+        {
+          "line": 21,
+          "upstreamLine": 21,
+          "text": "ロキロキの ロックンロックンロール",
+          "before": [
+            79.784,
+            88.98
+          ],
+          "proposed": [
+            79.78,
+            84.48
+          ],
+          "after": [
+            79.784,
+            84.48
+          ]
+        },
+        {
+          "line": 22,
+          "upstreamLine": 22,
+          "text": "死ぬんじゃねぇぞ",
+          "before": [
+            89.176006,
+            90.759006
+          ],
+          "proposed": [
+            89.08,
+            90.74
+          ],
+          "after": [
+            89.176006,
+            90.74
+          ]
+        }
+      ]
     }
   ]
 }

@@ -49,6 +49,402 @@
       "url": null,
       "license": null,
       "note": null
+    },
+    {
+      "usage": "罗马音",
+      "provider": "Sekaipedia",
+      "url": "https://www.sekaipedia.org/wiki/TONDEMO-WONDERZ",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "via": "https://github.com/shinonomeenana/sekai_lyrics",
+      "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
+      "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "逐句结束时间",
+      "provider": "shinonomeenana/sekai_lyrics",
+      "url": "https://github.com/shinonomeenana/sekai_lyrics",
+      "license": null,
+      "vocalId": 319,
+      "verdict": "ok",
+      "fillerSec": 9.0,
+      "method": "ordered exact normalized text; starts agree within 0.3s; non-clamped; end shortened within existing interval; upstream vocal-silence alignment, no independent acoustic verification",
+      "lines": [
+        {
+          "line": 2,
+          "upstreamLine": 2,
+          "text": "ハイになる？廃になる？",
+          "before": [
+            17.369,
+            18.614
+          ],
+          "proposed": [
+            17.3,
+            18.39
+          ],
+          "after": [
+            17.369,
+            18.39
+          ]
+        },
+        {
+          "line": 5,
+          "upstreamLine": 5,
+          "text": "“どうして！？”も“ああして！！”も",
+          "before": [
+            22.963,
+            24.387
+          ],
+          "proposed": [
+            22.78,
+            23.84
+          ],
+          "after": [
+            22.963,
+            23.84
+          ]
+        },
+        {
+          "line": 8,
+          "upstreamLine": 8,
+          "text": "僕らまだ“ワンダー”信じてる、の　ノ No? know!",
+          "before": [
+            27.686,
+            31.17
+          ],
+          "proposed": [
+            27.44,
+            30.82
+          ],
+          "after": [
+            27.686,
+            30.82
+          ]
+        },
+        {
+          "line": 9,
+          "upstreamLine": 9,
+          "text": "おとなたちの鋭利な目盛",
+          "before": [
+            31.521,
+            33.645
+          ],
+          "proposed": [
+            31.3,
+            33.58
+          ],
+          "after": [
+            31.521,
+            33.58
+          ]
+        },
+        {
+          "line": 10,
+          "upstreamLine": 10,
+          "text": "悩まされすぎちゃって",
+          "before": [
+            33.645,
+            35.55
+          ],
+          "proposed": [
+            33.58,
+            35.02
+          ],
+          "after": [
+            33.645,
+            35.02
+          ]
+        },
+        {
+          "line": 14,
+          "upstreamLine": 14,
+          "text": "みんなみんな笑っちゃえの魂胆で",
+          "before": [
+            42.466,
+            45.272
+          ],
+          "proposed": [
+            42.24,
+            44.24
+          ],
+          "after": [
+            42.466,
+            44.24
+          ]
+        },
+        {
+          "line": 16,
+          "upstreamLine": 16,
+          "text": "スットンキョウでサイキョウなセカイを",
+          "before": [
+            47.884,
+            50.35
+          ],
+          "proposed": [
+            47.84,
+            50.0
+          ],
+          "after": [
+            47.884,
+            50.0
+          ]
+        },
+        {
+          "line": 18,
+          "upstreamLine": 18,
+          "text": "みんなみんな救っちゃお！のポーズで",
+          "before": [
+            53.507,
+            56.473
+          ],
+          "proposed": [
+            53.44,
+            56.03
+          ],
+          "after": [
+            53.507,
+            56.03
+          ]
+        },
+        {
+          "line": 19,
+          "upstreamLine": 19,
+          "text": "ちょっとやそっとじゃ潰れない笑顔どうじゃん！",
+          "before": [
+            56.463,
+            59.431
+          ],
+          "proposed": [
+            56.22,
+            59.08
+          ],
+          "after": [
+            56.463,
+            59.08
+          ]
+        },
+        {
+          "line": 23,
+          "upstreamLine": 23,
+          "text": "世界解体10秒前！？待って待って待って",
+          "before": [
+            77.517,
+            79.819
+          ],
+          "proposed": [
+            77.46,
+            79.7
+          ],
+          "after": [
+            77.517,
+            79.7
+          ]
+        },
+        {
+          "line": 25,
+          "upstreamLine": 25,
+          "text": "101回目のソンな小指拝借",
+          "before": [
+            83.042,
+            85.389
+          ],
+          "proposed": [
+            82.96,
+            85.36
+          ],
+          "after": [
+            83.042,
+            85.36
+          ]
+        },
+        {
+          "line": 28,
+          "upstreamLine": 28,
+          "text": "みんなみんな笑っちゃえの正解(世界)は",
+          "before": [
+            92.322,
+            95.25
+          ],
+          "proposed": [
+            92.42,
+            94.81
+          ],
+          "after": [
+            92.322,
+            94.81
+          ]
+        },
+        {
+          "line": 29,
+          "upstreamLine": 29,
+          "text": "宿敵　逆境　モンスター　何だってinじゃん！",
+          "before": [
+            95.25,
+            97.898
+          ],
+          "proposed": [
+            95.21,
+            97.74
+          ],
+          "after": [
+            95.25,
+            97.74
+          ]
+        },
+        {
+          "line": 30,
+          "upstreamLine": 30,
+          "text": "スットンキョウでサイキョウ、お菓子いだろ？",
+          "before": [
+            97.886,
+            100.653
+          ],
+          "proposed": [
+            97.78,
+            100.62
+          ],
+          "after": [
+            97.886,
+            100.62
+          ]
+        },
+        {
+          "line": 34,
+          "upstreamLine": 34,
+          "text": "ぜったいぜったいね、消せない笑顔どうじゃん！",
+          "before": [
+            106.427,
+            109.233
+          ],
+          "proposed": [
+            106.32,
+            108.94
+          ],
+          "after": [
+            106.427,
+            108.94
+          ]
+        },
+        {
+          "line": 35,
+          "upstreamLine": 35,
+          "text": "∞回オチても不死議は鳥壊せない！",
+          "before": [
+            109.433,
+            111.918
+          ],
+          "proposed": [
+            109.18,
+            111.78
+          ],
+          "after": [
+            109.433,
+            111.78
+          ]
+        },
+        {
+          "line": 36,
+          "upstreamLine": 36,
+          "text": "ワンワンでツーカーでスリーフォー",
+          "before": [
+            112.14,
+            113.546
+          ],
+          "proposed": [
+            111.9,
+            113.3
+          ],
+          "after": [
+            112.14,
+            113.3
+          ]
+        },
+        {
+          "line": 37,
+          "upstreamLine": 37,
+          "text": "エビバディ　ショウタイム！",
+          "before": [
+            113.52,
+            114.82
+          ],
+          "proposed": [
+            113.34,
+            114.65
+          ],
+          "after": [
+            113.52,
+            114.65
+          ]
+        },
+        {
+          "line": 38,
+          "upstreamLine": 38,
+          "text": "ワンワンでツーカーでスリーフォー",
+          "before": [
+            114.561,
+            116.307
+          ],
+          "proposed": [
+            114.8,
+            116.14
+          ],
+          "after": [
+            114.561,
+            116.14
+          ]
+        },
+        {
+          "line": 39,
+          "upstreamLine": 39,
+          "text": "エビバディ　ショウタイム！",
+          "before": [
+            116.38,
+            117.56
+          ],
+          "proposed": [
+            116.14,
+            117.54
+          ],
+          "after": [
+            116.38,
+            117.54
+          ]
+        },
+        {
+          "line": 40,
+          "upstreamLine": 40,
+          "text": "ワンワンでツーカーでスリーフォー",
+          "before": [
+            117.632,
+            118.957
+          ],
+          "proposed": [
+            117.54,
+            118.94
+          ],
+          "after": [
+            117.632,
+            118.94
+          ]
+        },
+        {
+          "line": 41,
+          "upstreamLine": 41,
+          "text": "エビバディ　ショウタイム！",
+          "before": [
+            119.06,
+            120.6
+          ],
+          "proposed": [
+            118.94,
+            120.56
+          ],
+          "after": [
+            119.06,
+            120.56
+          ]
+        }
+      ]
     }
   ]
 }

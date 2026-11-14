@@ -1,3 +1,4 @@
+import { validateVersions } from './version-schema.mjs'
 import { readFile, writeFile, mkdir, readdir } from 'node:fs/promises'
 import { createHash } from 'node:crypto'
 import { fileURLToPath } from 'node:url'
@@ -11,6 +12,7 @@ for (const folder of (await readdir(path.join(root, 'lyrics'))).sort()) {
   if (!/^\d+$/.test(folder)) continue
   const body = await readFile(path.join(root, 'lyrics', folder, 'lyrics.json'))
   const data = JSON.parse(body)
+  validateVersions(data)
   if (data.musicId !== Number(folder) || !Number.isFinite(data.duration)) throw new Error(`Invalid song ${folder}`)
   const hash = createHash('sha256').update(body).digest('hex').slice(0, 16)
   songs[data.musicId] = hash

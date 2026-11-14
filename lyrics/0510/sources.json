@@ -81,6 +81,113 @@
       "url": null,
       "license": null,
       "note": "已保存来源标签，未记录可直接引用的链接"
+    },
+    {
+      "usage": "罗马音",
+      "provider": "Sekaipedia",
+      "url": "https://www.sekaipedia.org/wiki/Shippaisaku_Shoujo",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "via": "https://github.com/shinonomeenana/sekai_lyrics",
+      "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
+      "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "逐句结束时间",
+      "provider": "shinonomeenana/sekai_lyrics",
+      "url": "https://github.com/shinonomeenana/sekai_lyrics",
+      "license": null,
+      "vocalId": 1576,
+      "verdict": "ok-agree",
+      "fillerSec": 7.5,
+      "method": "ordered exact normalized text; starts agree within 0.3s; non-clamped; end shortened within existing interval; upstream vocal-silence alignment, no independent acoustic verification",
+      "lines": [
+        {
+          "line": 0,
+          "upstreamLine": 0,
+          "text": "あぁ　ほら　また間違えた",
+          "before": [
+            25.34237,
+            27.41037
+          ],
+          "proposed": [
+            25.544,
+            27.324
+          ],
+          "after": [
+            25.34237,
+            27.324
+          ]
+        },
+        {
+          "line": 1,
+          "upstreamLine": 1,
+          "text": "これで何度？　何回目？",
+          "before": [
+            27.41037,
+            29.37337
+          ],
+          "proposed": [
+            27.484,
+            29.325
+          ],
+          "after": [
+            27.41037,
+            29.325
+          ]
+        },
+        {
+          "line": 4,
+          "upstreamLine": 4,
+          "text": "あぁ　ほら　また誤魔化した",
+          "before": [
+            33.46037,
+            35.45937
+          ],
+          "proposed": [
+            33.505,
+            35.306
+          ],
+          "after": [
+            33.46037,
+            35.306
+          ]
+        },
+        {
+          "line": 17,
+          "upstreamLine": 17,
+          "text": "もっともっと笑顔で",
+          "before": [
+            61.32737,
+            92.51637
+          ],
+          "proposed": [
+            61.47,
+            63.07
+          ],
+          "after": [
+            61.32737,
+            63.07
+          ]
+        },
+        {
+          "line": 19,
+          "upstreamLine": 19,
+          "text": "神様　もしも生まれ変わる",
+          "before": [
+            92.51637,
+            97.32937
+          ],
+          "proposed": [
+            92.75,
+            95.595
+          ],
+          "after": [
+            92.51637,
+            95.595
+          ]
+        }
+      ]
     }
   ]
 }

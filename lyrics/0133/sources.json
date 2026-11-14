@@ -49,6 +49,75 @@
       "url": "https://y.qq.com/n/ryqq/songDetail/003UxuGV3apLZm",
       "license": null,
       "note": "qrc"
+    },
+    {
+      "usage": "罗马音",
+      "provider": "Sekaipedia",
+      "url": "https://www.sekaipedia.org/wiki/Akuma_no_Odorikata",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "via": "https://github.com/shinonomeenana/sekai_lyrics",
+      "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
+      "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "附加演唱版本",
+      "provider": "historical alignment",
+      "url": null,
+      "license": null,
+      "vocalId": 1474,
+      "source": "A",
+      "jobId": "0133-1474-alternate-april-fools-2024-haruka-akito-rui-kaito",
+      "timingSource": "NetEase LRC; source text and timestamps retained in source.lrc",
+      "performerSource": "alternate-april-fools-2024-haruka-akito-rui-kaito",
+      "provenance": [
+        {
+          "component": "renditions/alternate-april-fools-2024-haruka-akito-rui-kaito/game_text",
+          "provider": "sekaipedia",
+          "title": "Akuma no Odorikata",
+          "revisionId": 330242,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Akuma_no_Odorikata?oldid=330242",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/alternate-april-fools-2024-haruka-akito-rui-kaito/game_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Akuma no Odorikata",
+          "revisionId": 330242,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Akuma_no_Odorikata?oldid=330242",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/alternate-april-fools-2024-haruka-akito-rui-kaito/game_ruby",
+          "provider": "sekaipedia",
+          "title": "Akuma no Odorikata",
+          "revisionId": 330242,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Akuma_no_Odorikata?oldid=330242",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/alternate-april-fools-2024-haruka-akito-rui-kaito/relation",
+          "provider": "sekaipedia",
+          "title": "Akuma no Odorikata",
+          "revisionId": 330242,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Akuma_no_Odorikata?oldid=330242",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/alternate-april-fools-2024-haruka-akito-rui-kaito/version",
+          "provider": "sekaipedia",
+          "title": "Akuma no Odorikata",
+          "revisionId": 330242,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Akuma_no_Odorikata?oldid=330242",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "note": "Snapshot 20261110-all-v2; only recorded aligned lines; no cross-version word transfer; shared intervals retained."
     }
   ]
 }

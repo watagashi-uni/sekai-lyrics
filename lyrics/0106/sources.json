@@ -65,6 +65,358 @@
       "url": null,
       "license": null,
       "note": "已保存来源标签，未记录可直接引用的链接"
+    },
+    {
+      "usage": "罗马音",
+      "provider": "Sekaipedia",
+      "url": "https://www.sekaipedia.org/wiki/Oki_ni_Mesu_mama",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "via": "https://github.com/shinonomeenana/sekai_lyrics",
+      "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
+      "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "逐句结束时间",
+      "provider": "shinonomeenana/sekai_lyrics",
+      "url": "https://github.com/shinonomeenana/sekai_lyrics",
+      "license": null,
+      "vocalId": 253,
+      "verdict": "ok-agree",
+      "fillerSec": 9.0,
+      "method": "ordered exact normalized text; starts agree within 0.3s; non-clamped; end shortened within existing interval; upstream vocal-silence alignment, no independent acoustic verification",
+      "lines": [
+        {
+          "line": 5,
+          "upstreamLine": 5,
+          "text": "僕の勇気ある行動",
+          "before": [
+            40.550028,
+            43.981822
+          ],
+          "proposed": [
+            40.663,
+            42.843
+          ],
+          "after": [
+            40.550028,
+            42.843
+          ]
+        },
+        {
+          "line": 9,
+          "upstreamLine": 9,
+          "text": "できないなんて　言わないでね",
+          "before": [
+            51.37,
+            53.78
+          ],
+          "proposed": [
+            51.59,
+            53.543
+          ],
+          "after": [
+            51.37,
+            53.543
+          ]
+        },
+        {
+          "line": 11,
+          "upstreamLine": 11,
+          "text": "今更なんて　言わないでね",
+          "before": [
+            61.26,
+            64
+          ],
+          "proposed": [
+            61.484,
+            63.8
+          ],
+          "after": [
+            61.26,
+            63.8
+          ]
+        },
+        {
+          "line": 12,
+          "upstreamLine": 12,
+          "text": "僕ら今",
+          "before": [
+            69.08,
+            73.52
+          ],
+          "proposed": [
+            69.22,
+            70.124
+          ],
+          "after": [
+            69.08,
+            70.124
+          ]
+        },
+        {
+          "line": 14,
+          "upstreamLine": 14,
+          "text": "段々嫌になって　でも好きになる",
+          "before": [
+            73.52,
+            76.87
+          ],
+          "proposed": [
+            73.605,
+            76.845
+          ],
+          "after": [
+            73.52,
+            76.845
+          ]
+        },
+        {
+          "line": 16,
+          "upstreamLine": 16,
+          "text": "どんどん　中に寄って",
+          "before": [
+            80.16,
+            82.1
+          ],
+          "proposed": [
+            80.325,
+            81.885
+          ],
+          "after": [
+            80.16,
+            81.885
+          ]
+        },
+        {
+          "line": 17,
+          "upstreamLine": 17,
+          "text": "でも離れてく",
+          "before": [
+            82.1,
+            83.56
+          ],
+          "proposed": [
+            82.205,
+            83.545
+          ],
+          "after": [
+            82.1,
+            83.545
+          ]
+        },
+        {
+          "line": 19,
+          "upstreamLine": 19,
+          "text": "散々嫌になって　でも好きになる",
+          "before": [
+            86.91,
+            90.31
+          ],
+          "proposed": [
+            87.005,
+            90.266
+          ],
+          "after": [
+            86.91,
+            90.266
+          ]
+        },
+        {
+          "line": 20,
+          "upstreamLine": 20,
+          "text": "ねえねえ　わかんないや 　この先もずっと",
+          "before": [
+            90.31,
+            94.1
+          ],
+          "proposed": [
+            90.386,
+            93.826
+          ],
+          "after": [
+            90.31,
+            93.826
+          ]
+        },
+        {
+          "line": 21,
+          "upstreamLine": 21,
+          "text": "僕の心を　シェイクシェイク",
+          "before": [
+            94.1,
+            97.74
+          ],
+          "proposed": [
+            94.146,
+            97.106
+          ],
+          "after": [
+            94.1,
+            97.106
+          ]
+        }
+      ]
+    },
+    {
+      "usage": "附加演唱版本",
+      "provider": "game audio waveform mapping",
+      "url": "https://assets-direct.unipjsk.com/ondemand/music/long/an_0106_01/an_0106_01.mp3",
+      "license": null,
+      "vocalId": 255,
+      "source": "C",
+      "referenceVocalId": 253,
+      "performerSource": "musicVocals 7.1.0.60; solo whole-song attribution",
+      "mapping": {
+        "sourceMinusTarget": 0.0,
+        "coverage": 1.0,
+        "medianScore": 0.94177,
+        "duration": 121.44775,
+        "referenceDuration": 121.44775,
+        "windows": [
+          {
+            "targetStart": 4.0,
+            "offset": 0.0,
+            "score": 0.99872
+          },
+          {
+            "targetStart": 8.0,
+            "offset": 0.0,
+            "score": 0.99876
+          },
+          {
+            "targetStart": 12.0,
+            "offset": 0.0,
+            "score": 0.991
+          },
+          {
+            "targetStart": 16.0,
+            "offset": 0.0,
+            "score": 0.9897
+          },
+          {
+            "targetStart": 20.0,
+            "offset": 0.0,
+            "score": 0.98741
+          },
+          {
+            "targetStart": 24.0,
+            "offset": 0.0,
+            "score": 0.98577
+          },
+          {
+            "targetStart": 28.0,
+            "offset": 0.0,
+            "score": 0.98624
+          },
+          {
+            "targetStart": 32.0,
+            "offset": 0.0,
+            "score": 0.94032
+          },
+          {
+            "targetStart": 36.0,
+            "offset": 0.0,
+            "score": 0.78987
+          },
+          {
+            "targetStart": 40.0,
+            "offset": 0.0,
+            "score": 0.80195
+          },
+          {
+            "targetStart": 44.0,
+            "offset": 0.0,
+            "score": 0.83374
+          },
+          {
+            "targetStart": 48.0,
+            "offset": 0.0,
+            "score": 0.88224
+          },
+          {
+            "targetStart": 52.0,
+            "offset": 0.0,
+            "score": 0.91256
+          },
+          {
+            "targetStart": 56.0,
+            "offset": 0.0,
+            "score": 0.9757
+          },
+          {
+            "targetStart": 60.0,
+            "offset": 0.0,
+            "score": 0.94906
+          },
+          {
+            "targetStart": 64.0,
+            "offset": 0.0,
+            "score": 0.96086
+          },
+          {
+            "targetStart": 68.0,
+            "offset": 0.0,
+            "score": 0.81537
+          },
+          {
+            "targetStart": 72.0,
+            "offset": 0.0,
+            "score": 0.82562
+          },
+          {
+            "targetStart": 76.0,
+            "offset": 0.0,
+            "score": 0.74718
+          },
+          {
+            "targetStart": 80.0,
+            "offset": 0.0,
+            "score": 0.75207
+          },
+          {
+            "targetStart": 84.0,
+            "offset": 0.0,
+            "score": 0.77049
+          },
+          {
+            "targetStart": 88.0,
+            "offset": 0.0,
+            "score": 0.7635
+          },
+          {
+            "targetStart": 92.0,
+            "offset": 0.0,
+            "score": 0.8172
+          },
+          {
+            "targetStart": 96.0,
+            "offset": 0.0,
+            "score": 0.94322
+          },
+          {
+            "targetStart": 100.0,
+            "offset": 0.0,
+            "score": 0.98575
+          },
+          {
+            "targetStart": 104.0,
+            "offset": 0.0,
+            "score": 0.98629
+          },
+          {
+            "targetStart": 108.0,
+            "offset": 0.0,
+            "score": 0.97242
+          },
+          {
+            "targetStart": 112.0,
+            "offset": 0.0,
+            "score": 0.75682
+          }
+        ]
+      },
+      "note": "6-second windows every 4 seconds; >=90% consistent within 20ms, score>=0.65, median>=0.8, max supported gap 8s, bounded tails. Line-only; no inherited words or segments. Lyrics licenses/translation credits remain those of default version."
     }
   ]
 }

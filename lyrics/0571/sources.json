@@ -57,6 +57,79 @@
       "url": null,
       "license": null,
       "note": "已保存来源标签，未记录可直接引用的链接"
+    },
+    {
+      "usage": "罗马音",
+      "provider": "Sekaipedia",
+      "url": "https://www.sekaipedia.org/wiki/Nisemono_Ningen_40-gou",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "via": "https://github.com/shinonomeenana/sekai_lyrics",
+      "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
+      "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "逐句结束时间",
+      "provider": "shinonomeenana/sekai_lyrics",
+      "url": "https://github.com/shinonomeenana/sekai_lyrics",
+      "license": null,
+      "vocalId": 1684,
+      "verdict": "ok",
+      "fillerSec": 9.5357,
+      "method": "ordered exact normalized text; starts agree within 0.3s; non-clamped; end shortened within existing interval; upstream vocal-silence alignment, no independent acoustic verification",
+      "lines": [
+        {
+          "line": 27,
+          "upstreamLine": 27,
+          "text": "またジャンキージャンキーだ",
+          "before": [
+            96.176,
+            98.476
+          ],
+          "proposed": [
+            96.3597,
+            98.4597
+          ],
+          "after": [
+            96.176,
+            98.4597
+          ]
+        },
+        {
+          "line": 28,
+          "upstreamLine": 28,
+          "text": "もう飽き飽きなんだ",
+          "before": [
+            98.476,
+            100.996
+          ],
+          "proposed": [
+            98.6397,
+            100.8797
+          ],
+          "after": [
+            98.476,
+            100.8797
+          ]
+        },
+        {
+          "line": 33,
+          "upstreamLine": 33,
+          "text": "(クソが)",
+          "before": [
+            116.06,
+            116.6
+          ],
+          "proposed": [
+            115.9997,
+            116.5797
+          ],
+          "after": [
+            116.06,
+            116.5797
+          ]
+        }
+      ]
     }
   ]
 }

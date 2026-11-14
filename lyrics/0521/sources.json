@@ -65,6 +65,147 @@
       "url": null,
       "license": null,
       "note": "已保存来源标签，未记录可直接引用的链接"
+    },
+    {
+      "usage": "罗马音",
+      "provider": "Sekaipedia",
+      "url": "https://www.sekaipedia.org/wiki/Override",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "via": "https://github.com/shinonomeenana/sekai_lyrics",
+      "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
+      "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "逐句结束时间",
+      "provider": "shinonomeenana/sekai_lyrics",
+      "url": "https://github.com/shinonomeenana/sekai_lyrics",
+      "license": null,
+      "vocalId": 1583,
+      "verdict": "ok-agree",
+      "fillerSec": 9.0,
+      "method": "ordered exact normalized text; starts agree within 0.3s; non-clamped; end shortened within existing interval; upstream vocal-silence alignment, no independent acoustic verification",
+      "lines": [
+        {
+          "line": 0,
+          "upstreamLine": 0,
+          "text": "バッドランドに生まれた",
+          "before": [
+            20.90325,
+            22.77325
+          ],
+          "proposed": [
+            20.76,
+            22.2
+          ],
+          "after": [
+            20.90325,
+            22.2
+          ]
+        },
+        {
+          "line": 2,
+          "upstreamLine": 2,
+          "text": "くだらないけど、それが理なんだって",
+          "before": [
+            25.05325,
+            28.43325
+          ],
+          "proposed": [
+            24.92,
+            27.74
+          ],
+          "after": [
+            25.05325,
+            27.74
+          ]
+        },
+        {
+          "line": 4,
+          "upstreamLine": 4,
+          "text": "抗うために",
+          "before": [
+            30.21325,
+            32.00325
+          ],
+          "proposed": [
+            30.17,
+            31.26
+          ],
+          "after": [
+            30.21325,
+            31.26
+          ]
+        },
+        {
+          "line": 6,
+          "upstreamLine": 6,
+          "text": "蛇のように這い、善戦",
+          "before": [
+            33.31325,
+            35.19325
+          ],
+          "proposed": [
+            33.08,
+            34.94
+          ],
+          "after": [
+            33.31325,
+            34.94
+          ]
+        },
+        {
+          "line": 20,
+          "upstreamLine": 20,
+          "text": "豪快さにかまけた人生は",
+          "before": [
+            77.207974,
+            79.247103
+          ],
+          "proposed": [
+            76.94,
+            79.04
+          ],
+          "after": [
+            77.207974,
+            79.04
+          ]
+        },
+        {
+          "line": 25,
+          "upstreamLine": 25,
+          "text": "どうか消えるまでスタンド・バイ・ミー",
+          "before": [
+            88.683073,
+            91.162014
+          ],
+          "proposed": [
+            88.9,
+            91.11
+          ],
+          "after": [
+            88.683073,
+            91.11
+          ]
+        },
+        {
+          "line": 32,
+          "upstreamLine": 32,
+          "text": "哀れ、あはれ",
+          "before": [
+            114.17325,
+            129.00175
+          ],
+          "proposed": [
+            113.94,
+            115.06
+          ],
+          "after": [
+            114.17325,
+            115.06
+          ]
+        }
+      ]
     }
   ]
 }

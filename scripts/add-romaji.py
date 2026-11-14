@@ -25,6 +25,7 @@ import unicodedata
 from pathlib import Path
 
 from janome.tokenizer import Tokenizer
+from merge_common import normalize
 
 ROOT = Path(__file__).resolve().parents[1] / 'lyrics'
 
@@ -277,14 +278,22 @@ def main() -> int:
         path = folder / 'lyrics.json'
         original = path.read_bytes()
         data = json.loads(original)
+        source_file = folder / 'romaji.sekaipedia.json'
+        human = {normalize(r['text']): r['romaji'] for r in json.loads(source_file.read_text())['lines']} if source_file.exists() else {}
+        def choose(text, ruby):
+            if JAPANESE.search(text) and normalize(text) in human:
+                return human[normalize(text)], 'sekaipedia'
+            return romaji_for(text, ruby), 'generated'
         if data['format'] == 'bilingual_json':
             for line in data['lines']:
-                value = romaji_for(line['text'], line.get('ruby'))
+                value, source = choose(line['text'], line.get('ruby'))
                 if value:
                     line['romaji'] = value
+                    line['romajiSource'] = source
                     lines += 1
                 else:
                     line.pop('romaji', None)
+                    line.pop('romajiSource', None)
         else:
             ruby = {(r['cueStart'], r['text']): r['ruby'] for r in data.get('rubyLines') or []}
             entries = []
@@ -294,9 +303,9 @@ def main() -> int:
                     continue
                 seen.add((start, text))
                 cue = next((key for key in ruby if abs(key[0] - start) < 0.001 and key[1] == text), None)
-                value = romaji_for(text, ruby.get(cue) if cue else None)
+                value, source = choose(text, ruby.get(cue) if cue else None)
                 if value:
-                    entries.append({'cueStart': start, 'text': text, 'romaji': value})
+                    entries.append({'cueStart': start, 'text': text, 'romaji': value, 'source': source})
                     lines += 1
             if entries:
                 data['romajiLines'] = entries

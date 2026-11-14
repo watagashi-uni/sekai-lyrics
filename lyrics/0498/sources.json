@@ -49,6 +49,147 @@
       "url": null,
       "license": null,
       "note": "已保存来源标签，未记录可直接引用的链接"
+    },
+    {
+      "usage": "罗马音",
+      "provider": "Sekaipedia",
+      "url": "https://www.sekaipedia.org/wiki/Hashiru%21_Tooku%21_Todoku%21",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "via": "https://github.com/shinonomeenana/sekai_lyrics",
+      "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
+      "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "逐句结束时间",
+      "provider": "shinonomeenana/sekai_lyrics",
+      "url": "https://github.com/shinonomeenana/sekai_lyrics",
+      "license": null,
+      "vocalId": 1534,
+      "verdict": "ok-agree",
+      "fillerSec": 8.011,
+      "method": "ordered exact normalized text; starts agree within 0.3s; non-clamped; end shortened within existing interval; upstream vocal-silence alignment, no independent acoustic verification",
+      "lines": [
+        {
+          "line": 0,
+          "upstreamLine": 0,
+          "text": "視線の先 同じゴール それはずっと霞んで遠く",
+          "before": [
+            8.97525,
+            14.27425
+          ],
+          "proposed": [
+            9.14,
+            14.14
+          ],
+          "after": [
+            8.97525,
+            14.14
+          ]
+        },
+        {
+          "line": 4,
+          "upstreamLine": 4,
+          "text": "走る 遠く 届く 広がる未来の予告",
+          "before": [
+            31.49125,
+            36.55125
+          ],
+          "proposed": [
+            31.69,
+            36.12
+          ],
+          "after": [
+            31.49125,
+            36.12
+          ]
+        },
+        {
+          "line": 6,
+          "upstreamLine": 6,
+          "text": "(ワン・モア！) 主役は誰か (ワン・モア！) すぐわかるでしょう",
+          "before": [
+            41.10025,
+            46.41025
+          ],
+          "proposed": [
+            41.16,
+            46.24
+          ],
+          "after": [
+            41.10025,
+            46.24
+          ]
+        },
+        {
+          "line": 10,
+          "upstreamLine": 10,
+          "text": "(Wow-Oh) わたしを誰か (Wow-Oh) わたしを誰か",
+          "before": [
+            60.1735,
+            65.4435
+          ],
+          "proposed": [
+            60.14,
+            65.3
+          ],
+          "after": [
+            60.1735,
+            65.3
+          ]
+        },
+        {
+          "line": 12,
+          "upstreamLine": 12,
+          "text": "走る 遠く 届く 広がる未来の予告",
+          "before": [
+            71.7165,
+            76.8845
+          ],
+          "proposed": [
+            71.93,
+            76.32
+          ],
+          "after": [
+            71.7165,
+            76.32
+          ]
+        },
+        {
+          "line": 14,
+          "upstreamLine": 14,
+          "text": "走る 遠く 届く これはまだほんの序曲",
+          "before": [
+            82.2075,
+            87.4145
+          ],
+          "proposed": [
+            82.42,
+            86.8
+          ],
+          "after": [
+            82.2075,
+            86.8
+          ]
+        },
+        {
+          "line": 17,
+          "upstreamLine": 17,
+          "text": "(ワン・モア！) わたしを見ててね！",
+          "before": [
+            97.1465,
+            103.4195
+          ],
+          "proposed": [
+            97.4,
+            101.86
+          ],
+          "after": [
+            97.1465,
+            101.86
+          ]
+        }
+      ]
     }
   ]
 }

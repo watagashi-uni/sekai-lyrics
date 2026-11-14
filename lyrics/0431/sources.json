@@ -57,6 +57,215 @@
       "url": null,
       "license": null,
       "note": "已保存来源标签，未记录可直接引用的链接"
+    },
+    {
+      "usage": "罗马音",
+      "provider": "Sekaipedia",
+      "url": "https://www.sekaipedia.org/wiki/Flos",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "via": "https://github.com/shinonomeenana/sekai_lyrics",
+      "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
+      "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "逐句结束时间",
+      "provider": "shinonomeenana/sekai_lyrics",
+      "url": "https://github.com/shinonomeenana/sekai_lyrics",
+      "license": null,
+      "vocalId": 1466,
+      "verdict": "ok-agree",
+      "fillerSec": 9.0,
+      "method": "ordered exact normalized text; starts agree within 0.3s; non-clamped; end shortened within existing interval; upstream vocal-silence alignment, no independent acoustic verification",
+      "lines": [
+        {
+          "line": 0,
+          "upstreamLine": 0,
+          "text": "ダフニー, フィークス, アイリス, マーキア, ",
+          "before": [
+            9.2425,
+            13.3225
+          ],
+          "proposed": [
+            9.52,
+            13.09
+          ],
+          "after": [
+            9.2425,
+            13.09
+          ]
+        },
+        {
+          "line": 1,
+          "upstreamLine": 1,
+          "text": "リスラム, ミリカ, サビア, フロース",
+          "before": [
+            13.3225,
+            23.9995
+          ],
+          "proposed": [
+            13.55,
+            16.88
+          ],
+          "after": [
+            13.3225,
+            16.88
+          ]
+        },
+        {
+          "line": 7,
+          "upstreamLine": 7,
+          "text": "本音を挿し罅割れた今日",
+          "before": [
+            41.5425,
+            49.3125
+          ],
+          "proposed": [
+            41.48,
+            45.25
+          ],
+          "after": [
+            41.5425,
+            45.25
+          ]
+        },
+        {
+          "line": 9,
+          "upstreamLine": 9,
+          "text": "薪を焼べて風に乗せて",
+          "before": [
+            49.3125,
+            53.5615
+          ],
+          "proposed": [
+            49.4,
+            53.4
+          ],
+          "after": [
+            49.3125,
+            53.4
+          ]
+        },
+        {
+          "line": 14,
+          "upstreamLine": 14,
+          "text": "縋った意味も無いな",
+          "before": [
+            69.9435,
+            76.3695
+          ],
+          "proposed": [
+            69.78,
+            73.95
+          ],
+          "after": [
+            69.9435,
+            73.95
+          ]
+        },
+        {
+          "line": 15,
+          "upstreamLine": 15,
+          "text": "木漏れ日の中に柔らかく",
+          "before": [
+            82.45387,
+            90.11688
+          ],
+          "proposed": [
+            82.68,
+            88.41
+          ],
+          "after": [
+            82.45387,
+            88.41
+          ]
+        },
+        {
+          "line": 17,
+          "upstreamLine": 17,
+          "text": "雲の上で 違う星で",
+          "before": [
+            90.11688,
+            96.52487
+          ],
+          "proposed": [
+            90.2,
+            94.18
+          ],
+          "after": [
+            90.11688,
+            94.18
+          ]
+        },
+        {
+          "line": 20,
+          "upstreamLine": 20,
+          "text": "飾った花は直ぐに枯れてく",
+          "before": [
+            102.41388,
+            106.5005
+          ],
+          "proposed": [
+            102.4,
+            106.38
+          ],
+          "after": [
+            102.41388,
+            106.38
+          ]
+        },
+        {
+          "line": 21,
+          "upstreamLine": 21,
+          "text": "不遇な僕ら夢に敗れて",
+          "before": [
+            106.62525,
+            110.51625
+          ],
+          "proposed": [
+            106.56,
+            110.12
+          ],
+          "after": [
+            106.62525,
+            110.12
+          ]
+        },
+        {
+          "line": 23,
+          "upstreamLine": 23,
+          "text": "ダフニー, フィークス, アイリス, マーキア, ",
+          "before": [
+            115.06925,
+            118.87525
+          ],
+          "proposed": [
+            114.9,
+            118.86
+          ],
+          "after": [
+            115.06925,
+            118.86
+          ]
+        },
+        {
+          "line": 26,
+          "upstreamLine": 26,
+          "text": "フェリシア, オクナ, リクニス, フロース",
+          "before": [
+            127.19975,
+            134.004
+          ],
+          "proposed": [
+            127.45,
+            130.96
+          ],
+          "after": [
+            127.19975,
+            130.96
+          ]
+        }
+      ]
     }
   ]
 }

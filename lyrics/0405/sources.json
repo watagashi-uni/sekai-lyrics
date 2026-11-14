@@ -89,6 +89,130 @@
       "url": null,
       "license": null,
       "note": null
+    },
+    {
+      "usage": "罗马音",
+      "provider": "Sekaipedia",
+      "url": "https://www.sekaipedia.org/wiki/MOTTO%21%21%21",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "via": "https://github.com/shinonomeenana/sekai_lyrics",
+      "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
+      "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "逐句结束时间",
+      "provider": "shinonomeenana/sekai_lyrics",
+      "url": "https://github.com/shinonomeenana/sekai_lyrics",
+      "license": null,
+      "vocalId": 1378,
+      "verdict": "ok",
+      "fillerSec": 9.0,
+      "method": "ordered exact normalized text; starts agree within 0.3s; non-clamped; end shortened within existing interval; upstream vocal-silence alignment, no independent acoustic verification",
+      "lines": [
+        {
+          "line": 4,
+          "upstreamLine": 4,
+          "text": "papapara papapara papapara pa",
+          "before": [
+            32.93532,
+            36.53331
+          ],
+          "proposed": [
+            32.9,
+            36.03
+          ],
+          "after": [
+            32.93532,
+            36.03
+          ]
+        },
+        {
+          "line": 5,
+          "upstreamLine": 5,
+          "text": "papapara papapara papapara lalalala",
+          "before": [
+            36.53331,
+            40.27123
+          ],
+          "proposed": [
+            36.67,
+            40.1
+          ],
+          "after": [
+            36.53331,
+            40.1
+          ]
+        },
+        {
+          "line": 6,
+          "upstreamLine": 6,
+          "text": "papapara papapara papapara",
+          "before": [
+            40.27123,
+            43.51941
+          ],
+          "proposed": [
+            40.4,
+            42.03
+          ],
+          "after": [
+            40.27123,
+            42.03
+          ]
+        },
+        {
+          "line": 34,
+          "upstreamLine": 34,
+          "text": "More Jump (もっと)",
+          "before": [
+            111.806236,
+            115.609757
+          ],
+          "proposed": [
+            111.94,
+            113.4
+          ],
+          "after": [
+            111.806236,
+            113.4
+          ]
+        },
+        {
+          "line": 41,
+          "upstreamLine": 41,
+          "text": "papapara papapara papapara pa",
+          "before": [
+            132.486137,
+            136.136137
+          ],
+          "proposed": [
+            132.76,
+            135.535
+          ],
+          "after": [
+            132.486137,
+            135.535
+          ]
+        },
+        {
+          "line": 43,
+          "upstreamLine": 43,
+          "text": "papapara papapara papapara la la la la la",
+          "before": [
+            139.966137,
+            151.38463
+          ],
+          "proposed": [
+            140.06,
+            145.56
+          ],
+          "after": [
+            139.966137,
+            145.56
+          ]
+        }
+      ]
     }
   ]
 }

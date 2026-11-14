@@ -97,6 +97,308 @@
       "url": null,
       "license": null,
       "note": "已保存来源标签，未记录可直接引用的链接"
+    },
+    {
+      "usage": "罗马音",
+      "provider": "Sekaipedia",
+      "url": "https://www.sekaipedia.org/wiki/Hoshizora_no_Melody",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "via": "https://github.com/shinonomeenana/sekai_lyrics",
+      "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
+      "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "附加演唱版本",
+      "provider": "historical alignment",
+      "url": null,
+      "license": null,
+      "vocalId": 523,
+      "source": "A",
+      "jobId": "0212-523-vocaloid",
+      "timingSource": "NetEase LRC; source text and timestamps retained in source.lrc",
+      "performerSource": "vocaloid",
+      "provenance": [
+        {
+          "component": "renditions/vocaloid/game_text",
+          "provider": "sekaipedia",
+          "title": "Hoshizora no Melody",
+          "revisionId": 337247,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Hoshizora_no_Melody?oldid=337247",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/game_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Hoshizora no Melody",
+          "revisionId": 337247,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Hoshizora_no_Melody?oldid=337247",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/game_ruby",
+          "provider": "sekaipedia",
+          "title": "Hoshizora no Melody",
+          "revisionId": 337247,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Hoshizora_no_Melody?oldid=337247",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/relation",
+          "provider": "sekaipedia",
+          "title": "Hoshizora no Melody",
+          "revisionId": 337247,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Hoshizora_no_Melody?oldid=337247",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/version",
+          "provider": "sekaipedia",
+          "title": "Hoshizora no Melody",
+          "revisionId": 337247,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Hoshizora_no_Melody?oldid=337247",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "note": "Snapshot 20261110-all-v2; only recorded aligned lines; no cross-version word transfer; shared intervals retained."
+    },
+    {
+      "usage": "逐句结束时间",
+      "provider": "shinonomeenana/sekai_lyrics",
+      "url": "https://github.com/shinonomeenana/sekai_lyrics",
+      "license": null,
+      "vocalId": 524,
+      "verdict": "ok-agree",
+      "fillerSec": 9.531,
+      "method": "ordered exact normalized text; starts agree within 0.3s; non-clamped; end shortened within existing interval; upstream vocal-silence alignment, no independent acoustic verification",
+      "lines": [
+        {
+          "line": 1,
+          "upstreamLine": 1,
+          "text": "いつかの約束",
+          "before": [
+            11.7685,
+            13.6285
+          ],
+          "proposed": [
+            11.941,
+            13.49
+          ],
+          "after": [
+            11.7685,
+            13.49
+          ]
+        },
+        {
+          "line": 3,
+          "upstreamLine": 3,
+          "text": "叶えられるから",
+          "before": [
+            15.7785,
+            20.2185
+          ],
+          "proposed": [
+            15.941,
+            20.19
+          ],
+          "after": [
+            15.7785,
+            20.19
+          ]
+        },
+        {
+          "line": 4,
+          "upstreamLine": 4,
+          "text": "大切なものがあるんだ",
+          "before": [
+            34.4685,
+            36.3785
+          ],
+          "proposed": [
+            34.62,
+            36.263
+          ],
+          "after": [
+            34.4685,
+            36.263
+          ]
+        },
+        {
+          "line": 15,
+          "upstreamLine": 15,
+          "text": "星に願いをかけて",
+          "before": [
+            67.8185,
+            72.28275
+          ],
+          "proposed": [
+            67.906,
+            72.006
+          ],
+          "after": [
+            67.8185,
+            72.006
+          ]
+        },
+        {
+          "line": 16,
+          "upstreamLine": 16,
+          "text": "魔法のような明日を",
+          "before": [
+            72.28275,
+            76.10275
+          ],
+          "proposed": [
+            72.426,
+            75.746
+          ],
+          "after": [
+            72.28275,
+            75.746
+          ]
+        },
+        {
+          "line": 17,
+          "upstreamLine": 17,
+          "text": "憧れも涙にも光がほら宿ってる",
+          "before": [
+            76.10275,
+            84.85275
+          ],
+          "proposed": [
+            76.226,
+            83.687
+          ],
+          "after": [
+            76.10275,
+            83.687
+          ]
+        },
+        {
+          "line": 18,
+          "upstreamLine": 18,
+          "text": "星を見つけるほどに",
+          "before": [
+            84.85275,
+            89.20275
+          ],
+          "proposed": [
+            84.907,
+            89.007
+          ],
+          "after": [
+            84.85275,
+            89.007
+          ]
+        },
+        {
+          "line": 19,
+          "upstreamLine": 19,
+          "text": "暗闇を照らした",
+          "before": [
+            89.20275,
+            93.03275
+          ],
+          "proposed": [
+            89.407,
+            92.708
+          ],
+          "after": [
+            89.20275,
+            92.708
+          ]
+        },
+        {
+          "line": 20,
+          "upstreamLine": 20,
+          "text": "解けない繋がりをメロディーにして",
+          "before": [
+            93.03275,
+            99.24275
+          ],
+          "proposed": [
+            93.128,
+            98.568
+          ],
+          "after": [
+            93.03275,
+            98.568
+          ]
+        },
+        {
+          "line": 21,
+          "upstreamLine": 21,
+          "text": "夢を満たしてゆこう",
+          "before": [
+            99.24275,
+            102.81275
+          ],
+          "proposed": [
+            99.508,
+            102.588
+          ],
+          "after": [
+            99.24275,
+            102.588
+          ]
+        },
+        {
+          "line": 23,
+          "upstreamLine": 23,
+          "text": "いつかの約束",
+          "before": [
+            105.24275,
+            107.05275
+          ],
+          "proposed": [
+            105.409,
+            106.93
+          ],
+          "after": [
+            105.24275,
+            106.93
+          ]
+        },
+        {
+          "line": 24,
+          "upstreamLine": 24,
+          "text": "NeverEnd NeverEnd Wow Wow",
+          "before": [
+            107.05275,
+            109.19275
+          ],
+          "proposed": [
+            107.209,
+            109.109
+          ],
+          "after": [
+            107.05275,
+            109.109
+          ]
+        },
+        {
+          "line": 25,
+          "upstreamLine": 25,
+          "text": "叶えられるから",
+          "before": [
+            109.19275,
+            113.60275
+          ],
+          "proposed": [
+            109.329,
+            113.39
+          ],
+          "after": [
+            109.19275,
+            113.39
+          ]
+        }
+      ]
     }
   ]
 }

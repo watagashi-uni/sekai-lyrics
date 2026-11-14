@@ -89,6 +89,249 @@
       "url": null,
       "license": null,
       "note": "已保存来源标签，未记录可直接引用的链接"
+    },
+    {
+      "usage": "罗马音",
+      "provider": "Sekaipedia",
+      "url": "https://www.sekaipedia.org/wiki/About_me",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "via": "https://github.com/shinonomeenana/sekai_lyrics",
+      "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
+      "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "逐句结束时间",
+      "provider": "shinonomeenana/sekai_lyrics",
+      "url": "https://github.com/shinonomeenana/sekai_lyrics",
+      "license": null,
+      "vocalId": 1770,
+      "verdict": "ok",
+      "fillerSec": 9.0,
+      "method": "ordered exact normalized text; starts agree within 0.3s; non-clamped; end shortened within existing interval; upstream vocal-silence alignment, no independent acoustic verification",
+      "lines": [
+        {
+          "line": 0,
+          "upstreamLine": 0,
+          "text": "I have a story to tell",
+          "before": [
+            30.59875,
+            32.80575
+          ],
+          "proposed": [
+            30.72,
+            32.62
+          ],
+          "after": [
+            30.59875,
+            32.62
+          ]
+        },
+        {
+          "line": 17,
+          "upstreamLine": 17,
+          "text": "Maybe I'm afraid I'm not as tender guy as you think",
+          "before": [
+            72.40075,
+            76.81675
+          ],
+          "proposed": [
+            72.34,
+            76.7
+          ],
+          "after": [
+            72.40075,
+            76.7
+          ]
+        },
+        {
+          "line": 18,
+          "upstreamLine": 18,
+          "text": "Looking your eyes, and I say \"love you\" with fake smile",
+          "before": [
+            76.81675,
+            80.46875
+          ],
+          "proposed": [
+            76.84,
+            80.26
+          ],
+          "after": [
+            76.81675,
+            80.26
+          ]
+        },
+        {
+          "line": 19,
+          "upstreamLine": 19,
+          "text": "I don't know what to do",
+          "before": [
+            80.46875,
+            81.99075
+          ],
+          "proposed": [
+            80.54,
+            81.98
+          ],
+          "after": [
+            80.46875,
+            81.98
+          ]
+        },
+        {
+          "line": 21,
+          "upstreamLine": 21,
+          "text": "Just feel so sad inside, but I kiss you",
+          "before": [
+            83.92375,
+            87.27275
+          ],
+          "proposed": [
+            84.08,
+            87.08
+          ],
+          "after": [
+            83.92375,
+            87.08
+          ]
+        },
+        {
+          "line": 23,
+          "upstreamLine": 23,
+          "text": "気付いた時には終わりを告げ",
+          "before": [
+            101.12275,
+            105.44875
+          ],
+          "proposed": [
+            101.2,
+            105.38
+          ],
+          "after": [
+            101.12275,
+            105.38
+          ]
+        },
+        {
+          "line": 24,
+          "upstreamLine": 24,
+          "text": "全てが僕を笑うんだろう？",
+          "before": [
+            105.44875,
+            109.16575
+          ],
+          "proposed": [
+            105.4,
+            109.14
+          ],
+          "after": [
+            105.44875,
+            109.14
+          ]
+        },
+        {
+          "line": 25,
+          "upstreamLine": 25,
+          "text": "風が冷たいこんな日は",
+          "before": [
+            109.16575,
+            112.66575
+          ],
+          "proposed": [
+            109.16,
+            112.48
+          ],
+          "after": [
+            109.16575,
+            112.48
+          ]
+        },
+        {
+          "line": 26,
+          "upstreamLine": 26,
+          "text": "君を思い出すよ",
+          "before": [
+            112.66575,
+            115.26175
+          ],
+          "proposed": [
+            112.52,
+            114.48
+          ],
+          "after": [
+            112.66575,
+            114.48
+          ]
+        },
+        {
+          "line": 27,
+          "upstreamLine": 27,
+          "text": "Maybe I'm afraid I'm not as tender guy as you think",
+          "before": [
+            115.26175,
+            119.84175
+          ],
+          "proposed": [
+            115.54,
+            119.8
+          ],
+          "after": [
+            115.26175,
+            119.8
+          ]
+        },
+        {
+          "line": 28,
+          "upstreamLine": 28,
+          "text": "I close my eyes, and I say \"love you\" with true smile",
+          "before": [
+            119.84175,
+            123.51575
+          ],
+          "proposed": [
+            119.8,
+            123.24
+          ],
+          "after": [
+            119.84175,
+            123.24
+          ]
+        },
+        {
+          "line": 29,
+          "upstreamLine": 29,
+          "text": "I don't know what to do",
+          "before": [
+            123.51575,
+            125.00475
+          ],
+          "proposed": [
+            123.48,
+            124.92
+          ],
+          "after": [
+            123.51575,
+            124.92
+          ]
+        },
+        {
+          "line": 32,
+          "upstreamLine": 32,
+          "text": "Good-bye...",
+          "before": [
+            130.10775,
+            137.20625
+          ],
+          "proposed": [
+            130.0,
+            131.27
+          ],
+          "after": [
+            130.10775,
+            131.27
+          ]
+        }
+      ]
     }
   ]
 }

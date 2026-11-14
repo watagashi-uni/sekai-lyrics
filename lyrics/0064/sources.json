@@ -49,6 +49,232 @@
       "url": "https://y.qq.com/n/ryqq/songDetail/000y62Ri1ci1HB",
       "license": null,
       "note": "qrc"
+    },
+    {
+      "usage": "罗马音",
+      "provider": "Sekaipedia",
+      "url": "https://www.sekaipedia.org/wiki/Stella",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "via": "https://github.com/shinonomeenana/sekai_lyrics",
+      "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
+      "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "逐句结束时间",
+      "provider": "shinonomeenana/sekai_lyrics",
+      "url": "https://github.com/shinonomeenana/sekai_lyrics",
+      "license": null,
+      "vocalId": 56,
+      "verdict": "ok-agree",
+      "fillerSec": 9.0,
+      "method": "ordered exact normalized text; starts agree within 0.3s; non-clamped; end shortened within existing interval; upstream vocal-silence alignment, no independent acoustic verification",
+      "lines": [
+        {
+          "line": 2,
+          "upstreamLine": 2,
+          "text": "未来が閉じたように",
+          "before": [
+            15.001636,
+            16.985501
+          ],
+          "proposed": [
+            15.042,
+            16.722
+          ],
+          "after": [
+            15.001636,
+            16.722
+          ]
+        },
+        {
+          "line": 4,
+          "upstreamLine": 4,
+          "text": "ああ　みにくい心も",
+          "before": [
+            19.920303,
+            21.681184
+          ],
+          "proposed": [
+            20.002,
+            21.562
+          ],
+          "after": [
+            19.920303,
+            21.562
+          ]
+        },
+        {
+          "line": 5,
+          "upstreamLine": 5,
+          "text": "かすれそうな言葉も",
+          "before": [
+            21.8,
+            24.77
+          ],
+          "proposed": [
+            21.922,
+            24.04
+          ],
+          "after": [
+            21.8,
+            24.04
+          ]
+        },
+        {
+          "line": 9,
+          "upstreamLine": 9,
+          "text": "空を駆けてゆけたら",
+          "before": [
+            53.450034,
+            56.32384
+          ],
+          "proposed": [
+            53.546,
+            56.01
+          ],
+          "after": [
+            53.450034,
+            56.01
+          ]
+        },
+        {
+          "line": 10,
+          "upstreamLine": 10,
+          "text": "綺麗だってはやされて",
+          "before": [
+            56.32384,
+            58.322705
+          ],
+          "proposed": [
+            56.486,
+            58.126
+          ],
+          "after": [
+            56.32384,
+            58.126
+          ]
+        },
+        {
+          "line": 14,
+          "upstreamLine": 14,
+          "text": "誰かの描いた地図じゃ",
+          "before": [
+            66.26,
+            68.18
+          ],
+          "proposed": [
+            66.23,
+            67.867
+          ],
+          "after": [
+            66.26,
+            67.867
+          ]
+        },
+        {
+          "line": 16,
+          "upstreamLine": 16,
+          "text": "ああ　僕らの現状は",
+          "before": [
+            71.11,
+            73.21
+          ],
+          "proposed": [
+            71.208,
+            73.19
+          ],
+          "after": [
+            71.11,
+            73.19
+          ]
+        },
+        {
+          "line": 17,
+          "upstreamLine": 17,
+          "text": "いじらしくふらっとして",
+          "before": [
+            73.257694,
+            75.714528
+          ],
+          "proposed": [
+            73.448,
+            75.348
+          ],
+          "after": [
+            73.257694,
+            75.348
+          ]
+        },
+        {
+          "line": 18,
+          "upstreamLine": 18,
+          "text": "気を抜けばあすが",
+          "before": [
+            75.714528,
+            77.586401
+          ],
+          "proposed": [
+            75.848,
+            77.448
+          ],
+          "after": [
+            75.714528,
+            77.448
+          ]
+        },
+        {
+          "line": 26,
+          "upstreamLine": 26,
+          "text": "とっくのとうに生えていた",
+          "before": [
+            99.301932,
+            101.905756
+          ],
+          "proposed": [
+            99.431,
+            101.511
+          ],
+          "after": [
+            99.301932,
+            101.511
+          ]
+        },
+        {
+          "line": 27,
+          "upstreamLine": 27,
+          "text": "吐き出す息がしらさめて",
+          "before": [
+            101.95,
+            104.47
+          ],
+          "proposed": [
+            102.051,
+            104.391
+          ],
+          "after": [
+            101.95,
+            104.391
+          ]
+        },
+        {
+          "line": 33,
+          "upstreamLine": 33,
+          "text": "ああ　夜空はずっと待っている",
+          "before": [
+            121.3,
+            124.21
+          ],
+          "proposed": [
+            121.453,
+            123.473
+          ],
+          "after": [
+            121.3,
+            123.473
+          ]
+        }
+      ]
     }
   ]
 }

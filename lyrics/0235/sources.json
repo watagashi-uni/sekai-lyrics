@@ -49,6 +49,79 @@
       "url": null,
       "license": null,
       "note": "已保存来源标签，未记录可直接引用的链接"
+    },
+    {
+      "usage": "罗马音",
+      "provider": "Sekaipedia",
+      "url": "https://www.sekaipedia.org/wiki/Journey",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "via": "https://github.com/shinonomeenana/sekai_lyrics",
+      "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
+      "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "逐句结束时间",
+      "provider": "shinonomeenana/sekai_lyrics",
+      "url": "https://github.com/shinonomeenana/sekai_lyrics",
+      "license": null,
+      "vocalId": 592,
+      "verdict": "ok-agree",
+      "fillerSec": 9.0,
+      "method": "ordered exact normalized text; starts agree within 0.3s; non-clamped; end shortened within existing interval; upstream vocal-silence alignment, no independent acoustic verification",
+      "lines": [
+        {
+          "line": 0,
+          "upstreamLine": 0,
+          "text": "Jo-jo-jo-journey",
+          "before": [
+            14.390584,
+            15.871132
+          ],
+          "proposed": [
+            14.46,
+            15.6
+          ],
+          "after": [
+            14.390584,
+            15.6
+          ]
+        },
+        {
+          "line": 29,
+          "upstreamLine": 29,
+          "text": "なってる",
+          "before": [
+            118.9645,
+            122.6525
+          ],
+          "proposed": [
+            119.1,
+            119.54
+          ],
+          "after": [
+            118.9645,
+            119.54
+          ]
+        },
+        {
+          "line": 44,
+          "upstreamLine": 44,
+          "text": "笑って生きていくためのJo-jo-jo-journey　奏でるMelody",
+          "before": [
+            166.3795,
+            174.9375
+          ],
+          "proposed": [
+            166.38,
+            171.66
+          ],
+          "after": [
+            166.3795,
+            171.66
+          ]
+        }
+      ]
     }
   ]
 }

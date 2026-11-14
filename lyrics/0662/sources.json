@@ -65,6 +65,334 @@
       "url": "https://www.sekaipedia.org/wiki/Kokuhaku?oldid=329804",
       "license": "CC BY-SA 4.0",
       "note": "renditions/sekai/version"
+    },
+    {
+      "usage": "罗马音",
+      "provider": "Sekaipedia",
+      "url": "https://www.sekaipedia.org/wiki/Kokuhaku",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "via": "https://github.com/shinonomeenana/sekai_lyrics",
+      "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
+      "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "逐句结束时间",
+      "provider": "shinonomeenana/sekai_lyrics",
+      "url": "https://github.com/shinonomeenana/sekai_lyrics",
+      "license": null,
+      "vocalId": 1780,
+      "verdict": "ok-agree",
+      "fillerSec": 5.923,
+      "method": "ordered exact normalized text; starts agree within 0.3s; non-clamped; end shortened within existing interval; upstream vocal-silence alignment, no independent acoustic verification",
+      "lines": [
+        {
+          "line": 2,
+          "upstreamLine": 2,
+          "text": "求められたとおりにはかったのに",
+          "before": [
+            22.027,
+            28.214
+          ],
+          "proposed": [
+            21.99,
+            27.25
+          ],
+          "after": [
+            22.027,
+            27.25
+          ]
+        },
+        {
+          "line": 3,
+          "upstreamLine": 3,
+          "text": "漏れ出して呪ってしまう",
+          "before": [
+            28.209,
+            33.655
+          ],
+          "proposed": [
+            28.18,
+            32.28
+          ],
+          "after": [
+            28.209,
+            32.28
+          ]
+        },
+        {
+          "line": 4,
+          "upstreamLine": 4,
+          "text": "痛んだ胸も弾んだ息も",
+          "before": [
+            33.65,
+            36.514
+          ],
+          "proposed": [
+            33.38,
+            36.16
+          ],
+          "after": [
+            33.65,
+            36.16
+          ]
+        },
+        {
+          "line": 5,
+          "upstreamLine": 5,
+          "text": "一つ残らずあなたのせいね",
+          "before": [
+            36.521,
+            39.768
+          ],
+          "proposed": [
+            36.3,
+            39.24
+          ],
+          "after": [
+            36.521,
+            39.24
+          ]
+        },
+        {
+          "line": 6,
+          "upstreamLine": 6,
+          "text": "幸福だけ願うからこそ",
+          "before": [
+            39.768,
+            42.574
+          ],
+          "proposed": [
+            39.5,
+            42.38
+          ],
+          "after": [
+            39.768,
+            42.38
+          ]
+        },
+        {
+          "line": 9,
+          "upstreamLine": 9,
+          "text": "そう想うのはあなたのせいね",
+          "before": [
+            48.822,
+            51.888
+          ],
+          "proposed": [
+            48.62,
+            51.54
+          ],
+          "after": [
+            48.822,
+            51.54
+          ]
+        },
+        {
+          "line": 10,
+          "upstreamLine": 10,
+          "text": "踏み出すほど痛むとしても",
+          "before": [
+            51.888,
+            55.214
+          ],
+          "proposed": [
+            51.8,
+            54.66
+          ],
+          "after": [
+            51.888,
+            54.66
+          ]
+        },
+        {
+          "line": 11,
+          "upstreamLine": 11,
+          "text": "歩いていこう",
+          "before": [
+            55.027,
+            58.233
+          ],
+          "proposed": [
+            54.76,
+            57.1
+          ],
+          "after": [
+            55.027,
+            57.1
+          ]
+        },
+        {
+          "line": 12,
+          "upstreamLine": 12,
+          "text": "こんなにも辛いのなら知らなきゃよかった",
+          "before": [
+            58.222,
+            60.947
+          ],
+          "proposed": [
+            58.19,
+            60.7
+          ],
+          "after": [
+            58.222,
+            60.7
+          ]
+        },
+        {
+          "line": 13,
+          "upstreamLine": 13,
+          "text": "いっそ捨てられたのならどんなによかった",
+          "before": [
+            61,
+            64.405
+          ],
+          "proposed": [
+            61.02,
+            63.78
+          ],
+          "after": [
+            61,
+            63.78
+          ]
+        },
+        {
+          "line": 14,
+          "upstreamLine": 14,
+          "text": "それでも僕はあなたに 出会えてよかった",
+          "before": [
+            64.405,
+            67.209
+          ],
+          "proposed": [
+            64.12,
+            66.84
+          ],
+          "after": [
+            64.405,
+            66.84
+          ]
+        },
+        {
+          "line": 15,
+          "upstreamLine": 15,
+          "text": "懲りずにまた縋ってしまう",
+          "before": [
+            66.941,
+            73.63
+          ],
+          "proposed": [
+            67.04,
+            73.23
+          ],
+          "after": [
+            66.941,
+            73.23
+          ]
+        },
+        {
+          "line": 18,
+          "upstreamLine": 18,
+          "text": "幸福だけ願うからこそ",
+          "before": [
+            79.787,
+            82.693
+          ],
+          "proposed": [
+            79.75,
+            82.26
+          ],
+          "after": [
+            79.787,
+            82.26
+          ]
+        },
+        {
+          "line": 22,
+          "upstreamLine": 22,
+          "text": "踏み出すほど痛むとしても",
+          "before": [
+            92.048,
+            95.174
+          ],
+          "proposed": [
+            91.82,
+            94.6
+          ],
+          "after": [
+            92.048,
+            94.6
+          ]
+        },
+        {
+          "line": 23,
+          "upstreamLine": 23,
+          "text": "歩いていこう",
+          "before": [
+            94.661,
+            97.787
+          ],
+          "proposed": [
+            94.72,
+            97.74
+          ],
+          "after": [
+            94.661,
+            97.74
+          ]
+        },
+        {
+          "line": 24,
+          "upstreamLine": 24,
+          "text": "弱くてごめんね",
+          "before": [
+            97.787,
+            100.452
+          ],
+          "proposed": [
+            97.76,
+            99.98
+          ],
+          "after": [
+            97.787,
+            99.98
+          ]
+        },
+        {
+          "line": 25,
+          "upstreamLine": 25,
+          "text": "ずるくてごめんね",
+          "before": [
+            100.941,
+            103.945
+          ],
+          "proposed": [
+            100.8,
+            103.08
+          ],
+          "after": [
+            100.941,
+            103.08
+          ]
+        },
+        {
+          "line": 30,
+          "upstreamLine": 30,
+          "text": "幸せを願ってしまう",
+          "before": [
+            123.56,
+            127.77
+          ],
+          "proposed": [
+            123.56,
+            127.7
+          ],
+          "after": [
+            123.56,
+            127.7
+          ]
+        }
+      ]
     }
   ]
 }

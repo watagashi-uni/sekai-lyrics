@@ -41,6 +41,346 @@
       "url": null,
       "license": null,
       "note": null
+    },
+    {
+      "usage": "罗马音",
+      "provider": "Sekaipedia",
+      "url": "https://www.sekaipedia.org/wiki/Kitty",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "via": "https://github.com/shinonomeenana/sekai_lyrics",
+      "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
+      "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "附加演唱版本",
+      "provider": "game audio waveform mapping",
+      "url": "https://assets-direct.unipjsk.com/ondemand/music/long/vs_0353_01/vs_0353_01.mp3",
+      "license": null,
+      "vocalId": 860,
+      "source": "C",
+      "referenceVocalId": 861,
+      "performerSource": "musicVocals 7.1.0.60; solo whole-song attribution",
+      "mapping": {
+        "sourceMinusTarget": 0.0,
+        "coverage": 0.931,
+        "medianScore": 0.82115,
+        "duration": 123.03325,
+        "referenceDuration": 123.03325,
+        "windows": [
+          {
+            "targetStart": 4.0,
+            "offset": -0.00175,
+            "score": 0.31823
+          },
+          {
+            "targetStart": 8.0,
+            "offset": 0.0,
+            "score": 0.74669
+          },
+          {
+            "targetStart": 12.0,
+            "offset": 96.0,
+            "score": 0.79055
+          },
+          {
+            "targetStart": 16.0,
+            "offset": 0.0,
+            "score": 0.84174
+          },
+          {
+            "targetStart": 20.0,
+            "offset": 0.0,
+            "score": 0.86768
+          },
+          {
+            "targetStart": 24.0,
+            "offset": 0.0,
+            "score": 0.97725
+          },
+          {
+            "targetStart": 28.0,
+            "offset": 0.0,
+            "score": 0.99376
+          },
+          {
+            "targetStart": 32.0,
+            "offset": 0.0,
+            "score": 0.96302
+          },
+          {
+            "targetStart": 36.0,
+            "offset": 0.0,
+            "score": 0.8673
+          },
+          {
+            "targetStart": 40.0,
+            "offset": 0.0,
+            "score": 0.83541
+          },
+          {
+            "targetStart": 44.0,
+            "offset": 0.0,
+            "score": 0.85601
+          },
+          {
+            "targetStart": 48.0,
+            "offset": 0.0,
+            "score": 0.84194
+          },
+          {
+            "targetStart": 52.0,
+            "offset": 0.0,
+            "score": 0.79855
+          },
+          {
+            "targetStart": 56.0,
+            "offset": 0.0,
+            "score": 0.8199
+          },
+          {
+            "targetStart": 60.0,
+            "offset": 0.0,
+            "score": 0.80874
+          },
+          {
+            "targetStart": 64.0,
+            "offset": 0.0,
+            "score": 0.78935
+          },
+          {
+            "targetStart": 68.0,
+            "offset": 0.0,
+            "score": 0.80573
+          },
+          {
+            "targetStart": 72.0,
+            "offset": 0.0,
+            "score": 0.82115
+          },
+          {
+            "targetStart": 76.0,
+            "offset": 0.0,
+            "score": 0.79713
+          },
+          {
+            "targetStart": 80.0,
+            "offset": 0.0,
+            "score": 0.81148
+          },
+          {
+            "targetStart": 84.0,
+            "offset": 0.0,
+            "score": 0.81255
+          },
+          {
+            "targetStart": 88.0,
+            "offset": 0.0,
+            "score": 0.77848
+          },
+          {
+            "targetStart": 92.0,
+            "offset": 0.0,
+            "score": 0.78576
+          },
+          {
+            "targetStart": 96.0,
+            "offset": 0.0,
+            "score": 0.79281
+          },
+          {
+            "targetStart": 100.0,
+            "offset": 0.0,
+            "score": 0.7613
+          },
+          {
+            "targetStart": 104.0,
+            "offset": 0.0,
+            "score": 0.88793
+          },
+          {
+            "targetStart": 108.0,
+            "offset": 0.0,
+            "score": 0.99361
+          },
+          {
+            "targetStart": 112.0,
+            "offset": 0.0,
+            "score": 0.99379
+          },
+          {
+            "targetStart": 116.0,
+            "offset": 0.0,
+            "score": 0.99393
+          }
+        ]
+      },
+      "note": "6-second windows every 4 seconds; >=90% consistent within 20ms, score>=0.65, median>=0.8, max supported gap 8s, bounded tails. Line-only; no inherited words or segments. Lyrics licenses/translation credits remain those of default version."
+    },
+    {
+      "usage": "附加演唱版本",
+      "provider": "game audio waveform mapping",
+      "url": "https://assets-direct.unipjsk.com/ondemand/music/long/an_0353_01/an_0353_01.mp3",
+      "license": null,
+      "vocalId": 901,
+      "source": "C",
+      "referenceVocalId": 861,
+      "performerSource": "musicVocals 7.1.0.60; solo whole-song attribution",
+      "mapping": {
+        "sourceMinusTarget": 0.0,
+        "coverage": 1.0,
+        "medianScore": 0.88989,
+        "duration": 123.4895,
+        "referenceDuration": 123.03325,
+        "windows": [
+          {
+            "targetStart": 4.0,
+            "offset": 0.0,
+            "score": 0.99916
+          },
+          {
+            "targetStart": 8.0,
+            "offset": 0.0,
+            "score": 0.99892
+          },
+          {
+            "targetStart": 12.0,
+            "offset": 0.0,
+            "score": 0.94285
+          },
+          {
+            "targetStart": 16.0,
+            "offset": 0.0,
+            "score": 0.8485
+          },
+          {
+            "targetStart": 20.0,
+            "offset": 0.0,
+            "score": 0.88989
+          },
+          {
+            "targetStart": 24.0,
+            "offset": 0.0,
+            "score": 0.99568
+          },
+          {
+            "targetStart": 28.0,
+            "offset": 0.0,
+            "score": 0.99937
+          },
+          {
+            "targetStart": 32.0,
+            "offset": 0.0,
+            "score": 0.96912
+          },
+          {
+            "targetStart": 36.0,
+            "offset": 0.0,
+            "score": 0.86472
+          },
+          {
+            "targetStart": 40.0,
+            "offset": 0.0,
+            "score": 0.84783
+          },
+          {
+            "targetStart": 44.0,
+            "offset": 0.0,
+            "score": 0.86333
+          },
+          {
+            "targetStart": 48.0,
+            "offset": 0.0,
+            "score": 0.85388
+          },
+          {
+            "targetStart": 52.0,
+            "offset": 0.0,
+            "score": 0.82065
+          },
+          {
+            "targetStart": 56.0,
+            "offset": 0.0,
+            "score": 0.89313
+          },
+          {
+            "targetStart": 60.0,
+            "offset": 0.0,
+            "score": 0.91107
+          },
+          {
+            "targetStart": 64.0,
+            "offset": 0.0,
+            "score": 0.74389
+          },
+          {
+            "targetStart": 68.0,
+            "offset": 0.0,
+            "score": 0.80148
+          },
+          {
+            "targetStart": 72.0,
+            "offset": 0.0,
+            "score": 0.89517
+          },
+          {
+            "targetStart": 76.0,
+            "offset": 0.0,
+            "score": 0.83136
+          },
+          {
+            "targetStart": 80.0,
+            "offset": 0.0,
+            "score": 0.84224
+          },
+          {
+            "targetStart": 84.0,
+            "offset": 0.0,
+            "score": 0.83266
+          },
+          {
+            "targetStart": 88.0,
+            "offset": 0.0,
+            "score": 0.78654
+          },
+          {
+            "targetStart": 92.0,
+            "offset": 0.0,
+            "score": 0.79559
+          },
+          {
+            "targetStart": 96.0,
+            "offset": 0.0,
+            "score": 0.84471
+          },
+          {
+            "targetStart": 100.0,
+            "offset": 0.0,
+            "score": 0.89432
+          },
+          {
+            "targetStart": 104.0,
+            "offset": 0.0,
+            "score": 0.99805
+          },
+          {
+            "targetStart": 108.0,
+            "offset": 0.0,
+            "score": 0.99846
+          },
+          {
+            "targetStart": 112.0,
+            "offset": 0.0,
+            "score": 0.99823
+          },
+          {
+            "targetStart": 116.0,
+            "offset": 0.0,
+            "score": 0.9974
+          }
+        ]
+      },
+      "note": "6-second windows every 4 seconds; >=90% consistent within 20ms, score>=0.65, median>=0.8, max supported gap 8s, bounded tails. Line-only; no inherited words or segments. Lyrics licenses/translation credits remain those of default version."
     }
   ]
 }

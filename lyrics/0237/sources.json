@@ -41,6 +41,181 @@
       "url": "https://www.sekaipedia.org/wiki/Kimi_no_Yoru_o_Kure?oldid=329787",
       "license": "CC BY-SA 4.0",
       "note": "renditions/sekai/version"
+    },
+    {
+      "usage": "罗马音",
+      "provider": "Sekaipedia",
+      "url": "https://www.sekaipedia.org/wiki/Kimi_no_Yoru_o_Kure",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "via": "https://github.com/shinonomeenana/sekai_lyrics",
+      "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
+      "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "逐句结束时间",
+      "provider": "shinonomeenana/sekai_lyrics",
+      "url": "https://github.com/shinonomeenana/sekai_lyrics",
+      "license": null,
+      "vocalId": 596,
+      "verdict": "ok-agree",
+      "fillerSec": 7.4917,
+      "method": "ordered exact normalized text; starts agree within 0.3s; non-clamped; end shortened within existing interval; upstream vocal-silence alignment, no independent acoustic verification",
+      "lines": [
+        {
+          "line": 0,
+          "upstreamLine": 0,
+          "text": "ずっと話したかった。",
+          "before": [
+            9.781,
+            15.908
+          ],
+          "proposed": [
+            9.7597,
+            13.6897
+          ],
+          "after": [
+            9.781,
+            13.6897
+          ]
+        },
+        {
+          "line": 1,
+          "upstreamLine": 1,
+          "text": "無くしてしまった夜のことを",
+          "before": [
+            15.928,
+            22.116
+          ],
+          "proposed": [
+            15.6697,
+            19.7197
+          ],
+          "after": [
+            15.928,
+            19.7197
+          ]
+        },
+        {
+          "line": 2,
+          "upstreamLine": 2,
+          "text": "哀しい話じゃない",
+          "before": [
+            22.12,
+            25.362
+          ],
+          "proposed": [
+            22.0997,
+            24.9397
+          ],
+          "after": [
+            22.12,
+            24.9397
+          ]
+        },
+        {
+          "line": 3,
+          "upstreamLine": 3,
+          "text": "寂しくなるけど、いいんだ。",
+          "before": [
+            25.371,
+            32.69
+          ],
+          "proposed": [
+            25.0897,
+            32.4297
+          ],
+          "after": [
+            25.371,
+            32.4297
+          ]
+        },
+        {
+          "line": 4,
+          "upstreamLine": 4,
+          "text": "灯りをずっと消したままで眠れない日は、",
+          "before": [
+            44.662,
+            50.248
+          ],
+          "proposed": [
+            44.6197,
+            49.3597
+          ],
+          "after": [
+            44.662,
+            49.3597
+          ]
+        },
+        {
+          "line": 5,
+          "upstreamLine": 5,
+          "text": "冷めてしまった珈琲に逃げ込んでみる。",
+          "before": [
+            50.241,
+            56.488
+          ],
+          "proposed": [
+            50.2297,
+            55.0897
+          ],
+          "after": [
+            50.241,
+            55.0897
+          ]
+        },
+        {
+          "line": 6,
+          "upstreamLine": 6,
+          "text": "借りたままだったレコードに針を落したら、",
+          "before": [
+            56.481,
+            62.227
+          ],
+          "proposed": [
+            56.4597,
+            61.3897
+          ],
+          "after": [
+            56.481,
+            61.3897
+          ]
+        },
+        {
+          "line": 7,
+          "upstreamLine": 7,
+          "text": "情けないステップで踊りだせる！",
+          "before": [
+            62.241,
+            67.887
+          ],
+          "proposed": [
+            62.2197,
+            67.1197
+          ],
+          "after": [
+            62.241,
+            67.1197
+          ]
+        },
+        {
+          "line": 11,
+          "upstreamLine": 11,
+          "text": "きっと街の影を照らす灯りが",
+          "before": [
+            91.141,
+            97.667
+          ],
+          "proposed": [
+            91.1097,
+            97.0997
+          ],
+          "after": [
+            91.141,
+            97.0997
+          ]
+        }
+      ]
     }
   ]
 }

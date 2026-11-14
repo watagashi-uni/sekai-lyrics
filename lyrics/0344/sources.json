@@ -57,6 +57,232 @@
       "url": null,
       "license": null,
       "note": "已保存来源标签，未记录可直接引用的链接"
+    },
+    {
+      "usage": "罗马音",
+      "provider": "Sekaipedia",
+      "url": "https://www.sekaipedia.org/wiki/Nounai_Kakumei_Girl",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "via": "https://github.com/shinonomeenana/sekai_lyrics",
+      "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
+      "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "逐句结束时间",
+      "provider": "shinonomeenana/sekai_lyrics",
+      "url": "https://github.com/shinonomeenana/sekai_lyrics",
+      "license": null,
+      "vocalId": 845,
+      "verdict": "ok-agree",
+      "fillerSec": 9.0,
+      "method": "ordered exact normalized text; starts agree within 0.3s; non-clamped; end shortened within existing interval; upstream vocal-silence alignment, no independent acoustic verification",
+      "lines": [
+        {
+          "line": 0,
+          "upstreamLine": 0,
+          "text": "言い訳、始まりました、",
+          "before": [
+            24.04825,
+            28.46825
+          ],
+          "proposed": [
+            24.303,
+            26.324
+          ],
+          "after": [
+            24.04825,
+            26.324
+          ]
+        },
+        {
+          "line": 2,
+          "upstreamLine": 2,
+          "text": "それはさあ･･･それはさあ、それがさあ！",
+          "before": [
+            28.46825,
+            32.07425
+          ],
+          "proposed": [
+            28.75,
+            31.064
+          ],
+          "after": [
+            28.46825,
+            31.064
+          ]
+        },
+        {
+          "line": 4,
+          "upstreamLine": 4,
+          "text": "見下し、在り在りですか、",
+          "before": [
+            32.07425,
+            36.49325
+          ],
+          "proposed": [
+            32.024,
+            34.4
+          ],
+          "after": [
+            32.07425,
+            34.4
+          ]
+        },
+        {
+          "line": 6,
+          "upstreamLine": 6,
+          "text": "これがさ･･･これがさ、これがさ！",
+          "before": [
+            36.49325,
+            38.53625
+          ],
+          "proposed": [
+            36.685,
+            38.5
+          ],
+          "after": [
+            36.49325,
+            38.5
+          ]
+        },
+        {
+          "line": 8,
+          "upstreamLine": 8,
+          "text": "止まった針に目を瞑って。",
+          "before": [
+            49.04275,
+            52.94275
+          ],
+          "proposed": [
+            49.207,
+            52.91
+          ],
+          "after": [
+            49.04275,
+            52.91
+          ]
+        },
+        {
+          "line": 10,
+          "upstreamLine": 10,
+          "text": "あー、ニンゲンじゃないみたいだ、",
+          "before": [
+            56.28075,
+            60.97375
+          ],
+          "proposed": [
+            56.068,
+            59.088
+          ],
+          "after": [
+            56.28075,
+            59.088
+          ]
+        },
+        {
+          "line": 12,
+          "upstreamLine": 12,
+          "text": "空振りの理想論、",
+          "before": [
+            60.97375,
+            64.71675
+          ],
+          "proposed": [
+            61.228,
+            62.788
+          ],
+          "after": [
+            60.97375,
+            62.788
+          ]
+        },
+        {
+          "line": 14,
+          "upstreamLine": 14,
+          "text": "感じとれないみたいだ、",
+          "before": [
+            64.71675,
+            68.89175
+          ],
+          "proposed": [
+            64.989,
+            67.089
+          ],
+          "after": [
+            64.71675,
+            67.089
+          ]
+        },
+        {
+          "line": 27,
+          "upstreamLine": 27,
+          "text": "ニンゲンじゃないみたいだ、",
+          "before": [
+            100.8245,
+            104.9155
+          ],
+          "proposed": [
+            100.974,
+            103.094
+          ],
+          "after": [
+            100.8245,
+            103.094
+          ]
+        },
+        {
+          "line": 36,
+          "upstreamLine": 36,
+          "text": "言い訳、始まりました、",
+          "before": [
+            128.123,
+            132.486
+          ],
+          "proposed": [
+            128.297,
+            130.337
+          ],
+          "after": [
+            128.123,
+            130.337
+          ]
+        },
+        {
+          "line": 38,
+          "upstreamLine": 38,
+          "text": "それはさあ･･･それはさあ、それがさあ！",
+          "before": [
+            132.486,
+            136.006
+          ],
+          "proposed": [
+            132.72,
+            134.52
+          ],
+          "after": [
+            132.486,
+            134.52
+          ]
+        },
+        {
+          "line": 40,
+          "upstreamLine": 40,
+          "text": "いい加減、諦めました。",
+          "before": [
+            136.006,
+            140.426
+          ],
+          "proposed": [
+            136.258,
+            138.42
+          ],
+          "after": [
+            136.006,
+            138.42
+          ]
+        }
+      ]
     }
   ]
 }

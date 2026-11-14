@@ -33,6 +33,96 @@
       "url": "https://y.qq.com/n/ryqq/songDetail/002x15HQ1ZFpLQ",
       "license": null,
       "note": "qrc"
+    },
+    {
+      "usage": "罗马音",
+      "provider": "Sekaipedia",
+      "url": "https://www.sekaipedia.org/wiki/Fragile",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "via": "https://github.com/shinonomeenana/sekai_lyrics",
+      "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
+      "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "逐句结束时间",
+      "provider": "shinonomeenana/sekai_lyrics",
+      "url": "https://github.com/shinonomeenana/sekai_lyrics",
+      "license": null,
+      "vocalId": 75,
+      "verdict": "ok-agree",
+      "fillerSec": 8.992,
+      "method": "ordered exact normalized text; starts agree within 0.3s; non-clamped; end shortened within existing interval; upstream vocal-silence alignment, no independent acoustic verification",
+      "lines": [
+        {
+          "line": 12,
+          "upstreamLine": 12,
+          "text": "構わないで　離れていて",
+          "before": [
+            83.749,
+            87.557
+          ],
+          "proposed": [
+            83.56,
+            87.18
+          ],
+          "after": [
+            83.749,
+            87.18
+          ]
+        },
+        {
+          "line": 14,
+          "upstreamLine": 14,
+          "text": "報わないで　話をして",
+          "before": [
+            91.388,
+            95.04875
+          ],
+          "proposed": [
+            91.16,
+            94.8
+          ],
+          "after": [
+            91.388,
+            94.8
+          ]
+        },
+        {
+          "line": 16,
+          "upstreamLine": 16,
+          "text": "眠らないで　言葉にして",
+          "before": [
+            98.78225,
+            102.63025
+          ],
+          "proposed": [
+            98.5,
+            102.34
+          ],
+          "after": [
+            98.78225,
+            102.34
+          ]
+        },
+        {
+          "line": 18,
+          "upstreamLine": 18,
+          "text": "笑わないで　君に咲いた執着よ、",
+          "before": [
+            106.34725,
+            112.45325
+          ],
+          "proposed": [
+            106.28,
+            112.0
+          ],
+          "after": [
+            106.34725,
+            112.0
+          ]
+        }
+      ]
     }
   ]
 }

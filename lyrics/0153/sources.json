@@ -57,6 +57,358 @@
       "url": null,
       "license": null,
       "note": "已保存来源标签，未记录可直接引用的链接"
+    },
+    {
+      "usage": "逐句结束时间",
+      "provider": "shinonomeenana/sekai_lyrics",
+      "url": "https://github.com/shinonomeenana/sekai_lyrics",
+      "license": null,
+      "vocalId": 324,
+      "verdict": "ok",
+      "fillerSec": 8.0625,
+      "method": "ordered exact normalized text; starts agree within 0.3s; non-clamped; end shortened within existing interval; upstream vocal-silence alignment, no independent acoustic verification",
+      "lines": [
+        {
+          "line": 4,
+          "upstreamLine": 4,
+          "text": "Miku Miku, you can call me Miku",
+          "before": [
+            24.98,
+            28.87
+          ],
+          "proposed": [
+            24.8705,
+            28.1795
+          ],
+          "after": [
+            24.98,
+            28.1795
+          ]
+        },
+        {
+          "line": 7,
+          "upstreamLine": 7,
+          "text": "Hear your music running through my mind",
+          "before": [
+            36.18,
+            39.32
+          ],
+          "proposed": [
+            36.0395,
+            39.1795
+          ],
+          "after": [
+            36.18,
+            39.1795
+          ]
+        },
+        {
+          "line": 8,
+          "upstreamLine": 8,
+          "text": "I'm thinking Miku Miku oo ee oo",
+          "before": [
+            39.32,
+            43.08
+          ],
+          "proposed": [
+            39.2195,
+            42.6595
+          ],
+          "after": [
+            39.32,
+            42.6595
+          ]
+        },
+        {
+          "line": 9,
+          "upstreamLine": 9,
+          "text": "I'm thinking Miku Miku oo ee oo",
+          "before": [
+            43.08,
+            46.71
+          ],
+          "proposed": [
+            42.8995,
+            46.4205
+          ],
+          "after": [
+            43.08,
+            46.4205
+          ]
+        },
+        {
+          "line": 10,
+          "upstreamLine": 10,
+          "text": "I'm thinking Miku Miku oo ee oo",
+          "before": [
+            46.71,
+            50.47
+          ],
+          "proposed": [
+            46.6595,
+            50.1405
+          ],
+          "after": [
+            46.71,
+            50.1405
+          ]
+        },
+        {
+          "line": 11,
+          "upstreamLine": 11,
+          "text": "I'm thinking Miku Miku oo ee oo",
+          "before": [
+            50.47,
+            55.07
+          ],
+          "proposed": [
+            50.3805,
+            54.0795
+          ],
+          "after": [
+            50.47,
+            54.0795
+          ]
+        },
+        {
+          "line": 13,
+          "upstreamLine": 13,
+          "text": "All I wanted to do is follow you",
+          "before": [
+            58.67,
+            62.44
+          ],
+          "proposed": [
+            58.4795,
+            62.1195
+          ],
+          "after": [
+            58.67,
+            62.1195
+          ]
+        },
+        {
+          "line": 14,
+          "upstreamLine": 14,
+          "text": "I'll keep singing along to all of you",
+          "before": [
+            62.44,
+            66.2
+          ],
+          "proposed": [
+            62.2805,
+            65.8595
+          ],
+          "after": [
+            62.44,
+            65.8595
+          ]
+        },
+        {
+          "line": 15,
+          "upstreamLine": 15,
+          "text": "I'll keep singing along",
+          "before": [
+            66.2,
+            69.264
+          ],
+          "proposed": [
+            66.0405,
+            68.7095
+          ],
+          "after": [
+            66.2,
+            68.7095
+          ]
+        },
+        {
+          "line": 18,
+          "upstreamLine": 17,
+          "text": "I'm thinking Miku Miku oo ee oo",
+          "before": [
+            73.08,
+            76.71000000000001
+          ],
+          "proposed": [
+            72.9005,
+            76.4395
+          ],
+          "after": [
+            73.08,
+            76.4395
+          ]
+        },
+        {
+          "line": 19,
+          "upstreamLine": 18,
+          "text": "I'm thinking Miku Miku oo ee oo",
+          "before": [
+            76.71000000000001,
+            80.47
+          ],
+          "proposed": [
+            76.6595,
+            80.1405
+          ],
+          "after": [
+            76.71000000000001,
+            80.1405
+          ]
+        },
+        {
+          "line": 20,
+          "upstreamLine": 19,
+          "text": "I'm thinking Miku Miku oo ee oo",
+          "before": [
+            80.47,
+            84.98400000000001
+          ],
+          "proposed": [
+            80.2805,
+            84.0405
+          ],
+          "after": [
+            80.47,
+            84.0405
+          ]
+        },
+        {
+          "line": 23,
+          "upstreamLine": 21,
+          "text": "I do nothing that they could never do",
+          "before": [
+            88.78,
+            92.53999999999999
+          ],
+          "proposed": [
+            88.6895,
+            92.0405
+          ],
+          "after": [
+            88.78,
+            92.0405
+          ]
+        },
+        {
+          "line": 25,
+          "upstreamLine": 23,
+          "text": "I'll keep playing along",
+          "before": [
+            96.22,
+            99.28
+          ],
+          "proposed": [
+            95.9805,
+            98.6095
+          ],
+          "after": [
+            96.22,
+            98.6095
+          ]
+        },
+        {
+          "line": 26,
+          "upstreamLine": 24,
+          "text": "I'm thinking Miku Miku oo ee oo",
+          "before": [
+            99.28,
+            102.91
+          ],
+          "proposed": [
+            99.2305,
+            101.4805
+          ],
+          "after": [
+            99.28,
+            101.4805
+          ]
+        },
+        {
+          "line": 27,
+          "upstreamLine": 25,
+          "text": "I'm thinking Miku Miku oo ee oo",
+          "before": [
+            102.91,
+            106.67
+          ],
+          "proposed": [
+            102.9005,
+            106.3595
+          ],
+          "after": [
+            102.91,
+            106.3595
+          ]
+        },
+        {
+          "line": 28,
+          "upstreamLine": 26,
+          "text": "I'm thinking Miku Miku oo ee oo",
+          "before": [
+            106.67,
+            110.59
+          ],
+          "proposed": [
+            106.7005,
+            109.9595
+          ],
+          "after": [
+            106.67,
+            109.9595
+          ]
+        },
+        {
+          "line": 29,
+          "upstreamLine": 27,
+          "text": "I'm thinking Miku Miku oo ee oo",
+          "before": [
+            110.59,
+            122.29
+          ],
+          "proposed": [
+            110.4205,
+            114.9805
+          ],
+          "after": [
+            110.59,
+            114.9805
+          ]
+        },
+        {
+          "line": 30,
+          "upstreamLine": 28,
+          "text": "Where were we walking together?",
+          "before": [
+            122.29,
+            123.882
+          ],
+          "proposed": [
+            122.2605,
+            123.3595
+          ],
+          "after": [
+            122.29,
+            123.3595
+          ]
+        },
+        {
+          "line": 45,
+          "upstreamLine": 43,
+          "text": "Walk through the fire, straight to me",
+          "before": [
+            150.3,
+            163.562375
+          ],
+          "proposed": [
+            150.1995,
+            152.3605
+          ],
+          "after": [
+            150.3,
+            152.3605
+          ]
+        }
+      ]
     }
   ]
 }
