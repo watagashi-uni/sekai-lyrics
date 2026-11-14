@@ -1,0 +1,1425 @@
+{
+  "music_id": 810,
+  "time_origin": "selected_game_recording_start_including_pre_roll",
+  "performers": [
+    {
+      "performerId": "歌唱者-05",
+      "name": "花里みのり",
+      "characterId": 5
+    },
+    {
+      "performerId": "歌唱者-06",
+      "name": "桐谷遥",
+      "characterId": 6
+    },
+    {
+      "performerId": "歌唱者-07",
+      "name": "桃井愛莉",
+      "characterId": 7
+    },
+    {
+      "performerId": "歌唱者-08",
+      "name": "日野森雫",
+      "characterId": 8
+    },
+    {
+      "performerId": "歌唱者-22",
+      "name": "鏡音リン",
+      "characterId": 22
+    }
+  ],
+  "credits": {
+    "作词": "晴いちばん",
+    "作曲": "晴いちばん",
+    "translation": "雪莹ちゃん"
+  },
+  "lines": [
+    {
+      "index": 0,
+      "sourceLines": [
+        {
+          "version": "game",
+          "index": 0
+        }
+      ],
+      "start": 25.729,
+      "end": 31.609,
+      "japanese": "白鳥は湖の夢を見た",
+      "zh-CN": "白天鹅曾梦见过湖泊",
+      "segments": [
+        {
+          "text": "白鳥は湖の夢を見た",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "白鳥",
+              "reading": "はくちょう"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "湖",
+              "reading": "みずうみ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "夢",
+              "reading": "ゆめ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "見",
+              "reading": "み"
+            },
+            {
+              "text": "た"
+            }
+          ]
+        }
+      ],
+      "ruby": [
+        {
+          "from": 0,
+          "to": 2,
+          "reading": "はくちょう"
+        },
+        {
+          "from": 3,
+          "to": 4,
+          "reading": "みずうみ"
+        },
+        {
+          "from": 5,
+          "to": 6,
+          "reading": "ゆめ"
+        },
+        {
+          "from": 7,
+          "to": 8,
+          "reading": "み"
+        }
+      ],
+      "trailingPerformerIds": []
+    },
+    {
+      "index": 1,
+      "sourceLines": [
+        {
+          "version": "game",
+          "index": 1
+        }
+      ],
+      "start": 31.609,
+      "end": 35.209,
+      "japanese": "その胸に希望を抱きながら",
+      "zh-CN": "胸中怀抱着一抹希望",
+      "segments": [
+        {
+          "text": "その胸に希望を抱きながら",
+          "performerIds": [
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "その"
+            },
+            {
+              "text": "胸",
+              "reading": "むね"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "希望",
+              "reading": "きぼう"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "抱",
+              "reading": "いだ"
+            },
+            {
+              "text": "きながら"
+            }
+          ]
+        }
+      ],
+      "ruby": [
+        {
+          "from": 2,
+          "to": 3,
+          "reading": "むね"
+        },
+        {
+          "from": 4,
+          "to": 6,
+          "reading": "きぼう"
+        },
+        {
+          "from": 7,
+          "to": 8,
+          "reading": "いだ"
+        }
+      ],
+      "trailingPerformerIds": []
+    },
+    {
+      "index": 2,
+      "sourceLines": [
+        {
+          "version": "game",
+          "index": 2
+        }
+      ],
+      "start": 35.209,
+      "end": 38.449,
+      "japanese": "忘れたくない気持ちは",
+      "zh-CN": "不想遗忘的这份心意",
+      "segments": [
+        {
+          "text": "忘れたくない気持ちは",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "忘",
+              "reading": "わす"
+            },
+            {
+              "text": "れたくない"
+            },
+            {
+              "text": "気持",
+              "reading": "きも"
+            },
+            {
+              "text": "ちは"
+            }
+          ]
+        }
+      ],
+      "ruby": [
+        {
+          "from": 0,
+          "to": 1,
+          "reading": "わす"
+        },
+        {
+          "from": 6,
+          "to": 8,
+          "reading": "きも"
+        }
+      ],
+      "trailingPerformerIds": []
+    },
+    {
+      "index": 3,
+      "sourceLines": [
+        {
+          "version": "game",
+          "index": 3
+        }
+      ],
+      "start": 38.449,
+      "end": 41.189,
+      "japanese": "ちゃんと届いているかな",
+      "zh-CN": "是否真切传达出去了呢",
+      "segments": [
+        {
+          "text": "ちゃんと届いているかな",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "ちゃんと"
+            },
+            {
+              "text": "届",
+              "reading": "とど"
+            },
+            {
+              "text": "いているかな"
+            }
+          ]
+        }
+      ],
+      "ruby": [
+        {
+          "from": 4,
+          "to": 5,
+          "reading": "とど"
+        }
+      ],
+      "trailingPerformerIds": []
+    },
+    {
+      "index": 4,
+      "sourceLines": [
+        {
+          "version": "game",
+          "index": 4
+        }
+      ],
+      "start": 41.189,
+      "end": 44.329,
+      "japanese": "まだ目に焼き付けたい",
+      "zh-CN": "还想深深烙印在眼底",
+      "segments": [
+        {
+          "text": "まだ目に焼き付けたい",
+          "performerIds": [
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "まだ"
+            },
+            {
+              "text": "目",
+              "reading": "め"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "焼",
+              "reading": "や"
+            },
+            {
+              "text": "き"
+            },
+            {
+              "text": "付",
+              "reading": "つ"
+            },
+            {
+              "text": "けたい"
+            }
+          ]
+        }
+      ],
+      "ruby": [
+        {
+          "from": 2,
+          "to": 3,
+          "reading": "め"
+        },
+        {
+          "from": 4,
+          "to": 5,
+          "reading": "や"
+        },
+        {
+          "from": 6,
+          "to": 7,
+          "reading": "つ"
+        }
+      ],
+      "trailingPerformerIds": []
+    },
+    {
+      "index": 5,
+      "sourceLines": [
+        {
+          "version": "game",
+          "index": 5
+        }
+      ],
+      "start": 44.329,
+      "end": 47.149,
+      "japanese": "まだ探し続けたい",
+      "zh-CN": "还想继续追寻下去",
+      "segments": [
+        {
+          "text": "まだ探し続けたい",
+          "performerIds": [
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "まだ"
+            },
+            {
+              "text": "探",
+              "reading": "さが"
+            },
+            {
+              "text": "し"
+            },
+            {
+              "text": "続",
+              "reading": "つづ"
+            },
+            {
+              "text": "けたい"
+            }
+          ]
+        }
+      ],
+      "ruby": [
+        {
+          "from": 2,
+          "to": 3,
+          "reading": "さが"
+        },
+        {
+          "from": 4,
+          "to": 5,
+          "reading": "つづ"
+        }
+      ],
+      "trailingPerformerIds": []
+    },
+    {
+      "index": 6,
+      "sourceLines": [
+        {
+          "version": "game",
+          "index": 6
+        }
+      ],
+      "start": 47.149,
+      "end": 49.909,
+      "japanese": "世界が傾いても",
+      "zh-CN": "纵使世界颠倒倾覆",
+      "segments": [
+        {
+          "text": "世界が傾いても",
+          "performerIds": [
+            "歌唱者-22",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "世界",
+              "reading": "せかい"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "傾",
+              "reading": "かたむ"
+            },
+            {
+              "text": "いても"
+            }
+          ]
+        }
+      ],
+      "ruby": [
+        {
+          "from": 0,
+          "to": 2,
+          "reading": "せかい"
+        },
+        {
+          "from": 3,
+          "to": 4,
+          "reading": "かたむ"
+        }
+      ],
+      "trailingPerformerIds": []
+    },
+    {
+      "index": 7,
+      "sourceLines": [
+        {
+          "version": "game",
+          "index": 7
+        }
+      ],
+      "start": 49.909,
+      "end": 53.989,
+      "japanese": "覚悟が揺らぐことはない",
+      "zh-CN": "决意也绝不会动摇",
+      "segments": [
+        {
+          "text": "覚悟が揺らぐことはない",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "覚悟",
+              "reading": "かくご"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "揺",
+              "reading": "ゆ"
+            },
+            {
+              "text": "らぐことはない"
+            }
+          ]
+        }
+      ],
+      "ruby": [
+        {
+          "from": 0,
+          "to": 2,
+          "reading": "かくご"
+        },
+        {
+          "from": 3,
+          "to": 4,
+          "reading": "ゆ"
+        }
+      ],
+      "trailingPerformerIds": []
+    },
+    {
+      "index": 8,
+      "sourceLines": [
+        {
+          "version": "game",
+          "index": 8
+        }
+      ],
+      "start": 53.989,
+      "end": 56.949,
+      "japanese": "私がそばにいるから",
+      "zh-CN": "因为有我陪伴身旁",
+      "segments": [
+        {
+          "text": "私がそばにいるから",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "私",
+              "reading": "わたし"
+            },
+            {
+              "text": "がそばにいるから"
+            }
+          ]
+        }
+      ],
+      "ruby": [
+        {
+          "from": 0,
+          "to": 1,
+          "reading": "わたし"
+        }
+      ],
+      "trailingPerformerIds": []
+    },
+    {
+      "index": 9,
+      "sourceLines": [
+        {
+          "version": "game",
+          "index": 9
+        }
+      ],
+      "start": 56.949,
+      "end": 59.989,
+      "japanese": "絶対、離れないで",
+      "zh-CN": "绝对、请不要松手",
+      "segments": [
+        {
+          "text": "絶対、",
+          "performerIds": [
+            "歌唱者-22",
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "絶対",
+              "reading": "ぜったい"
+            },
+            {
+              "text": "、"
+            }
+          ]
+        },
+        {
+          "text": "離れないで",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "離",
+              "reading": "はな"
+            },
+            {
+              "text": "れないで"
+            }
+          ]
+        }
+      ],
+      "ruby": [
+        {
+          "from": 0,
+          "to": 2,
+          "reading": "ぜったい"
+        },
+        {
+          "from": 3,
+          "to": 4,
+          "reading": "はな"
+        }
+      ],
+      "trailingPerformerIds": []
+    },
+    {
+      "index": 10,
+      "sourceLines": [
+        {
+          "version": "game",
+          "index": 10
+        }
+      ],
+      "start": 59.989,
+      "end": 62.769,
+      "japanese": "ノーモアフィクションでね",
+      "zh-CN": "绝不再虚构伪装",
+      "segments": [
+        {
+          "text": "ノーモアフィクションでね",
+          "performerIds": [
+            "歌唱者-22",
+            "歌唱者-06",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "ノーモアフィクションでね"
+            }
+          ]
+        }
+      ],
+      "ruby": [],
+      "trailingPerformerIds": []
+    },
+    {
+      "index": 11,
+      "sourceLines": [
+        {
+          "version": "game",
+          "index": 11
+        }
+      ],
+      "start": 62.769,
+      "end": 65.629,
+      "japanese": "見失わないように",
+      "zh-CN": "为了不再迷失方向",
+      "segments": [
+        {
+          "text": "見失わないように",
+          "performerIds": [
+            "歌唱者-22",
+            "歌唱者-05",
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "見失",
+              "reading": "みうしな"
+            },
+            {
+              "text": "わないように"
+            }
+          ]
+        }
+      ],
+      "ruby": [
+        {
+          "from": 0,
+          "to": 2,
+          "reading": "みうしな"
+        }
+      ],
+      "trailingPerformerIds": []
+    },
+    {
+      "index": 12,
+      "sourceLines": [
+        {
+          "version": "game",
+          "index": 12
+        }
+      ],
+      "start": 65.629,
+      "end": 71.329,
+      "japanese": "迷いながらでも進める私でいたいの",
+      "zh-CN": "我想做哪怕迷茫也能迈步前行的自己",
+      "segments": [
+        {
+          "text": "迷いながらでも進める私でいたいの",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "迷",
+              "reading": "まよ"
+            },
+            {
+              "text": "いながらでも"
+            },
+            {
+              "text": "進",
+              "reading": "すす"
+            },
+            {
+              "text": "める"
+            },
+            {
+              "text": "私",
+              "reading": "わたし"
+            },
+            {
+              "text": "でいたいの"
+            }
+          ]
+        }
+      ],
+      "ruby": [
+        {
+          "from": 0,
+          "to": 1,
+          "reading": "まよ"
+        },
+        {
+          "from": 7,
+          "to": 8,
+          "reading": "すす"
+        },
+        {
+          "from": 10,
+          "to": 11,
+          "reading": "わたし"
+        }
+      ],
+      "trailingPerformerIds": []
+    },
+    {
+      "index": 13,
+      "sourceLines": [
+        {
+          "version": "game",
+          "index": 13
+        }
+      ],
+      "start": 71.329,
+      "end": 74.269,
+      "japanese": "今はついてきて",
+      "zh-CN": "此刻就请跟随我来",
+      "segments": [
+        {
+          "text": "今はついてきて",
+          "performerIds": [
+            "歌唱者-22",
+            "歌唱者-06",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "今",
+              "reading": "いま"
+            },
+            {
+              "text": "はついてきて"
+            }
+          ]
+        }
+      ],
+      "ruby": [
+        {
+          "from": 0,
+          "to": 1,
+          "reading": "いま"
+        }
+      ],
+      "trailingPerformerIds": []
+    },
+    {
+      "index": 14,
+      "sourceLines": [
+        {
+          "version": "game",
+          "index": 14
+        }
+      ],
+      "start": 74.269,
+      "end": 77.749,
+      "japanese": "光の向こう側まで",
+      "zh-CN": "直至光芒的彼端",
+      "segments": [
+        {
+          "text": "光の向こう側まで",
+          "performerIds": [
+            "歌唱者-22",
+            "歌唱者-05",
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "光",
+              "reading": "ひかり"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "向",
+              "reading": "む"
+            },
+            {
+              "text": "こう"
+            },
+            {
+              "text": "側",
+              "reading": "がわ"
+            },
+            {
+              "text": "まで"
+            }
+          ]
+        }
+      ],
+      "ruby": [
+        {
+          "from": 0,
+          "to": 1,
+          "reading": "ひかり"
+        },
+        {
+          "from": 2,
+          "to": 3,
+          "reading": "む"
+        },
+        {
+          "from": 5,
+          "to": 6,
+          "reading": "がわ"
+        }
+      ],
+      "trailingPerformerIds": []
+    },
+    {
+      "index": 15,
+      "sourceLines": [
+        {
+          "version": "game",
+          "index": 15
+        }
+      ],
+      "start": 77.749,
+      "end": 81.429,
+      "japanese": "冷めない心を確かに",
+      "zh-CN": "将未曾冷却的心真切化作",
+      "segments": [
+        {
+          "text": "冷めない心を確かに",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-07"
+          ],
+          "ruby": [
+            {
+              "text": "冷",
+              "reading": "さ"
+            },
+            {
+              "text": "めない"
+            },
+            {
+              "text": "心",
+              "reading": "こころ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "確",
+              "reading": "たし"
+            },
+            {
+              "text": "かに"
+            }
+          ]
+        }
+      ],
+      "ruby": [
+        {
+          "from": 0,
+          "to": 1,
+          "reading": "さ"
+        },
+        {
+          "from": 4,
+          "to": 5,
+          "reading": "こころ"
+        },
+        {
+          "from": 6,
+          "to": 7,
+          "reading": "たし"
+        }
+      ],
+      "trailingPerformerIds": []
+    },
+    {
+      "index": 16,
+      "sourceLines": [
+        {
+          "version": "game",
+          "index": 16
+        }
+      ],
+      "start": 81.429,
+      "end": 94.149,
+      "japanese": "紡ぐはノンフィクション",
+      "zh-CN": "谱写真实不虚的篇章",
+      "segments": [
+        {
+          "text": "紡ぐはノンフィクション",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "紡",
+              "reading": "つむ"
+            },
+            {
+              "text": "ぐはノンフィクション"
+            }
+          ]
+        }
+      ],
+      "ruby": [
+        {
+          "from": 0,
+          "to": 1,
+          "reading": "つむ"
+        }
+      ],
+      "trailingPerformerIds": []
+    },
+    {
+      "index": 17,
+      "sourceLines": [
+        {
+          "version": "game",
+          "index": 17
+        },
+        {
+          "version": "game",
+          "index": 18
+        }
+      ],
+      "start": 94.149,
+      "end": 99.129,
+      "japanese": "一人じゃない同じ決意で繋がっている",
+      "zh-CN": "并非孤身一人　怀揣同样的决意紧紧相系",
+      "segments": [
+        {
+          "text": "一人じゃない",
+          "performerIds": [
+            "歌唱者-22",
+            "歌唱者-05"
+          ],
+          "ruby": [
+            {
+              "text": "一人",
+              "reading": "ひとり"
+            },
+            {
+              "text": "じゃない"
+            }
+          ]
+        },
+        {
+          "text": "同じ決意で繋がっている",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "同",
+              "reading": "おな"
+            },
+            {
+              "text": "じ"
+            },
+            {
+              "text": "決意",
+              "reading": "けつい"
+            },
+            {
+              "text": "で"
+            },
+            {
+              "text": "繋",
+              "reading": "つな"
+            },
+            {
+              "text": "がっている"
+            }
+          ]
+        }
+      ],
+      "ruby": [
+        {
+          "from": 0,
+          "to": 2,
+          "reading": "ひとり"
+        },
+        {
+          "from": 6,
+          "to": 7,
+          "reading": "おな"
+        },
+        {
+          "from": 8,
+          "to": 10,
+          "reading": "けつい"
+        },
+        {
+          "from": 11,
+          "to": 12,
+          "reading": "つな"
+        }
+      ],
+      "trailingPerformerIds": []
+    },
+    {
+      "index": 19,
+      "sourceLines": [
+        {
+          "version": "game",
+          "index": 19
+        }
+      ],
+      "start": 99.129,
+      "end": 105.549,
+      "japanese": "次は私が導くの",
+      "zh-CN": "接下来就由我来指引前路",
+      "segments": [
+        {
+          "text": "次は私が導くの",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "次",
+              "reading": "つぎ"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "私",
+              "reading": "わたし"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "導",
+              "reading": "みちび"
+            },
+            {
+              "text": "くの"
+            }
+          ]
+        }
+      ],
+      "ruby": [
+        {
+          "from": 0,
+          "to": 1,
+          "reading": "つぎ"
+        },
+        {
+          "from": 2,
+          "to": 3,
+          "reading": "わたし"
+        },
+        {
+          "from": 4,
+          "to": 5,
+          "reading": "みちび"
+        }
+      ],
+      "trailingPerformerIds": []
+    },
+    {
+      "index": 20,
+      "sourceLines": [
+        {
+          "version": "game",
+          "index": 20
+        }
+      ],
+      "start": 105.549,
+      "end": 108.429,
+      "japanese": "ノーモアフィクションでね",
+      "zh-CN": "绝不再虚构伪装",
+      "segments": [
+        {
+          "text": "ノーモアフィクションでね",
+          "performerIds": [
+            "歌唱者-22",
+            "歌唱者-06"
+          ],
+          "ruby": [
+            {
+              "text": "ノーモアフィクションでね"
+            }
+          ]
+        }
+      ],
+      "ruby": [],
+      "trailingPerformerIds": []
+    },
+    {
+      "index": 21,
+      "sourceLines": [
+        {
+          "version": "game",
+          "index": 21
+        }
+      ],
+      "start": 108.429,
+      "end": 111.429,
+      "japanese": "見失わないように",
+      "zh-CN": "为了不再迷失方向",
+      "segments": [
+        {
+          "text": "見失わないように",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "見失",
+              "reading": "みうしな"
+            },
+            {
+              "text": "わないように"
+            }
+          ]
+        }
+      ],
+      "ruby": [
+        {
+          "from": 0,
+          "to": 2,
+          "reading": "みうしな"
+        }
+      ],
+      "trailingPerformerIds": []
+    },
+    {
+      "index": 22,
+      "sourceLines": [
+        {
+          "version": "game",
+          "index": 22
+        }
+      ],
+      "start": 111.429,
+      "end": 116.849,
+      "japanese": "迷いながらでも進める私でいたいの",
+      "zh-CN": "我想做哪怕迷茫也能迈步前行的自己",
+      "segments": [
+        {
+          "text": "迷いながらでも進める私でいたいの",
+          "performerIds": [
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "迷",
+              "reading": "まよ"
+            },
+            {
+              "text": "いながらでも"
+            },
+            {
+              "text": "進",
+              "reading": "すす"
+            },
+            {
+              "text": "める"
+            },
+            {
+              "text": "私",
+              "reading": "わたし"
+            },
+            {
+              "text": "でいたいの"
+            }
+          ]
+        }
+      ],
+      "ruby": [
+        {
+          "from": 0,
+          "to": 1,
+          "reading": "まよ"
+        },
+        {
+          "from": 7,
+          "to": 8,
+          "reading": "すす"
+        },
+        {
+          "from": 10,
+          "to": 11,
+          "reading": "わたし"
+        }
+      ],
+      "trailingPerformerIds": []
+    },
+    {
+      "index": 23,
+      "sourceLines": [
+        {
+          "version": "game",
+          "index": 23
+        }
+      ],
+      "start": 116.849,
+      "end": 119.949,
+      "japanese": "今はついてきて",
+      "zh-CN": "此刻就请跟随我来",
+      "segments": [
+        {
+          "text": "今はついてきて",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "今",
+              "reading": "いま"
+            },
+            {
+              "text": "はついてきて"
+            }
+          ]
+        }
+      ],
+      "ruby": [
+        {
+          "from": 0,
+          "to": 1,
+          "reading": "いま"
+        }
+      ],
+      "trailingPerformerIds": []
+    },
+    {
+      "index": 24,
+      "sourceLines": [
+        {
+          "version": "game",
+          "index": 24
+        }
+      ],
+      "start": 119.949,
+      "end": 123.489,
+      "japanese": "光の向こう側まで",
+      "zh-CN": "直至光芒的彼端",
+      "segments": [
+        {
+          "text": "光の向こう側まで",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "光",
+              "reading": "ひかり"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "向",
+              "reading": "む"
+            },
+            {
+              "text": "こう"
+            },
+            {
+              "text": "側",
+              "reading": "がわ"
+            },
+            {
+              "text": "まで"
+            }
+          ]
+        }
+      ],
+      "ruby": [
+        {
+          "from": 0,
+          "to": 1,
+          "reading": "ひかり"
+        },
+        {
+          "from": 2,
+          "to": 3,
+          "reading": "む"
+        },
+        {
+          "from": 5,
+          "to": 6,
+          "reading": "がわ"
+        }
+      ],
+      "trailingPerformerIds": []
+    },
+    {
+      "index": 25,
+      "sourceLines": [
+        {
+          "version": "game",
+          "index": 25
+        }
+      ],
+      "start": 123.489,
+      "end": 127.149,
+      "japanese": "冷めない心を確かに",
+      "zh-CN": "将未曾冷却的心真切化作",
+      "segments": [
+        {
+          "text": "冷めない心を確かに",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08"
+          ],
+          "ruby": [
+            {
+              "text": "冷",
+              "reading": "さ"
+            },
+            {
+              "text": "めない"
+            },
+            {
+              "text": "心",
+              "reading": "こころ"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "確",
+              "reading": "たし"
+            },
+            {
+              "text": "かに"
+            }
+          ]
+        }
+      ],
+      "ruby": [
+        {
+          "from": 0,
+          "to": 1,
+          "reading": "さ"
+        },
+        {
+          "from": 4,
+          "to": 5,
+          "reading": "こころ"
+        },
+        {
+          "from": 6,
+          "to": 7,
+          "reading": "たし"
+        }
+      ],
+      "trailingPerformerIds": []
+    },
+    {
+      "index": 26,
+      "sourceLines": [
+        {
+          "version": "game",
+          "index": 26
+        }
+      ],
+      "start": 127.149,
+      "end": 134.103,
+      "japanese": "紡ぐはノンフィクション",
+      "zh-CN": "谱写真实不虚的篇章",
+      "segments": [
+        {
+          "text": "紡ぐはノンフィクション",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-22"
+          ],
+          "ruby": [
+            {
+              "text": "紡",
+              "reading": "つむ"
+            },
+            {
+              "text": "ぐはノンフィクション"
+            }
+          ]
+        }
+      ],
+      "ruby": [
+        {
+          "from": 0,
+          "to": 1,
+          "reading": "つむ"
+        }
+      ],
+      "trailingPerformerIds": []
+    }
+  ]
+}

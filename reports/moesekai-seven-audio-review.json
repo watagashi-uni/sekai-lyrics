@@ -1,0 +1,80 @@
+{
+  "date": "2026-11-14",
+  "musicId": 782,
+  "vocalId": 1339,
+  "assetbundle": "vs_0782_01",
+  "sourceLine": 18,
+  "text": "ほらそんなの二の次の次の次の次の次の次の次の次の...",
+  "start": 57.1,
+  "end": 64.2,
+  "timingPrecisionSeconds": 0.1,
+  "method": [
+    "User confirmed the repeated phrase at 0:57–1:04 in game audio.",
+    "htdemucs vocals separated from vs_0782_01 game audio; 100 ms RMS windows show onset at 57.1 s and decay below -54 dB at 64.2 s.",
+    "MoeSekai game line 18 supplies text, translation, ruby and singer segmentation. No word timings inferred."
+  ],
+  "energyWindows": [
+    [
+      56.8,
+      -63.4
+    ],
+    [
+      56.9,
+      -63.3
+    ],
+    [
+      57.0,
+      -58.6
+    ],
+    [
+      57.1,
+      -21.5
+    ],
+    [
+      57.2,
+      -18.0
+    ],
+    [
+      57.3,
+      -18.2
+    ],
+    [
+      57.4,
+      -22.0
+    ],
+    [
+      63.9,
+      -15.4
+    ],
+    [
+      64.0,
+      -21.8
+    ],
+    [
+      64.1,
+      -29.2
+    ],
+    [
+      64.2,
+      -54.5
+    ],
+    [
+      64.3,
+      -70.0
+    ],
+    [
+      64.4,
+      -70.9
+    ],
+    [
+      64.5,
+      -70.8
+    ]
+  ],
+  "previousLineEndChange": {
+    "from": 66.943,
+    "to": 57.1,
+    "reason": "Stop the previous next-cue interval when the new cue begins."
+  },
+  "otherSongs": "825 and 826 retain existing NetEase cues as explicitly requested; no additions made."
+}

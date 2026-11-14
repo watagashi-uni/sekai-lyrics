@@ -3,12 +3,12 @@
   "title": "スロウライト",
   "sources": [
     {
-      "usage": "歌词文字、译文与逐句时间轴",
+      "usage": "时间轴",
       "provider": "网易云音乐",
       "recordId": "3425029999",
       "url": "https://music.163.com/song?id=3425029999",
       "license": null,
-      "note": "35 条日文逐句歌词和对应中文译文。译文署名 YOASOBI_夜遊。"
+      "note": "35 条日文逐句歌词和对应中文译文。译文署名 YOASOBI_夜遊。 2026-11-14：仅保留既有时间轴；歌词、译文改用 MoeSekai，旧译者不再用于当前文本。"
     },
     {
       "usage": "游戏时间轴核对",
@@ -17,6 +17,59 @@
       "url": "https://www.nicovideo.jp/watch/sm46601598",
       "license": null,
       "note": "作者原曲与游戏音频比对 15 处，并用发行版公开试听交叉核对，游戏时间为原曲时间 +8.945375 秒。"
+    },
+    {
+      "usage": "歌词文字、中文译文、注音与分唱",
+      "provider": "MoeSekai",
+      "url": "https://pjsk.moe/zh-cn/lyrics/826/",
+      "revision": 2,
+      "updatedAt": "2026-11-14T07:00:41Z",
+      "rendition": "vocaloid",
+      "translationCredits": {
+        "translation": "雪莹ちゃん"
+      },
+      "dataUrl": "https://translation.exmeaning.com/files/translation/lyrics/music_826.json?rev=2",
+      "note": "保留原有时间标签与分句；来源快照见 moesekai.source.json，逐行映射及未映射行见 reports/moesekai-six-import.json。"
+    },
+    {
+      "usage": "歌词文字/分唱/注音上游",
+      "provider": "vocaloid_fandom",
+      "url": "https://vocaloid.fandom.com/wiki/%E3%82%B9%E3%83%AD%E3%82%A6%E3%83%A9%E3%82%A4%E3%83%88_%28Slowlight%29?oldid=1496500",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "component": "renditions/vocaloid/full_text"
+    },
+    {
+      "usage": "歌词文字/分唱/注音上游",
+      "provider": "vocaloid_fandom",
+      "url": "https://vocaloid.fandom.com/wiki/%E3%82%B9%E3%83%AD%E3%82%A6%E3%83%A9%E3%82%A4%E3%83%88_%28Slowlight%29?oldid=1496500",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "component": "renditions/vocaloid/full_performer_segmentation"
+    },
+    {
+      "usage": "歌词文字/分唱/注音上游",
+      "provider": "vocaloid_fandom",
+      "url": "https://vocaloid.fandom.com/wiki/%E3%82%B9%E3%83%AD%E3%82%A6%E3%83%A9%E3%82%A4%E3%83%88_%28Slowlight%29?oldid=1496500",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "component": "renditions/vocaloid/full_ruby"
+    },
+    {
+      "usage": "歌词文字/分唱/注音上游",
+      "provider": "vocaloid_fandom",
+      "url": "https://vocaloid.fandom.com/wiki/%E3%82%B9%E3%83%AD%E3%82%A6%E3%83%A9%E3%82%A4%E3%83%88_%28Slowlight%29?oldid=1496500",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "component": "renditions/vocaloid/relation"
+    },
+    {
+      "usage": "歌词文字/分唱/注音上游",
+      "provider": "vocaloid_fandom",
+      "url": "https://vocaloid.fandom.com/wiki/%E3%82%B9%E3%83%AD%E3%82%A6%E3%83%A9%E3%82%A4%E3%83%88_%28Slowlight%29?oldid=1496500",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "component": "renditions/vocaloid/version"
     }
   ]
 }
