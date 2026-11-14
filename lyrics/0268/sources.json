@@ -3,12 +3,21 @@
   "title": "ノンブレス・オブリージュ",
   "sources": [
     {
+      "usage": "歌词文字/分唱",
+      "provider": "shinonomeenana/sekai_lyrics",
+      "recordId": null,
+      "url": "https://github.com/shinonomeenana/sekai_lyrics",
+      "license": null,
+      "upstreamRevision": "0d70c731c627eb376ddef3120e2a24ed52d83134",
+      "note": "2026-11-14：默认版本由バーチャル・シンガーver.（vocalId 668）改为セカイver.（vocalId 669，se_0268_01），格式由 LRC 改为双语 JSON。初版来源没有分唱，所以当时只写了 VS 版。现逐行分唱取自对方 timed/0268.json 的 characterIds：53 行与本曲 game.bilingual.json 逐行文字一致，按行直接对应；不做行内拆分，不推测。"
+    },
+    {
       "usage": "时间轴",
       "provider": "QQ音乐",
       "recordId": "312626394",
       "url": null,
       "license": null,
-      "note": null
+      "note": "逐字轴原按バーチャル・シンガーver.（668）录音核对。2026-11-14 改用セカイver.（669）为默认后沿用同一时间轴：两版 HCA 长度相同（138.7297 s），对方在 se_0268_01 上独立对齐的 53 行起点与本曲中位差 0.098 s（52 行在 0.3 s 内）。75 个 LRC 行的 719 个逐字单元按出现顺序做字符对齐，迁到 53 个双语行，共 718 个；01:34.803 的孤立“息”单元落在上一句“する”的尾音上（セカイ版人声 94.95 s 才起音），未迁入。game.lrc／game.enhanced.lrc／game.zh-CN.lrc 仍保留原 75 行 LRC 成品。"
     },
     {
       "usage": "罗马音",

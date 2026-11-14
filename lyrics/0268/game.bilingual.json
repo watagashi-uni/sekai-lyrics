@@ -1,7 +1,28 @@
 {
   "music_id": 268,
   "time_origin": "selected_game_recording_start_including_pre_roll",
-  "performers": [],
+  "performers": [
+    {
+      "performerId": "歌唱者-21",
+      "name": "初音ミク"
+    },
+    {
+      "performerId": "歌唱者-17",
+      "name": "宵崎奏"
+    },
+    {
+      "performerId": "歌唱者-18",
+      "name": "朝比奈まふゆ"
+    },
+    {
+      "performerId": "歌唱者-19",
+      "name": "東雲絵名"
+    },
+    {
+      "performerId": "歌唱者-20",
+      "name": "暁山瑞希"
+    }
+  ],
   "lines": [
     {
       "index": 0,
@@ -9,6 +30,31 @@
       "end": 18.665793,
       "japanese": "世界中のすべての人間に　",
       "zh-CN": "被全世界所有的人类",
+      "segments": [
+        {
+          "text": "世界中のすべての人間に　",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "世界中",
+              "reading": "せかいじゅう"
+            },
+            {
+              "text": "のすべての"
+            },
+            {
+              "text": "人間",
+              "reading": "にんげん"
+            },
+            {
+              "text": "に　"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -17,6 +63,38 @@
       "end": 19.872433,
       "japanese": "好かれるなんて気持ち悪いよ",
       "zh-CN": "喜欢什么的未免也太恶心了吧",
+      "segments": [
+        {
+          "text": "好かれるなんて気持ち悪いよ",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "好",
+              "reading": "す"
+            },
+            {
+              "text": "かれるなんて"
+            },
+            {
+              "text": "気持",
+              "reading": "きも"
+            },
+            {
+              "text": "ち"
+            },
+            {
+              "text": "悪",
+              "reading": "わる"
+            },
+            {
+              "text": "いよ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -25,6 +103,34 @@
       "end": 21.597348,
       "japanese": "だけど一つになれない教室で　",
       "zh-CN": "但在这无法融为一体的教室里",
+      "segments": [
+        {
+          "text": "だけど一つになれない教室で　",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "だけど"
+            },
+            {
+              "text": "一",
+              "reading": "ひと"
+            },
+            {
+              "text": "つになれない"
+            },
+            {
+              "text": "教室",
+              "reading": "きょうしつ"
+            },
+            {
+              "text": "で　"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -33,6 +139,45 @@
       "end": 23.224211,
       "japanese": "君と二人　手を繋いでいたいの",
       "zh-CN": "我只想与你两人 紧紧牵着双手啊",
+      "segments": [
+        {
+          "text": "君と二人　手を繋いでいたいの",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "と"
+            },
+            {
+              "text": "二人",
+              "reading": "ふたり"
+            },
+            {
+              "text": "　"
+            },
+            {
+              "text": "手",
+              "reading": "て"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "繋",
+              "reading": "つな"
+            },
+            {
+              "text": "いでいたいの"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -41,6 +186,38 @@
       "end": 24.859079,
       "japanese": "数の暴力に白旗をあげて　",
       "zh-CN": "向数量的多数暴力举起白旗投降",
+      "segments": [
+        {
+          "text": "数の暴力に白旗をあげて　",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "数",
+              "reading": "かず"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "暴力",
+              "reading": "ぼうりょく"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "白旗",
+              "reading": "しらはた"
+            },
+            {
+              "text": "をあげて　"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -49,6 +226,31 @@
       "end": 26.65303,
       "japanese": "悪感情を殺してハイチーズ",
       "zh-CN": "扼杀负面情绪面露微笑拍个照茄子",
+      "segments": [
+        {
+          "text": "悪感情を殺してハイチーズ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "悪感情",
+              "reading": "あくかんじょう"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "殺",
+              "reading": "ころ"
+            },
+            {
+              "text": "してハイチーズ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -57,6 +259,27 @@
       "end": 28.281895,
       "japanese": "ポストトゥルースの甘いディープキス　",
       "zh-CN": "后真相时代 甜腻的深情热吻",
+      "segments": [
+        {
+          "text": "ポストトゥルースの甘いディープキス　",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "ポストトゥルースの"
+            },
+            {
+              "text": "甘",
+              "reading": "あま"
+            },
+            {
+              "text": "いディープキス　"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -65,6 +288,27 @@
       "end": 30.037826,
       "japanese": "エロく歪んでるラブアンドピース",
       "zh-CN": "妖媚扭曲的情爱与和平",
+      "segments": [
+        {
+          "text": "エロく歪んでるラブアンドピース",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "エロく"
+            },
+            {
+              "text": "歪",
+              "reading": "ゆが"
+            },
+            {
+              "text": "んでるラブアンドピース"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -73,6 +317,29 @@
       "end": 31.070374,
       "japanese": "自己中の光線銃",
       "zh-CN": "自私自利的光线枪",
+      "segments": [
+        {
+          "text": "自己中の光線銃",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "自己中",
+              "reading": "じこちゅう"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "光線銃",
+              "reading": "こうせんじゅう"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -81,6 +348,32 @@
       "end": 32.974384,
       "japanese": "乱射する強者のナンセンス",
       "zh-CN": "强者胡乱扫射的荒谬无稽",
+      "segments": [
+        {
+          "text": "乱射する強者のナンセンス",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "乱射",
+              "reading": "らんしゃ"
+            },
+            {
+              "text": "する"
+            },
+            {
+              "text": "強者",
+              "reading": "きょうしゃ"
+            },
+            {
+              "text": "のナンセンス"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -89,6 +382,35 @@
       "end": 36.206099,
       "japanese": "オートクチュールで作る　殺しのライセンス",
       "zh-CN": "高级定制打造成的 杀人执照",
+      "segments": [
+        {
+          "text": "オートクチュールで作る　殺しのライセンス",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "オートクチュールで"
+            },
+            {
+              "text": "作",
+              "reading": "つく"
+            },
+            {
+              "text": "る　"
+            },
+            {
+              "text": "殺",
+              "reading": "ころ"
+            },
+            {
+              "text": "しのライセンス"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -97,6 +419,39 @@
       "end": 38.195154,
       "japanese": "分断を生んじゃった椅子取りゲーム",
       "zh-CN": "孕育出分裂割裂的抢椅子游戏",
+      "segments": [
+        {
+          "text": "分断を生んじゃった椅子取りゲーム",
+          "performerIds": [
+            "歌唱者-19",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "分断",
+              "reading": "ぶんだん"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "生",
+              "reading": "う"
+            },
+            {
+              "text": "んじゃった"
+            },
+            {
+              "text": "椅子取",
+              "reading": "いすと"
+            },
+            {
+              "text": "りゲーム"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -105,6 +460,32 @@
       "end": 39.748979,
       "japanese": "無痛分娩で授かるベイブ",
       "zh-CN": "无痛分娩诞下的婴儿",
+      "segments": [
+        {
+          "text": "無痛分娩で授かるベイブ",
+          "performerIds": [
+            "歌唱者-19",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "無痛分娩",
+              "reading": "むつうぶんべん"
+            },
+            {
+              "text": "で"
+            },
+            {
+              "text": "授",
+              "reading": "さず"
+            },
+            {
+              "text": "かるベイブ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -113,6 +494,45 @@
       "end": 42.08922,
       "japanese": "壮大な内輪ノリを歴史と呼ぶ",
       "zh-CN": "浩大宏伟的小圈子自嗨狂欢被冠名为历史",
+      "segments": [
+        {
+          "text": "壮大な内輪ノリを歴史と呼ぶ",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "壮大",
+              "reading": "そうだい"
+            },
+            {
+              "text": "な"
+            },
+            {
+              "text": "内輪",
+              "reading": "うちわ"
+            },
+            {
+              "text": "ノリを"
+            },
+            {
+              "text": "歴史",
+              "reading": "れきし"
+            },
+            {
+              "text": "と"
+            },
+            {
+              "text": "呼",
+              "reading": "よ"
+            },
+            {
+              "text": "ぶ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -121,6 +541,38 @@
       "end": 43.644045,
       "japanese": "生きたいが死ねと言われ",
       "zh-CN": "虽想活着却被勒令去死",
+      "segments": [
+        {
+          "text": "生きたいが死ねと言われ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "生",
+              "reading": "い"
+            },
+            {
+              "text": "きたいが"
+            },
+            {
+              "text": "死",
+              "reading": "し"
+            },
+            {
+              "text": "ねと"
+            },
+            {
+              "text": "言",
+              "reading": "い"
+            },
+            {
+              "text": "われ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -129,6 +581,38 @@
       "end": 45.385969,
       "japanese": "死にたいが生きろと言われ",
       "zh-CN": "虽想死去却被勒令活着",
+      "segments": [
+        {
+          "text": "死にたいが生きろと言われ",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "死",
+              "reading": "し"
+            },
+            {
+              "text": "にたいが"
+            },
+            {
+              "text": "生",
+              "reading": "い"
+            },
+            {
+              "text": "きろと"
+            },
+            {
+              "text": "言",
+              "reading": "い"
+            },
+            {
+              "text": "われ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -137,6 +621,38 @@
       "end": 46.823732,
       "japanese": "生きたいが死ねと言われ",
       "zh-CN": "虽想活着却被勒令去死",
+      "segments": [
+        {
+          "text": "生きたいが死ねと言われ",
+          "performerIds": [
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "生",
+              "reading": "い"
+            },
+            {
+              "text": "きたいが"
+            },
+            {
+              "text": "死",
+              "reading": "し"
+            },
+            {
+              "text": "ねと"
+            },
+            {
+              "text": "言",
+              "reading": "い"
+            },
+            {
+              "text": "われ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -145,6 +661,38 @@
       "end": 48.513629,
       "japanese": "死にたいが生きろと言われ",
       "zh-CN": "虽想死去却被勒令活着",
+      "segments": [
+        {
+          "text": "死にたいが生きろと言われ",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "死",
+              "reading": "し"
+            },
+            {
+              "text": "にたいが"
+            },
+            {
+              "text": "生",
+              "reading": "い"
+            },
+            {
+              "text": "きろと"
+            },
+            {
+              "text": "言",
+              "reading": "い"
+            },
+            {
+              "text": "われ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -153,6 +701,39 @@
       "end": 51.577254,
       "japanese": "幸せ自慢はダメ？　不幸嘆いてもダメ？",
       "zh-CN": "炫耀幸福难道不行吗？ 哀叹不幸难道也不准吗？",
+      "segments": [
+        {
+          "text": "幸せ自慢はダメ？　不幸嘆いてもダメ？",
+          "performerIds": [
+            "歌唱者-19",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "幸",
+              "reading": "しあわ"
+            },
+            {
+              "text": "せ"
+            },
+            {
+              "text": "自慢",
+              "reading": "じまん"
+            },
+            {
+              "text": "はダメ？　"
+            },
+            {
+              "text": "不幸嘆",
+              "reading": "ふこうなげ"
+            },
+            {
+              "text": "いてもダメ？"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -161,6 +742,53 @@
       "end": 55.044094,
       "japanese": "図々しい言葉を避け　明るい未来のため",
       "zh-CN": "避开厚颜无耻的言语 为了光明的未来",
+      "segments": [
+        {
+          "text": "図々しい言葉を避け　明るい未来のため",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "図々",
+              "reading": "ずうずう"
+            },
+            {
+              "text": "しい"
+            },
+            {
+              "text": "言葉",
+              "reading": "ことば"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "避",
+              "reading": "さ"
+            },
+            {
+              "text": "け　"
+            },
+            {
+              "text": "明",
+              "reading": "あか"
+            },
+            {
+              "text": "るい"
+            },
+            {
+              "text": "未来",
+              "reading": "みらい"
+            },
+            {
+              "text": "のため"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -169,6 +797,15 @@
       "end": 56.099654,
       "japanese": "さんはい",
       "zh-CN": "预备齐",
+      "segments": [
+        {
+          "text": "さんはい",
+          "performerIds": [
+            "歌唱者-21"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -177,6 +814,50 @@
       "end": 58.538948,
       "japanese": "「この世には息もできない人が沢山いるんですよ」",
       "zh-CN": "「这个世上可是有许许多多连呼吸都做不到的人呢」",
+      "segments": [
+        {
+          "text": "「この世には息もできない人が沢山いるんですよ」",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-18",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "「この"
+            },
+            {
+              "text": "世",
+              "reading": "よ"
+            },
+            {
+              "text": "には"
+            },
+            {
+              "text": "息",
+              "reading": "いき"
+            },
+            {
+              "text": "もできない"
+            },
+            {
+              "text": "人",
+              "reading": "ひと"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "沢山",
+              "reading": "たくさん"
+            },
+            {
+              "text": "いるんですよ」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -185,6 +866,15 @@
       "end": 59.130262,
       "japanese": "さんはい",
       "zh-CN": "预备齐",
+      "segments": [
+        {
+          "text": "さんはい",
+          "performerIds": [
+            "歌唱者-21"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -193,6 +883,50 @@
       "end": 61.858709,
       "japanese": "「この世には息もできない人が沢山いるんですよ」",
       "zh-CN": "「这个世上可是有许许多多连呼吸都做不到的人呢」",
+      "segments": [
+        {
+          "text": "「この世には息もできない人が沢山いるんですよ」",
+          "performerIds": [
+            "歌唱者-19",
+            "歌唱者-20",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "「この"
+            },
+            {
+              "text": "世",
+              "reading": "よ"
+            },
+            {
+              "text": "には"
+            },
+            {
+              "text": "息",
+              "reading": "いき"
+            },
+            {
+              "text": "もできない"
+            },
+            {
+              "text": "人",
+              "reading": "ひと"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "沢山",
+              "reading": "たくさん"
+            },
+            {
+              "text": "いるんですよ」"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -201,6 +935,35 @@
       "end": 63.610639,
       "japanese": "あちらが立てば　こちらが立たず",
       "zh-CN": "顾得了这头 却顾不了那头",
+      "segments": [
+        {
+          "text": "あちらが立てば　こちらが立たず",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "あちらが"
+            },
+            {
+              "text": "立",
+              "reading": "た"
+            },
+            {
+              "text": "てば　こちらが"
+            },
+            {
+              "text": "立",
+              "reading": "た"
+            },
+            {
+              "text": "たず"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -209,6 +972,53 @@
       "end": 65.603696,
       "japanese": "譲り　奪い　守り　行き違い",
       "zh-CN": "退让 掠夺 守护 产生分歧龃龉",
+      "segments": [
+        {
+          "text": "譲り　奪い　守り　行き違い",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "譲",
+              "reading": "ゆず"
+            },
+            {
+              "text": "り　"
+            },
+            {
+              "text": "奪",
+              "reading": "うば"
+            },
+            {
+              "text": "い　"
+            },
+            {
+              "text": "守",
+              "reading": "まも"
+            },
+            {
+              "text": "り　"
+            },
+            {
+              "text": "行",
+              "reading": "い"
+            },
+            {
+              "text": "き"
+            },
+            {
+              "text": "違",
+              "reading": "ちが"
+            },
+            {
+              "text": "い"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -217,6 +1027,39 @@
       "end": 66.965419,
       "japanese": "地雷原で立ち止まり",
       "zh-CN": "在地雷区中央驻足止步",
+      "segments": [
+        {
+          "text": "地雷原で立ち止まり",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "地雷原",
+              "reading": "じらいげん"
+            },
+            {
+              "text": "で"
+            },
+            {
+              "text": "立",
+              "reading": "た"
+            },
+            {
+              "text": "ち"
+            },
+            {
+              "text": "止",
+              "reading": "ど"
+            },
+            {
+              "text": "まり"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -225,6 +1068,31 @@
       "end": 68.829407,
       "japanese": "大人しく犬になるんだワン",
       "zh-CN": "老老实实乖乖当一条走狗汪汪汪",
+      "segments": [
+        {
+          "text": "大人しく犬になるんだワン",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "大人",
+              "reading": "おとな"
+            },
+            {
+              "text": "しく"
+            },
+            {
+              "text": "犬",
+              "reading": "いぬ"
+            },
+            {
+              "text": "になるんだワン"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -233,6 +1101,16 @@
       "end": 70.710405,
       "japanese": "ノンブレス　ノンブレス　ノンブレス",
       "zh-CN": "屏住呼吸 无呼吸 屏息",
+      "segments": [
+        {
+          "text": "ノンブレス　ノンブレス　ノンブレス",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-21"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -241,6 +1119,16 @@
       "end": 73.448858,
       "japanese": "ノンブレス・オブリージュ",
       "zh-CN": "屏息的高贵义务",
+      "segments": [
+        {
+          "text": "ノンブレス・オブリージュ",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-21"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -249,6 +1137,17 @@
       "end": 74.497415,
       "japanese": "I love you",
       "zh-CN": "I love you",
+      "segments": [
+        {
+          "text": "I love you",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-19",
+            "歌唱者-21"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -257,6 +1156,35 @@
       "end": 78.059305,
       "japanese": "息苦しい日々の水面下",
       "zh-CN": "令人窒息的日日夜夜水面之下",
+      "segments": [
+        {
+          "text": "息苦しい日々の水面下",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "息苦",
+              "reading": "いきぐる"
+            },
+            {
+              "text": "しい"
+            },
+            {
+              "text": "日々",
+              "reading": "ひび"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "水面下",
+              "reading": "すいめんか"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -265,6 +1193,38 @@
       "end": 80.956842,
       "japanese": "ゆらゆらと煙る血の花",
       "zh-CN": "摇曳飘荡如烟如雾的鲜血之花",
+      "segments": [
+        {
+          "text": "ゆらゆらと煙る血の花",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "ゆらゆらと"
+            },
+            {
+              "text": "煙",
+              "reading": "けむ"
+            },
+            {
+              "text": "る"
+            },
+            {
+              "text": "血",
+              "reading": "ち"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "花",
+              "reading": "はな"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -273,6 +1233,16 @@
       "end": 83.927418,
       "japanese": "ぼくらは　コンプレックス　コンプレックス　コンプレックス",
       "zh-CN": "我们将 自卑情结 作为武器",
+      "segments": [
+        {
+          "text": "ぼくらは　コンプレックス　コンプレックス　コンプレックス",
+          "performerIds": [
+            "歌唱者-20",
+            "歌唱者-21"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -281,6 +1251,36 @@
       "end": 87.331224,
       "japanese": "コンプレックスを武器に争う",
       "zh-CN": "当作武器去互相争斗厮杀",
+      "segments": [
+        {
+          "text": "コンプレックスを武器に争う",
+          "performerIds": [
+            "歌唱者-20",
+            "歌唱者-21",
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "コンプレックスを"
+            },
+            {
+              "text": "武器",
+              "reading": "ぶき"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "争",
+              "reading": "あらそ"
+            },
+            {
+              "text": "う"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -289,6 +1289,34 @@
       "end": 91.070208,
       "japanese": "それぞれの都合と自由のため",
       "zh-CN": "为了各自的私利与所谓的自由",
+      "segments": [
+        {
+          "text": "それぞれの都合と自由のため",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "それぞれの"
+            },
+            {
+              "text": "都合",
+              "reading": "つごう"
+            },
+            {
+              "text": "と"
+            },
+            {
+              "text": "自由",
+              "reading": "じゆう"
+            },
+            {
+              "text": "のため"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -297,6 +1325,38 @@
       "end": 94.648106,
       "japanese": "息を止めることを　強制する",
       "zh-CN": "强行逼迫他人 彻底屏住呼吸",
+      "segments": [
+        {
+          "text": "息を止めることを　強制する",
+          "performerIds": [
+            "歌唱者-19"
+          ],
+          "ruby": [
+            {
+              "text": "息",
+              "reading": "いき"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "止",
+              "reading": "と"
+            },
+            {
+              "text": "めることを　"
+            },
+            {
+              "text": "強制",
+              "reading": "きょうせい"
+            },
+            {
+              "text": "する"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -305,6 +1365,15 @@
       "end": 97.192755,
       "japanese": "息が詰まる息が詰まる息が詰まる息が詰まる",
       "zh-CN": "喘不过气喘不过气喘不过气喘不过气",
+      "segments": [
+        {
+          "text": "息が詰まる息が詰まる息が詰まる息が詰まる",
+          "performerIds": [
+            "歌唱者-21"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -313,6 +1382,16 @@
       "end": 99.61504,
       "japanese": "息が詰まる息が詰まる息が詰まる息が詰まる",
       "zh-CN": "喘不过气喘不过气喘不过气喘不过气",
+      "segments": [
+        {
+          "text": "息が詰まる息が詰まる息が詰まる息が詰まる",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-21"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -321,6 +1400,17 @@
       "end": 102.10336,
       "japanese": "息が詰まる息が詰まる息が詰まる息が詰まる",
       "zh-CN": "喘不过气喘不过气喘不过气喘不过气",
+      "segments": [
+        {
+          "text": "息が詰まる息が詰まる息が詰まる息が詰まる",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-19",
+            "歌唱者-21"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -329,6 +1419,18 @@
       "end": 104.339547,
       "japanese": "息が詰まる息が詰まる息が詰まる息が詰まる",
       "zh-CN": "喘不过气喘不过气喘不过气喘不过气",
+      "segments": [
+        {
+          "text": "息が詰まる息が詰まる息が詰まる息が詰まる",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-19",
+            "歌唱者-20",
+            "歌唱者-21"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -337,6 +1439,19 @@
       "end": 107.007962,
       "japanese": "息が詰まる息が詰まる息が詰まる息が詰まる",
       "zh-CN": "喘不过气喘不过气喘不过气喘不过气",
+      "segments": [
+        {
+          "text": "息が詰まる息が詰まる息が詰まる息が詰まる",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-18",
+            "歌唱者-19",
+            "歌唱者-20",
+            "歌唱者-21"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -345,6 +1460,35 @@
       "end": 107.816391,
       "japanese": "息が詰まる",
       "zh-CN": "喘不过气",
+      "segments": [
+        {
+          "text": "息が詰まる",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-18",
+            "歌唱者-19",
+            "歌唱者-20",
+            "歌唱者-21"
+          ],
+          "ruby": [
+            {
+              "text": "息",
+              "reading": "いき"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "詰",
+              "reading": "つ"
+            },
+            {
+              "text": "まる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -353,6 +1497,19 @@
       "end": 110.35774,
       "japanese": "息を止める息を止める息を止める息を止める",
       "zh-CN": "屏住呼吸屏住呼吸屏住呼吸屏住呼吸",
+      "segments": [
+        {
+          "text": "息を止める息を止める息を止める息を止める",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-18",
+            "歌唱者-19",
+            "歌唱者-20",
+            "歌唱者-21"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -361,6 +1518,19 @@
       "end": 112.519887,
       "japanese": "息を止める息を止める息を止める息を止める",
       "zh-CN": "屏住呼吸屏住呼吸屏住呼吸屏住呼吸",
+      "segments": [
+        {
+          "text": "息を止める息を止める息を止める息を止める",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-18",
+            "歌唱者-19",
+            "歌唱者-20",
+            "歌唱者-21"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -369,6 +1539,19 @@
       "end": 114.970187,
       "japanese": "息を止める息を止める息を止める息を止める",
       "zh-CN": "屏住呼吸屏住呼吸屏住呼吸屏住呼吸",
+      "segments": [
+        {
+          "text": "息を止める息を止める息を止める息を止める",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-18",
+            "歌唱者-19",
+            "歌唱者-20",
+            "歌唱者-21"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -377,6 +1560,19 @@
       "end": 117.759667,
       "japanese": "息を止める息を止める息を止める息を止める",
       "zh-CN": "屏住呼吸屏住呼吸屏住呼吸屏住呼吸",
+      "segments": [
+        {
+          "text": "息を止める息を止める息を止める息を止める",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-18",
+            "歌唱者-19",
+            "歌唱者-20",
+            "歌唱者-21"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -385,6 +1581,19 @@
       "end": 120.435086,
       "japanese": "息を止める息を止める息を止める",
       "zh-CN": "屏住呼吸屏住呼吸屏住呼吸",
+      "segments": [
+        {
+          "text": "息を止める息を止める息を止める",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-18",
+            "歌唱者-19",
+            "歌唱者-20",
+            "歌唱者-21"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -393,6 +1602,15 @@
       "end": 122.732305,
       "japanese": "ノンブレス　ノンブレス　ノンブレス",
       "zh-CN": "屏住呼吸 无呼吸 屏息",
+      "segments": [
+        {
+          "text": "ノンブレス　ノンブレス　ノンブレス",
+          "performerIds": [
+            "歌唱者-21"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -401,6 +1619,15 @@
       "end": 125.475761,
       "japanese": "ノンブレス・オブリージュ　",
       "zh-CN": "屏息的高贵义务",
+      "segments": [
+        {
+          "text": "ノンブレス・オブリージュ　",
+          "performerIds": [
+            "歌唱者-21"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -409,6 +1636,19 @@
       "end": 126.17213,
       "japanese": "I love you",
       "zh-CN": "I love you",
+      "segments": [
+        {
+          "text": "I love you",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-18",
+            "歌唱者-19",
+            "歌唱者-20",
+            "歌唱者-21"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -417,6 +1657,35 @@
       "end": 130.110219,
       "japanese": "それぞれの好きを守るため",
       "zh-CN": "为了守护各自心中的所爱",
+      "segments": [
+        {
+          "text": "それぞれの好きを守るため",
+          "performerIds": [
+            "歌唱者-19",
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "それぞれの"
+            },
+            {
+              "text": "好",
+              "reading": "す"
+            },
+            {
+              "text": "きを"
+            },
+            {
+              "text": "守",
+              "reading": "まも"
+            },
+            {
+              "text": "るため"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -425,6 +1694,39 @@
       "end": 133.873216,
       "japanese": "君と防空壕で呼吸する",
       "zh-CN": "与你一同在防空洞中大口呼吸",
+      "segments": [
+        {
+          "text": "君と防空壕で呼吸する",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "と"
+            },
+            {
+              "text": "防空壕",
+              "reading": "ぼうくうごう"
+            },
+            {
+              "text": "で"
+            },
+            {
+              "text": "呼吸",
+              "reading": "こきゅう"
+            },
+            {
+              "text": "する"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     }
   ]
