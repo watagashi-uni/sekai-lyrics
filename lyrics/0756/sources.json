@@ -35,6 +35,22 @@
       "note": "已保存来源标签，未记录可直接引用的链接"
     },
     {
+      "usage": "时间轴",
+      "provider": "game_audio_review",
+      "recordId": null,
+      "url": null,
+      "license": null,
+      "note": "2026-11-14 按默认版本 se_0756_01（セカイver.，vocalId 1843，ACB 精确 cue 解码）的 htdemucs 人声轨校准 21 行，主要是句尾：按 shinonomeenana/sekai_lyrics 的方法，日语音素 CTC、MMS、Whisper 强制对齐加网易云 3416750167（完整版，按邻句模型一致点求局部偏移）投票，起点大多一致；句尾取模型句尾共识（与原值差 0.3 s 以上才改），再按 timing_safety.refine 吸附到人声静音（落在静音里取静音起点，否则取其后第一段静音起点，不超过下一句起点）；起点落在静音里的移到静音结束。英文与喊声行另用 Whisper turbo 对人声轨的无提示识别裁定。原先「仲間がいるそして」「君がいるから」共用 81.04–81.57，现分为 81.04–84.40／85.34–87.34。最后一段副歌的应答成对行无可靠分界，保持原值。时间含前置空白。逐行依据见 reports/audio-timing-review-2026-11-14.json"
+    },
+    {
+      "usage": "时间轴",
+      "provider": "网易云音乐",
+      "recordId": "3416750167",
+      "url": null,
+      "license": null,
+      "note": "Gimme more! 完整版逐句 LRC，仅作对照：按邻句模型一致点求局部偏移后参与起点投票；未直接采用其时间"
+    },
+    {
       "usage": "罗马音",
       "provider": "Sekaipedia",
       "url": "https://www.sekaipedia.org/wiki/Gimme_more%21",
