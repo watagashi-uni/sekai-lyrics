@@ -83,3 +83,15 @@ LRC 基于保留的来源行，双语 JSON 基于原项目行，分句、拟声�
 ### LRC 逐句结束时间
 
 可选 `lineTimings: [{cueStart,text,start,end,source}]` 给没有逐字轴的行补充结束时间。按原始 cueStart＋text 匹配，优先级低于 wordLines。旧客户端忽略此字段，仍按下一行开始时间结束；不向普通 LRC 硬塞结束标签。来源与核对方法在 sources.json 中逐行记录。
+
+### 多演唱版本（可选扩展）
+
+顶层继续代表既有默认版本，`versions` 保存其它版本，索引仍为 `v:1`。每项包含 `vocalId`、`assetbundle`、`duration`、`performers`、`source`（A/B/C/D）、`lines` 及可选 `credits`。每个版本的行都使用该版本音频的绝对时间，按 start 非递减排列；重叠行允许。
+
+为避免重复文字，行可用 `textRef` 引用默认版本的零基播放行（双语 lines 数组；LRC 则所有非空行的时间标签展开后，按原始 cueStart 稳定排序，不去重）。只继承 text、translation、ruby、romaji、romajiSource；**不继承时间、words、segments 或 performerIds**。文字或译文不同则直接存 text、translation。分唱仅使用当前版本的行／segments；没有分唱就不填这些字段。逐字仅在该版本单独验证后显式保存，不能因 textRef 而继承。
+
+```json
+{"vocalId":465,"assetbundle":"an_0002_01","duration":116,"source":"A","performers":[{"performerId":"歌唱者-23","name":"鏡音レン","characterId":23},{"performerId":"歌唱者-26","name":"KAITO","characterId":26}],"lines":[{"textRef":0,"start":24.495,"end":25.705,"performerIds":["歌唱者-23"]}]}
+```
+
+示例节选歌曲 2 的一个附加版本，省略后续歌词行。所有 performers 的游戏角色附数字 characterId；外部歌手的 characterId 为 null；能对应官方 master 时另附 outsideCharacterId，不猜游戏 ID。版本来源与缺行情况记录在 sources.json；partial_alignment 仍表示部分覆盖，不能声称全曲完整。

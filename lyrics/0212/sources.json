@@ -109,6 +109,65 @@
       "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
     },
     {
+      "usage": "附加演唱版本",
+      "provider": "historical alignment",
+      "url": null,
+      "license": null,
+      "vocalId": 523,
+      "source": "A",
+      "jobId": "0212-523-vocaloid",
+      "timingSource": "NetEase LRC; source text and timestamps retained in source.lrc",
+      "performerSource": "vocaloid",
+      "provenance": [
+        {
+          "component": "renditions/vocaloid/game_text",
+          "provider": "sekaipedia",
+          "title": "Hoshizora no Melody",
+          "revisionId": 337247,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Hoshizora_no_Melody?oldid=337247",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/game_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Hoshizora no Melody",
+          "revisionId": 337247,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Hoshizora_no_Melody?oldid=337247",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/game_ruby",
+          "provider": "sekaipedia",
+          "title": "Hoshizora no Melody",
+          "revisionId": 337247,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Hoshizora_no_Melody?oldid=337247",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/relation",
+          "provider": "sekaipedia",
+          "title": "Hoshizora no Melody",
+          "revisionId": 337247,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Hoshizora_no_Melody?oldid=337247",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/version",
+          "provider": "sekaipedia",
+          "title": "Hoshizora no Melody",
+          "revisionId": 337247,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Hoshizora_no_Melody?oldid=337247",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "note": "Snapshot 20261110-all-v2; only recorded aligned lines; no cross-version word transfer; shared intervals retained."
+    },
+    {
       "usage": "逐句结束时间",
       "provider": "shinonomeenana/sekai_lyrics",
       "url": "https://github.com/shinonomeenana/sekai_lyrics",

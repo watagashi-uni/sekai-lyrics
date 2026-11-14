@@ -85,6 +85,65 @@
       "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
     },
     {
+      "usage": "附加演唱版本",
+      "provider": "historical alignment",
+      "url": null,
+      "license": null,
+      "vocalId": 1199,
+      "source": "A",
+      "jobId": "0642-1199-vocaloid",
+      "timingSource": "NetEase LRC; source text and timestamps retained in source.lrc",
+      "performerSource": "vocaloid",
+      "provenance": [
+        {
+          "component": "renditions/vocaloid/game_text",
+          "provider": "sekaipedia",
+          "title": "Kono Manma de Ikou",
+          "revisionId": 330575,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Kono_Manma_de_Ikou?oldid=330575",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/game_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Kono Manma de Ikou",
+          "revisionId": 330575,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Kono_Manma_de_Ikou?oldid=330575",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/game_ruby",
+          "provider": "sekaipedia",
+          "title": "Kono Manma de Ikou",
+          "revisionId": 330575,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Kono_Manma_de_Ikou?oldid=330575",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/relation",
+          "provider": "sekaipedia",
+          "title": "Kono Manma de Ikou",
+          "revisionId": 330575,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Kono_Manma_de_Ikou?oldid=330575",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/version",
+          "provider": "sekaipedia",
+          "title": "Kono Manma de Ikou",
+          "revisionId": 330575,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Kono_Manma_de_Ikou?oldid=330575",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "note": "Snapshot 20261110-all-v2; only recorded aligned lines; no cross-version word transfer; shared intervals retained."
+    },
+    {
       "usage": "逐句结束时间",
       "provider": "shinonomeenana/sekai_lyrics",
       "url": "https://github.com/shinonomeenana/sekai_lyrics",
@@ -146,6 +205,166 @@
           ]
         }
       ]
+    },
+    {
+      "usage": "附加演唱版本",
+      "provider": "game audio waveform mapping",
+      "url": "https://assets-direct.unipjsk.com/ondemand/music/long/an_0642_01/an_0642_01.mp3",
+      "license": null,
+      "vocalId": 1799,
+      "source": "C",
+      "referenceVocalId": 1762,
+      "performerSource": "musicVocals 7.1.0.60; solo whole-song attribution",
+      "mapping": {
+        "sourceMinusTarget": 0.0,
+        "coverage": 0.9643,
+        "medianScore": 0.92662,
+        "duration": 118.001,
+        "referenceDuration": 117.99375,
+        "windows": [
+          {
+            "targetStart": 4.0,
+            "offset": 0.0,
+            "score": 0.999
+          },
+          {
+            "targetStart": 8.0,
+            "offset": 0.0,
+            "score": 0.99739
+          },
+          {
+            "targetStart": 12.0,
+            "offset": 0.0,
+            "score": 0.9972
+          },
+          {
+            "targetStart": 16.0,
+            "offset": 0.0,
+            "score": 0.99794
+          },
+          {
+            "targetStart": 20.0,
+            "offset": 0.0,
+            "score": 0.99934
+          },
+          {
+            "targetStart": 24.0,
+            "offset": 0.0,
+            "score": 0.99886
+          },
+          {
+            "targetStart": 28.0,
+            "offset": 0.0,
+            "score": 0.74269
+          },
+          {
+            "targetStart": 32.0,
+            "offset": 0.0,
+            "score": 0.6564
+          },
+          {
+            "targetStart": 36.0,
+            "offset": 0.0,
+            "score": 0.72316
+          },
+          {
+            "targetStart": 40.0,
+            "offset": 0.0,
+            "score": 0.69147
+          },
+          {
+            "targetStart": 44.0,
+            "offset": 0.0,
+            "score": 0.73345
+          },
+          {
+            "targetStart": 48.0,
+            "offset": 0.0,
+            "score": 0.8213
+          },
+          {
+            "targetStart": 52.0,
+            "offset": 0.0,
+            "score": 0.86603
+          },
+          {
+            "targetStart": 56.0,
+            "offset": 0.0,
+            "score": 0.90784
+          },
+          {
+            "targetStart": 60.0,
+            "offset": 0.0,
+            "score": 0.95406
+          },
+          {
+            "targetStart": 64.0,
+            "offset": 0.0,
+            "score": 0.74636
+          },
+          {
+            "targetStart": 68.0,
+            "offset": 0.0,
+            "score": 0.67717
+          },
+          {
+            "targetStart": 72.0,
+            "offset": 0.0,
+            "score": 0.76162
+          },
+          {
+            "targetStart": 76.0,
+            "offset": 0.0,
+            "score": 0.93796
+          },
+          {
+            "targetStart": 80.0,
+            "offset": 0.0,
+            "score": 0.92662
+          },
+          {
+            "targetStart": 84.0,
+            "offset": 0.0,
+            "score": 0.8591
+          },
+          {
+            "targetStart": 88.0,
+            "offset": 0.0,
+            "score": 0.92312
+          },
+          {
+            "targetStart": 92.0,
+            "offset": 0.0,
+            "score": 0.93336
+          },
+          {
+            "targetStart": 96.0,
+            "offset": 0.0,
+            "score": 0.98964
+          },
+          {
+            "targetStart": 100.0,
+            "offset": 0.0,
+            "score": 0.99291
+          },
+          {
+            "targetStart": 104.0,
+            "offset": 0.0,
+            "score": 0.99705
+          },
+          {
+            "targetStart": 108.0,
+            "offset": 0.0,
+            "score": 0.99293
+          },
+          {
+            "targetStart": 112.0,
+            "offset": -0.0325,
+            "score": 0.97972
+          }
+        ]
+      },
+      "note": "6-second windows every 4 seconds; >=90% consistent within 20ms, score>=0.65, median>=0.8, max supported gap 8s, bounded tails. Line-only; no inherited words or segments. Lyrics licenses/translation credits remain those of default version."
     }
   ]
 }

@@ -41,6 +41,106 @@
       "url": null,
       "license": null,
       "note": "已保存来源标签，未记录可直接引用的链接"
+    },
+    {
+      "usage": "附加演唱版本",
+      "provider": "historical alignment",
+      "url": null,
+      "license": null,
+      "vocalId": 193,
+      "source": "A",
+      "jobId": "0100-193-alternate-alternate-vocal-kohane-toya",
+      "timingSource": "NetEase LRC; source text and timestamps retained in source.lrc",
+      "performerSource": "alternate-alternate-vocal-kohane-toya",
+      "provenance": [
+        {
+          "component": "renditions/alternate-alternate-vocal-kohane-toya/full_text",
+          "provider": "sekaipedia",
+          "title": "ECHO",
+          "revisionId": 329953,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/ECHO?oldid=329953",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/alternate-alternate-vocal-kohane-toya/full_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "ECHO",
+          "revisionId": 329953,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/ECHO?oldid=329953",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/alternate-alternate-vocal-kohane-toya/relation",
+          "provider": "sekaipedia",
+          "title": "ECHO",
+          "revisionId": 329953,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/ECHO?oldid=329953",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/alternate-alternate-vocal-kohane-toya/version",
+          "provider": "sekaipedia",
+          "title": "ECHO",
+          "revisionId": 329953,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/ECHO?oldid=329953",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "note": "Snapshot 20261110-all-v2; only recorded aligned lines; no cross-version word transfer; shared intervals retained."
+    },
+    {
+      "usage": "附加演唱版本",
+      "provider": "historical alignment",
+      "url": null,
+      "license": null,
+      "vocalId": 180,
+      "source": "A",
+      "jobId": "0100-180-sekai",
+      "timingSource": "NetEase LRC; source text and timestamps retained in source.lrc",
+      "performerSource": "sekai",
+      "provenance": [
+        {
+          "component": "renditions/sekai/full_text",
+          "provider": "sekaipedia",
+          "title": "ECHO",
+          "revisionId": 329953,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/ECHO?oldid=329953",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/full_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "ECHO",
+          "revisionId": 329953,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/ECHO?oldid=329953",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/relation",
+          "provider": "sekaipedia",
+          "title": "ECHO",
+          "revisionId": 329953,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/ECHO?oldid=329953",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/sekai/version",
+          "provider": "sekaipedia",
+          "title": "ECHO",
+          "revisionId": 329953,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/ECHO?oldid=329953",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "note": "Snapshot 20261110-all-v2; only recorded aligned lines; no cross-version word transfer; shared intervals retained."
     }
   ]
 }

@@ -1,3 +1,4 @@
+import { validateVersions } from './version-schema.mjs'
 import { readFile, stat } from 'node:fs/promises'
 import { createHash } from 'node:crypto'
 import { fileURLToPath } from 'node:url'
@@ -25,6 +26,7 @@ for (const song of catalog.songs) {
   assert.equal(index.songs[mid], hash, `hash ${mid}`)
   assert.deepEqual(await readFile(path.join(root, 'playback', `${mid}.${hash}.json`)), body)
   const data = JSON.parse(body)
+  validateVersions(data)
   assert.equal(data.musicId, mid)
   assert.ok(Number.isFinite(data.duration) && data.duration > 0)
   assert.ok(['lrc', 'bilingual_json'].includes(data.format))
@@ -44,6 +46,11 @@ for (const song of catalog.songs) {
     assert.ok(Number.isFinite(line.cueStart) && Number.isFinite(line.start) && Number.isFinite(line.end))
     assert.ok(line.start >= 0 && line.end > line.start && line.end <= data.duration)
     assert.ok(!data.wordLines?.some(w => w.cueStart === line.cueStart && w.text === line.text && w.words?.length))
+  }
+  assert.deepEqual(song.versions || [], (data.versions || []).map(v => ({vocalId:v.vocalId, assetbundle:v.assetbundle, duration:v.duration, source:v.source, lines:v.lines.length})), `catalog versions ${mid}`)
+  const romajiRows = data.format === 'lrc' ? data.romajiLines || [] : data.lines
+  for (const [source, key] of [['sekaipedia','sekaipediaRomajiLines'], ['generated','generatedRomajiLines']]) {
+    assert.equal(song[key], romajiRows.filter(l => (l.romajiSource ?? l.source) === source).length, `catalog romaji ${mid}`)
   }
   let timed = 0, units = 0
   for (const line of data.format === 'lrc' ? data.wordLines || [] : data.lines) {
@@ -80,4 +87,5 @@ for (const song of catalog.songs) {
   assert.equal(sources.musicId, mid)
   for (const source of sources.sources) if (source.url) assert.match(source.url, /^https?:\/\//)
 }
+assert.equal(catalog.mergeStatistics.additionalVersions, catalog.songs.reduce((sum,song) => sum + (song.versions?.length || 0), 0))
 console.log(JSON.stringify({ songs: catalog.songs.length, wordSongs, wordLines, wordUnits }, null, 2))

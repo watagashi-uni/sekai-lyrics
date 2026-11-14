@@ -3,7 +3,7 @@ import json
 from pathlib import Path
 p=Path(__file__).resolve().parents[1]
 c=json.loads((p/'catalog.json').read_text())
-totals={'sekaipediaRomajiLines':0,'generatedRomajiLines':0,'additionalVersions':0}
+totals={'sekaipediaRomajiLines':0,'generatedRomajiLines':0,'additionalVersions':0,'versionedSongs':0,'versionSources':{k:0 for k in 'ABCD'}}
 for song in c['songs']:
  d=json.loads((p/song['directory']/'lyrics.json').read_text())
  lines=d.get('lines',[]) if d['format']=='bilingual_json' else d.get('romajiLines',[])
@@ -13,6 +13,9 @@ for song in c['songs']:
  if 'versions' in d:
   song['versions']=[{'vocalId':v['vocalId'],'assetbundle':v['assetbundle'],'duration':v['duration'],'source':v['source'],'lines':len(v['lines'])} for v in d['versions']]
   totals['additionalVersions']+=len(d['versions'])
+  totals['versionedSongs']+=bool(d['versions'])
+  for version in d['versions']:totals['versionSources'][version['source']]+=1
+totals['totalPlaybackVersions']=len(c['songs'])+totals['additionalVersions']
 c['mergeStatistics']=totals
 (p/'catalog.json').write_text(json.dumps(c,ensure_ascii=False,indent=2)+'\n')
 print(totals)

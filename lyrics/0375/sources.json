@@ -67,6 +67,151 @@
       "via": "https://github.com/shinonomeenana/sekai_lyrics",
       "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
       "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "附加演唱版本",
+      "provider": "game audio waveform mapping",
+      "url": "https://assets-direct.unipjsk.com/ondemand/music/long/an_0375_01/an_0375_01.mp3",
+      "license": null,
+      "vocalId": 1368,
+      "source": "C",
+      "referenceVocalId": 1050,
+      "performerSource": "musicVocals 7.1.0.60; solo whole-song attribution",
+      "mapping": {
+        "sourceMinusTarget": 0.0,
+        "coverage": 0.92,
+        "medianScore": 0.93813,
+        "duration": 106.98,
+        "referenceDuration": 105.55175,
+        "windows": [
+          {
+            "targetStart": 4.0,
+            "offset": 0.0,
+            "score": 0.99937
+          },
+          {
+            "targetStart": 8.0,
+            "offset": 0.0,
+            "score": 0.99911
+          },
+          {
+            "targetStart": 12.0,
+            "offset": 0.0,
+            "score": 0.99616
+          },
+          {
+            "targetStart": 16.0,
+            "offset": 0.0,
+            "score": 0.99408
+          },
+          {
+            "targetStart": 20.0,
+            "offset": 0.0,
+            "score": 0.99422
+          },
+          {
+            "targetStart": 24.0,
+            "offset": 0.0,
+            "score": 0.85824
+          },
+          {
+            "targetStart": 28.0,
+            "offset": 0.0,
+            "score": 0.83583
+          },
+          {
+            "targetStart": 32.0,
+            "offset": 0.0,
+            "score": 0.94673
+          },
+          {
+            "targetStart": 36.0,
+            "offset": 0.0,
+            "score": 0.96796
+          },
+          {
+            "targetStart": 40.0,
+            "offset": 0.0,
+            "score": 0.75715
+          },
+          {
+            "targetStart": 44.0,
+            "offset": 0.0,
+            "score": 0.7531
+          },
+          {
+            "targetStart": 48.0,
+            "offset": 0.0,
+            "score": 0.70496
+          },
+          {
+            "targetStart": 52.0,
+            "offset": 0.0,
+            "score": 0.89925
+          },
+          {
+            "targetStart": 56.0,
+            "offset": 0.0,
+            "score": 0.99523
+          },
+          {
+            "targetStart": 60.0,
+            "offset": 0.0,
+            "score": 0.95074
+          },
+          {
+            "targetStart": 64.0,
+            "offset": 0.0,
+            "score": 0.95408
+          },
+          {
+            "targetStart": 68.0,
+            "offset": 0.0,
+            "score": 0.90594
+          },
+          {
+            "targetStart": 72.0,
+            "offset": 0.0,
+            "score": 0.63676
+          },
+          {
+            "targetStart": 76.0,
+            "offset": 0.0,
+            "score": 0.75045
+          },
+          {
+            "targetStart": 80.0,
+            "offset": 0.0,
+            "score": 0.93004
+          },
+          {
+            "targetStart": 84.0,
+            "offset": 0.0,
+            "score": 0.93813
+          },
+          {
+            "targetStart": 88.0,
+            "offset": 0.0,
+            "score": 0.96561
+          },
+          {
+            "targetStart": 92.0,
+            "offset": 0.0,
+            "score": 0.8764
+          },
+          {
+            "targetStart": 96.0,
+            "offset": 0.0,
+            "score": 0.81093
+          },
+          {
+            "targetStart": 100.0,
+            "offset": -0.46275,
+            "score": 0.27794
+          }
+        ]
+      },
+      "note": "6-second windows every 4 seconds; >=90% consistent within 20ms, score>=0.65, median>=0.8, max supported gap 8s, bounded tails. Line-only; no inherited words or segments. Lyrics licenses/translation credits remain those of default version."
     }
   ]
 }

@@ -59,6 +59,124 @@
       "via": "https://github.com/shinonomeenana/sekai_lyrics",
       "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
       "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "附加演唱版本",
+      "provider": "historical alignment",
+      "url": null,
+      "license": null,
+      "vocalId": 318,
+      "source": "A",
+      "jobId": "0143-318-alternate-alternate-vocal-an-akito",
+      "timingSource": "NetEase LRC; source text and timestamps retained in source.lrc",
+      "performerSource": "alternate-alternate-vocal-an-akito",
+      "provenance": [
+        {
+          "component": "renditions/alternate-alternate-vocal-an-akito/full_text",
+          "provider": "sekaipedia",
+          "title": "Traffic Jam",
+          "revisionId": 330237,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Traffic_Jam?oldid=330237",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/alternate-alternate-vocal-an-akito/full_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Traffic Jam",
+          "revisionId": 330237,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Traffic_Jam?oldid=330237",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/alternate-alternate-vocal-an-akito/full_ruby",
+          "provider": "sekaipedia",
+          "title": "Traffic Jam",
+          "revisionId": 330237,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Traffic_Jam?oldid=330237",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/alternate-alternate-vocal-an-akito/relation",
+          "provider": "sekaipedia",
+          "title": "Traffic Jam",
+          "revisionId": 330237,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Traffic_Jam?oldid=330237",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/alternate-alternate-vocal-an-akito/version",
+          "provider": "sekaipedia",
+          "title": "Traffic Jam",
+          "revisionId": 330237,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Traffic_Jam?oldid=330237",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "note": "Snapshot 20261110-all-v2; only recorded aligned lines; no cross-version word transfer; shared intervals retained; sub-10-microsecond rounding excess clamped to decoded duration."
+    },
+    {
+      "usage": "附加演唱版本",
+      "provider": "historical alignment",
+      "url": null,
+      "license": null,
+      "vocalId": 317,
+      "source": "A",
+      "jobId": "0143-317-alternate-alternate-vocal-kohane-toya",
+      "timingSource": "NetEase LRC; source text and timestamps retained in source.lrc",
+      "performerSource": "alternate-alternate-vocal-kohane-toya",
+      "provenance": [
+        {
+          "component": "renditions/alternate-alternate-vocal-kohane-toya/full_text",
+          "provider": "sekaipedia",
+          "title": "Traffic Jam",
+          "revisionId": 330237,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Traffic_Jam?oldid=330237",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/alternate-alternate-vocal-kohane-toya/full_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Traffic Jam",
+          "revisionId": 330237,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Traffic_Jam?oldid=330237",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/alternate-alternate-vocal-kohane-toya/full_ruby",
+          "provider": "sekaipedia",
+          "title": "Traffic Jam",
+          "revisionId": 330237,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Traffic_Jam?oldid=330237",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/alternate-alternate-vocal-kohane-toya/relation",
+          "provider": "sekaipedia",
+          "title": "Traffic Jam",
+          "revisionId": 330237,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Traffic_Jam?oldid=330237",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/alternate-alternate-vocal-kohane-toya/version",
+          "provider": "sekaipedia",
+          "title": "Traffic Jam",
+          "revisionId": 330237,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Traffic_Jam?oldid=330237",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "note": "Snapshot 20261110-all-v2; only recorded aligned lines; no cross-version word transfer; shared intervals retained; sub-10-microsecond rounding excess clamped to decoded duration."
     }
   ]
 }

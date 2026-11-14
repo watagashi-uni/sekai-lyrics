@@ -101,6 +101,65 @@
       "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
     },
     {
+      "usage": "附加演唱版本",
+      "provider": "historical alignment",
+      "url": null,
+      "license": null,
+      "vocalId": 486,
+      "source": "A",
+      "jobId": "0003-486-alternate-alternate-vocal-miku-luka",
+      "timingSource": "NetEase LRC; source text and timestamps retained in source.lrc",
+      "performerSource": "alternate-alternate-vocal-miku-luka",
+      "provenance": [
+        {
+          "component": "renditions/alternate-alternate-vocal-miku-luka/game_text",
+          "provider": "sekaipedia",
+          "title": "Teo",
+          "revisionId": 328720,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Teo?oldid=328720",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/alternate-alternate-vocal-miku-luka/game_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Teo",
+          "revisionId": 328720,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Teo?oldid=328720",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/alternate-alternate-vocal-miku-luka/game_ruby",
+          "provider": "sekaipedia",
+          "title": "Teo",
+          "revisionId": 328720,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Teo?oldid=328720",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/alternate-alternate-vocal-miku-luka/relation",
+          "provider": "sekaipedia",
+          "title": "Teo",
+          "revisionId": 328720,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Teo?oldid=328720",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/alternate-alternate-vocal-miku-luka/version",
+          "provider": "sekaipedia",
+          "title": "Teo",
+          "revisionId": 328720,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Teo?oldid=328720",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "note": "Snapshot 20261110-all-v2; only recorded aligned lines; no cross-version word transfer; shared intervals retained."
+    },
+    {
       "usage": "逐句结束时间",
       "provider": "shinonomeenana/sekai_lyrics",
       "url": "https://github.com/shinonomeenana/sekai_lyrics",
@@ -366,6 +425,171 @@
           ]
         }
       ]
+    },
+    {
+      "usage": "附加演唱版本",
+      "provider": "game audio waveform mapping",
+      "url": "https://assets-direct.unipjsk.com/ondemand/music/long/an_0003_01/an_0003_01.mp3",
+      "license": null,
+      "vocalId": 113,
+      "source": "C",
+      "referenceVocalId": 6,
+      "performerSource": "musicVocals 7.1.0.60; solo whole-song attribution",
+      "mapping": {
+        "sourceMinusTarget": 0.0,
+        "coverage": 1.0,
+        "medianScore": 0.88988,
+        "duration": 125.41125,
+        "referenceDuration": 125.41125,
+        "windows": [
+          {
+            "targetStart": 4.0,
+            "offset": 0.0,
+            "score": 0.99824
+          },
+          {
+            "targetStart": 8.0,
+            "offset": 0.0,
+            "score": 0.99636
+          },
+          {
+            "targetStart": 12.0,
+            "offset": 0.0,
+            "score": 0.99581
+          },
+          {
+            "targetStart": 16.0,
+            "offset": 0.0,
+            "score": 0.99561
+          },
+          {
+            "targetStart": 20.0,
+            "offset": 0.0,
+            "score": 0.99635
+          },
+          {
+            "targetStart": 24.0,
+            "offset": 0.0,
+            "score": 0.99659
+          },
+          {
+            "targetStart": 28.0,
+            "offset": 0.0,
+            "score": 0.97084
+          },
+          {
+            "targetStart": 32.0,
+            "offset": 0.0,
+            "score": 0.9546
+          },
+          {
+            "targetStart": 36.0,
+            "offset": 0.0,
+            "score": 0.95304
+          },
+          {
+            "targetStart": 40.0,
+            "offset": 0.0,
+            "score": 0.8686
+          },
+          {
+            "targetStart": 44.0,
+            "offset": 0.0,
+            "score": 0.81228
+          },
+          {
+            "targetStart": 48.0,
+            "offset": 0.0,
+            "score": 0.79765
+          },
+          {
+            "targetStart": 52.0,
+            "offset": 0.0,
+            "score": 0.88988
+          },
+          {
+            "targetStart": 56.0,
+            "offset": 0.0,
+            "score": 0.94345
+          },
+          {
+            "targetStart": 60.0,
+            "offset": 0.0,
+            "score": 0.93357
+          },
+          {
+            "targetStart": 64.0,
+            "offset": 0.0,
+            "score": 0.90235
+          },
+          {
+            "targetStart": 68.0,
+            "offset": 0.0,
+            "score": 0.82076
+          },
+          {
+            "targetStart": 72.0,
+            "offset": 0.0,
+            "score": 0.80674
+          },
+          {
+            "targetStart": 76.0,
+            "offset": 0.0,
+            "score": 0.87227
+          },
+          {
+            "targetStart": 80.0,
+            "offset": 0.0,
+            "score": 0.83057
+          },
+          {
+            "targetStart": 84.0,
+            "offset": 0.0,
+            "score": 0.85363
+          },
+          {
+            "targetStart": 88.0,
+            "offset": 0.0,
+            "score": 0.838
+          },
+          {
+            "targetStart": 92.0,
+            "offset": 0.0,
+            "score": 0.83083
+          },
+          {
+            "targetStart": 96.0,
+            "offset": 0.0,
+            "score": 0.82816
+          },
+          {
+            "targetStart": 100.0,
+            "offset": 0.0,
+            "score": 0.82304
+          },
+          {
+            "targetStart": 104.0,
+            "offset": 0.0,
+            "score": 0.81962
+          },
+          {
+            "targetStart": 108.0,
+            "offset": 0.0,
+            "score": 0.80185
+          },
+          {
+            "targetStart": 112.0,
+            "offset": 0.0,
+            "score": 0.95218
+          },
+          {
+            "targetStart": 116.0,
+            "offset": 0.0,
+            "score": 0.99676
+          }
+        ]
+      },
+      "note": "6-second windows every 4 seconds; >=90% consistent within 20ms, score>=0.65, median>=0.8, max supported gap 8s, bounded tails. Line-only; no inherited words or segments. Lyrics licenses/translation credits remain those of default version."
     }
   ]
 }

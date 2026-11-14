@@ -1,5 +1,5 @@
 {
-  "snapshot": "2026-11-12",
+  "snapshot": "2026-11-14",
   "timeOrigin": "selected_game_recording_start_including_pre_roll",
   "songs": [
     {
@@ -52,7 +52,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 19,
-      "generatedRomajiLines": 2
+      "generatedRomajiLines": 2,
+      "versions": [
+        {
+          "vocalId": 465,
+          "assetbundle": "an_0002_01",
+          "duration": 116.0,
+          "source": "A",
+          "lines": 24
+        }
+      ]
     },
     {
       "musicId": 3,
@@ -78,7 +87,23 @@
         ]
       ],
       "sekaipediaRomajiLines": 32,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 113,
+          "assetbundle": "an_0003_01",
+          "duration": 125.41125,
+          "source": "C",
+          "lines": 32
+        },
+        {
+          "vocalId": 486,
+          "assetbundle": "an_0003_03",
+          "duration": 125.41125,
+          "source": "A",
+          "lines": 31
+        }
+      ]
     },
     {
       "musicId": 6,
@@ -104,7 +129,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 25,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 80,
+          "assetbundle": "an_0006_01",
+          "duration": 104.00025,
+          "source": "C",
+          "lines": 31
+        }
+      ]
     },
     {
       "musicId": 8,
@@ -130,7 +164,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 15,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 111,
+          "assetbundle": "vs_0008_01",
+          "duration": 132.049,
+          "source": "A",
+          "lines": 15
+        }
+      ]
     },
     {
       "musicId": 10,
@@ -156,7 +199,30 @@
         ]
       ],
       "sekaipediaRomajiLines": 26,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 12,
+          "assetbundle": "0010_02",
+          "duration": 142.0,
+          "source": "A",
+          "lines": 26
+        },
+        {
+          "vocalId": 87,
+          "assetbundle": "vs_0010_02",
+          "duration": 142.02775,
+          "source": "A",
+          "lines": 26
+        },
+        {
+          "vocalId": 571,
+          "assetbundle": "af_0010_01",
+          "duration": 142.0,
+          "source": "A",
+          "lines": 26
+        }
+      ]
     },
     {
       "musicId": 11,
@@ -182,7 +248,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 25,
-      "generatedRomajiLines": 1
+      "generatedRomajiLines": 1,
+      "versions": [
+        {
+          "vocalId": 14,
+          "assetbundle": "0011_02",
+          "duration": 103.0385,
+          "source": "A",
+          "lines": 24
+        }
+      ]
     },
     {
       "musicId": 13,
@@ -234,7 +309,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 14,
-      "generatedRomajiLines": 2
+      "generatedRomajiLines": 2,
+      "versions": [
+        {
+          "vocalId": 18,
+          "assetbundle": "0015_02",
+          "duration": 114.9815,
+          "source": "A",
+          "lines": 13
+        }
+      ]
     },
     {
       "musicId": 18,
@@ -286,7 +370,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 23,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 22,
+          "assetbundle": "0019_02",
+          "duration": 113.276125,
+          "source": "A",
+          "lines": 20
+        }
+      ]
     },
     {
       "musicId": 21,
@@ -480,7 +573,16 @@
       },
       "sources": [],
       "sekaipediaRomajiLines": 26,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 112,
+          "assetbundle": "vs_0041_01",
+          "duration": 158.0146875,
+          "source": "A",
+          "lines": 29
+        }
+      ]
     },
     {
       "musicId": 43,
@@ -714,7 +816,23 @@
         ]
       ],
       "sekaipediaRomajiLines": 26,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 97,
+          "assetbundle": "an_0051_01",
+          "duration": 130.74,
+          "source": "A",
+          "lines": 23
+        },
+        {
+          "vocalId": 98,
+          "assetbundle": "an_0051_02",
+          "duration": 130.74,
+          "source": "A",
+          "lines": 21
+        }
+      ]
     },
     {
       "musicId": 52,
@@ -740,7 +858,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 17,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 72,
+          "assetbundle": "vs_0052_02",
+          "duration": 119.15625,
+          "source": "A",
+          "lines": 16
+        }
+      ]
     },
     {
       "musicId": 54,
@@ -766,7 +893,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 16,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 99,
+          "assetbundle": "vs_0054_01",
+          "duration": 101.202,
+          "source": "D",
+          "lines": 17
+        }
+      ]
     },
     {
       "musicId": 55,
@@ -792,7 +928,23 @@
         ]
       ],
       "sekaipediaRomajiLines": 10,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 50,
+          "assetbundle": "0055_01",
+          "duration": 123.8988125,
+          "source": "A",
+          "lines": 10
+        },
+        {
+          "vocalId": 172,
+          "assetbundle": "vs_0055_02",
+          "duration": 123.857125,
+          "source": "A",
+          "lines": 10
+        }
+      ]
     },
     {
       "musicId": 57,
@@ -810,7 +962,16 @@
       "credits": {},
       "sources": [],
       "sekaipediaRomajiLines": 32,
-      "generatedRomajiLines": 2
+      "generatedRomajiLines": 2,
+      "versions": [
+        {
+          "vocalId": 100,
+          "assetbundle": "vs_0057_01",
+          "duration": 115.0,
+          "source": "A",
+          "lines": 37
+        }
+      ]
     },
     {
       "musicId": 60,
@@ -862,7 +1023,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 19,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 252,
+          "assetbundle": "an_0061_01",
+          "duration": 148.1,
+          "source": "C",
+          "lines": 19
+        }
+      ]
     },
     {
       "musicId": 62,
@@ -888,7 +1058,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 15,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 135,
+          "assetbundle": "an_0062_01",
+          "duration": 92.54325,
+          "source": "C",
+          "lines": 15
+        }
+      ]
     },
     {
       "musicId": 63,
@@ -1010,7 +1189,16 @@
       "credits": {},
       "sources": [],
       "sekaipediaRomajiLines": 23,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 130,
+          "assetbundle": "an_0068_01",
+          "duration": 110.053,
+          "source": "C",
+          "lines": 29
+        }
+      ]
     },
     {
       "musicId": 69,
@@ -1088,7 +1276,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 21,
-      "generatedRomajiLines": 4
+      "generatedRomajiLines": 4,
+      "versions": [
+        {
+          "vocalId": 466,
+          "assetbundle": "vs_0071_02",
+          "duration": 130.6645,
+          "source": "A",
+          "lines": 23
+        }
+      ]
     },
     {
       "musicId": 72,
@@ -1150,7 +1347,16 @@
       "credits": {},
       "sources": [],
       "sekaipediaRomajiLines": 13,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 181,
+          "assetbundle": "vs_0074_02",
+          "duration": 83.8008125,
+          "source": "A",
+          "lines": 13
+        }
+      ]
     },
     {
       "musicId": 75,
@@ -1202,7 +1408,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 24,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 1546,
+          "assetbundle": "vs_0076_01",
+          "duration": 123.6375625,
+          "source": "A",
+          "lines": 23
+        }
+      ]
     },
     {
       "musicId": 77,
@@ -1280,7 +1495,23 @@
         ]
       ],
       "sekaipediaRomajiLines": 26,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 168,
+          "assetbundle": "an_0081_01",
+          "duration": 149.0025,
+          "source": "C",
+          "lines": 26
+        },
+        {
+          "vocalId": 169,
+          "assetbundle": "an_0081_02",
+          "duration": 149.0025,
+          "source": "C",
+          "lines": 26
+        }
+      ]
     },
     {
       "musicId": 82,
@@ -1462,7 +1693,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 26,
-      "generatedRomajiLines": 2
+      "generatedRomajiLines": 2,
+      "versions": [
+        {
+          "vocalId": 194,
+          "assetbundle": "se_0088_01",
+          "duration": 152.454625,
+          "source": "A",
+          "lines": 20
+        }
+      ]
     },
     {
       "musicId": 89,
@@ -1506,7 +1746,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 22,
-      "generatedRomajiLines": 4
+      "generatedRomajiLines": 4,
+      "versions": [
+        {
+          "vocalId": 224,
+          "assetbundle": "an_0090_01",
+          "duration": 129.55575,
+          "source": "C",
+          "lines": 26
+        }
+      ]
     },
     {
       "musicId": 91,
@@ -1558,7 +1807,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 25,
-      "generatedRomajiLines": 4
+      "generatedRomajiLines": 4,
+      "versions": [
+        {
+          "vocalId": 141,
+          "assetbundle": "an_0092_01",
+          "duration": 119.6665,
+          "source": "C",
+          "lines": 29
+        }
+      ]
     },
     {
       "musicId": 93,
@@ -1646,7 +1904,23 @@
         ]
       ],
       "sekaipediaRomajiLines": 25,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 235,
+          "assetbundle": "se_0096_01",
+          "duration": 164.51025,
+          "source": "A",
+          "lines": 23
+        },
+        {
+          "vocalId": 237,
+          "assetbundle": "an_0096_02",
+          "duration": 164.51025,
+          "source": "A",
+          "lines": 23
+        }
+      ]
     },
     {
       "musicId": 97,
@@ -1690,7 +1964,23 @@
       "credits": {},
       "sources": [],
       "sekaipediaRomajiLines": 23,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 399,
+          "assetbundle": "vs_0098_02",
+          "duration": 116.819625,
+          "source": "A",
+          "lines": 23
+        },
+        {
+          "vocalId": 401,
+          "assetbundle": "an_0098_01",
+          "duration": 116.77775,
+          "source": "C",
+          "lines": 23
+        }
+      ]
     },
     {
       "musicId": 99,
@@ -1742,7 +2032,23 @@
         ]
       ],
       "sekaipediaRomajiLines": 0,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 180,
+          "assetbundle": "se_0100_01",
+          "duration": 108.241375,
+          "source": "A",
+          "lines": 31
+        },
+        {
+          "vocalId": 193,
+          "assetbundle": "an_0100_01",
+          "duration": 108.741375,
+          "source": "A",
+          "lines": 31
+        }
+      ]
     },
     {
       "musicId": 101,
@@ -1768,7 +2074,23 @@
         ]
       ],
       "sekaipediaRomajiLines": 29,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 207,
+          "assetbundle": "se_0101_01",
+          "duration": 153.00025,
+          "source": "A",
+          "lines": 29
+        },
+        {
+          "vocalId": 213,
+          "assetbundle": "an_0101_02",
+          "duration": 153.00025,
+          "source": "A",
+          "lines": 29
+        }
+      ]
     },
     {
       "musicId": 102,
@@ -1820,7 +2142,23 @@
         ]
       ],
       "sekaipediaRomajiLines": 20,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 186,
+          "assetbundle": "an_0103_01",
+          "duration": 129.782625,
+          "source": "A",
+          "lines": 21
+        },
+        {
+          "vocalId": 206,
+          "assetbundle": "an_0103_02",
+          "duration": 129.782625,
+          "source": "A",
+          "lines": 20
+        }
+      ]
     },
     {
       "musicId": 104,
@@ -1898,7 +2236,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 23,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 255,
+          "assetbundle": "an_0106_01",
+          "duration": 121.44775,
+          "source": "C",
+          "lines": 23
+        }
+      ]
     },
     {
       "musicId": 107,
@@ -1994,7 +2341,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 28,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 158,
+          "assetbundle": "vs_0110_01",
+          "duration": 133.146122,
+          "source": "B",
+          "lines": 28
+        }
+      ]
     },
     {
       "musicId": 111,
@@ -2272,7 +2628,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 25,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 308,
+          "assetbundle": "vs_0121_02",
+          "duration": 123.7420625,
+          "source": "A",
+          "lines": 24
+        }
+      ]
     },
     {
       "musicId": 122,
@@ -2298,7 +2663,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 33,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 573,
+          "assetbundle": "af_0122_01",
+          "duration": 125.0481875,
+          "source": "A",
+          "lines": 27
+        }
+      ]
     },
     {
       "musicId": 123,
@@ -2576,7 +2950,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 24,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 1474,
+          "assetbundle": "af_0133_01",
+          "duration": 128.23625,
+          "source": "A",
+          "lines": 24
+        }
+      ]
     },
     {
       "musicId": 134,
@@ -2628,7 +3011,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 29,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 1470,
+          "assetbundle": "af_0135_01",
+          "duration": 132.516,
+          "source": "A",
+          "lines": 29
+        }
+      ]
     },
     {
       "musicId": 136,
@@ -2654,7 +3046,23 @@
         ]
       ],
       "sekaipediaRomajiLines": 20,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 257,
+          "assetbundle": "se_0136_01",
+          "duration": 136.947125,
+          "source": "A",
+          "lines": 19
+        },
+        {
+          "vocalId": 383,
+          "assetbundle": "an_0136_01",
+          "duration": 136.947125,
+          "source": "A",
+          "lines": 20
+        }
+      ]
     },
     {
       "musicId": 137,
@@ -2706,7 +3114,23 @@
         ]
       ],
       "sekaipediaRomajiLines": 32,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 288,
+          "assetbundle": "an_0138_01",
+          "duration": 144.18075,
+          "source": "C",
+          "lines": 37
+        },
+        {
+          "vocalId": 289,
+          "assetbundle": "an_0138_02",
+          "duration": 144.18075,
+          "source": "C",
+          "lines": 37
+        }
+      ]
     },
     {
       "musicId": 139,
@@ -2828,7 +3252,23 @@
         ]
       ],
       "sekaipediaRomajiLines": 32,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 317,
+          "assetbundle": "an_0143_01",
+          "duration": 138.735375,
+          "source": "A",
+          "lines": 35
+        },
+        {
+          "vocalId": 318,
+          "assetbundle": "an_0143_02",
+          "duration": 138.735375,
+          "source": "A",
+          "lines": 35
+        }
+      ]
     },
     {
       "musicId": 144,
@@ -2880,7 +3320,30 @@
         ]
       ],
       "sekaipediaRomajiLines": 25,
-      "generatedRomajiLines": 5
+      "generatedRomajiLines": 5,
+      "versions": [
+        {
+          "vocalId": 412,
+          "assetbundle": "an_0145_01",
+          "duration": 136.5,
+          "source": "C",
+          "lines": 30
+        },
+        {
+          "vocalId": 413,
+          "assetbundle": "an_0145_02",
+          "duration": 136.5,
+          "source": "C",
+          "lines": 30
+        },
+        {
+          "vocalId": 574,
+          "assetbundle": "af_0145_01",
+          "duration": 136.5,
+          "source": "A",
+          "lines": 30
+        }
+      ]
     },
     {
       "musicId": 146,
@@ -2932,7 +3395,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 12,
-      "generatedRomajiLines": 8
+      "generatedRomajiLines": 8,
+      "versions": [
+        {
+          "vocalId": 453,
+          "assetbundle": "an_0147_02",
+          "duration": 147.278375,
+          "source": "A",
+          "lines": 18
+        }
+      ]
     },
     {
       "musicId": 148,
@@ -3166,7 +3638,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 18,
-      "generatedRomajiLines": 8
+      "generatedRomajiLines": 8,
+      "versions": [
+        {
+          "vocalId": 336,
+          "assetbundle": "se_0156_01",
+          "duration": 108.0163125,
+          "source": "A",
+          "lines": 20
+        }
+      ]
     },
     {
       "musicId": 157,
@@ -3270,7 +3751,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 30,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 480,
+          "assetbundle": "an_0160_02",
+          "duration": 117.23525,
+          "source": "C",
+          "lines": 33
+        }
+      ]
     },
     {
       "musicId": 161,
@@ -3504,7 +3994,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 33,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 430,
+          "assetbundle": "an_0172_02",
+          "duration": 132.5,
+          "source": "C",
+          "lines": 34
+        }
+      ]
     },
     {
       "musicId": 173,
@@ -3556,7 +4055,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 29,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 1596,
+          "assetbundle": "af_0174_01",
+          "duration": 132.468375,
+          "source": "A",
+          "lines": 23
+        }
+      ]
     },
     {
       "musicId": 175,
@@ -3660,7 +4168,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 67,
-      "generatedRomajiLines": 5
+      "generatedRomajiLines": 5,
+      "versions": [
+        {
+          "vocalId": 386,
+          "assetbundle": "vs_0178_01",
+          "duration": 134.66675,
+          "source": "A",
+          "lines": 74
+        }
+      ]
     },
     {
       "musicId": 179,
@@ -3912,7 +4429,16 @@
       "credits": {},
       "sources": [],
       "sekaipediaRomajiLines": 35,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 424,
+          "assetbundle": "se_0188_01",
+          "duration": 142.42675,
+          "source": "A",
+          "lines": 35
+        }
+      ]
     },
     {
       "musicId": 189,
@@ -3930,7 +4456,16 @@
       "credits": {},
       "sources": [],
       "sekaipediaRomajiLines": 18,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 564,
+          "assetbundle": "an_0189_01",
+          "duration": 100.66675,
+          "source": "C",
+          "lines": 18
+        }
+      ]
     },
     {
       "musicId": 190,
@@ -4190,7 +4725,23 @@
         ]
       ],
       "sekaipediaRomajiLines": 53,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 468,
+          "assetbundle": "se_0199_01",
+          "duration": 151.0,
+          "source": "A",
+          "lines": 47
+        },
+        {
+          "vocalId": 587,
+          "assetbundle": "an_0199_01",
+          "duration": 151.0,
+          "source": "D",
+          "lines": 53
+        }
+      ]
     },
     {
       "musicId": 200,
@@ -4242,7 +4793,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 16,
-      "generatedRomajiLines": 10
+      "generatedRomajiLines": 10,
+      "versions": [
+        {
+          "vocalId": 502,
+          "assetbundle": "se_0201_01",
+          "duration": 141.923265,
+          "source": "B",
+          "lines": 33
+        }
+      ]
     },
     {
       "musicId": 202,
@@ -4320,7 +4880,23 @@
         ]
       ],
       "sekaipediaRomajiLines": 34,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 494,
+          "assetbundle": "an_0204_01",
+          "duration": 145.17975,
+          "source": "C",
+          "lines": 34
+        },
+        {
+          "vocalId": 495,
+          "assetbundle": "an_0204_02",
+          "duration": 145.17975,
+          "source": "C",
+          "lines": 34
+        }
+      ]
     },
     {
       "musicId": 205,
@@ -4424,7 +5000,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 29,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 551,
+          "assetbundle": "an_0208_02",
+          "duration": 130.94175,
+          "source": "C",
+          "lines": 29
+        }
+      ]
     },
     {
       "musicId": 209,
@@ -4528,7 +5113,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 22,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 523,
+          "assetbundle": "vs_0212_01",
+          "duration": 117.849625,
+          "source": "A",
+          "lines": 26
+        }
+      ]
     },
     {
       "musicId": 213,
@@ -4546,7 +5140,16 @@
       "credits": {},
       "sources": [],
       "sekaipediaRomajiLines": 39,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 1790,
+          "assetbundle": "af_0213_01",
+          "duration": 152.0,
+          "source": "A",
+          "lines": 39
+        }
+      ]
     },
     {
       "musicId": 214,
@@ -4676,7 +5279,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 26,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 1472,
+          "assetbundle": "af_0218_01",
+          "duration": 149.5615,
+          "source": "A",
+          "lines": 26
+        }
+      ]
     },
     {
       "musicId": 219,
@@ -4832,7 +5444,37 @@
         ]
       ],
       "sekaipediaRomajiLines": 37,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 556,
+          "assetbundle": "vs_0224_01",
+          "duration": 136.2,
+          "source": "A",
+          "lines": 37
+        },
+        {
+          "vocalId": 577,
+          "assetbundle": "an_0224_01",
+          "duration": 136.2,
+          "source": "A",
+          "lines": 37
+        },
+        {
+          "vocalId": 578,
+          "assetbundle": "an_0224_02",
+          "duration": 136.2,
+          "source": "A",
+          "lines": 37
+        },
+        {
+          "vocalId": 813,
+          "assetbundle": "an_0224_03",
+          "duration": 137.457375,
+          "source": "A",
+          "lines": 37
+        }
+      ]
     },
     {
       "musicId": 225,
@@ -5006,7 +5648,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 44,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 580,
+          "assetbundle": "vs_0231_01",
+          "duration": 165.776125,
+          "source": "A",
+          "lines": 38
+        }
+      ]
     },
     {
       "musicId": 232,
@@ -5058,7 +5709,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 38,
-      "generatedRomajiLines": 4
+      "generatedRomajiLines": 4,
+      "versions": [
+        {
+          "vocalId": 584,
+          "assetbundle": "vs_0233_01",
+          "duration": 135.056,
+          "source": "A",
+          "lines": 46
+        }
+      ]
     },
     {
       "musicId": 234,
@@ -5362,7 +6022,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 32,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 1473,
+          "assetbundle": "af_0246_01",
+          "duration": 152.68425,
+          "source": "A",
+          "lines": 32
+        }
+      ]
     },
     {
       "musicId": 247,
@@ -5588,7 +6257,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 36,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 639,
+          "assetbundle": "se_0255_01",
+          "duration": 154.5415,
+          "source": "A",
+          "lines": 36
+        }
+      ]
     },
     {
       "musicId": 256,
@@ -5692,7 +6370,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 10,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 766,
+          "assetbundle": "an_0259_01",
+          "duration": 118.553,
+          "source": "C",
+          "lines": 10
+        }
+      ]
     },
     {
       "musicId": 260,
@@ -6152,7 +6839,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 33,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 694,
+          "assetbundle": "se_0277_01",
+          "duration": 152.685714,
+          "source": "B",
+          "lines": 36
+        }
+      ]
     },
     {
       "musicId": 278,
@@ -6578,7 +7274,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 20,
-      "generatedRomajiLines": 6
+      "generatedRomajiLines": 6,
+      "versions": [
+        {
+          "vocalId": 746,
+          "assetbundle": "an_0295_01",
+          "duration": 111.60875,
+          "source": "C",
+          "lines": 26
+        }
+      ]
     },
     {
       "musicId": 296,
@@ -6656,7 +7361,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 31,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 808,
+          "assetbundle": "an_0298_02",
+          "duration": 157.45725,
+          "source": "C",
+          "lines": 31
+        }
+      ]
     },
     {
       "musicId": 299,
@@ -6682,7 +7396,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 34,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 866,
+          "assetbundle": "an_0299_01",
+          "duration": 156.333375,
+          "source": "A",
+          "lines": 34
+        }
+      ]
     },
     {
       "musicId": 300,
@@ -6890,7 +7613,23 @@
         ]
       ],
       "sekaipediaRomajiLines": 47,
-      "generatedRomajiLines": 1
+      "generatedRomajiLines": 1,
+      "versions": [
+        {
+          "vocalId": 772,
+          "assetbundle": "se_0307_01",
+          "duration": 155.057125,
+          "source": "A",
+          "lines": 42
+        },
+        {
+          "vocalId": 887,
+          "assetbundle": "an_0307_01",
+          "duration": 155.057125,
+          "source": "A",
+          "lines": 42
+        }
+      ]
     },
     {
       "musicId": 308,
@@ -6968,7 +7707,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 26,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 776,
+          "assetbundle": "vs_0310_01",
+          "duration": 138.47375,
+          "source": "A",
+          "lines": 26
+        }
+      ]
     },
     {
       "musicId": 311,
@@ -7228,7 +7976,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 28,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 1471,
+          "assetbundle": "af_0320_01",
+          "duration": 104.9635,
+          "source": "A",
+          "lines": 25
+        }
+      ]
     },
     {
       "musicId": 321,
@@ -7558,7 +8315,23 @@
         ]
       ],
       "sekaipediaRomajiLines": 33,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 822,
+          "assetbundle": "vs_0333_01",
+          "duration": 147.715625,
+          "source": "A",
+          "lines": 33
+        },
+        {
+          "vocalId": 865,
+          "assetbundle": "an_0333_01",
+          "duration": 147.715625,
+          "source": "A",
+          "lines": 34
+        }
+      ]
     },
     {
       "musicId": 334,
@@ -7888,7 +8661,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 35,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 850,
+          "assetbundle": "vs_0346_01",
+          "duration": 158.69075,
+          "source": "A",
+          "lines": 35
+        }
+      ]
     },
     {
       "musicId": 347,
@@ -8070,7 +8852,23 @@
         ]
       ],
       "sekaipediaRomajiLines": 31,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 860,
+          "assetbundle": "vs_0353_01",
+          "duration": 123.03325,
+          "source": "C",
+          "lines": 31
+        },
+        {
+          "vocalId": 901,
+          "assetbundle": "an_0353_01",
+          "duration": 123.4895,
+          "source": "C",
+          "lines": 31
+        }
+      ]
     },
     {
       "musicId": 354,
@@ -8096,7 +8894,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 28,
-      "generatedRomajiLines": 1
+      "generatedRomajiLines": 1,
+      "versions": [
+        {
+          "vocalId": 863,
+          "assetbundle": "se_0354_01",
+          "duration": 164.197375,
+          "source": "A",
+          "lines": 28
+        }
+      ]
     },
     {
       "musicId": 355,
@@ -8148,7 +8955,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 17,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 1381,
+          "assetbundle": "an_0356_01",
+          "duration": 102.82925,
+          "source": "C",
+          "lines": 17
+        }
+      ]
     },
     {
       "musicId": 357,
@@ -8262,7 +9078,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 29,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 880,
+          "assetbundle": "se_0361_01",
+          "duration": 118.091,
+          "source": "A",
+          "lines": 29
+        }
+      ]
     },
     {
       "musicId": 362,
@@ -8384,7 +9209,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 42,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 897,
+          "assetbundle": "se_0366_01",
+          "duration": 134.052625,
+          "source": "A",
+          "lines": 41
+        }
+      ]
     },
     {
       "musicId": 367,
@@ -8592,7 +9426,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 15,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 1368,
+          "assetbundle": "an_0375_01",
+          "duration": 106.98,
+          "source": "C",
+          "lines": 19
+        }
+      ]
     },
     {
       "musicId": 376,
@@ -8999,7 +9842,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 35,
-      "generatedRomajiLines": 5
+      "generatedRomajiLines": 5,
+      "versions": [
+        {
+          "vocalId": 1423,
+          "assetbundle": "an_0391_01",
+          "duration": 141.12775,
+          "source": "C",
+          "lines": 40
+        }
+      ]
     },
     {
       "musicId": 392,
@@ -9103,7 +9955,23 @@
         ]
       ],
       "sekaipediaRomajiLines": 18,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 1379,
+          "assetbundle": "an_0395_01",
+          "duration": 155.96625,
+          "source": "C",
+          "lines": 18
+        },
+        {
+          "vocalId": 1380,
+          "assetbundle": "an_0395_02",
+          "duration": 155.96625,
+          "source": "C",
+          "lines": 18
+        }
+      ]
     },
     {
       "musicId": 396,
@@ -9233,7 +10101,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 32,
-      "generatedRomajiLines": 2
+      "generatedRomajiLines": 2,
+      "versions": [
+        {
+          "vocalId": 1373,
+          "assetbundle": "se_0400_01",
+          "duration": 113.915375,
+          "source": "A",
+          "lines": 34
+        }
+      ]
     },
     {
       "musicId": 401,
@@ -9285,7 +10162,23 @@
         ]
       ],
       "sekaipediaRomajiLines": 35,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 1441,
+          "assetbundle": "an_0402_01",
+          "duration": 146.353,
+          "source": "C",
+          "lines": 41
+        },
+        {
+          "vocalId": 1442,
+          "assetbundle": "an_0402_02",
+          "duration": 146.353,
+          "source": "C",
+          "lines": 41
+        }
+      ]
     },
     {
       "musicId": 403,
@@ -9505,7 +10398,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 40,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 949,
+          "assetbundle": "vs_0411_01",
+          "duration": 129.77425,
+          "source": "A",
+          "lines": 40
+        }
+      ]
     },
     {
       "musicId": 412,
@@ -10011,7 +10913,23 @@
         ]
       ],
       "sekaipediaRomajiLines": 22,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 1786,
+          "assetbundle": "af_0432_01",
+          "duration": 145.0,
+          "source": "A",
+          "lines": 22
+        },
+        {
+          "vocalId": 2071,
+          "assetbundle": "an_0432_03",
+          "duration": 146.02825,
+          "source": "C",
+          "lines": 22
+        }
+      ]
     },
     {
       "musicId": 433,
@@ -10141,7 +11059,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 29,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 1597,
+          "assetbundle": "af_0437_01",
+          "duration": 119.625,
+          "source": "A",
+          "lines": 29
+        }
+      ]
     },
     {
       "musicId": 438,
@@ -10393,7 +11320,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 42,
-      "generatedRomajiLines": 2
+      "generatedRomajiLines": 2,
+      "versions": [
+        {
+          "vocalId": 1609,
+          "assetbundle": "an_0450_02",
+          "duration": 134.9615,
+          "source": "C",
+          "lines": 44
+        }
+      ]
     },
     {
       "musicId": 451,
@@ -10411,7 +11347,16 @@
       "credits": {},
       "sources": [],
       "sekaipediaRomajiLines": 66,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 1789,
+          "assetbundle": "af_0451_01",
+          "duration": 131.0,
+          "source": "A",
+          "lines": 66
+        }
+      ]
     },
     {
       "musicId": 452,
@@ -10871,7 +11816,30 @@
       "credits": {},
       "sources": [],
       "sekaipediaRomajiLines": 23,
-      "generatedRomajiLines": 1
+      "generatedRomajiLines": 1,
+      "versions": [
+        {
+          "vocalId": 1457,
+          "assetbundle": "se_0471_01",
+          "duration": 106.03225,
+          "source": "A",
+          "lines": 27
+        },
+        {
+          "vocalId": 1753,
+          "assetbundle": "an_0471_01",
+          "duration": 104.625,
+          "source": "A",
+          "lines": 27
+        },
+        {
+          "vocalId": 1754,
+          "assetbundle": "an_0471_02",
+          "duration": 104.625,
+          "source": "A",
+          "lines": 27
+        }
+      ]
     },
     {
       "musicId": 472,
@@ -11045,7 +12013,16 @@
       "credits": {},
       "sources": [],
       "sekaipediaRomajiLines": 10,
-      "generatedRomajiLines": 4
+      "generatedRomajiLines": 4,
+      "versions": [
+        {
+          "vocalId": 1641,
+          "assetbundle": "an_0478_01",
+          "duration": 110.49,
+          "source": "C",
+          "lines": 30
+        }
+      ]
     },
     {
       "musicId": 480,
@@ -11297,7 +12274,30 @@
       "credits": {},
       "sources": [],
       "sekaipediaRomajiLines": 21,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 1506,
+          "assetbundle": "vs_0489_02",
+          "duration": 121.76675,
+          "source": "A",
+          "lines": 20
+        },
+        {
+          "vocalId": 1509,
+          "assetbundle": "an_0489_02",
+          "duration": 119.0,
+          "source": "C",
+          "lines": 21
+        },
+        {
+          "vocalId": 1510,
+          "assetbundle": "an_0489_03",
+          "duration": 119.0,
+          "source": "C",
+          "lines": 21
+        }
+      ]
     },
     {
       "musicId": 490,
@@ -11375,7 +12375,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 26,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 1777,
+          "assetbundle": "an_0492_02",
+          "duration": 135.616,
+          "source": "C",
+          "lines": 26
+        }
+      ]
     },
     {
       "musicId": 493,
@@ -11713,7 +12722,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 43,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 1644,
+          "assetbundle": "an_0506_03",
+          "duration": 153.9615,
+          "source": "C",
+          "lines": 44
+        }
+      ]
     },
     {
       "musicId": 507,
@@ -11739,7 +12757,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 21,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 1733,
+          "assetbundle": "an_0507_01",
+          "duration": 127.23525,
+          "source": "C",
+          "lines": 24
+        }
+      ]
     },
     {
       "musicId": 508,
@@ -11843,7 +12870,23 @@
         ]
       ],
       "sekaipediaRomajiLines": 18,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 1569,
+          "assetbundle": "an_0511_01",
+          "duration": 128.14,
+          "source": "C",
+          "lines": 18
+        },
+        {
+          "vocalId": 1570,
+          "assetbundle": "an_0511_02",
+          "duration": 128.46,
+          "source": "C",
+          "lines": 18
+        }
+      ]
     },
     {
       "musicId": 512,
@@ -12739,7 +13782,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 28,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 1712,
+          "assetbundle": "an_0549_02",
+          "duration": 127.13275,
+          "source": "C",
+          "lines": 28
+        }
+      ]
     },
     {
       "musicId": 550,
@@ -13089,7 +14141,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 26,
-      "generatedRomajiLines": 2
+      "generatedRomajiLines": 2,
+      "versions": [
+        {
+          "vocalId": 1121,
+          "assetbundle": "vs_0564_01",
+          "duration": 105.4,
+          "source": "A",
+          "lines": 16
+        }
+      ]
     },
     {
       "musicId": 565,
@@ -13427,7 +14488,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 18,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 1135,
+          "assetbundle": "vs_0578_01",
+          "duration": 113.72775,
+          "source": "C",
+          "lines": 18
+        }
+      ]
     },
     {
       "musicId": 579,
@@ -13845,7 +14915,16 @@
       "credits": {},
       "sources": [],
       "sekaipediaRomajiLines": 26,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 1627,
+          "assetbundle": "se_0595_01",
+          "duration": 140.14,
+          "source": "A",
+          "lines": 27
+        }
+      ]
     },
     {
       "musicId": 596,
@@ -13871,7 +14950,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 32,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 1153,
+          "assetbundle": "vs_0596_01",
+          "duration": 137.984875,
+          "source": "A",
+          "lines": 32
+        }
+      ]
     },
     {
       "musicId": 597,
@@ -13923,7 +15011,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 24,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 1722,
+          "assetbundle": "se_0600_01",
+          "duration": 120.6,
+          "source": "A",
+          "lines": 24
+        }
+      ]
     },
     {
       "musicId": 601,
@@ -14871,7 +15968,23 @@
         ]
       ],
       "sekaipediaRomajiLines": 20,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 1199,
+          "assetbundle": "vs_0642_01",
+          "duration": 117.993625,
+          "source": "A",
+          "lines": 20
+        },
+        {
+          "vocalId": 1799,
+          "assetbundle": "an_0642_01",
+          "duration": 118.001,
+          "source": "C",
+          "lines": 20
+        }
+      ]
     },
     {
       "musicId": 643,
@@ -14975,7 +16088,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 22,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 1797,
+          "assetbundle": "an_0646_01",
+          "duration": 119.9995,
+          "source": "C",
+          "lines": 22
+        }
+      ]
     },
     {
       "musicId": 647,
@@ -15313,7 +16435,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 29,
-      "generatedRomajiLines": 13
+      "generatedRomajiLines": 13,
+      "versions": [
+        {
+          "vocalId": 1765,
+          "assetbundle": "se_0660_01",
+          "duration": 131.9675,
+          "source": "A",
+          "lines": 40
+        }
+      ]
     },
     {
       "musicId": 661,
@@ -15609,7 +16740,16 @@
       "credits": {},
       "sources": [],
       "sekaipediaRomajiLines": 23,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 1229,
+          "assetbundle": "vs_0672_01",
+          "duration": 129.987,
+          "source": "A",
+          "lines": 23
+        }
+      ]
     },
     {
       "musicId": 677,
@@ -15687,7 +16827,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 18,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 1793,
+          "assetbundle": "se_0679_01",
+          "duration": 129.0,
+          "source": "A",
+          "lines": 55
+        }
+      ]
     },
     {
       "musicId": 680,
@@ -15739,7 +16888,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 27,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 1238,
+          "assetbundle": "vs_0681_01",
+          "duration": 135.97,
+          "source": "A",
+          "lines": 27
+        }
+      ]
     },
     {
       "musicId": 682,
@@ -16051,7 +17209,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 22,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 1250,
+          "assetbundle": "vs_0693_01",
+          "duration": 139.147125,
+          "source": "A",
+          "lines": 18
+        }
+      ]
     },
     {
       "musicId": 695,
@@ -16233,7 +17400,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 18,
-      "generatedRomajiLines": 0
+      "generatedRomajiLines": 0,
+      "versions": [
+        {
+          "vocalId": 1833,
+          "assetbundle": "an_0702_01",
+          "duration": 138.99175,
+          "source": "C",
+          "lines": 18
+        }
+      ]
     },
     {
       "musicId": 703,
@@ -16311,7 +17487,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 12,
-      "generatedRomajiLines": 18
+      "generatedRomajiLines": 18,
+      "versions": [
+        {
+          "vocalId": 1830,
+          "assetbundle": "se_0705_01",
+          "duration": 133.99925,
+          "source": "A",
+          "lines": 22
+        }
+      ]
     },
     {
       "musicId": 706,
@@ -16835,7 +18020,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 18,
-      "generatedRomajiLines": 2
+      "generatedRomajiLines": 2,
+      "versions": [
+        {
+          "vocalId": 2082,
+          "assetbundle": "se_0730_01",
+          "duration": 128.024,
+          "source": "A",
+          "lines": 19
+        }
+      ]
     },
     {
       "musicId": 731,
@@ -18121,7 +19315,16 @@
         ]
       ],
       "sekaipediaRomajiLines": 30,
-      "generatedRomajiLines": 7
+      "generatedRomajiLines": 7,
+      "versions": [
+        {
+          "vocalId": 2077,
+          "assetbundle": "se_0811_01",
+          "duration": 136.00075,
+          "source": "A",
+          "lines": 35
+        }
+      ]
     },
     {
       "musicId": 812,
@@ -18319,6 +19522,14 @@
   "mergeStatistics": {
     "sekaipediaRomajiLines": 17742,
     "generatedRomajiLines": 3182,
-    "additionalVersions": 0
+    "additionalVersions": 141,
+    "versionedSongs": 108,
+    "versionSources": {
+      "A": 88,
+      "B": 3,
+      "C": 48,
+      "D": 2
+    },
+    "totalPlaybackVersions": 863
   }
 }

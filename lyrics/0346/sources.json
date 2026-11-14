@@ -91,6 +91,65 @@
       "via": "https://github.com/shinonomeenana/sekai_lyrics",
       "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
       "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "附加演唱版本",
+      "provider": "historical alignment",
+      "url": null,
+      "license": null,
+      "vocalId": 850,
+      "source": "A",
+      "jobId": "0346-850-vocaloid",
+      "timingSource": "NetEase LRC; source text and timestamps retained in source.lrc",
+      "performerSource": "vocaloid",
+      "provenance": [
+        {
+          "component": "renditions/vocaloid/game_text",
+          "provider": "sekaipedia",
+          "title": "Aa, Subarashiki Nyansei",
+          "revisionId": 334651,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Aa,_Subarashiki_Nyansei?oldid=334651",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/game_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Aa, Subarashiki Nyansei",
+          "revisionId": 334651,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Aa,_Subarashiki_Nyansei?oldid=334651",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/game_ruby",
+          "provider": "sekaipedia",
+          "title": "Aa, Subarashiki Nyansei",
+          "revisionId": 334651,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Aa,_Subarashiki_Nyansei?oldid=334651",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/relation",
+          "provider": "sekaipedia",
+          "title": "Aa, Subarashiki Nyansei",
+          "revisionId": 334651,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Aa,_Subarashiki_Nyansei?oldid=334651",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/version",
+          "provider": "sekaipedia",
+          "title": "Aa, Subarashiki Nyansei",
+          "revisionId": 334651,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Aa,_Subarashiki_Nyansei?oldid=334651",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "note": "Snapshot 20261110-all-v2; only recorded aligned lines; no cross-version word transfer; shared intervals retained."
     }
   ]
 }

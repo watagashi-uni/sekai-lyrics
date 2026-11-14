@@ -83,6 +83,146 @@
       "via": "https://github.com/shinonomeenana/sekai_lyrics",
       "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
       "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "附加演唱版本",
+      "provider": "game audio waveform mapping",
+      "url": "https://assets-direct.unipjsk.com/ondemand/music/long/an_0356_01/an_0356_01.mp3",
+      "license": null,
+      "vocalId": 1381,
+      "source": "C",
+      "referenceVocalId": 870,
+      "performerSource": "musicVocals 7.1.0.60; solo whole-song attribution",
+      "mapping": {
+        "sourceMinusTarget": 0.0,
+        "coverage": 0.9167,
+        "medianScore": 0.83478,
+        "duration": 102.82925,
+        "referenceDuration": 102.406,
+        "windows": [
+          {
+            "targetStart": 4.0,
+            "offset": 0.0,
+            "score": 0.99966
+          },
+          {
+            "targetStart": 8.0,
+            "offset": 0.0,
+            "score": 0.99953
+          },
+          {
+            "targetStart": 12.0,
+            "offset": 0.0,
+            "score": 0.99952
+          },
+          {
+            "targetStart": 16.0,
+            "offset": 0.0,
+            "score": 0.99956
+          },
+          {
+            "targetStart": 20.0,
+            "offset": 0.0,
+            "score": 0.9997
+          },
+          {
+            "targetStart": 24.0,
+            "offset": 0.0,
+            "score": 0.83093
+          },
+          {
+            "targetStart": 28.0,
+            "offset": 0.0,
+            "score": 0.61192
+          },
+          {
+            "targetStart": 32.0,
+            "offset": 0.0,
+            "score": 0.81018
+          },
+          {
+            "targetStart": 36.0,
+            "offset": 0.0,
+            "score": 0.84612
+          },
+          {
+            "targetStart": 40.0,
+            "offset": 0.0,
+            "score": 0.81576
+          },
+          {
+            "targetStart": 44.0,
+            "offset": 0.0,
+            "score": 0.73258
+          },
+          {
+            "targetStart": 48.0,
+            "offset": 0.0,
+            "score": 0.74024
+          },
+          {
+            "targetStart": 52.0,
+            "offset": 0.0,
+            "score": 0.7633
+          },
+          {
+            "targetStart": 56.0,
+            "offset": 0.0,
+            "score": 0.87833
+          },
+          {
+            "targetStart": 60.0,
+            "offset": 0.0,
+            "score": 0.82381
+          },
+          {
+            "targetStart": 64.0,
+            "offset": 0.0,
+            "score": 0.73511
+          },
+          {
+            "targetStart": 68.0,
+            "offset": 0.0,
+            "score": 0.61888
+          },
+          {
+            "targetStart": 72.0,
+            "offset": 0.0,
+            "score": 0.76965
+          },
+          {
+            "targetStart": 76.0,
+            "offset": 0.0,
+            "score": 0.83864
+          },
+          {
+            "targetStart": 80.0,
+            "offset": 0.0,
+            "score": 0.80822
+          },
+          {
+            "targetStart": 84.0,
+            "offset": 0.0,
+            "score": 0.81429
+          },
+          {
+            "targetStart": 88.0,
+            "offset": 0.0,
+            "score": 0.98659
+          },
+          {
+            "targetStart": 92.0,
+            "offset": 0.0,
+            "score": 0.99928
+          },
+          {
+            "targetStart": 96.0,
+            "offset": 0.0,
+            "score": 0.99936
+          }
+        ]
+      },
+      "note": "6-second windows every 4 seconds; >=90% consistent within 20ms, score>=0.65, median>=0.8, max supported gap 8s, bounded tails. Line-only; no inherited words or segments. Lyrics licenses/translation credits remain those of default version."
     }
   ]
 }

@@ -59,6 +59,65 @@
       "via": "https://github.com/shinonomeenana/sekai_lyrics",
       "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
       "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "附加演唱版本",
+      "provider": "historical alignment",
+      "url": null,
+      "license": null,
+      "vocalId": 453,
+      "source": "A",
+      "jobId": "0147-453-alternate-alternate-vocal-airi-shizuku",
+      "timingSource": "Independent vocal separation, Whisper ASR anchors and wav2vec2 CTC. No NetEase timestamps were available.",
+      "performerSource": "alternate-alternate-vocal-airi-shizuku",
+      "provenance": [
+        {
+          "component": "renditions/alternate-alternate-vocal-airi-shizuku/game_text",
+          "provider": "sekaipedia",
+          "title": "Karakuri Pierrot",
+          "revisionId": 330486,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Karakuri_Pierrot?oldid=330486",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/alternate-alternate-vocal-airi-shizuku/game_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Karakuri Pierrot",
+          "revisionId": 330486,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Karakuri_Pierrot?oldid=330486",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/alternate-alternate-vocal-airi-shizuku/game_ruby",
+          "provider": "sekaipedia",
+          "title": "Karakuri Pierrot",
+          "revisionId": 330486,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Karakuri_Pierrot?oldid=330486",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/alternate-alternate-vocal-airi-shizuku/relation",
+          "provider": "sekaipedia",
+          "title": "Karakuri Pierrot",
+          "revisionId": 330486,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Karakuri_Pierrot?oldid=330486",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/alternate-alternate-vocal-airi-shizuku/version",
+          "provider": "sekaipedia",
+          "title": "Karakuri Pierrot",
+          "revisionId": 330486,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Karakuri_Pierrot?oldid=330486",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "note": "Snapshot 20261110-all-v2; only recorded aligned lines; no cross-version word transfer; shared intervals retained."
     }
   ]
 }

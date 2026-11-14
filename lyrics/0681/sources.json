@@ -85,6 +85,65 @@
       "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
     },
     {
+      "usage": "附加演唱版本",
+      "provider": "historical alignment",
+      "url": null,
+      "license": null,
+      "vocalId": 1238,
+      "source": "A",
+      "jobId": "0681-1238-vocaloid",
+      "timingSource": "NetEase LRC; source text and timestamps retained in source.lrc",
+      "performerSource": "vocaloid",
+      "provenance": [
+        {
+          "component": "renditions/vocaloid/game_text",
+          "provider": "sekaipedia",
+          "title": "Hoshi ni Ichiban Chikai Basho",
+          "revisionId": 328664,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Hoshi_ni_Ichiban_Chikai_Basho?oldid=328664",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/game_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Hoshi ni Ichiban Chikai Basho",
+          "revisionId": 328664,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Hoshi_ni_Ichiban_Chikai_Basho?oldid=328664",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/game_ruby",
+          "provider": "sekaipedia",
+          "title": "Hoshi ni Ichiban Chikai Basho",
+          "revisionId": 328664,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Hoshi_ni_Ichiban_Chikai_Basho?oldid=328664",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/relation",
+          "provider": "sekaipedia",
+          "title": "Hoshi ni Ichiban Chikai Basho",
+          "revisionId": 328664,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Hoshi_ni_Ichiban_Chikai_Basho?oldid=328664",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/vocaloid/version",
+          "provider": "sekaipedia",
+          "title": "Hoshi ni Ichiban Chikai Basho",
+          "revisionId": 328664,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Hoshi_ni_Ichiban_Chikai_Basho?oldid=328664",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "note": "Snapshot 20261110-all-v2; only recorded aligned lines; no cross-version word transfer; shared intervals retained."
+    },
+    {
       "usage": "逐句结束时间",
       "provider": "shinonomeenana/sekai_lyrics",
       "url": "https://github.com/shinonomeenana/sekai_lyrics",

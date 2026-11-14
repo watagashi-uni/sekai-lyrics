@@ -59,6 +59,425 @@
       "via": "https://github.com/shinonomeenana/sekai_lyrics",
       "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
       "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "附加演唱版本",
+      "provider": "historical alignment",
+      "url": null,
+      "license": null,
+      "vocalId": 574,
+      "source": "A",
+      "jobId": "0145-574-alternate-april-fools-2022-honami-minori-nene-mizuki",
+      "timingSource": "NetEase LRC; source text and timestamps retained in source.lrc",
+      "performerSource": "alternate-april-fools-2022-honami-minori-nene-mizuki",
+      "provenance": [
+        {
+          "component": "renditions/alternate-april-fools-2022-honami-minori-nene-mizuki/game_text",
+          "provider": "sekaipedia",
+          "title": "Venom",
+          "revisionId": 329511,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Venom?oldid=329511",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/alternate-april-fools-2022-honami-minori-nene-mizuki/game_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Venom",
+          "revisionId": 329511,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Venom?oldid=329511",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/alternate-april-fools-2022-honami-minori-nene-mizuki/game_ruby",
+          "provider": "sekaipedia",
+          "title": "Venom",
+          "revisionId": 329511,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Venom?oldid=329511",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/alternate-april-fools-2022-honami-minori-nene-mizuki/relation",
+          "provider": "sekaipedia",
+          "title": "Venom",
+          "revisionId": 329511,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Venom?oldid=329511",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/alternate-april-fools-2022-honami-minori-nene-mizuki/version",
+          "provider": "sekaipedia",
+          "title": "Venom",
+          "revisionId": 329511,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Venom?oldid=329511",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "note": "Snapshot 20261110-all-v2; only recorded aligned lines; no cross-version word transfer; shared intervals retained."
+    },
+    {
+      "usage": "附加演唱版本",
+      "provider": "game audio waveform mapping",
+      "url": "https://assets-direct.unipjsk.com/ondemand/music/long/an_0145_01/an_0145_01.mp3",
+      "license": null,
+      "vocalId": 412,
+      "source": "C",
+      "referenceVocalId": 301,
+      "performerSource": "musicVocals 7.1.0.60; solo whole-song attribution",
+      "mapping": {
+        "sourceMinusTarget": 0.0,
+        "coverage": 0.9688,
+        "medianScore": 0.83194,
+        "duration": 136.5,
+        "referenceDuration": 136.5,
+        "windows": [
+          {
+            "targetStart": 4.0,
+            "offset": 0.0,
+            "score": 0.99796
+          },
+          {
+            "targetStart": 8.0,
+            "offset": 0.0,
+            "score": 0.99824
+          },
+          {
+            "targetStart": 12.0,
+            "offset": 0.0,
+            "score": 0.78086
+          },
+          {
+            "targetStart": 16.0,
+            "offset": 0.0,
+            "score": 0.64818
+          },
+          {
+            "targetStart": 20.0,
+            "offset": 0.0,
+            "score": 0.81015
+          },
+          {
+            "targetStart": 24.0,
+            "offset": 0.0,
+            "score": 0.75426
+          },
+          {
+            "targetStart": 28.0,
+            "offset": 0.0,
+            "score": 0.98994
+          },
+          {
+            "targetStart": 32.0,
+            "offset": 0.0,
+            "score": 0.99809
+          },
+          {
+            "targetStart": 36.0,
+            "offset": 0.0,
+            "score": 0.92827
+          },
+          {
+            "targetStart": 40.0,
+            "offset": 0.0,
+            "score": 0.83194
+          },
+          {
+            "targetStart": 44.0,
+            "offset": 0.0,
+            "score": 0.93203
+          },
+          {
+            "targetStart": 48.0,
+            "offset": 0.0,
+            "score": 0.93828
+          },
+          {
+            "targetStart": 52.0,
+            "offset": 0.0,
+            "score": 0.71928
+          },
+          {
+            "targetStart": 56.0,
+            "offset": 0.0,
+            "score": 0.74112
+          },
+          {
+            "targetStart": 60.0,
+            "offset": 0.0,
+            "score": 0.71225
+          },
+          {
+            "targetStart": 64.0,
+            "offset": 0.0,
+            "score": 0.76005
+          },
+          {
+            "targetStart": 68.0,
+            "offset": 0.0,
+            "score": 0.7952
+          },
+          {
+            "targetStart": 72.0,
+            "offset": 0.0,
+            "score": 0.78774
+          },
+          {
+            "targetStart": 76.0,
+            "offset": 0.0,
+            "score": 0.99722
+          },
+          {
+            "targetStart": 80.0,
+            "offset": 0.0,
+            "score": 0.9974
+          },
+          {
+            "targetStart": 84.0,
+            "offset": 0.0,
+            "score": 0.99717
+          },
+          {
+            "targetStart": 88.0,
+            "offset": 0.0,
+            "score": 0.99702
+          },
+          {
+            "targetStart": 92.0,
+            "offset": 0.0,
+            "score": 0.957
+          },
+          {
+            "targetStart": 96.0,
+            "offset": 0.0,
+            "score": 0.7524
+          },
+          {
+            "targetStart": 100.0,
+            "offset": 0.0,
+            "score": 0.72462
+          },
+          {
+            "targetStart": 104.0,
+            "offset": 0.0,
+            "score": 0.76735
+          },
+          {
+            "targetStart": 108.0,
+            "offset": 0.0,
+            "score": 0.74564
+          },
+          {
+            "targetStart": 112.0,
+            "offset": 0.0,
+            "score": 0.82556
+          },
+          {
+            "targetStart": 116.0,
+            "offset": 0.0,
+            "score": 0.76338
+          },
+          {
+            "targetStart": 120.0,
+            "offset": 0.0,
+            "score": 0.93837
+          },
+          {
+            "targetStart": 124.0,
+            "offset": 0.0,
+            "score": 0.99811
+          },
+          {
+            "targetStart": 128.0,
+            "offset": 0.0,
+            "score": 0.99869
+          }
+        ]
+      },
+      "note": "6-second windows every 4 seconds; >=90% consistent within 20ms, score>=0.65, median>=0.8, max supported gap 8s, bounded tails. Line-only; no inherited words or segments. Lyrics licenses/translation credits remain those of default version."
+    },
+    {
+      "usage": "附加演唱版本",
+      "provider": "game audio waveform mapping",
+      "url": "https://assets-direct.unipjsk.com/ondemand/music/long/an_0145_02/an_0145_02.mp3",
+      "license": null,
+      "vocalId": 413,
+      "source": "C",
+      "referenceVocalId": 301,
+      "performerSource": "musicVocals 7.1.0.60; solo whole-song attribution",
+      "mapping": {
+        "sourceMinusTarget": 0.0,
+        "coverage": 0.9375,
+        "medianScore": 0.86752,
+        "duration": 136.5,
+        "referenceDuration": 136.5,
+        "windows": [
+          {
+            "targetStart": 4.0,
+            "offset": 0.0,
+            "score": 0.99758
+          },
+          {
+            "targetStart": 8.0,
+            "offset": 0.0,
+            "score": 0.99788
+          },
+          {
+            "targetStart": 12.0,
+            "offset": 0.0,
+            "score": 0.99378
+          },
+          {
+            "targetStart": 16.0,
+            "offset": 0.0,
+            "score": 0.97346
+          },
+          {
+            "targetStart": 20.0,
+            "offset": 0.0,
+            "score": 0.81635
+          },
+          {
+            "targetStart": 24.0,
+            "offset": 0.0,
+            "score": 0.89127
+          },
+          {
+            "targetStart": 28.0,
+            "offset": 0.0,
+            "score": 0.96403
+          },
+          {
+            "targetStart": 32.0,
+            "offset": 0.0,
+            "score": 0.78901
+          },
+          {
+            "targetStart": 36.0,
+            "offset": 0.0,
+            "score": 0.68577
+          },
+          {
+            "targetStart": 40.0,
+            "offset": 0.0,
+            "score": 0.72654
+          },
+          {
+            "targetStart": 44.0,
+            "offset": 0.0,
+            "score": 0.61274
+          },
+          {
+            "targetStart": 48.0,
+            "offset": 0.0,
+            "score": 0.70977
+          },
+          {
+            "targetStart": 52.0,
+            "offset": 0.0,
+            "score": 0.88327
+          },
+          {
+            "targetStart": 56.0,
+            "offset": 0.0,
+            "score": 0.91529
+          },
+          {
+            "targetStart": 60.0,
+            "offset": 0.0,
+            "score": 0.80827
+          },
+          {
+            "targetStart": 64.0,
+            "offset": 0.0,
+            "score": 0.77224
+          },
+          {
+            "targetStart": 68.0,
+            "offset": 0.0,
+            "score": 0.71982
+          },
+          {
+            "targetStart": 72.0,
+            "offset": 0.0,
+            "score": 0.90844
+          },
+          {
+            "targetStart": 76.0,
+            "offset": 0.0,
+            "score": 0.99701
+          },
+          {
+            "targetStart": 80.0,
+            "offset": 0.0,
+            "score": 0.99678
+          },
+          {
+            "targetStart": 84.0,
+            "offset": 0.0,
+            "score": 0.99659
+          },
+          {
+            "targetStart": 88.0,
+            "offset": 0.0,
+            "score": 0.99641
+          },
+          {
+            "targetStart": 92.0,
+            "offset": 0.0,
+            "score": 0.69384
+          },
+          {
+            "targetStart": 96.0,
+            "offset": 0.0,
+            "score": 0.73428
+          },
+          {
+            "targetStart": 100.0,
+            "offset": 0.0,
+            "score": 0.79688
+          },
+          {
+            "targetStart": 104.0,
+            "offset": 0.0,
+            "score": 0.59247
+          },
+          {
+            "targetStart": 108.0,
+            "offset": 0.0,
+            "score": 0.66936
+          },
+          {
+            "targetStart": 112.0,
+            "offset": 0.0,
+            "score": 0.67548
+          },
+          {
+            "targetStart": 116.0,
+            "offset": 0.0,
+            "score": 0.83324
+          },
+          {
+            "targetStart": 120.0,
+            "offset": 0.0,
+            "score": 0.85176
+          },
+          {
+            "targetStart": 124.0,
+            "offset": 0.0,
+            "score": 0.99778
+          },
+          {
+            "targetStart": 128.0,
+            "offset": 0.0,
+            "score": 0.99849
+          }
+        ]
+      },
+      "note": "6-second windows every 4 seconds; >=90% consistent within 20ms, score>=0.65, median>=0.8, max supported gap 8s, bounded tails. Line-only; no inherited words or segments. Lyrics licenses/translation credits remain those of default version."
     }
   ]
 }

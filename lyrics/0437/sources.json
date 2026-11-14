@@ -59,6 +59,65 @@
       "via": "https://github.com/shinonomeenana/sekai_lyrics",
       "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
       "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "附加演唱版本",
+      "provider": "historical alignment",
+      "url": null,
+      "license": null,
+      "vocalId": 1597,
+      "source": "A",
+      "jobId": "0437-1597-alternate-april-fools-2025-shizuku-an-mizuki-meiko",
+      "timingSource": "NetEase LRC; source text and timestamps retained in source.lrc",
+      "performerSource": "alternate-april-fools-2025-shizuku-an-mizuki-meiko",
+      "provenance": [
+        {
+          "component": "renditions/alternate-april-fools-2025-shizuku-an-mizuki-meiko/game_text",
+          "provider": "sekaipedia",
+          "title": "Eh? Ah, Sou.",
+          "revisionId": 330786,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Eh%3F_Ah%2C_Sou.?oldid=330786",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/alternate-april-fools-2025-shizuku-an-mizuki-meiko/game_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Eh? Ah, Sou.",
+          "revisionId": 330786,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Eh%3F_Ah%2C_Sou.?oldid=330786",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/alternate-april-fools-2025-shizuku-an-mizuki-meiko/game_ruby",
+          "provider": "sekaipedia",
+          "title": "Eh? Ah, Sou.",
+          "revisionId": 330786,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Eh%3F_Ah%2C_Sou.?oldid=330786",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/alternate-april-fools-2025-shizuku-an-mizuki-meiko/relation",
+          "provider": "sekaipedia",
+          "title": "Eh? Ah, Sou.",
+          "revisionId": 330786,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Eh%3F_Ah%2C_Sou.?oldid=330786",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/alternate-april-fools-2025-shizuku-an-mizuki-meiko/version",
+          "provider": "sekaipedia",
+          "title": "Eh? Ah, Sou.",
+          "revisionId": 330786,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Eh%3F_Ah%2C_Sou.?oldid=330786",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "note": "Snapshot 20261110-all-v2; only recorded aligned lines; no cross-version word transfer; shared intervals retained."
     }
   ]
 }

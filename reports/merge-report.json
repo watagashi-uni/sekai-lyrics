@@ -75,5 +75,75 @@
     "numpy": "2.5.4",
     "scipy": "1.18.1",
     "Janome": "0.5.0"
+  },
+  "task3": {
+    "masterDataVersion": "7.1.0.60",
+    "format": "optional versions[] with own timing, performers, credits; textRef inherits only display text/translation/ruby/romaji, never timing or singing assignments",
+    "indexVersion": 1,
+    "totalAdditionalVersions": 141,
+    "songsWithAdditionalVersions": 108,
+    "bySource": {
+      "A": {
+        "versions": 88,
+        "songs": 71,
+        "lines": 2530
+      },
+      "B": {
+        "versions": 3,
+        "songs": 3,
+        "lines": 97
+      },
+      "C": {
+        "versions": 48,
+        "songs": 39,
+        "lines": 1292
+      },
+      "D": {
+        "versions": 2,
+        "songs": 2,
+        "lines": 70
+      }
+    },
+    "historicalCandidates": {
+      "jobs": 90,
+      "songs": 71,
+      "uniqueVocals": 88,
+      "note": "Two duplicate vocal IDs represented by multiple rendition keys; first manifest rendition retained. Only success/partial_alignment selected."
+    },
+    "masterOtherVersions": 1115,
+    "masterSoloVersions": 884,
+    "pilot": {
+      "songs": 15,
+      "versions": 46,
+      "accepted": 3
+    },
+    "audioCheckedVersions": 1033,
+    "skipReasons": {
+      "insufficient full-recording waveform support or inconsistent edit": 974
+    },
+    "frontendChanges": [
+      "Read versions by selected musicVocal ID; unknown vocals must not reuse default timing",
+      "Resolve textRef against original default row order, copying only display fields",
+      "Apply each version duration, performers and own line timing; no words means line highlighting",
+      "Apply optional LRC lineTimings before wordLines",
+      "Use explicit characterId; outsideCharacterId identifies external singers"
+    ],
+    "verification": [
+      "722 default versions compared to main: only documented end changes and additive romaji/metadata",
+      "node scripts/build-playback.mjs and node scripts/validate.mjs",
+      "node scripts/test-version-schema.mjs",
+      "Synthetic audio controls: known 1s offset accepted; silence, unrelated audio and unsupported middle section rejected"
+    ],
+    "limitations": [
+      "Waveform constant-offset mappings only; inconsistent edits and weak support skipped, no spectral or vocal-isolation fallback",
+      "Additional versions are line-only; no cross-version word timing fabricated",
+      "Historical partial alignment/missing lines remain partial",
+      "Excel not regenerated; frontend untouched; no Git push or CDN upload"
+    ],
+    "details": [
+      "version-import.json",
+      "audio-version-mapping.json",
+      "skipped-versions.json"
+    ]
   }
 }

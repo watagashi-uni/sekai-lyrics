@@ -77,6 +77,65 @@
       "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
     },
     {
+      "usage": "附加演唱版本",
+      "provider": "historical alignment",
+      "url": null,
+      "license": null,
+      "vocalId": 465,
+      "source": "A",
+      "jobId": "0002-465-alternate-another-vocal-len-kaito",
+      "timingSource": "NetEase LRC; source text and timestamps retained in source.lrc",
+      "performerSource": "alternate-another-vocal-len-kaito",
+      "provenance": [
+        {
+          "component": "renditions/alternate-another-vocal-len-kaito/game_text",
+          "provider": "sekaipedia",
+          "title": "Roki",
+          "revisionId": 330574,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Roki?oldid=330574",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/alternate-another-vocal-len-kaito/game_performer_segmentation",
+          "provider": "sekaipedia",
+          "title": "Roki",
+          "revisionId": 330574,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Roki?oldid=330574",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/alternate-another-vocal-len-kaito/game_ruby",
+          "provider": "sekaipedia",
+          "title": "Roki",
+          "revisionId": 330574,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Roki?oldid=330574",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/alternate-another-vocal-len-kaito/relation",
+          "provider": "sekaipedia",
+          "title": "Roki",
+          "revisionId": 330574,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Roki?oldid=330574",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "component": "renditions/alternate-another-vocal-len-kaito/version",
+          "provider": "sekaipedia",
+          "title": "Roki",
+          "revisionId": 330574,
+          "revisionUrl": "https://www.sekaipedia.org/wiki/Roki?oldid=330574",
+          "licenseName": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      ],
+      "note": "Snapshot 20261110-all-v2; only recorded aligned lines; no cross-version word transfer; shared intervals retained."
+    },
+    {
       "usage": "逐句结束时间",
       "provider": "shinonomeenana/sekai_lyrics",
       "url": "https://github.com/shinonomeenana/sekai_lyrics",

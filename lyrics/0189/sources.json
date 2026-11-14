@@ -82,6 +82,141 @@
           ]
         }
       ]
+    },
+    {
+      "usage": "附加演唱版本",
+      "provider": "game audio waveform mapping",
+      "url": "https://assets-direct.unipjsk.com/ondemand/music/long/an_0189_01/an_0189_01.mp3",
+      "license": null,
+      "vocalId": 564,
+      "source": "C",
+      "referenceVocalId": 563,
+      "performerSource": "musicVocals 7.1.0.60; solo whole-song attribution",
+      "mapping": {
+        "sourceMinusTarget": 0.0,
+        "coverage": 0.9565,
+        "medianScore": 0.88979,
+        "duration": 100.66675,
+        "referenceDuration": 100.66675,
+        "windows": [
+          {
+            "targetStart": 4.0,
+            "offset": 0.0,
+            "score": 0.99903
+          },
+          {
+            "targetStart": 8.0,
+            "offset": 0.0,
+            "score": 0.99973
+          },
+          {
+            "targetStart": 12.0,
+            "offset": 0.0,
+            "score": 0.99973
+          },
+          {
+            "targetStart": 16.0,
+            "offset": 0.0,
+            "score": 0.99981
+          },
+          {
+            "targetStart": 20.0,
+            "offset": 0.0,
+            "score": 0.99976
+          },
+          {
+            "targetStart": 24.0,
+            "offset": 0.0,
+            "score": 0.96484
+          },
+          {
+            "targetStart": 28.0,
+            "offset": 0.0,
+            "score": 0.84617
+          },
+          {
+            "targetStart": 32.0,
+            "offset": 0.0,
+            "score": 0.91261
+          },
+          {
+            "targetStart": 36.0,
+            "offset": 0.0,
+            "score": 0.86549
+          },
+          {
+            "targetStart": 40.0,
+            "offset": 0.0,
+            "score": 0.74415
+          },
+          {
+            "targetStart": 44.0,
+            "offset": 0.0,
+            "score": 0.74761
+          },
+          {
+            "targetStart": 48.0,
+            "offset": 0.0,
+            "score": 0.78324
+          },
+          {
+            "targetStart": 52.0,
+            "offset": 0.0,
+            "score": 0.7616
+          },
+          {
+            "targetStart": 56.0,
+            "offset": 0.0,
+            "score": 0.93073
+          },
+          {
+            "targetStart": 60.0,
+            "offset": 0.0,
+            "score": 0.87413
+          },
+          {
+            "targetStart": 64.0,
+            "offset": 0.0,
+            "score": 0.78453
+          },
+          {
+            "targetStart": 68.0,
+            "offset": 0.0,
+            "score": 0.9337
+          },
+          {
+            "targetStart": 72.0,
+            "offset": 0.0,
+            "score": 0.79195
+          },
+          {
+            "targetStart": 76.0,
+            "offset": 0.0,
+            "score": 0.63443
+          },
+          {
+            "targetStart": 80.0,
+            "offset": 0.0,
+            "score": 0.80596
+          },
+          {
+            "targetStart": 84.0,
+            "offset": 0.0,
+            "score": 0.86611
+          },
+          {
+            "targetStart": 88.0,
+            "offset": 0.0,
+            "score": 0.90545
+          },
+          {
+            "targetStart": 92.0,
+            "offset": 0.0,
+            "score": 0.9968
+          }
+        ]
+      },
+      "note": "6-second windows every 4 seconds; >=90% consistent within 20ms, score>=0.65, median>=0.8, max supported gap 8s, bounded tails. Line-only; no inherited words or segments. Lyrics licenses/translation credits remain those of default version."
     }
   ]
 }

@@ -51,6 +51,141 @@
       "via": "https://github.com/shinonomeenana/sekai_lyrics",
       "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
       "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "附加演唱版本",
+      "provider": "game audio waveform mapping",
+      "url": "https://assets-direct.unipjsk.com/ondemand/music/long/vs_0054_01/vs_0054_01.mp3",
+      "license": null,
+      "vocalId": 99,
+      "source": "D",
+      "referenceVocalId": 49,
+      "performerSource": "musicVocals 7.1.0.60 list only; no line attribution",
+      "mapping": {
+        "sourceMinusTarget": 0.0,
+        "coverage": 0.9565,
+        "medianScore": 0.8372,
+        "duration": 101.202,
+        "referenceDuration": 101.202,
+        "windows": [
+          {
+            "targetStart": 4.0,
+            "offset": 0.0,
+            "score": 0.99501
+          },
+          {
+            "targetStart": 8.0,
+            "offset": 0.0,
+            "score": 0.99917
+          },
+          {
+            "targetStart": 12.0,
+            "offset": 0.0,
+            "score": 0.92685
+          },
+          {
+            "targetStart": 16.0,
+            "offset": 0.0,
+            "score": 0.81791
+          },
+          {
+            "targetStart": 20.0,
+            "offset": 0.0,
+            "score": 0.82795
+          },
+          {
+            "targetStart": 24.0,
+            "offset": 0.0,
+            "score": 0.84454
+          },
+          {
+            "targetStart": 28.0,
+            "offset": 0.0,
+            "score": 0.84299
+          },
+          {
+            "targetStart": 32.0,
+            "offset": 0.0,
+            "score": 0.83781
+          },
+          {
+            "targetStart": 36.0,
+            "offset": 0.0,
+            "score": 0.85165
+          },
+          {
+            "targetStart": 40.0,
+            "offset": 0.0,
+            "score": 0.83658
+          },
+          {
+            "targetStart": 44.0,
+            "offset": 0.0,
+            "score": 0.84575
+          },
+          {
+            "targetStart": 48.0,
+            "offset": 0.0,
+            "score": 0.78559
+          },
+          {
+            "targetStart": 52.0,
+            "offset": 0.0,
+            "score": 0.59668
+          },
+          {
+            "targetStart": 56.0,
+            "offset": 0.0,
+            "score": 0.69638
+          },
+          {
+            "targetStart": 60.0,
+            "offset": 0.0,
+            "score": 0.75465
+          },
+          {
+            "targetStart": 64.0,
+            "offset": 0.0,
+            "score": 0.76709
+          },
+          {
+            "targetStart": 68.0,
+            "offset": 0.0,
+            "score": 0.74123
+          },
+          {
+            "targetStart": 72.0,
+            "offset": 0.0,
+            "score": 0.8041
+          },
+          {
+            "targetStart": 76.0,
+            "offset": 0.0,
+            "score": 0.77437
+          },
+          {
+            "targetStart": 80.0,
+            "offset": 0.0,
+            "score": 0.84169
+          },
+          {
+            "targetStart": 84.0,
+            "offset": 0.0,
+            "score": 0.91385
+          },
+          {
+            "targetStart": 88.0,
+            "offset": 0.0,
+            "score": 0.84779
+          },
+          {
+            "targetStart": 92.0,
+            "offset": 0.0,
+            "score": 0.7688
+          }
+        ]
+      },
+      "note": "6-second windows every 4 seconds; >=90% consistent within 20ms, score>=0.65, median>=0.8, max supported gap 8s, bounded tails. Line-only; no inherited words or segments. Lyrics licenses/translation credits remain those of default version."
     }
   ]
 }
