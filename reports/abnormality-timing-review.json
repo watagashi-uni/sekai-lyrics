@@ -1,0 +1,600 @@
+{
+  "date": "2026-11-14",
+  "musicId": 766,
+  "title": "アブノーマリティ･ダンシンガール",
+  "vocalId": 2088,
+  "assetbundle": "se_0766_01",
+  "originalSource": {
+    "provider": "网易云音乐",
+    "recordId": "3446352760",
+    "url": "https://music.163.com/song?id=3446352760",
+    "remoteEvidenceDirectory": "yokohama:/data/watagashi/lyrics-alignment-trial/round3/stage/song-lyrics-v3/songs/0766/source-snapshot/",
+    "evidenceFiles": [
+      "job-result.json",
+      "credits.json",
+      "source.lrc",
+      "cut-map.json"
+    ],
+    "sourceLines": 24,
+    "projectLines": 39,
+    "sharedIntervalPairs": 15,
+    "offsetSeconds": 7.4205,
+    "waveformMedianScore": 0.911522,
+    "waveformCoverage": 0.9231,
+    "note": "Waveform matching verified the recording clock, not accuracy of provider lyric timestamps."
+  },
+  "alternatives": [
+    {
+      "provider": "LRCLIB",
+      "recordId": 32302851,
+      "url": "https://lrclib.net/api/get/32302851",
+      "decision": "Not used: original full recording, 209 seconds, different singer and game edit."
+    },
+    {
+      "provider": "shinonomeenana/sekai_lyrics",
+      "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
+      "file": "timed/0766.json",
+      "originalAudit": {
+        "id": 766,
+        "title": "アブノーマリティ･ダンシンガール",
+        "vocal": "se_0766_01",
+        "lines": 39,
+        "fillerSec": 8.1818,
+        "aligner": "whisper",
+        "verdict": "review",
+        "reasons": [
+          "aligners conflict (5% of lines have start or end difference >2s)"
+        ],
+        "verification": "automatic-only",
+        "dropped": [],
+        "agreement": 0.872,
+        "boundaryAgreement": {
+          "start": 0.923,
+          "end": 0.949,
+          "both": 0.872,
+          "gross": 0.051,
+          "maxStartDifference": 8.17,
+          "maxEndDifference": 6.03
+        },
+        "grossDisagree": 0.051,
+        "clampedStarts": 0,
+        "zeroDurationLines": [],
+        "metrics": {
+          "whisper": {
+            "iou": 0.854,
+            "uncovered": 0.051,
+            "inSilence": 0.061,
+            "degenerate": 0,
+            "zeroDuration": 0,
+            "suspect": 0,
+            "rateBad": 0.051,
+            "score": 0.828
+          },
+          "ctc": {
+            "iou": 0.851,
+            "uncovered": 0.05,
+            "inSilence": 0.061,
+            "degenerate": 0,
+            "zeroDuration": 0,
+            "suspect": 0,
+            "rateBad": 0.051,
+            "score": 0.825
+          }
+        }
+      },
+      "decision": "39-line candidate adopted after additional vocal-stem checks; line 17 end manually corrected."
+    }
+  ],
+  "verification": {
+    "audioUrl": "https://assets-direct.unipjsk.com/ondemand/music/long/se_0766_01/se_0766_01.mp3",
+    "cropSeconds": [
+      24,
+      135
+    ],
+    "separation": "htdemucs 955717e8, shifts=0, CPU",
+    "independentRecognition": "faster-whisper 1.2.1 small int8, Japanese, no supplied lyric prompt; five overlapping vocal-stem windows",
+    "observedPhraseBoundaries": [
+      {
+        "text": "initial two phrases",
+        "start": 26.04,
+        "split": 29.04,
+        "end": 31.22
+      },
+      {
+        "text": "もう嫌になっちゃったこの人生",
+        "start": 37.8,
+        "end": 40.24
+      },
+      {
+        "text": "ほら見てよ / ほら触れてよ",
+        "start": 54.56,
+        "split": 55.82,
+        "end": 56.94
+      },
+      {
+        "text": "踊らされるんじゃない / 踊るのよ",
+        "start": 109.2,
+        "split": 110.22,
+        "end": 111.52
+      }
+    ],
+    "line17End": {
+      "candidate": 80.4898,
+      "adopted": 73.7,
+      "basis": "Vocal stem spectrogram shows sustained sung harmonics through about73.7s, then rapid decay/reverb and an instrumental gap. Avoid extending to next lyric at80.4898s."
+    },
+    "limitations": "ASR has recognition errors and is supporting evidence, not authoritative text or word timing. This is a phrase-level correction, not a millisecond-precision singing audit."
+  },
+  "changes": [
+    {
+      "line": 0,
+      "text": "いつもどう頑張って努力をした所で",
+      "before": [
+        26.8295,
+        32.9855
+      ],
+      "after": [
+        25.9198,
+        28.9998
+      ]
+    },
+    {
+      "line": 1,
+      "text": "指し示されるは平均値",
+      "before": [
+        26.8295,
+        32.9855
+      ],
+      "after": [
+        28.9998,
+        31.5298
+      ]
+    },
+    {
+      "line": 2,
+      "text": "やってられないよ",
+      "before": [
+        32.9855,
+        35.4255
+      ],
+      "after": [
+        32.5198,
+        34.2098
+      ]
+    },
+    {
+      "line": 3,
+      "text": "くだらない評価に踊らされてばかり",
+      "before": [
+        35.4255,
+        41.5645
+      ],
+      "after": [
+        34.9598,
+        37.7398
+      ]
+    },
+    {
+      "line": 4,
+      "text": "もう嫌になっちゃったこの人生",
+      "before": [
+        35.4255,
+        41.5645
+      ],
+      "after": [
+        37.7598,
+        40.3198
+      ]
+    },
+    {
+      "line": 5,
+      "text": "なら生まれ変わろうか",
+      "before": [
+        41.5645,
+        44.5955
+      ],
+      "after": [
+        40.8498,
+        43.6598
+      ]
+    },
+    {
+      "line": 6,
+      "text": "「異常」「異常」が胸を埋めつくして",
+      "before": [
+        44.5955,
+        48.8845
+      ],
+      "after": [
+        43.9798,
+        46.1798
+      ]
+    },
+    {
+      "line": 7,
+      "text": "普通じゃない自分になるの",
+      "before": [
+        44.5955,
+        48.8845
+      ],
+      "after": [
+        46.3198,
+        48.0798
+      ]
+    },
+    {
+      "line": 8,
+      "text": "自問自答繰り返し手に入れたの",
+      "before": [
+        48.8845,
+        51.5495
+      ],
+      "after": [
+        48.1398,
+        50.7598
+      ]
+    },
+    {
+      "line": 9,
+      "text": "新しいワタシを",
+      "before": [
+        51.5495,
+        55.0325
+      ],
+      "after": [
+        50.8798,
+        54.0598
+      ]
+    },
+    {
+      "line": 10,
+      "text": "ほら見てよ　ほら触れてよ",
+      "before": [
+        55.0325,
+        59.3605
+      ],
+      "after": [
+        54.7698,
+        56.7798
+      ]
+    },
+    {
+      "line": 11,
+      "text": "凡庸な服を捨て去って",
+      "before": [
+        55.0325,
+        59.3605
+      ],
+      "after": [
+        56.8998,
+        58.8598
+      ]
+    },
+    {
+      "line": 12,
+      "text": "今サナギから　蝶になるの",
+      "before": [
+        59.3605,
+        63.8765
+      ],
+      "after": [
+        58.9798,
+        61.0998
+      ]
+    },
+    {
+      "line": 13,
+      "text": "ありのまま全て見せつけて",
+      "before": [
+        59.3605,
+        63.8765
+      ],
+      "after": [
+        61.2998,
+        63.1998
+      ]
+    },
+    {
+      "line": 14,
+      "text": "冷めきった舞台　演者はいない",
+      "before": [
+        63.8765,
+        68.2115
+      ],
+      "after": [
+        63.4198,
+        65.4798
+      ]
+    },
+    {
+      "line": 15,
+      "text": "ならステップ刻んで1,2,3",
+      "before": [
+        63.8765,
+        68.2115
+      ],
+      "after": [
+        65.5798,
+        67.6598
+      ]
+    },
+    {
+      "line": 16,
+      "text": "踊らされるんじゃない",
+      "before": [
+        68.2115,
+        81.3545
+      ],
+      "after": [
+        67.7598,
+        68.8598
+      ]
+    },
+    {
+      "line": 17,
+      "text": "踊るのよさぁさぁさぁ狂って",
+      "before": [
+        68.2115,
+        81.3545
+      ],
+      "after": [
+        68.8798,
+        73.7
+      ]
+    },
+    {
+      "line": 18,
+      "text": "暗い部屋　1人きり",
+      "before": [
+        81.3545,
+        85.6675
+      ],
+      "after": [
+        80.4898,
+        82.9498
+      ]
+    },
+    {
+      "line": 19,
+      "text": "鏡の前　午前0時",
+      "before": [
+        81.3545,
+        85.6675
+      ],
+      "after": [
+        83.0298,
+        85.1298
+      ]
+    },
+    {
+      "line": 20,
+      "text": "「アナタ誰」「ワタシ誰」",
+      "before": [
+        85.6675,
+        90.2845
+      ],
+      "after": [
+        85.2698,
+        87.4098
+      ]
+    },
+    {
+      "line": 21,
+      "text": "問い掛けど返事は無かった",
+      "before": [
+        85.6675,
+        90.2845
+      ],
+      "after": [
+        87.4898,
+        89.3698
+      ]
+    },
+    {
+      "line": 22,
+      "text": "狂え、狂え、狂え、狂え、狂え、狂え、狂え、踊れ。",
+      "before": [
+        90.2845,
+        94.5585
+      ],
+      "after": [
+        89.6898,
+        94.0698
+      ]
+    },
+    {
+      "line": 23,
+      "text": "さぁ、新しいワタシを",
+      "before": [
+        94.5585,
+        96.7625
+      ],
+      "after": [
+        94.1698,
+        95.9498
+      ]
+    },
+    {
+      "line": 24,
+      "text": "ほら見てよ　ほら触れてよ",
+      "before": [
+        96.7625,
+        100.7785
+      ],
+      "after": [
+        96.1098,
+        98.2298
+      ]
+    },
+    {
+      "line": 25,
+      "text": "透明な服で着飾って",
+      "before": [
+        96.7625,
+        100.7785
+      ],
+      "after": [
+        98.3298,
+        100.3098
+      ]
+    },
+    {
+      "line": 26,
+      "text": "今サナギから　蝶になるの",
+      "before": [
+        100.7785,
+        105.1355
+      ],
+      "after": [
+        100.3898,
+        102.5298
+      ]
+    },
+    {
+      "line": 27,
+      "text": "ありのまま全て見せつけて",
+      "before": [
+        100.7785,
+        105.1355
+      ],
+      "after": [
+        102.6898,
+        104.6498
+      ]
+    },
+    {
+      "line": 28,
+      "text": "熱狂の舞台　演者はいない",
+      "before": [
+        105.1355,
+        109.4815
+      ],
+      "after": [
+        104.8898,
+        106.9698
+      ]
+    },
+    {
+      "line": 29,
+      "text": "ならステップ刻んで1,2,3",
+      "before": [
+        105.1355,
+        109.4815
+      ],
+      "after": [
+        107.0298,
+        109.1098
+      ]
+    },
+    {
+      "line": 30,
+      "text": "踊らされるんじゃない",
+      "before": [
+        109.4815,
+        114.3965
+      ],
+      "after": [
+        109.1898,
+        110.1898
+      ]
+    },
+    {
+      "line": 31,
+      "text": "踊るのよ　さぁさぁさぁ狂って",
+      "before": [
+        109.4815,
+        114.3965
+      ],
+      "after": [
+        110.3498,
+        113.6498
+      ]
+    },
+    {
+      "line": 32,
+      "text": "「異常」「異常」が胸を埋めつくして",
+      "before": [
+        114.3965,
+        118.6775
+      ],
+      "after": [
+        113.9098,
+        116.0098
+      ]
+    },
+    {
+      "line": 33,
+      "text": "普通じゃない自分になるの",
+      "before": [
+        114.3965,
+        118.6775
+      ],
+      "after": [
+        116.0898,
+        117.9098
+      ]
+    },
+    {
+      "line": 34,
+      "text": "歪んだ愛の成れの果て創られた 叶わぬ恋",
+      "before": [
+        118.6775,
+        122.9575
+      ],
+      "after": [
+        117.9898,
+        122.3898
+      ]
+    },
+    {
+      "line": 35,
+      "text": "「異常」「異常」が胸を埋めつくして",
+      "before": [
+        122.9575,
+        127.2875
+      ],
+      "after": [
+        122.5898,
+        124.7098
+      ]
+    },
+    {
+      "line": 36,
+      "text": "普通じゃない自分になるの",
+      "before": [
+        122.9575,
+        127.2875
+      ],
+      "after": [
+        124.8498,
+        126.5898
+      ]
+    },
+    {
+      "line": 37,
+      "text": "自問自答繰り返し手に入れたの",
+      "before": [
+        127.2875,
+        130.1615
+      ],
+      "after": [
+        126.8498,
+        129.2898
+      ]
+    },
+    {
+      "line": 38,
+      "text": "新しいワタシを",
+      "before": [
+        130.1615,
+        136.477
+      ],
+      "after": [
+        129.4498,
+        133.5798
+      ]
+    }
+  ],
+  "textTranslationRubySingersUnchanged": true,
+  "wordTimingAdded": false
+}

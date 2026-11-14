@@ -43,12 +43,12 @@
       "note": "renditions/sekai/version"
     },
     {
-      "usage": "时间轴",
-      "provider": "已验证参考音源（平台未注明）",
-      "recordId": null,
-      "url": null,
+      "usage": "历史来源（时间轴已替换）",
+      "provider": "网易云音乐",
+      "recordId": "3446352760",
+      "url": "https://music.163.com/song?id=3446352760",
       "license": null,
-      "note": "已保存来源标签，未记录可直接引用的链接"
+      "note": "从 yokohama 原始 job-result.json、credits.json、source.lrc 和 cut-map.json 找回来源。原24行LRC加7.4205秒映射到游戏音频；39行正文中15对共用区间。2026-11-14改用逐句候选轴，经游戏人声核对并修正间奏前句尾。"
     },
     {
       "usage": "罗马音",
@@ -59,6 +59,14 @@
       "via": "https://github.com/shinonomeenana/sekai_lyrics",
       "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
       "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "逐句时间轴",
+      "provider": "shinonomeenana/sekai_lyrics + game_audio_review",
+      "url": "https://github.com/shinonomeenana/sekai_lyrics",
+      "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
+      "file": "timed/0766.json",
+      "note": "采用39行游戏版自动对齐候选，加8.1818秒还原游戏音频起点；htdemucs人声、独立Whisper识别与波形复核。第18行句尾由80.4898修正为73.70秒。保留全部原文、译文、注音、分唱；无逐字轴。详见 reports/abnormality-timing-review.json。"
     }
   ]
 }
