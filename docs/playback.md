@@ -35,4 +35,4 @@ function progress(time, word) {
 
 LRC 模式可在匹配原始 LRC 行后合入 `lineTimings` 的起止时间，再合入优先级更高的 `wordLines`；不要用 `lineTimings` 覆盖有逐字轴的行。
 
-多版本接入：旧前端继续读取顶层，忽略 versions，索引无需迁移。所有演唱版本共用默认版本的时间轴（含逐字轴），任何 vocal 都按顶层时间同步高亮；`versions` 只决定显示哪些歌手。按选中 musicVocal 的 ID 查找 versions：找到时，在 `playbackTiming`、`mergeSharedCues` 等显示整理之前，把默认原始行的 `segments`／`performerIds` 换成 `singers` 中同一 row 的内容（未列出的行不显示歌手）；该项带 `text` 时改显示版本文字与 `translation`，并去掉该行的注音、罗马音和逐字轴；顶层 vocalId 对应默认版本，用顶层分唱；两者都不是时不显示分唱，但照常同步。`row` 指向原始播放行，不能指向返回的 `SongLyrics.lines`。时长差异仍可用于排除剪辑不同的音频（直播版等），比较时用该版本的 `duration`。修改默认行顺序或断句时，必须同步重建附加版本的 row。
+多版本接入：旧前端继续读取顶层，忽略 versions，索引无需迁移。所有演唱版本共用默认版本的时间轴（含逐字轴），任何 vocal 都按顶层时间同步高亮；`versions` 只决定显示哪些歌手。按选中 musicVocal 的 ID 查找 versions：找到时，在 `playbackTiming`、`mergeSharedCues` 等显示整理之前，把默认原始行的 `segments`／`performerIds` 换成 `singers` 中同一 row 的内容（未列出的行不显示歌手）；该项带 `text` 时改显示版本文字、`translation` 与 `romaji`，并去掉该行的注音和逐字轴；顶层 vocalId 对应默认版本，用顶层分唱；两者都不是时不显示分唱，但照常同步。`row` 指向原始播放行，不能指向返回的 `SongLyrics.lines`。时长差异仍可用于排除剪辑不同的音频（直播版等），比较时用该版本的 `duration`。修改默认行顺序或断句时，必须同步重建附加版本的 row。

@@ -4,7 +4,7 @@
 // assignments on the default rows:
 //
 //   versions[].lines [{textRef|text, start, end, segments?, performerIds?}]
-//   → versions[].singers [{row, segments?, performerIds?, text?, translation?}]
+//   → versions[].singers [{row, segments?, performerIds?, text?, translation?, romaji?}]
 //
 // Version lines are paired with default rows in four passes, each only between lines whose
 // times meet (textRef only names the first row with a text, so it never decides alone):
@@ -12,10 +12,15 @@
 //   2. same text, out of order (rows sung over each other, or rows of one cue that all
 //      carry the cue's start);
 //   3. runs of lines and rows whose joined texts are the same (sentences broken differently);
-//   4. similar text at the same time. Only the singers are taken, unless the version's
-//      words for that row were reviewed as really sung differently
-//      (lyrics/<id>/version-text.reviewed.json): then the row shows them (`text`, `translation`).
-// Everything left is reported (reports/version-singers.json) for a person to check.
+//   4. lines a person marked `spread` (a stretch the version source wrote shorter): their
+//      singers go to every default row they cover;
+//   5. similar text at the same time. Only the singers are taken, unless the version's
+//      words were reviewed as really sung differently (`text`): then the row shows them,
+//      with the reviewed translation and romaji.
+// Reviews live in lyrics/<id>/versions.reviewed.json, per vocal id: `text` [{text,
+// translation?, romaji?}], `spread` [version text], `keep` [version text shown with the
+// default words / left out on purpose]. What is not reviewed is reported
+// (reports/version-singers.json) for a person to check.
 //
 // Usage: node scripts/unify-version-singers.mjs [--write] [--from <git revision>]
 // Without --write it only prints the report. Versions already holding `singers` are left as
@@ -98,18 +103,25 @@ export function similarity(a, b) {
 
 const unionOf = line => [...new Set([...(line.segments || []).flatMap(s => s.performerIds || []), ...(line.performerIds || [])])]
 
-/**
- * Pair version lines with default rows (see the passes above). `reviewed` holds version
- * texts confirmed as sung differently from the default row at their place.
- */
-export function unifyVersion(data, version, reviewed = new Set()) {
+/** One vocal's review: version words to show, lines to spread, lines settled as they are. */
+export function reviewOf(entry = {}) {
+  return {
+    text: new Map((entry.text || []).map(item => (typeof item === 'string' ? [item, {}] : [item.text, item]))),
+    spread: new Set(entry.spread || []),
+    keep: new Set(entry.keep || []),
+  }
+}
+
+/** Pair version lines with default rows (see the passes above), following `review`. */
+export function unifyVersion(data, version, review = reviewOf()) {
   const base = defaultRows(data)
   const timeline = defaultTimeline(data)
   const D = timeline.map((row, i) => ({ i, start: row.start, end: row.end, text: base[i].text, key: normalize(base[i].text) }))
     .sort((a, b) => a.start - b.start || a.i - b.i)
   const V = version.lines.map((line, i) => {
     const text = line.textRef != null ? base[line.textRef]?.text : line.text
-    return { i, line, text: text ?? '', key: normalize(text ?? ''), start: line.start, end: line.end }
+    // A line to spread keeps out of the text passes (its empty key matches nothing there).
+    return { i, line, text: text ?? '', key: review.spread.has(text) ? '' : normalize(text ?? ''), start: line.start, end: line.end }
   })
   const n = V.length
   const m = D.length
@@ -163,7 +175,7 @@ export function unifyVersion(data, version, reviewed = new Set()) {
       for (let x = 1; x < size && !found; x++) {
         const y = size - x
         const vs = Array.from({ length: x }, (_, t) => a + t)
-        if (vs.some(t => t >= n || usedV.has(t))) continue
+        if (vs.some(t => t >= n || usedV.has(t) || !V[t].key)) continue
         const key = vs.map(t => V[t].key).join('')
         const span = { start: V[a].start, end: Math.max(...vs.map(t => V[t].end)) }
         for (let b = 0; b + y <= m && !found; b++) {
@@ -175,7 +187,17 @@ export function unifyVersion(data, version, reviewed = new Set()) {
     }
     if (found) take('joined', ...found)
   }
-  // 4. Similar text at the same time.
+  // 4. Reviewed stretches: every free row the line covers takes its singers.
+  const overlap = (v, d) => Math.max(0, Math.min(v.end, d.end) - Math.max(v.start, d.start))
+  const spreading = V.filter(v => !usedV.has(v.i) && review.spread.has(v.text))
+  const spreadRows = new Map()
+  for (let b = 0; b < m; b++) {
+    if (usedD.has(b)) continue
+    const owner = spreading.map(v => ({ v, share: overlap(v, D[b]) })).filter(x => x.share > 0).sort((x, y) => y.share - x.share)[0]
+    if (owner) spreadRows.set(owner.v.i, [...(spreadRows.get(owner.v.i) || []), b])
+  }
+  for (const [a, rows] of spreadRows) take('spread', [a], rows)
+  // 5. Similar text at the same time.
   const similar = []
   for (let a = 0; a < n; a++) {
     if (usedV.has(a)) continue
@@ -198,12 +220,14 @@ export function unifyVersion(data, version, reviewed = new Set()) {
     if (kind === 'similar') {
       const [line] = lines
       const [row] = rows
-      const own = reviewed.has(line.text)
-      similarRows.push({ row: row.i, default: row.text, version: line.text, start: row.start, score: Number(similarity(line.key, row.key).toFixed(2)), versionText: own })
+      const own = review.text.get(line.text)
+      similarRows.push({ row: row.i, default: row.text, version: line.text, start: row.start, score: Number(similarity(line.key, row.key).toFixed(2)), reviewed: own ? 'version text' : review.keep.has(line.text) ? 'default text' : null })
       const entry = { row: row.i }
       if (own) {
         entry.text = line.text
-        if (line.line.translation) entry.translation = line.line.translation
+        const translation = own.translation ?? line.line.translation
+        if (translation) entry.translation = translation
+        if (own.romaji) entry.romaji = own.romaji
         if (line.line.segments?.length) entry.segments = line.line.segments
         if (line.line.performerIds?.length) entry.performerIds = line.line.performerIds
       } else {
@@ -211,6 +235,11 @@ export function unifyVersion(data, version, reviewed = new Set()) {
         if (ids.length) entry.performerIds = ids
       }
       if (entry.segments || entry.performerIds || entry.text) singers.push(entry)
+      continue
+    }
+    if (kind === 'spread') {
+      const ids = unionOf(lines[0].line)
+      if (ids.length) for (const row of rows) singers.push({ row: row.i, performerIds: ids })
       continue
     }
     if (lines.length === 1 && rows.length === 1 && lines[0].text === rows[0].text) {
@@ -236,7 +265,7 @@ export function unifyVersion(data, version, reviewed = new Set()) {
   singers.sort((a, b) => a.row - b.row)
   const unmatched = V.filter(x => !usedV.has(x.i)).map((x) => {
     const near = D.filter(d => meet(x, d, 1.5)).map(d => ({ row: d.i, start: d.start, text: d.text }))
-    return { text: x.text, start: x.start, end: x.end, defaultRowsAtThatTime: near }
+    return { text: x.text, start: x.start, end: x.end, reviewed: review.keep.has(x.text) ? 'left out' : null, defaultRowsAtThatTime: near }
   })
   const counts = {}
   for (const { kind } of matches) counts[kind] = (counts[kind] || 0) + 1
@@ -291,14 +320,14 @@ if (process.argv[1] === fileURLToPath(import.meta.url)) {
     if (!timed.size) continue
     let reviewed = {}
     try {
-      reviewed = JSON.parse(await readFile(path.join(root, 'lyrics', folder, 'version-text.reviewed.json'), 'utf8')).vocals || {}
+      reviewed = JSON.parse(await readFile(path.join(root, 'lyrics', folder, 'versions.reviewed.json'), 'utf8')).vocals || {}
     } catch (error) {
       if (error.code !== 'ENOENT') throw error
     }
     data.versions = data.versions.map((version) => {
       const source = timed.get(version.vocalId)
       if (!source) return version
-      const result = unifyVersion(data, source, new Set(reviewed[version.vocalId] || []))
+      const result = unifyVersion(data, source, reviewOf(reviewed[version.vocalId]))
       report.push({ musicId: data.musicId, vocalId: version.vocalId, lines: result.lines, singers: result.version.singers.length, matched: result.counts, similar: result.similar, unmatched: result.unmatched })
       return result.version
     })
@@ -310,14 +339,15 @@ if (process.argv[1] === fileURLToPath(import.meta.url)) {
   const total = kind => report.reduce((sum, r) => sum + (r.matched[kind] || 0), 0)
   const similar = report.flatMap(r => r.similar.map(s => ({ musicId: r.musicId, vocalId: r.vocalId, ...s })))
   const unmatched = report.flatMap(r => r.unmatched.map(u => ({ musicId: r.musicId, vocalId: r.vocalId, ...u })))
-  console.log(JSON.stringify({ versions: report.length, lines: report.reduce((n, r) => n + r.lines, 0), exact: total('exact'), reordered: total('reordered'), joined: total('joined'), similar: similar.length, unmatched: unmatched.length, files: changed }))
+  const open = list => list.filter(item => !item.reviewed).length
+  console.log(JSON.stringify({ versions: report.length, lines: report.reduce((n, r) => n + r.lines, 0), exact: total('exact'), reordered: total('reordered'), joined: total('joined'), spread: total('spread'), similar: similar.length, unmatched: unmatched.length, unreviewed: open(similar) + open(unmatched), files: changed }))
   if (process.argv.includes('--verbose')) {
     for (const s of similar) console.log('similar', JSON.stringify(s))
     for (const u of unmatched) console.log('unmatched', JSON.stringify(u))
   }
   if (write) {
     await writeFile(path.join(root, 'reports', 'version-singers.json'), JSON.stringify({
-      note: 'Additional versions share the default timeline. Their timed lines became singer assignments on default rows: same text in order, same text out of order, joined runs, then similar text at the same time (singers only unless reviewed in lyrics/<id>/version-text.reviewed.json). `similar` and `unmatched` need a person to check.',
+      note: 'Additional versions share the default timeline. Their timed lines became singer assignments on default rows: same text in order, same text out of order, joined runs, reviewed stretches, then similar text at the same time (singers only unless reviewed in lyrics/<id>/versions.reviewed.json). Entries of `similar` and `unmatched` whose `reviewed` is null need a person to check.',
       maxAlignDriftSec: MAX_ALIGN_DRIFT_SEC, minSimilarity: MIN_SIMILARITY, similar, unmatched, versions: report.map(({ similar: _s, unmatched: _u, ...rest }) => rest),
     }, null, 1) + '\n')
   }

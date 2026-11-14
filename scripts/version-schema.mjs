@@ -70,13 +70,13 @@ export function validateVersions(data) {
     assert.ok(Array.isArray(version.singers))
     let previous = -1
     for (const entry of version.singers) {
-      assert.deepEqual(Object.keys(entry).filter(k => !['row', 'segments', 'performerIds', 'text', 'translation'].includes(k)), [], 'singer entries carry no timing')
+      assert.deepEqual(Object.keys(entry).filter(k => !['row', 'segments', 'performerIds', 'text', 'translation', 'romaji'].includes(k)), [], 'singer entries carry no timing')
       assert.ok(Number.isInteger(entry.row) && entry.row > previous && entry.row < base.length, 'singer rows in order, once each, on default rows')
       previous = entry.row
       assert.ok(entry.segments?.length || entry.performerIds?.length || entry.text, 'empty singer entry')
       // A row the version sings with other words (reviewed) shows them instead of the default text.
       if (entry.text !== undefined) assert.ok(typeof entry.text === 'string' && entry.text && entry.text !== base[entry.row].text, 'version text must differ from the default row')
-      if (entry.translation !== undefined) assert.ok(entry.text !== undefined && typeof entry.translation === 'string', 'translation only with version text')
+      for (const key of ['translation', 'romaji']) if (entry[key] !== undefined) assert.ok(entry.text !== undefined && typeof entry[key] === 'string' && entry[key], `${key} only with version text`)
       for (const id of entry.performerIds || []) assert.ok(performers.has(id), 'unknown performer')
       if (entry.segments) {
         assert.equal(entry.segments.map(s => s.text).join(''), entry.text ?? base[entry.row].text)

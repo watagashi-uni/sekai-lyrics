@@ -90,7 +90,7 @@ LRC 基于保留的来源行，双语 JSON 基于原项目行，分句、拟声�
 
 顶层继续代表既有默认版本，`versions` 保存其它版本，索引仍为 `v:1`。同一首歌的所有演唱版本使用同一条伴奏，时间轴完全相同，区别在于谁唱哪一行，个别版本还有少数行歌词不同（例如 57 号バーチャルシンガー版的应援喊名）。因此附加版本**不保存时间或逐字轴**，只保存歌手和经复核的不同歌词：每项包含 `vocalId`、`assetbundle`、`duration`（该版本音频长度）、`performers`、`source`（A/B/C/D）、`alignmentStatus` 和 `singers`。
 
-`singers` 每项为 `{row, segments?, performerIds?, text?, translation?}`，`row` 是默认版本的零基播放行（双语 lines 数组；LRC 则所有非空行的时间标签展开后，按原始 cueStart 稳定排序，不去重，空白时间标签不占下标），按 row 递增、每行至多一项。`segments` 拼接后等于该行显示的文字。`text`／`translation` 只出现在经复核、该版本确实唱了不同歌词的行（来源 `lyrics/<id>/version-text.reviewed.json`）：这一行显示版本自己的文字与译文，不使用默认行的注音、罗马音和逐字轴（文字偏移不再对应），起止时间仍用默认行。没有列出的行在该版本中没有分唱信息；来源 D 及部分覆盖（`partial_*`）的版本可能只有部分行或没有行。播放时文字、译文、注音、罗马音、逐字轴与起止时间一律取默认版本，只把默认行的 `segments`／`performerIds` 换成该版本的（以及上述个别行的文字）。
+`singers` 每项为 `{row, segments?, performerIds?, text?, translation?, romaji?}`，`row` 是默认版本的零基播放行（双语 lines 数组；LRC 则所有非空行的时间标签展开后，按原始 cueStart 稳定排序，不去重，空白时间标签不占下标），按 row 递增、每行至多一项。`segments` 拼接后等于该行显示的文字。`text`／`translation`／`romaji` 只出现在经复核、该版本确实唱了不同歌词的行（来源 `lyrics/<id>/versions.reviewed.json`）：这一行显示版本自己的文字、译文与罗马音，不使用默认行的注音和逐字轴（文字偏移不再对应），起止时间仍用默认行。没有列出的行在该版本中没有分唱信息；来源 D 及部分覆盖（`partial_*`）的版本可能只有部分行或没有行。播放时文字、译文、注音、罗马音、逐字轴与起止时间一律取默认版本，只把默认行的 `segments`／`performerIds` 换成该版本的（以及上述个别行的文字）。
 
 ```json
 {"vocalId":465,"assetbundle":"an_0002_01","duration":116,"performers":[{"performerId":"歌唱者-23","name":"鏡音レン","characterId":23},{"performerId":"歌唱者-26","name":"KAITO","characterId":26}],"source":"A","alignmentStatus":"success","singers":[{"row":0,"segments":[{"text":"さあ 眠眠打破","performerIds":["歌唱者-23"]}]}]}

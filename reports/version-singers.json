@@ -1,5 +1,5 @@
 {
- "note": "Additional versions share the default timeline. Their timed lines became singer assignments on default rows: same text in order, same text out of order, joined runs, then similar text at the same time (singers only unless reviewed in lyrics/<id>/version-text.reviewed.json). `similar` and `unmatched` need a person to check.",
+ "note": "Additional versions share the default timeline. Their timed lines became singer assignments on default rows: same text in order, same text out of order, joined runs, reviewed stretches, then similar text at the same time (singers only unless reviewed in lyrics/<id>/versions.reviewed.json). Entries of `similar` and `unmatched` whose `reviewed` is null need a person to check.",
  "maxAlignDriftSec": 8,
  "minSimilarity": 0.5,
  "similar": [
@@ -11,7 +11,7 @@
    "version": "More More Jump!! 限界超え（ルカさん）",
    "start": 84.622032,
    "score": 0.83,
-   "versionText": true
+   "reviewed": "version text"
   },
   {
    "musicId": 57,
@@ -21,7 +21,7 @@
    "version": "Jump!! 元気をシェア（リンちゃん）",
    "start": 20.18,
    "score": 0.75,
-   "versionText": true
+   "reviewed": "version text"
   },
   {
    "musicId": 57,
@@ -31,7 +31,7 @@
    "version": "（キューティー・スマイル リンちゃん）",
    "start": 50.015021,
    "score": 0.75,
-   "versionText": true
+   "reviewed": "version text"
   },
   {
    "musicId": 57,
@@ -41,7 +41,7 @@
    "version": "Jump!! 元気をシェア（メイちゃん）",
    "start": 91.172573,
    "score": 0.75,
-   "versionText": true
+   "reviewed": "version text"
   },
   {
    "musicId": 57,
@@ -51,7 +51,7 @@
    "version": "Jump!! 限界超え（ミクさん）",
    "start": 14.71,
    "score": 0.67,
-   "versionText": true
+   "reviewed": "version text"
   },
   {
    "musicId": 57,
@@ -61,7 +61,7 @@
    "version": "（ファイト・ファイト ミクさん）",
    "start": 44.600054,
    "score": 0.67,
-   "versionText": true
+   "reviewed": "version text"
   },
   {
    "musicId": 57,
@@ -71,7 +71,7 @@
    "version": "（ツンデレ・ガール ルカさん）",
    "start": 66.291912,
    "score": 0.67,
-   "versionText": true
+   "reviewed": "version text"
   },
   {
    "musicId": 57,
@@ -81,7 +81,7 @@
    "version": "（G・U・T・S メイちゃん）",
    "start": 71.75786,
    "score": 0.5,
-   "versionText": true
+   "reviewed": "version text"
   },
   {
    "musicId": 156,
@@ -91,27 +91,7 @@
    "version": "雑な罠に嵌るつもりなど無い",
    "start": 27.653826,
    "score": 0.88,
-   "versionText": false
-  },
-  {
-   "musicId": 201,
-   "vocalId": 502,
-   "row": 26,
-   "default": "la la la la la la la",
-   "version": "(la la la…)",
-   "start": 122.88,
-   "score": 0.56,
-   "versionText": false
-  },
-  {
-   "musicId": 201,
-   "vocalId": 502,
-   "row": 28,
-   "default": "la la la la la la la",
-   "version": "(la la la…)",
-   "start": 128.26,
-   "score": 0.56,
-   "versionText": false
+   "reviewed": "default text"
   },
   {
    "musicId": 354,
@@ -121,7 +101,7 @@
    "version": "邁進！ 発射オーライ 未来！",
    "start": 40.701,
    "score": 0.88,
-   "versionText": false
+   "reviewed": "default text"
   },
   {
    "musicId": 471,
@@ -131,7 +111,7 @@
    "version": "この生き様で Make some noise",
    "start": 69.9,
    "score": 0.91,
-   "versionText": false
+   "reviewed": "default text"
   },
   {
    "musicId": 471,
@@ -141,7 +121,7 @@
    "version": "この生き様で Make some noise",
    "start": 69.9,
    "score": 0.91,
-   "versionText": false
+   "reviewed": "default text"
   },
   {
    "musicId": 471,
@@ -151,7 +131,7 @@
    "version": "この生き様で Make some noise",
    "start": 69.9,
    "score": 0.91,
-   "versionText": false
+   "reviewed": "default text"
   },
   {
    "musicId": 660,
@@ -161,7 +141,7 @@
    "version": "ありのままでいたい",
    "start": 82.85925,
    "score": 0.77,
-   "versionText": false
+   "reviewed": "version text"
   },
   {
    "musicId": 705,
@@ -171,7 +151,7 @@
    "version": "赤く気高く立ち向かうたった一人 (woah)",
    "start": 58.104734,
    "score": 0.88,
-   "versionText": false
+   "reviewed": "default text"
   },
   {
    "musicId": 705,
@@ -181,7 +161,7 @@
    "version": "Bye LOVE（ああ）",
    "start": 20.957983,
    "score": 0.86,
-   "versionText": false
+   "reviewed": "default text"
   }
  ],
  "unmatched": [
@@ -191,6 +171,7 @@
    "text": "\"Sweetie, Sweetie...\"",
    "start": 125.04,
    "end": 126.681,
+   "reviewed": "left out",
    "defaultRowsAtThatTime": [
     {
      "row": 25,
@@ -205,6 +186,7 @@
    "text": "ツギハギだらけの君との時間を",
    "start": 122.98,
    "end": 124.647,
+   "reviewed": "left out",
    "defaultRowsAtThatTime": [
     {
      "row": 26,
@@ -224,6 +206,7 @@
    "text": "眩い夢の続きがはじまる",
    "start": 84.86813,
    "end": 90.73925,
+   "reviewed": "left out",
    "defaultRowsAtThatTime": [
     {
      "row": 15,
@@ -248,6 +231,7 @@
    "text": "わたし　きゅうくらりん",
    "start": 71.51475,
    "end": 72.0375,
+   "reviewed": "left out",
    "defaultRowsAtThatTime": [
     {
      "row": 13,
@@ -855,11 +839,11 @@
    "musicId": 201,
    "vocalId": 502,
    "lines": 33,
-   "singers": 27,
+   "singers": 30,
    "matched": {
     "exact": 16,
     "joined": 7,
-    "similar": 2
+    "spread": 2
    }
   },
   {
