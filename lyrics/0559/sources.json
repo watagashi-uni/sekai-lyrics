@@ -83,6 +83,14 @@
       "via": "https://github.com/shinonomeenana/sekai_lyrics",
       "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
       "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "时间轴",
+      "provider": "game_audio_review",
+      "recordId": null,
+      "url": null,
+      "license": null,
+      "note": "2026-11-14 按游戏音频 se_0559_01（セカイver.，vocalId 1697）重新校对 21 行：起点沿用原时间轴，其中 9 行按日语音素 CTC、Whisper 强制对齐与人声轨起音修正；句尾按 demucs 人声轨的收音处重定（原句尾多为下一句起点）；音频尾段及间奏的伴奏漏音不计入句尾；时间含前置空白。game.lrc 中“Da Da Da”“即 即 即”等子句时间未改"
     }
   ]
 }
