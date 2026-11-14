@@ -11,3 +11,5 @@
 `lyrics.json` 的 `sources` 是上游文字许可摘要，时间轴的来源应查 `sources.json` 或 Excel 的“来源明细”。原始检索、候选音源、模型文件和研究过程文件不包含在本仓库中。
 
 已记录 CC BY-SA 等上游许可的内容，应保留相应署名、链接及许可说明。歌词文字、译文、录音和整理脚本并不自动共享同一个许可；本仓库未对全部内容授予统一许可。再发布时请按具体来源及权利人授权处理。
+
+罗马音另取自 Sekaipedia，贡献者署名与页面历史可由各曲 `romaji.sekaipedia.json` 的页面链接追溯，遵循 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。本次经由 shinonomeenana/sekai_lyrics 的抓取结果转取；提交号记录在每首输入及 sources.json。保留原有译文及译者，不采用该仓库的网易云译文。

@@ -1,0 +1,45 @@
+{
+  "task1": {
+    "adoptedLines": 17742,
+    "songs": 701,
+    "generatedLines": 3182,
+    "fallbackReasons": [
+      "No exact normalized whole-line match (including split/merged lines)",
+      "Upstream heuristic lines excluded",
+      "No pronunciation or conflicting readings",
+      "Seven new songs absent upstream"
+    ],
+    "corrections": [],
+    "focus": {
+      "43": {
+        "sekaipedia": 4,
+        "generated": 1
+      },
+      "426": {
+        "sekaipedia": 12,
+        "generated": 0
+      },
+      "478": {
+        "sekaipedia": 10,
+        "generated": 4
+      },
+      "562": {
+        "sekaipedia": 21,
+        "generated": 9
+      },
+      "590": {
+        "sekaipedia": 24,
+        "generated": 0
+      },
+      "643": {
+        "sekaipedia": 4,
+        "generated": 0
+      },
+      "679": {
+        "sekaipedia": 18,
+        "generated": 0
+      }
+    },
+    "limitations": "No phonetic split imported; unknown dictionary readings remain absent. Excel not regenerated."
+  }
+}
