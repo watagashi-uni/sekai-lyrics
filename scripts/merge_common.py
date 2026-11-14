@@ -19,6 +19,8 @@ def rows(data):
         for m, s in re.findall(r'\[(\d+):(\d+(?:\.\d+)?)\]', row):
             start = int(m)*60+float(s)
             line = {'cueStart': start, 'start': start, 'text': text}
+            timing = next((w for w in data.get('lineTimings', []) if abs(w['cueStart']-start)<.001 and w['text']==text), {})
+            line.update(timing)
             match = next((w for w in data.get('wordLines', []) if abs(w['cueStart']-start)<.001 and w['text']==text), {})
             line.update(match)
             result.append(line)

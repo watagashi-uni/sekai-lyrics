@@ -11,7 +11,17 @@ report=[]; different=[]; no_words=[]; partial=[]
 for audit in json.loads((upstream/'tools/timing_report.json').read_text()):
  mid=audit['id']; folder=root/'lyrics'/f'{mid:04}'; f=folder/'lyrics.json'
  if not f.exists():continue
- d=json.loads(f.read_text()); local=rows(d); remote=json.loads((upstream/'timed'/f'{mid:04}.json').read_text())
+ original=f.read_text();d=json.loads(original)
+ sp=folder/'sources.json';provenance=json.loads(sp.read_text())
+ prior=[s for s in provenance['sources'] if s.get('usage')=='逐句结束时间' and s.get('provider')=='shinonomeenana/sekai_lyrics']
+ if d['format']=='bilingual_json':
+  for source in prior:
+   for change in source['lines']:d['lines'][change['line']]['end']=change['before'][1]
+ else:
+  if 'lineTimings' in d:
+   d['lineTimings']=[l for l in d['lineTimings'] if l.get('source')!='sekai_lyrics']
+   if not d['lineTimings']:d.pop('lineTimings')
+ local=rows(d); remote=json.loads((upstream/'timed'/f'{mid:04}.json').read_text())
  n=sum(bool(l.get('words')) for l in local)
  if not n:no_words.append(mid)
  elif n<len(local):partial.append(mid)
@@ -47,8 +57,9 @@ for audit in json.loads((upstream/'tools/timing_report.json').read_text()):
    else:d['lines'][i]['end']=end
    detail['after']=[a['start'],end];out['changes'].append(detail)
  if out['changes']:
-  f.write_text(json.dumps(d,ensure_ascii=False,separators=(',',':')))
-  sp=folder/'sources.json';s=json.loads(sp.read_text());s['sources'].append({'usage':'逐句结束时间','provider':'shinonomeenana/sekai_lyrics','url':'https://github.com/shinonomeenana/sekai_lyrics','license':None,'vocalId':v['id'],'verdict':audit['verdict'],'fillerSec':audit['fillerSec'],'method':'ordered exact normalized text; starts agree within 0.3s; non-clamped; end shortened within existing interval; upstream vocal-silence alignment, no independent acoustic verification','lines':out['changes']});sp.write_text(json.dumps(s,ensure_ascii=False,indent=2)+'\n')
+  output=json.dumps(d,ensure_ascii=False,separators=(',',':'))
+  if output!=original:f.write_text(output)
+  sp=folder/'sources.json';s=json.loads(sp.read_text());s['sources']=[x for x in s['sources'] if not (x.get('usage')=='逐句结束时间' and x.get('provider')=='shinonomeenana/sekai_lyrics')];s['sources'].append({'usage':'逐句结束时间','provider':'shinonomeenana/sekai_lyrics','url':'https://github.com/shinonomeenana/sekai_lyrics','license':None,'vocalId':v['id'],'verdict':audit['verdict'],'fillerSec':audit['fillerSec'],'method':'ordered exact normalized text; starts agree within 0.3s; non-clamped; end shortened within existing interval; upstream vocal-silence alignment, no independent acoustic verification','lines':out['changes']});sp.write_text(json.dumps(s,ensure_ascii=False,indent=2)+'\n')
  report.append(out)
 result={'noWordTiming':no_words,'partialWordTiming':partial,'differentVocal':different,'songs':report}
 (root/'reports/timing-comparison.json').write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n')

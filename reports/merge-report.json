@@ -40,7 +40,9 @@
         "generated": 0
       }
     },
-    "limitations": "No phonetic split imported; unknown dictionary readings remain absent. Excel not regenerated."
+    "limitations": "No phonetic split imported; unknown dictionary readings remain absent. Excel not regenerated.",
+    "japaneseRowsWithoutRomaji": 73,
+    "englishOrSymbolRows": 1516
   },
   "task2": {
     "comparedSongs": 194,
@@ -51,10 +53,27 @@
     "endTimeLines": 450,
     "startCorrections": 0,
     "audioCheckedSongs": 68,
-    "unresolved": "291 onset candidates in accepted same-vocal reports: full-mix RMS alone cannot verify singing onset. No onset changed. 54/731/766 are review; full-mix checks cannot establish which timeline is correct. Require isolated vocals or listening review.",
+    "unresolved": "291 onset candidates in accepted same-vocal reports remain unmodified: mixture energy does not isolate vocals. Additional independent ASR of 54/731/766 yielded only three exact outlier phrase matches, insufficient to certify boundaries. Human or reliable isolated-vocal review still required.",
     "details": [
       "timing-comparison.json",
-      "timing-audio-check.json"
-    ]
+      "timing-audio-check.json",
+      "focused-asr-audit.json"
+    ],
+    "focusFindings": {
+      "54": "No shared intervals. Largest matched onset discrepancy 2.098s. Upstream score 0.196, agreement 0, one clamped start. Insufficient evidence to replace current starts.",
+      "731": "38/57 local lines share intervals; upstream has finer sentence/background-vocal division. Largest matched onset discrepancy 2.9675s. Review verdict prevents importing speculative splits.",
+      "766": "30/39 local lines share intervals; upstream has finer divisions. Largest matched onset discrepancy 2.3343s. Cannot attribute all differences to an overall clock error; human/vocal review remains required."
+    },
+    "independentAsr": {
+      "songs": 3,
+      "model": "faster-whisper 1.2.1 small int8, CPU, beam_size=5, word_timestamps=true, no lyric prompt; ffmpeg 16kHz mono decoding",
+      "exactOutlierPhraseMatches": 3,
+      "result": "54: no reliable exact match; 731: first phrase favors default start, second favors upstream split; 766: repeated phrase differs from both. None certifies which whole timeline is correct."
+    }
+  },
+  "runtime": {
+    "numpy": "2.5.4",
+    "scipy": "1.18.1",
+    "Janome": "0.5.0"
   }
 }
