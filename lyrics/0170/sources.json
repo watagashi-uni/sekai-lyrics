@@ -67,12 +67,21 @@
       "note": "renditions/sekai/version"
     },
     {
+      "usage": "歌词文字/分唱",
+      "provider": "shinonomeenana/sekai_lyrics",
+      "recordId": null,
+      "url": "https://github.com/shinonomeenana/sekai_lyrics",
+      "license": null,
+      "upstreamRevision": "0d70c731c627eb376ddef3120e2a24ed52d83134",
+      "note": "2026-11-14：默认版本由バーチャル・シンガーver.（vocalId 365，vs_0170_01）改为セカイver.（vocalId 469，se_0170_01），格式由 LRC 改为双语 JSON。本曲 game.bilingual.json 原本没有分唱（performers 为空），所以当时只写了 VS 版；セカイver. 也未能作为附加版本导入（reports/skipped-versions.json：两版混音不同，波形相关不足）。现逐行分唱取自对方 timed/0170.json 的 characterIds：30 行与本曲 game.bilingual.json 逐行文字一致，按行直接对应；不做行内拆分，不推测。"
+    },
+    {
       "usage": "时间轴",
       "provider": "QQ音乐",
       "recordId": "459855189",
       "url": null,
       "license": null,
-      "note": null
+      "note": "逐字轴原按バーチャル・シンガーver.（365）录音核对。2026-11-14 改用セカイver.（469）为默认后沿用同一时间轴：两版 HCA 长度相同（159.5882 s），全曲混音按 4 秒窗互相关，有声的 37 窗中 36 窗最佳偏移在 ±0.007 s 内、1 窗 +0.034 s；两版人声分离轨逐行包络互相关的最佳偏移 29 行在 ±0.05 s 内、1 行 +0.11 s。对方在 se_0170_01 上独立对齐的 30 行起点与本曲中位差 0.150 s（23 行在 0.3 s 内）；超出的 7 行（第 0、3、8、12、20、27、28 行，零基）经对方缓存的 se_0170_01 音素解码核对，起唱位置都与本曲一致，差异来自对方对齐。41 个 LRC 行的 335 个逐字单元按出现顺序做字符对齐，迁到 30 个双语行，共 334 个：馬鹿競争、突然変異两个整词单元分别对应游戏文字ラットレース、ミュータント，Durand 对应 Duran，时间不变；01:24.904 的“下”单元不在游戏歌词中，未迁入。game.lrc／game.enhanced.lrc／game.zh-CN.lrc 仍保留原 41 行 LRC 成品。"
     },
     {
       "usage": "罗马音",

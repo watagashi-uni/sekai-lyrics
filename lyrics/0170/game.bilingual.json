@@ -1,7 +1,16 @@
 {
   "music_id": 170,
   "time_origin": "selected_game_recording_start_including_pre_roll",
-  "performers": [],
+  "performers": [
+    {
+      "performerId": "歌唱者-18",
+      "name": "朝比奈まふゆ"
+    },
+    {
+      "performerId": "歌唱者-20",
+      "name": "暁山瑞希"
+    }
+  ],
   "lines": [
     {
       "index": 0,
@@ -9,6 +18,34 @@
       "end": 22.665357,
       "japanese": "きっと手を繋ぐだけでゾッとされる",
       "zh-CN": "想必光是牵手就会让人毛骨悚然吧",
+      "segments": [
+        {
+          "text": "きっと手を繋ぐだけでゾッとされる",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "きっと"
+            },
+            {
+              "text": "手",
+              "reading": "て"
+            },
+            {
+              "text": "を"
+            },
+            {
+              "text": "繋",
+              "reading": "つな"
+            },
+            {
+              "text": "ぐだけでゾッとされる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -17,6 +54,15 @@
       "end": 27.462718,
       "japanese": "ラットレース一抜けたら通報される",
       "zh-CN": "若从老鼠赛跑中率先开溜就会被举报揭发",
+      "segments": [
+        {
+          "text": "ラットレース一抜けたら通報される",
+          "performerIds": [
+            "歌唱者-20"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -25,6 +71,15 @@
       "end": 33.059139,
       "japanese": "ミュータントじゃない　ただの僕さ",
       "zh-CN": "我并非异类突变体　只是普通的我罢了",
+      "segments": [
+        {
+          "text": "ミュータントじゃない　ただの僕さ",
+          "performerIds": [
+            "歌唱者-18"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -33,6 +88,15 @@
       "end": 35.635333,
       "japanese": "XとかYとか",
       "zh-CN": "染色体是X还是Y什么的",
+      "segments": [
+        {
+          "text": "XとかYとか",
+          "performerIds": [
+            "歌唱者-18"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -41,6 +105,34 @@
       "end": 41.776795,
       "japanese": "べき論者様は善悪多頭飼い",
       "zh-CN": "应然论者的大人们善恶双标多头圈养",
+      "segments": [
+        {
+          "text": "べき論者様は善悪多頭飼い",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "べき"
+            },
+            {
+              "text": "論者様",
+              "reading": "ろんじゃさま"
+            },
+            {
+              "text": "は"
+            },
+            {
+              "text": "善悪多頭飼",
+              "reading": "ぜんあくたとうが"
+            },
+            {
+              "text": "い"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -49,6 +141,45 @@
       "end": 46.554155,
       "japanese": "僕が君を\"侵害\"するって言いふらしてる",
       "zh-CN": "还在四处散布说是我“侵害”了你",
+      "segments": [
+        {
+          "text": "僕が君を\"侵害\"するって言いふらしてる",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "を\""
+            },
+            {
+              "text": "侵害",
+              "reading": "しんがい"
+            },
+            {
+              "text": "\"するって"
+            },
+            {
+              "text": "言",
+              "reading": "い"
+            },
+            {
+              "text": "いふらしてる"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -57,6 +188,16 @@
       "end": 47.106196,
       "japanese": "Oh...",
       "zh-CN": "Oh...",
+      "segments": [
+        {
+          "text": "Oh...",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-20"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -65,6 +206,32 @@
       "end": 51.923559,
       "japanese": "Mr. Crazy Villain Villain 夜行性の花弁",
       "zh-CN": "Mr. Crazy Villain Villain 夜行性的花瓣",
+      "segments": [
+        {
+          "text": "Mr. Crazy Villain Villain 夜行性の花弁",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "Mr. Crazy Villain Villain "
+            },
+            {
+              "text": "夜行性",
+              "reading": "やこうせい"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "花弁",
+              "reading": "はなびら"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -73,6 +240,52 @@
       "end": 56.344892,
       "japanese": "違う服着て君の前では男子のフリする",
       "zh-CN": "穿上不同的衣服在你的面前装成男孩子的模样",
+      "segments": [
+        {
+          "text": "違う服着て君の前では男子のフリする",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "違",
+              "reading": "ちが"
+            },
+            {
+              "text": "う"
+            },
+            {
+              "text": "服着",
+              "reading": "ふくき"
+            },
+            {
+              "text": "て"
+            },
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "前",
+              "reading": "まえ"
+            },
+            {
+              "text": "では"
+            },
+            {
+              "text": "男子",
+              "reading": "だんし"
+            },
+            {
+              "text": "のフリする"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -81,6 +294,35 @@
       "end": 61.300265,
       "japanese": "拝啓　Dr. Duran Duran 迎えにきて下さい",
       "zh-CN": "敬启　Dr. Duran Duran 请快来接我吧",
+      "segments": [
+        {
+          "text": "拝啓　Dr. Duran Duran 迎えにきて下さい",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "拝啓　Dr. Duran Duran "
+            },
+            {
+              "text": "迎",
+              "reading": "むか"
+            },
+            {
+              "text": "えにきて"
+            },
+            {
+              "text": "下",
+              "reading": "くだ"
+            },
+            {
+              "text": "さい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -89,6 +331,46 @@
       "end": 66.863683,
       "japanese": "顔も知らない誰かにとって僕はもうヴィラン",
       "zh-CN": "对连面都没见过的某人来说我早已是个大反派",
+      "segments": [
+        {
+          "text": "顔も知らない誰かにとって僕はもうヴィラン",
+          "performerIds": [
+            "歌唱者-20",
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "顔",
+              "reading": "かお"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "知",
+              "reading": "し"
+            },
+            {
+              "text": "らない"
+            },
+            {
+              "text": "誰",
+              "reading": "だれ"
+            },
+            {
+              "text": "かにとって"
+            },
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "はもうヴィラン"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -97,6 +379,15 @@
       "end": 71.064999,
       "japanese": "ヴィラン ヴィラン",
       "zh-CN": "大反派 大反派",
+      "segments": [
+        {
+          "text": "ヴィラン ヴィラン",
+          "performerIds": [
+            "歌唱者-18"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -105,6 +396,15 @@
       "end": 76.203386,
       "japanese": "ヴィラン ヴィラン",
       "zh-CN": "大反派 大反派",
+      "segments": [
+        {
+          "text": "ヴィラン ヴィラン",
+          "performerIds": [
+            "歌唱者-20"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -113,6 +413,15 @@
       "end": 79.989671,
       "japanese": "ヴィラン ヴィラン ヴィラン ヴィラン",
       "zh-CN": "大反派 大反派 大反派 大反派",
+      "segments": [
+        {
+          "text": "ヴィラン ヴィラン ヴィラン ヴィラン",
+          "performerIds": [
+            "歌唱者-18"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -121,6 +430,32 @@
       "end": 82.249841,
       "japanese": "蛇蝎ライフ 蛇蝎ライフ",
       "zh-CN": "蛇蝎般的人生 蛇蝎般的人生",
+      "segments": [
+        {
+          "text": "蛇蝎ライフ 蛇蝎ライフ",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "蛇蝎",
+              "reading": "だかつ"
+            },
+            {
+              "text": "ライフ "
+            },
+            {
+              "text": "蛇蝎",
+              "reading": "だかつ"
+            },
+            {
+              "text": "ライフ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -129,6 +464,29 @@
       "end": 84.946936,
       "japanese": "挙句の糜爛",
       "zh-CN": "最终落得全身溃烂糜烂",
+      "segments": [
+        {
+          "text": "挙句の糜爛",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "挙句",
+              "reading": "あげく"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "糜爛",
+              "reading": "びらん"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -137,6 +495,42 @@
       "end": 98.433951,
       "japanese": "素晴らしき悪党共に捧げる唄",
       "zh-CN": "献给这群了不起的恶棍们的赞歌",
+      "segments": [
+        {
+          "text": "素晴らしき悪党共に捧げる唄",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "素晴",
+              "reading": "すば"
+            },
+            {
+              "text": "らしき"
+            },
+            {
+              "text": "悪党共",
+              "reading": "あくとうども"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "捧",
+              "reading": "ささ"
+            },
+            {
+              "text": "げる"
+            },
+            {
+              "text": "唄",
+              "reading": "うた"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -145,6 +539,45 @@
       "end": 101.984218,
       "japanese": "骨まで演じ切ってやれ悪辣に",
       "zh-CN": "给我恶劣狠毒地将戏演到骨子里吧",
+      "segments": [
+        {
+          "text": "骨まで演じ切ってやれ悪辣に",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "骨",
+              "reading": "ほね"
+            },
+            {
+              "text": "まで"
+            },
+            {
+              "text": "演",
+              "reading": "えん"
+            },
+            {
+              "text": "じ"
+            },
+            {
+              "text": "切",
+              "reading": "き"
+            },
+            {
+              "text": "ってやれ"
+            },
+            {
+              "text": "悪辣",
+              "reading": "あくらつ"
+            },
+            {
+              "text": "に"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -153,6 +586,52 @@
       "end": 107.526635,
       "japanese": "残酷な町ほど綺麗な虹が立つ",
       "zh-CN": "越是残酷冰冷的街道越能架起美丽的彩虹",
+      "segments": [
+        {
+          "text": "残酷な町ほど綺麗な虹が立つ",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "残酷",
+              "reading": "ざんこく"
+            },
+            {
+              "text": "な"
+            },
+            {
+              "text": "町",
+              "reading": "まち"
+            },
+            {
+              "text": "ほど"
+            },
+            {
+              "text": "綺麗",
+              "reading": "きれい"
+            },
+            {
+              "text": "な"
+            },
+            {
+              "text": "虹",
+              "reading": "にじ"
+            },
+            {
+              "text": "が"
+            },
+            {
+              "text": "立",
+              "reading": "た"
+            },
+            {
+              "text": "つ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -161,6 +640,42 @@
       "end": 113.96512,
       "japanese": "猥雑広告に踊るポップ体の愛",
       "zh-CN": "在粗俗广告上欢快跳动的可爱字体爱意",
+      "segments": [
+        {
+          "text": "猥雑広告に踊るポップ体の愛",
+          "performerIds": [
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "猥雑広告",
+              "reading": "わいざつこうこく"
+            },
+            {
+              "text": "に"
+            },
+            {
+              "text": "踊",
+              "reading": "おど"
+            },
+            {
+              "text": "るポップ"
+            },
+            {
+              "text": "体",
+              "reading": "たい"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "愛",
+              "reading": "あい"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -169,6 +684,16 @@
       "end": 117.771406,
       "japanese": "Oh...",
       "zh-CN": "Oh...",
+      "segments": [
+        {
+          "text": "Oh...",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-20"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -177,6 +702,32 @@
       "end": 122.519764,
       "japanese": "Mr. Crazy Villain Villain 夜行性の花弁",
       "zh-CN": "Mr. Crazy Villain Villain 夜行性的花瓣",
+      "segments": [
+        {
+          "text": "Mr. Crazy Villain Villain 夜行性の花弁",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "Mr. Crazy Villain Villain "
+            },
+            {
+              "text": "夜行性",
+              "reading": "やこうせい"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "花弁",
+              "reading": "はなびら"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -185,6 +736,52 @@
       "end": 126.9861,
       "japanese": "違う服着て君の前では男子のフリを！",
       "zh-CN": "穿上不同的衣服在你的面前装成男孩子！",
+      "segments": [
+        {
+          "text": "違う服着て君の前では男子のフリを！",
+          "performerIds": [
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "違",
+              "reading": "ちが"
+            },
+            {
+              "text": "う"
+            },
+            {
+              "text": "服着",
+              "reading": "ふくき"
+            },
+            {
+              "text": "て"
+            },
+            {
+              "text": "君",
+              "reading": "きみ"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "前",
+              "reading": "まえ"
+            },
+            {
+              "text": "では"
+            },
+            {
+              "text": "男子",
+              "reading": "だんし"
+            },
+            {
+              "text": "のフリを！"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -193,6 +790,16 @@
       "end": 131.946473,
       "japanese": "拝啓　Dr. Duran Duran ここだよ",
       "zh-CN": "敬启　Dr. Duran Duran 我就在这里哦",
+      "segments": [
+        {
+          "text": "拝啓　Dr. Duran Duran ここだよ",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-20"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -201,6 +808,46 @@
       "end": 137.100861,
       "japanese": "顔も知らない誰かにとって僕はもうヴィラン",
       "zh-CN": "对连面都没见过的某人来说我早已是个大反派",
+      "segments": [
+        {
+          "text": "顔も知らない誰かにとって僕はもうヴィラン",
+          "performerIds": [
+            "歌唱者-20",
+            "歌唱者-18"
+          ],
+          "ruby": [
+            {
+              "text": "顔",
+              "reading": "かお"
+            },
+            {
+              "text": "も"
+            },
+            {
+              "text": "知",
+              "reading": "し"
+            },
+            {
+              "text": "らない"
+            },
+            {
+              "text": "誰",
+              "reading": "だれ"
+            },
+            {
+              "text": "かにとって"
+            },
+            {
+              "text": "僕",
+              "reading": "ぼく"
+            },
+            {
+              "text": "はもうヴィラン"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -209,6 +856,15 @@
       "end": 142.547271,
       "japanese": "ヴィラン ヴィラン",
       "zh-CN": "大反派 大反派",
+      "segments": [
+        {
+          "text": "ヴィラン ヴィラン",
+          "performerIds": [
+            "歌唱者-18"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -217,6 +873,15 @@
       "end": 146.898598,
       "japanese": "ヴィラン ヴィラン",
       "zh-CN": "大反派 大反派",
+      "segments": [
+        {
+          "text": "ヴィラン ヴィラン",
+          "performerIds": [
+            "歌唱者-20"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -225,6 +890,15 @@
       "end": 150.583876,
       "japanese": "ヴィラン ヴィラン ヴィラン ヴィラン",
       "zh-CN": "大反派 大反派 大反派 大反派",
+      "segments": [
+        {
+          "text": "ヴィラン ヴィラン ヴィラン ヴィラン",
+          "performerIds": [
+            "歌唱者-18"
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -233,6 +907,32 @@
       "end": 152.948053,
       "japanese": "蛇蝎ライフ 蛇蝎ライフ",
       "zh-CN": "蛇蝎般的人生 蛇蝎般的人生",
+      "segments": [
+        {
+          "text": "蛇蝎ライフ 蛇蝎ライフ",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "蛇蝎",
+              "reading": "だかつ"
+            },
+            {
+              "text": "ライフ "
+            },
+            {
+              "text": "蛇蝎",
+              "reading": "だかつ"
+            },
+            {
+              "text": "ライフ"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     },
     {
@@ -241,6 +941,36 @@
       "end": 156.118292,
       "japanese": "挙句の果ての糜爛",
       "zh-CN": "最终下场落得一身溃烂糜烂",
+      "segments": [
+        {
+          "text": "挙句の果ての糜爛",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-20"
+          ],
+          "ruby": [
+            {
+              "text": "挙句",
+              "reading": "あげく"
+            },
+            {
+              "text": "の"
+            },
+            {
+              "text": "果",
+              "reading": "は"
+            },
+            {
+              "text": "ての"
+            },
+            {
+              "text": "糜爛",
+              "reading": "びらん"
+            }
+          ]
+        }
+      ],
+      "trailingPerformerIds": [],
       "shared_interval": false
     }
   ]
