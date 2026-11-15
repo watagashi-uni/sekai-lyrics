@@ -13,7 +13,7 @@
 7. 执行 `node scripts/build-playback.mjs` 和 `node scripts/validate.mjs`。
 8. 发布时先上传新增哈希文件，确认可读后再更新 `version.json`。
 
-`add-furigana.mjs` 默认从每首歌的 `game.bilingual.json` 提取读音。有原项目完整数据时，可传入 `music_<ID>.json` 所在目录，从相同歌词的完整版和其它演唱版本补齐读音。播放 LRC 拆分原项目歌词行时，先恢复原项目整行的读音，再按时间和匹配片段映射到各播放行。重建播放文件时直接运行 `build-playback.mjs`，它会保留 `lyrics.json` 中已经保存的注音。
+`add-furigana.mjs` 默认从每首歌的 `game.bilingual.json` 提取读音。有原项目完整数据时，可传入 `music_<ID>.json` 所在目录，从相同歌词的完整版和其它演唱版本补齐读音。`lyrics.json` 中已保存的读音（曾用完整数据补齐或人工修正过）一律保留，脚本只给还没有读音的位置补读音；文字改动过的行按新文字重新提取。`--only 795,402` 只处理指定歌曲；`--rebuild` 丢弃已保存的读音、按本次输入重新推导，输入不全时会删掉读音，一般不用。内容未变的文件不改写。播放 LRC 拆分原项目歌词行时，先恢复原项目整行的读音，再按时间和匹配片段映射到各播放行。重建播放文件时直接运行 `build-playback.mjs`，它会保留 `lyrics.json` 中已经保存的注音。
 
 歌曲当て字等复核结果写入 `readings.reviewed.json`，记录来源并按完整文字匹配；它优先于上游注音和罗马音。131／388 的替换证据、旧行分组及源视频到游戏音频的偏移见 `reports/gekishou-source-review.json`。这两版只有逐句时间，不能重新套用已停用的 QQ 逐字轴。回归检查：`uv run --no-project --with Janome==0.5.0 python scripts/test-reviewed-readings.py`，验证间奏清空、两版时间关系，以及旧来源重新导入时修正不会丢失。
 

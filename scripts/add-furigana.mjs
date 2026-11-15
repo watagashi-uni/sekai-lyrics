@@ -141,8 +141,27 @@ function parseLrc(lrc, duration) {
   return lines
 }
 
+// Usage: node scripts/add-furigana.mjs [<dir of music_<ID>.json>] [--only <id,id,...>] [--rebuild]
+// Readings already saved in lyrics.json are kept: they were filled from the full upstream
+// project, or corrected by hand, and a run with less input must not take them away.
+// Only spans that have no reading yet are filled. --rebuild drops the saved readings and
+// derives everything again from the inputs given (readings.reviewed.json still wins).
+const args = process.argv.slice(2)
+const rebuild = args.includes('--rebuild')
+const onlyAt = args.indexOf('--only')
+const only = onlyAt >= 0 ? new Set((args[onlyAt + 1] || '').split(',').filter(Boolean).map(Number)) : null
+if (only && !only.size) throw new Error('--only needs music ids, e.g. --only 795,402')
+const upstreamDir = args.find((arg, i) => !arg.startsWith('--') && args[i - 1] !== '--only')
+
+/** Saved spans that still fit the line's text. */
+function savedRuby(ruby, text) {
+  return (ruby || []).filter(span => Number.isInteger(span.from) && Number.isInteger(span.to)
+    && span.from >= 0 && span.to > span.from && span.to <= text.length && span.reading)
+}
+
 const totals = { bilingual_json: 0, lrc: 0, lines: 0, readings: 0 }
 for (const folder of (await readdir(root)).filter(name => /^\d+$/.test(name))) {
+  if (only && !only.has(Number(folder))) continue
   const dir = path.join(root, folder)
   const reviewedFile = await readFile(path.join(dir, 'readings.reviewed.json'), 'utf8').catch(error => {
     if (error.code === 'ENOENT') return null
@@ -153,7 +172,7 @@ for (const folder of (await readdir(root)).filter(name => /^\d+$/.test(name))) {
     if (error.code === 'ENOENT') return null
     throw error
   })
-  const upstreamFile = process.argv[2] && path.join(process.argv[2], `music_${Number(folder)}.json`)
+  const upstreamFile = upstreamDir && path.join(upstreamDir, `music_${Number(folder)}.json`)
   const upstream = upstreamFile && await readFile(upstreamFile, 'utf8').catch(error => {
     if (error.code === 'ENOENT') return null
     throw error
@@ -175,10 +194,14 @@ for (const folder of (await readdir(root)).filter(name => /^\d+$/.test(name))) {
   const data = JSON.parse(original)
   let count = 0
   const lines = data.format === 'lrc' ? parseLrc(data.lrc, data.duration) : data.lines
+  // LRC readings are saved per cue and text, so a line whose text changed starts afresh.
+  const savedLrc = new Map((data.rubyLines || []).map(row => [`${row.cueStart}\n${row.text}`, row.ruby]))
   const rubyLines = []
   for (const line of lines) {
-    const ruby = reviewed.has(line.text) ? structuredClone(reviewed.get(line.text)) : project(line, display)
+    const saved = rebuild ? [] : savedRuby(data.format === 'lrc' ? savedLrc.get(`${line.start}\n${line.text}`) : line.ruby, line.text)
+    const ruby = reviewed.has(line.text) ? structuredClone(reviewed.get(line.text)) : saved.map(span => ({ ...span }))
     const fallback = reviewed.has(line.text) ? [] : [
+      ...project(line, display),
       ...project(line, canonical),
       ...exactProjectRuby(line, readings),
       ...project(line, timedUpstream),
@@ -197,7 +220,9 @@ for (const folder of (await readdir(root)).filter(name => /^\d+$/.test(name))) {
   if (rubyLines.length) data.rubyLines = rubyLines
   totals[data.format]++
   totals.lines += count
+  // Compare as JSON: the Python tools write 70.0 where JavaScript writes 70, and a file
+  // whose content did not change must keep its bytes (they name the playback file).
   const output = JSON.stringify(data)
-  if (output !== original) await writeFile(file, output)
+  if (output !== JSON.stringify(JSON.parse(original))) await writeFile(file, output)
 }
 console.log(totals)
