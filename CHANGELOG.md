@@ -4,6 +4,10 @@
 
 ## 2026-11-16
 
+### ヤンキーボーイ・ヤンキーガール（586）拆行起点
+
+- 源 LRC 每个时间点含两句，拆成双语两行后共用起点，第二行一开始就和第一行一起亮起，第一行结束后才单独显示。16 对第一行已有句尾的行，第二行起点改为第一行句尾，句尾不变。「純粋愚直な拳一つで／嘘を裁いて　殻を割って」与「素直になれないまま／誠実なまま」两对第一行没有句尾，暂未改。逐行前后时间见 `lyrics/0586/sources.json`。
+
 ### CRASH THE PARTY（679）错字修正
 
 - 0:38.460 一句由「我れらの隨に」改为「我らの随に」。旧文字来自 Sekaipedia（oldid 327860，当前修订 348146 仍同），与本曲按游戏录音核对的 `game.lrc`、`game.enhanced.lrc` 不符。注音改为 我(われ)・随(まにま)，罗马音仍为 `warera no manima ni`，改由复核读音提供。`game.bilingual.json` 原文保留，修正写在 `display_japanese`／`display_segments`；セカイver.（vocalId 1793）同行分唱文字同步。时间轴未变。见[复核记录](reports/word-timing-search-2026-11-16-crash-the-party-text.json)。
