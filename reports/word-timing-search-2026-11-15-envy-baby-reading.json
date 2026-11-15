@@ -1,0 +1,469 @@
+{
+  "date": "2026-11-15",
+  "selection": "用户指出エンヴィーベイビー「愛の苑」注音应为その，并要求复核全曲假名与罗马音；用户要求联网核对。",
+  "songs": [
+    {
+      "musicId": 402,
+      "title": "エンヴィーベイビー",
+      "providers": {},
+      "readingReview": {
+        "recordId": "0402-reading-2026-11-15",
+        "webChecks": [
+          {
+            "platform": "web search",
+            "query": "エンヴィーベイビー 歌詞 ふりがな 弄人 牢人 愛の苑 カンザキイオリ",
+            "result": "无相关结果（检索词误含作者名）"
+          },
+          {
+            "platform": "web search",
+            "query": "エンヴィーベイビー Kanaria 歌詞 読み方 \"愛の苑\"",
+            "result": "命中 UtaTen 解说 specialArticle/6020、J-Lyric 等，无注音"
+          },
+          {
+            "platform": "UtaTen",
+            "url": "https://utaten.com/specialArticle/index/6020",
+            "fetched": true,
+            "result": "歌词解说；弄人＝玩弄人、牢人＝浪人之意，苑＝饲养场所；未写读音；链接歌词页 tt21021501"
+          },
+          {
+            "platform": "UtaTen",
+            "url": "https://utaten.com/lyric/tt21021501/",
+            "fetched": true,
+            "format": "带罗马字注音的歌词页",
+            "result": "苑=sono，弄人/牢人=rounin，相=ai，解=kai，空いた=a，無様=buzama，将来=syourai，必中=hitchuu，到来=tourai，泣き言=na/goto，引く手=hi/te，人の芽=hito/me，害=gai，嗚呼=aa，演技=engi，気まま=ki；3つ的3无注音"
+          }
+        ],
+        "repositoryChecks": [
+          "lyrics/0402/romaji.sekaipedia.json：sono、rounin、ai mo、kai、mittsu"
+        ],
+        "lines": [
+          {
+            "line": 9,
+            "text": "空いた言葉で　弄人　牢人",
+            "start": 40.77271,
+            "end": 43.37995,
+            "beforeRuby": [
+              {
+                "from": 0,
+                "to": 1,
+                "reading": "あ"
+              },
+              {
+                "from": 3,
+                "to": 5,
+                "reading": "ことば"
+              },
+              {
+                "from": 7,
+                "to": 8,
+                "reading": "ろう"
+              },
+              {
+                "from": 8,
+                "to": 9,
+                "reading": "じん"
+              },
+              {
+                "from": 10,
+                "to": 11,
+                "reading": "ろう"
+              },
+              {
+                "from": 11,
+                "to": 12,
+                "reading": "じん"
+              }
+            ],
+            "afterRuby": [
+              {
+                "from": 0,
+                "to": 1,
+                "reading": "あ"
+              },
+              {
+                "from": 3,
+                "to": 5,
+                "reading": "ことば"
+              },
+              {
+                "from": 7,
+                "to": 8,
+                "reading": "ろう"
+              },
+              {
+                "from": 8,
+                "to": 9,
+                "reading": "にん"
+              },
+              {
+                "from": 10,
+                "to": 11,
+                "reading": "ろう"
+              },
+              {
+                "from": 11,
+                "to": 12,
+                "reading": "にん"
+              }
+            ],
+            "romaji": "aita kotoba de rounin rounin"
+          },
+          {
+            "line": 14,
+            "text": "愛の苑　迫りくる　引く手に",
+            "start": 50.964649,
+            "end": 54.089937,
+            "beforeRuby": [
+              {
+                "from": 0,
+                "to": 1,
+                "reading": "あい"
+              },
+              {
+                "from": 2,
+                "to": 3,
+                "reading": "えん"
+              },
+              {
+                "from": 4,
+                "to": 5,
+                "reading": "せま"
+              },
+              {
+                "from": 9,
+                "to": 10,
+                "reading": "ひ"
+              },
+              {
+                "from": 11,
+                "to": 12,
+                "reading": "て"
+              }
+            ],
+            "afterRuby": [
+              {
+                "from": 0,
+                "to": 1,
+                "reading": "あい"
+              },
+              {
+                "from": 2,
+                "to": 3,
+                "reading": "その"
+              },
+              {
+                "from": 4,
+                "to": 5,
+                "reading": "せま"
+              },
+              {
+                "from": 9,
+                "to": 10,
+                "reading": "ひ"
+              },
+              {
+                "from": 11,
+                "to": 12,
+                "reading": "て"
+              }
+            ],
+            "romaji": "ai no sono semari kuru hikute ni"
+          },
+          {
+            "line": 16,
+            "text": "害の苑　人の芽は　ライアイア",
+            "start": 56.555164,
+            "end": 59.829465,
+            "beforeRuby": [
+              {
+                "from": 0,
+                "to": 1,
+                "reading": "がい"
+              },
+              {
+                "from": 2,
+                "to": 3,
+                "reading": "えん"
+              },
+              {
+                "from": 4,
+                "to": 5,
+                "reading": "ひと"
+              },
+              {
+                "from": 6,
+                "to": 7,
+                "reading": "め"
+              }
+            ],
+            "afterRuby": [
+              {
+                "from": 0,
+                "to": 1,
+                "reading": "がい"
+              },
+              {
+                "from": 2,
+                "to": 3,
+                "reading": "その"
+              },
+              {
+                "from": 4,
+                "to": 5,
+                "reading": "ひと"
+              },
+              {
+                "from": 6,
+                "to": 7,
+                "reading": "め"
+              }
+            ],
+            "romaji": "gai no sono hito no me wa raiaia"
+          },
+          {
+            "line": 26,
+            "text": "3つ重ねて　ロンリーロンリー",
+            "start": 93.9915,
+            "end": 96.9075,
+            "beforeRuby": [
+              {
+                "from": 2,
+                "to": 3,
+                "reading": "かさ"
+              }
+            ],
+            "afterRuby": [
+              {
+                "from": 0,
+                "to": 1,
+                "reading": "みっ"
+              },
+              {
+                "from": 2,
+                "to": 3,
+                "reading": "かさ"
+              }
+            ],
+            "romaji": "mittsu kasanete ronrii ronrii"
+          },
+          {
+            "line": 27,
+            "text": "きっとあなたは　弄人　牢人",
+            "start": 96.923882,
+            "end": 99.546124,
+            "beforeRuby": [
+              {
+                "from": 8,
+                "to": 9,
+                "reading": "ろう"
+              },
+              {
+                "from": 9,
+                "to": 10,
+                "reading": "じん"
+              },
+              {
+                "from": 11,
+                "to": 12,
+                "reading": "ろう"
+              },
+              {
+                "from": 12,
+                "to": 13,
+                "reading": "じん"
+              }
+            ],
+            "afterRuby": [
+              {
+                "from": 8,
+                "to": 9,
+                "reading": "ろう"
+              },
+              {
+                "from": 9,
+                "to": 10,
+                "reading": "にん"
+              },
+              {
+                "from": 11,
+                "to": 12,
+                "reading": "ろう"
+              },
+              {
+                "from": 12,
+                "to": 13,
+                "reading": "にん"
+              }
+            ],
+            "romaji": "kitto anata wa rounin rounin"
+          },
+          {
+            "line": 28,
+            "text": "相も変わらず　後悔なんて無い",
+            "start": 99.72214,
+            "end": 102.597405,
+            "beforeRuby": [
+              {
+                "from": 0,
+                "to": 1,
+                "reading": "そう"
+              },
+              {
+                "from": 2,
+                "to": 3,
+                "reading": "か"
+              },
+              {
+                "from": 7,
+                "to": 9,
+                "reading": "こうかい"
+              },
+              {
+                "from": 12,
+                "to": 13,
+                "reading": "な"
+              }
+            ],
+            "afterRuby": [
+              {
+                "from": 0,
+                "to": 1,
+                "reading": "あい"
+              },
+              {
+                "from": 2,
+                "to": 3,
+                "reading": "か"
+              },
+              {
+                "from": 7,
+                "to": 9,
+                "reading": "こうかい"
+              },
+              {
+                "from": 12,
+                "to": 13,
+                "reading": "な"
+              }
+            ],
+            "romaji": "ai mo kawarazu koukai nante nai"
+          },
+          {
+            "line": 32,
+            "text": "愛の苑　迫りくる　引く手に",
+            "start": 107.098819,
+            "end": 112.7655,
+            "beforeRuby": [
+              {
+                "from": 0,
+                "to": 1,
+                "reading": "あい"
+              },
+              {
+                "from": 2,
+                "to": 3,
+                "reading": "えん"
+              },
+              {
+                "from": 4,
+                "to": 5,
+                "reading": "せま"
+              },
+              {
+                "from": 9,
+                "to": 10,
+                "reading": "ひ"
+              },
+              {
+                "from": 11,
+                "to": 12,
+                "reading": "て"
+              }
+            ],
+            "afterRuby": [
+              {
+                "from": 0,
+                "to": 1,
+                "reading": "あい"
+              },
+              {
+                "from": 2,
+                "to": 3,
+                "reading": "その"
+              },
+              {
+                "from": 4,
+                "to": 5,
+                "reading": "せま"
+              },
+              {
+                "from": 9,
+                "to": 10,
+                "reading": "ひ"
+              },
+              {
+                "from": 11,
+                "to": 12,
+                "reading": "て"
+              }
+            ],
+            "romaji": "ai no sono semari kuru hikute ni"
+          },
+          {
+            "line": 34,
+            "text": "害の苑　人の芽は　ライアイア",
+            "start": 112.651331,
+            "end": 116.033642,
+            "beforeRuby": [
+              {
+                "from": 0,
+                "to": 1,
+                "reading": "がい"
+              },
+              {
+                "from": 2,
+                "to": 3,
+                "reading": "えん"
+              },
+              {
+                "from": 4,
+                "to": 5,
+                "reading": "ひと"
+              },
+              {
+                "from": 6,
+                "to": 7,
+                "reading": "め"
+              }
+            ],
+            "afterRuby": [
+              {
+                "from": 0,
+                "to": 1,
+                "reading": "がい"
+              },
+              {
+                "from": 2,
+                "to": 3,
+                "reading": "その"
+              },
+              {
+                "from": 4,
+                "to": 5,
+                "reading": "ひと"
+              },
+              {
+                "from": 6,
+                "to": 7,
+                "reading": "め"
+              }
+            ],
+            "romaji": "gai no sono hito no me wa raiaia"
+          }
+        ],
+        "decision": "苑 えん→その（4 行），弄人／牢人 的人 じん→にん（2 行×2），相 そう→あい（1 行），3つ 补注 みっ（1 行）；其余注音与 UtaTen 一致。罗马音原为 Sekaipedia 人工输入且已正确，重跑生成器保持不变。",
+        "wordTimingChanged": false
+      }
+    }
+  ]
+}

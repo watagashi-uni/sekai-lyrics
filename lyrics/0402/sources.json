@@ -433,6 +433,14 @@
         ]
       },
       "note": "6-second windows every 4 seconds; >=90% consistent within 20ms, score>=0.65, median>=0.8, max supported gap 8s, bounded tails. Line-only; no inherited words or segments. Lyrics licenses/translation credits remain those of default version."
+    },
+    {
+      "usage": "注音复核/罗马音核验",
+      "provider": "用户纠正、UtaTen 歌词页及仓库已有 Sekaipedia 罗马音",
+      "recordId": "0402-reading-2026-11-15",
+      "url": "https://utaten.com/lyric/tt21021501/",
+      "evidence": "reports/word-timing-search-2026-11-15-envy-baby-reading.json",
+      "note": "苑=その，弄人／牢人=ろうにん，相も変わらず的相=あい，3つ补注みっ；默认版及所有演唱版本共用。罗马音沿用 Sekaipedia，不改时间轴。"
     }
   ]
 }
