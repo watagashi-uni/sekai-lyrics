@@ -32,7 +32,8 @@
       "recordId": "649508771",
       "url": "https://y.qq.com/n/ryqq/songDetail/0004MnbX0Slpqn",
       "license": null,
-      "note": "qrc"
+      "note": "qrc；第 11 行补回「て」原生单元，使用同一行既有 QRC→游戏映射。",
+      "evidence": "reports/word-timing-search-2026-11-15-0221-0635-0645.json"
     },
     {
       "usage": "时间轴",
@@ -59,6 +60,15 @@
       "via": "https://github.com/shinonomeenana/sekai_lyrics",
       "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
       "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "歌词文字复核",
+      "provider": "歌ネット",
+      "recordId": "391458",
+      "url": "https://www.uta-net.com/song/391458/?target=lyricist",
+      "license": null,
+      "note": "核对 MORE MORE JUMP! 歌词，补回第11行末「て」。细节见检索记录。",
+      "evidence": "reports/word-timing-search-2026-11-15-0221-0635-0645.json"
     }
   ]
 }

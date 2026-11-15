@@ -1,0 +1,3463 @@
+{
+  "date": "2026-11-15",
+  "selection": "复核 221、645 游戏歌词轴，检索替代来源并核对 635 缺字及罗马音。",
+  "songs": [
+    {
+      "musicId": 221,
+      "title": "マトリョシカ",
+      "providers": {
+        "qqmusic": {
+          "queries": [],
+          "fetched": [
+            {
+              "id": "105647987",
+              "title": "マトリョシカ (俄罗斯套娃)",
+              "artists": [
+                "米津玄師",
+                "初音未来",
+                "GUMI"
+              ],
+              "source_url": "https://y.qq.com/n/ryqq/songDetail/000ukz7732XGI7",
+              "actuallyFetched": true,
+              "retrieval": "本次从 yokohama 只读取得上次平台请求保存的逐字数据。",
+              "format": "qrc",
+              "wordUnits": 670,
+              "temporaryRawCapture": "yokohama:/data/watagashi/lyrics-alignment-trial/deliverables/qq-native-sources/sources/105647987/source.words.json",
+              "sha256": "2118db130b07674ba907e5c6b6ef21f02539b92fa0261d9722303271c15adcb4",
+              "rows": 68,
+              "decision": "replaced_game_mapping",
+              "reason": "保留原始 QRC；历史游戏映射晚约 1 秒，被游戏复核后的同曲 YRC 替换。"
+            },
+            {
+              "id": "284050299",
+              "title": "マトリョシカ (俄罗斯套娃)",
+              "artists": [
+                "米津玄師;初音ミク;GUMI (よねづ けんし)"
+              ],
+              "source_url": "https://y.qq.com/n/ryqq/songDetail/000wALa32uscT3",
+              "actuallyFetched": true,
+              "retrieval": "本次从 yokohama 只读取得上次平台请求保存的逐字数据。",
+              "format": "qrc",
+              "wordUnits": 657,
+              "temporaryRawCapture": "yokohama:/data/watagashi/lyrics-alignment-trial/deliverables/qq-native-sources/sources/284050299/source.words.json",
+              "sha256": "4db12453c619dda7940ed3ec42514973dcb36e3842c0a210c9bf6c08b100d38d",
+              "rows": 68,
+              "decision": "replaced_game_mapping",
+              "reason": "保留原始 QRC；历史游戏映射晚约 1 秒，被游戏复核后的同曲 YRC 替换。"
+            }
+          ]
+        },
+        "netease": {
+          "queries": [],
+          "fetched": [
+            {
+              "id": "22717167",
+              "title": "マトリョシカ",
+              "artists": [
+                "米津玄師",
+                "GUMI",
+                "初音ミク"
+              ],
+              "duration": 199.226,
+              "source_url": "https://music.163.com/song?id=22717167",
+              "requestUrl": "https://music.163.com/api/song/lyric/v1?id=22717167&lv=-1&yv=-1&kv=-1",
+              "actuallyFetched": true,
+              "httpStatus": 200,
+              "responseCode": 200,
+              "format": "yrc",
+              "yrcPayloadReturned": true,
+              "wordUnits": 598,
+              "sha256": "8b5e6d07b335803cec87fad9432ad3b80b27e3776bfcd77b3a259a4d002a8642",
+              "decision": "adopted",
+              "reason": "JP master 只有 vocalId 546；旧 QQ 逐字与旧逐句映射多数晚约一秒，且重唱句中有局部误差。网易云 22717167 的原生 YRC 在游戏时间 origin 上加 8.623 秒，并经实际唱词复核。",
+              "audioCheck": {
+                "historicalSpectralRecord": true,
+                "audioRoute": "本机 player/url 无可用音源；通过既有 knd 代理的外链获取完整版。",
+                "requestUrl": "https://music.163.com/api/song/enhance/player/url?id=22717167&ids=%5B22717167%5D&br=320000",
+                "mediaFetchedThroughKnd": true,
+                "mediaUrl": "https://music.163.com/song/media/outer/url?id=22717167.mp3",
+                "mediaSha256": "d2708b1113f49626b8c130c045bb92f8647229064fdc9454d83f04c33e889197",
+                "directPlayerApiResultCode": 404
+              }
+            },
+            {
+              "id": "22691083",
+              "title": "マトリョシカ",
+              "artists": [
+                "米津玄師",
+                "初音ミク",
+                "GUMI"
+              ],
+              "duration": 198.706,
+              "source_url": "https://music.163.com/song?id=22691083",
+              "requestUrl": "https://music.163.com/api/song/lyric/v1?id=22691083&lv=-1&yv=-1&kv=-1",
+              "actuallyFetched": true,
+              "httpStatus": 200,
+              "responseCode": 200,
+              "format": "yrc",
+              "yrcPayloadReturned": true,
+              "wordUnits": 598,
+              "sha256": "5c9b444bcff7c1b11903572592c19d44521ac0b07e7ab8483e801b13898f24a3",
+              "decision": "not_adopted",
+              "reason": "同曲 YRC 发行记录，源时钟约比 22717167 晚 0.94 秒，当前直接游戏校验使用已知的 22717167 映射。",
+              "audioCheck": {
+                "liveAudioFetchStatus": 404
+              }
+            }
+          ]
+        },
+        "lrclib": {
+          "queries": [
+            {
+              "query": "マトリョシカ",
+              "url": "https://lrclib.net/api/search?track_name=%E3%83%9E%E3%83%88%E3%83%AA%E3%83%A7%E3%82%B7%E3%82%AB",
+              "status": "ok",
+              "httpStatus": 200,
+              "responseSha256": "f08762a37242ec1645ec6caa4550d5cf6445de7835cb567f11945aa5e459154d",
+              "hits": [
+                {
+                  "id": "7669978",
+                  "title": "マトリョシカ",
+                  "artists": [
+                    "ハチ"
+                  ],
+                  "album": "初音ミク 5thバースデー ベスト ～impacts～",
+                  "duration": 200.0,
+                  "source_url": "https://lrclib.net/api/get/7669978"
+                },
+                {
+                  "id": "2493361",
+                  "title": "マトリョシカ",
+                  "artists": [
+                    "ハチ feat. 初音ミク・GUMI"
+                  ],
+                  "album": "EXIT TUNES PRESENTS Vocalonexus",
+                  "duration": 200.0,
+                  "source_url": "https://lrclib.net/api/get/2493361"
+                },
+                {
+                  "id": "2493362",
+                  "title": "マトリョシカ",
+                  "artists": [
+                    "ハチ feat.初音ミク・GUMI"
+                  ],
+                  "album": "初音ミク 5thバースデー ベスト ～impacts～",
+                  "duration": 200.0,
+                  "source_url": "https://lrclib.net/api/get/2493362"
+                },
+                {
+                  "id": "1883820",
+                  "title": "マトリョシカ",
+                  "artists": [
+                    "ハチ (Hachi)"
+                  ],
+                  "album": "VOCALOID BEST from ニコニコ動画【あお】",
+                  "duration": 199.0,
+                  "source_url": "https://lrclib.net/api/get/1883820"
+                },
+                {
+                  "id": "1883819",
+                  "title": "マトリョシカ",
+                  "artists": [
+                    "ハチ"
+                  ],
+                  "album": "EXIT TUNES PRESENTS Vocalonexus",
+                  "duration": 199.0,
+                  "source_url": "https://lrclib.net/api/get/1883819"
+                },
+                {
+                  "id": "1043178",
+                  "title": "マトリョシカ",
+                  "artists": [
+                    "ハチ feat. 初音ミク & GUMI"
+                  ],
+                  "album": "VOCALOID BEST from ニコニコ動画(あお)",
+                  "duration": 200.0,
+                  "source_url": "https://lrclib.net/api/get/1043178"
+                },
+                {
+                  "id": "30004707",
+                  "title": "マトリョシカ",
+                  "artists": [
+                    "ハチ"
+                  ],
+                  "album": "SOUND VOLTEX",
+                  "duration": 93.0,
+                  "source_url": "https://lrclib.net/api/get/30004707"
+                },
+                {
+                  "id": "32682291",
+                  "title": "マトリョシカ",
+                  "artists": [
+                    "ハチ"
+                  ],
+                  "album": "EXIT TUNES PRESENTS Vocalonexus",
+                  "duration": 203.0,
+                  "source_url": "https://lrclib.net/api/get/32682291"
+                },
+                {
+                  "id": "31108962",
+                  "title": "マトリョシカ",
+                  "artists": [
+                    "ハチ"
+                  ],
+                  "album": "初音ミク 5thバースデーベスト ～impacts～",
+                  "duration": 199.0,
+                  "source_url": "https://lrclib.net/api/get/31108962"
+                },
+                {
+                  "id": "18909144",
+                  "title": "マトリョシカ",
+                  "artists": [
+                    "ハチ feat.初音ミク・GUMI"
+                  ],
+                  "album": "初音ミク 5thバースデー ベスト ～impacts～",
+                  "duration": 197.88,
+                  "source_url": "https://lrclib.net/api/get/18909144"
+                },
+                {
+                  "id": "18677831",
+                  "title": "マトリョシカ",
+                  "artists": [
+                    "ハチ"
+                  ],
+                  "album": "VOCALOID BEST from ニコニコ動画【あお】",
+                  "duration": 200.2808159,
+                  "source_url": "https://lrclib.net/api/get/18677831"
+                },
+                {
+                  "id": "18606662",
+                  "title": "マトリョシカ",
+                  "artists": [
+                    "米津玄師"
+                  ],
+                  "album": "OFFICIAL ORANGE",
+                  "duration": 198.706667,
+                  "source_url": "https://lrclib.net/api/get/18606662"
+                },
+                {
+                  "id": "18471185",
+                  "title": "マトリョシカ",
+                  "artists": [
+                    "ハチ feat.初音ミク・GUMI"
+                  ],
+                  "album": "EXIT TUNES PRESENTS Vocalonexus feat. Hatsune Miku",
+                  "duration": 200.0,
+                  "source_url": "https://lrclib.net/api/get/18471185"
+                },
+                {
+                  "id": "16761143",
+                  "title": "マトリョシカ",
+                  "artists": [
+                    "Hachi"
+                  ],
+                  "album": "VOCALOID BEST from Nico Nico Douga【Blue】",
+                  "duration": 200.0,
+                  "source_url": "https://lrclib.net/api/get/16761143"
+                },
+                {
+                  "id": "16978095",
+                  "title": "マトリョシカ",
+                  "artists": [
+                    "ハチ (Hachi)"
+                  ],
+                  "album": "OFFICIAL ORANGE",
+                  "duration": 198.706667,
+                  "source_url": "https://lrclib.net/api/get/16978095"
+                },
+                {
+                  "id": "15952019",
+                  "title": "マトリョシカ",
+                  "artists": [
+                    "Hachi feat. 初音ミク & GUMI"
+                  ],
+                  "album": "VOCALOID BEST from Nico Nico Douga【Blue】",
+                  "duration": 200.0,
+                  "source_url": "https://lrclib.net/api/get/15952019"
+                },
+                {
+                  "id": "16323714",
+                  "title": "マトリョシカ",
+                  "artists": [
+                    "初音　ミク"
+                  ],
+                  "album": "Vocaloid Best From ニコニコ動画 （あお）",
+                  "duration": 200.226667,
+                  "source_url": "https://lrclib.net/api/get/16323714"
+                },
+                {
+                  "id": "14202586",
+                  "title": "マトリョシカ",
+                  "artists": [
+                    "hachi"
+                  ],
+                  "album": "vocaloid best from nico nico douga【Blue、E",
+                  "duration": 200.0,
+                  "source_url": "https://lrclib.net/api/get/14202586"
+                },
+                {
+                  "id": "24855811",
+                  "title": "マトリョシカ",
+                  "artists": [
+                    "Ado and Rib"
+                  ],
+                  "album": "Ratimeria Limited Edition \"Collaboration Songs\"",
+                  "duration": 202.0,
+                  "source_url": "https://lrclib.net/api/get/24855811"
+                },
+                {
+                  "id": "24991953",
+                  "title": "マトリョシカ",
+                  "artists": [
+                    "ハチ"
+                  ],
+                  "album": "初音ミク 5thバースデー ベスト ～impacts～",
+                  "duration": 197.88,
+                  "source_url": "https://lrclib.net/api/get/24991953"
+                }
+              ]
+            }
+          ],
+          "fetched": [
+            {
+              "id": "7669978",
+              "title": "マトリョシカ",
+              "artists": [
+                "ハチ"
+              ],
+              "album": "初音ミク 5thバースデー ベスト ～impacts～",
+              "duration": 200.0,
+              "source_url": "https://lrclib.net/api/get/7669978",
+              "actuallyFetched": true,
+              "retrieval": "search response lyric payload",
+              "format": "lrc",
+              "wordUnits": 0,
+              "timedRows": 40,
+              "lastCueSeconds": 198.31,
+              "decision": "not_adopted",
+              "reason": "搜索接口返回原词，只有句级时间。已有同录音的网易云 YRC 和游戏音频核对，未采用。"
+            },
+            {
+              "id": "2493361",
+              "title": "マトリョシカ",
+              "artists": [
+                "ハチ feat. 初音ミク・GUMI"
+              ],
+              "album": "EXIT TUNES PRESENTS Vocalonexus",
+              "duration": 200.0,
+              "source_url": "https://lrclib.net/api/get/2493361",
+              "actuallyFetched": true,
+              "retrieval": "search response lyric payload",
+              "format": "plain_text",
+              "wordUnits": 0,
+              "timedRows": 0,
+              "lastCueSeconds": null,
+              "decision": "no_timed_lyric",
+              "reason": "搜索接口只返回普通歌词或空歌词，没有逐句轴。"
+            },
+            {
+              "id": "2493362",
+              "title": "マトリョシカ",
+              "artists": [
+                "ハチ feat.初音ミク・GUMI"
+              ],
+              "album": "初音ミク 5thバースデー ベスト ～impacts～",
+              "duration": 200.0,
+              "source_url": "https://lrclib.net/api/get/2493362",
+              "actuallyFetched": true,
+              "retrieval": "search response lyric payload",
+              "format": "plain_text",
+              "wordUnits": 0,
+              "timedRows": 0,
+              "lastCueSeconds": null,
+              "decision": "no_timed_lyric",
+              "reason": "搜索接口只返回普通歌词或空歌词，没有逐句轴。"
+            },
+            {
+              "id": "1883820",
+              "title": "マトリョシカ",
+              "artists": [
+                "ハチ (Hachi)"
+              ],
+              "album": "VOCALOID BEST from ニコニコ動画【あお】",
+              "duration": 199.0,
+              "source_url": "https://lrclib.net/api/get/1883820",
+              "actuallyFetched": true,
+              "retrieval": "search response lyric payload",
+              "format": "lrc",
+              "wordUnits": 0,
+              "timedRows": 60,
+              "lastCueSeconds": 200.56,
+              "decision": "not_adopted",
+              "reason": "搜索接口返回原词，只有句级时间。已有同录音的网易云 YRC 和游戏音频核对，未采用。"
+            },
+            {
+              "id": "1883819",
+              "title": "マトリョシカ",
+              "artists": [
+                "ハチ"
+              ],
+              "album": "EXIT TUNES PRESENTS Vocalonexus",
+              "duration": 199.0,
+              "source_url": "https://lrclib.net/api/get/1883819",
+              "actuallyFetched": true,
+              "retrieval": "search response lyric payload",
+              "format": "lrc",
+              "wordUnits": 0,
+              "timedRows": 60,
+              "lastCueSeconds": 200.56,
+              "decision": "not_adopted",
+              "reason": "搜索接口返回原词，只有句级时间。已有同录音的网易云 YRC 和游戏音频核对，未采用。"
+            },
+            {
+              "id": "1043178",
+              "title": "マトリョシカ",
+              "artists": [
+                "ハチ feat. 初音ミク & GUMI"
+              ],
+              "album": "VOCALOID BEST from ニコニコ動画(あお)",
+              "duration": 200.0,
+              "source_url": "https://lrclib.net/api/get/1043178",
+              "actuallyFetched": true,
+              "retrieval": "search response lyric payload",
+              "format": "lrc",
+              "wordUnits": 0,
+              "timedRows": 57,
+              "lastCueSeconds": 174.69,
+              "decision": "not_adopted",
+              "reason": "搜索接口返回原词，只有句级时间。已有同录音的网易云 YRC 和游戏音频核对，未采用。"
+            },
+            {
+              "id": "30004707",
+              "title": "マトリョシカ",
+              "artists": [
+                "ハチ"
+              ],
+              "album": "SOUND VOLTEX",
+              "duration": 93.0,
+              "source_url": "https://lrclib.net/api/get/30004707",
+              "actuallyFetched": true,
+              "retrieval": "search response lyric payload",
+              "format": "lrc",
+              "wordUnits": 0,
+              "timedRows": 60,
+              "lastCueSeconds": 200.56,
+              "decision": "not_adopted",
+              "reason": "搜索接口返回原词，只有句级时间。已有同录音的网易云 YRC 和游戏音频核对，未采用。"
+            },
+            {
+              "id": "32682291",
+              "title": "マトリョシカ",
+              "artists": [
+                "ハチ"
+              ],
+              "album": "EXIT TUNES PRESENTS Vocalonexus",
+              "duration": 203.0,
+              "source_url": "https://lrclib.net/api/get/32682291",
+              "actuallyFetched": true,
+              "retrieval": "search response lyric payload",
+              "format": "lrc",
+              "wordUnits": 0,
+              "timedRows": 60,
+              "lastCueSeconds": 200.56,
+              "decision": "not_adopted",
+              "reason": "搜索接口返回原词，只有句级时间。已有同录音的网易云 YRC 和游戏音频核对，未采用。"
+            },
+            {
+              "id": "31108962",
+              "title": "マトリョシカ",
+              "artists": [
+                "ハチ"
+              ],
+              "album": "初音ミク 5thバースデーベスト ～impacts～",
+              "duration": 199.0,
+              "source_url": "https://lrclib.net/api/get/31108962",
+              "actuallyFetched": true,
+              "retrieval": "search response lyric payload",
+              "format": "lrc",
+              "wordUnits": 0,
+              "timedRows": 60,
+              "lastCueSeconds": 200.56,
+              "decision": "not_adopted",
+              "reason": "搜索接口返回原词，只有句级时间。已有同录音的网易云 YRC 和游戏音频核对，未采用。"
+            },
+            {
+              "id": "18909144",
+              "title": "マトリョシカ",
+              "artists": [
+                "ハチ feat.初音ミク・GUMI"
+              ],
+              "album": "初音ミク 5thバースデー ベスト ～impacts～",
+              "duration": 197.88,
+              "source_url": "https://lrclib.net/api/get/18909144",
+              "actuallyFetched": true,
+              "retrieval": "search response lyric payload",
+              "format": "plain_text",
+              "wordUnits": 0,
+              "timedRows": 0,
+              "lastCueSeconds": null,
+              "decision": "no_timed_lyric",
+              "reason": "搜索接口只返回普通歌词或空歌词，没有逐句轴。"
+            },
+            {
+              "id": "18677831",
+              "title": "マトリョシカ",
+              "artists": [
+                "ハチ"
+              ],
+              "album": "VOCALOID BEST from ニコニコ動画【あお】",
+              "duration": 200.2808159,
+              "source_url": "https://lrclib.net/api/get/18677831",
+              "actuallyFetched": true,
+              "retrieval": "search response lyric payload",
+              "format": "lrc",
+              "wordUnits": 0,
+              "timedRows": 40,
+              "lastCueSeconds": 198.31,
+              "decision": "not_adopted",
+              "reason": "搜索接口返回原词，只有句级时间。已有同录音的网易云 YRC 和游戏音频核对，未采用。"
+            },
+            {
+              "id": "18606662",
+              "title": "マトリョシカ",
+              "artists": [
+                "米津玄師"
+              ],
+              "album": "OFFICIAL ORANGE",
+              "duration": 198.706667,
+              "source_url": "https://lrclib.net/api/get/18606662",
+              "actuallyFetched": true,
+              "retrieval": "search response lyric payload",
+              "format": "lrc",
+              "wordUnits": 0,
+              "timedRows": 40,
+              "lastCueSeconds": 198.31,
+              "decision": "not_adopted",
+              "reason": "搜索接口返回原词，只有句级时间。已有同录音的网易云 YRC 和游戏音频核对，未采用。"
+            },
+            {
+              "id": "18471185",
+              "title": "マトリョシカ",
+              "artists": [
+                "ハチ feat.初音ミク・GUMI"
+              ],
+              "album": "EXIT TUNES PRESENTS Vocalonexus feat. Hatsune Miku",
+              "duration": 200.0,
+              "source_url": "https://lrclib.net/api/get/18471185",
+              "actuallyFetched": true,
+              "retrieval": "search response lyric payload",
+              "format": "lrc",
+              "wordUnits": 0,
+              "timedRows": 40,
+              "lastCueSeconds": 198.31,
+              "decision": "not_adopted",
+              "reason": "搜索接口返回原词，只有句级时间。已有同录音的网易云 YRC 和游戏音频核对，未采用。"
+            },
+            {
+              "id": "16761143",
+              "title": "マトリョシカ",
+              "artists": [
+                "Hachi"
+              ],
+              "album": "VOCALOID BEST from Nico Nico Douga【Blue】",
+              "duration": 200.0,
+              "source_url": "https://lrclib.net/api/get/16761143",
+              "actuallyFetched": true,
+              "retrieval": "search response lyric payload",
+              "format": "lrc",
+              "wordUnits": 0,
+              "timedRows": 58,
+              "lastCueSeconds": 171.01,
+              "decision": "not_adopted",
+              "reason": "搜索接口返回原词，只有句级时间。已有同录音的网易云 YRC 和游戏音频核对，未采用。"
+            },
+            {
+              "id": "16978095",
+              "title": "マトリョシカ",
+              "artists": [
+                "ハチ (Hachi)"
+              ],
+              "album": "OFFICIAL ORANGE",
+              "duration": 198.706667,
+              "source_url": "https://lrclib.net/api/get/16978095",
+              "actuallyFetched": true,
+              "retrieval": "search response lyric payload",
+              "format": "lrc",
+              "wordUnits": 0,
+              "timedRows": 40,
+              "lastCueSeconds": 198.31,
+              "decision": "not_adopted",
+              "reason": "搜索接口返回原词，只有句级时间。已有同录音的网易云 YRC 和游戏音频核对，未采用。"
+            },
+            {
+              "id": "15952019",
+              "title": "マトリョシカ",
+              "artists": [
+                "Hachi feat. 初音ミク & GUMI"
+              ],
+              "album": "VOCALOID BEST from Nico Nico Douga【Blue】",
+              "duration": 200.0,
+              "source_url": "https://lrclib.net/api/get/15952019",
+              "actuallyFetched": true,
+              "retrieval": "search response lyric payload",
+              "format": "lrc",
+              "wordUnits": 0,
+              "timedRows": 40,
+              "lastCueSeconds": 198.31,
+              "decision": "not_adopted",
+              "reason": "搜索接口返回原词，只有句级时间。已有同录音的网易云 YRC 和游戏音频核对，未采用。"
+            },
+            {
+              "id": "16323714",
+              "title": "マトリョシカ",
+              "artists": [
+                "初音　ミク"
+              ],
+              "album": "Vocaloid Best From ニコニコ動画 （あお）",
+              "duration": 200.226667,
+              "source_url": "https://lrclib.net/api/get/16323714",
+              "actuallyFetched": true,
+              "retrieval": "search response lyric payload",
+              "format": "lrc",
+              "wordUnits": 0,
+              "timedRows": 54,
+              "lastCueSeconds": 172.94,
+              "decision": "not_adopted",
+              "reason": "搜索接口返回原词，只有句级时间。已有同录音的网易云 YRC 和游戏音频核对，未采用。"
+            },
+            {
+              "id": "14202586",
+              "title": "マトリョシカ",
+              "artists": [
+                "hachi"
+              ],
+              "album": "vocaloid best from nico nico douga【Blue、E",
+              "duration": 200.0,
+              "source_url": "https://lrclib.net/api/get/14202586",
+              "actuallyFetched": true,
+              "retrieval": "search response lyric payload",
+              "format": "lrc",
+              "wordUnits": 0,
+              "timedRows": 58,
+              "lastCueSeconds": 171.01,
+              "decision": "not_adopted",
+              "reason": "搜索接口返回原词，只有句级时间。已有同录音的网易云 YRC 和游戏音频核对，未采用。"
+            },
+            {
+              "id": "24855811",
+              "title": "マトリョシカ",
+              "artists": [
+                "Ado and Rib"
+              ],
+              "album": "Ratimeria Limited Edition \"Collaboration Songs\"",
+              "duration": 202.0,
+              "source_url": "https://lrclib.net/api/get/24855811",
+              "actuallyFetched": true,
+              "retrieval": "search response lyric payload",
+              "format": "lrc",
+              "wordUnits": 0,
+              "timedRows": 74,
+              "lastCueSeconds": 176.1,
+              "decision": "not_adopted",
+              "reason": "搜索接口返回原词，只有句级时间。已有同录音的网易云 YRC 和游戏音频核对，未采用。"
+            },
+            {
+              "id": "24991953",
+              "title": "マトリョシカ",
+              "artists": [
+                "ハチ"
+              ],
+              "album": "初音ミク 5thバースデー ベスト ～impacts～",
+              "duration": 197.88,
+              "source_url": "https://lrclib.net/api/get/24991953",
+              "actuallyFetched": true,
+              "retrieval": "search response lyric payload",
+              "format": "lrc",
+              "wordUnits": 0,
+              "timedRows": 60,
+              "lastCueSeconds": 200.56,
+              "decision": "not_adopted",
+              "reason": "搜索接口返回原词，只有句级时间。已有同录音的网易云 YRC 和游戏音频核对，未采用。"
+            }
+          ]
+        },
+        "gameAudio": {
+          "queries": [],
+          "fetched": [
+            {
+              "id": "546",
+              "title": "マトリョシカ",
+              "artists": [
+                "GUMI",
+                "初音ミク"
+              ],
+              "source_url": "https://assets-direct.unipjsk.com/ondemand/music/long/vs_0221_01/vs_0221_01.mp3",
+              "actuallyFetched": true,
+              "format": "game audio MP3",
+              "wordUnits": 0,
+              "sha256": "9872e0644bb1a4cfb7d9eb424b9b56f3ceb40e653334b886ba2a747ce286756e",
+              "assetbundle": "vs_0221_01",
+              "vocalId": 546,
+              "decision": "adopted_as_game_clock",
+              "reason": "核对唯一在 JP master 中的 vocalId 546；网易云 YRC 加 8.623 s 与实际游戏起唱吻合。前奏数拍沿用既有游戏复核轴。"
+            }
+          ]
+        },
+        "web": {
+          "queries": [
+            {
+              "query": "プロセカ マトリョシカ セカイ ゲームサイズ ハチ Project SEKAI",
+              "status": "ok",
+              "hits": [
+                {
+                  "id": "000004417.000005397",
+                  "url": "https://prtimes.jp/main/html/rd/p/000004417.000005397.html",
+                  "title": "セガ：マトリョシカをリズムゲーム楽曲として追加",
+                  "artists": [
+                    "ハチ"
+                  ]
+                }
+              ]
+            }
+          ],
+          "fetched": []
+        }
+      },
+      "timingReview": {
+        "historicalReport": "reports/end-calibration-2026-11.json",
+        "masterVersion": "7.1.0.60",
+        "officialVocalIds": [
+          546
+        ],
+        "mapping": {
+          "method": "archived spectral map, proxy album waveform comparison and game vocal checks",
+          "archivedMap": "yokohama:/data/watagashi/lyrics-alignment-trial/round3/stage/song-lyrics-v3/songs/0221/source-snapshot/cut-map.json",
+          "sourceToGameOffsetSec": 8.623,
+          "historicalCoverage": 1.0,
+          "historicalMedianSpectrumScore": 0.902666,
+          "blocks": [
+            {
+              "target_start": 9.0,
+              "target_end": 114.95125,
+              "source_start": 0.4,
+              "source_end": 106.35125,
+              "source_minus_target": -8.6,
+              "matched_windows": 50,
+              "median_score": 0.902666,
+              "gain": -0.05374548318549603
+            }
+          ],
+          "freshWaveformMethod": "netease-reference/match_audio.py; 4 s windows every 3 s, spectral evidence covers the whole clip",
+          "freshWaveformMatches": [
+            {
+              "gameWindowStart": 9.0,
+              "sourceMinusGame": -8.617,
+              "correlation": -0.819096
+            },
+            {
+              "gameWindowStart": 12.0,
+              "sourceMinusGame": -8.62325,
+              "correlation": 0.723481
+            },
+            {
+              "gameWindowStart": 15.0,
+              "sourceMinusGame": -8.62325,
+              "correlation": 0.721829
+            },
+            {
+              "gameWindowStart": 18.0,
+              "sourceMinusGame": -8.62325,
+              "correlation": 0.743548
+            },
+            {
+              "gameWindowStart": 21.0,
+              "sourceMinusGame": -8.62325,
+              "correlation": 0.661436
+            },
+            {
+              "gameWindowStart": 24.0,
+              "sourceMinusGame": -8.62275,
+              "correlation": 0.576756
+            },
+            {
+              "gameWindowStart": 27.0,
+              "sourceMinusGame": -8.62375,
+              "correlation": 0.587547
+            },
+            {
+              "gameWindowStart": 30.0,
+              "sourceMinusGame": -8.62375,
+              "correlation": 0.618775
+            },
+            {
+              "gameWindowStart": 33.0,
+              "sourceMinusGame": -8.62325,
+              "correlation": 0.722228
+            },
+            {
+              "gameWindowStart": 36.0,
+              "sourceMinusGame": -8.62275,
+              "correlation": 0.634012
+            },
+            {
+              "gameWindowStart": 39.0,
+              "sourceMinusGame": -8.62375,
+              "correlation": 0.573769
+            },
+            {
+              "gameWindowStart": 42.0,
+              "sourceMinusGame": -8.62375,
+              "correlation": 0.62493
+            },
+            {
+              "gameWindowStart": 45.0,
+              "sourceMinusGame": -8.623,
+              "correlation": 0.564543
+            },
+            {
+              "gameWindowStart": 48.0,
+              "sourceMinusGame": -8.62225,
+              "correlation": 0.555771
+            },
+            {
+              "gameWindowStart": 51.0,
+              "sourceMinusGame": -8.623,
+              "correlation": 0.540666
+            },
+            {
+              "gameWindowStart": 54.0,
+              "sourceMinusGame": -8.62275,
+              "correlation": 0.629017
+            },
+            {
+              "gameWindowStart": 57.0,
+              "sourceMinusGame": -8.6235,
+              "correlation": 0.683469
+            },
+            {
+              "gameWindowStart": 60.0,
+              "sourceMinusGame": -8.6235,
+              "correlation": 0.670936
+            },
+            {
+              "gameWindowStart": 63.0,
+              "sourceMinusGame": -8.6235,
+              "correlation": 0.670734
+            },
+            {
+              "gameWindowStart": 66.0,
+              "sourceMinusGame": -8.6235,
+              "correlation": 0.677965
+            },
+            {
+              "gameWindowStart": 69.0,
+              "sourceMinusGame": -8.6235,
+              "correlation": 0.677158
+            },
+            {
+              "gameWindowStart": 72.0,
+              "sourceMinusGame": -8.62325,
+              "correlation": 0.673353
+            },
+            {
+              "gameWindowStart": 75.0,
+              "sourceMinusGame": -8.62325,
+              "correlation": 0.743879
+            },
+            {
+              "gameWindowStart": 78.0,
+              "sourceMinusGame": -8.62325,
+              "correlation": 0.744392
+            },
+            {
+              "gameWindowStart": 81.0,
+              "sourceMinusGame": -8.62325,
+              "correlation": 0.686766
+            },
+            {
+              "gameWindowStart": 84.0,
+              "sourceMinusGame": -8.62275,
+              "correlation": 0.566477
+            },
+            {
+              "gameWindowStart": 87.0,
+              "sourceMinusGame": -8.62275,
+              "correlation": 0.592181
+            },
+            {
+              "gameWindowStart": 90.0,
+              "sourceMinusGame": -8.62375,
+              "correlation": 0.539712
+            },
+            {
+              "gameWindowStart": 93.0,
+              "sourceMinusGame": -8.617,
+              "correlation": -0.547774
+            },
+            {
+              "gameWindowStart": 96.0,
+              "sourceMinusGame": -8.617,
+              "correlation": -0.515773
+            },
+            {
+              "gameWindowStart": 99.0,
+              "sourceMinusGame": -8.62225,
+              "correlation": 0.470387
+            },
+            {
+              "gameWindowStart": 102.0,
+              "sourceMinusGame": -8.62225,
+              "correlation": 0.529949
+            },
+            {
+              "gameWindowStart": 105.0,
+              "sourceMinusGame": -8.62225,
+              "correlation": 0.546413
+            },
+            {
+              "gameWindowStart": 108.0,
+              "sourceMinusGame": -8.62275,
+              "correlation": 0.537417
+            }
+          ]
+        },
+        "oldMinusNewStartMedianSec": 1.047,
+        "independentRecognitionAnchors": [
+          {
+            "row": 1,
+            "start": 22.94,
+            "end": 24.88
+          },
+          {
+            "row": 5,
+            "start": 36.9,
+            "end": 39.0
+          },
+          {
+            "row": 19,
+            "start": 69.86,
+            "end": 71.84
+          },
+          {
+            "row": 21,
+            "start": 83.88,
+            "end": 86.12
+          },
+          {
+            "row": 23,
+            "start": 88.52,
+            "end": 90.6
+          }
+        ],
+        "recognitionModel": "faster-whisper small int8, overlapping <=27 s excerpts; forced alignment with the same model is a separate consistency check, not a separate ASR model",
+        "rows": [
+          {
+            "row": 0,
+            "old": [
+              12.16,
+              13.44
+            ],
+            "new": [
+              12.16,
+              13.44
+            ],
+            "newUnits": 0,
+            "basis": "原有数拍与游戏独立识别区间 12.02–13.48 s 一致。YRC 未返回这一句。",
+            "independentForcedIntervals": []
+          },
+          {
+            "row": 1,
+            "old": [
+              24.130941,
+              25.980812
+            ],
+            "new": [
+              22.963,
+              25.003
+            ],
+            "newUnits": 0,
+            "sourceYrcRow": 2,
+            "sourceStartMs": 14340,
+            "sourceEndMs": 16380,
+            "textVariant": true,
+            "independentForcedIntervals": []
+          },
+          {
+            "row": 2,
+            "old": [
+              26.220795,
+              28.490637
+            ],
+            "new": [
+              25.033,
+              27.413
+            ],
+            "newUnits": 11,
+            "sourceYrcRow": 3,
+            "sourceStartMs": 16410,
+            "sourceEndMs": 18790,
+            "independentForcedIntervals": [
+              [
+                24.92,
+                27.26,
+                0.665
+              ]
+            ]
+          },
+          {
+            "row": 3,
+            "old": [
+              28.490637,
+              30.779478
+            ],
+            "new": [
+              27.603,
+              29.653
+            ],
+            "newUnits": 11,
+            "sourceYrcRow": 4,
+            "sourceStartMs": 18980,
+            "sourceEndMs": 21030,
+            "independentForcedIntervals": [
+              [
+                27.26,
+                29.76,
+                0.881
+              ]
+            ]
+          },
+          {
+            "row": 4,
+            "old": [
+              30.72,
+              38.06
+            ],
+            "new": [
+              29.653,
+              32.313
+            ],
+            "newUnits": 13,
+            "sourceYrcRow": 5,
+            "sourceStartMs": 21030,
+            "sourceEndMs": 23690,
+            "independentForcedIntervals": [
+              [
+                29.76,
+                32.62,
+                0.367
+              ]
+            ]
+          },
+          {
+            "row": 5,
+            "old": [
+              38.057972,
+              40.227822
+            ],
+            "new": [
+              36.963,
+              39.063
+            ],
+            "newUnits": 10,
+            "sourceYrcRow": 6,
+            "sourceStartMs": 28340,
+            "sourceEndMs": 30440,
+            "independentForcedIntervals": [
+              [
+                32.68,
+                38.98,
+                0.635
+              ]
+            ]
+          },
+          {
+            "row": 6,
+            "old": [
+              40.227822,
+              42.507663
+            ],
+            "new": [
+              39.103,
+              41.523
+            ],
+            "newUnits": 12,
+            "sourceYrcRow": 7,
+            "sourceStartMs": 30480,
+            "sourceEndMs": 32900,
+            "independentForcedIntervals": [
+              [
+                38.98,
+                41.68,
+                0.424
+              ],
+              [
+                38.98,
+                41.72,
+                0.426
+              ]
+            ]
+          },
+          {
+            "row": 7,
+            "old": [
+              42.507663,
+              44.70751
+            ],
+            "new": [
+              41.623,
+              43.683
+            ],
+            "newUnits": 10,
+            "sourceYrcRow": 8,
+            "sourceStartMs": 33000,
+            "sourceEndMs": 35060,
+            "independentForcedIntervals": [
+              [
+                41.68,
+                43.78,
+                0.858
+              ],
+              [
+                41.72,
+                43.8,
+                0.9
+              ]
+            ]
+          },
+          {
+            "row": 8,
+            "old": [
+              44.877498,
+              47.00735
+            ],
+            "new": [
+              43.683,
+              46.003
+            ],
+            "newUnits": 10,
+            "sourceYrcRow": 9,
+            "sourceStartMs": 35060,
+            "sourceEndMs": 37380,
+            "independentForcedIntervals": [
+              [
+                43.78,
+                46.46,
+                0.416
+              ],
+              [
+                43.8,
+                46.42,
+                0.462
+              ]
+            ]
+          },
+          {
+            "row": 9,
+            "old": [
+              47.36,
+              49.57
+            ],
+            "new": [
+              46.263,
+              48.393
+            ],
+            "newUnits": 0,
+            "sourceYrcRow": 10,
+            "sourceStartMs": 37640,
+            "sourceEndMs": 39770,
+            "textVariant": true,
+            "independentForcedIntervals": [
+              [
+                46.46,
+                48.12,
+                0.322
+              ],
+              [
+                46.42,
+                48.1,
+                0.345
+              ]
+            ]
+          },
+          {
+            "row": 10,
+            "old": [
+              49.527175,
+              51.697024
+            ],
+            "new": [
+              48.493,
+              50.923
+            ],
+            "newUnits": 10,
+            "sourceYrcRow": 11,
+            "sourceStartMs": 39870,
+            "sourceEndMs": 42300,
+            "independentForcedIntervals": [
+              [
+                48.1,
+                50.94,
+                0.814
+              ],
+              [
+                48.12,
+                50.86,
+                0.782
+              ]
+            ]
+          },
+          {
+            "row": 11,
+            "old": [
+              51.91,
+              54.23
+            ],
+            "new": [
+              50.953,
+              53.183
+            ],
+            "newUnits": 0,
+            "sourceYrcRow": 12,
+            "sourceStartMs": 42330,
+            "sourceEndMs": 44560,
+            "textVariant": true,
+            "independentForcedIntervals": [
+              [
+                50.94,
+                53.24,
+                0.817
+              ],
+              [
+                50.86,
+                53.22,
+                0.75
+              ]
+            ]
+          },
+          {
+            "row": 12,
+            "old": [
+              54.236848,
+              55.996726
+            ],
+            "new": [
+              53.543,
+              55.053
+            ],
+            "newUnits": 4,
+            "sourceYrcRow": 13,
+            "sourceStartMs": 44920,
+            "sourceEndMs": 46430,
+            "independentForcedIntervals": [
+              [
+                53.24,
+                54.72,
+                0.342
+              ],
+              [
+                53.22,
+                54.7,
+                0.329
+              ]
+            ]
+          },
+          {
+            "row": 13,
+            "old": [
+              56.306704,
+              58.676539
+            ],
+            "new": [
+              55.153,
+              57.853
+            ],
+            "newUnits": 15,
+            "sourceYrcRow": 14,
+            "sourceStartMs": 46530,
+            "sourceEndMs": 49230,
+            "independentForcedIntervals": [
+              [
+                54.7,
+                57.88,
+                0.482
+              ]
+            ]
+          },
+          {
+            "row": 14,
+            "old": [
+              58.895524,
+              61.354353
+            ],
+            "new": [
+              57.933,
+              60.273
+            ],
+            "newUnits": 13,
+            "sourceYrcRow": 15,
+            "sourceStartMs": 49310,
+            "sourceEndMs": 51650,
+            "independentForcedIntervals": [
+              [
+                57.88,
+                60.28,
+                0.482
+              ],
+              [
+                57.9,
+                60.32,
+                0.452
+              ]
+            ]
+          },
+          {
+            "row": 15,
+            "old": [
+              61.524341,
+              63.574199
+            ],
+            "new": [
+              60.523,
+              62.583
+            ],
+            "newUnits": 11,
+            "sourceYrcRow": 16,
+            "sourceStartMs": 51900,
+            "sourceEndMs": 53960,
+            "independentForcedIntervals": [
+              [
+                60.28,
+                63.12,
+                0.586
+              ],
+              [
+                60.32,
+                62.7,
+                0.623
+              ]
+            ]
+          },
+          {
+            "row": 16,
+            "old": [
+              63.574199,
+              65.954033
+            ],
+            "new": [
+              62.583,
+              64.993
+            ],
+            "newUnits": 12,
+            "sourceYrcRow": 17,
+            "sourceStartMs": 53960,
+            "sourceEndMs": 56370,
+            "independentForcedIntervals": [
+              [
+                63.12,
+                65.14,
+                0.631
+              ],
+              [
+                62.7,
+                65.14,
+                0.701
+              ]
+            ]
+          },
+          {
+            "row": 17,
+            "old": [
+              65.974032,
+              67.103954
+            ],
+            "new": [
+              64.993,
+              67.083
+            ],
+            "newUnits": 5,
+            "sourceYrcRow": 18,
+            "sourceStartMs": 56370,
+            "sourceEndMs": 58460,
+            "independentForcedIntervals": [
+              [
+                65.14,
+                66.54,
+                0.19
+              ]
+            ]
+          },
+          {
+            "row": 18,
+            "old": [
+              69.130982,
+              70.81935
+            ],
+            "new": [
+              67.243,
+              69.663
+            ],
+            "newUnits": 13,
+            "sourceYrcRow": 19,
+            "sourceStartMs": 58620,
+            "sourceEndMs": 61040,
+            "independentForcedIntervals": [
+              [
+                66.54,
+                69.76,
+                0.411
+              ],
+              [
+                66.46,
+                69.66,
+                0.291
+              ]
+            ]
+          },
+          {
+            "row": 19,
+            "old": [
+              70.873692,
+              72.923549
+            ],
+            "new": [
+              69.663,
+              71.853
+            ],
+            "newUnits": 11,
+            "sourceYrcRow": 20,
+            "sourceStartMs": 61040,
+            "sourceEndMs": 63230,
+            "independentForcedIntervals": [
+              [
+                69.76,
+                71.84,
+                0.524
+              ],
+              [
+                69.66,
+                71.82,
+                0.529
+              ]
+            ]
+          },
+          {
+            "row": 20,
+            "old": [
+              72.97,
+              84.9
+            ],
+            "new": [
+              71.883,
+              74.373
+            ],
+            "newUnits": 0,
+            "sourceYrcRow": 21,
+            "sourceStartMs": 63260,
+            "sourceEndMs": 65750,
+            "textVariant": true,
+            "independentForcedIntervals": [
+              [
+                71.84,
+                74.16,
+                0.421
+              ],
+              [
+                71.82,
+                74.16,
+                0.436
+              ]
+            ]
+          },
+          {
+            "row": 21,
+            "old": [
+              84.980711,
+              87.020569
+            ],
+            "new": [
+              83.853,
+              85.943
+            ],
+            "newUnits": 11,
+            "sourceYrcRow": 22,
+            "sourceStartMs": 75230,
+            "sourceEndMs": 77320,
+            "independentForcedIntervals": []
+          },
+          {
+            "row": 22,
+            "old": [
+              87.020569,
+              89.360407
+            ],
+            "new": [
+              85.943,
+              88.223
+            ],
+            "newUnits": 11,
+            "sourceYrcRow": 23,
+            "sourceStartMs": 77320,
+            "sourceEndMs": 79600,
+            "independentForcedIntervals": [
+              [
+                86.04,
+                88.64,
+                0.47
+              ]
+            ]
+          },
+          {
+            "row": 23,
+            "old": [
+              89.560393,
+              91.580252
+            ],
+            "new": [
+              88.483,
+              90.533
+            ],
+            "newUnits": 11,
+            "sourceYrcRow": 24,
+            "sourceStartMs": 79860,
+            "sourceEndMs": 81910,
+            "independentForcedIntervals": [
+              [
+                88.64,
+                90.6,
+                0.753
+              ]
+            ]
+          },
+          {
+            "row": 24,
+            "old": [
+              91.580252,
+              93.860094
+            ],
+            "new": [
+              90.533,
+              93.003
+            ],
+            "newUnits": 0,
+            "sourceYrcRow": 25,
+            "sourceStartMs": 81910,
+            "sourceEndMs": 84380,
+            "textVariant": true,
+            "independentForcedIntervals": [
+              [
+                90.6,
+                93.12,
+                0.647
+              ]
+            ]
+          },
+          {
+            "row": 25,
+            "old": [
+              94.129075,
+              96.38
+            ],
+            "new": [
+              93.073,
+              95.313
+            ],
+            "newUnits": 11,
+            "sourceYrcRow": 26,
+            "sourceStartMs": 84450,
+            "sourceEndMs": 86690,
+            "independentForcedIntervals": [
+              [
+                93.12,
+                95.62,
+                0.377
+              ],
+              [
+                93.22,
+                95.52,
+                0.382
+              ]
+            ]
+          },
+          {
+            "row": 26,
+            "old": [
+              95.129006,
+              98.6
+            ],
+            "new": [
+              95.313,
+              97.753
+            ],
+            "newUnits": 0,
+            "sourceYrcRow": 27,
+            "sourceStartMs": 86690,
+            "sourceEndMs": 89130,
+            "textVariant": true,
+            "independentForcedIntervals": [
+              [
+                95.62,
+                97.94,
+                0.822
+              ],
+              [
+                95.52,
+                97.88,
+                0.835
+              ]
+            ]
+          },
+          {
+            "row": 27,
+            "old": [
+              98.588765,
+              100.948601
+            ],
+            "new": [
+              97.753,
+              100.083
+            ],
+            "newUnits": 15,
+            "sourceYrcRow": 28,
+            "sourceStartMs": 89130,
+            "sourceEndMs": 91460,
+            "independentForcedIntervals": [
+              [
+                97.94,
+                100.16,
+                0.469
+              ],
+              [
+                97.88,
+                100.26,
+                0.461
+              ]
+            ]
+          },
+          {
+            "row": 28,
+            "old": [
+              101.03,
+              103.46
+            ],
+            "new": [
+              100.083,
+              102.513
+            ],
+            "newUnits": 10,
+            "sourceYrcRow": 29,
+            "sourceStartMs": 91460,
+            "sourceEndMs": 93890,
+            "independentForcedIntervals": [
+              [
+                100.26,
+                102.66,
+                0.362
+              ],
+              [
+                100.46,
+                102.66,
+                0.371
+              ]
+            ]
+          },
+          {
+            "row": 29,
+            "old": [
+              103.46,
+              105.81
+            ],
+            "new": [
+              102.513,
+              104.633
+            ],
+            "newUnits": 0,
+            "sourceYrcRow": 30,
+            "sourceStartMs": 93890,
+            "sourceEndMs": 96010,
+            "textVariant": true,
+            "independentForcedIntervals": [
+              [
+                102.66,
+                104.22,
+                0.318
+              ],
+              [
+                102.66,
+                104.2,
+                0.329
+              ]
+            ]
+          },
+          {
+            "row": 30,
+            "old": [
+              105.71727,
+              107.787126
+            ],
+            "new": [
+              104.663,
+              107.113
+            ],
+            "newUnits": 0,
+            "sourceYrcRow": 31,
+            "sourceStartMs": 96040,
+            "sourceEndMs": 98490,
+            "textVariant": true,
+            "independentForcedIntervals": [
+              [
+                104.22,
+                106.8,
+                0.521
+              ],
+              [
+                104.2,
+                106.8,
+                0.49
+              ]
+            ]
+          },
+          {
+            "row": 31,
+            "old": [
+              108.12,
+              110.42
+            ],
+            "new": [
+              107.153,
+              109.403
+            ],
+            "newUnits": 0,
+            "sourceYrcRow": 32,
+            "sourceStartMs": 98530,
+            "sourceEndMs": 100780,
+            "textVariant": true,
+            "independentForcedIntervals": [
+              [
+                106.8,
+                109.54,
+                0.605
+              ],
+              [
+                106.8,
+                109.54,
+                0.545
+              ]
+            ]
+          },
+          {
+            "row": 32,
+            "old": [
+              110.326949,
+              112.125824
+            ],
+            "new": [
+              109.543,
+              111.233
+            ],
+            "newUnits": 0,
+            "sourceYrcRow": 33,
+            "sourceStartMs": 100920,
+            "sourceEndMs": 102610,
+            "textVariant": true,
+            "independentForcedIntervals": [
+              [
+                109.54,
+                110.86,
+                0.601
+              ],
+              [
+                109.54,
+                110.86,
+                0.452
+              ]
+            ]
+          }
+        ],
+        "oldWordLines": 20,
+        "oldWordUnits": 216,
+        "newWordLines": 22,
+        "newWordUnits": 240
+      }
+    },
+    {
+      "musicId": 635,
+      "title": "ありのままのストーリーを",
+      "providers": {
+        "qqmusic": {
+          "queries": [],
+          "fetched": [
+            {
+              "id": "649508771",
+              "title": "ありのままのストーリーを (Our True Story)",
+              "artists": [
+                "MORE MORE JUMP！"
+              ],
+              "source_url": "https://y.qq.com/n/ryqq/songDetail/0004MnbX0Slpqn",
+              "actuallyFetched": true,
+              "retrieval": "本次从 yokohama 只读取得上次平台请求保存的逐字数据。",
+              "format": "qrc",
+              "wordUnits": 430,
+              "temporaryRawCapture": "yokohama:/data/watagashi/lyrics-alignment-trial/deliverables/qq-native-sources/sources/649508771/source.words.json",
+              "sha256": "b7aff98b1055ada7b8c47c9cebb4bf43659d2e4293fd665294023188a58341d0",
+              "rows": 38,
+              "decision": "used_verified",
+              "reason": "QRC 第 13 行完整保存「て」单元。依同一行的 10 个现有单元复原映射，与本地增强 LRC 的毫秒标签吻合。"
+            }
+          ]
+        },
+        "sekaipedia": {
+          "queries": [
+            {
+              "query": "Ari no Mama no Story o",
+              "status": "ok",
+              "url": "https://www.sekaipedia.org/wiki/Ari_no_Mama_no_Story_o?oldid=334918"
+            }
+          ],
+          "fetched": [
+            {
+              "id": "65169@334918",
+              "title": "ありのままのストーリーを",
+              "artists": [
+                "MORE MORE JUMP!",
+                "KAITO"
+              ],
+              "source_url": "https://www.sekaipedia.org/wiki/Ari_no_Mama_no_Story_o?oldid=334918",
+              "actuallyFetched": true,
+              "format": "MediaWiki HTML",
+              "wordUnits": 0,
+              "sha256": "212d32521d9fe05471b4dbf52c368fb117674c143adcd9a340d30136cceded99",
+              "decision": "verified_romaji",
+              "reason": "页面的罗马音包含 datte，与本地该句原有罗马音一致。"
+            }
+          ]
+        },
+        "utanet": {
+          "queries": [
+            {
+              "query": "ありのままのストーリーを 君とならどこまでだって",
+              "status": "ok",
+              "url": "https://www.uta-net.com/song/391458/?target=lyricist"
+            }
+          ],
+          "fetched": [
+            {
+              "id": "391458",
+              "title": "ありのままのストーリーを",
+              "artists": [
+                "MORE MORE JUMP!"
+              ],
+              "source_url": "https://www.uta-net.com/song/391458/?target=lyricist",
+              "actuallyFetched": true,
+              "format": "plain lyrics HTML",
+              "wordUnits": 0,
+              "decision": "verified_text",
+              "reason": "同一演唱阵容的歌词正文确认句末为「だって」。"
+            }
+          ]
+        },
+        "gameAudio": {
+          "queries": [],
+          "fetched": [
+            {
+              "id": "1659",
+              "title": "ありのままのストーリーを",
+              "artists": [
+                "花里みのり",
+                "桐谷遥",
+                "桃井愛莉",
+                "日野森雫",
+                "KAITO"
+              ],
+              "source_url": "https://assets-direct.unipjsk.com/ondemand/music/long/se_0635_01/se_0635_01.mp3",
+              "actuallyFetched": true,
+              "format": "game audio MP3",
+              "wordUnits": 0,
+              "sha256": "911686adfd124777f444340bad09d72812c12d58935b9201b208295d5ed5f593",
+              "assetbundle": "se_0635_01",
+              "vocalId": 1659,
+              "decision": "adopted_as_game_clock",
+              "reason": "游戏资产与现有增强 LRC 和 QRC 映射核对，补回已有原生时间的句末「て」。"
+            }
+          ]
+        }
+      },
+      "readingReview": {
+        "recordId": "0635-lyric-2026-11-15",
+        "romajiCheck": "本行罗马音已是 kimi to nara dokomade datte；修正文本索引后重跑罗马音。",
+        "row": 10,
+        "oldText": "君とならどこまでだっ",
+        "text": "君とならどこまでだって",
+        "restored": {
+          "from": 10,
+          "to": 11,
+          "start": 69.061413,
+          "end": 71.318715
+        },
+        "romaji": "kimi to nara dokomade datte",
+        "sourceQrcRow": 12,
+        "sourceStartMs": 60766,
+        "sourceEndMs": 63023,
+        "mapping": {
+          "sourceAnchorMs": 57658,
+          "gameAnchorSeconds": 65.952997,
+          "secondsPerSourceMillisecond": 0.0010001338481338499
+        },
+        "regeneration": "Janome 0.5.0 全仓库重跑，0 个播放 JSON 因罗马音改变而重写。"
+      }
+    },
+    {
+      "musicId": 645,
+      "title": "深海シティアンダーグラウンド",
+      "providers": {
+        "qqmusic": {
+          "queries": [],
+          "fetched": [
+            {
+              "id": "105566453",
+              "title": "深海シティアンダーグラウンド (深海地下都市)",
+              "artists": [
+                "镜音铃",
+                "田中B"
+              ],
+              "source_url": "https://y.qq.com/n/ryqq/songDetail/003gPUKr07Im8I",
+              "actuallyFetched": true,
+              "retrieval": "本次从 yokohama 只读取得上次平台请求保存的逐字数据。",
+              "format": "qrc",
+              "wordUnits": 771,
+              "temporaryRawCapture": "yokohama:/data/watagashi/lyrics-alignment-trial/deliverables/qq-native-sources/sources/105566453/source.words.json",
+              "sha256": "ef3cdf8971f6016e362e6de93aa9f9163f47d20a57814cfb554f6145909a8972",
+              "rows": 71,
+              "decision": "recording_version_mismatch",
+              "reason": "已保存的田中B／鏡音リン原唱 QRC，对应不同演唱录音及剪辑，未用于当前 Leo/need セカイ版。"
+            },
+            {
+              "id": "105585132",
+              "title": "深海シティアンダーグラウンド (深海地下都市)",
+              "artists": [
+                "田中B",
+                "镜音铃"
+              ],
+              "source_url": "https://y.qq.com/n/ryqq/songDetail/0019w2gE39Lt36",
+              "actuallyFetched": true,
+              "retrieval": "本次从 yokohama 只读取得上次平台请求保存的逐字数据。",
+              "format": "qrc",
+              "wordUnits": 585,
+              "temporaryRawCapture": "yokohama:/data/watagashi/lyrics-alignment-trial/deliverables/qq-native-sources/sources/105585132/source.words.json",
+              "sha256": "46397ba7fa17d9c42da339ebae290375c50bf5168440541ea3bf0f6763e8a91f",
+              "rows": 58,
+              "decision": "recording_version_mismatch",
+              "reason": "已保存的田中B／鏡音リン原唱 QRC，对应不同演唱录音及剪辑，未用于当前 Leo/need セカイ版。"
+            }
+          ]
+        },
+        "netease": {
+          "queries": [],
+          "fetched": [
+            {
+              "id": "3391367274",
+              "title": "深海シティアンダーグラウンド（Leo/need）",
+              "artists": [
+                "思深忧远"
+              ],
+              "duration": 123.245,
+              "source_url": "https://music.163.com/song?id=3391367274",
+              "requestUrl": "https://music.163.com/api/song/lyric/v1?id=3391367274&lv=-1&yv=-1&kv=-1",
+              "actuallyFetched": true,
+              "httpStatus": 200,
+              "responseCode": 200,
+              "format": "lrc",
+              "yrcPayloadReturned": false,
+              "wordUnits": 0,
+              "sha256": "cbab13895d87250285139335aff679ced3d7b93c4f6fa02619f8e676f97f200d",
+              "decision": "replaced",
+              "reason": "已重拉旧源，音频与游戏录音波形相符，歌词数据却把译文、罗马音与歌词混在同一条 LRC，有压缩和重复副歌定位错误。",
+              "audioCheck": {
+                "downloaded": true,
+                "audioSha256": "1445ae2cf26be8ba1fb939a80d0b32d2bd517d4722472ab99d8255bdc17d1109",
+                "requestUrl": "https://music.163.com/api/song/enhance/player/url?id=3391367274&ids=%5B3391367274%5D&br=320000",
+                "matchWindowCount": 30,
+                "sourceMinusGameSeconds": [
+                  -8.38975,
+                  -8.3835
+                ],
+                "medianNormalizedWaveformCorrelation": 0.95683
+              }
+            },
+            {
+              "id": "1376647109",
+              "title": "深海シティアンダーグラウンド",
+              "artists": [
+                "田中B",
+                "鏡音リン"
+              ],
+              "duration": 277.7,
+              "source_url": "https://music.163.com/song?id=1376647109",
+              "requestUrl": "https://music.163.com/api/song/lyric/v1?id=1376647109&lv=-1&yv=-1&kv=-1",
+              "actuallyFetched": true,
+              "httpStatus": 200,
+              "responseCode": 200,
+              "format": "yrc",
+              "yrcPayloadReturned": true,
+              "wordUnits": 744,
+              "sha256": "2fe60f750e69a9e2adb6403f29d7eceae42051445518c354be8fc6021a11c2f0",
+              "decision": "recording_version_mismatch",
+              "reason": "田中B／鏡音リン的 277.7 秒完整版 YRC；歌词和剪辑都与现有的 Leo/need 游戏版不同。"
+            }
+          ]
+        },
+        "lrclib": {
+          "queries": [
+            {
+              "query": "深海シティアンダーグラウンド",
+              "url": "https://lrclib.net/api/search?track_name=%E6%B7%B1%E6%B5%B7%E3%82%B7%E3%83%86%E3%82%A3%E3%82%A2%E3%83%B3%E3%83%80%E3%83%BC%E3%82%B0%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89",
+              "status": "ok",
+              "httpStatus": 200,
+              "responseSha256": "154e7f049035e49f5a3f5e768ed05d9a6b5cf1bfb09b3a5c9a8ea98f782f0d00",
+              "hits": [
+                {
+                  "id": "29408193",
+                  "title": "深海シティアンダーグラウンド",
+                  "artists": [
+                    "田中B feat. 鏡音リン"
+                  ],
+                  "album": "EXIT TUNES PRESENTS Kagaminext feat. 鏡音リン、鏡音レン",
+                  "duration": 279.0,
+                  "source_url": "https://lrclib.net/api/get/29408193"
+                },
+                {
+                  "id": "29946043",
+                  "title": "深海シティアンダーグラウンド",
+                  "artists": [
+                    "田中B"
+                  ],
+                  "album": "SOUND VOLTEX",
+                  "duration": 131.0,
+                  "source_url": "https://lrclib.net/api/get/29946043"
+                },
+                {
+                  "id": "30053038",
+                  "title": "深海シティアンダーグラウンド",
+                  "artists": [
+                    "田中B"
+                  ],
+                  "album": "初音ミク -Project DIVA Arcade- Original Song Collection Vol.3",
+                  "duration": 201.0,
+                  "source_url": "https://lrclib.net/api/get/30053038"
+                },
+                {
+                  "id": "31309065",
+                  "title": "深海シティアンダーグラウンド",
+                  "artists": [
+                    "田中B"
+                  ],
+                  "album": "Hatsune Miku Project DIVA Arcade Original Song Collection Vol. 3",
+                  "duration": 202.0,
+                  "source_url": "https://lrclib.net/api/get/31309065"
+                },
+                {
+                  "id": "31155678",
+                  "title": "深海シティアンダーグラウンド",
+                  "artists": [
+                    "田中B"
+                  ],
+                  "album": "深海シティアンダーグラウンド",
+                  "duration": 278.0,
+                  "source_url": "https://lrclib.net/api/get/31155678"
+                },
+                {
+                  "id": "17815618",
+                  "title": "深海シティアンダーグラウンド",
+                  "artists": [
+                    "田中B feat. 鏡音リン"
+                  ],
+                  "album": "EXIT TUNES PRESENTS Vocalogemini",
+                  "duration": 278.0,
+                  "source_url": "https://lrclib.net/api/get/17815618"
+                },
+                {
+                  "id": "16428167",
+                  "title": "深海シティアンダーグラウンド",
+                  "artists": [
+                    "田中B"
+                  ],
+                  "album": "EXIT TUNES PRESENTS Vocalogemini feat. Kagamine Rin, Kagamine Len",
+                  "duration": 277.733878,
+                  "source_url": "https://lrclib.net/api/get/16428167"
+                },
+                {
+                  "id": "17257535",
+                  "title": "深海シティアンダーグラウンド",
+                  "artists": [
+                    "田中B feat. 鏡音リン"
+                  ],
+                  "album": "初音ミク「マジカルミライ 2019」OFFICIAL ALBUM",
+                  "duration": 278.0,
+                  "source_url": "https://lrclib.net/api/get/17257535"
+                },
+                {
+                  "id": "14950255",
+                  "title": "深海シティアンダーグラウンド",
+                  "artists": [
+                    "Various"
+                  ],
+                  "album": "Magical Mirai 2019",
+                  "duration": 278.0266669,
+                  "source_url": "https://lrclib.net/api/get/14950255"
+                },
+                {
+                  "id": "13498305",
+                  "title": "深海シティアンダーグラウンド",
+                  "artists": [
+                    "tanaka B"
+                  ],
+                  "album": "Kagaminext feat. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―",
+                  "duration": 279.0,
+                  "source_url": "https://lrclib.net/api/get/13498305"
+                },
+                {
+                  "id": "23385673",
+                  "title": "深海シティアンダーグラウンド",
+                  "artists": [
+                    "EXIT TUNES"
+                  ],
+                  "album": "EXIT TUNES PRESENTS Vocalogemini",
+                  "duration": 277.733878,
+                  "source_url": "https://lrclib.net/api/get/23385673"
+                },
+                {
+                  "id": "11095869",
+                  "title": "深海シティアンダーグラウンド",
+                  "artists": [
+                    "田中B; 鏡音リン"
+                  ],
+                  "album": "EXIT TUNES PRESENTS Vocalogemini",
+                  "duration": 278.0,
+                  "source_url": "https://lrclib.net/api/get/11095869"
+                },
+                {
+                  "id": "11191991",
+                  "title": "深海シティアンダーグラウンド",
+                  "artists": [
+                    "田中B; 鏡音リン"
+                  ],
+                  "album": "EXIT TUNES PRESENTS Kagaminext -10th ANNIVERSARY BEST-",
+                  "duration": 279.0,
+                  "source_url": "https://lrclib.net/api/get/11191991"
+                },
+                {
+                  "id": "11521367",
+                  "title": "深海シティアンダーグラウンド",
+                  "artists": [
+                    "tanaka B"
+                  ],
+                  "album": "深海シティアンダーグラウンド",
+                  "duration": 278.0,
+                  "source_url": "https://lrclib.net/api/get/11521367"
+                },
+                {
+                  "id": "11632392",
+                  "title": "深海シティアンダーグラウンド",
+                  "artists": [
+                    "田中B"
+                  ],
+                  "album": "EXIT TUNES PRESENTS Kagaminext -10th ANNIVERSARY BEST-",
+                  "duration": 279.0,
+                  "source_url": "https://lrclib.net/api/get/11632392"
+                },
+                {
+                  "id": "12327466",
+                  "title": "深海シティアンダーグラウンド",
+                  "artists": [
+                    "田中B"
+                  ],
+                  "album": "EXIT TUNES PRESENTS Vocalogemini",
+                  "duration": 277.0,
+                  "source_url": "https://lrclib.net/api/get/12327466"
+                },
+                {
+                  "id": "9583252",
+                  "title": "深海シティアンダーグラウンド",
+                  "artists": [
+                    "田中B feat. しゃむおん"
+                  ],
+                  "album": "EXIT TUNES ACADEMY BEST",
+                  "duration": 276.0,
+                  "source_url": "https://lrclib.net/api/get/9583252"
+                },
+                {
+                  "id": "9413323",
+                  "title": "深海シティアンダーグラウンド",
+                  "artists": [
+                    "田中B feat. 鏡音リン"
+                  ],
+                  "album": "EXIT TUNES PRESENTS Kagaminext -10th ANNIVERSARY BEST-",
+                  "duration": 279.0,
+                  "source_url": "https://lrclib.net/api/get/9413323"
+                },
+                {
+                  "id": "9677482",
+                  "title": "深海シティアンダーグラウンド",
+                  "artists": [
+                    "灯油"
+                  ],
+                  "album": "ビビッドカラーズ～灯油ベスト～",
+                  "duration": 279.0,
+                  "source_url": "https://lrclib.net/api/get/9677482"
+                },
+                {
+                  "id": "33398474",
+                  "title": "深海シティアンダーグラウンド",
+                  "artists": [
+                    "田中B feat. 鏡音リン"
+                  ],
+                  "album": "Kagaminext feat. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―",
+                  "duration": 279.0,
+                  "source_url": "https://lrclib.net/api/get/33398474"
+                }
+              ]
+            }
+          ],
+          "fetched": [
+            {
+              "id": "29408193",
+              "title": "深海シティアンダーグラウンド",
+              "artists": [
+                "田中B feat. 鏡音リン"
+              ],
+              "album": "EXIT TUNES PRESENTS Kagaminext feat. 鏡音リン、鏡音レン",
+              "duration": 279.0,
+              "source_url": "https://lrclib.net/api/get/29408193",
+              "actuallyFetched": true,
+              "retrieval": "search response lyric payload",
+              "format": "lrc",
+              "wordUnits": 0,
+              "timedRows": 67,
+              "lastCueSeconds": 276.44,
+              "decision": "not_adopted",
+              "reason": "录音、剪辑或时间轴与 Leo/need 游戏版未能核实，未采用。"
+            },
+            {
+              "id": "29946043",
+              "title": "深海シティアンダーグラウンド",
+              "artists": [
+                "田中B"
+              ],
+              "album": "SOUND VOLTEX",
+              "duration": 131.0,
+              "source_url": "https://lrclib.net/api/get/29946043",
+              "actuallyFetched": true,
+              "retrieval": "search response lyric payload",
+              "format": "lrc",
+              "wordUnits": 0,
+              "timedRows": 56,
+              "lastCueSeconds": 240.97,
+              "decision": "not_adopted",
+              "reason": "LRC 有大量时间点超过记录标注时长，短版标签无法证明对应游戏剪辑。"
+            },
+            {
+              "id": "30053038",
+              "title": "深海シティアンダーグラウンド",
+              "artists": [
+                "田中B"
+              ],
+              "album": "初音ミク -Project DIVA Arcade- Original Song Collection Vol.3",
+              "duration": 201.0,
+              "source_url": "https://lrclib.net/api/get/30053038",
+              "actuallyFetched": true,
+              "retrieval": "search response lyric payload",
+              "format": "lrc",
+              "wordUnits": 0,
+              "timedRows": 56,
+              "lastCueSeconds": 240.97,
+              "decision": "not_adopted",
+              "reason": "LRC 有大量时间点超过记录标注时长，短版标签无法证明对应游戏剪辑。"
+            },
+            {
+              "id": "31309065",
+              "title": "深海シティアンダーグラウンド",
+              "artists": [
+                "田中B"
+              ],
+              "album": "Hatsune Miku Project DIVA Arcade Original Song Collection Vol. 3",
+              "duration": 202.0,
+              "source_url": "https://lrclib.net/api/get/31309065",
+              "actuallyFetched": true,
+              "retrieval": "search response lyric payload",
+              "format": "lrc",
+              "wordUnits": 0,
+              "timedRows": 56,
+              "lastCueSeconds": 240.97,
+              "decision": "not_adopted",
+              "reason": "LRC 有大量时间点超过记录标注时长，短版标签无法证明对应游戏剪辑。"
+            },
+            {
+              "id": "31155678",
+              "title": "深海シティアンダーグラウンド",
+              "artists": [
+                "田中B"
+              ],
+              "album": "深海シティアンダーグラウンド",
+              "duration": 278.0,
+              "source_url": "https://lrclib.net/api/get/31155678",
+              "actuallyFetched": true,
+              "retrieval": "search response lyric payload",
+              "format": "lrc",
+              "wordUnits": 0,
+              "timedRows": 56,
+              "lastCueSeconds": 240.97,
+              "decision": "not_adopted",
+              "reason": "录音、剪辑或时间轴与 Leo/need 游戏版未能核实，未采用。"
+            },
+            {
+              "id": "17815618",
+              "title": "深海シティアンダーグラウンド",
+              "artists": [
+                "田中B feat. 鏡音リン"
+              ],
+              "album": "EXIT TUNES PRESENTS Vocalogemini",
+              "duration": 278.0,
+              "source_url": "https://lrclib.net/api/get/17815618",
+              "actuallyFetched": true,
+              "retrieval": "search response lyric payload",
+              "format": "lrc",
+              "wordUnits": 0,
+              "timedRows": 67,
+              "lastCueSeconds": 240.93,
+              "decision": "not_adopted",
+              "reason": "录音、剪辑或时间轴与 Leo/need 游戏版未能核实，未采用。"
+            },
+            {
+              "id": "16428167",
+              "title": "深海シティアンダーグラウンド",
+              "artists": [
+                "田中B"
+              ],
+              "album": "EXIT TUNES PRESENTS Vocalogemini feat. Kagamine Rin, Kagamine Len",
+              "duration": 277.733878,
+              "source_url": "https://lrclib.net/api/get/16428167",
+              "actuallyFetched": true,
+              "retrieval": "search response lyric payload",
+              "format": "lrc",
+              "wordUnits": 0,
+              "timedRows": 56,
+              "lastCueSeconds": 240.97,
+              "decision": "not_adopted",
+              "reason": "录音、剪辑或时间轴与 Leo/need 游戏版未能核实，未采用。"
+            },
+            {
+              "id": "17257535",
+              "title": "深海シティアンダーグラウンド",
+              "artists": [
+                "田中B feat. 鏡音リン"
+              ],
+              "album": "初音ミク「マジカルミライ 2019」OFFICIAL ALBUM",
+              "duration": 278.0,
+              "source_url": "https://lrclib.net/api/get/17257535",
+              "actuallyFetched": true,
+              "retrieval": "search response lyric payload",
+              "format": "lrc",
+              "wordUnits": 0,
+              "timedRows": 67,
+              "lastCueSeconds": 240.93,
+              "decision": "not_adopted",
+              "reason": "录音、剪辑或时间轴与 Leo/need 游戏版未能核实，未采用。"
+            },
+            {
+              "id": "14950255",
+              "title": "深海シティアンダーグラウンド",
+              "artists": [
+                "Various"
+              ],
+              "album": "Magical Mirai 2019",
+              "duration": 278.0266669,
+              "source_url": "https://lrclib.net/api/get/14950255",
+              "actuallyFetched": true,
+              "retrieval": "search response lyric payload",
+              "format": "lrc",
+              "wordUnits": 0,
+              "timedRows": 56,
+              "lastCueSeconds": 240.97,
+              "decision": "not_adopted",
+              "reason": "录音、剪辑或时间轴与 Leo/need 游戏版未能核实，未采用。"
+            },
+            {
+              "id": "13498305",
+              "title": "深海シティアンダーグラウンド",
+              "artists": [
+                "tanaka B"
+              ],
+              "album": "Kagaminext feat. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―",
+              "duration": 279.0,
+              "source_url": "https://lrclib.net/api/get/13498305",
+              "actuallyFetched": true,
+              "retrieval": "search response lyric payload",
+              "format": "lrc",
+              "wordUnits": 0,
+              "timedRows": 56,
+              "lastCueSeconds": 240.97,
+              "decision": "not_adopted",
+              "reason": "录音、剪辑或时间轴与 Leo/need 游戏版未能核实，未采用。"
+            },
+            {
+              "id": "23385673",
+              "title": "深海シティアンダーグラウンド",
+              "artists": [
+                "EXIT TUNES"
+              ],
+              "album": "EXIT TUNES PRESENTS Vocalogemini",
+              "duration": 277.733878,
+              "source_url": "https://lrclib.net/api/get/23385673",
+              "actuallyFetched": true,
+              "retrieval": "search response lyric payload",
+              "format": "lrc",
+              "wordUnits": 0,
+              "timedRows": 57,
+              "lastCueSeconds": 240.94,
+              "decision": "not_adopted",
+              "reason": "录音、剪辑或时间轴与 Leo/need 游戏版未能核实，未采用。"
+            },
+            {
+              "id": "11095869",
+              "title": "深海シティアンダーグラウンド",
+              "artists": [
+                "田中B; 鏡音リン"
+              ],
+              "album": "EXIT TUNES PRESENTS Vocalogemini",
+              "duration": 278.0,
+              "source_url": "https://lrclib.net/api/get/11095869",
+              "actuallyFetched": true,
+              "retrieval": "search response lyric payload",
+              "format": "lrc",
+              "wordUnits": 0,
+              "timedRows": 67,
+              "lastCueSeconds": 240.93,
+              "decision": "not_adopted",
+              "reason": "录音、剪辑或时间轴与 Leo/need 游戏版未能核实，未采用。"
+            },
+            {
+              "id": "11191991",
+              "title": "深海シティアンダーグラウンド",
+              "artists": [
+                "田中B; 鏡音リン"
+              ],
+              "album": "EXIT TUNES PRESENTS Kagaminext -10th ANNIVERSARY BEST-",
+              "duration": 279.0,
+              "source_url": "https://lrclib.net/api/get/11191991",
+              "actuallyFetched": true,
+              "retrieval": "search response lyric payload",
+              "format": "lrc",
+              "wordUnits": 0,
+              "timedRows": 67,
+              "lastCueSeconds": 276.44,
+              "decision": "not_adopted",
+              "reason": "录音、剪辑或时间轴与 Leo/need 游戏版未能核实，未采用。"
+            },
+            {
+              "id": "11521367",
+              "title": "深海シティアンダーグラウンド",
+              "artists": [
+                "tanaka B"
+              ],
+              "album": "深海シティアンダーグラウンド",
+              "duration": 278.0,
+              "source_url": "https://lrclib.net/api/get/11521367",
+              "actuallyFetched": true,
+              "retrieval": "search response lyric payload",
+              "format": "lrc",
+              "wordUnits": 0,
+              "timedRows": 56,
+              "lastCueSeconds": 240.97,
+              "decision": "not_adopted",
+              "reason": "录音、剪辑或时间轴与 Leo/need 游戏版未能核实，未采用。"
+            },
+            {
+              "id": "11632392",
+              "title": "深海シティアンダーグラウンド",
+              "artists": [
+                "田中B"
+              ],
+              "album": "EXIT TUNES PRESENTS Kagaminext -10th ANNIVERSARY BEST-",
+              "duration": 279.0,
+              "source_url": "https://lrclib.net/api/get/11632392",
+              "actuallyFetched": true,
+              "retrieval": "search response lyric payload",
+              "format": "lrc",
+              "wordUnits": 0,
+              "timedRows": 56,
+              "lastCueSeconds": 240.97,
+              "decision": "not_adopted",
+              "reason": "录音、剪辑或时间轴与 Leo/need 游戏版未能核实，未采用。"
+            },
+            {
+              "id": "12327466",
+              "title": "深海シティアンダーグラウンド",
+              "artists": [
+                "田中B"
+              ],
+              "album": "EXIT TUNES PRESENTS Vocalogemini",
+              "duration": 277.0,
+              "source_url": "https://lrclib.net/api/get/12327466",
+              "actuallyFetched": true,
+              "retrieval": "search response lyric payload",
+              "format": "plain_text",
+              "wordUnits": 0,
+              "timedRows": 0,
+              "lastCueSeconds": null,
+              "decision": "no_timed_lyric",
+              "reason": "搜索接口只返回普通歌词或空歌词，没有逐句轴。"
+            },
+            {
+              "id": "9583252",
+              "title": "深海シティアンダーグラウンド",
+              "artists": [
+                "田中B feat. しゃむおん"
+              ],
+              "album": "EXIT TUNES ACADEMY BEST",
+              "duration": 276.0,
+              "source_url": "https://lrclib.net/api/get/9583252",
+              "actuallyFetched": true,
+              "retrieval": "search response lyric payload",
+              "format": "lrc",
+              "wordUnits": 0,
+              "timedRows": 56,
+              "lastCueSeconds": 274.3,
+              "decision": "not_adopted",
+              "reason": "录音、剪辑或时间轴与 Leo/need 游戏版未能核实，未采用。"
+            },
+            {
+              "id": "9413323",
+              "title": "深海シティアンダーグラウンド",
+              "artists": [
+                "田中B feat. 鏡音リン"
+              ],
+              "album": "EXIT TUNES PRESENTS Kagaminext -10th ANNIVERSARY BEST-",
+              "duration": 279.0,
+              "source_url": "https://lrclib.net/api/get/9413323",
+              "actuallyFetched": true,
+              "retrieval": "search response lyric payload",
+              "format": "lrc",
+              "wordUnits": 0,
+              "timedRows": 67,
+              "lastCueSeconds": 276.44,
+              "decision": "not_adopted",
+              "reason": "录音、剪辑或时间轴与 Leo/need 游戏版未能核实，未采用。"
+            },
+            {
+              "id": "9677482",
+              "title": "深海シティアンダーグラウンド",
+              "artists": [
+                "灯油"
+              ],
+              "album": "ビビッドカラーズ～灯油ベスト～",
+              "duration": 279.0,
+              "source_url": "https://lrclib.net/api/get/9677482",
+              "actuallyFetched": true,
+              "retrieval": "search response lyric payload",
+              "format": "lrc",
+              "wordUnits": 0,
+              "timedRows": 56,
+              "lastCueSeconds": 240.97,
+              "decision": "not_adopted",
+              "reason": "录音、剪辑或时间轴与 Leo/need 游戏版未能核实，未采用。"
+            },
+            {
+              "id": "33398474",
+              "title": "深海シティアンダーグラウンド",
+              "artists": [
+                "田中B feat. 鏡音リン"
+              ],
+              "album": "Kagaminext feat. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―",
+              "duration": 279.0,
+              "source_url": "https://lrclib.net/api/get/33398474",
+              "actuallyFetched": true,
+              "retrieval": "search response lyric payload",
+              "format": "lrc",
+              "wordUnits": 0,
+              "timedRows": 67,
+              "lastCueSeconds": 276.44,
+              "decision": "not_adopted",
+              "reason": "录音、剪辑或时间轴与 Leo/need 游戏版未能核实，未采用。"
+            }
+          ]
+        },
+        "gameAudio": {
+          "queries": [],
+          "fetched": [
+            {
+              "id": "1681",
+              "title": "深海シティアンダーグラウンド",
+              "artists": [
+                "星乃一歌",
+                "天馬咲希",
+                "望月穂波",
+                "日野森志歩",
+                "鏡音リン"
+              ],
+              "source_url": "https://assets-direct.unipjsk.com/ondemand/music/long/se_0645_01/se_0645_01.mp3",
+              "actuallyFetched": true,
+              "format": "game audio MP3",
+              "wordUnits": 0,
+              "sha256": "ccfcff27d4e4fc0d830fdfdecab2ac91ef00fe5a004ae5d900915c3033ee8d70",
+              "assetbundle": "se_0645_01",
+              "vocalId": 1681,
+              "decision": "adopted_as_game_clock",
+              "reason": "默认セカイ版 se_0645_01。分窗独立识别和逐句强制对齐复核，采用游戏音频上观察到的 27 行显示区间。"
+            }
+          ]
+        },
+        "web": {
+          "queries": [
+            {
+              "query": "深海シティアンダーグラウンド 田中B Project SEKAI ゲームサイズ Typing Tube",
+              "status": "ok",
+              "hits": [
+                {
+                  "id": "71966",
+                  "url": "https://keytube.net/song/typing/71966",
+                  "title": "深海シティアンダーグラウンド",
+                  "artists": [
+                    "田中B",
+                    "鏡音リン"
+                  ],
+                  "decision": "原唱版本候选，未拉计时"
+                }
+              ]
+            },
+            {
+              "query": "深海シティアンダーグラウンド Leo/need アルバム 配信",
+              "status": "ok",
+              "hits": [
+                {
+                  "id": "BRMM-11124",
+                  "url": "https://bushiroad-music.com/musics/brmm-11124/",
+                  "title": "Leo/need SEKAI ALBUM vol.4",
+                  "artists": [
+                    "Leo/need"
+                  ],
+                  "decision": "发行方页面写明 2027-04-21 发行，未采用专辑候选"
+                }
+              ]
+            }
+          ],
+          "fetched": []
+        }
+      },
+      "nextStep": "沿用 se_0645_01 音频重新核对的逐句轴。补逐字需找到同录音和剪辑，已否决的原唱逐字候选保留历史。",
+      "timingReview": {
+        "historicalReport": "reports/end-calibration-2026-11.json",
+        "masterVersion": "7.1.0.60",
+        "officialVocalIds": [
+          1202,
+          1681
+        ],
+        "providerVersionRechecked": {
+          "recordId": "3391367274",
+          "format": "lrc",
+          "historicalLrc": "yokohama:/data/watagashi/lyrics-alignment-trial/round3/stage/song-lyrics-v3/songs/0645/source-snapshot/source.lrc",
+          "historicalLrcSha256": "08d5ec3320d32b84caf18fb602faa1c4437dad15071d0ba57c4c5e67067f839a",
+          "waveformMethod": "3-second normalized waveform cross-correlation at 4000 Hz every 4 seconds",
+          "waveformMatches": [
+            {
+              "gameWindowStart": 10,
+              "sourceMinusGame": -8.38975,
+              "score": 0.98326
+            },
+            {
+              "gameWindowStart": 14,
+              "sourceMinusGame": -8.3895,
+              "score": 0.99449
+            },
+            {
+              "gameWindowStart": 18,
+              "sourceMinusGame": -8.38925,
+              "score": 0.98099
+            },
+            {
+              "gameWindowStart": 22,
+              "sourceMinusGame": -8.389,
+              "score": 0.96891
+            },
+            {
+              "gameWindowStart": 26,
+              "sourceMinusGame": -8.389,
+              "score": 0.9439
+            },
+            {
+              "gameWindowStart": 30,
+              "sourceMinusGame": -8.38875,
+              "score": 0.95461
+            },
+            {
+              "gameWindowStart": 34,
+              "sourceMinusGame": -8.3885,
+              "score": 0.97048
+            },
+            {
+              "gameWindowStart": 38,
+              "sourceMinusGame": -8.38825,
+              "score": 0.9788
+            },
+            {
+              "gameWindowStart": 42,
+              "sourceMinusGame": -8.388,
+              "score": 0.98005
+            },
+            {
+              "gameWindowStart": 46,
+              "sourceMinusGame": -8.38775,
+              "score": 0.95818
+            },
+            {
+              "gameWindowStart": 50,
+              "sourceMinusGame": -8.3875,
+              "score": 0.95548
+            },
+            {
+              "gameWindowStart": 54,
+              "sourceMinusGame": -8.3875,
+              "score": 0.91611
+            },
+            {
+              "gameWindowStart": 58,
+              "sourceMinusGame": -8.38725,
+              "score": 0.92857
+            },
+            {
+              "gameWindowStart": 62,
+              "sourceMinusGame": -8.387,
+              "score": 0.97516
+            },
+            {
+              "gameWindowStart": 66,
+              "sourceMinusGame": -8.38675,
+              "score": 0.98675
+            },
+            {
+              "gameWindowStart": 70,
+              "sourceMinusGame": -8.3865,
+              "score": 0.95124
+            },
+            {
+              "gameWindowStart": 74,
+              "sourceMinusGame": -8.38625,
+              "score": 0.95274
+            },
+            {
+              "gameWindowStart": 78,
+              "sourceMinusGame": -8.386,
+              "score": 0.84045
+            },
+            {
+              "gameWindowStart": 82,
+              "sourceMinusGame": -8.386,
+              "score": 0.74849
+            },
+            {
+              "gameWindowStart": 86,
+              "sourceMinusGame": -8.38575,
+              "score": 0.79812
+            },
+            {
+              "gameWindowStart": 90,
+              "sourceMinusGame": -8.3855,
+              "score": 0.94239
+            },
+            {
+              "gameWindowStart": 94,
+              "sourceMinusGame": -8.38525,
+              "score": 0.97879
+            },
+            {
+              "gameWindowStart": 98,
+              "sourceMinusGame": -8.385,
+              "score": 0.93943
+            },
+            {
+              "gameWindowStart": 102,
+              "sourceMinusGame": -8.38475,
+              "score": 0.84462
+            },
+            {
+              "gameWindowStart": 106,
+              "sourceMinusGame": -8.3845,
+              "score": 0.90957
+            },
+            {
+              "gameWindowStart": 110,
+              "sourceMinusGame": -8.3845,
+              "score": 0.78679
+            },
+            {
+              "gameWindowStart": 114,
+              "sourceMinusGame": -8.38425,
+              "score": 0.97824
+            },
+            {
+              "gameWindowStart": 118,
+              "sourceMinusGame": -8.384,
+              "score": 0.98761
+            },
+            {
+              "gameWindowStart": 122,
+              "sourceMinusGame": -8.38375,
+              "score": 0.98887
+            },
+            {
+              "gameWindowStart": 126,
+              "sourceMinusGame": -8.3835,
+              "score": 0.98558
+            }
+          ]
+        },
+        "alignmentMethod": "游戏音频分窗独立识别提供首句和歌段锚点。已知歌词在重叠的窗口内做文本强制对齐，按实际顺序复核副歌的各次出现，连续歌词的句尾贴近后句起点。",
+        "recognitionModel": "faster-whisper small int8, overlapping <=27 s excerpts and forced matching",
+        "independentRecognitionAnchors": [
+          {
+            "row": 0,
+            "start": 25.5,
+            "end": 28.2
+          },
+          {
+            "row": 2,
+            "start": 31.2,
+            "end": 33.92
+          },
+          {
+            "row": 15,
+            "start": 67.92,
+            "end": 71.62
+          },
+          {
+            "row": 19,
+            "start": 79.34,
+            "end": 82.84
+          },
+          {
+            "row": 23,
+            "start": 90.58,
+            "end": 94.1
+          },
+          {
+            "row": 26,
+            "start": 99.82,
+            "end": 101.84
+          }
+        ],
+        "rows": [
+          {
+            "row": 0,
+            "old": [
+              21.537,
+              25.777
+            ],
+            "new": [
+              25.5,
+              28.22
+            ],
+            "newUnits": 0,
+            "independentForcedIntervals": []
+          },
+          {
+            "row": 1,
+            "old": [
+              27.817,
+              28.537
+            ],
+            "new": [
+              28.22,
+              31.24
+            ],
+            "newUnits": 0,
+            "independentForcedIntervals": [
+              [
+                28.22,
+                31.26,
+                0.72
+              ]
+            ]
+          },
+          {
+            "row": 2,
+            "old": [
+              29.057,
+              29.377
+            ],
+            "new": [
+              31.24,
+              33.94
+            ],
+            "newUnits": 0,
+            "independentForcedIntervals": [
+              [
+                31.26,
+                33.92,
+                0.671
+              ],
+              [
+                31.22,
+                33.94,
+                0.686
+              ]
+            ]
+          },
+          {
+            "row": 3,
+            "old": [
+              30.577,
+              31.097
+            ],
+            "new": [
+              33.94,
+              36.92
+            ],
+            "newUnits": 0,
+            "independentForcedIntervals": [
+              [
+                33.92,
+                36.9,
+                0.596
+              ],
+              [
+                33.94,
+                36.92,
+                0.636
+              ]
+            ]
+          },
+          {
+            "row": 4,
+            "old": [
+              32.337,
+              32.937
+            ],
+            "new": [
+              36.92,
+              39.74
+            ],
+            "newUnits": 0,
+            "independentForcedIntervals": [
+              [
+                36.9,
+                39.7,
+                0.58
+              ],
+              [
+                36.92,
+                39.8,
+                0.734
+              ]
+            ]
+          },
+          {
+            "row": 5,
+            "old": [
+              33.457,
+              33.777
+            ],
+            "new": [
+              39.74,
+              42.42
+            ],
+            "newUnits": 0,
+            "independentForcedIntervals": [
+              [
+                39.8,
+                42.4,
+                0.332
+              ],
+              [
+                39.74,
+                42.42,
+                0.314
+              ]
+            ]
+          },
+          {
+            "row": 6,
+            "old": [
+              34.497,
+              34.897
+            ],
+            "new": [
+              42.42,
+              45.26
+            ],
+            "newUnits": 0,
+            "independentForcedIntervals": [
+              [
+                42.4,
+                45.26,
+                0.662
+              ],
+              [
+                42.42,
+                45.28,
+                0.641
+              ]
+            ]
+          },
+          {
+            "row": 7,
+            "old": [
+              35.377,
+              35.657
+            ],
+            "new": [
+              45.26,
+              48.2
+            ],
+            "newUnits": 0,
+            "independentForcedIntervals": [
+              [
+                45.26,
+                48.18,
+                0.543
+              ],
+              [
+                45.28,
+                48.18,
+                0.522
+              ]
+            ]
+          },
+          {
+            "row": 8,
+            "old": [
+              36.257,
+              37.177
+            ],
+            "new": [
+              48.2,
+              50.76
+            ],
+            "newUnits": 0,
+            "independentForcedIntervals": [
+              [
+                48.18,
+                50.74,
+                0.56
+              ]
+            ]
+          },
+          {
+            "row": 9,
+            "old": [
+              36.257,
+              37.177
+            ],
+            "new": [
+              50.76,
+              53.84
+            ],
+            "newUnits": 0,
+            "independentForcedIntervals": [
+              [
+                50.74,
+                53.78,
+                0.653
+              ],
+              [
+                50.76,
+                53.82,
+                0.605
+              ]
+            ]
+          },
+          {
+            "row": 10,
+            "old": [
+              38.377,
+              39.457
+            ],
+            "new": [
+              53.84,
+              55.3
+            ],
+            "newUnits": 0,
+            "independentForcedIntervals": [
+              [
+                53.78,
+                55.28,
+                0.549
+              ],
+              [
+                53.82,
+                55.32,
+                0.457
+              ]
+            ]
+          },
+          {
+            "row": 11,
+            "old": [
+              38.377,
+              39.457
+            ],
+            "new": [
+              55.3,
+              58.88
+            ],
+            "newUnits": 0,
+            "independentForcedIntervals": [
+              [
+                55.28,
+                58.38,
+                0.736
+              ],
+              [
+                55.32,
+                58.88,
+                0.65
+              ]
+            ]
+          },
+          {
+            "row": 12,
+            "old": [
+              40.697,
+              41.537
+            ],
+            "new": [
+              58.88,
+              63.38
+            ],
+            "newUnits": 0,
+            "independentForcedIntervals": [
+              [
+                58.88,
+                63.38,
+                0.577
+              ]
+            ]
+          },
+          {
+            "row": 13,
+            "old": [
+              40.697,
+              41.537
+            ],
+            "new": [
+              63.38,
+              65.24
+            ],
+            "newUnits": 0,
+            "independentForcedIntervals": [
+              [
+                63.38,
+                65.12,
+                0.634
+              ],
+              [
+                63.38,
+                64.98,
+                0.635
+              ]
+            ]
+          },
+          {
+            "row": 14,
+            "old": [
+              42.617,
+              43.017
+            ],
+            "new": [
+              65.24,
+              67.76
+            ],
+            "newUnits": 0,
+            "independentForcedIntervals": [
+              [
+                65.12,
+                67.58,
+                0.442
+              ],
+              [
+                64.98,
+                67.72,
+                0.419
+              ]
+            ]
+          },
+          {
+            "row": 15,
+            "old": [
+              44.057,
+              44.977
+            ],
+            "new": [
+              67.76,
+              71.58
+            ],
+            "newUnits": 0,
+            "independentForcedIntervals": [
+              [
+                67.72,
+                71.58,
+                0.493
+              ]
+            ]
+          },
+          {
+            "row": 16,
+            "old": [
+              45.457,
+              45.897
+            ],
+            "new": [
+              71.58,
+              74.13
+            ],
+            "newUnits": 0,
+            "independentForcedIntervals": [
+              [
+                71.58,
+                74.14,
+                0.55
+              ],
+              [
+                71.58,
+                74.12,
+                0.568
+              ]
+            ]
+          },
+          {
+            "row": 17,
+            "old": [
+              50.937,
+              51.457
+            ],
+            "new": [
+              74.13,
+              77.24
+            ],
+            "newUnits": 0,
+            "independentForcedIntervals": [
+              [
+                74.14,
+                77.28,
+                0.915
+              ],
+              [
+                74.12,
+                77.24,
+                0.912
+              ]
+            ]
+          },
+          {
+            "row": 18,
+            "old": [
+              52.637,
+              53.217
+            ],
+            "new": [
+              77.24,
+              79.4
+            ],
+            "newUnits": 0,
+            "independentForcedIntervals": [
+              [
+                77.28,
+                78.62,
+                0.298
+              ],
+              [
+                77.24,
+                79.42,
+                0.363
+              ]
+            ]
+          },
+          {
+            "row": 19,
+            "old": [
+              88.577,
+              89.377
+            ],
+            "new": [
+              79.4,
+              82.94
+            ],
+            "newUnits": 0,
+            "independentForcedIntervals": [
+              [
+                79.42,
+                82.94,
+                0.926
+              ]
+            ]
+          },
+          {
+            "row": 20,
+            "old": [
+              90.137,
+              90.457
+            ],
+            "new": [
+              82.94,
+              85.54
+            ],
+            "newUnits": 0,
+            "independentForcedIntervals": [
+              [
+                82.94,
+                85.5,
+                0.513
+              ],
+              [
+                82.94,
+                85.54,
+                0.454
+              ]
+            ]
+          },
+          {
+            "row": 21,
+            "old": [
+              91.497,
+              91.857
+            ],
+            "new": [
+              85.54,
+              88.5
+            ],
+            "newUnits": 0,
+            "independentForcedIntervals": [
+              [
+                85.5,
+                88.52,
+                0.904
+              ],
+              [
+                85.54,
+                88.48,
+                0.884
+              ]
+            ]
+          },
+          {
+            "row": 22,
+            "old": [
+              93.497,
+              94.177
+            ],
+            "new": [
+              88.5,
+              90.48
+            ],
+            "newUnits": 0,
+            "independentForcedIntervals": [
+              [
+                88.52,
+                90.48,
+                0.526
+              ],
+              [
+                88.48,
+                90.48,
+                0.534
+              ]
+            ]
+          },
+          {
+            "row": 23,
+            "old": [
+              95.257,
+              96.097
+            ],
+            "new": [
+              90.48,
+              94.16
+            ],
+            "newUnits": 0,
+            "independentForcedIntervals": [
+              [
+                90.48,
+                94.16,
+                0.932
+              ],
+              [
+                90.48,
+                94.18,
+                0.461
+              ]
+            ]
+          },
+          {
+            "row": 24,
+            "old": [
+              96.657,
+              97.177
+            ],
+            "new": [
+              94.16,
+              96.7
+            ],
+            "newUnits": 0,
+            "independentForcedIntervals": [
+              [
+                94.16,
+                96.7,
+                0.491
+              ],
+              [
+                94.18,
+                96.7,
+                0.504
+              ]
+            ]
+          },
+          {
+            "row": 25,
+            "old": [
+              107.827,
+              110.297
+            ],
+            "new": [
+              96.7,
+              99.86
+            ],
+            "newUnits": 0,
+            "independentForcedIntervals": [
+              [
+                96.7,
+                99.86,
+                0.989
+              ],
+              [
+                96.7,
+                99.9,
+                0.919
+              ]
+            ]
+          },
+          {
+            "row": 26,
+            "old": [
+              128.357,
+              128.937
+            ],
+            "new": [
+              99.86,
+              102.06
+            ],
+            "newUnits": 0,
+            "independentForcedIntervals": [
+              [
+                99.86,
+                101.98,
+                0.407
+              ],
+              [
+                99.9,
+                102.06,
+                0.464
+              ]
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

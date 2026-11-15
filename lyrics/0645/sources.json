@@ -67,20 +67,22 @@
       "note": "renditions/sekai/version"
     },
     {
-      "usage": "时间轴",
-      "provider": "已验证参考音源（平台未注明）",
-      "recordId": null,
-      "url": null,
+      "usage": "历史时间轴",
+      "provider": "网易云音乐",
+      "recordId": "3391367274",
+      "url": "https://music.163.com/song?id=3391367274",
       "license": null,
-      "note": "已保存来源标签，未记录可直接引用的链接"
+      "note": "历史成品确认为 3391367274 LRC，原文、译文及罗马音混在同一序列，重复副歌出现位置错配。此次已替换。",
+      "evidence": "reports/word-timing-search-2026-11-15-0221-0635-0645.json"
     },
     {
-      "usage": "时间轴",
+      "usage": "历史时间轴复核",
       "provider": "game_audio_review",
       "recordId": null,
       "url": null,
       "license": null,
-      "note": "2026-11 句尾校准：按默认音频 se_0645_01（vocalId 1681）的 htdemucs 人声轨，用 sekai_lyrics 的对齐方法（日语音素 CTC、MMS、Whisper large-v3 强制对齐，网易云 LRC 局部偏移投票，句尾吸附人声静音）校准 0 行；27 行两个对齐器不在置信区间或证据冲突，列为待复核、未改（见 PROGRESS.md）。时间含前置空白。逐行依据见 reports/end-calibration-2026-11.json"
+      "note": "2026-11 句尾校准：按默认音频 se_0645_01（vocalId 1681）的 htdemucs 人声轨，用 sekai_lyrics 的对齐方法（日语音素 CTC、MMS、Whisper large-v3 强制对齐，网易云 LRC 局部偏移投票，句尾吸附人声静音）校准 0 行；27 行两个对齐器不在置信区间或证据冲突，列为待复核、未改（见 PROGRESS.md）。时间含前置空白。逐行依据见 reports/end-calibration-2026-11.json",
+      "evidence": "reports/word-timing-search-2026-11-15-0221-0635-0645.json"
     },
     {
       "usage": "罗马音",
@@ -91,6 +93,17 @@
       "via": "https://github.com/shinonomeenana/sekai_lyrics",
       "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
       "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "逐句时间",
+      "provider": "Project SEKAI 游戏音频",
+      "recordId": "1681",
+      "url": "https://assets-direct.unipjsk.com/ondemand/music/long/se_0645_01/se_0645_01.mp3",
+      "vocalId": 1681,
+      "assetbundle": "se_0645_01",
+      "license": null,
+      "evidence": "reports/word-timing-search-2026-11-15-0221-0635-0645.json",
+      "note": "默认セカイ版 se_0645_01。分窗独立识别和逐句强制对齐复核，采用游戏音频上观察到的 27 行显示区间。"
     }
   ]
 }

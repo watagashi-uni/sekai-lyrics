@@ -43,36 +43,40 @@
       "note": "renditions/vocaloid/version"
     },
     {
-      "usage": "时间轴",
+      "usage": "历史时间轴",
       "provider": "QQ音乐",
       "recordId": "284050299",
       "url": "https://y.qq.com/n/ryqq/songDetail/000wALa32uscT3",
       "license": null,
-      "note": "qrc"
+      "note": "qrc 历史映射实际歌词起点偏晚，已由修正后的网易云 YRC 和游戏音频复核替换。",
+      "evidence": "reports/word-timing-search-2026-11-15-0221-0635-0645.json"
     },
     {
-      "usage": "时间轴",
+      "usage": "历史时间轴",
       "provider": "QQ音乐",
       "recordId": "105647987",
       "url": "https://y.qq.com/n/ryqq/songDetail/000ukz7732XGI7",
       "license": null,
-      "note": "qrc"
+      "note": "qrc 历史映射实际歌词起点偏晚，已由修正后的网易云 YRC 和游戏音频复核替换。",
+      "evidence": "reports/word-timing-search-2026-11-15-0221-0635-0645.json"
     },
     {
-      "usage": "时间轴",
+      "usage": "历史时间轴",
       "provider": "actual_game_phrase_review",
       "recordId": null,
       "url": null,
       "license": null,
-      "note": "已保存来源标签，未记录可直接引用的链接"
+      "note": "已保存来源标签，未记录可直接引用的链接 历史映射实际歌词起点偏晚，已由修正后的网易云 YRC 和游戏音频复核替换。",
+      "evidence": "reports/word-timing-search-2026-11-15-0221-0635-0645.json"
     },
     {
-      "usage": "时间轴",
+      "usage": "历史时间轴复核",
       "provider": "game_audio_review",
       "recordId": null,
       "url": null,
       "license": null,
-      "note": "2026-11 句尾校准：按默认音频 vs_0221_01（vocalId 546）的 htdemucs 人声轨，用 sekai_lyrics 的对齐方法（日语音素 CTC、MMS、Whisper large-v3 强制对齐，网易云 LRC 局部偏移投票，句尾吸附人声静音）校准 0 行；33 行两个对齐器不在置信区间或证据冲突，列为待复核、未改（见 PROGRESS.md）。时间含前置空白。逐行依据见 reports/end-calibration-2026-11.json"
+      "note": "2026-11 句尾校准：按默认音频 vs_0221_01（vocalId 546）的 htdemucs 人声轨，用 sekai_lyrics 的对齐方法（日语音素 CTC、MMS、Whisper large-v3 强制对齐，网易云 LRC 局部偏移投票，句尾吸附人声静音）校准 0 行；33 行两个对齐器不在置信区间或证据冲突，列为待复核、未改（见 PROGRESS.md）。时间含前置空白。逐行依据见 reports/end-calibration-2026-11.json",
+      "evidence": "reports/word-timing-search-2026-11-15-0221-0635-0645.json"
     },
     {
       "usage": "罗马音",
@@ -83,6 +87,88 @@
       "via": "https://github.com/shinonomeenana/sekai_lyrics",
       "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
       "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "前奏数拍及逐句时间复核",
+      "provider": "Project SEKAI 游戏音频",
+      "recordId": "546",
+      "url": "https://assets-direct.unipjsk.com/ondemand/music/long/vs_0221_01/vs_0221_01.mp3",
+      "vocalId": 546,
+      "assetbundle": "vs_0221_01",
+      "license": null,
+      "evidence": "reports/word-timing-search-2026-11-15-0221-0635-0645.json",
+      "note": "核对唯一在 JP master 中的 vocalId 546；网易云 YRC 加 8.623 s 与实际游戏起唱吻合。前奏数拍沿用既有游戏复核轴。"
+    },
+    {
+      "usage": "逐句时间与逐字时间",
+      "provider": "网易云音乐",
+      "recordId": "22717167",
+      "url": "https://music.163.com/song?id=22717167",
+      "license": null,
+      "sourceFormat": "yrc",
+      "vocalId": 546,
+      "assetbundle": "vs_0221_01",
+      "sourceToGameOffsetSec": 8.623,
+      "lineRows": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "wordRows": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        10,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        21,
+        22,
+        23,
+        25,
+        27,
+        28
+      ],
+      "evidence": "reports/word-timing-search-2026-11-15-0221-0635-0645.json",
+      "note": "JP master 只有 vocalId 546；旧 QQ 逐字与旧逐句映射多数晚约一秒，且重唱句中有局部误差。网易云 22717167 的原生 YRC 在游戏时间 origin 上加 8.623 秒，并经实际唱词复核。"
     }
   ]
 }

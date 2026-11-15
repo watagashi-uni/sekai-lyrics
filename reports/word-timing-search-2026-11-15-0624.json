@@ -1,0 +1,1682 @@
+{
+  "date": "2026-11-15",
+  "selection": "复核 624 逐字是否真实，并检索同录音的替代时间源。",
+  "songs": [
+    {
+      "musicId": 624,
+      "title": "チルノのパーフェクトさんすう学園",
+      "providers": {
+        "qqmusic": {
+          "queries": [
+            {
+              "query": "チルノのパーフェクトさんすう学園",
+              "route": "mobile",
+              "status": "ok",
+              "hits": [
+                {
+                  "id": "575565094",
+                  "title": "チルノのパーフェクトさんすう学園",
+                  "artists": [
+                    "ビートまりお"
+                  ],
+                  "album": "チルノのパーフェクトさんすう学園",
+                  "duration": 223
+                },
+                {
+                  "id": "575565059",
+                  "title": "チルノのパーフェクトさんすう学園 (Game size)",
+                  "artists": [
+                    "COOL&CREATE"
+                  ],
+                  "album": "チルノのパーフェクトさんすう学園",
+                  "duration": 128
+                },
+                {
+                  "id": "575360392",
+                  "title": "チルノのパーフェクトさんすう学園 feat.初音ミク",
+                  "artists": [
+                    "COOL&CREATE"
+                  ],
+                  "album": "とうほう☆みくれいむ",
+                  "duration": 227,
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/002eWTtF3XdKJm"
+                },
+                {
+                  "id": "575565096",
+                  "title": "チルノのパーフェクトさんすう学園 (Inst ver.)",
+                  "artists": [
+                    "COOL&CREATE"
+                  ],
+                  "album": "チルノのパーフェクトさんすう学園",
+                  "duration": 223
+                }
+              ]
+            },
+            {
+              "query": "チルノのパーフェクトさんすう学園 初音ミク",
+              "route": "mobile",
+              "status": "ok",
+              "hits": [
+                {
+                  "id": "575360392",
+                  "title": "チルノのパーフェクトさんすう学園 feat.初音ミク",
+                  "artists": [
+                    "COOL&CREATE"
+                  ],
+                  "album": "とうほう☆みくれいむ",
+                  "duration": 227,
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/002eWTtF3XdKJm"
+                },
+                {
+                  "id": "575565094",
+                  "title": "チルノのパーフェクトさんすう学園",
+                  "artists": [
+                    "ビートまりお"
+                  ],
+                  "album": "チルノのパーフェクトさんすう学園",
+                  "duration": 223
+                },
+                {
+                  "id": "575565059",
+                  "title": "チルノのパーフェクトさんすう学園 (Game size)",
+                  "artists": [
+                    "COOL&CREATE"
+                  ],
+                  "album": "チルノのパーフェクトさんすう学園",
+                  "duration": 128
+                },
+                {
+                  "id": "575565096",
+                  "title": "チルノのパーフェクトさんすう学園 (Inst ver.)",
+                  "artists": [
+                    "COOL&CREATE"
+                  ],
+                  "album": "チルノのパーフェクトさんすう学園",
+                  "duration": 223
+                }
+              ]
+            },
+            {
+              "query": "チルノのパーフェクトさんすう学園",
+              "route": "desktop",
+              "status": "api_failure",
+              "error": "ValueError"
+            },
+            {
+              "query": "チルノのパーフェクトさんすう学園 初音ミク",
+              "route": "desktop",
+              "status": "api_failure",
+              "error": "ValueError"
+            }
+          ],
+          "fetched": [
+            {
+              "id": "575565094",
+              "title": "チルノのパーフェクトさんすう学園",
+              "artists": [
+                "ビートまりお"
+              ],
+              "album": "チルノのパーフェクトさんすう学園",
+              "duration": 223,
+              "source_url": "https://y.qq.com/n/ryqq/songDetail/002hguJD4FUasP",
+              "format": "lrc",
+              "wordUnits": 0,
+              "status": "timed",
+              "rows": 86,
+              "actuallyFetched": true,
+              "decision": "recording_version_mismatch",
+              "reason": "ビートまりお演唱版普通 LRC。"
+            },
+            {
+              "id": "575565059",
+              "title": "チルノのパーフェクトさんすう学園 (Game size)",
+              "artists": [
+                "COOL&CREATE"
+              ],
+              "album": "チルノのパーフェクトさんすう学園",
+              "duration": 128,
+              "source_url": "https://y.qq.com/n/ryqq/songDetail/003XBqUS21RJkl",
+              "format": null,
+              "wordUnits": 0,
+              "status": "no_timing",
+              "rows": 0,
+              "actuallyFetched": true,
+              "decision": "no_timed_lyric",
+              "reason": "请求有响应，但未取得可用的歌词时间。"
+            },
+            {
+              "id": "575360392",
+              "title": "チルノのパーフェクトさんすう学園 feat.初音ミク",
+              "artists": [
+                "COOL&CREATE"
+              ],
+              "album": "とうほう☆みくれいむ",
+              "duration": 227,
+              "source_url": "https://y.qq.com/n/ryqq/songDetail/002eWTtF3XdKJm",
+              "format": "qrc",
+              "wordUnits": 991,
+              "status": "timed",
+              "rows": 86,
+              "actuallyFetched": true,
+              "temporaryRawCapture": "yokohama:/data/watagashi/lyrics-alignment-trial/multi-source/qq-song-recovery/0624/575360392.json",
+              "sha256": "07c6f3a2e29a7f9874514792ead889667fe246f7ac4ce902742807e2a32f4e49",
+              "decision": "rejected_uniform_subdivision",
+              "reason": "本轮重拉的原始 QRC 与历史文件中的 QRC XML 一致。至少三个单元的 86 行有 85 行为整行等长分配；当前播放 29 行的 370 个单元已撤下。"
+            }
+          ]
+        },
+        "netease": {
+          "queries": [
+            {
+              "query": "チルノのパーフェクトさんすう学園",
+              "status": "ok",
+              "route": "https://music.163.com/api/cloudsearch/pc",
+              "responseSha256": "24ef4a0f101fa42543378a142fac6b479c83bdfbe90725ad57f7ccff5e9cd514",
+              "hits": [
+                {
+                  "id": "2698278768",
+                  "title": "チルノのパーフェクトさんすう学園",
+                  "artists": [
+                    "ビートまりお"
+                  ],
+                  "duration": 223.125,
+                  "album": "チルノのパーフェクトさんすう学園",
+                  "source_url": "https://music.163.com/song?id=2698278768"
+                },
+                {
+                  "id": "2698281481",
+                  "title": "チルノのパーフェクトさんすう学園 (Game size)",
+                  "artists": [
+                    "ビートまりお"
+                  ],
+                  "duration": 128.5,
+                  "album": "チルノのパーフェクトさんすう学園",
+                  "source_url": "https://music.163.com/song?id=2698281481"
+                },
+                {
+                  "id": "2697932176",
+                  "title": "チルノのパーフェクトさんすう学園",
+                  "artists": [
+                    "初音ミク",
+                    "鏡音リン",
+                    "鏡音レン",
+                    "巡音ルカ",
+                    "MEIKO",
+                    "KAITO"
+                  ],
+                  "duration": 227.45,
+                  "album": "とうほう☆みくれいむ",
+                  "source_url": "https://music.163.com/song?id=2697932176"
+                },
+                {
+                  "id": "2698281482",
+                  "title": "チルノのパーフェクトさんすう学園 (Inst ver.)",
+                  "artists": [
+                    "COOL&CREATE"
+                  ],
+                  "duration": 223.125,
+                  "album": "チルノのパーフェクトさんすう学園",
+                  "source_url": "https://music.163.com/song?id=2698281482"
+                }
+              ]
+            },
+            {
+              "query": "チルノのパーフェクトさんすう学園",
+              "status": "api_error",
+              "route": "https://music.163.com/api/search/get/web",
+              "reason": "返回了字符串而不是可读歌曲列表，另用 cloudsearch 成功查询。"
+            }
+          ],
+          "fetched": [
+            {
+              "id": "2698278768",
+              "title": "チルノのパーフェクトさんすう学園",
+              "artists": [
+                "ビートまりお"
+              ],
+              "duration": 223.125,
+              "album": "チルノのパーフェクトさんすう学園",
+              "source_url": "https://music.163.com/song?id=2698278768",
+              "requestUrl": "https://music.163.com/api/song/lyric/v1?id=2698278768&lv=-1&yv=-1&kv=-1",
+              "actuallyFetched": true,
+              "format": "lrc",
+              "timedRows": 74,
+              "wordUnits": 0,
+              "yrcPayloadReturned": false,
+              "responseCode": 200,
+              "sha256": "4d2f8e420f1ceb2ef23df4f29d29c658807735f731940e756694483337e9aa1c",
+              "decision": "recording_version_mismatch",
+              "reason": "ビートまりお演唱版，歌手与游戏不符。"
+            },
+            {
+              "id": "2698281481",
+              "title": "チルノのパーフェクトさんすう学園 (Game size)",
+              "artists": [
+                "ビートまりお"
+              ],
+              "duration": 128.5,
+              "album": "チルノのパーフェクトさんすう学園",
+              "source_url": "https://music.163.com/song?id=2698281481",
+              "requestUrl": "https://music.163.com/api/song/lyric/v1?id=2698281481&lv=-1&yv=-1&kv=-1",
+              "actuallyFetched": true,
+              "format": "metadata_only",
+              "timedRows": 0,
+              "wordUnits": 0,
+              "yrcPayloadReturned": false,
+              "responseCode": 200,
+              "sha256": "5f0a21cb3e047a737cc6110989c9c16eebbfb2b5f1eecf00b6ffa38e226c412f",
+              "decision": "no_timed_lyric",
+              "reason": "ビートまりお的游戏尺寸录音，歌词接口只返回署名。"
+            },
+            {
+              "id": "2697932176",
+              "title": "チルノのパーフェクトさんすう学園",
+              "artists": [
+                "初音ミク",
+                "鏡音リン",
+                "鏡音レン",
+                "巡音ルカ",
+                "MEIKO",
+                "KAITO"
+              ],
+              "duration": 227.45,
+              "album": "とうほう☆みくれいむ",
+              "source_url": "https://music.163.com/song?id=2697932176",
+              "requestUrl": "https://music.163.com/api/song/lyric/v1?id=2697932176&lv=-1&yv=-1&kv=-1",
+              "actuallyFetched": true,
+              "format": "lrc",
+              "timedRows": 74,
+              "wordUnits": 0,
+              "yrcPayloadReturned": false,
+              "responseCode": 200,
+              "sha256": "e889910a0f0562a2c92c87ff9012580860ce86befe39ef0cd497fef4acf27971",
+              "decision": "adopted_line_timing",
+              "reason": "同阵容的专辑完整版，按实际游戏剪辑分两段做波形匹配，只采用匹配到的逐句起点。"
+            },
+            {
+              "id": "2698281482",
+              "title": "チルノのパーフェクトさんすう学園 (Inst ver.)",
+              "artists": [
+                "COOL&CREATE"
+              ],
+              "duration": 223.125,
+              "album": "チルノのパーフェクトさんすう学園",
+              "source_url": "https://music.163.com/song?id=2698281482",
+              "requestUrl": "https://music.163.com/api/song/lyric/v1?id=2698281482&lv=-1&yv=-1&kv=-1",
+              "actuallyFetched": true,
+              "format": "lrc",
+              "timedRows": 74,
+              "wordUnits": 0,
+              "yrcPayloadReturned": false,
+              "responseCode": 200,
+              "sha256": "6f7b338b7b2b9007c0af06701de6883315f6d4eec2d3a1b6f7a1bb6cb5463dc6",
+              "decision": "recording_version_mismatch",
+              "reason": "伴奏版。"
+            }
+          ]
+        },
+        "lrclib": {
+          "queries": [
+            {
+              "query": "チルノのパーフェクトさんすう学園",
+              "status": "ok",
+              "url": "https://lrclib.net/api/search?track_name=%E3%83%81%E3%83%AB%E3%83%8E%E3%81%AE%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%E3%81%95%E3%82%93%E3%81%99%E3%81%86%E5%AD%A6%E5%9C%92",
+              "responseSha256": "41a8753949d7c6b3b7717dde9843a5d0f5febd41f9b4b785f5dd4718484784f4",
+              "hits": [
+                {
+                  "id": "31990013",
+                  "title": "チルノのパーフェクトさんすう学園",
+                  "artists": [
+                    "COOL&CREATE"
+                  ],
+                  "album": "チルノのパーフェクトさんすう学園",
+                  "duration": 222.0,
+                  "source_url": "https://lrclib.net/api/get/31990013"
+                },
+                {
+                  "id": "25270328",
+                  "title": "チルノのパーフェクトさんすう学園",
+                  "artists": [
+                    "beatMARIO / COOL&CREATE"
+                  ],
+                  "album": "beatMARIO / COOL&CREATE Videos",
+                  "duration": 224.0,
+                  "source_url": "https://lrclib.net/api/get/25270328"
+                },
+                {
+                  "id": "21988537",
+                  "title": "チルノのパーフェクトさんすう学園",
+                  "artists": [
+                    "ビートまりお"
+                  ],
+                  "album": "チルノのパーフェクトさんすう学園",
+                  "duration": 225.0,
+                  "source_url": "https://lrclib.net/api/get/21988537"
+                },
+                {
+                  "id": "33961518",
+                  "title": "チルノのパーフェクトさんすう学園",
+                  "artists": [
+                    "COOL&CREATE"
+                  ],
+                  "album": "とうほう☆みくれいむ",
+                  "duration": 227.0,
+                  "source_url": "https://lrclib.net/api/get/33961518"
+                },
+                {
+                  "id": "33961540",
+                  "title": "チルノのパーフェクトさんすう学園",
+                  "artists": [
+                    "COOL&CREATE"
+                  ],
+                  "album": "チルノのパーフェクトさんすう学園",
+                  "duration": 225.0,
+                  "source_url": "https://lrclib.net/api/get/33961540"
+                },
+                {
+                  "id": "33755891",
+                  "title": "チルノのパーフェクトさんすう学園 (Game size)",
+                  "artists": [
+                    "beatMARIO / COOL&CREATE"
+                  ],
+                  "album": "チルノのパーフェクトさんすう学園",
+                  "duration": 129.0,
+                  "source_url": "https://lrclib.net/api/get/33755891"
+                },
+                {
+                  "id": "33404340",
+                  "title": "チルノのパーフェクトさんすう学園 (Game size)",
+                  "artists": [
+                    "COOL&CREATE"
+                  ],
+                  "album": "チルノのパーフェクトさんすう学園",
+                  "duration": 131.0,
+                  "source_url": "https://lrclib.net/api/get/33404340"
+                }
+              ]
+            }
+          ],
+          "fetched": [
+            {
+              "id": "31990013",
+              "title": "チルノのパーフェクトさんすう学園",
+              "artists": [
+                "COOL&CREATE"
+              ],
+              "album": "チルノのパーフェクトさんすう学園",
+              "duration": 222.0,
+              "source_url": "https://lrclib.net/api/get/31990013",
+              "retrieval": "search response lyric payload",
+              "actuallyFetched": true,
+              "format": "lrc",
+              "wordUnits": 0,
+              "decision": "not_adopted",
+              "reason": "只有逐句或普通歌词；游戏录音的对应关系以已核对的网易云专辑 LRC 为据。"
+            },
+            {
+              "id": "25270328",
+              "title": "チルノのパーフェクトさんすう学園",
+              "artists": [
+                "beatMARIO / COOL&CREATE"
+              ],
+              "album": "beatMARIO / COOL&CREATE Videos",
+              "duration": 224.0,
+              "source_url": "https://lrclib.net/api/get/25270328",
+              "retrieval": "search response lyric payload",
+              "actuallyFetched": true,
+              "format": "lrc",
+              "wordUnits": 0,
+              "decision": "not_adopted",
+              "reason": "只有逐句或普通歌词；游戏录音的对应关系以已核对的网易云专辑 LRC 为据。"
+            },
+            {
+              "id": "21988537",
+              "title": "チルノのパーフェクトさんすう学園",
+              "artists": [
+                "ビートまりお"
+              ],
+              "album": "チルノのパーフェクトさんすう学園",
+              "duration": 225.0,
+              "source_url": "https://lrclib.net/api/get/21988537",
+              "retrieval": "search response lyric payload",
+              "actuallyFetched": true,
+              "format": "lrc",
+              "wordUnits": 0,
+              "decision": "not_adopted",
+              "reason": "只有逐句或普通歌词；游戏录音的对应关系以已核对的网易云专辑 LRC 为据。"
+            },
+            {
+              "id": "33961518",
+              "title": "チルノのパーフェクトさんすう学園",
+              "artists": [
+                "COOL&CREATE"
+              ],
+              "album": "とうほう☆みくれいむ",
+              "duration": 227.0,
+              "source_url": "https://lrclib.net/api/get/33961518",
+              "retrieval": "search response lyric payload",
+              "actuallyFetched": true,
+              "format": "lrc",
+              "wordUnits": 0,
+              "decision": "not_adopted",
+              "reason": "只有逐句或普通歌词；游戏录音的对应关系以已核对的网易云专辑 LRC 为据。"
+            },
+            {
+              "id": "33961540",
+              "title": "チルノのパーフェクトさんすう学園",
+              "artists": [
+                "COOL&CREATE"
+              ],
+              "album": "チルノのパーフェクトさんすう学園",
+              "duration": 225.0,
+              "source_url": "https://lrclib.net/api/get/33961540",
+              "retrieval": "search response lyric payload",
+              "actuallyFetched": true,
+              "format": "lrc",
+              "wordUnits": 0,
+              "decision": "not_adopted",
+              "reason": "只有逐句或普通歌词；游戏录音的对应关系以已核对的网易云专辑 LRC 为据。"
+            },
+            {
+              "id": "33755891",
+              "title": "チルノのパーフェクトさんすう学園 (Game size)",
+              "artists": [
+                "beatMARIO / COOL&CREATE"
+              ],
+              "album": "チルノのパーフェクトさんすう学園",
+              "duration": 129.0,
+              "source_url": "https://lrclib.net/api/get/33755891",
+              "retrieval": "search response lyric payload",
+              "actuallyFetched": true,
+              "format": "lrc",
+              "wordUnits": 0,
+              "decision": "not_adopted",
+              "reason": "只有逐句或普通歌词；游戏录音的对应关系以已核对的网易云专辑 LRC 为据。"
+            },
+            {
+              "id": "33404340",
+              "title": "チルノのパーフェクトさんすう学園 (Game size)",
+              "artists": [
+                "COOL&CREATE"
+              ],
+              "album": "チルノのパーフェクトさんすう学園",
+              "duration": 131.0,
+              "source_url": "https://lrclib.net/api/get/33404340",
+              "retrieval": "search response lyric payload",
+              "actuallyFetched": true,
+              "format": "plain_text",
+              "wordUnits": 0,
+              "decision": "not_adopted",
+              "reason": "只有逐句或普通歌词；游戏录音的对应关系以已核对的网易云专辑 LRC 为据。"
+            }
+          ]
+        },
+        "kugou": {
+          "queries": [
+            {
+              "query": "チルノのパーフェクトさんすう学園",
+              "route": "lyrics",
+              "status": "empty",
+              "hits": []
+            },
+            {
+              "query": "チルノのパーフェクトさんすう学園 初音ミク",
+              "route": "lyrics",
+              "status": "empty",
+              "hits": []
+            },
+            {
+              "query": "チルノのパーフェクトさんすう学園 COOL&CREATE",
+              "route": "lyrics",
+              "targetDuration": 227.45,
+              "status": "ok",
+              "hits": [
+                {
+                  "id": "393473188",
+                  "title": "チルノのパーフェクトさんすう学園",
+                  "artists": [
+                    "COOL&CREATE"
+                  ],
+                  "duration": 223.164,
+                  "source_url": "https://lyrics.kugou.com/search?keyword=%E3%83%81%E3%83%AB%E3%83%8E%E3%81%AE%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%E3%81%95%E3%82%93%E3%81%99%E3%81%86%E5%AD%A6%E5%9C%92+COOL%26CREATE&man=yes&client=pc&duration=227450&ver=1"
+                },
+                {
+                  "id": "393473185",
+                  "title": "チルノのパーフェクトさんすう学園",
+                  "artists": [
+                    "COOL&CREATE"
+                  ],
+                  "duration": 223.164,
+                  "source_url": "https://lyrics.kugou.com/search?keyword=%E3%83%81%E3%83%AB%E3%83%8E%E3%81%AE%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%E3%81%95%E3%82%93%E3%81%99%E3%81%86%E5%AD%A6%E5%9C%92+COOL%26CREATE&man=yes&client=pc&duration=227450&ver=1"
+                },
+                {
+                  "id": "393461830",
+                  "title": "チルノのパーフェクトさんすう学園",
+                  "artists": [
+                    "COOL&CREATE"
+                  ],
+                  "duration": 223.164,
+                  "source_url": "https://lyrics.kugou.com/search?keyword=%E3%83%81%E3%83%AB%E3%83%8E%E3%81%AE%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%E3%81%95%E3%82%93%E3%81%99%E3%81%86%E5%AD%A6%E5%9C%92+COOL%26CREATE&man=yes&client=pc&duration=227450&ver=1"
+                }
+              ]
+            },
+            {
+              "query": "チルノのパーフェクトさんすう学園 初音ミク",
+              "route": "lyrics",
+              "targetDuration": 128.5,
+              "status": "empty",
+              "hits": []
+            },
+            {
+              "query": "チルノのパーフェクトさんすう学園",
+              "route": "lyrics",
+              "targetDuration": 227.45,
+              "status": "empty",
+              "hits": []
+            },
+            {
+              "query": "チルノのパーフェクトさんすう学園 feat.初音ミク",
+              "targetDuration": 227.45,
+              "route": "lyrics",
+              "status": "empty",
+              "hits": []
+            },
+            {
+              "query": "チルノのパーフェクトさんすう学園 初音ミク",
+              "targetDuration": 227.45,
+              "route": "lyrics",
+              "status": "empty",
+              "hits": []
+            },
+            {
+              "query": "チルノのパーフェクトさんすう学園 とうほう☆みくれいむ",
+              "targetDuration": 227.45,
+              "route": "lyrics",
+              "status": "empty",
+              "hits": []
+            },
+            {
+              "query": "チルノのパーフェクトさんすう学園 ビートまりお",
+              "targetDuration": 227.45,
+              "route": "lyrics",
+              "status": "empty",
+              "hits": []
+            }
+          ],
+          "fetched": [
+            {
+              "id": "393473188",
+              "title": "チルノのパーフェクトさんすう学園",
+              "artists": [
+                "COOL&CREATE"
+              ],
+              "duration": 223.164,
+              "source_url": "https://lyrics.kugou.com/search?keyword=%E3%83%81%E3%83%AB%E3%83%8E%E3%81%AE%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%E3%81%95%E3%82%93%E3%81%99%E3%81%86%E5%AD%A6%E5%9C%92+COOL%26CREATE&man=yes&client=pc&duration=227450&ver=1",
+              "result": "decoded_with_timing_validation_failure",
+              "error": "ValueError",
+              "actuallyFetched": true,
+              "formatRequested": "krc",
+              "format": "krc",
+              "wordUnits": 886,
+              "apiResponse": {
+                "id": "393473188",
+                "formatRequested": "krc",
+                "apiStatus": 200,
+                "info": "OK",
+                "containsPayload": true
+              },
+              "decision": "not_adopted",
+              "reason": "KRC 实际包含非等分单元；候选标注为 223.164 秒，和本次拉取的ビートまりお版时长吻合，未证实适用游戏录音。末行结束为 433.964 秒，超出记录时长。",
+              "krcSha256": "6a3fef1b406d0779a478c80ff0b16493f653614f13fd4830b5a8b3c1c98130cf",
+              "lexicalRows": 86,
+              "uniformRows": 0,
+              "outOfBounds": 1,
+              "lastEndSeconds": 433.964,
+              "validationError": "KRC line outside its recording"
+            },
+            {
+              "id": "393473185",
+              "title": "チルノのパーフェクトさんすう学園",
+              "artists": [
+                "COOL&CREATE"
+              ],
+              "duration": 223.164,
+              "source_url": "https://lyrics.kugou.com/search?keyword=%E3%83%81%E3%83%AB%E3%83%8E%E3%81%AE%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%E3%81%95%E3%82%93%E3%81%99%E3%81%86%E5%AD%A6%E5%9C%92+COOL%26CREATE&man=yes&client=pc&duration=227450&ver=1",
+              "result": "decoded_with_timing_validation_failure",
+              "error": "ValueError",
+              "actuallyFetched": true,
+              "formatRequested": "krc",
+              "format": "krc",
+              "wordUnits": 886,
+              "apiResponse": {
+                "id": "393473185",
+                "formatRequested": "krc",
+                "apiStatus": 200,
+                "info": "OK",
+                "containsPayload": true
+              },
+              "decision": "not_adopted",
+              "reason": "KRC 实际包含非等分单元；候选标注为 223.164 秒，和本次拉取的ビートまりお版时长吻合，未证实适用游戏录音。末行结束为 433.964 秒，超出记录时长。",
+              "krcSha256": "f4c43dc54e39bada53d17d708f2330e932706239274cf314da33aea71f5717d2",
+              "lexicalRows": 86,
+              "uniformRows": 0,
+              "outOfBounds": 1,
+              "lastEndSeconds": 433.964,
+              "validationError": "KRC line outside its recording"
+            },
+            {
+              "id": "393461830",
+              "title": "チルノのパーフェクトさんすう学園",
+              "artists": [
+                "COOL&CREATE"
+              ],
+              "duration": 223.164,
+              "source_url": "https://lyrics.kugou.com/search?keyword=%E3%83%81%E3%83%AB%E3%83%8E%E3%81%AE%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%E3%81%95%E3%82%93%E3%81%99%E3%81%86%E5%AD%A6%E5%9C%92+COOL%26CREATE&man=yes&client=pc&duration=227450&ver=1",
+              "result": "decoded_with_timing_validation_failure",
+              "error": "ValueError",
+              "actuallyFetched": true,
+              "formatRequested": "krc",
+              "format": "krc",
+              "wordUnits": 886,
+              "apiResponse": {
+                "id": "393461830",
+                "formatRequested": "krc",
+                "apiStatus": 200,
+                "info": "OK",
+                "containsPayload": true
+              },
+              "decision": "not_adopted",
+              "reason": "KRC 实际包含非等分单元；候选标注为 223.164 秒，和本次拉取的ビートまりお版时长吻合，未证实适用游戏录音。末行结束为 433.964 秒，超出记录时长。",
+              "krcSha256": "f38b3ba6b9999ca5da98e87d67352401e4551571a6d2d598aa31d2262edb6ac0",
+              "lexicalRows": 86,
+              "uniformRows": 0,
+              "outOfBounds": 1,
+              "lastEndSeconds": 433.964,
+              "validationError": "KRC line outside its recording"
+            }
+          ]
+        },
+        "typingTube": {
+          "queries": [
+            {
+              "query": "チルノのパーフェクトさんすう学園",
+              "status": "ok",
+              "url": "https://typing-tube.net/movie/show/67044"
+            }
+          ],
+          "fetched": [
+            {
+              "id": "67044",
+              "title": "チルノのパーフェクトさんすう学園",
+              "artists": [
+                "ビートまりお"
+              ],
+              "source_url": "https://typing-tube.net/movie/show/67044",
+              "actuallyFetched": true,
+              "format": "HTML metadata",
+              "wordUnits": 0,
+              "decision": "recording_version_mismatch",
+              "reason": "页面标注ビートまりお演唱；只核查了歌页，未拉歌词计时。"
+            }
+          ]
+        }
+      },
+      "nextStep": "使用已核对剪辑的网易云逐句轴，逐字仅在找到非等分且匹配录音的原生来源后再补。",
+      "timingReview": {
+        "historicalReport": "reports/end-calibration-2026-11.json",
+        "oldWordLines": 29,
+        "oldWordUnits": 370,
+        "newWordLines": 0,
+        "newWordUnits": 0,
+        "rawQrcRowsWithAtLeastThreeUnits": 86,
+        "uniformQrcRows": 85,
+        "exampleRawLine": {
+          "text": "あたいみたいな天才目指して",
+          "wordUnits": 13,
+          "durationPerUnitMs": 247
+        },
+        "gameRecording": {
+          "vocalId": 1181,
+          "assetbundle": "vs_0624_01",
+          "source_url": "https://assets-direct.unipjsk.com/ondemand/music/long/vs_0624_01/vs_0624_01.mp3",
+          "sha256": "bf9f69d2e0f7c278cfc987f579062c6ca6ba3ead19bf272e1f0905e58d89e30b"
+        },
+        "albumRecording": {
+          "recordId": "2697932176",
+          "source_url": "https://music.163.com/song?id=2697932176",
+          "duration": 227.45,
+          "mediaUrl": "https://music.163.com/song/media/outer/url?id=2697932176.mp3",
+          "retrieval": "通过既有 knd 代理拉取",
+          "sha256": "bcb98aaab42973a18e8d7c7c2dacf30ed03df1f778e008f7cf33c2ae39777707"
+        },
+        "gameOfficialVideo": {
+          "id": "PE0rxHzyxNs",
+          "source_url": "https://www.youtube.com/watch?v=PE0rxHzyxNs",
+          "historicalWaveformProof": "yokohama:/data/watagashi/lyrics-alignment-trial/round3/stage/song-lyrics-v3/songs/0624/evidence/round3-candidate-observed-stereo-chorus-calls/official-same-game-video-clock.json",
+          "sameGameRecording": true,
+          "reason": "用于同游戏录音和历史合声校对。"
+        },
+        "mapping": {
+          "method": "netease-reference/match_audio.py 以 4 秒窗口每 3 秒波形匹配；原始辅助脚本可能产生大于 1 的无效相关，已排除这些数值。",
+          "sourceMinusGame": [
+            {
+              "gameInterval": [
+                0,
+                103.90613
+              ],
+              "offsetSec": -9
+            },
+            {
+              "gameInterval": [
+                103.90613,
+                137.5
+              ],
+              "offsetSec": 84.85475
+            }
+          ],
+          "cutBoundaryEvidence": "yokohama:/data/watagashi/lyrics-alignment-trial/round3/stage/song-lyrics-v3/songs/0624/evidence/round3-candidate-observed-stereo-chorus-calls/creator-instrumental-clock.json",
+          "adoptedLineRows": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            17,
+            18,
+            19,
+            20,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            34,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41
+          ],
+          "windows": [
+            {
+              "gameWindowStart": 12.0,
+              "sourceMinusGame": -9.0,
+              "correlation": 0.993243
+            },
+            {
+              "gameWindowStart": 15.0,
+              "sourceMinusGame": -9.0,
+              "correlation": 0.992061
+            },
+            {
+              "gameWindowStart": 18.0,
+              "sourceMinusGame": -9.0,
+              "correlation": 0.994597
+            },
+            {
+              "gameWindowStart": 21.0,
+              "sourceMinusGame": -9.0,
+              "correlation": 0.996279
+            },
+            {
+              "gameWindowStart": 24.0,
+              "sourceMinusGame": -9.0,
+              "correlation": 0.996686
+            },
+            {
+              "gameWindowStart": 27.0,
+              "sourceMinusGame": -9.0,
+              "correlation": 0.995526
+            },
+            {
+              "gameWindowStart": 30.0,
+              "sourceMinusGame": -9.0,
+              "correlation": 0.995573
+            },
+            {
+              "gameWindowStart": 33.0,
+              "sourceMinusGame": -9.0,
+              "correlation": 0.994709
+            },
+            {
+              "gameWindowStart": 36.0,
+              "sourceMinusGame": -9.0,
+              "correlation": 0.994913
+            },
+            {
+              "gameWindowStart": 39.0,
+              "sourceMinusGame": -9.0,
+              "correlation": 0.99454
+            },
+            {
+              "gameWindowStart": 42.0,
+              "sourceMinusGame": -9.0,
+              "correlation": 0.993928
+            },
+            {
+              "gameWindowStart": 45.0,
+              "sourceMinusGame": -9.0,
+              "correlation": 0.994594
+            },
+            {
+              "gameWindowStart": 48.0,
+              "sourceMinusGame": -9.0,
+              "correlation": 0.994784
+            },
+            {
+              "gameWindowStart": 51.0,
+              "sourceMinusGame": -9.0,
+              "correlation": 0.992808
+            },
+            {
+              "gameWindowStart": 54.0,
+              "sourceMinusGame": -9.0,
+              "correlation": 0.994407
+            },
+            {
+              "gameWindowStart": 57.0,
+              "sourceMinusGame": -9.0,
+              "correlation": 0.996904
+            },
+            {
+              "gameWindowStart": 60.0,
+              "sourceMinusGame": -9.0,
+              "correlation": 0.997119
+            },
+            {
+              "gameWindowStart": 63.0,
+              "sourceMinusGame": -9.0,
+              "correlation": 0.996717
+            },
+            {
+              "gameWindowStart": 66.0,
+              "sourceMinusGame": -9.0,
+              "correlation": 0.995604
+            },
+            {
+              "gameWindowStart": 69.0,
+              "sourceMinusGame": -9.0,
+              "correlation": 0.995286
+            },
+            {
+              "gameWindowStart": 72.0,
+              "sourceMinusGame": -9.0,
+              "correlation": 0.995485
+            },
+            {
+              "gameWindowStart": 75.0,
+              "sourceMinusGame": -9.0,
+              "correlation": 0.995917
+            },
+            {
+              "gameWindowStart": 78.0,
+              "sourceMinusGame": -9.0,
+              "correlation": 0.99776
+            },
+            {
+              "gameWindowStart": 81.0,
+              "sourceMinusGame": -9.0,
+              "correlation": 0.996812
+            },
+            {
+              "gameWindowStart": 84.0,
+              "sourceMinusGame": -9.0,
+              "correlation": 0.995963
+            },
+            {
+              "gameWindowStart": 87.0,
+              "sourceMinusGame": -9.0,
+              "correlation": 0.995278
+            },
+            {
+              "gameWindowStart": 90.0,
+              "sourceMinusGame": -9.0,
+              "correlation": 0.99527
+            },
+            {
+              "gameWindowStart": 93.0,
+              "sourceMinusGame": -9.0,
+              "correlation": 0.994791
+            },
+            {
+              "gameWindowStart": 96.0,
+              "sourceMinusGame": -9.0,
+              "correlation": 0.994347
+            },
+            {
+              "gameWindowStart": 99.0,
+              "sourceMinusGame": -9.0,
+              "correlation": 0.99439
+            },
+            {
+              "gameWindowStart": 102.0,
+              "sourceMinusGame": -9.0,
+              "correlation": 0.786724
+            },
+            {
+              "gameWindowStart": 105.0,
+              "sourceMinusGame": 84.85475,
+              "correlation": 0.98496
+            },
+            {
+              "gameWindowStart": 108.0,
+              "sourceMinusGame": 84.85475,
+              "correlation": 0.985862
+            },
+            {
+              "gameWindowStart": 111.0,
+              "sourceMinusGame": 84.85475,
+              "correlation": 0.985716
+            },
+            {
+              "gameWindowStart": 114.0,
+              "sourceMinusGame": 84.85475,
+              "correlation": 0.987231
+            },
+            {
+              "gameWindowStart": 117.0,
+              "sourceMinusGame": 84.85475,
+              "correlation": 0.985804
+            },
+            {
+              "gameWindowStart": 120.0,
+              "sourceMinusGame": 84.85475,
+              "correlation": 0.985477
+            },
+            {
+              "gameWindowStart": 123.0,
+              "sourceMinusGame": 84.85475,
+              "correlation": 0.98588
+            },
+            {
+              "gameWindowStart": 126.0,
+              "sourceMinusGame": 84.85475,
+              "correlation": 0.982712
+            },
+            {
+              "gameWindowStart": 129.0,
+              "sourceMinusGame": 84.85475,
+              "correlation": 0.986092
+            },
+            {
+              "gameWindowStart": 132.0,
+              "sourceMinusGame": 84.85475,
+              "correlation": 0.996955
+            }
+          ]
+        },
+        "rows": [
+          {
+            "row": 0,
+            "old": [
+              11.067,
+              12.276
+            ],
+            "removedWordUnits": 0,
+            "sourceRow": 3,
+            "sourceTime": 2.067,
+            "mappedGameTime": 11.067,
+            "new": [
+              11.067,
+              12.276
+            ]
+          },
+          {
+            "row": 1,
+            "old": [
+              12.276,
+              15.779
+            ],
+            "removedWordUnits": 0,
+            "sourceRow": 4,
+            "sourceTime": 3.276,
+            "mappedGameTime": 12.276,
+            "new": [
+              12.276,
+              15.779
+            ]
+          },
+          {
+            "row": 2,
+            "old": [
+              15.779,
+              20.686
+            ],
+            "removedWordUnits": 13,
+            "sourceRow": 5,
+            "sourceTime": 6.779,
+            "mappedGameTime": 15.779,
+            "new": [
+              15.779,
+              20.686
+            ]
+          },
+          {
+            "row": 3,
+            "old": [
+              15.779,
+              21.002151
+            ],
+            "removedWordUnits": 9,
+            "sourceRow": 5,
+            "sourceTime": 6.779,
+            "mappedGameTime": 15.779,
+            "new": [
+              15.779,
+              21.002151
+            ]
+          },
+          {
+            "row": 4,
+            "old": [
+              20.686,
+              26.206
+            ],
+            "removedWordUnits": 0,
+            "sourceRow": 6,
+            "sourceTime": 11.686,
+            "mappedGameTime": 20.686,
+            "new": [
+              20.686,
+              26.206
+            ]
+          },
+          {
+            "row": 5,
+            "old": [
+              26.148265,
+              29.123175
+            ],
+            "removedWordUnits": 16,
+            "sourceRow": 7,
+            "sourceTime": 17.206,
+            "mappedGameTime": 26.206,
+            "new": [
+              26.206,
+              29.123175
+            ]
+          },
+          {
+            "row": 6,
+            "old": [
+              29.123175,
+              32.982761
+            ],
+            "removedWordUnits": 11,
+            "sourceRow": 8,
+            "sourceTime": 20.245,
+            "mappedGameTime": 29.245,
+            "new": [
+              29.245,
+              32.982761
+            ]
+          },
+          {
+            "row": 7,
+            "old": [
+              33.244,
+              34.571
+            ],
+            "removedWordUnits": 0,
+            "sourceRow": 9,
+            "sourceTime": 24.244,
+            "mappedGameTime": 33.244,
+            "new": [
+              33.244,
+              34.571
+            ]
+          },
+          {
+            "row": 8,
+            "old": [
+              34.682138,
+              38.540725
+            ],
+            "removedWordUnits": 18,
+            "sourceRow": 10,
+            "sourceTime": 25.571,
+            "mappedGameTime": 34.571,
+            "new": [
+              34.571,
+              38.540725
+            ]
+          },
+          {
+            "row": 9,
+            "old": [
+              38.586,
+              39.868
+            ],
+            "removedWordUnits": 0,
+            "sourceRow": 11,
+            "sourceTime": 29.586,
+            "mappedGameTime": 38.586,
+            "new": [
+              38.586,
+              39.868
+            ]
+          },
+          {
+            "row": 10,
+            "old": [
+              40.064166,
+              44.102687
+            ],
+            "removedWordUnits": 18,
+            "sourceRow": 12,
+            "sourceTime": 30.868,
+            "mappedGameTime": 39.868,
+            "new": [
+              39.868,
+              44.102687
+            ]
+          },
+          {
+            "row": 11,
+            "old": [
+              43.9,
+              45.308
+            ],
+            "removedWordUnits": 0,
+            "sourceRow": 13,
+            "sourceTime": 34.9,
+            "mappedGameTime": 43.9,
+            "new": [
+              43.9,
+              45.308
+            ]
+          },
+          {
+            "row": 12,
+            "old": [
+              45.698102,
+              49.376754
+            ],
+            "removedWordUnits": 18,
+            "sourceRow": 14,
+            "sourceTime": 36.308,
+            "mappedGameTime": 45.308,
+            "new": [
+              45.308,
+              49.376754
+            ]
+          },
+          {
+            "row": 13,
+            "old": [
+              49.281,
+              50.572
+            ],
+            "removedWordUnits": 0,
+            "sourceRow": 15,
+            "sourceTime": 40.281,
+            "mappedGameTime": 49.281,
+            "new": [
+              49.281,
+              50.572
+            ]
+          },
+          {
+            "row": 14,
+            "old": [
+              50.692272,
+              55.772411
+            ],
+            "removedWordUnits": 12,
+            "sourceRow": 16,
+            "sourceTime": 41.572,
+            "mappedGameTime": 50.572,
+            "new": [
+              50.572,
+              55.772411
+            ]
+          },
+          {
+            "row": 15,
+            "old": [
+              55.772411,
+              58.781308
+            ],
+            "removedWordUnits": 10,
+            "sourceRow": 17,
+            "sourceTime": 46.951,
+            "mappedGameTime": 55.951,
+            "reason": "游戏中与独立校准的合声重叠，保留先于该叠唱的现有起点。",
+            "new": [
+              55.772411,
+              58.781308
+            ]
+          },
+          {
+            "row": 16,
+            "old": [
+              55.8,
+              56.14
+            ],
+            "removedWordUnits": 0,
+            "reason": "专辑 LRC 未单列；保留游戏声道复核的第一次「ふーっ！」。",
+            "new": [
+              55.8,
+              56.14
+            ]
+          },
+          {
+            "row": 17,
+            "old": [
+              58.781308,
+              61.464325
+            ],
+            "removedWordUnits": 11,
+            "sourceRow": 18,
+            "sourceTime": 49.664,
+            "mappedGameTime": 58.664,
+            "new": [
+              58.664,
+              61.464325
+            ]
+          },
+          {
+            "row": 18,
+            "old": [
+              61.464325,
+              64.082366
+            ],
+            "removedWordUnits": 9,
+            "sourceRow": 19,
+            "sourceTime": 52.363,
+            "mappedGameTime": 61.363,
+            "new": [
+              61.363,
+              64.082366
+            ]
+          },
+          {
+            "row": 19,
+            "old": [
+              64.082366,
+              66.871344
+            ],
+            "removedWordUnits": 9,
+            "sourceRow": 20,
+            "sourceTime": 55.076,
+            "mappedGameTime": 64.076,
+            "new": [
+              64.076,
+              66.871344
+            ]
+          },
+          {
+            "row": 20,
+            "old": [
+              66.871344,
+              69.250472
+            ],
+            "removedWordUnits": 7,
+            "sourceRow": 21,
+            "sourceTime": 57.771,
+            "mappedGameTime": 66.771,
+            "new": [
+              66.771,
+              69.250472
+            ]
+          },
+          {
+            "row": 21,
+            "old": [
+              68.2,
+              69.47
+            ],
+            "removedWordUnits": 0,
+            "reason": "专辑 LRC 未单列；保留游戏立体声复核的叠唱。",
+            "new": [
+              68.2,
+              69.47
+            ]
+          },
+          {
+            "row": 22,
+            "old": [
+              69.4,
+              72.086
+            ],
+            "removedWordUnits": 0,
+            "sourceRow": 22,
+            "sourceTime": 60.4,
+            "mappedGameTime": 69.4,
+            "new": [
+              69.4,
+              72.086
+            ]
+          },
+          {
+            "row": 23,
+            "old": [
+              72.086,
+              73.349
+            ],
+            "removedWordUnits": 0,
+            "sourceRow": 23,
+            "sourceTime": 63.086,
+            "mappedGameTime": 72.086,
+            "new": [
+              72.086,
+              73.349
+            ]
+          },
+          {
+            "row": 24,
+            "old": [
+              73.580885,
+              77.609409
+            ],
+            "removedWordUnits": 18,
+            "sourceRow": 24,
+            "sourceTime": 64.349,
+            "mappedGameTime": 73.349,
+            "new": [
+              73.349,
+              77.609409
+            ]
+          },
+          {
+            "row": 25,
+            "old": [
+              77.609409,
+              80.215454
+            ],
+            "removedWordUnits": 10,
+            "sourceRow": 25,
+            "sourceTime": 68.45,
+            "mappedGameTime": 77.45,
+            "new": [
+              77.45,
+              80.215454
+            ]
+          },
+          {
+            "row": 26,
+            "old": [
+              80.215454,
+              82.95745
+            ],
+            "removedWordUnits": 13,
+            "sourceRow": 26,
+            "sourceTime": 71.143,
+            "mappedGameTime": 80.143,
+            "new": [
+              80.143,
+              82.95745
+            ]
+          },
+          {
+            "row": 27,
+            "old": [
+              82.95745,
+              87.834662
+            ],
+            "removedWordUnits": 10,
+            "sourceRow": 27,
+            "sourceTime": 73.818,
+            "mappedGameTime": 82.818,
+            "new": [
+              82.818,
+              87.834662
+            ]
+          },
+          {
+            "row": 28,
+            "old": [
+              82.95745,
+              87.834662
+            ],
+            "removedWordUnits": 3,
+            "sourceRow": 27,
+            "sourceTime": 73.818,
+            "mappedGameTime": 82.818,
+            "new": [
+              82.818,
+              87.834662
+            ]
+          },
+          {
+            "row": 29,
+            "old": [
+              87.834662,
+              93.378631
+            ],
+            "removedWordUnits": 15,
+            "sourceRow": 28,
+            "sourceTime": 78.59,
+            "mappedGameTime": 87.59,
+            "new": [
+              87.59,
+              93.378631
+            ]
+          },
+          {
+            "row": 30,
+            "old": [
+              93.378631,
+              97.159246
+            ],
+            "removedWordUnits": 17,
+            "sourceRow": 29,
+            "sourceTime": 84.107,
+            "mappedGameTime": 93.107,
+            "new": [
+              93.107,
+              97.159246
+            ]
+          },
+          {
+            "row": 31,
+            "old": [
+              96.251,
+              98.681
+            ],
+            "removedWordUnits": 0,
+            "sourceRow": 30,
+            "sourceTime": 87.251,
+            "mappedGameTime": 96.251,
+            "new": [
+              96.251,
+              98.681
+            ]
+          },
+          {
+            "row": 32,
+            "old": [
+              98.681,
+              103.90613
+            ],
+            "removedWordUnits": 14,
+            "sourceRow": 31,
+            "sourceTime": 89.681,
+            "mappedGameTime": 98.681,
+            "new": [
+              98.681,
+              103.90613
+            ]
+          },
+          {
+            "row": 33,
+            "old": [
+              103.90613,
+              107.114458
+            ],
+            "removedWordUnits": 16,
+            "sourceRow": 67,
+            "sourceTime": 188.652,
+            "mappedGameTime": 103.797,
+            "reason": "LRC 的起点比对应游戏剪辑接点早 0.109 秒，以游戏剪辑接点为准。",
+            "new": [
+              103.90613,
+              107.114458
+            ]
+          },
+          {
+            "row": 34,
+            "old": [
+              107.114458,
+              110.5482
+            ],
+            "removedWordUnits": 14,
+            "sourceRow": 68,
+            "sourceTime": 191.725,
+            "mappedGameTime": 106.87,
+            "new": [
+              106.87,
+              110.5482
+            ]
+          },
+          {
+            "row": 35,
+            "old": [
+              110.5482,
+              113.287196
+            ],
+            "removedWordUnits": 18,
+            "sourceRow": 69,
+            "sourceTime": 194.571,
+            "mappedGameTime": 109.716,
+            "reason": "专辑 LRC 比既有游戏短句起点提前约 0.83 秒；合唱和主唱相接处保留既有游戏句界。",
+            "new": [
+              110.5482,
+              113.287196
+            ]
+          },
+          {
+            "row": 36,
+            "old": [
+              113.287196,
+              115.238481
+            ],
+            "removedWordUnits": 6,
+            "sourceRow": 70,
+            "sourceTime": 198.495,
+            "mappedGameTime": 113.64,
+            "new": [
+              113.64,
+              115.238481
+            ]
+          },
+          {
+            "row": 37,
+            "old": [
+              115.238481,
+              118.997104
+            ],
+            "removedWordUnits": 18,
+            "sourceRow": 71,
+            "sourceTime": 199.874,
+            "mappedGameTime": 115.019,
+            "new": [
+              115.019,
+              118.997104
+            ]
+          },
+          {
+            "row": 38,
+            "old": [
+              118.997104,
+              120.50855
+            ],
+            "removedWordUnits": 7,
+            "sourceRow": 72,
+            "sourceTime": 203.856,
+            "mappedGameTime": 119.001,
+            "new": [
+              119.001,
+              120.50855
+            ]
+          },
+          {
+            "row": 39,
+            "old": [
+              120.50855,
+              124.347144
+            ],
+            "removedWordUnits": 18,
+            "sourceRow": 73,
+            "sourceTime": 205.202,
+            "mappedGameTime": 120.347,
+            "new": [
+              120.347,
+              124.347144
+            ]
+          },
+          {
+            "row": 40,
+            "old": [
+              124.34325,
+              125.70825
+            ],
+            "removedWordUnits": 0,
+            "sourceRow": 74,
+            "sourceTime": 209.198,
+            "mappedGameTime": 124.343,
+            "new": [
+              124.343,
+              125.70825
+            ]
+          },
+          {
+            "row": 41,
+            "old": [
+              125.70825,
+              129.401292
+            ],
+            "removedWordUnits": 12,
+            "sourceRow": 75,
+            "sourceTime": 210.563,
+            "mappedGameTime": 125.708,
+            "new": [
+              125.708,
+              129.401292
+            ]
+          },
+          {
+            "row": 42,
+            "old": [
+              130.89,
+              131.71
+            ],
+            "removedWordUnits": 0,
+            "reason": "专辑 LRC 未单列；保留游戏声道复核的末尾「ふーっ！」。",
+            "new": [
+              130.89,
+              131.71
+            ]
+          }
+        ],
+        "otherRecordingCheck": {
+          "recordId": "2698278768",
+          "route": "through knd",
+          "duration": 223.125,
+          "audioSha256": "a4ebd28c15c622ed96a7600b88d145e49d9bb379ccfbab07000a7dcc93ba4636",
+          "gameWindows": 30,
+          "normalizedWaveformAtLeast0_95": 0,
+          "medianBestNormalizedWaveform": 0.46733,
+          "matchNote": "同样的波形窗口检验确认专辑 2697932176 与游戏两段波形一致；223 秒录音未通过同录音检验。"
+        }
+      }
+    }
+  ]
+}

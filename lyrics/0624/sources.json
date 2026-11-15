@@ -67,36 +67,40 @@
       "note": "renditions/vocaloid/version"
     },
     {
-      "usage": "时间轴",
-      "provider": "QQ音乐",
-      "recordId": "575360392",
-      "url": null,
-      "license": null,
-      "note": null
-    },
-    {
-      "usage": "时间轴",
+      "usage": "历史逐字时间",
       "provider": "QQ音乐",
       "recordId": "575360392",
       "url": "https://y.qq.com/n/ryqq/songDetail/002eWTtF3XdKJm",
       "license": null,
-      "note": null
+      "note": "原始 QRC 逐句内部为等分数据，当前播放 370 个单元已撤下，候选保留历史。",
+      "evidence": "reports/word-timing-search-2026-11-15-0624.json"
     },
     {
-      "usage": "时间轴",
-      "provider": "actual_game_phrase_observation",
-      "recordId": null,
-      "url": null,
+      "usage": "历史逐字时间",
+      "provider": "QQ音乐",
+      "recordId": "575360392",
+      "url": "https://y.qq.com/n/ryqq/songDetail/002eWTtF3XdKJm",
       "license": null,
-      "note": "已保存来源标签，未记录可直接引用的链接"
+      "note": "原始 QRC 逐句内部为等分数据，当前播放 370 个单元已撤下，候选保留历史。",
+      "evidence": "reports/word-timing-search-2026-11-15-0624.json"
     },
     {
-      "usage": "时间轴",
+      "usage": "逐句时间与叠唱复核",
+      "provider": "actual_game_phrase_observation",
+      "recordId": "1181",
+      "url": "https://assets-direct.unipjsk.com/ondemand/music/long/vs_0624_01/vs_0624_01.mp3",
+      "license": null,
+      "note": "沿用以游戏录音复核的显示区间及叠唱；独立动作证据覆盖首末「ふーっ！」和「えーりん！」。",
+      "evidence": "reports/word-timing-search-2026-11-15-0624.json"
+    },
+    {
+      "usage": "历史时间轴复核",
       "provider": "game_audio_review",
       "recordId": null,
       "url": null,
       "license": null,
-      "note": "2026-11 句尾校准：按默认音频 vs_0624_01（vocalId 1181）的 htdemucs 人声轨，用 sekai_lyrics 的对齐方法（日语音素 CTC、MMS、Whisper large-v3 强制对齐，网易云 LRC 局部偏移投票，句尾吸附人声静音）校准 0 行；16 行两个对齐器不在置信区间或证据冲突，列为待复核、未改（见 PROGRESS.md）。时间含前置空白。逐行依据见 reports/end-calibration-2026-11.json"
+      "note": "2026-11 句尾校准：按默认音频 vs_0624_01（vocalId 1181）的 htdemucs 人声轨，用 sekai_lyrics 的对齐方法（日语音素 CTC、MMS、Whisper large-v3 强制对齐，网易云 LRC 局部偏移投票，句尾吸附人声静音）校准 0 行；16 行两个对齐器不在置信区间或证据冲突，列为待复核、未改（见 PROGRESS.md）。时间含前置空白。逐行依据见 reports/end-calibration-2026-11.json",
+      "evidence": "reports/word-timing-search-2026-11-15-0624.json"
     },
     {
       "usage": "罗马音",
@@ -107,6 +111,62 @@
       "via": "https://github.com/shinonomeenana/sekai_lyrics",
       "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
       "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "逐句起点",
+      "provider": "网易云音乐",
+      "recordId": "2697932176",
+      "url": "https://music.163.com/song?id=2697932176",
+      "license": null,
+      "sourceFormat": "lrc",
+      "assetbundle": "vs_0624_01",
+      "vocalId": 1181,
+      "sourceToGameOffsetsSec": [
+        9,
+        -84.85475
+      ],
+      "gameCutSeconds": 103.90613,
+      "playbackRows": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        17,
+        18,
+        19,
+        20,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        34,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41
+      ],
+      "evidence": "reports/word-timing-search-2026-11-15-0624.json",
+      "note": "同阵容专辑录音经波形复核后映射到游戏剪辑，采用对应唱词的逐句起点。"
     }
   ]
 }
