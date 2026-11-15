@@ -263,6 +263,43 @@
         }
       ],
       "note": "Snapshot 20261110-all-v2; only recorded aligned lines; no cross-version word transfer; shared intervals retained."
+    },
+    {
+      "usage": "歌词分唱",
+      "provider": "Sekaipedia",
+      "recordId": "1842@337170",
+      "url": "https://www.sekaipedia.org/wiki/RAD_DOGS?oldid=337170",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "vocalId": 207,
+      "table": "lyrics-1",
+      "tabs": [
+        "Game Version"
+      ],
+      "evidence": "reports/sekaipedia-singer-search-2026-11-15.json",
+      "playbackRows": [
+        21
+      ],
+      "note": "以 JP master 的演唱类型和阵容筛选分页，按游戏歌词顺序精确匹配正文。重复文字以相邻的唯一歌词和候选分唱一致性消歧。忽略大小写、空白与标点。"
+    },
+    {
+      "usage": "歌词分唱",
+      "provider": "Sekaipedia",
+      "recordId": "1842@337170",
+      "url": "https://www.sekaipedia.org/wiki/RAD_DOGS?oldid=337170",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "vocalId": 213,
+      "table": "lyrics-3",
+      "tabs": [
+        "Another Vocal",
+        "Kohane, An"
+      ],
+      "evidence": "reports/sekaipedia-singer-search-2026-11-15.json",
+      "playbackRows": [
+        21
+      ],
+      "note": "以 JP master 的演唱类型和阵容筛选分页，按游戏歌词顺序精确匹配正文。重复文字以相邻的唯一歌词和候选分唱一致性消歧。忽略大小写、空白与标点。"
     }
   ]
 }

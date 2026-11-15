@@ -13,3 +13,5 @@
 已记录 CC BY-SA 等上游许可的内容，应保留相应署名、链接及许可说明。歌词文字、译文、录音和整理脚本并不自动共享同一个许可；本仓库未对全部内容授予统一许可。再发布时请按具体来源及权利人授权处理。
 
 罗马音另取自 Sekaipedia，贡献者署名与页面历史可由各曲 `romaji.sekaipedia.json` 的页面链接追溯，遵循 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)。本次经由 shinonomeenana/sekai_lyrics 的抓取结果转取；提交号记录在每首输入及 sources.json。保留原有译文及译者，不采用该仓库的网易云译文。
+
+从 Sekaipedia 歌词页补入的分唱单独记为「歌词分唱」。各曲 `sources.json` 记录页面修订链接、许可、演唱版本、覆盖行号和核查报告。歌手片段对应本地播放文字，时间信息沿用各曲已有的时间轴来源。见[分唱维护步骤](maintenance.md#从-sekaipedia-补行内分唱)。

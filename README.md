@@ -25,15 +25,15 @@ Project SEKAI 游戏音频用的同步歌词成品，包含日文、已有的中
 | 有逐字时间轴并可用于播放的歌曲 | 566 |
 | 播放 JSON 中有逐字时间轴的歌词行 | 14,316 |
 | 播放 JSON 中的逐字／逐词单元 | 150,509 |
-| 使用带分唱信息的双语 JSON 的歌曲 | 483 |
-| 使用 LRC 的歌曲 | 239 |
+| 使用带分唱信息的双语 JSON 的歌曲 | 486 |
+| 使用 LRC 的歌曲 | 236 |
 
 “有逐字”表示至少一部分句子有逐字轴，并非全曲每个字都有。没有逐字轴的句子使用逐句高亮。沿用来源提供的字、词或短语粒度，不把整句时长平均切成逐字时间。
 
 ## 下载与目录
 
 - [Excel 覆盖清单](reports/lyrics-coverage.xlsx)：按游戏发布时间从早到晚排列，含覆盖情况、译者、平台、来源链接和记录 ID。
-- [来源与检索历史清单](reports/source-history-audit.csv)：逐曲汇总当前时间轴来源、历史逐字匹配记录、QQ 搜索与拉取结果、网易云记录编号及证据路径；[无逐字跟进表](reports/word-timing-followup.csv)、[已保存 QQ QRC 候选](reports/qq-word-candidates.csv)。检索命中不等于可用，缺记录不等于未查，网易云 LRC 记录不证明已查 YRC。[详细证据](reports/source-history-audit.json)为 2026-11-14 汇总的历史快照。
+- [来源与检索历史清单](reports/source-history-audit.csv)汇总当前时间轴来源、QQ 搜索与拉取结果、网易云记录编号、MoeSekai 和 Sekaipedia 分唱核查及证据路径。[详细证据](reports/source-history-audit.json)、[无逐字跟进表](reports/word-timing-followup.csv)、[已保存 QQ QRC 候选](reports/qq-word-candidates.csv)。
 - [歌曲目录](catalog.json)：歌曲 ID、标题、播放版本、时长、逐字覆盖及来源摘要。
 - [`lyrics/`](lyrics/)：按音乐 ID 分目录的歌词成品。
 - [`playback/`](playback/)：可直接用于静态托管、按内容哈希命名的播放资源。

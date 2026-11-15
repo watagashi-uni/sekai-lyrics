@@ -129,6 +129,30 @@
       "upstreamRevision": "0d70c731c627eb376ddef3120e2a24ed52d83134",
       "performerSource": "line characterIds; no segment inference",
       "note": "2026-11-14：セカイver.（vocalId 554，se_0174_01）原来没有任何分唱，现作为附加版本补上。逐行分唱取自对方 timed/0174.json 的 characterIds：对方 29 行与默认版本的 29 行逐行对应，其中 29 行文字一致（忽略空白），按行直接对应，不做行内拆分，不推测；附加版本沿用默认时间轴。时间轴核对：两版时长 133.9655／133.9655 s；全曲混音按 4 秒窗互相关，相关≥0.3 的 30 窗最佳偏移中位 +0.000 s（29 窗在 ±0.01 s 内；相关低于 0.3 的窗两版混音差别大，不计）；两版人声分离轨逐行包络互相关（相关≥0.5 的 29／29 行）最佳偏移中位 +0.000 s，29 行在 ±0.05 s 内。游戏音频取自 sekai_3dmv_dl 仓库 music_dl/acb，按 sekai_lyrics tools/audio_source.py 选精确人声 cue（stream 1）解码。"
+    },
+    {
+      "usage": "歌词分唱",
+      "provider": "Sekaipedia",
+      "recordId": "10305@342816",
+      "url": "https://www.sekaipedia.org/wiki/1%2C_2_Fanclub?oldid=342816",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "vocalId": 554,
+      "table": "lyrics-1",
+      "tabs": [
+        "Game version"
+      ],
+      "evidence": "reports/sekaipedia-singer-search-2026-11-15.json",
+      "playbackRows": [
+        4,
+        6,
+        7,
+        8,
+        10,
+        12,
+        13
+      ],
+      "note": "以 JP master 的演唱类型和阵容筛选分页，按游戏歌词顺序精确匹配正文。重复文字以相邻的唯一歌词和候选分唱一致性消歧。忽略大小写、空白与标点。"
     }
   ]
 }

@@ -4,11 +4,13 @@
   "performers": [
     {
       "performerId": "歌唱者-18",
-      "name": "朝比奈まふゆ"
+      "name": "朝比奈まふゆ",
+      "characterId": 18
     },
     {
       "performerId": "歌唱者-20",
-      "name": "暁山瑞希"
+      "name": "暁山瑞希",
+      "characterId": 20
     }
   ],
   "lines": [
@@ -232,7 +234,22 @@
         }
       ],
       "trailingPerformerIds": [],
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "Mr. Crazy Villain Villain ",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-20"
+          ]
+        },
+        {
+          "text": "夜行性の花弁",
+          "performerIds": [
+            "歌唱者-18"
+          ]
+        }
+      ]
     },
     {
       "index": 8,
@@ -323,7 +340,22 @@
         }
       ],
       "trailingPerformerIds": [],
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "拝啓　Dr. Duran Duran ",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-20"
+          ]
+        },
+        {
+          "text": "迎えにきて下さい",
+          "performerIds": [
+            "歌唱者-20"
+          ]
+        }
+      ]
     },
     {
       "index": 10,
@@ -371,7 +403,22 @@
         }
       ],
       "trailingPerformerIds": [],
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "顔も知らない誰かにとって僕はもう",
+          "performerIds": [
+            "歌唱者-20"
+          ]
+        },
+        {
+          "text": "ヴィラン",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-20"
+          ]
+        }
+      ]
     },
     {
       "index": 11,
@@ -456,7 +503,21 @@
         }
       ],
       "trailingPerformerIds": [],
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "蛇蝎ライフ ",
+          "performerIds": [
+            "歌唱者-18"
+          ]
+        },
+        {
+          "text": "蛇蝎ライフ",
+          "performerIds": [
+            "歌唱者-20"
+          ]
+        }
+      ]
     },
     {
       "index": 15,
@@ -487,7 +548,21 @@
         }
       ],
       "trailingPerformerIds": [],
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "挙句の",
+          "performerIds": [
+            "歌唱者-18"
+          ]
+        },
+        {
+          "text": "糜爛",
+          "performerIds": [
+            "歌唱者-20"
+          ]
+        }
+      ]
     },
     {
       "index": 16,
@@ -848,7 +923,22 @@
         }
       ],
       "trailingPerformerIds": [],
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "顔も知らない誰かにとって僕はもう",
+          "performerIds": [
+            "歌唱者-20"
+          ]
+        },
+        {
+          "text": "ヴィラン",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-20"
+          ]
+        }
+      ]
     },
     {
       "index": 25,
@@ -933,7 +1023,21 @@
         }
       ],
       "trailingPerformerIds": [],
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "蛇蝎ライフ ",
+          "performerIds": [
+            "歌唱者-18"
+          ]
+        },
+        {
+          "text": "蛇蝎ライフ",
+          "performerIds": [
+            "歌唱者-20"
+          ]
+        }
+      ]
     },
     {
       "index": 29,
@@ -971,7 +1075,22 @@
         }
       ],
       "trailingPerformerIds": [],
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "挙句の果ての",
+          "performerIds": [
+            "歌唱者-18"
+          ]
+        },
+        {
+          "text": "糜爛",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-20"
+          ]
+        }
+      ]
     }
   ]
 }

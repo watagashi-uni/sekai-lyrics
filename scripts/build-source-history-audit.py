@@ -41,7 +41,12 @@ def playback_counts(play):
 
 def saved_batches():
     by_song = collections.defaultdict(list)
-    for path in sorted(REPORTS.glob('word-timing-search-*.json')):
+    paths = sorted([
+        *REPORTS.glob('word-timing-search-*.json'),
+        *REPORTS.glob('moesekai-singer-search-*.json'),
+        *REPORTS.glob('sekaipedia-singer-search-*.json'),
+    ])
+    for path in paths:
         batch = read_json(path)
         for song in batch['songs']:
             by_song[song['musicId']].append({
@@ -50,6 +55,15 @@ def saved_batches():
                 'evidence': str(path.relative_to(ROOT)),
             })
     return by_song
+
+
+def singer_status(batches, provider):
+    latest = max(
+        (batch for batch in batches if 'singerReview' in batch and provider in batch['providers']),
+        key=lambda batch: (batch['date'], Path(batch['evidence']).stem),
+        default=None,
+    )
+    return latest['singerReview']['status'] if latest else ''
 
 
 def qq_status(archived, checks):
@@ -134,6 +148,7 @@ def main(history_path):
         stage = history['stage'].get(mid, {})
         ne_files = history['neteaseFiles'].get(mid, [])
         batches = batches_by_song[music_id]
+        word_batches = [batch for batch in batches if 'singerReview' not in batch]
         reviews = [batch['maintenanceReview'] for batch in batches if 'maintenanceReview' in batch]
         qq_batches = [
             (batch['evidence'], batch['providers']['qqmusic'])
@@ -176,7 +191,7 @@ def main(history_path):
         yrc_checked = {str(r['id']) for r in ne_fetched if 'yrcPayloadReturned' in r}
         yrc_found = {str(r['id']) for r in ne_fetched if r.get('format') == 'yrc'}
         history_proofs = stage.get('wordProofs', [])
-        recommended = next_step(timed, reviews, has_qq_index, qrc, qq_checks, batches)
+        recommended = next_step(timed, reviews, has_qq_index, qrc, qq_checks, word_batches)
         evidence_paths = ([qq['path']] if qq.get('path') else []) + [batch['evidence'] for batch in batches]
         inventory.append({
             '歌曲ID': music_id,
@@ -201,6 +216,8 @@ def main(history_path):
             '建议下一步': recommended,
             'QQ证据路径': qq['path'] if qq.get('path') else '',
             '历史成品路径': stage.get('path', ''),
+            'MoeSekai分唱核查': singer_status(batches, 'moesekai'),
+            'Sekaipedia分唱核查': singer_status(batches, 'sekaipedia'),
             '补查证据': ' | '.join(dict.fromkeys(evidence_paths)),
         })
 

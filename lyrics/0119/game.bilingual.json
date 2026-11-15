@@ -1,7 +1,18 @@
 {
   "music_id": 119,
   "time_origin": "selected_game_recording_start_including_pre_roll",
-  "performers": [],
+  "performers": [
+    {
+      "performerId": "歌唱者-21",
+      "name": "初音ミク",
+      "characterId": 21
+    },
+    {
+      "performerId": "歌唱者-24",
+      "name": "巡音ルカ",
+      "characterId": 24
+    }
+  ],
   "lines": [
     {
       "id": "full-000001",
@@ -48,7 +59,15 @@
         }
       ],
       "trailingPerformerIds": [],
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "冗談混じりの境界線上　階段のそのまた向こう",
+          "performerIds": [
+            "歌唱者-21"
+          ]
+        }
+      ]
     },
     {
       "id": "full-000002",
@@ -88,7 +107,15 @@
         }
       ],
       "trailingPerformerIds": [],
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "全然良いこともないし、ねえ　その手を引いてみようか?",
+          "performerIds": [
+            "歌唱者-21"
+          ]
+        }
+      ]
     },
     {
       "id": "full-000003",
@@ -136,7 +163,15 @@
       ],
       "trailingPerformerIds": [],
       "stanzaBreakBefore": true,
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "散々躓いたダンスを、そう、祭壇の上で踊るの?",
+          "performerIds": [
+            "歌唱者-21"
+          ]
+        }
+      ]
     },
     {
       "id": "full-000004",
@@ -183,7 +218,15 @@
         }
       ],
       "trailingPerformerIds": [],
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "呆然に目が眩んじゃうから　どうでしょう、一緒にここで!",
+          "performerIds": [
+            "歌唱者-21"
+          ]
+        }
+      ]
     },
     {
       "id": "full-000005",
@@ -231,7 +274,15 @@
       ],
       "trailingPerformerIds": [],
       "stanzaBreakBefore": true,
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "甲高い声が部屋を埋めるよ",
+          "performerIds": [
+            "歌唱者-21"
+          ]
+        }
+      ]
     },
     {
       "id": "full-000006",
@@ -271,7 +322,22 @@
         }
       ],
       "trailingPerformerIds": [],
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "最低な意味を",
+          "performerIds": [
+            "歌唱者-21"
+          ]
+        },
+        {
+          "text": "渦巻いて",
+          "performerIds": [
+            "歌唱者-21",
+            "歌唱者-24"
+          ]
+        }
+      ]
     },
     {
       "id": "full-000007",
@@ -304,7 +370,22 @@
         }
       ],
       "trailingPerformerIds": [],
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "当然、",
+          "performerIds": [
+            "歌唱者-21"
+          ]
+        },
+        {
+          "text": "良いこともないし",
+          "performerIds": [
+            "歌唱者-21",
+            "歌唱者-24"
+          ]
+        }
+      ]
     },
     {
       "id": "full-000008",
@@ -354,7 +435,22 @@
         }
       ],
       "trailingPerformerIds": [],
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "さあ、思い切り吐き出",
+          "performerIds": [
+            "歌唱者-21"
+          ]
+        },
+        {
+          "text": "そうか",
+          "performerIds": [
+            "歌唱者-21",
+            "歌唱者-24"
+          ]
+        }
+      ]
     },
     {
       "id": "full-000009",
@@ -433,7 +529,16 @@
       ],
       "trailingPerformerIds": [],
       "stanzaBreakBefore": true,
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "「短い言葉で繋がる意味を　顔も合わさずに毛嫌う理由を",
+          "performerIds": [
+            "歌唱者-21",
+            "歌唱者-24"
+          ]
+        }
+      ]
     },
     {
       "id": "full-000010",
@@ -462,7 +567,16 @@
         }
       ],
       "trailingPerformerIds": [],
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "さがしても　さがしても　見つからないけど",
+          "performerIds": [
+            "歌唱者-21",
+            "歌唱者-24"
+          ]
+        }
+      ]
     },
     {
       "id": "full-000011",
@@ -513,7 +627,16 @@
       ],
       "trailingPerformerIds": [],
       "stanzaBreakBefore": true,
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "はにかみながら怒ったって　目を伏せながら笑ったって",
+          "performerIds": [
+            "歌唱者-21",
+            "歌唱者-24"
+          ]
+        }
+      ]
     },
     {
       "id": "full-000012",
@@ -535,7 +658,16 @@
         }
       ],
       "trailingPerformerIds": [],
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "そんなの、どうせ、つまらないわ！」",
+          "performerIds": [
+            "歌唱者-21",
+            "歌唱者-24"
+          ]
+        }
+      ]
     },
     {
       "id": "full-000013",
@@ -565,7 +697,16 @@
       ],
       "trailingPerformerIds": [],
       "stanzaBreakBefore": true,
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "ホップ・ステップで踊ろうか",
+          "performerIds": [
+            "歌唱者-21",
+            "歌唱者-24"
+          ]
+        }
+      ]
     },
     {
       "id": "full-000014",
@@ -598,7 +739,16 @@
         }
       ],
       "trailingPerformerIds": [],
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "世界の隅っこでワン・ツー",
+          "performerIds": [
+            "歌唱者-21",
+            "歌唱者-24"
+          ]
+        }
+      ]
     },
     {
       "id": "full-000015",
@@ -634,7 +784,16 @@
         }
       ],
       "trailingPerformerIds": [],
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "ちょっとクラッとしそうになる終末感を楽しんで",
+          "performerIds": [
+            "歌唱者-21",
+            "歌唱者-24"
+          ]
+        }
+      ]
     },
     {
       "id": "full-000016",
@@ -685,7 +844,16 @@
       ],
       "trailingPerformerIds": [],
       "stanzaBreakBefore": true,
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "パッとフラッと消えちゃいそな　次の瞬間を残そうか",
+          "performerIds": [
+            "歌唱者-21",
+            "歌唱者-24"
+          ]
+        }
+      ]
     },
     {
       "id": "full-000017",
@@ -728,7 +896,16 @@
         }
       ],
       "trailingPerformerIds": [],
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "くるくるくるくるり　回る世界に酔う",
+          "performerIds": [
+            "歌唱者-21",
+            "歌唱者-24"
+          ]
+        }
+      ]
     }
   ]
 }

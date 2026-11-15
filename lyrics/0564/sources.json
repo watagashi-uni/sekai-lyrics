@@ -142,6 +142,36 @@
         }
       ],
       "note": "Snapshot 20261110-all-v2; only recorded aligned lines; no cross-version word transfer; shared intervals retained."
+    },
+    {
+      "usage": "歌词分唱",
+      "provider": "Sekaipedia",
+      "recordId": "44431@328008",
+      "url": "https://www.sekaipedia.org/wiki/Soko_ni_Aru%2C_Hikari.?oldid=328008",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "vocalId": 1121,
+      "table": "lyrics-2",
+      "tabs": [
+        "Game Version",
+        "VIRTUAL SINGER"
+      ],
+      "evidence": "reports/sekaipedia-singer-search-2026-11-15.json",
+      "playbackRows": [
+        13,
+        14,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        23,
+        24,
+        25,
+        26
+      ],
+      "note": "以 JP master 的演唱类型和阵容筛选分页，按游戏歌词顺序精确匹配正文。重复文字以相邻的唯一歌词和候选分唱一致性消歧。忽略大小写、空白与标点。"
     }
   ]
 }

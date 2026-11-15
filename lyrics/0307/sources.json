@@ -201,6 +201,54 @@
         }
       ],
       "note": "Snapshot 20261110-all-v2; only recorded aligned lines; no cross-version word transfer; shared intervals retained; sub-10-microsecond rounding excess clamped to decoded duration."
+    },
+    {
+      "usage": "歌词分唱",
+      "provider": "Sekaipedia",
+      "recordId": "23223@328791",
+      "url": "https://www.sekaipedia.org/wiki/Okochama_Sensou?oldid=328791",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "vocalId": 772,
+      "table": "lyrics-1",
+      "tabs": [
+        "Game Version",
+        "SEKAI"
+      ],
+      "evidence": "reports/sekaipedia-singer-search-2026-11-15.json",
+      "playbackRows": [
+        2,
+        33,
+        34,
+        35,
+        36,
+        37
+      ],
+      "note": "以 JP master 的演唱类型和阵容筛选分页，按游戏歌词顺序精确匹配正文。重复文字以相邻的唯一歌词和候选分唱一致性消歧。忽略大小写、空白与标点。"
+    },
+    {
+      "usage": "歌词分唱",
+      "provider": "Sekaipedia",
+      "recordId": "23223@328791",
+      "url": "https://www.sekaipedia.org/wiki/Okochama_Sensou?oldid=328791",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "vocalId": 887,
+      "table": "lyrics-4",
+      "tabs": [
+        "Alternate Vocal",
+        "Tsukasa, Nene"
+      ],
+      "evidence": "reports/sekaipedia-singer-search-2026-11-15.json",
+      "playbackRows": [
+        2,
+        33,
+        34,
+        35,
+        36,
+        37
+      ],
+      "note": "以 JP master 的演唱类型和阵容筛选分页，按游戏歌词顺序精确匹配正文。重复文字以相邻的唯一歌词和候选分唱一致性消歧。忽略大小写、空白与标点。"
     }
   ]
 }

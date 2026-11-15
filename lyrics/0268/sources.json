@@ -68,6 +68,30 @@
       "via": "https://github.com/shinonomeenana/sekai_lyrics",
       "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
       "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "歌词分唱",
+      "provider": "Sekaipedia",
+      "recordId": "20358@329676",
+      "url": "https://www.sekaipedia.org/wiki/Non-breath_oblige?oldid=329676",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "vocalId": 669,
+      "table": "lyrics-1",
+      "tabs": [
+        "Game Version"
+      ],
+      "evidence": "reports/sekaipedia-singer-search-2026-11-15.json",
+      "playbackRows": [
+        11,
+        12,
+        18,
+        19,
+        24,
+        33,
+        34
+      ],
+      "note": "以 JP master 的演唱类型和阵容筛选分页，按游戏歌词顺序精确匹配正文。重复文字以相邻的唯一歌词和候选分唱一致性消歧。忽略大小写、空白与标点。"
     }
   ]
 }

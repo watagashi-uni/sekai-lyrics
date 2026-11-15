@@ -4,23 +4,28 @@
   "performers": [
     {
       "performerId": "歌唱者-21",
-      "name": "初音ミク"
+      "name": "初音ミク",
+      "characterId": 21
     },
     {
       "performerId": "歌唱者-17",
-      "name": "宵崎奏"
+      "name": "宵崎奏",
+      "characterId": 17
     },
     {
       "performerId": "歌唱者-18",
-      "name": "朝比奈まふゆ"
+      "name": "朝比奈まふゆ",
+      "characterId": 18
     },
     {
       "performerId": "歌唱者-19",
-      "name": "東雲絵名"
+      "name": "東雲絵名",
+      "characterId": 19
     },
     {
       "performerId": "歌唱者-20",
-      "name": "暁山瑞希"
+      "name": "暁山瑞希",
+      "characterId": 20
     }
   ],
   "lines": [
@@ -452,7 +457,22 @@
         }
       ],
       "trailingPerformerIds": [],
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "分断を生んじゃった",
+          "performerIds": [
+            "歌唱者-19"
+          ]
+        },
+        {
+          "text": "椅子取りゲーム",
+          "performerIds": [
+            "歌唱者-19",
+            "歌唱者-21"
+          ]
+        }
+      ]
     },
     {
       "index": 12,
@@ -486,7 +506,22 @@
         }
       ],
       "trailingPerformerIds": [],
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "無痛分娩で",
+          "performerIds": [
+            "歌唱者-19"
+          ]
+        },
+        {
+          "text": "授かるベイブ",
+          "performerIds": [
+            "歌唱者-19",
+            "歌唱者-21"
+          ]
+        }
+      ]
     },
     {
       "index": 13,
@@ -734,7 +769,21 @@
         }
       ],
       "trailingPerformerIds": [],
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "幸せ自慢はダメ？　",
+          "performerIds": [
+            "歌唱者-19"
+          ]
+        },
+        {
+          "text": "不幸嘆いてもダメ？",
+          "performerIds": [
+            "歌唱者-21"
+          ]
+        }
+      ]
     },
     {
       "index": 19,
@@ -789,7 +838,21 @@
         }
       ],
       "trailingPerformerIds": [],
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "図々しい言葉を避け　",
+          "performerIds": [
+            "歌唱者-17"
+          ]
+        },
+        {
+          "text": "明るい未来のため",
+          "performerIds": [
+            "歌唱者-21"
+          ]
+        }
+      ]
     },
     {
       "index": 20,
@@ -964,7 +1027,34 @@
         }
       ],
       "trailingPerformerIds": [],
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "あちらが",
+          "performerIds": [
+            "歌唱者-17"
+          ]
+        },
+        {
+          "text": "立てば　",
+          "performerIds": [
+            "歌唱者-21"
+          ]
+        },
+        {
+          "text": "こちらが",
+          "performerIds": [
+            "歌唱者-17"
+          ]
+        },
+        {
+          "text": "立たず",
+          "performerIds": [
+            "歌唱者-17",
+            "歌唱者-21"
+          ]
+        }
+      ]
     },
     {
       "index": 25,
@@ -1243,7 +1333,22 @@
         }
       ],
       "trailingPerformerIds": [],
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "ぼくらは　",
+          "performerIds": [
+            "歌唱者-20"
+          ]
+        },
+        {
+          "text": "コンプレックス　コンプレックス　コンプレックス",
+          "performerIds": [
+            "歌唱者-20",
+            "歌唱者-21"
+          ]
+        }
+      ]
     },
     {
       "index": 34,
@@ -1281,7 +1386,24 @@
         }
       ],
       "trailingPerformerIds": [],
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "コンプレックスを武器に",
+          "performerIds": [
+            "歌唱者-20",
+            "歌唱者-21"
+          ]
+        },
+        {
+          "text": "争う",
+          "performerIds": [
+            "歌唱者-18",
+            "歌唱者-20",
+            "歌唱者-21"
+          ]
+        }
+      ]
     },
     {
       "index": 35,

@@ -23,6 +23,49 @@ Excel 是本次快照报告，构建脚本不会自动更新它。不要在只�
 
 本仓库只收录可分享的文档和歌词成品；上传凭据、环境配置、音频、模型检查点和内部运行目录不应进入 Git。
 
+## 从 Sekaipedia 补行内分唱
+
+1. 从 [List of songs](https://www.sekaipedia.org/wiki/List_of_songs) 找歌曲页链接。用本地曲名、已存的来源链接或罗马音来源定位候选，再用歌曲页的 **Song ID** 对照 `catalog.json`。按 JP master 的 `musicVocals` 选出本地已有游戏时间轴、需要补分唱的 `vocalId`。
+2. 抓取普通歌曲页的 HTML。解析器读取歌词表里的日文原词，纯英语歌词表读取英文原词。优先取 `data-singers` 和 `data-backing`，旧版取 `text-color` 的歌手名称。歌手别名和团体成员按 Sekaipedia 的定义换算成角色 ID，再用游戏 master 核对演唱类型及阵容。见 [Sekaipedia 颜色与团体定义](https://www.sekaipedia.org/wiki/Module:LyricColor/data)。
+3. 先试跑并检查报告里的分页、阵容和歌词对应。匹配忽略大小写、空白和标点，保留本地显示文字。重复歌词由前后的唯一歌词约束；可能对应不同歌手的行留待复核。导入支持补上缺失标记，以及把歌手集合一致的整句标记细化为行内片段。优先保留已有行内分唱。
+4. 写入后核对默认版的 `lyrics.json` 和 `game.bilingual.json`。附加版分唱写入 `versions[].singers`，沿用默认版播放行。LRC 默认版需要显示分唱时转为双语 JSON，沿用既有行的时间、译文、注音、罗马音和逐字单元。独立 LRC 继续提供原来的歌词和时间轴。
+
+### 输入与运行
+
+网页快照保存在临时目录。目录中需要以下文件。
+
+| 文件 | 内容 |
+| --- | --- |
+| `index.html` | 原始歌曲目录 HTML，用于记录目录修订号和候选链接 |
+| `targets.json` | 以歌曲 ID 字符串为键。每项包含 `title`、`directory`（如 `lyrics/0119`）、`vocalIds`（整数数组）、`candidates`（以 Wiki 页名为键的对象） |
+| `pages.json` | 以候选 Wiki 页名为键。每项记录 `url`、`httpStatus`，可附 `attempts`。成功时另记录 `resolvedUrl`、`cacheKey`、`sha256`（未压缩 HTML 的哈希） |
+| `html/<cacheKey>` | 成功返回的 UTF-8 HTML，使用 gzip 保存 |
+
+从同一个 JP master `dataVersion` 读取 `musicVocals`、`gameCharacters`、`outsideCharacters`，分别保存为 master 输入目录中的 `vocals.json`、`characters.json`、`outside.json`。
+
+```sh
+capture_dir=/tmp/sekaipedia-capture
+master_dir=/tmp/sekaipedia-master
+master_version=7.1.0.60
+batch_date=$(date +%F)
+
+uv run --no-project --with lxml python scripts/import-sekaipedia-singers.py \
+  "$capture_dir" "$master_dir" /tmp/sekaipedia-singers-preview.json \
+  --master-version "$master_version"
+
+uv run --no-project --with lxml python scripts/import-sekaipedia-singers.py \
+  "$capture_dir" "$master_dir" "reports/sekaipedia-singer-search-$batch_date.json" \
+  --master-version "$master_version" --date "$batch_date" --write
+
+python3 scripts/update-catalog.py
+python3 scripts/build-source-history-audit.py /tmp/source-history.json
+node scripts/build-playback.mjs
+node scripts/validate.mjs
+node scripts/test-version-schema.mjs
+```
+
+将示例中的 `master_version` 换成实际输入的版本。试跑可用 `--ids 119 303 802` 指定歌曲。同一天的后续批次可在报告名里依次追加 `-02`、`-03` 等后缀，保留旧报告对应的来源链接。导入会在各曲 `sources.json` 记录页面修订、分页、`vocalId` 和已采用的零基播放行。重建来源清单所需的历史输入按 `scripts/build-source-history-audit.py` 开头的命令从 yokohama 收集。逐曲证据和采用结果见[首次分唱核查](../reports/sekaipedia-singer-search-2026-11-15.json)。
+
 ## 本次合并的可重跑工具
 
 - `import-sekaipedia-romaji.py <对方只读 checkout>` 提取可精确对应的人工罗马音输入，之后运行现有 `add-romaji.py`。不读取对方译文。

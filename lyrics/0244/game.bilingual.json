@@ -4,23 +4,28 @@
   "performers": [
     {
       "performerId": "歌唱者-10",
-      "name": "白石杏"
+      "name": "白石杏",
+      "characterId": 10
     },
     {
       "performerId": "歌唱者-21",
-      "name": "初音ミク"
+      "name": "初音ミク",
+      "characterId": 21
     },
     {
       "performerId": "歌唱者-09",
-      "name": "小豆沢こはね"
+      "name": "小豆沢こはね",
+      "characterId": 9
     },
     {
       "performerId": "歌唱者-11",
-      "name": "東雲彰人"
+      "name": "東雲彰人",
+      "characterId": 11
     },
     {
       "performerId": "歌唱者-12",
-      "name": "青柳冬弥"
+      "name": "青柳冬弥",
+      "characterId": 12
     }
   ],
   "lines": [
@@ -647,7 +652,21 @@
         }
       ],
       "trailingPerformerIds": [],
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "ただ素直に ",
+          "performerIds": [
+            "歌唱者-21"
+          ]
+        },
+        {
+          "text": "椅子を近付けて",
+          "performerIds": [
+            "歌唱者-11"
+          ]
+        }
+      ]
     },
     {
       "index": 20,

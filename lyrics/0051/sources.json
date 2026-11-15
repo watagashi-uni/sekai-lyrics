@@ -352,6 +352,54 @@
           ]
         }
       ]
+    },
+    {
+      "usage": "歌词分唱",
+      "provider": "Sekaipedia",
+      "recordId": "924@339131",
+      "url": "https://www.sekaipedia.org/wiki/Sekai_wa_Mada_Hajimatte_sura_Inai?oldid=339131",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "vocalId": 97,
+      "table": "lyrics-3",
+      "tabs": [
+        "Alternate Vocal",
+        "Tsukasa, Emu"
+      ],
+      "evidence": "reports/sekaipedia-singer-search-2026-11-15.json",
+      "playbackRows": [
+        22,
+        23,
+        24,
+        25,
+        27
+      ],
+      "note": "以 JP master 的演唱类型和阵容筛选分页，按游戏歌词顺序精确匹配正文。重复文字以相邻的唯一歌词和候选分唱一致性消歧。忽略大小写、空白与标点。"
+    },
+    {
+      "usage": "歌词分唱",
+      "provider": "Sekaipedia",
+      "recordId": "924@339131",
+      "url": "https://www.sekaipedia.org/wiki/Sekai_wa_Mada_Hajimatte_sura_Inai?oldid=339131",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "vocalId": 98,
+      "table": "lyrics-4",
+      "tabs": [
+        "Alternate Vocal",
+        "Nene, Rui"
+      ],
+      "evidence": "reports/sekaipedia-singer-search-2026-11-15.json",
+      "playbackRows": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "note": "以 JP master 的演唱类型和阵容筛选分页，按游戏歌词顺序精确匹配正文。重复文字以相邻的唯一歌词和候选分唱一致性消歧。忽略大小写、空白与标点。"
     }
   ]
 }

@@ -78,6 +78,32 @@
       "upstreamRevision": "7c170dac146a9c31d7fbb405e4c2bf507c5dd3f8",
       "performerSource": "line characterIds; no segment inference",
       "note": "2026-11-14：セカイver.（vocalId 460，se_0198_01）原来没有任何分唱，现作为附加版本补上。逐行分唱取自对方 raw_lyrics/0198.json 的 characterIds：对方 33 行与默认版本的 33 行逐行对应，其中 33 行文字一致（忽略空白），按行直接对应，不做行内拆分，不推测；附加版本沿用默认时间轴。时间轴核对：两版时长 135.7059／135.7059 s；全曲混音按 4 秒窗互相关，相关≥0.3 的 31 窗最佳偏移中位 -0.000 s（31 窗在 ±0.01 s 内；相关低于 0.3 的窗两版混音差别大，不计）；两版人声分离轨逐行包络互相关（相关≥0.5 的 33／33 行）最佳偏移中位 +0.000 s，33 行在 ±0.05 s 内。游戏音频取自 sekai_3dmv_dl 仓库 music_dl/acb，按 sekai_lyrics tools/audio_source.py 选精确人声 cue（stream 1）解码；其中 an_0198_01、se_0198_01 本地原先没有，于 2026-11-14 按仓库 7.1.0.60 官方 iOS 目录补下（music/long/<asset>，校验 HTTP 长度与解密后的 UnityFS 头）。"
+    },
+    {
+      "usage": "歌词分唱",
+      "provider": "Sekaipedia",
+      "recordId": "27991@352737",
+      "url": "https://www.sekaipedia.org/wiki/Goodbye_Sengen?oldid=352737",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "vocalId": 460,
+      "table": "lyrics-1",
+      "tabs": [
+        "Game Version"
+      ],
+      "evidence": "reports/sekaipedia-singer-search-2026-11-15.json",
+      "playbackRows": [
+        2,
+        5,
+        6,
+        7,
+        17,
+        18,
+        21,
+        30,
+        31
+      ],
+      "note": "以 JP master 的演唱类型和阵容筛选分页，按游戏歌词顺序精确匹配正文。重复文字以相邻的唯一歌词和候选分唱一致性消歧。忽略大小写、空白与标点。"
     }
   ]
 }

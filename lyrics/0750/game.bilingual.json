@@ -4,23 +4,28 @@
   "performers": [
     {
       "performerId": "歌唱者-09",
-      "name": "小豆沢こはね"
+      "name": "小豆沢こはね",
+      "characterId": 9
     },
     {
       "performerId": "歌唱者-10",
-      "name": "白石杏"
+      "name": "白石杏",
+      "characterId": 10
     },
     {
       "performerId": "歌唱者-11",
-      "name": "東雲彰人"
+      "name": "東雲彰人",
+      "characterId": 11
     },
     {
       "performerId": "歌唱者-12",
-      "name": "青柳冬弥"
+      "name": "青柳冬弥",
+      "characterId": 12
     },
     {
       "performerId": "歌唱者-26",
-      "name": "KAITO"
+      "name": "KAITO",
+      "characterId": 26
     }
   ],
   "lines": [
@@ -1002,7 +1007,19 @@
       ],
       "trailingPerformerIds": [],
       "stanzaBreakBefore": true,
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "Ah",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-10",
+            "歌唱者-11",
+            "歌唱者-12",
+            "歌唱者-26"
+          ]
+        }
+      ]
     }
   ]
 }

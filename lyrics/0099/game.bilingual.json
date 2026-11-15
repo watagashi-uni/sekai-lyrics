@@ -4,23 +4,28 @@
   "performers": [
     {
       "performerId": "歌唱者-07",
-      "name": "桃井愛莉"
+      "name": "桃井愛莉",
+      "characterId": 7
     },
     {
       "performerId": "歌唱者-21",
-      "name": "初音ミク"
+      "name": "初音ミク",
+      "characterId": 21
     },
     {
       "performerId": "歌唱者-05",
-      "name": "花里みのり"
+      "name": "花里みのり",
+      "characterId": 5
     },
     {
       "performerId": "歌唱者-06",
-      "name": "桐谷遥"
+      "name": "桐谷遥",
+      "characterId": 6
     },
     {
       "performerId": "歌唱者-08",
-      "name": "日野森雫"
+      "name": "日野森雫",
+      "characterId": 8
     }
   ],
   "lines": [
@@ -193,7 +198,25 @@
         }
       ],
       "trailingPerformerIds": [],
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "また最初は消えちゃいそうな思いから (",
+          "performerIds": [
+            "歌唱者-05"
+          ]
+        },
+        {
+          "text": "一歩ずつ)",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ]
+        }
+      ]
     },
     {
       "index": 7,
@@ -237,7 +260,25 @@
         }
       ],
       "trailingPerformerIds": [],
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "気づいたら動き出したストーリー (",
+          "performerIds": [
+            "歌唱者-06"
+          ]
+        },
+        {
+          "text": "いちにーさんはい！)",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ]
+        }
+      ]
     },
     {
       "index": 8,
@@ -284,7 +325,25 @@
         }
       ],
       "trailingPerformerIds": [],
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "ひとりじゃ届きそうもない場所 (",
+          "performerIds": [
+            "歌唱者-08"
+          ]
+        },
+        {
+          "text": "今はもう)",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ]
+        }
+      ]
     },
     {
       "index": 9,
@@ -314,7 +373,25 @@
         }
       ],
       "trailingPerformerIds": [],
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "夢じゃないあなたがいるから (",
+          "performerIds": [
+            "歌唱者-07"
+          ]
+        },
+        {
+          "text": "ポップ　ステップ　ジャンプ　はい！)",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ]
+        }
+      ]
     },
     {
       "index": 10,
@@ -463,7 +540,33 @@
         }
       ],
       "trailingPerformerIds": [],
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "だからもっと (",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-21"
+          ]
+        },
+        {
+          "text": "もっと！) ",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ]
+        },
+        {
+          "text": "近づきたいから",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-21"
+          ]
+        }
+      ]
     },
     {
       "index": 15,
@@ -496,7 +599,33 @@
         }
       ],
       "trailingPerformerIds": [],
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "もっと (",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-21"
+          ]
+        },
+        {
+          "text": "もっと！) ",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ]
+        },
+        {
+          "text": "声きかせて",
+          "performerIds": [
+            "歌唱者-08",
+            "歌唱者-21"
+          ]
+        }
+      ]
     },
     {
       "index": 16,
@@ -523,7 +652,21 @@
         }
       ],
       "trailingPerformerIds": [],
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "今鳴ったハートのビート",
+          "performerIds": [
+            "歌唱者-21"
+          ]
+        },
+        {
+          "text": "が",
+          "performerIds": [
+            "歌唱者-07"
+          ]
+        }
+      ]
     },
     {
       "index": 17,
@@ -544,7 +687,25 @@
         }
       ],
       "trailingPerformerIds": [],
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "とめられない！とめたくない！ (",
+          "performerIds": [
+            "歌唱者-07"
+          ]
+        },
+        {
+          "text": "ない！ない！)",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ]
+        }
+      ]
     },
     {
       "index": 18,
@@ -565,7 +726,33 @@
         }
       ],
       "trailingPerformerIds": [],
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "もっと (",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-21"
+          ]
+        },
+        {
+          "text": "もっと！) ",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ]
+        },
+        {
+          "text": "アイをしたいから",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-21"
+          ]
+        }
+      ]
     },
     {
       "index": 19,
@@ -598,7 +785,33 @@
         }
       ],
       "trailingPerformerIds": [],
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "もっと (",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-21"
+          ]
+        },
+        {
+          "text": "もっと！) ",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ]
+        },
+        {
+          "text": "愛をちょーだい",
+          "performerIds": [
+            "歌唱者-08",
+            "歌唱者-21"
+          ]
+        }
+      ]
     },
     {
       "index": 20,
@@ -616,7 +829,21 @@
         }
       ],
       "trailingPerformerIds": [],
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "その手掴んだら",
+          "performerIds": [
+            "歌唱者-21"
+          ]
+        },
+        {
+          "text": "はなさないから",
+          "performerIds": [
+            "歌唱者-07"
+          ]
+        }
+      ]
     },
     {
       "index": 21,
@@ -846,7 +1073,23 @@
         }
       ],
       "trailingPerformerIds": [],
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "今はちょっと",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-21"
+          ]
+        },
+        {
+          "text": "思いのカケラ",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-21"
+          ]
+        }
+      ]
     },
     {
       "index": 30,
@@ -877,7 +1120,23 @@
         }
       ],
       "trailingPerformerIds": [],
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "もうちょっと　",
+          "performerIds": [
+            "歌唱者-08",
+            "歌唱者-21"
+          ]
+        },
+        {
+          "text": "足りなくても",
+          "performerIds": [
+            "歌唱者-07",
+            "歌唱者-21"
+          ]
+        }
+      ]
     },
     {
       "index": 31,
@@ -960,7 +1219,33 @@
         }
       ],
       "trailingPerformerIds": [],
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "あのねもっと (",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-21"
+          ]
+        },
+        {
+          "text": "もっと！) ",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ]
+        },
+        {
+          "text": "愛してくれるなら",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-21"
+          ]
+        }
+      ]
     },
     {
       "index": 34,
@@ -981,7 +1266,33 @@
         }
       ],
       "trailingPerformerIds": [],
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "もっと (",
+          "performerIds": [
+            "歌唱者-06",
+            "歌唱者-21"
+          ]
+        },
+        {
+          "text": "もっと！) ",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-06",
+            "歌唱者-07",
+            "歌唱者-08",
+            "歌唱者-21"
+          ]
+        },
+        {
+          "text": "アイをあげる",
+          "performerIds": [
+            "歌唱者-08",
+            "歌唱者-21"
+          ]
+        }
+      ]
     },
     {
       "index": 35,

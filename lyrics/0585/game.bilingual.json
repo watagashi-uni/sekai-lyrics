@@ -4,27 +4,33 @@
   "performers": [
     {
       "performerId": "歌唱者-01",
-      "name": "星乃一歌"
+      "name": "星乃一歌",
+      "characterId": 1
     },
     {
       "performerId": "歌唱者-05",
-      "name": "花里みのり"
+      "name": "花里みのり",
+      "characterId": 5
     },
     {
       "performerId": "歌唱者-09",
-      "name": "小豆沢こはね"
+      "name": "小豆沢こはね",
+      "characterId": 9
     },
     {
       "performerId": "歌唱者-13",
-      "name": "天馬司"
+      "name": "天馬司",
+      "characterId": 13
     },
     {
       "performerId": "歌唱者-17",
-      "name": "宵崎奏"
+      "name": "宵崎奏",
+      "characterId": 17
     },
     {
       "performerId": "歌唱者-21",
-      "name": "初音ミク"
+      "name": "初音ミク",
+      "characterId": 21
     }
   ],
   "lines": [
@@ -498,7 +504,21 @@
         }
       ],
       "trailingPerformerIds": [],
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "今混ざり合っていく (",
+          "performerIds": [
+            "歌唱者-09"
+          ]
+        },
+        {
+          "text": "混ざり合っていく)",
+          "performerIds": [
+            "歌唱者-21"
+          ]
+        }
+      ]
     },
     {
       "index": 13,
@@ -542,7 +562,21 @@
         }
       ],
       "trailingPerformerIds": [],
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "ほら風が吹いている (",
+          "performerIds": [
+            "歌唱者-17"
+          ]
+        },
+        {
+          "text": "熱く)",
+          "performerIds": [
+            "歌唱者-21"
+          ]
+        }
+      ]
     },
     {
       "index": 14,
@@ -626,7 +660,28 @@
         }
       ],
       "trailingPerformerIds": [],
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "もう僕ら",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-05",
+            "歌唱者-09",
+            "歌唱者-13",
+            "歌唱者-17",
+            "歌唱者-21"
+          ]
+        },
+        {
+          "text": "独りではないが1人で立てんだ",
+          "performerIds": [
+            "歌唱者-05",
+            "歌唱者-09",
+            "歌唱者-21"
+          ]
+        }
+      ]
     },
     {
       "index": 16,
@@ -789,7 +844,28 @@
         }
       ],
       "trailingPerformerIds": [],
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "でも僕ら",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-05",
+            "歌唱者-09",
+            "歌唱者-13",
+            "歌唱者-17",
+            "歌唱者-21"
+          ]
+        },
+        {
+          "text": "1人で行こうと独りではないんだ",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-13",
+            "歌唱者-17"
+          ]
+        }
+      ]
     },
     {
       "index": 20,
@@ -952,7 +1028,28 @@
         }
       ],
       "trailingPerformerIds": [],
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "12345 ",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-05",
+            "歌唱者-09",
+            "歌唱者-13",
+            "歌唱者-17",
+            "歌唱者-21"
+          ]
+        },
+        {
+          "text": "この音を",
+          "performerIds": [
+            "歌唱者-09",
+            "歌唱者-17",
+            "歌唱者-21"
+          ]
+        }
+      ]
     },
     {
       "index": 24,
@@ -986,7 +1083,28 @@
         }
       ],
       "trailingPerformerIds": [],
-      "shared_interval": false
+      "shared_interval": false,
+      "display_segments": [
+        {
+          "text": "12345 ",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-05",
+            "歌唱者-09",
+            "歌唱者-13",
+            "歌唱者-17",
+            "歌唱者-21"
+          ]
+        },
+        {
+          "text": "繋ぐのは",
+          "performerIds": [
+            "歌唱者-01",
+            "歌唱者-05",
+            "歌唱者-13"
+          ]
+        }
+      ]
     },
     {
       "index": 25,
