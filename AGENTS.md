@@ -32,7 +32,7 @@
 
 ## 生成清单的注意事项
 
-`scripts/collect-source-history.py` 在 yokohama 上只读收集历史元数据，`scripts/build-source-history-audit.py` 将其与本地当前歌词汇总。调用示例见生成脚本的说明。
+`scripts/collect-source-history.py` 在 yokohama 上只读收集历史元数据，`scripts/build-source-history-audit.py` 将其与本地当前歌词汇总。调用示例见生成脚本的说明。维护服务器、远端路径和发布工具的本地备忘见 `private/README.md`（该目录不进 Git）。
 
 生成器会自动合并 `reports/word-timing-search-*.json` 中按歌曲记录的补查批次及维护决定。新增检索先写入批次文件，再重建四份清单。重建后检查新增记录、否决理由及证据链接均已带入。远端收集范围有限，审计日期和证据覆盖应以实际输入为准。
 
@@ -42,7 +42,7 @@
 
 1. 同步相关 `lyrics.json`、独立 LRC、`game.bilingual.json` 和 `sources.json`；保持译文对应、注音偏移及分唱版本正确。
 2. 不补造逐字时间，不按字数平均拆时间，不把重复句的时间套到另一遍副歌。
-3. 文字或注音改变时按维护文档重新生成罗马音；同步 `catalog.json`、上述四份清单以及受影响的 README 统计。
+3. 文字或注音改变时按维护文档重新生成罗马音；同步 `catalog.json`、上述四份清单以及受影响的 README 统计。更新说明写入 `CHANGELOG.md`（按日期分节，新的在前），README 只保留当前统计和使用说明，不再追加更新段落。
 4. 执行 `node scripts/build-playback.mjs`、`node scripts/validate.mjs`；涉及演唱版本格式时执行 `node scripts/test-version-schema.mjs`。仅维护检索记录时核验清单，不必重建播放资源。
 5. `reports/lyrics-coverage.xlsx` 是独立历史快照，不能因更新 CSV／JSON 就声称 Excel 已更新。
 6. 获准发布 COS 时，先上传新增哈希文件并回读校验，最后更新 `version.json`；保留已有哈希资源供缓存客户端读取。
