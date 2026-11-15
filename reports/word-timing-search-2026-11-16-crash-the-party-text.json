@@ -1,0 +1,117 @@
+{
+  "date": "2026-11-16",
+  "selection": "用户指出 CRASH THE PARTY（679）38.46 秒一句应为「我らの随に」。复核仓库数据与 Sekaipedia 原文，做一次网页搜索；未检索或拉取 QQ／网易云等歌词平台，未改动时间轴。",
+  "songs": [
+    {
+      "musicId": 679,
+      "title": "CRASH THE PARTY",
+      "wordTimingSearch": false,
+      "providers": {
+        "sekaipedia": {
+          "queries": [
+            {
+              "query": "CRASH_THE_PARTY action=raw oldid=327860",
+              "status": "ok",
+              "url": "https://www.sekaipedia.org/wiki/CRASH_THE_PARTY?oldid=327860"
+            },
+            {
+              "query": "CRASH_THE_PARTY action=raw oldid=348146（当前修订）",
+              "status": "ok",
+              "url": "https://www.sekaipedia.org/wiki/CRASH_THE_PARTY?oldid=348146"
+            }
+          ],
+          "fetched": [
+            {
+              "id": "101721@327860",
+              "title": "CRASH THE PARTY",
+              "artists": [],
+              "source_url": "https://www.sekaipedia.org/wiki/CRASH_THE_PARTY?oldid=327860",
+              "actuallyFetched": true,
+              "format": "MediaWiki wikitext",
+              "wordUnits": 0,
+              "sha256": "f535a99a491aa141285192d8286a18dcd4284cfcd794fa34fb44d2c5d632b8fe",
+              "decision": "rejected_text",
+              "reason": "三处演唱版本歌词表均写作「我れらの隨に」，即仓库旧文字的来源；与游戏录音核对的 LRC 不符。"
+            },
+            {
+              "id": "101721@348146",
+              "title": "CRASH THE PARTY",
+              "artists": [],
+              "source_url": "https://www.sekaipedia.org/wiki/CRASH_THE_PARTY?oldid=348146",
+              "actuallyFetched": true,
+              "format": "MediaWiki wikitext",
+              "wordUnits": 0,
+              "sha256": "302291307dd65034789f074e948160232495088d53fe295a61658e343894de6e",
+              "decision": "rejected_text",
+              "reason": "2026-11-16 的当前修订，该句仍为「我れらの隨に」。"
+            }
+          ]
+        },
+        "websearch": {
+          "queries": [
+            {
+              "query": "\"CRASH THE PARTY\" 歌詞 \"我らの随に\"",
+              "status": "empty",
+              "url": null,
+              "note": "结果均为同名其他歌曲，没有本曲日文歌词页。"
+            }
+          ],
+          "fetched": []
+        },
+        "repository": {
+          "queries": [],
+          "fetched": [
+            {
+              "id": "lyrics/0679/game.lrc",
+              "title": "CRASH THE PARTY",
+              "artists": [],
+              "source_url": null,
+              "actuallyFetched": true,
+              "format": "LRC",
+              "wordUnits": 0,
+              "decision": "verified_text",
+              "reason": "[00:38.460] 行为「我らの随に」；文件标注 verified game recording，自 0491b32 起未变。game.enhanced.lrc 同。"
+            }
+          ]
+        }
+      },
+      "readingReview": {
+        "recordId": "0679-lyric-2026-11-16",
+        "row": 13,
+        "start": 38.46,
+        "end": 40.06,
+        "oldText": "我れらの隨に",
+        "text": "我らの随に",
+        "beforeRuby": [
+          {
+            "from": 0,
+            "to": 1,
+            "reading": "わ"
+          },
+          {
+            "from": 4,
+            "to": 5,
+            "reading": "まにま"
+          }
+        ],
+        "afterRuby": [
+          {
+            "from": 0,
+            "to": 1,
+            "reading": "われ"
+          },
+          {
+            "from": 3,
+            "to": 4,
+            "reading": "まにま"
+          }
+        ],
+        "romaji": "warera no manima ni",
+        "romajiCheck": "读音不变；Sekaipedia 罗马音输入按旧文字匹配，改由 readings.reviewed.json 提供，romajiSource 由 sekaipedia 变为 reviewed。",
+        "decision": "按用户确认及本曲 game.lrc／game.enhanced.lrc 修正文字；game.bilingual.json 原文保留，修正写在 display_japanese／display_segments；附加版 vocalId 1793 第 13 行分唱文字同步。",
+        "wordTimingChanged": false,
+        "previousPlayback": "playback/679.5b51ea7cc603e523.json"
+      }
+    }
+  ]
+}

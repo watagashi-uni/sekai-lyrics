@@ -17,6 +17,8 @@
 
 歌曲当て字等复核结果写入 `readings.reviewed.json`，记录来源并按完整文字匹配；它优先于上游注音和罗马音。131／388 的替换证据、旧行分组及源视频到游戏音频的偏移见 `reports/gekishou-source-review.json`。这两版只有逐句时间，不能重新套用已停用的 QQ 逐字轴。回归检查：`uv run --no-project --with Janome==0.5.0 python scripts/test-reviewed-readings.py`，验证间奏清空、两版时间关系，以及旧来源重新导入时修正不会丢失。
 
+只复核文字、注音而未检索逐字的批次（`reports/word-timing-search-*.json`）在歌曲项中写 `"wordTimingSearch": false`，来源清单不会把它算作逐字补查，也不改变无逐字歌曲的建议下一步。
+
 构建脚本会按 `lyrics.json` 的原始字节计算 SHA-256，取前 16 个十六进制字符作为文件名。仅改变 JSON 排版也会改变哈希。已发布的哈希文件不覆盖；旧文件可以暂时保留，供缓存着旧索引的客户端读取。
 
 Excel 是本次快照报告，构建脚本不会自动更新它。不要在只修改了 JSON 后宣称报告也已更新。新版本应记录新的快照日期，并重新核对已收录、纯音乐和未收录歌曲的统计。

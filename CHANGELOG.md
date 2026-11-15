@@ -2,6 +2,12 @@
 
 记录歌词、译文、注音、分唱和时间轴的修正，新的在前。当前统计见 [README](README.md)；逐曲来源见各曲 `sources.json` 与 [来源与检索历史清单](reports/source-history-audit.csv)。[Excel 覆盖清单](reports/lyrics-coverage.xlsx) 是 2026-11-12 的历史快照，下列修正未写入 Excel。
 
+## 2026-11-16
+
+### CRASH THE PARTY（679）错字修正
+
+- 0:38.460 一句由「我れらの隨に」改为「我らの随に」。旧文字来自 Sekaipedia（oldid 327860，当前修订 348146 仍同），与本曲按游戏录音核对的 `game.lrc`、`game.enhanced.lrc` 不符。注音改为 我(われ)・随(まにま)，罗马音仍为 `warera no manima ni`，改由复核读音提供。`game.bilingual.json` 原文保留，修正写在 `display_japanese`／`display_segments`；セカイver.（vocalId 1793）同行分唱文字同步。时间轴未变。见[复核记录](reports/word-timing-search-2026-11-16-crash-the-party-text.json)。
+
 ## 2026-11-15
 
 ### 0221、0624、0645 时间轴修正及 0635 缺字补回

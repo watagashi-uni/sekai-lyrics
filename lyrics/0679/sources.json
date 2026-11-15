@@ -149,6 +149,15 @@
         59
       ],
       "note": "以 JP master 的演唱类型和阵容筛选分页，按游戏歌词顺序精确匹配正文。重复文字以相邻的唯一歌词和候选分唱一致性消歧。忽略大小写、空白与标点。"
+    },
+    {
+      "usage": "歌词修正",
+      "provider": "manual_review",
+      "recordId": "0679-lyric-2026-11-16",
+      "url": null,
+      "license": null,
+      "note": "2026-11-16 第 14 行（0:38.460）Sekaipedia 原文「我れらの隨に」改为「我らの随に」，依据本曲 game.lrc／game.enhanced.lrc 与用户确认；注音改为 我(われ)・随(まにま)，罗马音 warera no manima ni 经复核。game.bilingual.json 原文保留，修正写在 display_japanese／display_segments。时间轴未变。",
+      "evidence": "reports/word-timing-search-2026-11-16-crash-the-party-text.json"
     }
   ]
 }

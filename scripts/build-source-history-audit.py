@@ -148,7 +148,11 @@ def main(history_path):
         stage = history['stage'].get(mid, {})
         ne_files = history['neteaseFiles'].get(mid, [])
         batches = batches_by_song[music_id]
-        word_batches = [batch for batch in batches if 'singerReview' not in batch]
+        # Singer reviews and text-only reviews (wordTimingSearch: false) are not word-timing searches.
+        word_batches = [
+            batch for batch in batches
+            if 'singerReview' not in batch and batch.get('wordTimingSearch', True)
+        ]
         reviews = [batch['maintenanceReview'] for batch in batches if 'maintenanceReview' in batch]
         qq_batches = [
             (batch['evidence'], batch['providers']['qqmusic'])
