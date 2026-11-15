@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-16",
+  "commit": "7c75190",
+  "scope": "Publish the 「我らの随に」 text correction for 679 by applying its hash to the live index. Retained previous hashed resources. Songs 665–704 from eea670d remain unpublished, as in the 02af03c release.",
+  "musicIds": [
+    679
+  ],
+  "changedSongs": 1,
+  "files": [
+    "679.256f491664cb12c0.json"
+  ],
+  "compressedChangedBytes": 3889,
+  "uploadedFiles": 1,
+  "previousIndexSha256": "386e0f3ab1fe8df205ecf4a8dc333244d64a4cb281d8a75cd66d9e9b11fe1c33",
+  "indexSha256": "d9821abcba104653cd27c683f30785d49f2187d712bf6a75145dabc5370b1cc2",
+  "repositoryIndexSha256": "20e98a8b0169a7540409894075c1cd7c85bb60c9bb7d3bbb4202eb009261649b",
+  "totalSongs": 722,
+  "cacheSeconds": 300,
+  "order": [
+    "upload immutable songs",
+    "read back and verify each song",
+    "re-read live index for concurrent changes",
+    "update and verify live index when required",
+    "check public index pointers",
+    "check public hashes for changed songs"
+  ],
+  "originVerified": true,
+  "publicIndexSha256": "d9821abcba104653cd27c683f30785d49f2187d712bf6a75145dabc5370b1cc2",
+  "publicFilesVerified": 1,
+  "verified": true
+}
