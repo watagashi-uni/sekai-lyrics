@@ -75,6 +75,14 @@
       "via": "https://github.com/shinonomeenana/sekai_lyrics",
       "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
       "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "注音复核/罗马音核验",
+      "provider": "用户纠正及仓库已有罗马音",
+      "recordId": "0349-reading-2026-11-15",
+      "url": null,
+      "evidence": "reports/word-timing-search-2026-11-15-conchita-reading.json",
+      "note": "默认游戏版 29.305375–31.649478 秒：漂う=ただよう；修正腐臭/漂/背徳的注音范围。既有 fushuu tadayou haitoku no yakata 正确，重跑生成器保留；不改时间轴。"
     }
   ]
 }

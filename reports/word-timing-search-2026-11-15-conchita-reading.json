@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-15",
+  "selection": "用户指出悪食娘コンチータ截图中漂う注音缺失。仅复核仓库数据，未进行平台检索或拉取。",
+  "songs": [
+    {
+      "musicId": 349,
+      "title": "悪食娘コンチータ",
+      "providers": {},
+      "readingReview": {
+        "recordId": "0349-reading-2026-11-15",
+        "source": "用户请求：漂う ただよう；仓库 lyrics/0349/romaji.sekaipedia.json",
+        "text": "腐臭漂う背徳の館",
+        "start": 29.305375,
+        "end": 31.649478,
+        "beforeRuby": [
+          {
+            "from": 0,
+            "to": 3,
+            "reading": "ふしゅ"
+          },
+          {
+            "from": 4,
+            "to": 6,
+            "reading": "ただようはいとく"
+          },
+          {
+            "from": 7,
+            "to": 8,
+            "reading": "やかた"
+          }
+        ],
+        "afterRuby": [
+          {
+            "from": 0,
+            "to": 2,
+            "reading": "ふしゅう"
+          },
+          {
+            "from": 2,
+            "to": 3,
+            "reading": "ただよ"
+          },
+          {
+            "from": 4,
+            "to": 6,
+            "reading": "はいとく"
+          },
+          {
+            "from": 7,
+            "to": 8,
+            "reading": "やかた"
+          }
+        ],
+        "romaji": "fushuu tadayou haitoku no yakata",
+        "decision": "修复错位注音；罗马音已有正确读音，重新生成核验。",
+        "wordTimingChanged": false
+      }
+    }
+  ]
+}

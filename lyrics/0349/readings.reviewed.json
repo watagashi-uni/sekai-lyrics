@@ -1,0 +1,35 @@
+{
+  "musicId": 349,
+  "reviewedAt": "2026-11-15",
+  "sources": [
+    "reports/word-timing-search-2026-11-15-conchita-reading.json"
+  ],
+  "note": "用户明确指定漂う读作ただよう；修复既有注音错位，保留送假名う。罗马音沿用已保存的正确 Sekaipedia 输入。",
+  "lines": [
+    {
+      "text": "腐臭漂う背徳の館",
+      "ruby": [
+        {
+          "from": 0,
+          "to": 2,
+          "reading": "ふしゅう"
+        },
+        {
+          "from": 2,
+          "to": 3,
+          "reading": "ただよ"
+        },
+        {
+          "from": 4,
+          "to": 6,
+          "reading": "はいとく"
+        },
+        {
+          "from": 7,
+          "to": 8,
+          "reading": "やかた"
+        }
+      ]
+    }
+  ]
+}
