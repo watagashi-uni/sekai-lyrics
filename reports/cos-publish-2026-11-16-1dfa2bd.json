@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-16",
+  "commit": "1dfa2bd",
+  "scope": "Publish the 「誠実なまま」 line-end fix for 586 by applying its hash to the live index. Retained previous hashed resources. Songs 665–704 from eea670d remain unpublished.",
+  "musicIds": [
+    586
+  ],
+  "changedSongs": 1,
+  "files": [
+    "586.89efc06830c25174.json"
+  ],
+  "compressedChangedBytes": 3610,
+  "uploadedFiles": 1,
+  "previousIndexSha256": "a25bf3afe9f8e3f450e77a065522417a7b6fcb506a69ef28838e9fa61fed5d9c",
+  "indexSha256": "2932735274a37ab4afda81776abbd6543c8333debf6c9c4a4fb01d1a8dc5063e",
+  "repositoryIndexSha256": "7254b6415a9f5a8f9bba5005d05b705c617fde1f2f8f5040187442defb5b63c4",
+  "totalSongs": 722,
+  "cacheSeconds": 300,
+  "order": [
+    "upload immutable songs",
+    "read back and verify each song",
+    "re-read live index for concurrent changes",
+    "update and verify live index when required",
+    "check public index pointers",
+    "check public hashes for changed songs"
+  ],
+  "originVerified": true,
+  "publicIndexSha256": "2932735274a37ab4afda81776abbd6543c8333debf6c9c4a4fb01d1a8dc5063e",
+  "publicFilesVerified": 1,
+  "verified": true
+}
