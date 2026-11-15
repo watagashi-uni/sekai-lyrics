@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-16",
+  "commit": "113063a",
+  "scope": "Publish the split-row start fix for 586 (1b60ddc, 113063a) by applying its hash to the live index. Retained previous hashed resources. Songs 665–704 from eea670d remain unpublished.",
+  "musicIds": [
+    586
+  ],
+  "changedSongs": 1,
+  "files": [
+    "586.6227aa9a15075497.json"
+  ],
+  "compressedChangedBytes": 3608,
+  "uploadedFiles": 1,
+  "previousIndexSha256": "d9821abcba104653cd27c683f30785d49f2187d712bf6a75145dabc5370b1cc2",
+  "indexSha256": "a25bf3afe9f8e3f450e77a065522417a7b6fcb506a69ef28838e9fa61fed5d9c",
+  "repositoryIndexSha256": "16f6501c5e4b45cf1553875453ef77e12a832212fa39412f18a38e08ff14b9c3",
+  "totalSongs": 722,
+  "cacheSeconds": 300,
+  "order": [
+    "upload immutable songs",
+    "read back and verify each song",
+    "re-read live index for concurrent changes",
+    "update and verify live index when required",
+    "check public index pointers",
+    "check public hashes for changed songs"
+  ],
+  "originVerified": true,
+  "publicIndexSha256": "a25bf3afe9f8e3f450e77a065522417a7b6fcb506a69ef28838e9fa61fed5d9c",
+  "publicFilesVerified": 1,
+  "verified": true
+}
