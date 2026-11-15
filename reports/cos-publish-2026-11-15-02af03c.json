@@ -1,0 +1,37 @@
+{
+  "date": "2026-11-15",
+  "commit": "02af03c",
+  "scope": "Publish the timing/lyric corrections for 221, 624, 635 and 645 by applying their hashes to the live index. Retained previous hashed resources.",
+  "musicIds": [
+    221,
+    624,
+    635,
+    645
+  ],
+  "changedSongs": 4,
+  "files": [
+    "221.bbecb07122bf7906.json",
+    "624.fe4e08e32a060b9c.json",
+    "635.2267e71836c2d41f.json",
+    "645.89a194260e6e1b49.json"
+  ],
+  "compressedChangedBytes": 13065,
+  "uploadedFiles": 4,
+  "previousIndexSha256": "a8ef04ac23799ed0a3b4de7c6b8b7ed1207dd1c09b09a56f70618573601fa439",
+  "indexSha256": "386e0f3ab1fe8df205ecf4a8dc333244d64a4cb281d8a75cd66d9e9b11fe1c33",
+  "repositoryIndexSha256": "232e284eca162c18cc3e5f9461276984c736d038114d46b7ab5bbbb4e40c442c",
+  "totalSongs": 722,
+  "cacheSeconds": 300,
+  "order": [
+    "upload immutable songs",
+    "read back and verify each song",
+    "re-read live index for concurrent changes",
+    "update and verify live index when required",
+    "check public index pointers",
+    "check public hashes for changed songs"
+  ],
+  "originVerified": true,
+  "publicIndexSha256": "386e0f3ab1fe8df205ecf4a8dc333244d64a4cb281d8a75cd66d9e9b11fe1c33",
+  "publicFilesVerified": 4,
+  "verified": true
+}
