@@ -60,6 +60,14 @@
       "note": "逐字轴原按バーチャル・シンガーver.（1350）录音核对。2026-11-14 改用セカイver.（2098）为默认后沿用同一时间轴：两版时长 126.9788／126.9788 s；全曲混音按 4 秒窗互相关，相关≥0.3 的 29 窗最佳偏移中位 +0.000 s（27 窗在 ±0.01 s 内；相关低于 0.3 的窗两版混音差别大，不计）；两版人声分离轨逐行包络互相关（相关≥0.5 的 32／34 行）最佳偏移中位 +0.000 s，30 行在 ±0.05 s 内，其余：第 24 行 -0.60 s、第 26 行 -0.36 s；两版人声轨用 sekai_lyrics 的日语音素模型（HuBERT CTC）整首按序强制对齐，セカイver. 首音素置信度≥0.5 的 22 行，两版起点差 22 行在 0.1 s 内、22 行在 0.3 s 内（全部 34 行中位差 0.01 s；差超过 0.3 s 的 2 行都是セカイver. 置信度低于 0.5 的行）。原 LRC 的 50 个逐字行按出现顺序做字符对齐迁到34 个双语行：459 个逐字单元迁入 456 个，76／76 条注音全部保留；游戏歌词中没有的 QQ 残行单元未迁入：「提」76.973 s、「灯」77.161 s、「か」101.224 s。game.lrc／game.enhanced.lrc／game.zh-CN.lrc 仍保留原 LRC 成品。第 0 行（前奏 9.2–12 s 的「なんか楽しくなってきた　なんか楽しくなっちゃった」）两版都像经过效果处理，音素模型在两边都解不出，セカイver. 人声轨此处也明显更弱、两版混音不同，未能用音频确认，保持原时间。游戏音频取自 sekai_3dmv_dl 仓库 music_dl/acb，按 sekai_lyrics tools/audio_source.py 选精确人声 cue（stream 1）解码；其中 vs_0793_01、se_0793_01 本地原先没有，于 2026-11-14 按仓库 7.1.0.60 官方 iOS 目录补下（music/long/<asset>，校验 HTTP 长度与解密后的 UnityFS 头）。"
     },
     {
+      "usage": "时间轴",
+      "provider": "game_audio_review",
+      "recordId": null,
+      "url": null,
+      "license": null,
+      "note": "2026-11 句尾校准：按默认音频 se_0793_01（vocalId 2098）的 htdemucs 人声轨，用 sekai_lyrics 的对齐方法（日语音素 CTC、MMS、Whisper large-v3 强制对齐，网易云 LRC 局部偏移投票，句尾吸附人声静音）校准 0 行；3 行两个对齐器不在置信区间或证据冲突，列为待复核、未改（见 PROGRESS.md）。时间含前置空白。逐行依据见 reports/end-calibration-2026-11.json"
+    },
+    {
       "usage": "罗马音",
       "provider": "Sekaipedia",
       "url": "https://www.sekaipedia.org/wiki/Baka_Tsuushin",
