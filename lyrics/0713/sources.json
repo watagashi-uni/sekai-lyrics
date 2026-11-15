@@ -35,6 +35,14 @@
       "note": "已保存来源标签，未记录可直接引用的链接"
     },
     {
+      "usage": "时间轴",
+      "provider": "game_audio_review",
+      "recordId": null,
+      "url": null,
+      "license": null,
+      "note": "2026-11 句尾校准：按默认音频 vs_0713_01（vocalId 1270）的 htdemucs 人声轨，用 sekai_lyrics 的对齐方法（日语音素 CTC、MMS、Whisper large-v3 强制对齐，网易云 LRC 局部偏移投票，句尾吸附人声静音）校准 0 行；32 行两个对齐器不在置信区间或证据冲突，列为待复核、未改（见 PROGRESS.md）。时间含前置空白。逐行依据见 reports/end-calibration-2026-11.json"
+    },
+    {
       "usage": "罗马音",
       "provider": "Sekaipedia",
       "url": "https://www.sekaipedia.org/wiki/Nyanyanyanyanyanyanya%21",
