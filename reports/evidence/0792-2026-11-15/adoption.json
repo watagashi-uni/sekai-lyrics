@@ -1,0 +1,191 @@
+{
+  "date": "2026-11-15",
+  "musicId": 792,
+  "provider": "LRCLIB",
+  "recordId": "12490618",
+  "album": "夢のまにまに",
+  "sourceRecording": {
+    "provider": "NetEase",
+    "recordId": "432384",
+    "downloadRoute": "ssh knd over Tailscale; public media URL",
+    "url": "https://music.163.com/song/media/outer/url?id=432384.mp3",
+    "duration": 423.026939,
+    "sha256": "f677851b23599eb8726a9cff8c604af761e389079a76a691c915efe0e4dce5bd"
+  },
+  "gameRecording": {
+    "vocalId": 1349,
+    "assetbundle": "vs_0792_01",
+    "duration": 128.026122,
+    "sha256": "7cfd9fdb8453d57699c6362950d3f4fc8ab89c032182ac83149b9c03ace49f8c"
+  },
+  "mapping": {
+    "method": "4-second mono waveform normalized cross-correlation at 4000Hz, every 2 seconds; local 0.2-second boundary probes",
+    "activeSegments": [
+      {
+        "gameWindowStarts": [
+          30,
+          74
+        ],
+        "sourceMinusGame": 81.327,
+        "minimumCorrelation": 0.9158830566841242
+      },
+      {
+        "gameWindowStarts": [
+          80,
+          100
+        ],
+        "sourceMinusGame": 221.74075,
+        "minimumCorrelation": 0.994705002023608
+      }
+    ],
+    "notes": [
+      "Offsets apply to matching audio segments, not to tempo-normalized alternate recordings.",
+      "Second retained segment uses the actual source chorus at 301.44 seconds, not the earlier repeated chorus.",
+      "No word timings generated. LRC cue ends are display intervals, not independently measured sung ends."
+    ]
+  },
+  "rows": [
+    {
+      "row": 0,
+      "text": "もしも僕がうそつきなら",
+      "sourceStart": 109.96000000000001,
+      "sourceMinusGame": 81.327,
+      "start": 28.633,
+      "end": 34.793,
+      "endBasis": "next retained source LRC cue"
+    },
+    {
+      "row": 1,
+      "text": "こんな僕のこと　叱ってくれたかな？",
+      "sourceStart": 116.12,
+      "sourceMinusGame": 81.327,
+      "start": 34.793,
+      "end": 41.183,
+      "endBasis": "next retained source LRC cue"
+    },
+    {
+      "row": 2,
+      "text": "そんなたくさんの「もしも話が」",
+      "sourceStart": 122.51,
+      "sourceMinusGame": 81.327,
+      "start": 41.183,
+      "end": 47.633,
+      "endBasis": "next retained source LRC cue"
+    },
+    {
+      "row": 3,
+      "text": "僕の部屋にさ　浮かんで行くんだよ。",
+      "sourceStart": 128.96,
+      "sourceMinusGame": 81.327,
+      "start": 47.633,
+      "end": 53.913,
+      "endBasis": "next retained source LRC cue"
+    },
+    {
+      "row": 4,
+      "text": "何も無い日々から",
+      "sourceStart": 135.24,
+      "sourceMinusGame": 81.327,
+      "start": 53.913,
+      "end": 60.353,
+      "endBasis": "next retained source LRC cue"
+    },
+    {
+      "row": 5,
+      "text": "罅が入ってそっから",
+      "sourceStart": 141.68,
+      "sourceMinusGame": 81.327,
+      "start": 60.353,
+      "end": 66.723,
+      "endBasis": "next retained source LRC cue"
+    },
+    {
+      "row": 6,
+      "text": "たくさんの「もしも」が漏れ出して",
+      "sourceStart": 148.05,
+      "sourceMinusGame": 81.327,
+      "start": 66.723,
+      "end": 74.863,
+      "endBasis": "next retained source LRC cue"
+    },
+    {
+      "row": 7,
+      "text": "行くんだ。",
+      "sourceStart": 156.19,
+      "sourceMinusGame": 81.327,
+      "start": 74.863,
+      "end": 79.699,
+      "endBasis": "next retained source LRC cue"
+    },
+    {
+      "row": 8,
+      "text": "今目をつむって",
+      "sourceStart": 301.44,
+      "sourceMinusGame": 221.74075,
+      "start": 79.699,
+      "end": 85.759,
+      "endBasis": "next retained source LRC cue"
+    },
+    {
+      "row": 9,
+      "text": "耳をふさいで歩き出したよ",
+      "sourceStart": 307.5,
+      "sourceMinusGame": 221.74075,
+      "start": 85.759,
+      "end": 92.339,
+      "endBasis": "next retained source LRC cue"
+    },
+    {
+      "row": 10,
+      "text": "君の声も君の笑顔も",
+      "sourceStart": 314.08,
+      "sourceMinusGame": 221.74075,
+      "start": 92.339,
+      "end": 98.839,
+      "endBasis": "next retained source LRC cue"
+    },
+    {
+      "row": 11,
+      "text": "見れないままだけどそれも良いかも。",
+      "sourceStart": 320.58,
+      "sourceMinusGame": 221.74075,
+      "start": 98.839,
+      "end": 104.7,
+      "endBasis": "audio cut boundary, approximately 104.7s; display clearance, not phonetic end"
+    }
+  ],
+  "removedPlaybackRows": [
+    {
+      "cueStart": 6.69,
+      "text": "いよって"
+    },
+    {
+      "cueStart": 7.936,
+      "text": "言ったんだっけな"
+    },
+    {
+      "cueStart": 28.744,
+      "text": "ら"
+    },
+    {
+      "cueStart": 104.2,
+      "text": "今"
+    }
+  ],
+  "removedWordLines": 18,
+  "removedWordUnits": 147,
+  "newLineCount": 12,
+  "evidence": [
+    "waveform-check.json",
+    "boundary-27.json",
+    "boundary-77.json",
+    "boundary-103.json",
+    "lrclib.json"
+  ],
+  "supplementaryASR": {
+    "model": "faster-whisper 1.2.1 small int8",
+    "scope": "128秒游戏音频；仅独立结构旁证",
+    "result": "识别片段集中于30至105秒，与保留歌词段大致一致；有多处误识别及分句偏差，未采用识别文字或时间修正歌词。",
+    "usedForTiming": false
+  }
+}

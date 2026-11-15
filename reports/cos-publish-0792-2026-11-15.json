@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-15",
+  "musicId": 792,
+  "key": "lyrics/792.003c9ac336ee69e6.json",
+  "oldHash": "2affb68e0cb1ce32",
+  "newHash": "003c9ac336ee69e6",
+  "songReadbackSha256": "003c9ac336ee69e6510fb2960cd80e8b0faeb0556aca97900606b26ad869454d",
+  "indexReadbackSha256": "0ec3e999f3f0ade43f9b0d101f254fc23fa796993f9fb122c0e19ed1fb58b8ce",
+  "verified": true,
+  "scope": "Only songs[792] updated in live index; all other live entries preserved; no objects deleted.",
+  "order": [
+    "upload immutable song",
+    "read back and verify song",
+    "re-read live index for concurrent changes",
+    "update index",
+    "read back and verify index"
+  ],
+  "cacheSeconds": 300
+}

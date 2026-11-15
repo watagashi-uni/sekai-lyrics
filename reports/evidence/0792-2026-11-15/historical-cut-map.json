@@ -1,0 +1,444 @@
+{
+  "method": "spectral",
+  "target_duration": 127.996625,
+  "source_duration": 423.0,
+  "segments": [
+    {
+      "target_start": 6.69,
+      "target_end": 22.384,
+      "source_start": 23.97,
+      "source_end": 39.664,
+      "source_minus_target": 17.28,
+      "matched_windows": 6,
+      "median_score": 0.951418,
+      "gain": 0.09789768393291054
+    },
+    {
+      "target_start": 22.384,
+      "target_end": 28.744,
+      "source_start": 52.504,
+      "source_end": 58.864,
+      "source_minus_target": 30.12,
+      "matched_windows": 3,
+      "median_score": 0.898333,
+      "gain": 0.06098521356586756
+    },
+    {
+      "target_start": 28.744,
+      "target_end": 79.504,
+      "source_start": 110.064,
+      "source_end": 160.824,
+      "source_minus_target": 81.32,
+      "matched_windows": 25,
+      "median_score": 0.981102,
+      "gain": -0.25690208685235905
+    },
+    {
+      "target_start": 79.504,
+      "target_end": 104.704,
+      "source_start": 301.264,
+      "source_end": 326.464,
+      "source_minus_target": 221.76,
+      "matched_windows": 11,
+      "median_score": 0.931472,
+      "gain": 0.12355732325656335
+    },
+    {
+      "target_start": 104.704,
+      "target_end": 112.104,
+      "source_start": 352.104,
+      "source_end": 359.504,
+      "source_minus_target": 247.4,
+      "matched_windows": 3,
+      "median_score": 0.960649,
+      "gain": -0.014639280498886903
+    },
+    {
+      "target_start": 112.104,
+      "target_end": 127.99662,
+      "source_start": 378.344,
+      "source_end": 394.23663,
+      "source_minus_target": 266.24,
+      "matched_windows": 2,
+      "median_score": 0.963724,
+      "gain": -0.055052891071664535
+    }
+  ],
+  "cuts": [
+    {
+      "target_time": 22.384,
+      "source_before": 39.664,
+      "source_after": 52.504,
+      "removed_source_seconds": 12.84
+    },
+    {
+      "target_time": 28.744,
+      "source_before": 58.864,
+      "source_after": 110.064,
+      "removed_source_seconds": 51.2
+    },
+    {
+      "target_time": 79.504,
+      "source_before": 160.824,
+      "source_after": 301.264,
+      "removed_source_seconds": 140.44
+    },
+    {
+      "target_time": 104.704,
+      "source_before": 326.464,
+      "source_after": 352.104,
+      "removed_source_seconds": 25.64
+    },
+    {
+      "target_time": 112.104,
+      "source_before": 359.504,
+      "source_after": 378.344,
+      "removed_source_seconds": 18.84
+    }
+  ],
+  "coverage": 0.8929,
+  "median_score": 0.973704,
+  "timing_resolution_seconds": 0.04,
+  "path": [
+    {
+      "target_start": 10.064,
+      "target_center": 12.064,
+      "offset": 17.28,
+      "score": 0.980271
+    },
+    {
+      "target_start": 12.064,
+      "target_center": 14.064,
+      "offset": 17.28,
+      "score": 0.979583
+    },
+    {
+      "target_start": 14.064,
+      "target_center": 16.064,
+      "offset": 17.28,
+      "score": 0.959732
+    },
+    {
+      "target_start": 16.064,
+      "target_center": 18.064,
+      "offset": 17.28,
+      "score": 0.942203
+    },
+    {
+      "target_start": 18.064,
+      "target_center": 20.064,
+      "offset": 17.28,
+      "score": 0.943105
+    },
+    {
+      "target_start": 20.064,
+      "target_center": 22.064,
+      "offset": 17.28,
+      "score": 0.776791
+    },
+    {
+      "target_start": 22.064,
+      "target_center": 24.064,
+      "offset": 30.12,
+      "score": 0.898333
+    },
+    {
+      "target_start": 24.064,
+      "target_center": 26.064,
+      "offset": 30.12,
+      "score": 0.941633
+    },
+    {
+      "target_start": 26.064,
+      "target_center": 28.064,
+      "offset": 30.12,
+      "score": 0.764648
+    },
+    {
+      "target_start": 28.064,
+      "target_center": 30.064,
+      "offset": 81.32,
+      "score": 0.876038
+    },
+    {
+      "target_start": 30.064,
+      "target_center": 32.064,
+      "offset": 81.32,
+      "score": 0.985023
+    },
+    {
+      "target_start": 32.064,
+      "target_center": 34.064,
+      "offset": 81.32,
+      "score": 0.986427
+    },
+    {
+      "target_start": 34.064,
+      "target_center": 36.064,
+      "offset": 81.32,
+      "score": 0.985413
+    },
+    {
+      "target_start": 36.064,
+      "target_center": 38.064,
+      "offset": 81.32,
+      "score": 0.985069
+    },
+    {
+      "target_start": 38.064,
+      "target_center": 40.064,
+      "offset": 81.32,
+      "score": 0.985202
+    },
+    {
+      "target_start": 40.064,
+      "target_center": 42.064,
+      "offset": 81.32,
+      "score": 0.985867
+    },
+    {
+      "target_start": 42.064,
+      "target_center": 44.064,
+      "offset": 81.32,
+      "score": 0.986493
+    },
+    {
+      "target_start": 44.064,
+      "target_center": 46.064,
+      "offset": 81.32,
+      "score": 0.986059
+    },
+    {
+      "target_start": 46.064,
+      "target_center": 48.064,
+      "offset": 81.32,
+      "score": 0.986829
+    },
+    {
+      "target_start": 48.064,
+      "target_center": 50.064,
+      "offset": 81.32,
+      "score": 0.987451
+    },
+    {
+      "target_start": 50.064,
+      "target_center": 52.064,
+      "offset": 81.32,
+      "score": 0.984162
+    },
+    {
+      "target_start": 52.064,
+      "target_center": 54.064,
+      "offset": 81.32,
+      "score": 0.98097
+    },
+    {
+      "target_start": 54.064,
+      "target_center": 56.064,
+      "offset": 81.32,
+      "score": 0.981102
+    },
+    {
+      "target_start": 56.064,
+      "target_center": 58.064,
+      "offset": 81.32,
+      "score": 0.978953
+    },
+    {
+      "target_start": 58.064,
+      "target_center": 60.064,
+      "offset": 81.32,
+      "score": 0.977544
+    },
+    {
+      "target_start": 60.064,
+      "target_center": 62.064,
+      "offset": 81.32,
+      "score": 0.978251
+    },
+    {
+      "target_start": 62.064,
+      "target_center": 64.064,
+      "offset": 81.32,
+      "score": 0.976987
+    },
+    {
+      "target_start": 64.064,
+      "target_center": 66.064,
+      "offset": 81.32,
+      "score": 0.977736
+    },
+    {
+      "target_start": 66.064,
+      "target_center": 68.064,
+      "offset": 81.32,
+      "score": 0.981402
+    },
+    {
+      "target_start": 68.064,
+      "target_center": 70.064,
+      "offset": 81.32,
+      "score": 0.978451
+    },
+    {
+      "target_start": 70.064,
+      "target_center": 72.064,
+      "offset": 81.32,
+      "score": 0.97537
+    },
+    {
+      "target_start": 72.064,
+      "target_center": 74.064,
+      "offset": 81.32,
+      "score": 0.979379
+    },
+    {
+      "target_start": 74.064,
+      "target_center": 76.064,
+      "offset": 81.32,
+      "score": 0.980197
+    },
+    {
+      "target_start": 76.064,
+      "target_center": 78.064,
+      "offset": 81.32,
+      "score": 0.914734
+    },
+    {
+      "target_start": 78.064,
+      "target_center": 80.064,
+      "offset": 221.76,
+      "score": 0.569056
+    },
+    {
+      "target_start": 80.064,
+      "target_center": 82.064,
+      "offset": 221.76,
+      "score": 0.920896
+    },
+    {
+      "target_start": 82.064,
+      "target_center": 84.064,
+      "offset": 221.76,
+      "score": 0.926861
+    },
+    {
+      "target_start": 84.064,
+      "target_center": 86.064,
+      "offset": 221.76,
+      "score": 0.934665
+    },
+    {
+      "target_start": 86.064,
+      "target_center": 88.064,
+      "offset": 221.76,
+      "score": 0.931472
+    },
+    {
+      "target_start": 88.064,
+      "target_center": 90.064,
+      "offset": 221.76,
+      "score": 0.928147
+    },
+    {
+      "target_start": 90.064,
+      "target_center": 92.064,
+      "offset": 221.76,
+      "score": 0.931022
+    },
+    {
+      "target_start": 92.064,
+      "target_center": 94.064,
+      "offset": 221.76,
+      "score": 0.935416
+    },
+    {
+      "target_start": 94.064,
+      "target_center": 96.064,
+      "offset": 221.76,
+      "score": 0.938691
+    },
+    {
+      "target_start": 96.064,
+      "target_center": 98.064,
+      "offset": 221.76,
+      "score": 0.935343
+    },
+    {
+      "target_start": 98.064,
+      "target_center": 100.064,
+      "offset": 221.76,
+      "score": 0.926996
+    },
+    {
+      "target_start": 100.064,
+      "target_center": 102.064,
+      "offset": 221.76,
+      "score": 0.932874
+    },
+    {
+      "target_start": 102.064,
+      "target_center": 104.064,
+      "offset": 221.76,
+      "score": 0.682874
+    },
+    {
+      "target_start": 104.064,
+      "target_center": 106.064,
+      "offset": 247.4,
+      "score": 0.900604
+    },
+    {
+      "target_start": 106.064,
+      "target_center": 108.064,
+      "offset": 247.4,
+      "score": 0.971337
+    },
+    {
+      "target_start": 108.064,
+      "target_center": 110.064,
+      "offset": 247.4,
+      "score": 0.960649
+    },
+    {
+      "target_start": 110.064,
+      "target_center": 112.064,
+      "offset": 266.24,
+      "score": 0.676692
+    },
+    {
+      "target_start": 112.064,
+      "target_center": 114.064,
+      "offset": 266.24,
+      "score": 0.972039
+    },
+    {
+      "target_start": 114.064,
+      "target_center": 116.064,
+      "offset": 266.24,
+      "score": 0.955409
+    },
+    {
+      "target_start": 116.064,
+      "target_center": 118.064,
+      "offset": 266.24,
+      "score": 0.634906
+    },
+    {
+      "target_start": 118.064,
+      "target_center": 120.064,
+      "offset": 272.6,
+      "score": 0.782949
+    },
+    {
+      "target_start": 120.064,
+      "target_center": 122.064,
+      "offset": 292.76,
+      "score": 0.90889
+    }
+  ],
+  "seconds": 33.146,
+  "waveform_rejections": [
+    "Long unmatched gap between audio sections"
+  ]
+}

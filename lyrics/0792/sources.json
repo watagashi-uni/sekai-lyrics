@@ -35,12 +35,15 @@
       "note": "renditions/vocaloid/version"
     },
     {
-      "usage": "时间轴",
+      "usage": "历史逐句/逐字时间轴（已撤下）",
       "provider": "QQ音乐",
       "recordId": "105573239",
       "url": null,
       "license": null,
-      "note": null
+      "note": "2026-11-15：AWARD STROBE HELLO 录音版本不符，18行147单元已撤下；改用夢のまにまに对应的LRCLIB逐句轴。",
+      "reviewStatus": "rejected_recording_version_mismatch",
+      "album": "AWARD STROBE HELLO",
+      "reviewEvidence": "reports/evidence/0792-2026-11-15/adoption.json"
     },
     {
       "usage": "罗马音",
@@ -51,6 +54,25 @@
       "via": "https://github.com/shinonomeenana/sekai_lyrics",
       "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
       "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "逐句时间轴",
+      "provider": "LRCLIB",
+      "recordId": "12490618",
+      "url": "https://lrclib.net/api/get/12490618",
+      "album": "夢のまにまに",
+      "version": "423秒专辑版；用户指出的2015数字发行版本",
+      "note": "游戏第一句源时间109.96秒；源109.96–156.19秒各行减81.327，源301.44–320.58秒各行减221.74075。末行在游戏104.700秒剪辑处清空；无原生逐字。译文沿用原项目。",
+      "evidence": "reports/evidence/0792-2026-11-15/adoption.json"
+    },
+    {
+      "usage": "录音版本及剪辑映射核验",
+      "provider": "网易云音乐",
+      "recordId": "432384",
+      "url": "https://music.163.com/song?id=432384",
+      "album": "夢のまにまに",
+      "note": "仅使用音频验证LRCLIB到游戏的时间映射，不采用该平台LRC；音频通过knd网络取得，不入库。",
+      "evidence": "reports/evidence/0792-2026-11-15/adoption.json"
     }
   ]
 }

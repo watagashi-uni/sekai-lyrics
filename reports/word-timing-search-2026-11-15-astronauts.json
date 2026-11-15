@@ -1,0 +1,619 @@
+{
+  "date": "2026-11-15",
+  "selection": "按用户指定夢のまにまに实录伴奏版本重新检索；1:49是游戏首句在完整版中的位置，并非原曲首次开唱。",
+  "songs": [
+    {
+      "musicId": 792,
+      "title": "アストロノーツ",
+      "providers": {
+        "qqmusic": {
+          "queries": [],
+          "fetched": [
+            {
+              "id": "105573239",
+              "title": "アストロノーツ (宇航员)",
+              "artists": [
+                "椎名もた",
+                "初音未来"
+              ],
+              "album": "AWARD STROBE HELLO",
+              "source_url": "https://y.qq.com/n/ryqq/songDetail/0041R7H305KwQ8",
+              "actuallyFetched": true,
+              "retrieval": "本次只读复核 yokohama 已保存 QRC/LRC，未新请求 QQ 接口",
+              "format": "qrc",
+              "wordUnits": 621,
+              "temporaryRawCapture": "yokohama:/data/watagashi/lyrics-alignment-trial/deliverables/qq-native-sources/sources/105573239/source.words.json",
+              "firstLyricSeconds": 3.021,
+              "decision": "recording_version_mismatch",
+              "reason": "录音专辑不符；已撤下当前105573239轴，保留两条原始QRC候选及否决历史。"
+            },
+            {
+              "id": "105525258",
+              "title": "アストロノーツ (宇航员)",
+              "artists": [
+                "椎名もた (ぽわぽわP)"
+              ],
+              "album": "ぽわぽわーくす",
+              "source_url": "https://y.qq.com/n/ryqq/songDetail/001XyHcI4XEYn5",
+              "actuallyFetched": true,
+              "retrieval": "本次只读复核 yokohama 已保存 QRC/LRC，未新请求 QQ 接口",
+              "format": "qrc",
+              "wordUnits": 635,
+              "temporaryRawCapture": "yokohama:/data/watagashi/lyrics-alignment-trial/deliverables/qq-native-sources/sources/105525258/source.words.json",
+              "firstLyricSeconds": 1.661,
+              "decision": "recording_version_mismatch",
+              "reason": "录音专辑不符；已撤下当前105573239轴，保留两条原始QRC候选及否决历史。"
+            }
+          ]
+        },
+        "netease": {
+          "queries": [
+            {
+              "query": "アストロノーツ",
+              "status": "provider_error",
+              "reason": "搜索返回非对象 JSON，不能解释为无结果",
+              "evidence": "reports/evidence/0792-2026-11-15/netease-search-response.json"
+            }
+          ],
+          "fetched": [
+            {
+              "id": "432384",
+              "title": "アストロノーツ",
+              "artists": [
+                "椎名もた",
+                "初音ミク"
+              ],
+              "album": "夢のまにまに",
+              "source_url": "https://music.163.com/song?id=432384",
+              "actuallyFetched": true,
+              "format": "lrc",
+              "wordUnits": 0,
+              "request": "https://music.163.com/api/song/lyric?id=432384&lv=-1&kv=-1&tv=-1",
+              "decision": "not_adopted",
+              "reason": "游戏首句在该歌词标为111.54秒，与用户109秒锚点不同；不能仅凭专辑标签确认歌词版本。未请求 YRC。",
+              "evidence": "reports/evidence/0792-2026-11-15/netease-432384-lrc.json"
+            }
+          ]
+        },
+        "lrclib": {
+          "queries": [
+            {
+              "query": "アストロノーツ",
+              "status": "ok",
+              "hits": [
+                {
+                  "id": "2653855",
+                  "title": "アストロノーツ",
+                  "artists": [
+                    "優里"
+                  ],
+                  "album": "弐",
+                  "duration": 199.0
+                },
+                {
+                  "id": "1883360",
+                  "title": "アストロノーツ",
+                  "artists": [
+                    "椎名もた"
+                  ],
+                  "album": "Yume No Manimani",
+                  "duration": 423.0
+                },
+                {
+                  "id": "1883361",
+                  "title": "アストロノーツ",
+                  "artists": [
+                    "椎名もた"
+                  ],
+                  "album": "Award Strobe Hello",
+                  "duration": 423.0
+                },
+                {
+                  "id": "17883540",
+                  "title": "アストロノーツ",
+                  "artists": [
+                    "Siina, Mota feat. Hatsune, Miku"
+                  ],
+                  "album": "VOCAROCK collection 3 feat. 初音ミク",
+                  "duration": 451.0
+                },
+                {
+                  "id": "16709039",
+                  "title": "アストロノーツ",
+                  "artists": [
+                    "majiko"
+                  ],
+                  "album": "mirror【通常盤】",
+                  "duration": 428.6275
+                },
+                {
+                  "id": "13680964",
+                  "title": "アストロノーツ",
+                  "artists": [
+                    "椎名もた"
+                  ],
+                  "album": "AWARD STROBE HELLO",
+                  "duration": 458.0
+                },
+                {
+                  "id": "13680963",
+                  "title": "アストロノーツ",
+                  "artists": [
+                    "椎名もた feat. 抱きしめたトゥナイト"
+                  ],
+                  "album": "alpa",
+                  "duration": 471.0
+                },
+                {
+                  "id": "23961433",
+                  "title": "アストロノーツ",
+                  "artists": [
+                    "Yuuri"
+                  ],
+                  "album": "弐",
+                  "duration": 199.0
+                },
+                {
+                  "id": "23208511",
+                  "title": "アストロノーツ",
+                  "artists": [
+                    "椎名もた"
+                  ],
+                  "album": "ぽわぽわーくす",
+                  "duration": 380.413333
+                },
+                {
+                  "id": "12490618",
+                  "title": "アストロノーツ",
+                  "artists": [
+                    "椎名もた"
+                  ],
+                  "album": "夢のまにまに",
+                  "duration": 423.0
+                },
+                {
+                  "id": "28497609",
+                  "title": "アストロノーツ",
+                  "artists": [
+                    "椎名もた（ぽわぽわP） feat.初音ミク"
+                  ],
+                  "album": "VOCAROCK collection 3",
+                  "duration": 451.0
+                },
+                {
+                  "id": "37536824",
+                  "title": "アストロノーツ",
+                  "artists": [
+                    "ぽわぽわP (椎名もた)"
+                  ],
+                  "album": "alpa",
+                  "duration": 471.0
+                },
+                {
+                  "id": "38210139",
+                  "title": "アストロノーツ",
+                  "artists": [
+                    "椎名もた feat. 初音ミク"
+                  ],
+                  "album": "VOCAROCK collection 3 feat. 初音ミク",
+                  "duration": 451.0
+                },
+                {
+                  "id": "38330325",
+                  "title": "アストロノーツ",
+                  "artists": [
+                    "椎名もた (ぽわぽわP) feat. 初音ミク"
+                  ],
+                  "album": "VOCAROCK collection 3 feat. 初音ミク",
+                  "duration": 451.0
+                },
+                {
+                  "id": "38268095",
+                  "title": "アストロノーツ",
+                  "artists": [
+                    "Mary"
+                  ],
+                  "album": "Boost!",
+                  "duration": 433.0
+                },
+                {
+                  "id": "37911953",
+                  "title": "アストロノーツ",
+                  "artists": [
+                    "majiko"
+                  ],
+                  "album": "mirror【通常盤】 - EP",
+                  "duration": 428.0
+                },
+                {
+                  "id": "38494847",
+                  "title": "アストロノーツ",
+                  "artists": [
+                    "椎名もた"
+                  ],
+                  "album": "ぽわぽわーくす",
+                  "duration": 384.0
+                },
+                {
+                  "id": "39920849",
+                  "title": "アストロノーツ",
+                  "artists": [
+                    "椎名もた feat. ちょまいよ"
+                  ],
+                  "album": "alpa",
+                  "duration": 471.0
+                },
+                {
+                  "id": "10547521",
+                  "title": "アストロノーツ -オーケストラアレンジver.-",
+                  "artists": [
+                    "Yuuri"
+                  ],
+                  "album": "響",
+                  "duration": 188.0
+                }
+              ]
+            }
+          ],
+          "fetched": [
+            {
+              "id": "2653855",
+              "title": "アストロノーツ",
+              "artists": [
+                "優里"
+              ],
+              "album": "弐",
+              "source_url": "https://lrclib.net/api/get/2653855",
+              "actuallyFetched": true,
+              "retrieval": "search response includes lyrics",
+              "format": "lrc",
+              "wordUnits": 0,
+              "decision": "not_adopted",
+              "reason": "不同录音/歌手/专辑或锚点不符，未采用；元数据命中不等于录音验证。",
+              "evidence": "reports/evidence/0792-2026-11-15/lrclib.json"
+            },
+            {
+              "id": "1883360",
+              "title": "アストロノーツ",
+              "artists": [
+                "椎名もた"
+              ],
+              "album": "Yume No Manimani",
+              "source_url": "https://lrclib.net/api/get/1883360",
+              "actuallyFetched": true,
+              "retrieval": "search response includes lyrics",
+              "format": "lrc",
+              "wordUnits": 0,
+              "decision": "not_adopted",
+              "reason": "不同录音/歌手/专辑或锚点不符，未采用；元数据命中不等于录音验证。",
+              "evidence": "reports/evidence/0792-2026-11-15/lrclib.json"
+            },
+            {
+              "id": "1883361",
+              "title": "アストロノーツ",
+              "artists": [
+                "椎名もた"
+              ],
+              "album": "Award Strobe Hello",
+              "source_url": "https://lrclib.net/api/get/1883361",
+              "actuallyFetched": true,
+              "retrieval": "search response includes lyrics",
+              "format": "lrc",
+              "wordUnits": 0,
+              "decision": "not_adopted",
+              "reason": "不同录音/歌手/专辑或锚点不符，未采用；元数据命中不等于录音验证。",
+              "evidence": "reports/evidence/0792-2026-11-15/lrclib.json"
+            },
+            {
+              "id": "17883540",
+              "title": "アストロノーツ",
+              "artists": [
+                "Siina, Mota feat. Hatsune, Miku"
+              ],
+              "album": "VOCAROCK collection 3 feat. 初音ミク",
+              "source_url": "https://lrclib.net/api/get/17883540",
+              "actuallyFetched": true,
+              "retrieval": "search response includes lyrics",
+              "format": "lrc",
+              "wordUnits": 0,
+              "decision": "not_adopted",
+              "reason": "不同录音/歌手/专辑或锚点不符，未采用；元数据命中不等于录音验证。",
+              "evidence": "reports/evidence/0792-2026-11-15/lrclib.json"
+            },
+            {
+              "id": "16709039",
+              "title": "アストロノーツ",
+              "artists": [
+                "majiko"
+              ],
+              "album": "mirror【通常盤】",
+              "source_url": "https://lrclib.net/api/get/16709039",
+              "actuallyFetched": true,
+              "retrieval": "search response includes lyrics",
+              "format": "lrc",
+              "wordUnits": 0,
+              "decision": "not_adopted",
+              "reason": "不同录音/歌手/专辑或锚点不符，未采用；元数据命中不等于录音验证。",
+              "evidence": "reports/evidence/0792-2026-11-15/lrclib.json"
+            },
+            {
+              "id": "13680964",
+              "title": "アストロノーツ",
+              "artists": [
+                "椎名もた"
+              ],
+              "album": "AWARD STROBE HELLO",
+              "source_url": "https://lrclib.net/api/get/13680964",
+              "actuallyFetched": true,
+              "retrieval": "search response includes lyrics",
+              "format": "lrc",
+              "wordUnits": 0,
+              "decision": "not_adopted",
+              "reason": "不同录音/歌手/专辑或锚点不符，未采用；元数据命中不等于录音验证。",
+              "evidence": "reports/evidence/0792-2026-11-15/lrclib.json"
+            },
+            {
+              "id": "13680963",
+              "title": "アストロノーツ",
+              "artists": [
+                "椎名もた feat. 抱きしめたトゥナイト"
+              ],
+              "album": "alpa",
+              "source_url": "https://lrclib.net/api/get/13680963",
+              "actuallyFetched": true,
+              "retrieval": "search response includes lyrics",
+              "format": "lrc",
+              "wordUnits": 0,
+              "decision": "not_adopted",
+              "reason": "不同录音/歌手/专辑或锚点不符，未采用；元数据命中不等于录音验证。",
+              "evidence": "reports/evidence/0792-2026-11-15/lrclib.json"
+            },
+            {
+              "id": "23961433",
+              "title": "アストロノーツ",
+              "artists": [
+                "Yuuri"
+              ],
+              "album": "弐",
+              "source_url": "https://lrclib.net/api/get/23961433",
+              "actuallyFetched": true,
+              "retrieval": "search response includes lyrics",
+              "format": "plain",
+              "wordUnits": 0,
+              "decision": "not_adopted",
+              "reason": "不同录音/歌手/专辑或锚点不符，未采用；元数据命中不等于录音验证。",
+              "evidence": "reports/evidence/0792-2026-11-15/lrclib.json"
+            },
+            {
+              "id": "23208511",
+              "title": "アストロノーツ",
+              "artists": [
+                "椎名もた"
+              ],
+              "album": "ぽわぽわーくす",
+              "source_url": "https://lrclib.net/api/get/23208511",
+              "actuallyFetched": true,
+              "retrieval": "search response includes lyrics",
+              "format": "lrc",
+              "wordUnits": 0,
+              "decision": "not_adopted",
+              "reason": "不同录音/歌手/专辑或锚点不符，未采用；元数据命中不等于录音验证。",
+              "evidence": "reports/evidence/0792-2026-11-15/lrclib.json"
+            },
+            {
+              "id": "12490618",
+              "title": "アストロノーツ",
+              "artists": [
+                "椎名もた"
+              ],
+              "album": "夢のまにまに",
+              "source_url": "https://lrclib.net/api/get/12490618",
+              "actuallyFetched": true,
+              "retrieval": "search response includes lyrics",
+              "format": "lrc",
+              "wordUnits": 0,
+              "decision": "adopted_line_timing",
+              "reason": "1:49.96锚点吻合，经knd取得专辑录音并与游戏波形验证后，采用实际保留的两段12行逐句轴；无逐字。",
+              "evidence": "reports/evidence/0792-2026-11-15/lrclib.json",
+              "mappingEvidence": "reports/evidence/0792-2026-11-15/adoption.json"
+            },
+            {
+              "id": "28497609",
+              "title": "アストロノーツ",
+              "artists": [
+                "椎名もた（ぽわぽわP） feat.初音ミク"
+              ],
+              "album": "VOCAROCK collection 3",
+              "source_url": "https://lrclib.net/api/get/28497609",
+              "actuallyFetched": true,
+              "retrieval": "search response includes lyrics",
+              "format": "lrc",
+              "wordUnits": 0,
+              "decision": "not_adopted",
+              "reason": "不同录音/歌手/专辑或锚点不符，未采用；元数据命中不等于录音验证。",
+              "evidence": "reports/evidence/0792-2026-11-15/lrclib.json"
+            },
+            {
+              "id": "37536824",
+              "title": "アストロノーツ",
+              "artists": [
+                "ぽわぽわP (椎名もた)"
+              ],
+              "album": "alpa",
+              "source_url": "https://lrclib.net/api/get/37536824",
+              "actuallyFetched": true,
+              "retrieval": "search response includes lyrics",
+              "format": "lrc",
+              "wordUnits": 0,
+              "decision": "not_adopted",
+              "reason": "不同录音/歌手/专辑或锚点不符，未采用；元数据命中不等于录音验证。",
+              "evidence": "reports/evidence/0792-2026-11-15/lrclib.json"
+            },
+            {
+              "id": "38210139",
+              "title": "アストロノーツ",
+              "artists": [
+                "椎名もた feat. 初音ミク"
+              ],
+              "album": "VOCAROCK collection 3 feat. 初音ミク",
+              "source_url": "https://lrclib.net/api/get/38210139",
+              "actuallyFetched": true,
+              "retrieval": "search response includes lyrics",
+              "format": "lrc",
+              "wordUnits": 0,
+              "decision": "not_adopted",
+              "reason": "不同录音/歌手/专辑或锚点不符，未采用；元数据命中不等于录音验证。",
+              "evidence": "reports/evidence/0792-2026-11-15/lrclib.json"
+            },
+            {
+              "id": "38330325",
+              "title": "アストロノーツ",
+              "artists": [
+                "椎名もた (ぽわぽわP) feat. 初音ミク"
+              ],
+              "album": "VOCAROCK collection 3 feat. 初音ミク",
+              "source_url": "https://lrclib.net/api/get/38330325",
+              "actuallyFetched": true,
+              "retrieval": "search response includes lyrics",
+              "format": "lrc",
+              "wordUnits": 0,
+              "decision": "not_adopted",
+              "reason": "不同录音/歌手/专辑或锚点不符，未采用；元数据命中不等于录音验证。",
+              "evidence": "reports/evidence/0792-2026-11-15/lrclib.json"
+            },
+            {
+              "id": "38268095",
+              "title": "アストロノーツ",
+              "artists": [
+                "Mary"
+              ],
+              "album": "Boost!",
+              "source_url": "https://lrclib.net/api/get/38268095",
+              "actuallyFetched": true,
+              "retrieval": "search response includes lyrics",
+              "format": "plain",
+              "wordUnits": 0,
+              "decision": "not_adopted",
+              "reason": "不同录音/歌手/专辑或锚点不符，未采用；元数据命中不等于录音验证。",
+              "evidence": "reports/evidence/0792-2026-11-15/lrclib.json"
+            },
+            {
+              "id": "37911953",
+              "title": "アストロノーツ",
+              "artists": [
+                "majiko"
+              ],
+              "album": "mirror【通常盤】 - EP",
+              "source_url": "https://lrclib.net/api/get/37911953",
+              "actuallyFetched": true,
+              "retrieval": "search response includes lyrics",
+              "format": "lrc",
+              "wordUnits": 0,
+              "decision": "not_adopted",
+              "reason": "不同录音/歌手/专辑或锚点不符，未采用；元数据命中不等于录音验证。",
+              "evidence": "reports/evidence/0792-2026-11-15/lrclib.json"
+            },
+            {
+              "id": "38494847",
+              "title": "アストロノーツ",
+              "artists": [
+                "椎名もた"
+              ],
+              "album": "ぽわぽわーくす",
+              "source_url": "https://lrclib.net/api/get/38494847",
+              "actuallyFetched": true,
+              "retrieval": "search response includes lyrics",
+              "format": "lrc",
+              "wordUnits": 0,
+              "decision": "not_adopted",
+              "reason": "不同录音/歌手/专辑或锚点不符，未采用；元数据命中不等于录音验证。",
+              "evidence": "reports/evidence/0792-2026-11-15/lrclib.json"
+            },
+            {
+              "id": "39920849",
+              "title": "アストロノーツ",
+              "artists": [
+                "椎名もた feat. ちょまいよ"
+              ],
+              "album": "alpa",
+              "source_url": "https://lrclib.net/api/get/39920849",
+              "actuallyFetched": true,
+              "retrieval": "search response includes lyrics",
+              "format": "lrc",
+              "wordUnits": 0,
+              "decision": "not_adopted",
+              "reason": "不同录音/歌手/专辑或锚点不符，未采用；元数据命中不等于录音验证。",
+              "evidence": "reports/evidence/0792-2026-11-15/lrclib.json"
+            },
+            {
+              "id": "10547521",
+              "title": "アストロノーツ -オーケストラアレンジver.-",
+              "artists": [
+                "Yuuri"
+              ],
+              "album": "響",
+              "source_url": "https://lrclib.net/api/get/10547521",
+              "actuallyFetched": true,
+              "retrieval": "search response includes lyrics",
+              "format": "lrc",
+              "wordUnits": 0,
+              "decision": "not_adopted",
+              "reason": "不同录音/歌手/专辑或锚点不符，未采用；元数据命中不等于录音验证。",
+              "evidence": "reports/evidence/0792-2026-11-15/lrclib.json"
+            }
+          ]
+        }
+      },
+      "nextStep": "已采用 LRCLIB 12490618 专辑版逐句轴；缺少同录音原生逐字，勿复用已否决QQ候选",
+      "versionReview": {
+        "userAnchor": {
+          "album": "夢のまにまに",
+          "releaseLabel": "2015",
+          "durationApproximately": 422,
+          "gameFirstLineInFullSecondsApproximately": 109,
+          "liveAccompanimentVariableTempo": true
+        },
+        "candidate": "12490618",
+        "adopted": true,
+        "playbackChanged": true,
+        "reason": "经knd取得423.03秒完整版，独立波形验证两段实际歌词映射后采用12行逐句轴；撤下18行147个旧QRC单元。",
+        "evidence": "reports/evidence/0792-2026-11-15/adoption.json",
+        "initialAttempt": "本机与yokohama拉取失败记录保留在netease-audio-status.json，已由knd成功拉取解决。"
+      },
+      "webSearch": {
+        "queries": [
+          "アストロノーツ 夢のまにまに 2015 椎名もた",
+          "アストロノーツ 夢のまにまに site:music.163.com",
+          "アストロノーツ 夢のまにまに 歌词 01:49",
+          "アストロノーツ 夢のまにまに site:y.qq.com",
+          "\"アストロノーツ\" \"夢のまにまに\" \"lrc\"",
+          "\"アストロノーツ\" \"01:49\"",
+          "\"アストロノーツ\" \"夢のまにまに\" \"QQ音乐\""
+        ],
+        "hits": [
+          {
+            "url": "https://ototoy.jp/_/default/p/982074",
+            "recordId": "982074",
+            "title": "夢のまにまに",
+            "artist": "椎名もた",
+            "format": "web_metadata",
+            "lyricUnits": false,
+            "actuallyFetched": false,
+            "result": "搜索摘要列出2015-05-29与曲长07:03；仅用于版本线索"
+          },
+          {
+            "url": "https://store.umaa.net/items/20295206",
+            "recordId": "20295206",
+            "title": "夢のまにまに",
+            "artist": "椎名もた",
+            "format": "web_metadata",
+            "lyricUnits": false,
+            "actuallyFetched": false,
+            "result": "搜索摘要说明2012初版、再发与生演奏收录；不是同步歌词来源"
+          }
+        ],
+        "otherResults": "未取得其他可核验同步歌词链接，不据此断言平台没有歌词。"
+      }
+    }
+  ]
+}

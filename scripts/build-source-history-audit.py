@@ -64,6 +64,9 @@ def qq_status(archived, checks):
 
 
 def next_step(timed, review, qq, qrc, checks, batches):
+    for batch in sorted(batches, key=lambda b: b['date'], reverse=True):
+        if batch.get('nextStep'):
+            return batch['nextStep']
     if timed:
         return '已有逐字，可查未覆盖行'
     if review:
