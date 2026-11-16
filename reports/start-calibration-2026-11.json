@@ -26203,6 +26203,1660 @@
           "reason": "模型起点 jp 114.82／wh 114.70 与逐字轴起点相差 -0.53 s，逐字单元不改"
         }
       ]
+    },
+    "468": {
+      "title": "十六歳の心臓",
+      "vocalId": 1006,
+      "assetbundle": "vs_0468_01",
+      "format": "lrc",
+      "netease": 2112460975,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": 0.31,
+        "n": 10,
+        "wordRows": 0.31,
+        "nWordRows": 10
+      },
+      "changes": [],
+      "pending": []
+    },
+    "469": {
+      "title": "ラグトレイン",
+      "vocalId": 1454,
+      "assetbundle": "se_0469_01",
+      "format": "bilingual_json",
+      "netease": 1492827692,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": 0.336,
+        "n": 14,
+        "wordRows": null,
+        "nWordRows": 0
+      },
+      "changes": [],
+      "pending": []
+    },
+    "470": {
+      "title": "ハジメテノオト",
+      "vocalId": 1008,
+      "assetbundle": "vs_0470_01",
+      "format": "lrc",
+      "netease": 1392113599,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": -0.195,
+        "n": 16,
+        "wordRows": -0.195,
+        "nWordRows": 16
+      },
+      "changes": [],
+      "pending": [
+        {
+          "line": 1,
+          "text": "あなたの　初めての音は…",
+          "times": [
+            33.281,
+            37.74
+          ],
+          "reason": "模型起点 jp 32.64／mm 32.72／wh 32.68 与逐字轴起点相差 -0.64 s，逐字单元不改"
+        }
+      ]
+    },
+    "471": {
+      "title": "ULTRA C",
+      "vocalId": 1009,
+      "assetbundle": "vs_0471_01",
+      "format": "bilingual_json",
+      "netease": 2690216590,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": -0.028,
+        "n": 5,
+        "wordRows": -0.028,
+        "nWordRows": 5
+      },
+      "changes": [],
+      "pending": []
+    },
+    "472": {
+      "title": "成敗いたAAAAAす！",
+      "vocalId": 1458,
+      "assetbundle": "se_0472_01",
+      "format": "bilingual_json",
+      "netease": 2643576746,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": 0.126,
+        "n": 18,
+        "wordRows": 0.115,
+        "nWordRows": 17
+      },
+      "changes": [],
+      "pending": [
+        {
+          "line": 21,
+          "text": "な、なんだと（わっふう～！）（うぅ～）（ふふっ）",
+          "times": [
+            41.823,
+            42.606
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.0052／MMS 0.029，Whisper 0.135）"
+        },
+        {
+          "line": 46,
+          "text": "邪魔者は成敗いたAAAAAす！",
+          "times": [
+            90.632,
+            91.234
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.4931／MMS 0.4924，Whisper 0.511）"
+        }
+      ]
+    },
+    "473": {
+      "title": "マインドブランド",
+      "vocalId": 1459,
+      "assetbundle": "se_0473_01",
+      "format": "bilingual_json",
+      "netease": 407485173,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": 0.295,
+        "n": 14,
+        "wordRows": 0.295,
+        "nWordRows": 13
+      },
+      "changes": [],
+      "pending": []
+    },
+    "474": {
+      "title": "キラー",
+      "vocalId": 1460,
+      "assetbundle": "se_0474_01",
+      "format": "bilingual_json",
+      "netease": 3366345576,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": 0.264,
+        "n": 18,
+        "wordRows": 0.257,
+        "nWordRows": 17
+      },
+      "changes": [],
+      "pending": []
+    },
+    "475": {
+      "title": "ちがう!!!",
+      "vocalId": 1461,
+      "assetbundle": "se_0475_01",
+      "format": "bilingual_json",
+      "netease": 1815394093,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": 0.227,
+        "n": 14,
+        "wordRows": 0.235,
+        "nWordRows": 9
+      },
+      "changes": [],
+      "pending": [
+        {
+          "line": 7,
+          "text": "よぉ はい！ よぉ YEAH! よぉ はい！",
+          "times": [
+            27.707,
+            29.707
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.0124／MMS 0.0069，Whisper 0.157）"
+        },
+        {
+          "line": 8,
+          "text": "YO! アッッッッッッッ！！！！！",
+          "times": [
+            29.707,
+            32.926
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.0019／MMS 0.0044，Whisper 0.433）"
+        },
+        {
+          "line": 22,
+          "text": "キミと！ ぼくら！ ちがう！ ひとで！ だから素晴らし！！",
+          "times": [
+            64.331,
+            66.843
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.0842／MMS 0.0736，Whisper 0.74）"
+        },
+        {
+          "line": 26,
+          "text": "未知/道はどこにだってある でしょでしょ？",
+          "times": [
+            73.944,
+            77.94
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.1061／MMS 0.0046，Whisper 0.157）"
+        },
+        {
+          "line": 32,
+          "text": "キミと！ ぼくら！ ちがう！ ひとで！ だから仲良し!!!",
+          "times": [
+            101.28,
+            101.664
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.1783／MMS 0.0513，Whisper 0.371）"
+        },
+        {
+          "line": 33,
+          "text": "キミと！ ぼくら！ ちがう！ ヒトで！ だからシアワセ!!!",
+          "times": [
+            101.664,
+            103.864
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.2629／MMS 0.1759，Whisper 0.076）"
+        },
+        {
+          "line": 37,
+          "text": "HEY! HEY! HEY! HEY! HEY! HEY! HEY! HEY!",
+          "times": [
+            112.575,
+            115.078
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.0215／MMS 0.033，Whisper 0.0）"
+        }
+      ]
+    },
+    "476": {
+      "title": "Shadow Shadow",
+      "vocalId": 1462,
+      "assetbundle": "se_0476_01",
+      "format": "bilingual_json",
+      "netease": 1882069249,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": 0.298,
+        "n": 21,
+        "wordRows": 0.298,
+        "nWordRows": 20
+      },
+      "changes": [],
+      "pending": []
+    },
+    "477": {
+      "title": "モザイクロール (Reloaded)",
+      "vocalId": 1463,
+      "assetbundle": "se_0477_01",
+      "format": "bilingual_json",
+      "netease": 1880818220,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": 0.289,
+        "n": 11,
+        "wordRows": 0.289,
+        "nWordRows": 9
+      },
+      "changes": [],
+      "pending": []
+    },
+    "478": {
+      "title": "フューエル",
+      "vocalId": 1464,
+      "assetbundle": "se_0478_01",
+      "format": "bilingual_json",
+      "netease": 2681383784,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": 0.183,
+        "n": 2,
+        "wordRows": 0.183,
+        "nWordRows": 2
+      },
+      "changes": [],
+      "pending": [
+        {
+          "line": 17,
+          "text": "Burn (hey!) it down (hey!)until it falls over",
+          "times": [
+            64.938,
+            69.752
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.0101／MMS 0.1107，Whisper 0.349）"
+        }
+      ]
+    },
+    "480": {
+      "title": "おちゃめ機能",
+      "vocalId": 1479,
+      "assetbundle": "se_0480_01",
+      "format": "bilingual_json",
+      "netease": 29827560,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": 0.301,
+        "n": 20,
+        "wordRows": null,
+        "nWordRows": 0
+      },
+      "changes": [
+        {
+          "line": 0,
+          "text": "いつでも　I love you.　君に　Take kiss me.",
+          "before": [
+            14.78,
+            17.63
+          ],
+          "after": [
+            14.78,
+            18.0
+          ],
+          "startMoved": false,
+          "models": {
+            "jp": 14.8,
+            "mm": 13.84,
+            "wh": 14.78,
+            "ne": 14.604
+          },
+          "support": null,
+          "reason": "模型起点 jp 14.80／ne 14.60／wh 14.78，起声 14.78，与原起点相差 +0.00 s，保持；句尾 17.630 随第 2 行起点 17.630 → 18.000 调整（原句尾即该行起点）"
+        },
+        {
+          "line": 1,
+          "text": "忘れられないから　僕の大事なメモリー",
+          "before": [
+            17.63,
+            21.5
+          ],
+          "after": [
+            18.0,
+            21.78
+          ],
+          "startMoved": true,
+          "models": {
+            "jp": 18.0,
+            "wh": 17.96,
+            "ne": 17.952
+          },
+          "support": [
+            "jp",
+            "wh",
+            "ne"
+          ],
+          "reason": "模型起点 jp 18.00／ne 17.95／wh 17.96（取 jp），附近无人声静音，取模型起点；原起点到新起点之间是上一句的尾音（上一句模型句尾 17.88）；起点 17.630 → 18.000（+0.37 s）；句尾 21.500 随第 3 行起点 21.500 → 21.780 调整（原句尾即该行起点）"
+        },
+        {
+          "line": 2,
+          "text": "どら焼きは主食になれない",
+          "before": [
+            21.5,
+            24.108
+          ],
+          "after": [
+            21.78,
+            24.108
+          ],
+          "startMoved": true,
+          "models": {
+            "jp": 21.78,
+            "wh": 21.68,
+            "ne": 21.859
+          },
+          "support": [
+            "jp",
+            "wh",
+            "ne",
+            "dip 21.76"
+          ],
+          "reason": "模型起点 jp 21.78／ne 21.86／wh 21.68（取 jp），附近无人声静音，取模型起点；原起点到新起点之间是上一句的尾音（上一句模型句尾 21.66）；起点 21.500 → 21.780（+0.28 s）"
+        },
+        {
+          "line": 4,
+          "text": "ずっとそばで見てるよ　バックアップは任せて",
+          "before": [
+            31.4,
+            37.375
+          ],
+          "after": [
+            31.4,
+            37.78
+          ],
+          "startMoved": false,
+          "models": {
+            "jp": 31.38,
+            "mm": 31.36,
+            "wh": 30.82,
+            "ne": 31.518
+          },
+          "support": null,
+          "reason": "模型起点 jp 31.38／mm 31.36／ne 31.52，起声 31.40，与原起点相差 +0.00 s，保持；句尾 37.375 随第 6 行起点 37.375 → 37.780 调整（原句尾即该行起点）"
+        },
+        {
+          "line": 5,
+          "text": "左から右へと　出来事があっちこっちどっち",
+          "before": [
+            37.375,
+            43.754
+          ],
+          "after": [
+            37.78,
+            43.754
+          ],
+          "startMoved": true,
+          "models": {
+            "jp": 37.78,
+            "mm": 37.76,
+            "wh": 37.34,
+            "ne": 37.81
+          },
+          "support": [
+            "jp",
+            "mm",
+            "ne",
+            "onset"
+          ],
+          "reason": "模型起点 jp 37.78／mm 37.76／ne 37.81／wh 37.34（取 jp），人声静音结束于 37.78，取起声；原起点到新起点之间基本无人声（7%）；起点 37.375 → 37.780（+0.41 s）"
+        },
+        {
+          "line": 14,
+          "text": "忘れられないから　僕の大事なメモリー",
+          "before": [
+            72.084,
+            75.846
+          ],
+          "after": [
+            72.084,
+            76.18
+          ],
+          "startMoved": false,
+          "models": {
+            "jp": 72.38,
+            "mm": 72.38,
+            "wh": 72.32,
+            "ne": 72.279
+          },
+          "support": null,
+          "reason": "模型起点 jp 72.38／mm 72.38／ne 72.28／wh 72.32，但原起点 72.084 之后已有人声（100%）且不是上一句的尾音（上一句模型句尾 72.22），可能是本句弱起，保持；句尾 75.846 随第 16 行起点 75.846 → 76.180 调整（原句尾即该行起点）"
+        },
+        {
+          "line": 15,
+          "text": "どら焼きは主食になれない",
+          "before": [
+            75.846,
+            78.423
+          ],
+          "after": [
+            76.18,
+            78.423
+          ],
+          "startMoved": true,
+          "models": {
+            "jp": 76.18,
+            "mm": 76.18,
+            "wh": 76.02,
+            "ne": 76.153
+          },
+          "support": [
+            "jp",
+            "mm",
+            "ne",
+            "dip 76.18"
+          ],
+          "reason": "模型起点 jp 76.18／mm 76.18／ne 76.15／wh 76.02（取 jp），附近无人声静音，取模型起点；原起点到新起点之间是上一句的尾音（上一句模型句尾 76.06）；起点 75.846 → 76.180（+0.33 s）"
+        },
+        {
+          "line": 17,
+          "text": "いつでも　I love you.　君に　Take kiss me.",
+          "before": [
+            101.17,
+            104.04
+          ],
+          "after": [
+            101.17,
+            104.38
+          ],
+          "startMoved": false,
+          "models": {
+            "jp": 101.2,
+            "wh": 101.09
+          },
+          "support": null,
+          "reason": "模型起点 jp 101.20／wh 101.09，起声 101.17，与原起点相差 +0.00 s，保持；句尾 104.040 随第 19 行起点 104.040 → 104.380 调整（原句尾即该行起点）"
+        },
+        {
+          "line": 18,
+          "text": "忘れられないから　僕の大事なメモリー",
+          "before": [
+            104.04,
+            107.859
+          ],
+          "after": [
+            104.38,
+            107.859
+          ],
+          "startMoved": true,
+          "models": {
+            "jp": 104.38,
+            "mm": 104.4,
+            "wh": 104.33
+          },
+          "support": [
+            "jp",
+            "mm",
+            "wh"
+          ],
+          "reason": "模型起点 jp 104.38／mm 104.40／wh 104.33（取 jp），附近无人声静音，取模型起点；原起点到新起点之间是上一句的尾音（上一句模型句尾 104.25）；起点 104.040 → 104.380（+0.34 s）"
+        }
+      ],
+      "pending": []
+    },
+    "481": {
+      "title": "明鏡止水",
+      "vocalId": 1019,
+      "assetbundle": "vs_0481_01",
+      "format": "lrc",
+      "netease": 2112460974,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": 0.03,
+        "n": 29,
+        "wordRows": null,
+        "nWordRows": 0
+      },
+      "changes": [],
+      "pending": []
+    },
+    "482": {
+      "title": "だめにんげんだ!",
+      "vocalId": 1480,
+      "assetbundle": "se_0482_01",
+      "format": "bilingual_json",
+      "netease": 1374774329,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": 0.288,
+        "n": 23,
+        "wordRows": 0.289,
+        "nWordRows": 21
+      },
+      "changes": [],
+      "pending": [
+        {
+          "line": 14,
+          "text": "の凡人っぷりさ",
+          "times": [
+            57.404,
+            59.324
+          ],
+          "reason": "模型起点 jp 57.92／mm 57.92／wh 57.54 与逐字轴起点相差 +0.52 s，逐字单元不改"
+        }
+      ]
+    },
+    "483": {
+      "title": "アコトバ",
+      "vocalId": 1021,
+      "assetbundle": "vs_0483_01",
+      "format": "lrc",
+      "netease": 2111993054,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": 0.019,
+        "n": 17,
+        "wordRows": 0.019,
+        "nWordRows": 17
+      },
+      "changes": [],
+      "pending": []
+    },
+    "484": {
+      "title": "Henceforth",
+      "vocalId": 1465,
+      "assetbundle": "se_0484_01",
+      "format": "bilingual_json",
+      "netease": 2070407474,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": 0.303,
+        "n": 28,
+        "wordRows": 0.306,
+        "nWordRows": 27
+      },
+      "changes": [],
+      "pending": [
+        {
+          "line": 28,
+          "text": "あぁ 夏を今もう一回",
+          "times": [
+            118.199,
+            118.361
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.5836／MMS 0.0806，Whisper 0.091）"
+        }
+      ]
+    },
+    "485": {
+      "title": "だんだん早くなる",
+      "vocalId": 1023,
+      "assetbundle": "vs_0485_01",
+      "format": "lrc",
+      "netease": 34509838,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": -0.174,
+        "n": 46,
+        "wordRows": -0.179,
+        "nWordRows": 18
+      },
+      "changes": [
+        {
+          "line": 0,
+          "text": "だんだん早くなる",
+          "before": [
+            9.894,
+            12.664
+          ],
+          "after": [
+            9.62,
+            12.664
+          ],
+          "startMoved": true,
+          "models": {
+            "jp": 9.6,
+            "mm": 9.6,
+            "wh": 9.62,
+            "ne": 9.705
+          },
+          "support": [
+            "jp",
+            "mm",
+            "wh",
+            "ne",
+            "onset"
+          ],
+          "reason": "模型起点 jp 9.60／mm 9.60／ne 9.71／wh 9.62（取 jp），人声静音结束于 9.62，取起声；原起点前已在演唱（新起点到原起点之间人声 96%）；起点 9.894 → 9.620（-0.27 s）"
+        },
+        {
+          "line": 1,
+          "text": "だんだん忙しくなる",
+          "before": [
+            12.664,
+            14.824
+          ],
+          "after": [
+            12.664,
+            14.62
+          ],
+          "startMoved": false,
+          "models": {
+            "jp": 12.48,
+            "mm": 12.46,
+            "wh": 12.0,
+            "ne": 12.47
+          },
+          "support": null,
+          "reason": "模型起点 jp 12.48／mm 12.46／ne 12.47／wh 12.00，起声 12.48，与原起点相差 -0.18 s，保持；句尾 14.824 随第 3 行起点 14.824 → 14.620 调整（原句尾即该行起点）"
+        },
+        {
+          "line": 2,
+          "text": "だんだん早くなる",
+          "before": [
+            14.824,
+            17.424
+          ],
+          "after": [
+            14.62,
+            17.424
+          ],
+          "startMoved": true,
+          "models": {
+            "jp": 14.62,
+            "mm": 14.6,
+            "wh": 14.44,
+            "ne": 14.635
+          },
+          "support": [
+            "jp",
+            "mm",
+            "ne",
+            "dip 14.62"
+          ],
+          "reason": "模型起点 jp 14.62／mm 14.60／ne 14.63／wh 14.44（取 jp），附近无人声静音，取模型起点；原起点前已在演唱（新起点到原起点之间人声 100%）；起点 14.824 → 14.620（-0.20 s）"
+        },
+        {
+          "line": 3,
+          "text": "だんだん難しくなる",
+          "before": [
+            17.424,
+            19.444
+          ],
+          "after": [
+            17.424,
+            19.24
+          ],
+          "startMoved": false,
+          "models": {
+            "jp": 17.24,
+            "mm": 17.24,
+            "wh": 16.94,
+            "ne": 17.23
+          },
+          "support": null,
+          "reason": "模型起点 jp 17.24／mm 17.24／ne 17.23／wh 16.94，起声 17.26，与原起点相差 -0.16 s，保持；句尾 19.444 随第 5 行起点 19.444 → 19.240 调整（原句尾即该行起点）"
+        },
+        {
+          "line": 4,
+          "text": "だんだん早くなる",
+          "before": [
+            19.444,
+            21.804
+          ],
+          "after": [
+            19.24,
+            21.804
+          ],
+          "startMoved": true,
+          "models": {
+            "jp": 19.24,
+            "mm": 19.22,
+            "wh": 19.0,
+            "ne": 19.255
+          },
+          "support": [
+            "jp",
+            "mm",
+            "ne",
+            "dip 19.24"
+          ],
+          "reason": "模型起点 jp 19.24／mm 19.22／ne 19.25／wh 19.00（取 jp），附近无人声静音，取模型起点；原起点前已在演唱（新起点到原起点之间人声 100%）；起点 19.444 → 19.240（-0.20 s）"
+        },
+        {
+          "line": 9,
+          "text": "嬉しいことがあって",
+          "before": [
+            35.514,
+            37.524
+          ],
+          "after": [
+            35.514,
+            37.31
+          ],
+          "startMoved": false,
+          "models": {
+            "jp": 35.48,
+            "mm": 35.44,
+            "wh": 35.38,
+            "ne": 35.345
+          },
+          "support": null,
+          "reason": "模型起点 jp 35.48／mm 35.44／ne 35.34／wh 35.38，起声 35.40，与原起点相差 -0.11 s，保持；句尾 37.524 随第 11 行起点 37.524 → 37.310 调整（原句尾即该行起点）"
+        },
+        {
+          "line": 10,
+          "text": "気分が上がる日も",
+          "before": [
+            37.524,
+            39.334
+          ],
+          "after": [
+            37.31,
+            39.334
+          ],
+          "startMoved": true,
+          "models": {
+            "jp": 37.28,
+            "mm": 37.28,
+            "wh": 36.74,
+            "ne": 37.38
+          },
+          "support": [
+            "jp",
+            "mm",
+            "ne",
+            "onset"
+          ],
+          "reason": "模型起点 jp 37.28／mm 37.28／ne 37.38（取 jp），人声静音结束于 37.31，取起声；原起点前已在演唱（新起点到原起点之间人声 100%）；起点 37.524 → 37.310（-0.21 s）"
+        },
+        {
+          "line": 17,
+          "text": "だんだん忙しくなる",
+          "before": [
+            52.694,
+            54.364
+          ],
+          "after": [
+            52.694,
+            54.16
+          ],
+          "startMoved": false,
+          "models": {
+            "jp": 52.52,
+            "mm": 52.5,
+            "wh": 52.28,
+            "ne": 52.55
+          },
+          "support": null,
+          "reason": "模型起点 jp 52.52／mm 52.50／ne 52.55／wh 52.28，起声 52.53，与原起点相差 -0.16 s，保持；句尾 54.364 随第 19 行起点 54.364 → 54.160 调整（原句尾即该行起点）"
+        },
+        {
+          "line": 18,
+          "text": "だんだん早くなる",
+          "before": [
+            54.364,
+            56.344
+          ],
+          "after": [
+            54.16,
+            56.344
+          ],
+          "startMoved": true,
+          "models": {
+            "jp": 54.16,
+            "mm": 54.16,
+            "wh": 54.02,
+            "ne": 54.235
+          },
+          "support": [
+            "jp",
+            "mm",
+            "wh",
+            "ne",
+            "dip 54.16"
+          ],
+          "reason": "模型起点 jp 54.16／mm 54.16／ne 54.23／wh 54.02（取 jp），附近无人声静音，取模型起点；原起点前已在演唱（新起点到原起点之间人声 100%）；起点 54.364 → 54.160（-0.20 s）"
+        },
+        {
+          "line": 19,
+          "text": "だんだん難しくなる",
+          "before": [
+            56.344,
+            58.044
+          ],
+          "after": [
+            56.344,
+            57.82
+          ],
+          "startMoved": false,
+          "models": {
+            "jp": 56.22,
+            "mm": 56.22,
+            "wh": 55.96,
+            "ne": 56.165
+          },
+          "support": null,
+          "reason": "模型起点 jp 56.22／mm 56.22／ne 56.16／wh 55.96，起声 56.24，与原起点相差 -0.10 s，保持；句尾 58.044 随第 21 行起点 58.044 → 57.820 调整（原句尾即该行起点）"
+        },
+        {
+          "line": 20,
+          "text": "だんだん早くなる",
+          "before": [
+            58.044,
+            59.934
+          ],
+          "after": [
+            57.82,
+            59.934
+          ],
+          "startMoved": true,
+          "models": {
+            "jp": 57.82,
+            "mm": 57.82,
+            "wh": 57.64,
+            "ne": 57.88
+          },
+          "support": [
+            "jp",
+            "mm",
+            "ne",
+            "dip 57.82"
+          ],
+          "reason": "模型起点 jp 57.82／mm 57.82／ne 57.88／wh 57.64（取 jp），附近无人声静音，取模型起点；原起点前已在演唱（新起点到原起点之间人声 100%）；起点 58.044 → 57.820（-0.22 s）"
+        }
+      ],
+      "pending": [
+        {
+          "line": 8,
+          "text": "だんだん早くなる",
+          "times": [
+            30.124,
+            35.514
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.0784／MMS 0.0151，Whisper 0.659）"
+        },
+        {
+          "line": 15,
+          "text": "今日の午後",
+          "times": [
+            48.644,
+            50.574
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.2977／MMS 0.1539，Whisper 0.483）"
+        },
+        {
+          "line": 48,
+          "text": "ﾅﾏﾑｷﾞﾅﾏｺﾞﾒﾅﾏﾀﾏｺﾞ",
+          "times": [
+            126.444,
+            127.72
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.1037／MMS 0.0397，Whisper 0.392）"
+        },
+        {
+          "line": 49,
+          "text": "ﾅﾏﾑｷﾞﾅﾏｺﾞﾒﾅﾏﾀﾏｺﾞ",
+          "times": [
+            127.72,
+            129.407
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.0005／MMS 0.0094，Whisper 0.496）"
+        },
+        {
+          "line": 50,
+          "text": "ﾅﾏﾑｷﾞﾅﾏｺﾞﾒﾅﾏﾀﾏｺﾞ",
+          "times": [
+            129.407,
+            130.974
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.0191／MMS 0.0081，Whisper 0.425）"
+        },
+        {
+          "line": 51,
+          "text": "ﾅﾏﾑｷﾞﾅﾏｺﾞﾒﾅﾏﾀﾏｺﾞ",
+          "times": [
+            130.974,
+            132.884
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.0199／MMS 0.0649，Whisper 0.291）"
+        }
+      ]
+    },
+    "486": {
+      "title": "おぎゃりないざー",
+      "vocalId": 1024,
+      "assetbundle": "vs_0486_01",
+      "format": "lrc",
+      "netease": 2106055303,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": 0.046,
+        "n": 10,
+        "wordRows": null,
+        "nWordRows": 0
+      },
+      "changes": [],
+      "pending": [
+        {
+          "line": 6,
+          "text": "生きてる意味も価値もわからないままで",
+          "times": [
+            36.614,
+            38.284
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.0332／MMS 0.059，Whisper 0.36）"
+        },
+        {
+          "line": 9,
+          "text": "その手を離さないでよ",
+          "times": [
+            46.174,
+            54.924
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.0895／MMS 0.1727，Whisper 0.389）"
+        },
+        {
+          "line": 10,
+          "text": "午前一時に心が寂しきゃ",
+          "times": [
+            54.924,
+            56.544
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.3569／MMS 0.0636，Whisper 0.484）"
+        },
+        {
+          "line": 11,
+          "text": "いちにーさんしで朝まで喚いて",
+          "times": [
+            56.544,
+            58.124
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.3025／MMS 0.0853，Whisper 0.315）"
+        },
+        {
+          "line": 12,
+          "text": "ばぶばぶばぶ",
+          "times": [
+            58.124,
+            58.614
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.0065／MMS 0.0781，Whisper 0.289）"
+        },
+        {
+          "line": 13,
+          "text": "誰もいない それでもよくない",
+          "times": [
+            58.614,
+            59.844
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.0028／MMS 0.0506，Whisper 0.28）"
+        },
+        {
+          "line": 14,
+          "text": "今夜もあやして頂戴？",
+          "times": [
+            59.844,
+            60.974
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.0518／MMS 0.0349，Whisper 0.146）"
+        },
+        {
+          "line": 19,
+          "text": "いないばあ",
+          "times": [
+            67.334,
+            68.824
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.0647／MMS 0.0437，Whisper 0.023）"
+        },
+        {
+          "line": 20,
+          "text": "いないいないばあ",
+          "times": [
+            68.824,
+            70.184
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.0065／MMS 0.0817，Whisper 0.44）"
+        },
+        {
+          "line": 22,
+          "text": "月が満ちた夜の狭間で",
+          "times": [
+            74.134,
+            77.554
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.2852／MMS 0.2387，Whisper 0.753）"
+        },
+        {
+          "line": 23,
+          "text": "遠く彼方へ泣き叫んだ ねえ",
+          "times": [
+            77.554,
+            80.554
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.111／MMS 0.0519，Whisper 0.467）"
+        },
+        {
+          "line": 24,
+          "text": "あかちゃんだからしかたない",
+          "times": [
+            80.554,
+            82.224
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.2494／MMS 0.1264，Whisper 0.281）"
+        },
+        {
+          "line": 25,
+          "text": "あたしあかちゃんだからしかたないじゃん",
+          "times": [
+            82.224,
+            84.174
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.233／MMS 0.1616，Whisper 0.436）"
+        },
+        {
+          "line": 26,
+          "text": "ほらまんまをたべてないてねんねして",
+          "times": [
+            84.174,
+            86.094
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.1928／MMS 0.2777，Whisper 0.447）"
+        },
+        {
+          "line": 27,
+          "text": "おぎゃりなさって",
+          "times": [
+            86.094,
+            88.004
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.2493／MMS 0.2276，Whisper 0.396）"
+        },
+        {
+          "line": 32,
+          "text": "あたしあかちゃんだからしかたない",
+          "times": [
+            102.924,
+            104.784
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.327／MMS 0.1737，Whisper 0.767）"
+        },
+        {
+          "line": 33,
+          "text": "あたしあかちゃんだからしかたがないじゃんね",
+          "times": [
+            104.784,
+            107.244
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.1592／MMS 0.0818，Whisper 0.312）"
+        },
+        {
+          "line": 34,
+          "text": "いのちがけでおぎゃろうぜ",
+          "times": [
+            107.244,
+            110.594
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.3309／MMS 0.2923，Whisper 0.423）"
+        },
+        {
+          "line": 37,
+          "text": "おぎゃあああああああああああああああ",
+          "times": [
+            122.446,
+            126.025
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.0599／MMS 0.0521，Whisper 0.341）"
+        }
+      ]
+    },
+    "487": {
+      "title": "ダイジョブですか？",
+      "vocalId": 1025,
+      "assetbundle": "vs_0487_01",
+      "format": "lrc",
+      "netease": 2107557776,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": 0.067,
+        "n": 11,
+        "wordRows": 0.024,
+        "nWordRows": 8
+      },
+      "changes": [],
+      "pending": [
+        {
+          "line": 0,
+          "text": "「大丈夫ですか？はいませんか？」",
+          "times": [
+            12.358,
+            15.222
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.3839／MMS 0.4604，Whisper 0.404）"
+        },
+        {
+          "line": 4,
+          "text": "まさか！！君も！？のですか？””””””そう””””””なのですか！？！？",
+          "times": [
+            21.4,
+            24.373
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.4219／MMS 0.2658，Whisper 0.381）"
+        },
+        {
+          "line": 34,
+          "text": "それでもというのならば――",
+          "times": [
+            87.933,
+            90.315
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.4806／MMS 0.1447，Whisper 0.152）"
+        },
+        {
+          "line": 37,
+          "text": "それは暗転消えた",
+          "times": [
+            92.483,
+            102.118
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.1／MMS 0.0782，Whisper 0.0）"
+        },
+        {
+          "line": 55,
+          "text": "大丈夫ですか？！大丈夫ですか？！大丈夫でないと困ります！！",
+          "times": [
+            139.89,
+            143.296
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.1853／MMS 0.2271，Whisper 0.0）"
+        },
+        {
+          "line": 56,
+          "text": "君も大丈夫ですか？！大丈夫ですか？！",
+          "times": [
+            143.296,
+            145.356
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.1438／MMS 0.2415，Whisper 0.0）"
+        },
+        {
+          "line": 57,
+          "text": "本当に絶対絶対大丈夫ですか？！",
+          "times": [
+            145.356,
+            147.297
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.0411／MMS 0.066，Whisper 0.0）"
+        },
+        {
+          "line": 58,
+          "text": "本当に絶対絶対無理してませんか？！",
+          "times": [
+            147.297,
+            149.429
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.0476／MMS 0.0067，Whisper 0.0）"
+        },
+        {
+          "line": 60,
+          "text": "大丈夫ですかー？",
+          "times": [
+            155.277,
+            159.6
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.0001／MMS 0.2083，Whisper 0.0）"
+        }
+      ]
+    },
+    "488": {
+      "title": "メモリア",
+      "vocalId": 1026,
+      "assetbundle": "vs_0488_01",
+      "format": "lrc",
+      "netease": 2106776287,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": -0.129,
+        "n": 17,
+        "wordRows": -0.129,
+        "nWordRows": 17
+      },
+      "changes": [],
+      "pending": []
+    },
+    "489": {
+      "title": "熱風",
+      "vocalId": 1507,
+      "assetbundle": "se_0489_01",
+      "format": "bilingual_json",
+      "netease": 3366348893,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": -0.188,
+        "n": 16,
+        "wordRows": -0.188,
+        "nWordRows": 16
+      },
+      "changes": [],
+      "pending": []
+    },
+    "490": {
+      "title": "ルーマー",
+      "vocalId": 1574,
+      "assetbundle": "se_0490_01",
+      "format": "bilingual_json",
+      "netease": 2076681210,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": 0.227,
+        "n": 18,
+        "wordRows": 0.227,
+        "nWordRows": 18
+      },
+      "changes": [],
+      "pending": []
+    },
+    "491": {
+      "title": "キャットラビング",
+      "vocalId": 1528,
+      "assetbundle": "se_0491_01",
+      "format": "bilingual_json",
+      "netease": 2648920318,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": -0.059,
+        "n": 31,
+        "wordRows": -0.059,
+        "nWordRows": 31
+      },
+      "changes": [],
+      "pending": []
+    },
+    "492": {
+      "title": "私は雨",
+      "vocalId": 1468,
+      "assetbundle": "se_0492_01",
+      "format": "bilingual_json",
+      "netease": 2151935380,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": 0.154,
+        "n": 20,
+        "wordRows": 0.154,
+        "nWordRows": 18
+      },
+      "changes": [],
+      "pending": []
+    },
+    "493": {
+      "title": "きょうもハレバレ",
+      "vocalId": 1484,
+      "assetbundle": "se_0493_01",
+      "format": "bilingual_json",
+      "netease": 1818764611,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": 0.289,
+        "n": 20,
+        "wordRows": 0.289,
+        "nWordRows": 20
+      },
+      "changes": [],
+      "pending": [
+        {
+          "line": 19,
+          "text": "いぇい",
+          "times": [
+            73.464,
+            74.957
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.011／MMS 0.0023，Whisper 0.159）"
+        },
+        {
+          "line": 26,
+          "text": "やがて　またはれて　あしたがくる",
+          "times": [
+            101.141,
+            104.867
+          ],
+          "reason": "模型起点 jp 101.66／mm 101.64／ne 101.64／wh 101.40 与逐字轴起点相差 +0.52 s，逐字单元不改"
+        }
+      ]
+    },
+    "494": {
+      "title": "ポッピンキャンディ☆フィーバー！",
+      "vocalId": 1490,
+      "assetbundle": "se_0494_01",
+      "format": "bilingual_json",
+      "netease": 2713560380,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": 0.27,
+        "n": 16,
+        "wordRows": 0.27,
+        "nWordRows": 14
+      },
+      "changes": [],
+      "pending": [
+        {
+          "line": 18,
+          "text": "ポッ ポッ ポッポッピンキャンディ☆フィーバー！",
+          "times": [
+            71.993,
+            73.645
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.2969／MMS 0.0119，Whisper 0.46）"
+        },
+        {
+          "line": 37,
+          "text": "ねぇもう一回！ちゃちゃちゃ！ もういいかい？本当 ね！！",
+          "times": [
+            127.849,
+            130.612
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.2368／MMS 0.1465，Whisper 0.353）"
+        }
+      ]
+    },
+    "495": {
+      "title": "スーパーヒーロー",
+      "vocalId": 1502,
+      "assetbundle": "se_0495_01",
+      "format": "bilingual_json",
+      "netease": 1453382030,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": 0.208,
+        "n": 21,
+        "wordRows": null,
+        "nWordRows": 0
+      },
+      "changes": [
+        {
+          "line": 5,
+          "text": "命を懸けても悪に挑みたい",
+          "before": [
+            33.219,
+            34.899
+          ],
+          "after": [
+            33.219,
+            35.1
+          ],
+          "startMoved": false,
+          "models": {
+            "jp": 33.32,
+            "mm": 33.34,
+            "wh": 33.24,
+            "ne": 33.43
+          },
+          "support": null,
+          "reason": "模型起点 jp 33.32／mm 33.34／ne 33.43／wh 33.24，与原起点相差 +0.10 s，保持；句尾 34.899 随第 7 行起点 34.899 → 35.100 调整（原句尾即该行起点）"
+        },
+        {
+          "line": 6,
+          "text": "そんなことを妄想してる",
+          "before": [
+            34.899,
+            36.67
+          ],
+          "after": [
+            35.1,
+            36.67
+          ],
+          "startMoved": true,
+          "models": {
+            "jp": 35.1,
+            "mm": 35.1,
+            "wh": 35.02,
+            "ne": 35.265
+          },
+          "support": [
+            "jp",
+            "mm",
+            "wh",
+            "dip 35.11"
+          ],
+          "reason": "模型起点 jp 35.10／mm 35.10／ne 35.27／wh 35.02（取 jp），附近无人声静音，取模型起点；原起点到新起点之间是上一句的尾音（上一句模型句尾 35.02）；起点 34.899 → 35.100（+0.20 s）"
+        },
+        {
+          "line": 12,
+          "text": "スーパーヒーローになってみたい",
+          "before": [
+            45.84,
+            47.641
+          ],
+          "after": [
+            45.84,
+            47.88
+          ],
+          "startMoved": false,
+          "models": {
+            "jp": 46.02,
+            "mm": 46.0,
+            "wh": 45.94,
+            "ne": 46.195
+          },
+          "support": null,
+          "reason": "模型起点 jp 46.02／mm 46.00／ne 46.20／wh 45.94，与原起点相差 +0.18 s，保持；句尾 47.641 随第 14 行起点 47.641 → 47.880 调整（原句尾即该行起点）"
+        },
+        {
+          "line": 13,
+          "text": "命を懸けても悪に挑みたい",
+          "before": [
+            47.641,
+            49.483
+          ],
+          "after": [
+            47.88,
+            49.483
+          ],
+          "startMoved": true,
+          "models": {
+            "jp": 47.88,
+            "mm": 47.88,
+            "wh": 47.78,
+            "ne": 47.815
+          },
+          "support": [
+            "jp",
+            "mm",
+            "wh",
+            "ne",
+            "dip 47.85"
+          ],
+          "reason": "模型起点 jp 47.88／mm 47.88／ne 47.81／wh 47.78（取 jp），附近无人声静音，取模型起点；原起点到新起点之间是上一句的尾音（上一句模型句尾 47.78）；起点 47.641 → 47.880（+0.24 s）"
+        },
+        {
+          "line": 14,
+          "text": "そんなことを妄想してる",
+          "before": [
+            49.483,
+            51.262
+          ],
+          "after": [
+            49.483,
+            51.48
+          ],
+          "startMoved": false,
+          "models": {
+            "jp": 49.64,
+            "mm": 49.64,
+            "wh": 49.58,
+            "ne": 49.85
+          },
+          "support": null,
+          "reason": "模型起点 jp 49.64／mm 49.64／ne 49.85／wh 49.58，与原起点相差 +0.16 s，保持；句尾 51.262 随第 16 行起点 51.262 → 51.480 调整（原句尾即该行起点）"
+        },
+        {
+          "line": 15,
+          "text": "君だけには断じてなりたくない",
+          "before": [
+            51.262,
+            53.04
+          ],
+          "after": [
+            51.48,
+            53.3
+          ],
+          "startMoved": true,
+          "models": {
+            "jp": 51.48,
+            "mm": 51.46,
+            "wh": 51.26,
+            "ne": 51.455
+          },
+          "support": [
+            "jp",
+            "mm",
+            "ne",
+            "onset"
+          ],
+          "reason": "模型起点 jp 51.48／mm 51.46／ne 51.45／wh 51.26（取 jp），人声静音结束于 51.48，取起声；原起点到新起点之间基本无人声（18%）；起点 51.262 → 51.480（+0.22 s）；句尾 53.040 随第 17 行起点 53.040 → 53.300 调整（原句尾即该行起点）"
+        },
+        {
+          "line": 16,
+          "text": "君だけには断じてなりたくないのさ",
+          "before": [
+            53.04,
+            55.28
+          ],
+          "after": [
+            53.3,
+            55.28
+          ],
+          "startMoved": true,
+          "models": {
+            "jp": 53.3,
+            "mm": 53.3,
+            "wh": 53.24,
+            "ne": 53.57
+          },
+          "support": [
+            "jp",
+            "mm",
+            "wh"
+          ],
+          "reason": "模型起点 jp 53.30／mm 53.30／ne 53.57／wh 53.24（取 jp），附近无人声静音，取模型起点；原起点到新起点之间是上一句的尾音（上一句模型句尾 53.22）；起点 53.040 → 53.300（+0.26 s）"
+        }
+      ],
+      "pending": [
+        {
+          "line": 22,
+          "text": "そう笑っていた",
+          "times": [
+            68.942,
+            78.977
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.2357／MMS 0.1408，Whisper 0.262）"
+        }
+      ]
+    },
+    "496": {
+      "title": "シルバーコレクター",
+      "vocalId": 1034,
+      "assetbundle": "vs_0496_01",
+      "format": "lrc",
+      "netease": 2139586315,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": -0.019,
+        "n": 25,
+        "wordRows": -0.019,
+        "nWordRows": 25
+      },
+      "changes": [],
+      "pending": []
+    },
+    "497": {
+      "title": "烈火",
+      "vocalId": 1477,
+      "assetbundle": "se_0497_01",
+      "format": "bilingual_json",
+      "netease": 2601604290,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": 0.198,
+        "n": 19,
+        "wordRows": 0.189,
+        "nWordRows": 15
+      },
+      "changes": [],
+      "pending": []
+    },
+    "498": {
+      "title": "はしる! とおく! とどく!",
+      "vocalId": 1534,
+      "assetbundle": "se_0498_01",
+      "format": "bilingual_json",
+      "netease": 2665631919,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": 0.18,
+        "n": 17,
+        "wordRows": null,
+        "nWordRows": 0
+      },
+      "changes": [
+        {
+          "line": 4,
+          "text": "走る 遠く 届く 広がる未来の予告",
+          "before": [
+            31.491,
+            36.12
+          ],
+          "after": [
+            31.71,
+            36.12
+          ],
+          "startMoved": true,
+          "models": {
+            "jp": 31.7,
+            "mm": 31.72,
+            "wh": 30.54,
+            "ne": 31.709
+          },
+          "support": [
+            "jp",
+            "mm",
+            "ne",
+            "onset"
+          ],
+          "reason": "模型起点 jp 31.70／mm 31.72／ne 31.71（取 jp），人声静音结束于 31.71，取起声；原起点落在人声静音 30.79–31.71 内；起点 31.491 → 31.710（+0.22 s）"
+        },
+        {
+          "line": 12,
+          "text": "走る 遠く 届く 広がる未来の予告",
+          "before": [
+            71.716,
+            76.32
+          ],
+          "after": [
+            71.93,
+            76.32
+          ],
+          "startMoved": true,
+          "models": {
+            "jp": 71.92,
+            "mm": 71.92,
+            "wh": 71.9,
+            "ne": 71.989
+          },
+          "support": [
+            "jp",
+            "mm",
+            "wh",
+            "ne",
+            "onset"
+          ],
+          "reason": "模型起点 jp 71.92／mm 71.92／ne 71.99／wh 71.90（取 jp），人声静音结束于 71.93，取起声；原起点落在人声静音 70.88–71.93 内；起点 71.716 → 71.930（+0.21 s）"
+        }
+      ],
+      "pending": []
     }
   }
 }
