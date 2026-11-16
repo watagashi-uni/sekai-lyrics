@@ -280,6 +280,15 @@
         ]
       },
       "note": "6-second windows every 4 seconds; >=90% consistent within 20ms, score>=0.65, median>=0.8, max supported gap 8s, bounded tails. Line-only; no inherited words or segments. Lyrics licenses/translation credits remain those of default version."
+    },
+    {
+      "usage": "歌词修正",
+      "provider": "manual_review",
+      "recordId": "0298-lyric-2026-11-16",
+      "url": "https://www.sekaipedia.org/wiki/Netoge_Haijin_Sprechchor?oldid=328789",
+      "license": "CC BY-SA 4.0",
+      "note": "2026-11-16 补回游戏版第 9 行「ドロップ重視＝ドロップアウト人生」（草薙寧々），47.740–50.170 逐句、无逐字、无译文。文字与分唱依据 Sekaipedia oldid 328789 的 Game Version 歌词表（{{Lyric|Nene|ドロップ重視＝ドロップアウト人生}}，位于「閉めきった窓なんてもう覚えてない」与「文化的ライフ崩壊前提」之间）及 shinonomeenana/sekai_lyrics raw_lyrics/0298.json 第 8 项（characterIds [15]）；game.bilingual.json 原缺 id game-000009／index 8，按此补回。时间依据游戏人声轨：47.33–47.74、50.17–50.47 两段静音之间有演唱，日语音素 CTC 47.72–50.04（MMS 句尾 50.09），网易云 2111988586／22677430 映射起点约 47.87／47.80。同时「文化的ライフ崩壊前提」起点由 51.929 改为 50.470：原起点来自只从「フ」开始的 QQ 逐字单元，「文化的ライ」实际在 50.47–51.55 演唱（CTC 50.46／MMS 50.47，置信 0.94／0.66；用户试听确认），独立 game.lrc／game.enhanced.lrc 该行改为整行「文化的ライフ崩壊前提」，删去只覆盖「フ崩壊前提」的 5 个 QQ 逐字单元（51.929–53.230），与 lyrics.json 该行无逐字一致。插入行后默认版第 9 行起的零基行号加 1，附加版 vocalId 808 的 singers 同步并补第 8 行（草薙寧々）；此前报告中的行号（reports/end-calibration-2026-11.json、reports/version-singers.json 等）为插入前编号。",
+      "evidence": "reports/word-timing-search-2026-11-16-0078-0298-text.json"
     }
   ]
 }

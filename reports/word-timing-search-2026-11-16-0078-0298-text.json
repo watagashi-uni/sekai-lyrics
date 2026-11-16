@@ -1,0 +1,261 @@
+{
+  "date": "2026-11-16",
+  "selection": "用户要求修正 2026-11-16 句尾校准中发现的两处文字问题：78「世またまた、やらかしたよ」多出的「世」，以及 298「閉めきった窓なんてもう覚えてない」之后漏掉的一句（用户试听确认「文化的ライ」在原起点之前已演唱）。复核仓库数据、Sekaipedia 原文（action=raw）、shinonomeenana/sekai_lyrics 的 raw_lyrics，以及句尾校准时已取得的网易云 LRC；用参考项目的日语音素 CTC 与 MMS 在游戏人声轨上对齐。未检索或拉取 QQ 等歌词平台，未新增逐字单元。",
+  "songs": [
+    {
+      "musicId": 78,
+      "title": "ぼうけんのしょがきえました！",
+      "wordTimingSearch": false,
+      "providers": {
+        "sekaipedia": {
+          "queries": [
+            {
+              "query": "Bouken_no_Sho_ga_Kiemashita! action=raw oldid=326791",
+              "status": "ok",
+              "url": "https://www.sekaipedia.org/wiki/Bouken_no_Sho_ga_Kiemashita%21?oldid=326791"
+            },
+            {
+              "query": "Bouken_no_Sho_ga_Kiemashita! action=query prop=revisions（当前修订）",
+              "status": "ok",
+              "url": "https://www.sekaipedia.org/wiki/Bouken_no_Sho_ga_Kiemashita%21",
+              "note": "当前修订仍为 326791（2026-07-02T00:47:16Z）。"
+            }
+          ],
+          "fetched": [
+            {
+              "id": "932@326791",
+              "title": "Bouken no Sho ga Kiemashita!",
+              "artists": [],
+              "source_url": "https://www.sekaipedia.org/wiki/Bouken_no_Sho_ga_Kiemashita%21?oldid=326791",
+              "actuallyFetched": true,
+              "format": "MediaWiki wikitext",
+              "wordUnits": 0,
+              "sha256": "be5a76aa68d0086e5097c523e1e39b687b694d64ba135d1bc76303238a1e107e",
+              "decision": "rejected_text",
+              "reason": "三处歌词表均写作「世またまた、やらかしたよ」，即仓库旧文字的来源；同页罗马音为 mata mata, yarakashita yo，没有「世」的读音。"
+            }
+          ]
+        },
+        "repository": {
+          "queries": [],
+          "fetched": [
+            {
+              "id": "lyrics/0078/game.lrc",
+              "title": "ぼうけんのしょがきえました！",
+              "artists": [],
+              "source_url": null,
+              "actuallyFetched": true,
+              "format": "LRC",
+              "wordUnits": 0,
+              "decision": "verified_text",
+              "reason": "[01:32.380] 行为「またまた やらかしたよ」；game.enhanced.lrc 的 QQ 逐字单元为 ま・た・ま・た（92.380–93.404），没有「世」。"
+            },
+            {
+              "id": "shinonomeenana/sekai_lyrics raw_lyrics/0078.json @9c7d8dc",
+              "title": "ぼうけんのしょがきえました！",
+              "artists": [],
+              "source_url": "https://github.com/shinonomeenana/sekai_lyrics",
+              "actuallyFetched": true,
+              "format": "JSON",
+              "wordUnits": 0,
+              "decision": "rejected_text",
+              "reason": "第 15 项同样为「世またまた、やらかしたよ」（转取自 Sekaipedia），罗马音 mata mata, yarakashita yo。"
+            }
+          ]
+        },
+        "gameAudio": {
+          "queries": [],
+          "fetched": [
+            {
+              "id": "se_0078_01 htdemucs vocal stem",
+              "title": "ぼうけんのしょがきえました！",
+              "artists": [],
+              "source_url": null,
+              "actuallyFetched": true,
+              "format": "audio (not stored)",
+              "wordUnits": 0,
+              "decision": "verified_text",
+              "reason": "人声轨 92.20–92.47 静音，92.47 起只有「ま・た・ま・た」四拍，与 QQ 逐字单元一致，句首没有多出的音节。"
+            }
+          ]
+        }
+      },
+      "readingReview": {
+        "recordId": "0078-lyric-2026-11-16",
+        "row": 15,
+        "start": 92.379899,
+        "end": 95.452193,
+        "oldText": "世またまた、やらかしたよ",
+        "text": "またまた、やらかしたよ",
+        "beforeRuby": [
+          {
+            "from": 0,
+            "to": 1,
+            "reading": "ま"
+          }
+        ],
+        "afterRuby": [],
+        "romaji": "mata mata, yarakashita yo",
+        "romajiCheck": "读音不变；Sekaipedia 罗马音输入按旧文字匹配，改由 readings.reviewed.json 提供，romajiSource 由 sekaipedia 变为 reviewed。",
+        "decision": "按用户确认、Sekaipedia 罗马音、本曲 game.lrc／game.enhanced.lrc 与游戏人声轨修正文字；game.bilingual.json 原文保留，修正写在 display_japanese／display_segments。",
+        "wordTimingChanged": false,
+        "previousPlayback": "playback/78.d82109664ee6472e.json"
+      }
+    },
+    {
+      "musicId": 298,
+      "title": "ネトゲ廃人シュプレヒコール",
+      "wordTimingSearch": false,
+      "providers": {
+        "sekaipedia": {
+          "queries": [
+            {
+              "query": "Netoge_Haijin_Sprechchor action=raw oldid=328789",
+              "status": "ok",
+              "url": "https://www.sekaipedia.org/wiki/Netoge_Haijin_Sprechchor?oldid=328789"
+            },
+            {
+              "query": "Netoge_Haijin_Sprechchor action=query prop=revisions（当前修订）",
+              "status": "ok",
+              "url": "https://www.sekaipedia.org/wiki/Netoge_Haijin_Sprechchor",
+              "note": "当前修订仍为 328789（2026-07-10T04:15:24Z）。"
+            }
+          ],
+          "fetched": [
+            {
+              "id": "20728@328789",
+              "title": "Netoge Haijin Sprechchor",
+              "artists": [],
+              "source_url": "https://www.sekaipedia.org/wiki/Netoge_Haijin_Sprechchor?oldid=328789",
+              "actuallyFetched": true,
+              "format": "MediaWiki wikitext",
+              "wordUnits": 0,
+              "sha256": "2b642baac869e304a36ef844802a2ff0b7d0b8dcd9e8682f5aff29b083fb70fc",
+              "decision": "adopted_text",
+              "reason": "Game Version 歌词表在「閉めきった窓なんてもう覚えてない」与「文化的ライフ崩壊前提」之间有 {{Lyric|Nene|ドロップ重視＝ドロップアウト人生}}，罗马音 doroppu juushi = doroppu auto jinsei；仓库导入时漏掉此行。"
+            }
+          ]
+        },
+        "repository": {
+          "queries": [],
+          "fetched": [
+            {
+              "id": "shinonomeenana/sekai_lyrics raw_lyrics/0298.json @9c7d8dc",
+              "title": "ネトゲ廃人シュプレヒコール",
+              "artists": [],
+              "source_url": "https://github.com/shinonomeenana/sekai_lyrics",
+              "actuallyFetched": true,
+              "format": "JSON",
+              "wordUnits": 0,
+              "decision": "adopted_singer",
+              "reason": "32 项，第 8 项为「ドロップ重視＝ドロップアウト人生」，characterIds [15]（草薙寧々）；本仓库 game.bilingual.json 只有 31 行，缺 id game-000009／index 8。"
+            },
+            {
+              "id": "lyrics/0298/game.enhanced.lrc",
+              "title": "ネトゲ廃人シュプレヒコール",
+              "artists": [],
+              "source_url": null,
+              "actuallyFetched": true,
+              "format": "LRC",
+              "wordUnits": 5,
+              "decision": "rejected_partial_units",
+              "reason": "[00:51.929] 行只有「フ崩壊前提」5 个 QQ 逐字单元（51.929–53.230），「文化的ライ」与上一句均缺；改为整行 50.470「文化的ライフ崩壊前提」并删去这 5 个单元，与 lyrics.json 该行无逐字一致。"
+            }
+          ]
+        },
+        "netease": {
+          "queries": [],
+          "fetched": [
+            {
+              "id": "2111988586",
+              "title": "ネトゲ廃人シュプレヒコール",
+              "artists": [],
+              "source_url": "https://music.163.com/song?id=2111988586",
+              "actuallyFetched": true,
+              "format": "LRC",
+              "wordUnits": 0,
+              "decision": "timing_evidence_only",
+              "reason": "2026-11-15 句尾校准时取得。[00:50.380]ドロップ重視＝ドロップアウト人生、[00:53.096]文化的ライフ崩壊前提；按「守れ要塞」55.741→53.230 的局部偏移映射为 47.869、50.585。未采用其译文。"
+            },
+            {
+              "id": "22677430",
+              "title": "ネトゲ廃人シュプレヒコール",
+              "artists": [],
+              "source_url": "https://music.163.com/song?id=22677430",
+              "actuallyFetched": true,
+              "format": "LRC",
+              "wordUnits": 0,
+              "decision": "timing_evidence_only",
+              "reason": "2026-11-15 句尾校准时取得。[00:49.300]ドロップ重視＝ドロップアウト人生、[00:52.500]文化的ライフ崩壊前提；按「守れ要塞」54.730→53.230 映射为 47.80、51.00。未采用其译文。"
+            }
+          ]
+        },
+        "gameAudio": {
+          "queries": [],
+          "fetched": [
+            {
+              "id": "se_0298_01 htdemucs vocal stem",
+              "title": "ネトゲ廃人シュプレヒコール",
+              "artists": [],
+              "source_url": null,
+              "actuallyFetched": true,
+              "format": "audio (not stored)",
+              "wordUnits": 0,
+              "decision": "adopted_line_timing",
+              "reason": "人声静音 47.33–47.74、50.17–50.47。在 42.80–56.30 用补全后的文字强制对齐：日语音素 CTC「ドロップ重視＝ドロップアウト人生」47.72–50.04（0.385）、「文化的ライ」50.46–51.54（0.943）、「フ崩壊前提」51.62–52.72；MMS 分别为 48.59–50.09（0.135）、50.47–51.55（0.662）、51.55–52.69。补回行取 47.740–50.170（静音结束／开始），「文化的ライフ崩壊前提」起点取 50.470。用户试听确认「文化的ライ」在原起点 51.929 之前已演唱。"
+            }
+          ]
+        }
+      },
+      "lineInsert": {
+        "recordId": "0298-lyric-2026-11-16",
+        "row": 8,
+        "text": "ドロップ重視＝ドロップアウト人生",
+        "start": 47.74,
+        "end": 50.17,
+        "performerIds": [
+          "歌唱者-15"
+        ],
+        "translation": "",
+        "ruby": [
+          {
+            "from": 4,
+            "to": 6,
+            "reading": "じゅうし"
+          },
+          {
+            "from": 14,
+            "to": 16,
+            "reading": "じんせい"
+          }
+        ],
+        "romaji": "doroppu juushi = doroppu auto jinsei",
+        "romajiSource": "sekaipedia",
+        "bilingual": {
+          "id": "game-000009",
+          "order": 8,
+          "index": 8
+        },
+        "rowShift": "默认版第 8 行（零基）起后移一行；附加版 vocalId 808（an_0298_02，草薙寧々）singers 同步并补第 8 行。此前报告中的行号为插入前编号。",
+        "translationNote": "原项目没有此行译文，暂不补；网易云两份译文未采用。"
+      },
+      "readingReview": {
+        "recordId": "0298-lyric-2026-11-16",
+        "row": 9,
+        "text": "文化的ライフ崩壊前提",
+        "before": [
+          51.929,
+          53.23
+        ],
+        "after": [
+          50.47,
+          53.23
+        ],
+        "decision": "起点改为「文化的ライ」实际起唱处；独立 LRC 整行改为「文化的ライフ崩壊前提」。",
+        "wordTimingChanged": true,
+        "wordTimingNote": "删去独立 game.enhanced.lrc 中只覆盖「フ崩壊前提」的 5 个单元；lyrics.json 该行原本就没有逐字。",
+        "previousPlayback": "playback/298.7d3921b1c4fe58f3.json"
+      }
+    }
+  ]
+}
