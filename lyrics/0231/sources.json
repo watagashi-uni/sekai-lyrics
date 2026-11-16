@@ -80,7 +80,25 @@
       "recordId": null,
       "url": null,
       "license": null,
-      "note": "2026-11 句尾校准：按默认音频 se_0231_01（vocalId 581）的 htdemucs 人声轨，用 sekai_lyrics 的对齐方法（日语音素 CTC、MMS、Whisper large-v3 强制对齐，网易云 LRC 局部偏移投票，句尾吸附人声静音）校准 0 行；44 行两个对齐器不在置信区间或证据冲突，列为待复核、未改（见 reports/review/end-calibration-2026-11.md）。时间含前置空白。逐行依据见 reports/end-calibration-2026-11.json"
+      "note": "2026-11 句尾校准：按默认音频 se_0231_01（vocalId 581）的 htdemucs 人声轨，用 sekai_lyrics 的对齐方法（日语音素 CTC、MMS、Whisper large-v3 强制对齐，网易云 LRC 局部偏移投票，句尾吸附人声静音）校准 1 行（双语行起止）；1 行两个对齐器不在置信区间或证据冲突，列为待复核、未改（见 reports/review/end-calibration-2026-11.md）。时间含前置空白。逐行依据见 reports/end-calibration-2026-11.json"
+    },
+    {
+      "usage": "时间轴映射修正",
+      "provider": "game_audio_review",
+      "recordId": "0231-remap-2026-11-16",
+      "url": null,
+      "license": null,
+      "vocalId": 581,
+      "assetbundle": "se_0231_01",
+      "segments": [
+        {
+          "from": 0.0,
+          "to": null,
+          "shiftSec": 0.476
+        }
+      ],
+      "note": "2026-11-16 历史映射整体早约 0.48 秒（句尾校准中 15 行可信 CTC 起点同向偏移，中位 +0.53 s）。QQ 逐字行按单元级日语音素 CTC 对齐（93 个可信读音组）为 +0.476 s，LRCLIB／参考音源逐句行与之相同，整首后移 0.476 s，逐字单元相对时间不变。三个 LRC、lyrics.json 与 game.bilingual.json 同步。映射后可信单元残差中位 +0.003 s。",
+      "evidence": "reports/word-timing-search-2026-11-16-0231-remap.json"
     },
     {
       "usage": "罗马音",
