@@ -48,7 +48,7 @@
       "recordId": null,
       "url": null,
       "license": null,
-      "note": "2026-11 句尾校准：按默认音频 vs_0460_01（vocalId 998）的 htdemucs 人声轨，用 sekai_lyrics 的对齐方法（日语音素 CTC、MMS、Whisper large-v3 强制对齐，网易云 LRC 局部偏移投票，句尾吸附人声静音）校准 2 行（LRC lineTimings）；3 行两个对齐器不在置信区间或证据冲突，列为待复核、未改（见 PROGRESS.md）。时间含前置空白。逐行依据见 reports/end-calibration-2026-11.json"
+      "note": "2026-11 句尾校准：按默认音频 vs_0460_01（vocalId 998）的 htdemucs 人声轨，用 sekai_lyrics 的对齐方法（日语音素 CTC、MMS、Whisper large-v3 强制对齐，网易云 LRC 局部偏移投票，句尾吸附人声静音）校准 2 行（LRC lineTimings）；3 行两个对齐器不在置信区间或证据冲突，列为待复核、未改（见 docs/end-calibration-2026-11.md）。时间含前置空白。逐行依据见 reports/end-calibration-2026-11.json"
     },
     {
       "usage": "罗马音",
