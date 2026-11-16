@@ -40,7 +40,7 @@ Project SEKAI 游戏音频用的同步歌词成品，包含日文、已有的中
 - [本次合并报告](reports/merge-report.json)：罗马音、时间轴改动、版本来源统计及尚未解决的项目；逐行明细链接见报告。
 - [更新记录](CHANGELOG.md)：合并后的歌词、注音、分唱与时间轴修正，新的在前。
 - [无逐字歌曲句尾校准记录](reports/review/end-calibration-2026-11.md)：2026-11 按游戏人声轨校准不在 sekai_lyrics `timed/` 中的 515 首歌，含方法与置信门槛、逐首汇总、修改明细和待复核清单；逐行改前／改后与依据见[校准报告](reports/end-calibration-2026-11.json)。
-- [句首校准记录（试点）](reports/review/start-calibration-2026-11.md)：2026-11 沿用句尾校准方法、按人声起声校准 `catalog.json` 前 30 首的句首，含规则、逐首汇总、修改明细和待复核清单；逐行依据见[校准报告](reports/start-calibration-2026-11.json)。
+- [句首校准记录](reports/review/start-calibration-2026-11.md)：2026-11 沿用句尾校准方法、按人声起声校准 `catalog.json` 中 706 首（16 首当时已人工复核的歌除外）的句首，含规则、逐首汇总、修改明细和待复核清单；逐行依据见[校准报告](reports/start-calibration-2026-11.json)，分批进度见 [PROGRESS.md](PROGRESS.md)。
 - [整首偏移待复核清单](reports/review/whole-song-offset-review-2026-11.md)：句尾校准中因整体映射偏移整首待复核的歌曲、216 的映射修正方法与核对位置、各首偏移初测与初步归类，以及已按此方法修正的歌曲。
 - [格式说明](docs/format.md)、[播放接入](docs/playback.md)、[来源与使用说明](docs/sources.md)、[更新步骤](docs/maintenance.md)。
 

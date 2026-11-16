@@ -1,6 +1,7 @@
 {
   "date": "2026-11-16",
-  "scope": "试点：catalog.json 顺序前 30 首的句首校准",
+  "scope": "catalog.json 中除 16 首当时已人工复核的歌外的全部 706 首的句首校准：2026-11-16 试点前 30 首，2026-11-17 按 catalog 顺序分 23 批写入其余 676 首",
+  "completed": "2026-11-17",
   "method": "沿用句尾校准（reports/end-calibration-2026-11.json）的对齐方法：默认版本游戏音频 htdemucs 人声轨，日语音素 CTC（jp）、MMS_FA（mm）与 Whisper large-v3 强制对齐，网易云 LRC 局部偏移，consensus_vote 投票；起点再按人声静音结束（起声）细化",
   "rules": {
     "confidence": "与句尾校准相同：CTC 音素或 MMS 平均后验 >= 0.5，Whisper 词平均概率 >= 0.5（超过 30% 的词时长为零时不算），起点与现有起点相差 <= 1.5 s；两者都不满足的无逐字行列为待复核、不修改",
