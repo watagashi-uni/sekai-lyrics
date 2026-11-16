@@ -40,7 +40,8 @@
       "recordId": "1766849",
       "url": "https://y.qq.com/n/ryqq/songDetail/003wx0c612Bmti",
       "license": null,
-      "note": "qrc"
+      "note": "qrc；2026-11-16 起逐字单元的游戏映射按人声轨修正（见下一条），单元相对时间不变",
+      "evidence": "reports/word-timing-search-2026-11-16-0216-remap.json"
     },
     {
       "usage": "时间轴",
@@ -48,7 +49,35 @@
       "recordId": null,
       "url": null,
       "license": null,
-      "note": "2026-11 句尾校准：按默认音频 vs_0216_01（vocalId 532）的 htdemucs 人声轨，用 sekai_lyrics 的对齐方法（日语音素 CTC、MMS、Whisper large-v3 强制对齐，网易云 LRC 局部偏移投票，句尾吸附人声静音）校准 0 行；35 行两个对齐器不在置信区间或证据冲突，列为待复核、未改（见 docs/end-calibration-2026-11.md）。时间含前置空白。逐行依据见 reports/end-calibration-2026-11.json"
+      "note": "2026-11 句尾校准：按默认音频 vs_0216_01（vocalId 532）的 htdemucs 人声轨，用 sekai_lyrics 的对齐方法（日语音素 CTC、MMS、Whisper large-v3 强制对齐，网易云 LRC 局部偏移投票，句尾吸附人声静音）校准 0 行；7 行两个对齐器不在置信区间或证据冲突，列为待复核、未改（见 docs/end-calibration-2026-11.md）。时间含前置空白。逐行依据见 reports/end-calibration-2026-11.json"
+    },
+    {
+      "usage": "时间轴映射修正",
+      "provider": "game_audio_review",
+      "recordId": "0216-remap-2026-11-16",
+      "url": null,
+      "license": null,
+      "vocalId": 532,
+      "assetbundle": "vs_0216_01",
+      "segments": [
+        {
+          "from": 0.0,
+          "to": 22.0,
+          "shiftSec": 0.0
+        },
+        {
+          "from": 22.0,
+          "to": 85.0,
+          "shiftSec": 0.764
+        },
+        {
+          "from": 85.0,
+          "to": null,
+          "shiftSec": 0.693
+        }
+      ],
+      "note": "2026-11-16 历史 QQ 映射整体早约 0.7 秒（句尾校准中 27 行可信 CTC 起点同向偏移，中位 +0.70 s）。按参考项目日语音素 CTC 的单元级强制对齐（149 个可信读音组）确定分段映射：22–85 秒 +0.764 s，85 秒（第二段）起 +0.693 s，前奏「ダメダメよ☆ (woo!)」不动；频谱通量起音互相关与 Whisper 复核方向一致。三处段落开头的首字（23.01、88.48、138.19）按人声静音结束与 CTC 首音节起点单独提前，单元句尾不变。game.lrc、game.enhanced.lrc、game.zh-CN.lrc、lyrics.json 与 game.bilingual.json 同步；双语末 7 行原有另一套时间，改为所覆盖映射后 LRC 行的首末字时间。映射后可信单元残差中位 +0.008 s。",
+      "evidence": "reports/word-timing-search-2026-11-16-0216-remap.json"
     },
     {
       "usage": "罗马音",
