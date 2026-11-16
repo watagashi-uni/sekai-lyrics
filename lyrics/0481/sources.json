@@ -59,6 +59,15 @@
       "via": "https://github.com/shinonomeenana/sekai_lyrics",
       "revision": "9c7d8dc9b519d2b3b6fcdb8f512b759dcd65a01b",
       "note": "Game Version; exact normalized text; heuristic lines excluded. Existing text oldid is not asserted as the romaji revision."
+    },
+    {
+      "usage": "歌词修正",
+      "provider": "manual_review",
+      "recordId": "0481-lyric-2026-11-16",
+      "url": "https://www.sekaipedia.org/wiki/Meikyou_Shisui?oldid=289253",
+      "license": "CC BY-SA 4.0",
+      "note": "2026-11-16 删除游戏版没有演唱的「夢の終着地」（原 LRC [01:28.864]，夹在「この傷が覚えているから」与「どんな将来も」之间，只有 0.096 秒，无译文，罗马音为自动生成）。Sekaipedia oldid 289253（即当前修订）的歌词表、原项目 game.bilingual.json 及 shinonomeenana/sekai_lyrics raw_lyrics/0481.json 均无此句；网易云 2112460974 完整版 LRC 在 02:20.51 有此句，游戏版把这一段剪掉。游戏人声轨在「から」长音（84.3–87.4，单一音高）之后静音至 89.0，日语音素 CTC／MMS／Whisper 对齐均不在置信区间；用户试听确认。game.bilingual.json「この傷が覚えているから」句尾随之由 88.86437 改为 88.960。删除后按时间展开的默认行第 21 行（零基）起前移一行，此前报告中的行号为删除前编号。",
+      "evidence": "reports/word-timing-search-2026-11-16-0481-text.json"
     }
   ]
 }
