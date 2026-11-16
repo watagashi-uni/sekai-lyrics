@@ -75,6 +75,17 @@
       "note": "已保存来源标签，未记录可直接引用的链接"
     },
     {
+      "usage": "时间轴",
+      "provider": "game_audio_review",
+      "recordId": "0339-ends-2026-11-16",
+      "url": null,
+      "license": null,
+      "vocalId": 830,
+      "assetbundle": "se_0339_01",
+      "note": "2026-11-16 句尾复核：第 2、4、5、7 行句尾在长音仍在演唱时截断，按默认音频 se_0339_01 的 htdemucs 人声轨（静音、能量与音高）及日语音素 CTC、MMS、Whisper 对齐结果延长为 64.78、88.95、112.827（下一句起点）、137.61；其余时间未改。时间含前置空白。",
+      "evidence": "reports/word-timing-search-2026-11-16-0339-ends.json"
+    },
+    {
       "usage": "罗马音",
       "provider": "Sekaipedia",
       "url": "https://www.sekaipedia.org/wiki/Glow",
