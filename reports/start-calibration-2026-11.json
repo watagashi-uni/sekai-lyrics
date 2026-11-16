@@ -7255,6 +7255,1272 @@
       },
       "changes": [],
       "pending": []
+    },
+    "153": {
+      "title": "Miku",
+      "vocalId": 324,
+      "assetbundle": "vs_0153_01",
+      "format": "lrc",
+      "netease": 415786416,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": null,
+        "n": 0,
+        "wordRows": null,
+        "nWordRows": 0
+      },
+      "changes": [
+        {
+          "line": 34,
+          "text": "Listen to me with your eyes",
+          "before": [
+            129.958,
+            132.16
+          ],
+          "after": [
+            129.958,
+            131.6
+          ],
+          "startMoved": false,
+          "models": {
+            "jp": 129.18,
+            "mm": 129.9,
+            "wh": 129.88,
+            "ne": 129.95
+          },
+          "support": null,
+          "reason": "逐字行，起点即首个逐字单元，保持（模型起点相差 -0.06 s）；句尾 132.160 随第 36 行起点 132.160 → 131.600 调整（原句尾即该行起点）"
+        },
+        {
+          "line": 35,
+          "text": "I'm watching you from in the sky",
+          "before": [
+            132.16,
+            133.387
+          ],
+          "after": [
+            131.6,
+            133.387
+          ],
+          "startMoved": true,
+          "models": {
+            "jp": 131.6,
+            "mm": 131.62,
+            "wh": 131.54,
+            "ne": 132.22
+          },
+          "support": [
+            "jp",
+            "mm",
+            "wh",
+            "dip 131.54"
+          ],
+          "reason": "模型起点 jp 131.60／mm 131.62／wh 131.54（取 median），附近无人声静音，取模型起点；原起点前已在演唱（新起点到原起点之间人声 100%）；起点 132.160 → 131.600（-0.56 s）"
+        }
+      ],
+      "pending": [
+        {
+          "line": 16,
+          "text": "Hear your music running through my mind",
+          "times": [
+            69.264,
+            69.32
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.0667／MMS 0.0385，Whisper 0.098）"
+        },
+        {
+          "line": 17,
+          "text": "I'm thinking Miku Miku oo ee oo",
+          "times": [
+            69.32,
+            73.08
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.0269／MMS 0.031，Whisper 0.777）"
+        },
+        {
+          "line": 18,
+          "text": "I'm thinking Miku Miku oo ee oo",
+          "times": [
+            73.08,
+            76.439
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.0415／MMS 0.0509，Whisper 0.641）"
+        },
+        {
+          "line": 21,
+          "text": "I'll keep singing along",
+          "times": [
+            84.984,
+            85.07
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.0113／MMS 0.0177，Whisper 0.252）"
+        },
+        {
+          "line": 30,
+          "text": "Where were we walking together?",
+          "times": [
+            122.29,
+            123.359
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.0144／MMS 0.0138，Whisper 0.308）"
+        }
+      ]
+    },
+    "154": {
+      "title": "地球最後の告白を",
+      "vocalId": 326,
+      "assetbundle": "se_0154_01",
+      "format": "bilingual_json",
+      "netease": 26212270,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": 0.044,
+        "n": 16,
+        "wordRows": 0.044,
+        "nWordRows": 16
+      },
+      "changes": [],
+      "pending": []
+    },
+    "155": {
+      "title": "心拍数♯0822",
+      "vocalId": 329,
+      "assetbundle": "se_0155_01",
+      "format": "bilingual_json",
+      "netease": 22677419,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": 0.14,
+        "n": 15,
+        "wordRows": 0.138,
+        "nWordRows": 13
+      },
+      "changes": [],
+      "pending": []
+    },
+    "156": {
+      "title": "Beat Eater",
+      "vocalId": 335,
+      "assetbundle": "vs_0156_01",
+      "format": "lrc",
+      "netease": 2084005903,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": 0.152,
+        "n": 16,
+        "wordRows": 0.152,
+        "nWordRows": 16
+      },
+      "changes": [],
+      "pending": []
+    },
+    "157": {
+      "title": "マシュマリー",
+      "vocalId": 341,
+      "assetbundle": "se_0157_01",
+      "format": "bilingual_json",
+      "netease": 1920257953,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": 0.114,
+        "n": 26,
+        "wordRows": 0.114,
+        "nWordRows": 26
+      },
+      "changes": [],
+      "pending": []
+    },
+    "158": {
+      "title": "ナンセンス文学",
+      "vocalId": 343,
+      "assetbundle": "se_0158_01",
+      "format": "bilingual_json",
+      "netease": 1914870465,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": 0.07,
+        "n": 33,
+        "wordRows": 0.066,
+        "nWordRows": 28
+      },
+      "changes": [],
+      "pending": [
+        {
+          "line": 11,
+          "text": "今だけは忘れてﾗｯﾀｯﾀ(ﾗｯﾀｯﾀ)",
+          "times": [
+            50.053,
+            53.161
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.4741／MMS 0.3561，Whisper 0.439）"
+        }
+      ]
+    },
+    "159": {
+      "title": "STAGE OF SEKAI",
+      "vocalId": 425,
+      "assetbundle": "se_0159_01",
+      "format": "bilingual_json",
+      "netease": 2164330857,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": 0.021,
+        "n": 19,
+        "wordRows": 0.021,
+        "nWordRows": 19
+      },
+      "changes": [],
+      "pending": []
+    },
+    "160": {
+      "title": "ショウタイム・ルーラー",
+      "vocalId": 394,
+      "assetbundle": "se_0160_01",
+      "format": "bilingual_json",
+      "netease": 2038892592,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": 0.079,
+        "n": 11,
+        "wordRows": 0.081,
+        "nWordRows": 10
+      },
+      "changes": [],
+      "pending": [
+        {
+          "line": 6,
+          "text": "(Oh yeah)",
+          "times": [
+            32.85,
+            36.074
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.1056／MMS 0.1095，Whisper 0.0）"
+        },
+        {
+          "line": 16,
+          "text": "(Oh yeah)",
+          "times": [
+            61.078,
+            64.27
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.0311／MMS 0.0824，Whisper 0.0）"
+        },
+        {
+          "line": 24,
+          "text": "ショウタイム・ルーラー ルーラー ルーラー（イッツ・ショウ・タイム）",
+          "times": [
+            83.625,
+            86.245
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.0969／MMS 0.0949，Whisper 0.458）"
+        },
+        {
+          "line": 27,
+          "text": "クレイジーにしちゃって（モア クレイジー）",
+          "times": [
+            91.802,
+            93.467
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.0762／MMS 0.0124，Whisper 0.504）"
+        },
+        {
+          "line": 28,
+          "text": "ショウタイム・ルーラー ルーラー ルーラー（イッツ・ショウ・タイム）",
+          "times": [
+            93.665,
+            95.615
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.035／MMS 0.0313，Whisper 0.36）"
+        },
+        {
+          "line": 29,
+          "text": "テイク・ユー・ハイヤー ハイヤー ハイヤー（イッツ・ショウ・タイム）",
+          "times": [
+            95.615,
+            98.225
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.2343／MMS 0.1896，Whisper 0.545）"
+        },
+        {
+          "line": 30,
+          "text": "もっと自由に（自由に）夢中に（夢中に）招待（招待）",
+          "times": [
+            98.389,
+            102.391
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.1477／MMS 0.1179，Whisper 0.114）"
+        },
+        {
+          "line": 32,
+          "text": "(Oh yeah)",
+          "times": [
+            108.138,
+            110.954
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.0134／MMS 0.1036，Whisper 0.0）"
+        }
+      ]
+    },
+    "161": {
+      "title": "magic number",
+      "vocalId": 346,
+      "assetbundle": "vs_0161_01",
+      "format": "lrc",
+      "netease": 3416340425,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": -0.029,
+        "n": 12,
+        "wordRows": null,
+        "nWordRows": 0
+      },
+      "changes": [
+        {
+          "line": 8,
+          "text": "憂鬱な顔を振り向かす",
+          "before": [
+            58.982,
+            61.567
+          ],
+          "after": [
+            58.982,
+            60.69
+          ],
+          "startMoved": false,
+          "models": {},
+          "support": null,
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.421／MMS 0.0725，Whisper 0.791）；句尾 61.567 随第 10 行起点 61.567 → 60.690 调整（原句尾即该行起点）"
+        },
+        {
+          "line": 9,
+          "text": "あたたかな光　そっと差すような",
+          "before": [
+            61.567,
+            65.021
+          ],
+          "after": [
+            60.69,
+            65.021
+          ],
+          "startMoved": true,
+          "models": {
+            "jp": 60.74,
+            "mm": 61.02
+          },
+          "support": [
+            "jp",
+            "onset"
+          ],
+          "reason": "模型起点 jp 60.74／mm 61.02（取 jp），人声静音结束于 60.69，取起声；原起点前已在演唱（新起点到原起点之间人声 100%）；起点 61.567 → 60.690（-0.88 s）"
+        },
+        {
+          "line": 15,
+          "text": "明日は届くようにと　願ってる",
+          "before": [
+            84.281,
+            89.388
+          ],
+          "after": [
+            84.281,
+            88.98
+          ],
+          "startMoved": false,
+          "models": {
+            "jp": 84.28,
+            "wh": 83.9,
+            "ne": 84.299
+          },
+          "support": null,
+          "reason": "模型起点 jp 84.28／ne 84.30／wh 83.90，与原起点相差 -0.00 s，保持；句尾 89.388 随第 17 行起点 89.388 → 88.980 调整（原句尾即该行起点）"
+        },
+        {
+          "line": 16,
+          "text": "時は知らん振りで 　もうすぐ",
+          "before": [
+            89.388,
+            94.72
+          ],
+          "after": [
+            88.98,
+            94.72
+          ],
+          "startMoved": true,
+          "models": {
+            "jp": 88.98,
+            "mm": 89.14,
+            "wh": 87.9
+          },
+          "support": [
+            "jp",
+            "dip 88.88"
+          ],
+          "reason": "模型起点 jp 88.98／mm 89.14（取 jp），附近无人声静音，取模型起点；原起点前已在演唱（新起点到原起点之间人声 100%）；起点 89.388 → 88.980（-0.41 s）"
+        }
+      ],
+      "pending": [
+        {
+          "line": 0,
+          "text": "右手には錆びたペンと　左手に地図を",
+          "times": [
+            24.494,
+            28.757
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.453／MMS 0.2852，Whisper 0.497）"
+        },
+        {
+          "line": 8,
+          "text": "憂鬱な顔を振り向かす",
+          "times": [
+            58.982,
+            61.567
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.421／MMS 0.0725，Whisper 0.791）；句尾 61.567 随第 10 行起点 61.567 → 60.690 调整（原句尾即该行起点）"
+        }
+      ]
+    },
+    "165": {
+      "title": "そうだった！！",
+      "vocalId": 360,
+      "assetbundle": "vs_0165_01",
+      "format": "lrc",
+      "netease": 1862522505,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": 0.139,
+        "n": 27,
+        "wordRows": 0.139,
+        "nWordRows": 27
+      },
+      "changes": [],
+      "pending": []
+    },
+    "166": {
+      "title": "Glory Steady Go!",
+      "vocalId": 379,
+      "assetbundle": "se_0166_01",
+      "format": "bilingual_json",
+      "netease": 3369992492,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": -0.019,
+        "n": 8,
+        "wordRows": -0.048,
+        "nWordRows": 5
+      },
+      "changes": [],
+      "pending": [
+        {
+          "line": 1,
+          "text": "当然だ！",
+          "times": [
+            10.88,
+            11.49
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.4094／MMS 0.2438，Whisper 0.473）"
+        },
+        {
+          "line": 4,
+          "text": "わんだほーい！イェェェイ",
+          "times": [
+            16.33,
+            20.43
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.01／MMS 0.1628，Whisper 0.187）"
+        },
+        {
+          "line": 18,
+          "text": "…？ウーわんだほーい！！！",
+          "times": [
+            47.091,
+            49.394
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.0473／MMS 0.1986，Whisper 0.117）"
+        },
+        {
+          "line": 22,
+          "text": "Let’s dance!! Yeah!! (La la la)",
+          "times": [
+            60.594,
+            62.276
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.0481／MMS 0.0458，Whisper 0.116）"
+        },
+        {
+          "line": 36,
+          "text": "(Doo doo doo doo doo doo doo)",
+          "times": [
+            92.88,
+            95.06
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.0312／MMS 0.0657，Whisper 0.407）"
+        },
+        {
+          "line": 41,
+          "text": "イェイ",
+          "times": [
+            101.71,
+            102.51
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.1807／MMS 0.1327，Whisper 0.531）"
+        }
+      ]
+    },
+    "167": {
+      "title": "オルターエゴ",
+      "vocalId": 436,
+      "assetbundle": "se_0167_01",
+      "format": "bilingual_json",
+      "netease": 2013729644,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": 0.37,
+        "n": 30,
+        "wordRows": 0.371,
+        "nWordRows": 29
+      },
+      "changes": [],
+      "pending": [
+        {
+          "line": 15,
+          "text": "零でも果てでもない 無数の目 頭の中",
+          "times": [
+            73.681,
+            79.573
+          ],
+          "reason": "模型起点 jp 74.26／mm 73.94／wh 73.86 与逐字轴起点相差 +0.58 s，逐字单元不改"
+        }
+      ]
+    },
+    "168": {
+      "title": "ダーリンダンス",
+      "vocalId": 589,
+      "assetbundle": "se_0168_01",
+      "format": "bilingual_json",
+      "netease": 1920591616,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": 0.321,
+        "n": 18,
+        "wordRows": 0.319,
+        "nWordRows": 17
+      },
+      "changes": [],
+      "pending": [
+        {
+          "line": 23,
+          "text": "駄。",
+          "times": [
+            68.099,
+            68.564
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.4353／MMS 0.0576，Whisper 0.213）"
+        },
+        {
+          "line": 28,
+          "text": "無無　無無　無無無 ",
+          "times": [
+            81.206,
+            82.911
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.3953／MMS 0.0095，Whisper 0.426）"
+        },
+        {
+          "line": 32,
+          "text": "無無無　無無無",
+          "times": [
+            89.165,
+            90.566
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.1387／MMS 0.0234，Whisper 0.359）"
+        }
+      ]
+    },
+    "169": {
+      "title": "少女レイ",
+      "vocalId": 472,
+      "assetbundle": "se_0169_01",
+      "format": "bilingual_json",
+      "netease": 2068956580,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": 0.181,
+        "n": 15,
+        "wordRows": 0.18,
+        "nWordRows": 14
+      },
+      "changes": [],
+      "pending": []
+    },
+    "170": {
+      "title": "ヴィラン",
+      "vocalId": 469,
+      "assetbundle": "se_0170_01",
+      "format": "bilingual_json",
+      "netease": 2111704924,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": 0.134,
+        "n": 17,
+        "wordRows": 0.134,
+        "nWordRows": 17
+      },
+      "changes": [],
+      "pending": []
+    },
+    "171": {
+      "title": "カゲロウデイズ",
+      "vocalId": 367,
+      "assetbundle": "se_0171_01",
+      "format": "bilingual_json",
+      "netease": 28912786,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": 0.021,
+        "n": 22,
+        "wordRows": 0.028,
+        "nWordRows": 21
+      },
+      "changes": [],
+      "pending": []
+    },
+    "172": {
+      "title": "Happy Halloween",
+      "vocalId": 369,
+      "assetbundle": "se_0172_01",
+      "format": "bilingual_json",
+      "netease": 1335681507,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": 0.43,
+        "n": 20,
+        "wordRows": 0.43,
+        "nWordRows": 20
+      },
+      "changes": [],
+      "pending": [
+        {
+          "line": 13,
+          "text": "悪戯しちゃうぞ ding-dong-dang",
+          "times": [
+            78.145,
+            80.506
+          ],
+          "reason": "模型起点 jp 78.80／mm 78.68／ne 78.72／wh 78.55 与逐字轴起点相差 +0.55 s，逐字单元不改"
+        },
+        {
+          "line": 14,
+          "text": "あっちもこっちも trick or treat",
+          "times": [
+            80.506,
+            82.282
+          ],
+          "reason": "模型起点 jp 81.02／mm 81.04／ne 81.02／wh 80.75 与逐字轴起点相差 +0.51 s，逐字单元不改"
+        },
+        {
+          "line": 16,
+          "text": "だって Happy Halloween",
+          "times": [
+            84.412,
+            86.205
+          ],
+          "reason": "模型起点 jp 85.00／mm 85.00／ne 85.12／wh 84.89 与逐字轴起点相差 +0.59 s，逐字单元不改"
+        },
+        {
+          "line": 20,
+          "text": "オバケのカブだってラララ",
+          "times": [
+            94.18,
+            96.543
+          ],
+          "reason": "模型起点 jp 94.70／mm 94.68／ne 94.58／wh 94.59 与逐字轴起点相差 +0.52 s，逐字单元不改"
+        },
+        {
+          "line": 22,
+          "text": "チョコも頂戴よ",
+          "times": [
+            98.256,
+            100.243
+          ],
+          "reason": "模型起点 jp 98.76／mm 98.74／wh 98.53 与逐字轴起点相差 +0.50 s，逐字单元不改"
+        },
+        {
+          "line": 24,
+          "text": "不思議な世界へようこそ",
+          "times": [
+            102.156,
+            104.526
+          ],
+          "reason": "模型起点 jp 102.74／mm 102.60／ne 102.66／wh 102.59 与逐字轴起点相差 +0.58 s，逐字单元不改"
+        }
+      ]
+    },
+    "173": {
+      "title": "流星のパルス",
+      "vocalId": 378,
+      "assetbundle": "se_0173_01",
+      "format": "bilingual_json",
+      "netease": 2623126862,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": 0.08,
+        "n": 17,
+        "wordRows": 0.076,
+        "nWordRows": 16
+      },
+      "changes": [],
+      "pending": []
+    },
+    "174": {
+      "title": "いーあるふぁんくらぶ",
+      "vocalId": 555,
+      "assetbundle": "an_0174_01",
+      "format": "bilingual_json",
+      "netease": 29091324,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": -0.026,
+        "n": 22,
+        "wordRows": -0.014,
+        "nWordRows": 6
+      },
+      "changes": [],
+      "pending": [
+        {
+          "line": 0,
+          "text": "呜！哈！",
+          "times": [
+            23.097,
+            25.578
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.003／MMS 0.0406，Whisper 0.128）"
+        },
+        {
+          "line": 1,
+          "text": "呜！哈！",
+          "times": [
+            27.238,
+            28.318
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.0453／MMS 0.0392，Whisper 0.757）"
+        },
+        {
+          "line": 2,
+          "text": "呜！哈！",
+          "times": [
+            28.458,
+            29.339
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.0243／MMS 0.0522，Whisper 0.877）"
+        },
+        {
+          "line": 3,
+          "text": "呜！哈！",
+          "times": [
+            29.479,
+            29.919
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.0622／MMS 0.0414，Whisper 0.875）"
+        },
+        {
+          "line": 4,
+          "text": "神戸中央区元町。（駅前）",
+          "times": [
+            30.239,
+            31.179
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.4742／MMS 0.1874，Whisper 0.55）"
+        },
+        {
+          "line": 28,
+          "text": "我愛你",
+          "times": [
+            125.66,
+            127.4
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.3542／MMS 0.1353，Whisper 0.0）"
+        }
+      ]
+    },
+    "175": {
+      "title": "拝啓ドッペルゲンガー",
+      "vocalId": 381,
+      "assetbundle": "vs_0175_01",
+      "format": "lrc",
+      "netease": 482224164,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": -0.277,
+        "n": 8,
+        "wordRows": -0.277,
+        "nWordRows": 8
+      },
+      "changes": [],
+      "pending": [
+        {
+          "line": 1,
+          "text": "君の分身です」",
+          "times": [
+            27.045,
+            28.018
+          ],
+          "reason": "模型起点 jp 26.58／wh 26.50 与逐字轴起点相差 -0.50 s，逐字单元不改"
+        },
+        {
+          "line": 10,
+          "text": "艱難辛苦 全ての代行者エージェント",
+          "times": [
+            42.424,
+            47.05
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.2032／MMS 0.1477，Whisper 0.235）"
+        },
+        {
+          "line": 11,
+          "text": "過程はいいから結果を下さい",
+          "times": [
+            47.05,
+            48.43
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.0183／MMS 0.1139，Whisper 0.06）"
+        },
+        {
+          "line": 12,
+          "text": "無意味で無意義な代償",
+          "times": [
+            48.43,
+            49.5
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.0337／MMS 0.0687，Whisper 0.214）"
+        },
+        {
+          "line": 13,
+          "text": "ねえ　こんな事より",
+          "times": [
+            49.5,
+            50.44
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.0271／MMS 0.0987，Whisper 0.397）"
+        },
+        {
+          "line": 14,
+          "text": "大事なことがあるんだよ",
+          "times": [
+            50.44,
+            51.48
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.021／MMS 0.1073，Whisper 0.233）"
+        },
+        {
+          "line": 15,
+          "text": "いいだろ",
+          "times": [
+            51.48,
+            51.995
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.0083／MMS 0.1076，Whisper 0.145）"
+        },
+        {
+          "line": 16,
+          "text": "「ええやりますやります",
+          "times": [
+            51.995,
+            53.04
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.0015／MMS 0.186，Whisper 0.002）"
+        },
+        {
+          "line": 17,
+          "text": "何でもやります",
+          "times": [
+            53.04,
+            53.7
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.013／MMS 0.2716，Whisper 0.119）"
+        },
+        {
+          "line": 18,
+          "text": "僕は君の分身です」",
+          "times": [
+            53.7,
+            54.82
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.0011／MMS 0.1803，Whisper 0.175）"
+        },
+        {
+          "line": 19,
+          "text": "含み笑いで救済者は謂う",
+          "times": [
+            54.82,
+            58.408
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.0661／MMS 0.0867，Whisper 0.328）"
+        },
+        {
+          "line": 30,
+          "text": "奇跡の輪廻が",
+          "times": [
+            76.771,
+            77.575
+          ],
+          "reason": "模型起点 jp 76.14／wh 76.04 与逐字轴起点相差 -0.68 s，逐字单元不改"
+        },
+        {
+          "line": 58,
+          "text": "君は君は誰？",
+          "times": [
+            127.238,
+            128.389
+          ],
+          "reason": "模型起点 jp 126.68／mm 126.68／wh 126.66 与逐字轴起点相差 -0.56 s，逐字单元不改"
+        },
+        {
+          "line": 67,
+          "text": "奇跡の輪廻が",
+          "times": [
+            143.826,
+            145.049
+          ],
+          "reason": "模型起点 jp 143.10／wh 142.96 与逐字轴起点相差 -0.80 s，逐字单元不改"
+        },
+        {
+          "line": 68,
+          "text": "狂った正解を染め上げるさ",
+          "times": [
+            145.049,
+            146.957
+          ],
+          "reason": "模型起点 jp 144.42／wh 144.42 与逐字轴起点相差 -0.63 s，逐字单元不改"
+        }
+      ]
+    },
+    "176": {
+      "title": "マシンガンポエムドール",
+      "vocalId": 382,
+      "assetbundle": "vs_0176_01",
+      "format": "lrc",
+      "netease": 1883985010,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": 0.196,
+        "n": 11,
+        "wordRows": 0.196,
+        "nWordRows": 11
+      },
+      "changes": [],
+      "pending": []
+    },
+    "177": {
+      "title": "右肩の蝶",
+      "vocalId": 385,
+      "assetbundle": "vs_0177_01",
+      "format": "bilingual_json",
+      "netease": 526473126,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": -0.113,
+        "n": 7,
+        "wordRows": -0.113,
+        "nWordRows": 7
+      },
+      "changes": [],
+      "pending": [
+        {
+          "line": 0,
+          "text": "（右肩に紫蝶々　キスをしたこの部屋の隅で",
+          "times": [
+            9,
+            16.725
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.3593／MMS 0.0188，Whisper 0.443）"
+        },
+        {
+          "line": 1,
+          "text": "切ないという感情を知る　響くピアノ…）",
+          "times": [
+            16.725,
+            21.075
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.3344／MMS 0.0228，Whisper 0.336）"
+        },
+        {
+          "line": 2,
+          "text": "不協和音",
+          "times": [
+            21.075,
+            27.9
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.4629／MMS 0.0149，Whisper 0.487）"
+        },
+        {
+          "line": 3,
+          "text": "(oh..)",
+          "times": [
+            31.165,
+            32.57
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.0031／MMS 0.0066，Whisper 0.0）"
+        },
+        {
+          "line": 4,
+          "text": "(ah-!)",
+          "times": [
+            36.027,
+            36.521
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.0036／MMS 0.0544，Whisper 0.003）"
+        },
+        {
+          "line": 12,
+          "text": "抱き寄せて　歪んだ体　埋めるのはあなたしかいない",
+          "times": [
+            84.344,
+            91.016
+          ],
+          "reason": "模型起点 jp 83.74／wh 83.70 与逐字轴起点相差 -0.60 s，逐字单元不改"
+        },
+        {
+          "line": 14,
+          "text": "後悔は死ぬほどしてる　その分だけ快感を呼び覚ます",
+          "times": [
+            98.43,
+            104.825
+          ],
+          "reason": "模型起点 jp 97.72／ne 97.93／wh 97.62 与逐字轴起点相差 -0.71 s，逐字单元不改"
+        },
+        {
+          "line": 17,
+          "text": "切ないという感情を知る　響くピアノ　不協和音",
+          "times": [
+            119.353,
+            125.246
+          ],
+          "reason": "模型起点 mm 118.56／wh 118.64 与逐字轴起点相差 -0.75 s，逐字单元不改"
+        }
+      ]
+    },
+    "178": {
+      "title": "にっこり^^調査隊のテーマ",
+      "vocalId": 481,
+      "assetbundle": "se_0178_01",
+      "format": "bilingual_json",
+      "netease": 2111739994,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": 0.061,
+        "n": 38,
+        "wordRows": 0.061,
+        "nWordRows": 36
+      },
+      "changes": [],
+      "pending": [
+        {
+          "line": 14,
+          "text": "あぁ　百聞は一見に如かずだねぇ",
+          "times": [
+            34.595,
+            35.921
+          ],
+          "reason": "模型起点 jp 34.06／mm 33.94／ne 34.15／wh 34.16 与逐字轴起点相差 -0.54 s，逐字单元不改"
+        }
+      ]
+    },
+    "179": {
+      "title": "炉心融解",
+      "vocalId": 393,
+      "assetbundle": "vs_0179_01",
+      "format": "lrc",
+      "netease": 526473118,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": 0.02,
+        "n": 13,
+        "wordRows": 0.02,
+        "nWordRows": 13
+      },
+      "changes": [],
+      "pending": [
+        {
+          "line": 12,
+          "text": "あああああああああああああ！！！！！",
+          "times": [
+            76.635,
+            77.369
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.0352／MMS 0.0031，Whisper 0.226）"
+        },
+        {
+          "line": 21,
+          "text": "(Ah, ah ah ah ah, ah-!)",
+          "times": [
+            118.1,
+            132
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.0105／MMS 0.0247，Whisper 0.133）"
+        }
+      ]
+    },
+    "180": {
+      "title": "ミライ",
+      "vocalId": 462,
+      "assetbundle": "se_0180_01",
+      "format": "bilingual_json",
+      "netease": 1901878858,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": 0.05,
+        "n": 14,
+        "wordRows": 0.054,
+        "nWordRows": 8
+      },
+      "changes": [],
+      "pending": []
+    },
+    "181": {
+      "title": "愛して愛して愛して",
+      "vocalId": 489,
+      "assetbundle": "se_0181_01",
+      "format": "bilingual_json",
+      "netease": 29185030,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": 0.004,
+        "n": 18,
+        "wordRows": 0.01,
+        "nWordRows": 11
+      },
+      "changes": [
+        {
+          "line": 16,
+          "text": "苦しい　苦しい　",
+          "before": [
+            84.124,
+            87.204
+          ],
+          "after": [
+            84.124,
+            87.2
+          ],
+          "startMoved": false,
+          "models": {
+            "jp": 84.06,
+            "mm": 84.04,
+            "wh": 83.5,
+            "ne": 84.05
+          },
+          "support": null,
+          "reason": "逐字行，起点即首个逐字单元，保持（模型起点相差 -0.06 s）；句尾 87.204 随第 18 行起点 87.460 → 87.200 调整（避免与该行重叠）"
+        },
+        {
+          "line": 17,
+          "text": "呪縛を　解いて解いてねえ　",
+          "before": [
+            87.46,
+            90.46
+          ],
+          "after": [
+            87.2,
+            90.46
+          ],
+          "startMoved": true,
+          "models": {
+            "jp": 87.2,
+            "mm": 87.2,
+            "wh": 86.44,
+            "ne": 87.29
+          },
+          "support": [
+            "jp",
+            "mm",
+            "ne",
+            "dip 87.14"
+          ],
+          "reason": "模型起点 jp 87.20／mm 87.20／ne 87.29（取 jp），附近无人声静音，取模型起点；原起点前已在演唱（新起点到原起点之间人声 100%）；起点 87.460 → 87.200（-0.26 s）"
+        }
+      ],
+      "pending": []
+    },
+    "182": {
+      "title": "Flyer!",
+      "vocalId": 533,
+      "assetbundle": "se_0182_01",
+      "format": "bilingual_json",
+      "netease": 1932821275,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": 0.063,
+        "n": 18,
+        "wordRows": 0.063,
+        "nWordRows": 18
+      },
+      "changes": [],
+      "pending": [
+        {
+          "line": 0,
+          "text": "Wow Wow Wow Wow Wow",
+          "times": [
+            9,
+            11.29
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.0218／MMS 0.0226，Whisper 0.395）"
+        },
+        {
+          "line": 30,
+          "text": "Wow Wow Wow Wow Wow",
+          "times": [
+            107.327,
+            109.266
+          ],
+          "reason": "两个对齐器均不在置信区间（CTC 音素 0.0109／MMS 0.0043，Whisper 0.366）"
+        }
+      ]
+    },
+    "183": {
+      "title": "フィクサー",
+      "vocalId": 449,
+      "assetbundle": "se_0183_01",
+      "format": "bilingual_json",
+      "netease": 484058972,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": 0.128,
+        "n": 20,
+        "wordRows": 0.128,
+        "nWordRows": 20
+      },
+      "changes": [],
+      "pending": []
+    },
+    "184": {
+      "title": "Hello,world!",
+      "vocalId": 418,
+      "assetbundle": "se_0184_01",
+      "format": "bilingual_json",
+      "netease": 31311449,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": 0.277,
+        "n": 15,
+        "wordRows": 0.277,
+        "nWordRows": 15
+      },
+      "changes": [],
+      "pending": []
+    },
+    "185": {
+      "title": "しっくおぶはうす！",
+      "vocalId": 419,
+      "assetbundle": "vs_0185_01",
+      "format": "bilingual_json",
+      "netease": 1913851638,
+      "songFlag": null,
+      "ctcOffset": {
+        "all": 0.115,
+        "n": 24,
+        "wordRows": -0.03,
+        "nWordRows": 3
+      },
+      "changes": [],
+      "pending": []
     }
   }
 }
