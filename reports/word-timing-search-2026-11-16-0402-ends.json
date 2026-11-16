@@ -1,0 +1,52 @@
+{
+  "date": "2026-11-16",
+  "selection": "用户指出 0402 エンヴィーベイビー 两句「Hey, it's a amazing.」时间提前被截断。本曲属于参考项目 shinonomeenana/sekai_lyrics 的 timed/（已校准），不在 2026-11 句尾校准范围内；本次按同一方法单独核对默认音频（セカイver. se_0402_01），没有检索或拉取歌词平台记录。",
+  "songs": [
+    {
+      "musicId": 402,
+      "title": "エンヴィーベイビー",
+      "wordTimingSearch": false,
+      "providers": {},
+      "timingReview": {
+        "masterVersion": "7.1.0.60",
+        "defaultVocalId": 1376,
+        "assetbundle": "se_0402_01",
+        "additionalVersions": [
+          1441,
+          1442
+        ],
+        "method": "htdemucs 人声轨；日语音素 HuBERT CTC、MMS_FA、Whisper large-v3 强制对齐（参考项目方法，两句均因英文与人声弱而不在置信区间）；25 ms 能量与自相关音高；第 11 行另用未分离的游戏混音 300–3000 Hz 能量对照；本曲 game.enhanced.lrc 的 QQ 578601638 逐字单元；参考项目 timed/0402.json（加 fillerSec 8.649）。",
+        "rows": [
+          {
+            "row": 10,
+            "text": "Hey, it's a amazing.",
+            "old": [
+              46.4455,
+              47.1075
+            ],
+            "new": [
+              46.4455,
+              47.7985
+            ],
+            "basis": "QQ 逐字单元「Hey」46.450、「it's」46.785、「amazing」46.994–47.753；Whisper「amazing.」止于 47.84；参考项目 timed 46.50–47.86。分离人声轨只在 46.65–47.30 有音高（Hey／it's），其后为静音，但未分离混音在 47.3、47.5–47.8 仍有音节状能量（26–38 dB），判断后半「a amazing」为分离到伴奏里的处理人声。句尾延至下一句「LA LA LA」起点 47.7985。"
+          },
+          {
+            "row": 28,
+            "text": "Hey, it's a amazing.",
+            "old": [
+              102.6905,
+              103.1085
+            ],
+            "new": [
+              102.6905,
+              103.9715
+            ],
+            "basis": "人声轨 102.95–103.95 有连续音高的音节（Hey 102.95、it's 103.2、a 103.4、ma 103.6、zing 103.8–103.95），104.03–104.22 静音后「LA」104.25 起；QQ「amazing」止于 103.958，参考项目 timed 104.02。原句尾 103.1085 时这句刚开始。句尾延至下一句起点 103.9715。"
+          }
+        ],
+        "unchanged": "两句起点未改（第 29 行起点比「Hey」早约 0.2 s，与上一句尾音重叠，属常见提前）；其它行未改。独立 LRC 无结束标签，不受影响；附加演唱版本共用默认时间轴。",
+        "previousPlayback": "playback/402.3f0c7add8465f14e.json"
+      }
+    }
+  ]
+}
