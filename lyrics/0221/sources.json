@@ -169,6 +169,14 @@
       ],
       "evidence": "reports/word-timing-search-2026-11-15-0221-0635-0645.json",
       "note": "JP master 只有 vocalId 546；旧 QQ 逐字与旧逐句映射多数晚约一秒，且重唱句中有局部误差。网易云 22717167 的原生 YRC 在游戏时间 origin 上加 8.623 秒，并经实际唱词复核。"
+    },
+    {
+      "usage": "时间轴",
+      "provider": "game_audio_review",
+      "recordId": null,
+      "url": null,
+      "license": null,
+      "note": "2026-11 句首校准（试点）：按默认音频 vs_0221_01（vocalId 546）的 htdemucs 人声轨，沿用句尾校准的对齐方法（日语音素 CTC、MMS、Whisper large-v3 强制对齐，网易云 LRC 局部偏移投票），起点按人声静音结束细化；改动 0 行起点；4 行两个对齐器不在置信区间或证据冲突，列为待复核、未改（见 reports/review/start-calibration-2026-11.md）。逐字单元未改。时间含前置空白。逐行依据见 reports/start-calibration-2026-11.json"
     }
   ]
 }
