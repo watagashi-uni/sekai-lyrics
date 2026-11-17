@@ -1,0 +1,14 @@
+[Unit]
+Description=Publish sekai-lyrics playback to COS when GitHub main changes
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+WorkingDirectory=/data/watagashi/sekai-lyrics-publisher
+Environment=HOME=/data/watagashi/sekai-lyrics-publisher
+Environment=PYTHONUNBUFFERED=1
+ExecStart=/usr/bin/bash /data/watagashi/sekai-lyrics-publisher/auto-publish.sh
+Nice=10
+TimeoutStartSec=15min
+UMask=0027

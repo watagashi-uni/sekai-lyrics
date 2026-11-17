@@ -45,4 +45,4 @@
 3. 文字或注音改变时按维护文档重新生成罗马音；同步 `catalog.json`、上述四份清单以及受影响的 README 统计。更新说明写入 `CHANGELOG.md`（按日期分节，新的在前），README 只保留当前统计和使用说明，不再追加更新段落。
 4. 执行 `node scripts/build-playback.mjs`、`node scripts/validate.mjs`；涉及演唱版本格式时执行 `node scripts/test-version-schema.mjs`。仅维护检索记录时核验清单，不必重建播放资源。
 5. `reports/lyrics-coverage.xlsx` 是独立历史快照，不能因更新 CSV／JSON 就声称 Excel 已更新。
-6. 获准发布 COS 时，先上传新增哈希文件并回读校验，最后更新 `version.json`；保留已有哈希资源供缓存客户端读取。
+6. 获准发布 COS 时，在维护服务器上用 `scripts/publish-cos.py` 增量发布（先 `--dry-run` 核对改动范围，单曲用 `--only`），见 `docs/maintenance.md` 的“增量发布”。推送到 GitHub `main` 后，yokohama 上的 `sekai-lyrics-publish.timer` 会在 10 分钟内自动构建并发布，因此推送 `main` 即等于发布 COS。脚本先上传新增哈希文件并回读校验，最后更新 `version.json`，不覆盖、不删除已有哈希资源。

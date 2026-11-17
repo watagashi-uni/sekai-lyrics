@@ -73,7 +73,7 @@ node scripts/build-playback.mjs
 node scripts/validate.mjs
 ```
 
-`playback/version.json` 列出每首歌的内容哈希，歌曲资源为 `<musicId>.<hash>.json`。更新时先上传歌曲文件，最后上传 `version.json`。
+`playback/version.json` 列出每首歌的内容哈希，歌曲资源为 `<musicId>.<hash>.json`。更新时先上传歌曲文件，最后上传 `version.json`；`scripts/publish-cos.py` 只上传与线上不同的歌曲，用法见[更新步骤](docs/maintenance.md#增量发布)。
 
 ## 当前边界
 

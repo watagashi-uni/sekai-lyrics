@@ -11,7 +11,38 @@
 5. 更新 `catalog.json` 的统计，重新生成覆盖报告。
 6. 更新罗马音：`uv run --no-project --with Janome==0.5.0 python scripts/add-romaji.py`（文字或注音改动后需要重跑；内容不变的文件不会被改写）。
 7. 执行 `node scripts/build-playback.mjs` 和 `node scripts/validate.mjs`。
-8. 发布时先上传新增哈希文件，确认可读后再更新 `version.json`。
+8. 发布：在维护服务器上用 `scripts/publish-cos.py` 增量上传（见下文）。
+
+## 增量发布
+
+每首歌是一个按内容哈希命名的文件，`version.json` 只是“音乐 ID → 哈希”的指针。改一首歌只会改变这一首的哈希，所以只需上传这一首的新文件，再更新 `version.json`。
+
+`scripts/publish-cos.py` 以 COS 上当前的 `lyrics/version.json` 为基准，不需要另存“上一版索引”：
+
+```sh
+# 在维护服务器的仓库检出中，先 build-playback，再：
+/data/watagashi/sekai-zh/.venv/bin/python scripts/publish-cos.py --dry-run     # 列出与线上不同的歌曲
+/data/watagashi/sekai-zh/.venv/bin/python scripts/publish-cos.py               # 发布全部改动
+/data/watagashi/sekai-zh/.venv/bin/python scripts/publish-cos.py --only 1,226  # 只发布这几首，其余保持线上版本
+```
+
+- 只上传哈希与线上不同、且 COS 上还没有的 `<musicId>.<hash>.json`（Brotli、`immutable`），逐个回读校验；最后写 `version.json`。
+- 已发布的哈希文件不覆盖、不删除，持有旧索引的客户端仍可读取。
+- 本地缺少线上已有的歌曲时默认拒绝发布，确需下架时加 `--allow-remove`。
+- `--only` 写出的 `version.json` 是线上索引加指定歌曲的新哈希，与仓库中的 `playback/version.json` 不同，属预期情况。
+- `version.json` 使用 `Cache-Control: no-cache`：浏览器每次用 ETag 重新验证（通常是 304）。前端最多每分钟重新验证一次索引，哈希变了才拉新文件；没变就沿用缓存。
+- COS 客户端取自 `sekai_zh.publish.client()`（`$SEKAI_ZH_ROOT`，默认 `/data/watagashi/sekai-zh`），脚本本身不读取、不输出凭据。
+
+### 推送后自动发布
+
+yokohama 上的 `sekai-lyrics-publish.timer` 每 10 分钟用 `git ls-remote` 查看 GitHub `main`。出现新提交后，它会在独立检出 `/data/watagashi/sekai-lyrics-publisher/repo` 中依次执行 `build-playback.mjs`、`validate.mjs` 和 `publish-cos.py`，所以推送到 `main` 后最多约 10 分钟就会上线。任一步失败都不会更新 `version.json`。源文件在 `deploy/`。
+
+- 查看日志：`journalctl -u sekai-lyrics-publish -n 50`
+- 立即执行：`systemctl start sekai-lyrics-publish`
+- 失败的提交记在 `failed-commit` 中，不会每次检查都重试；修复后推送新提交即可。要重跑同一个提交，删除该文件。
+- 暂停自动发布：`systemctl disable --now sekai-lyrics-publish.timer`
+- 自动发布会运行仓库中的构建和发布脚本，并持有 COS 写权限，所以能推送 `main` 的人等同于能发布 COS。
+- 更新部署文件：把 `deploy/auto-publish.sh` 复制到 `/data/watagashi/sekai-lyrics-publisher/`，把两个 unit 复制到 `/etc/systemd/system/`，然后执行 `systemctl daemon-reload`。
 
 `add-furigana.mjs` 默认从每首歌的 `game.bilingual.json` 提取读音。有原项目完整数据时，可传入 `music_<ID>.json` 所在目录，从相同歌词的完整版和其它演唱版本补齐读音。`lyrics.json` 中已保存的读音（曾用完整数据补齐或人工修正过）一律保留，脚本只给还没有读音的位置补读音；文字改动过的行按新文字重新提取。`--only 795,402` 只处理指定歌曲；`--rebuild` 丢弃已保存的读音、按本次输入重新推导，输入不全时会删掉读音，一般不用。内容未变的文件不改写。播放 LRC 拆分原项目歌词行时，先恢复原项目整行的读音，再按时间和匹配片段映射到各播放行。重建播放文件时直接运行 `build-playback.mjs`，它会保留 `lyrics.json` 中已经保存的注音。
 
@@ -19,7 +50,7 @@
 
 只复核文字、注音而未检索逐字的批次（`reports/word-timing-search-*.json`）在歌曲项中写 `"wordTimingSearch": false`，来源清单不会把它算作逐字补查，也不改变无逐字歌曲的建议下一步。
 
-构建脚本会按 `lyrics.json` 的原始字节计算 SHA-256，取前 16 个十六进制字符作为文件名。仅改变 JSON 排版也会改变哈希。已发布的哈希文件不覆盖；旧文件可以暂时保留，供缓存着旧索引的客户端读取。
+构建脚本会按 `lyrics.json` 的原始字节计算 SHA-256，取前 16 个十六进制字符作为文件名。仅改变 JSON 排版也会改变哈希。已发布的哈希文件不覆盖。仓库的 `playback/` 只保留当前 `version.json` 引用的文件，构建时自动删除其余旧哈希文件；COS 上的旧文件不删除，供缓存着旧索引的客户端读取。
 
 Excel 是本次快照报告，构建脚本不会自动更新它。不要在只修改了 JSON 后宣称报告也已更新。新版本应记录新的快照日期，并重新核对已收录、纯音乐和未收录歌曲的统计。
 

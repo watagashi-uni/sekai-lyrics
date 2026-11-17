@@ -14,7 +14,7 @@
 建议资源响应头：
 
 - 哈希歌曲文件：`Content-Type: application/json; charset=utf-8`，`Cache-Control: public, max-age=31536000, immutable`。
-- `version.json`：短期缓存或重新验证，避免更新后长时间引用旧版本。
+- `version.json`：`Cache-Control: no-cache`，每次重新验证，更新后下次加载即生效。长时间打开的页面应定期重新请求它（Viewer 前端为每分钟最多一次），哈希不变时继续使用已缓存的歌曲文件。
 - 可使用 Brotli，但必须同时设置 `Content-Encoding: br`，浏览器才会自动解压。
 - 跨域托管时配置实际站点需要的 CORS。
 

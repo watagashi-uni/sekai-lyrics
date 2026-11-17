@@ -1,0 +1,10 @@
+[Unit]
+Description=Check GitHub for new sekai-lyrics commits every 10 minutes
+
+[Timer]
+OnBootSec=2min
+OnCalendar=*:0/10
+AccuracySec=30s
+
+[Install]
+WantedBy=timers.target
