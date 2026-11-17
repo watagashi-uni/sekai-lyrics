@@ -56,7 +56,45 @@
       "recordId": null,
       "url": null,
       "license": null,
-      "note": "2026-11 句首校准（试点）：按默认音频 vs_0366_02（vocalId 1394）的 htdemucs 人声轨，沿用句尾校准的对齐方法（日语音素 CTC、MMS、Whisper large-v3 强制对齐，网易云 LRC 局部偏移投票），起点按人声静音结束细化；改动 0 行起点；42 行两个对齐器不在置信区间或证据冲突，列为待复核、未改（见 reports/review/start-calibration-2026-11.md）。逐字单元未改。时间含前置空白。逐行依据见 reports/start-calibration-2026-11.json"
+      "note": "2026-11 句首校准（试点）：按默认音频 vs_0366_02（vocalId 1394）的 htdemucs 人声轨，沿用句尾校准的对齐方法（日语音素 CTC、MMS、Whisper large-v3 强制对齐，网易云 LRC 局部偏移投票），起点按人声静音结束细化；改动 2 行起点、1 行句尾随下一句起点（双语行起止）；1 行两个对齐器不在置信区间或证据冲突，列为待复核、未改（见 reports/review/start-calibration-2026-11.md）。逐字单元未改。时间含前置空白。逐行依据见 reports/start-calibration-2026-11.json"
+    },
+    {
+      "usage": "时间轴映射修正",
+      "provider": "game_audio_review",
+      "recordId": "0366-remap-2026-11-17",
+      "url": null,
+      "license": null,
+      "vocalId": 1394,
+      "assetbundle": "vs_0366_02",
+      "segments": [
+        {
+          "from": 0.0,
+          "to": 34.4,
+          "shiftSec": 0.879
+        },
+        {
+          "from": 34.4,
+          "to": 34.6,
+          "shiftSec": 0.0
+        },
+        {
+          "from": 34.6,
+          "to": 117.2,
+          "shiftSec": 0.879
+        },
+        {
+          "from": 117.2,
+          "to": 121.4,
+          "shiftSec": 0.0
+        },
+        {
+          "from": 121.4,
+          "to": null,
+          "shiftSec": 0.879
+        }
+      ],
+      "note": "2026-11-17 参考音源逐句时间整体早约 0.88 秒（句首校准全量中 38 行起点同向偏移，中位 +0.89 s）。按行级可信 CTC 起点（32 行中位 +0.879 s，网易云局部映射 +0.873 s）整首后移 0.879 s；第 9、40、41 行现起点已与人声一致，不平移。随后按句尾校准规则改 14 行，再按句首校准规则改第 1、31 行起点。三个 LRC、lyrics.json 与 game.bilingual.json 同步。重新出方案后可信 CTC 起点中位 −0.002 s。",
+      "evidence": "reports/word-timing-search-2026-11-17-0366-remap.json"
     },
     {
       "usage": "罗马音",

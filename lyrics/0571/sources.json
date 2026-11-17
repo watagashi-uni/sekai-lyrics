@@ -64,7 +64,45 @@
       "recordId": null,
       "url": null,
       "license": null,
-      "note": "2026-11 句首校准（试点）：按默认音频 se_0571_01（vocalId 1684）的 htdemucs 人声轨，沿用句尾校准的对齐方法（日语音素 CTC、MMS、Whisper large-v3 强制对齐，网易云 LRC 局部偏移投票），起点按人声静音结束细化；改动 0 行起点；34 行两个对齐器不在置信区间或证据冲突，列为待复核、未改（见 reports/review/start-calibration-2026-11.md）。逐字单元未改。时间含前置空白。逐行依据见 reports/start-calibration-2026-11.json"
+      "note": "2026-11 句首校准（试点）：按默认音频 se_0571_01（vocalId 1684）的 htdemucs 人声轨，沿用句尾校准的对齐方法（日语音素 CTC、MMS、Whisper large-v3 强制对齐，网易云 LRC 局部偏移投票），起点按人声静音结束细化；改动 3 行起点、1 行句尾随下一句起点（双语行起止）；1 行两个对齐器不在置信区间或证据冲突，列为待复核、未改（见 reports/review/start-calibration-2026-11.md）。逐字单元未改。时间含前置空白。逐行依据见 reports/start-calibration-2026-11.json"
+    },
+    {
+      "usage": "时间轴映射修正",
+      "provider": "game_audio_review",
+      "recordId": "0571-remap-2026-11-17",
+      "url": null,
+      "license": null,
+      "vocalId": 1684,
+      "assetbundle": "se_0571_01",
+      "segments": [
+        {
+          "from": 0.0,
+          "to": 9.6,
+          "shiftSec": 0.0
+        },
+        {
+          "from": 9.6,
+          "to": 70.0,
+          "shiftSec": 0.539
+        },
+        {
+          "from": 70.0,
+          "to": 71.05,
+          "shiftSec": 0.0
+        },
+        {
+          "from": 71.05,
+          "to": 115.9,
+          "shiftSec": 0.62
+        },
+        {
+          "from": 115.9,
+          "to": null,
+          "shiftSec": 0.0
+        }
+      ],
+      "note": "2026-11-17 历史 QQ 映射与逐句行整体偏早（句首校准全量中 18 行起点同向偏移，中位 +0.57 s）。按单元级日语音素 CTC 对齐（91 个可信读音组）以 70 秒间奏为界分两段后移（之前 0.539 s、之后 0.620 s），逐字单元相对时间不变；第 1 行与两处「(クソが)」现时间已与人声一致，不平移，第一处「(クソが)」与「メーデーメーデー」按原项目行序交换。随后按句尾校准规则改 6 行，再按句首校准规则改第 9、24、27 行起点。三个 LRC、lyrics.json 与 game.bilingual.json 同步。映射后可信单元残差中位 +0.009 s。",
+      "evidence": "reports/word-timing-search-2026-11-17-0571-remap.json"
     },
     {
       "usage": "罗马音",

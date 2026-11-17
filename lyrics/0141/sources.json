@@ -35,12 +35,22 @@
       "note": "已保存来源标签，未记录可直接引用的链接"
     },
     {
-      "usage": "时间轴",
+      "usage": "时间轴映射修正",
       "provider": "game_audio_review",
-      "recordId": null,
+      "recordId": "0141-remap-2026-11-17",
       "url": null,
       "license": null,
-      "note": "2026-11 句首校准（试点）：按默认音频 se_0141_01（vocalId 388）的 htdemucs 人声轨，沿用句尾校准的对齐方法（日语音素 CTC、MMS、Whisper large-v3 强制对齐，网易云 LRC 局部偏移投票），起点按人声静音结束细化；改动 0 行起点；17 行两个对齐器不在置信区间或证据冲突，列为待复核、未改（见 reports/review/start-calibration-2026-11.md）。逐字单元未改。时间含前置空白。逐行依据见 reports/start-calibration-2026-11.json"
+      "vocalId": 388,
+      "assetbundle": "se_0141_01",
+      "segments": [
+        {
+          "from": 0.0,
+          "to": null,
+          "shiftSec": 0.51
+        }
+      ],
+      "note": "2026-11-17 历史 QQ 映射整体早约 0.51 秒（句首校准全量中 11 行起点同向偏移，中位 +0.54 s）。按单元级日语音素 CTC 对齐（187 个可信读音组）整首后移 0.510 s，逐字单元相对时间不变；随后按句尾校准规则收回末行句尾，按句首校准规则没有可改的行。三个 LRC、lyrics.json 与 game.bilingual.json 同步。映射后可信单元残差中位 +0.002 s。",
+      "evidence": "reports/word-timing-search-2026-11-17-0141-remap.json"
     },
     {
       "usage": "罗马音",
