@@ -1,5 +1,5 @@
 import { validateVersions } from './version-schema.mjs'
-import { readFile, writeFile, mkdir, readdir } from 'node:fs/promises'
+import { readFile, writeFile, mkdir, readdir, unlink } from 'node:fs/promises'
 import { createHash } from 'node:crypto'
 import { fileURLToPath } from 'node:url'
 import path from 'node:path'
@@ -20,4 +20,13 @@ for (const folder of (await readdir(path.join(root, 'lyrics'))).sort()) {
 }
 // Publish this pointer only after all of its immutable song files are available.
 await writeFile(path.join(output, 'version.json'), JSON.stringify({ v: 1, songs }))
-console.log(`Built ${Object.keys(songs).length} playback resources`)
+// Older hashes stay on COS for clients holding an older index; the repo keeps only the current set.
+const current = new Set(Object.entries(songs).map(([mid, hash]) => `${mid}.${hash}.json`))
+let removed = 0
+for (const name of await readdir(output)) {
+  if (/^\d+\.[a-f0-9]{16}\.json$/.test(name) && !current.has(name)) {
+    await unlink(path.join(output, name))
+    removed++
+  }
+}
+console.log(`Built ${Object.keys(songs).length} playback resources, removed ${removed} stale`)
