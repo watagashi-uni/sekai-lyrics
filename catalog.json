@@ -1,5 +1,5 @@
 {
-  "snapshot": "2026-11-14",
+  "snapshot": "2026-11-19",
   "timeOrigin": "selected_game_recording_start_including_pre_roll",
   "songs": [
     {
@@ -19564,6 +19564,35 @@
       "generatedRomajiLines": 0
     },
     {
+      "musicId": 777,
+      "title": "レグルス（REMIX）",
+      "publishedAt": 1795154400000,
+      "directory": "lyrics/0777",
+      "format": "bilingual_json",
+      "duration": 160.996,
+      "vocalId": 1334,
+      "assetbundle": "vs_0777_01",
+      "hasWordTiming": true,
+      "wordTimedLines": 19,
+      "wordUnits": 276,
+      "performerTagged": true,
+      "credits": {
+        "作词": "ゆうゆ",
+        "作曲": "ゆうゆ",
+        "编曲": "かねこちはる",
+        "translation": "雪莹ちゃん"
+      },
+      "sources": [
+        [
+          "https://www.sekaipedia.org/wiki/Regulus?oldid=330583",
+          "CC BY-SA 4.0",
+          "https://creativecommons.org/licenses/by-sa/4.0/"
+        ]
+      ],
+      "sekaipediaRomajiLines": 0,
+      "generatedRomajiLines": 19
+    },
+    {
       "musicId": 782,
       "title": "プシ",
       "publishedAt": 1793944800000,
@@ -19862,6 +19891,35 @@
       ],
       "sekaipediaRomajiLines": 12,
       "generatedRomajiLines": 25
+    },
+    {
+      "musicId": 796,
+      "title": "ジグソーパズル",
+      "publishedAt": 1795413600000,
+      "directory": "lyrics/0796",
+      "format": "bilingual_json",
+      "duration": 131.015,
+      "vocalId": 1353,
+      "assetbundle": "vs_0796_01",
+      "hasWordTiming": false,
+      "wordTimedLines": 0,
+      "wordUnits": 0,
+      "performerTagged": true,
+      "credits": {
+        "作词": "まふまふ",
+        "作曲": "まふまふ",
+        "编曲": "まふまふ",
+        "translation": "桜与知世"
+      },
+      "sources": [
+        [
+          "https://piapro.jp/t/DaNw",
+          "piapro 投稿作品许可（非营利、署名）",
+          "https://piapro.jp/license/pc/icon"
+        ]
+      ],
+      "sekaipediaRomajiLines": 0,
+      "generatedRomajiLines": 37
     },
     {
       "musicId": 802,
@@ -20262,7 +20320,7 @@
   ],
   "mergeStatistics": {
     "sekaipediaRomajiLines": 17746,
-    "generatedRomajiLines": 3002,
+    "generatedRomajiLines": 3058,
     "additionalVersions": 149,
     "versionedSongs": 115,
     "versionSources": {
@@ -20272,6 +20330,6 @@
       "D": 2
     },
     "reviewedRomajiLines": 49,
-    "totalPlaybackVersions": 871
+    "totalPlaybackVersions": 873
   }
 }

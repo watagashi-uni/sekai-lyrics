@@ -1,0 +1,56 @@
+{
+  "musicId": 796,
+  "title": "ジグソーパズル",
+  "sources": [
+    {
+      "usage": "歌词文字",
+      "provider": "piapro",
+      "recordId": "DaNw",
+      "url": "https://piapro.jp/t/DaNw",
+      "license": "piapro 投稿作品许可（非营利、署名）",
+      "note": "作者まふまふ发布的日文原词。按游戏录音和字幕核对分句、剪辑及重复。",
+      "evidence": "reports/evidence/new-songs-2026-11-19-alignment.json",
+      "licenseUrl": "https://piapro.jp/license/pc/icon"
+    },
+    {
+      "usage": "逐句时间轴",
+      "provider": "作者发布原曲 MV",
+      "recordId": "ta9zslmSRqg",
+      "url": "https://www.youtube.com/watch?v=ta9zslmSRqg",
+      "license": null,
+      "note": "使用视频提供的日语字幕起止时间。对镜音连游戏音频做四段有词区间的波形映射，剪接处单独核对。",
+      "evidence": "reports/evidence/new-songs-2026-11-19-alignment.json",
+      "sourceFormat": "YouTube JSON3 手动字幕",
+      "referenceVideo": "https://www.nicovideo.jp/watch/sm34214810",
+      "gameVocalId": 1353,
+      "gameAssetbundle": "vs_0796_01"
+    },
+    {
+      "usage": "中文译文",
+      "provider": "网易云音乐",
+      "recordId": "1824721964",
+      "url": "https://music.163.com/song?id=1824721964",
+      "license": null,
+      "note": "用专辑镜音连版的日文 LRC 与译文 LRC 时间标签一一关联，逐行对应到当前游戏剪辑和分句。逐句时间另取作者 MV。",
+      "evidence": "reports/evidence/new-songs-2026-11-19-alignment.json",
+      "translationCredits": {
+        "translation": "桜与知世"
+      },
+      "revision": 3
+    },
+    {
+      "usage": "个别句尾核对",
+      "provider": "酷狗音乐",
+      "recordId": "40446977",
+      "url": "https://lyrics.kugou.com/",
+      "license": null,
+      "note": "终段切入第二个持续尾音时用 KRC 的句尾辅助确认。逐字单元待其源录音和唱词边界进一步核验。",
+      "evidence": "reports/evidence/new-songs-2026-11-19-alignment.json",
+      "sourceFormat": "KRC",
+      "playbackRows": [
+        31
+      ]
+    }
+  ],
+  "searchEvidence": "reports/word-timing-search-2026-11-19-0777-0796.json"
+}

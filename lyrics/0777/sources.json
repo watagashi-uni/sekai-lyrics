@@ -1,0 +1,77 @@
+{
+  "musicId": 777,
+  "title": "レグルス（REMIX）",
+  "sources": [
+    {
+      "usage": "歌词文字上游",
+      "provider": "Sekaipedia",
+      "recordId": "330583",
+      "url": "https://www.sekaipedia.org/wiki/Regulus?oldid=330583",
+      "license": "CC BY-SA 4.0",
+      "note": "MoeSekai 第 423 曲的完整版页源。按混音中实际演唱的词句取用。",
+      "evidence": "reports/evidence/new-songs-2026-11-19-alignment.json",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "usage": "歌词文字、中文译文与注音",
+      "provider": "MoeSekai",
+      "recordId": "music_423@3",
+      "url": "https://pjsk.moe/zh-cn/lyrics/423/",
+      "license": null,
+      "note": "完整版的原词与译文按混音裁切对应；本仓库 0423 对应行的注音按文字跨度沿用。",
+      "evidence": "reports/evidence/new-songs-2026-11-19-alignment.json",
+      "revision": 3,
+      "translationCredits": {
+        "translation": "雪莹ちゃん"
+      },
+      "dataUrl": "https://translation.exmeaning.com/files/translation/lyrics/music_423.json?rev=4"
+    },
+    {
+      "usage": "逐句与逐字时间轴",
+      "provider": "QQ音乐",
+      "recordId": "470640538",
+      "url": "https://y.qq.com/n/ryqq/songDetail/003LZVyR4Krnk7",
+      "license": null,
+      "note": "《ヴァーシュラの心臓》镜音铃原录音的 QRC。保留原生单元，按三个有相同人声波形的区间映射，跳过原曲有词而混音未唱的段落。 唱段依次对应零基播放行 0–11、12、13–18。逐行 QRC 编号及映射参数见音频证据。",
+      "evidence": "reports/evidence/new-songs-2026-11-19-alignment.json",
+      "sourceFormat": "QRC",
+      "sourceRecording": "ゆうゆ feat. 鏡音リン / ヴァーシュラの心臓",
+      "gameVocalId": 1334,
+      "gameAssetbundle": "vs_0777_01",
+      "playbackRowRanges": [
+        [
+          0,
+          11
+        ],
+        [
+          12,
+          12
+        ],
+        [
+          13,
+          18
+        ]
+      ]
+    },
+    {
+      "usage": "源音频时间轴核对",
+      "provider": "作者发布混音",
+      "recordId": "NgDAc8F4yEA",
+      "url": "https://www.youtube.com/watch?v=NgDAc8F4yEA",
+      "license": null,
+      "note": "同一混音录音。游戏时钟 = 混音视频时钟 +8.916667 秒。",
+      "evidence": "reports/evidence/new-songs-2026-11-19-alignment.json"
+    },
+    {
+      "usage": "源音频时间轴核对",
+      "provider": "原专辑发行方",
+      "recordId": "hCujCKLrsWk",
+      "url": "https://www.youtube.com/watch?v=hCujCKLrsWk",
+      "license": null,
+      "note": "与作者原版 MV 的波形固定相差 +0.2725 秒。用作者原版与混音分离的人声求三段时间映射。",
+      "evidence": "reports/evidence/new-songs-2026-11-19-alignment.json",
+      "referenceVideo": "https://www.youtube.com/watch?v=8Kp3EqKnOCw"
+    }
+  ],
+  "searchEvidence": "reports/word-timing-search-2026-11-19-0777-0796.json"
+}
