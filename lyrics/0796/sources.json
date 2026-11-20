@@ -18,7 +18,7 @@
       "recordId": "ta9zslmSRqg",
       "url": "https://www.youtube.com/watch?v=ta9zslmSRqg",
       "license": null,
-      "note": "使用视频提供的日语字幕起止时间。对镜音连游戏音频做四段有词区间的波形映射，剪接处单独核对。",
+      "note": "使用视频提供的日语字幕起止时间。对镜音连游戏音频做四段有词区间的波形映射，剪接处单独核对。 原生逐字采用后的其余 27 行沿用本来源的逐句时间。",
       "evidence": "reports/evidence/new-songs-2026-11-19-alignment.json",
       "sourceFormat": "YouTube JSON3 手动字幕",
       "referenceVideo": "https://www.nicovideo.jp/watch/sm34214810",
@@ -44,13 +44,42 @@
       "recordId": "40446977",
       "url": "https://lyrics.kugou.com/",
       "license": null,
-      "note": "终段切入第二个持续尾音时用 KRC 的句尾辅助确认。逐字单元待其源录音和唱词边界进一步核验。",
+      "note": "终段切入第二个持续尾音时用 KRC 的句尾辅助确认。逐字单元待其源录音和唱词边界进一步核验。 2026-11-21 补查时源哈希解析到自唱版目录，无可下载的同版录音。本条仍作为旧句尾旁证记录，当前逐字另有独立波形证据。",
       "evidence": "reports/evidence/new-songs-2026-11-19-alignment.json",
       "sourceFormat": "KRC",
       "playbackRows": [
         31
       ]
+    },
+    {
+      "usage": "逐字时间轴、对应行逐句时间",
+      "provider": "酷狗音乐",
+      "recordId": "301359758",
+      "url": "https://www.kugou.com/song/#hash=741b115b0683cf24f0feae6aafffc6be",
+      "license": null,
+      "sourceFormat": "KRC",
+      "sourceRecording": "まふまふ feat. 鏡音レン，KRC 文件内原始音频版本",
+      "sourceAudioHash": "741b115b0683cf24f0feae6aafffc6be",
+      "catalogAudioHash": "2056379a3bbf739b18ea185f20d7517b",
+      "gameVocalId": 1353,
+      "gameAssetbundle": "vs_0796_01",
+      "note": "按镜音连专辑哈希检索，用 KRC 头部哈希拉到实际歌词参考音频。参考音频与作者 MV 波形比对得出 +0.085333 秒，再按游戏剪辑分段平移。只采用文字完全对应、音频一致且时间边界核对通过的歌词行。",
+      "playbackRows": [
+        0,
+        1,
+        5,
+        6,
+        8,
+        9,
+        10,
+        32,
+        33,
+        34
+      ],
+      "wordUnits": 104,
+      "evidence": "reports/evidence/0796-2026-11-21-krc-alignment.json"
     }
   ],
-  "searchEvidence": "reports/word-timing-search-2026-11-19-0777-0796.json"
+  "searchEvidence": "reports/word-timing-search-2026-11-21-0796.json",
+  "previousSearchEvidence": "reports/word-timing-search-2026-11-19-0777-0796.json"
 }

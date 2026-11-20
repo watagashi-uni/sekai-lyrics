@@ -1,0 +1,2677 @@
+{
+  "date": "2026-11-21",
+  "scope": "0796 逐字来源与 MoeSekai 译文补查。",
+  "providerAdapters": "yokohama:/data/watagashi/lyrics-alignment-trial/multi-source/providers.py；酷狗录音元数据补查沿用 round3/priority-b/discover_kugou.py 的公开接口。",
+  "songs": [
+    {
+      "musicId": 796,
+      "title": "ジグソーパズル",
+      "previousSearchEvidence": "reports/word-timing-search-2026-11-19-0777-0796.json",
+      "providers": {
+        "qqmusic": {
+          "queries": [
+            {
+              "query": "ジグソーパズル 鏡音レン",
+              "url": "https://u.y.qq.com/cgi-bin/musicu.fcg",
+              "status": "ok",
+              "hits": [
+                {
+                  "id": "325014438",
+                  "title": "ジグソーパズル / まふまふ feat. 鏡音レン (Single Version)",
+                  "artists": [
+                    "Mafumafu_Channel"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/004OajAM3VdkNP",
+                  "durationSeconds": 208
+                },
+                {
+                  "id": "127340100",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/00005jOQ3564K1",
+                  "durationSeconds": 204
+                },
+                {
+                  "id": "416499325",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "安藤祐輝"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/0020qIae06iSWs",
+                  "durationSeconds": 275
+                },
+                {
+                  "id": "1207511",
+                  "title": "Jigsaw Puzzle",
+                  "artists": [
+                    "The Rolling Stones"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/003pOXXq2CP0QZ",
+                  "durationSeconds": 366
+                },
+                {
+                  "id": "201666561",
+                  "title": "ジグソーパズル (拼图)",
+                  "artists": [
+                    "Hilcrhyme"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/003jXMpz0Wc3fK",
+                  "durationSeconds": 244
+                },
+                {
+                  "id": "714115",
+                  "title": "ジグソーパズル48",
+                  "artists": [
+                    "AKB48"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/000U9XWb0jN8ab",
+                  "durationSeconds": 295
+                },
+                {
+                  "id": "119686",
+                  "title": "ジグソーパズル (拼图)",
+                  "artists": [
+                    "Sonim"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/000TU8VI3fsISQ",
+                  "durationSeconds": 240
+                },
+                {
+                  "id": "241872553",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "白藏蜜雨",
+                    "shikako"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/003uNTO5378hkA",
+                  "durationSeconds": 207
+                },
+                {
+                  "id": "405523838",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "wacci"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/004PSQP707Atvx",
+                  "durationSeconds": 246
+                },
+                {
+                  "id": "709981481",
+                  "title": "ジグソーパズル (feat. 初音ミク)",
+                  "artists": [
+                    "松本仁亜",
+                    "初音未来"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/003konbn0YPbHa",
+                  "durationSeconds": 157
+                }
+              ],
+              "responseSha256": "d16ad9f68ca520f3a7b81c79a2dfd9852e3c9d4b4200b61252a9c3c0b7c3425e",
+              "method": "DoSearchForQQMusicDesktop"
+            },
+            {
+              "query": "ジグソーパズル まふまふ",
+              "url": "https://u.y.qq.com/cgi-bin/musicu.fcg",
+              "status": "ok",
+              "hits": [
+                {
+                  "id": "127340100",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/00005jOQ3564K1",
+                  "durationSeconds": 204
+                },
+                {
+                  "id": "262976921",
+                  "title": "命に嫌われている。",
+                  "artists": [
+                    "まふまふ"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/001c3ap61801CC",
+                  "durationSeconds": 273
+                },
+                {
+                  "id": "104878884",
+                  "title": "鏡花水月",
+                  "artists": [
+                    "まふまふ"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/001lxeBE0MACJq",
+                  "durationSeconds": 271
+                },
+                {
+                  "id": "201666561",
+                  "title": "ジグソーパズル (拼图)",
+                  "artists": [
+                    "Hilcrhyme"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/003jXMpz0Wc3fK",
+                  "durationSeconds": 244
+                },
+                {
+                  "id": "291250645",
+                  "title": "病名は愛だった (病名为爱)",
+                  "artists": [
+                    "まふまふ"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/000WPB870d9wFj",
+                  "durationSeconds": 232
+                },
+                {
+                  "id": "247483005",
+                  "title": "1・2・3",
+                  "artists": [
+                    "After the Rain",
+                    "そらる",
+                    "まふまふ"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/000lWbF51UEUaQ",
+                  "durationSeconds": 299
+                },
+                {
+                  "id": "326239650",
+                  "title": "タクト (指挥棒)",
+                  "artists": [
+                    "ryo",
+                    "まふまふ",
+                    "gaku"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/004Carvo36BGdw",
+                  "durationSeconds": 237
+                },
+                {
+                  "id": "104111328",
+                  "title": "夢花火",
+                  "artists": [
+                    "まふまふ"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/002Nu2Ff4dGcv7",
+                  "durationSeconds": 264
+                },
+                {
+                  "id": "241872553",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "白藏蜜雨",
+                    "shikako"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/003uNTO5378hkA",
+                  "durationSeconds": 207
+                },
+                {
+                  "id": "233635657",
+                  "title": "猛独が襲う",
+                  "artists": [
+                    "まふまふ"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/002Z7xDI43wZKr",
+                  "durationSeconds": 271
+                }
+              ],
+              "responseSha256": "bf8008d62c50f480928f18971caa1d55f58f466c3baba787de3a563f0b867b83",
+              "method": "DoSearchForQQMusicDesktop"
+            },
+            {
+              "query": "ジグソーパズル",
+              "url": "https://c.y.qq.com/soso/fcgi-bin/client_search_cp?w=%E3%82%B8%E3%82%B0%E3%82%BD%E3%83%BC%E3%83%91%E3%82%BA%E3%83%AB&n=20",
+              "status": "ok",
+              "hits": [
+                {
+                  "id": "127340100",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ (mafumafu)"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/00005jOQ3564K1",
+                  "durationSeconds": 204
+                },
+                {
+                  "id": "416499325",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "安藤祐輝"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/0020qIae06iSWs",
+                  "durationSeconds": 275
+                },
+                {
+                  "id": "1207511",
+                  "title": "Jigsaw Puzzle",
+                  "artists": [
+                    "The Rolling Stones"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/003pOXXq2CP0QZ",
+                  "durationSeconds": 366
+                },
+                {
+                  "id": "405523838",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "wacci (ワッチ)"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/004PSQP707Atvx",
+                  "durationSeconds": 246
+                },
+                {
+                  "id": "201666561",
+                  "title": "ジグソーパズル (拼图)",
+                  "artists": [
+                    "Hilcrhyme (ヒルクライム)"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/003jXMpz0Wc3fK",
+                  "durationSeconds": 244
+                },
+                {
+                  "id": "241872553",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "白藏蜜雨",
+                    "shikako"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/003uNTO5378hkA",
+                  "durationSeconds": 207
+                },
+                {
+                  "id": "325014438",
+                  "title": "ジグソーパズル / まふまふ feat. 鏡音レン",
+                  "artists": [
+                    "Mafumafu_Channel"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/004OajAM3VdkNP",
+                  "durationSeconds": 208
+                },
+                {
+                  "id": "714115",
+                  "title": "ジグソーパズル48",
+                  "artists": [
+                    "AKB48"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/000U9XWb0jN8ab",
+                  "durationSeconds": 295
+                },
+                {
+                  "id": "119686",
+                  "title": "ジグソーパズル (拼图)",
+                  "artists": [
+                    "Sonim"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/000TU8VI3fsISQ",
+                  "durationSeconds": 240
+                },
+                {
+                  "id": "709981481",
+                  "title": "ジグソーパズル (feat. 初音ミク)",
+                  "artists": [
+                    "松本仁亜",
+                    "初音未来"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/003konbn0YPbHa",
+                  "durationSeconds": 157
+                },
+                {
+                  "id": "305551907",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "あらき"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/0002yyf04Z3s4T",
+                  "durationSeconds": 206
+                },
+                {
+                  "id": "235682483",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "Hilcrhyme"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/000STOrq0Xx56g",
+                  "durationSeconds": 245
+                },
+                {
+                  "id": "119688",
+                  "title": "ジグソーパズル (纯音乐)",
+                  "artists": [
+                    "Sonim"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/001KVbSV1Eo37D",
+                  "durationSeconds": 239
+                },
+                {
+                  "id": "221310355",
+                  "title": "Jigsaw Puzzle (50th Anniversary Edition)",
+                  "artists": [
+                    "The Rolling Stones"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/000Nhsf006gJYr",
+                  "durationSeconds": 366
+                },
+                {
+                  "id": "268465454",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "五輪真弓 (いつわ まゆみ)"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/003aq4Fl1EduWz",
+                  "durationSeconds": 241
+                },
+                {
+                  "id": "740331056",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "Haruki Kuriyama"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/001n8Kw0305q5U",
+                  "durationSeconds": 266
+                },
+                {
+                  "id": "230741571",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "Bo-Peep"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/0004jqr40gmeH4",
+                  "durationSeconds": 179
+                },
+                {
+                  "id": "235682485",
+                  "title": "ジグソーパズル -KARAOKE ver.- - instrumental",
+                  "artists": [
+                    "Hilcrhyme"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/003jZVif3F57oQ",
+                  "durationSeconds": 246
+                },
+                {
+                  "id": "285033558",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "泪零Namida"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/002h1Y1y0wwJ03",
+                  "durationSeconds": 206
+                },
+                {
+                  "id": "331446864",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "忌野清志郎 (Imawano Kiyoshiro)"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/003POhtI45FmZu",
+                  "durationSeconds": 286
+                }
+              ],
+              "responseSha256": "3b878f4fb35318839e02677641e204d543b38020fb8d0b0a07127d8218b9a62b"
+            },
+            {
+              "query": "Jigsaw Puzzle Mafumafu",
+              "url": "https://c.y.qq.com/soso/fcgi-bin/client_search_cp?w=Jigsaw+Puzzle+Mafumafu&n=20",
+              "status": "ok",
+              "hits": [
+                {
+                  "id": "325606858",
+                  "title": "Jigsaw Puzzle (Metal Remix)",
+                  "artists": [
+                    "wasi",
+                    "HIRAGA"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/002j3ivI3clBVk",
+                  "durationSeconds": 223
+                },
+                {
+                  "id": "1207511",
+                  "title": "Jigsaw Puzzle",
+                  "artists": [
+                    "The Rolling Stones"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/003pOXXq2CP0QZ",
+                  "durationSeconds": 366
+                },
+                {
+                  "id": "325448252",
+                  "title": "Jigsaw Puzzle (Metal Remix)",
+                  "artists": [
+                    "wasi",
+                    "巡音流歌"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/003E4YFD06Q25E",
+                  "durationSeconds": 223
+                },
+                {
+                  "id": "245513501",
+                  "title": "Jigsaw Puzzle",
+                  "artists": [
+                    "Macdonald"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/003xm3Zc0maWki",
+                  "durationSeconds": 137
+                },
+                {
+                  "id": "494544227",
+                  "title": "Jigsaw Puzzle Auger Mazurka",
+                  "artists": [
+                    "HARFI ARDIANSAH"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/001AlSGe23eKKj",
+                  "durationSeconds": 65
+                },
+                {
+                  "id": "4763282",
+                  "title": "Jigsaw Puzzle",
+                  "artists": [
+                    "山口百惠 (やまぐち ももえ)"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/0034xta90ZRg5y",
+                  "durationSeconds": 275
+                },
+                {
+                  "id": "522108858",
+                  "title": "Jigsaw Puzzle",
+                  "artists": [
+                    "The Rolling Stones"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/000IobZO3BEr6w",
+                  "durationSeconds": 377
+                },
+                {
+                  "id": "657949758",
+                  "title": "jigsaw puzzle (feat. 歌愛ユキ, 初音ミク, IA & ZOLA YUU)",
+                  "artists": [
+                    "TERA;歌愛ユキ;初音未来;IA;ZOLA YUU (歌爱雪)"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/003mC1uY3vXTji",
+                  "durationSeconds": 352
+                },
+                {
+                  "id": "221310355",
+                  "title": "Jigsaw Puzzle (50th Anniversary Edition)",
+                  "artists": [
+                    "The Rolling Stones"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/000Nhsf006gJYr",
+                  "durationSeconds": 366
+                },
+                {
+                  "id": "108878857",
+                  "title": "Jigsaw Puzzle (Mono)",
+                  "artists": [
+                    "The Rolling Stones"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/000igJGW1prQ7u",
+                  "durationSeconds": 366
+                },
+                {
+                  "id": "5449728",
+                  "title": "Jigsaw Puzzle",
+                  "artists": [
+                    "Of Montreal"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/0004tgCD46gHHa",
+                  "durationSeconds": 165
+                },
+                {
+                  "id": "589155628",
+                  "title": "JIGSAW PUZZLE",
+                  "artists": [
+                    "nayuta"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/0002gvO43JAyV2",
+                  "durationSeconds": 207
+                },
+                {
+                  "id": "524671140",
+                  "title": "Jigsaw Puzzle",
+                  "artists": [
+                    "Regine Velasquez"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/002UF3262aJEjT",
+                  "durationSeconds": 179
+                },
+                {
+                  "id": "109536740",
+                  "title": "Jigsaw Puzzle",
+                  "artists": [
+                    "Barry Sadler"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/000fd14v0UeREN",
+                  "durationSeconds": 156
+                },
+                {
+                  "id": "445701949",
+                  "title": "Jigsaw Puzzle",
+                  "artists": [
+                    "the green orbs"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/003Djjod3K42Yb",
+                  "durationSeconds": 137
+                },
+                {
+                  "id": "315730025",
+                  "title": "Jigsaw Puzzle",
+                  "artists": [
+                    "Some Baby Music"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/004HVWI11j5M70",
+                  "durationSeconds": 137
+                },
+                {
+                  "id": "411070296",
+                  "title": "Jig-Saw Puzzle",
+                  "artists": [
+                    "The Rolling Stones"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/0035uuOt4OgFOr",
+                  "durationSeconds": 366
+                },
+                {
+                  "id": "494363546",
+                  "title": "Jigsaw Puzzle",
+                  "artists": [
+                    "Dan Thiessen"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/001Z56sY0i9zQ6",
+                  "durationSeconds": 126
+                },
+                {
+                  "id": "339808178",
+                  "title": "Jigsaw Puzzle (Vocaloid Metal Remix)",
+                  "artists": [
+                    "wasi",
+                    "巡音流歌"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/004aIBTt4Eucaz",
+                  "durationSeconds": 223
+                },
+                {
+                  "id": "580894766",
+                  "title": "Jigsaw Puzzle",
+                  "artists": [
+                    "NORIKIYO (ノリキヨ)"
+                  ],
+                  "source_url": "https://y.qq.com/n/ryqq/songDetail/000oeXF31Rhnlk",
+                  "durationSeconds": 189
+                }
+              ],
+              "responseSha256": "293b222c3745c2792d55f5b4aa8aae1aa9ca0c4149067cc83a7fb5a3c75f2d1a"
+            }
+          ],
+          "fetched": [
+            {
+              "id": "127340100",
+              "title": "ジグソーパズル",
+              "artists": [
+                "まふまふ"
+              ],
+              "source_url": "https://y.qq.com/n/ryqq/songDetail/00005jOQ3564K1",
+              "durationSeconds": 204,
+              "fetched": true,
+              "lyricsRetrieved": true,
+              "format": "qrc",
+              "wordUnits": 688,
+              "decision": "rejected_recording_mismatch",
+              "reason": "原生 QRC 为《神楽色アーティファクト》まふまふ自唱版。",
+              "responseSha256": "13a9318099ffe5f3a1c5d8b7b6052964ee82e2f90c570a99abcd34fc4776f1a2",
+              "qrcPayloadSha256": "4bed864f164c87f07c8e6d7dd9524cb26b968b3d34e5f07a10a556c554656760",
+              "request": {
+                "url": "https://u.y.qq.com/cgi-bin/musicu.fcg",
+                "qrcModes": [
+                  0,
+                  1
+                ],
+                "responseCodes": {
+                  "req_0": 0,
+                  "req_1": 0
+                }
+              }
+            },
+            {
+              "id": "325014438",
+              "title": "ジグソーパズル / まふまふ feat. 鏡音レン (Single Version)",
+              "artists": [
+                "Mafumafu_Channel"
+              ],
+              "source_url": "https://y.qq.com/n/ryqq/songDetail/004OajAM3VdkNP",
+              "durationSeconds": 208,
+              "fetched": true,
+              "lyricsRetrieved": false,
+              "format": null,
+              "wordUnits": 0,
+              "decision": "interface_failure",
+              "reason": "镜音连候选 QRC/LRC 请求均返回 24001，未取得正文。",
+              "responseSha256": "fc2e3b6823be506d2169258372fb39e7ad16236e14482b20633ebaacd1a90af9",
+              "qrcPayloadSha256": null,
+              "request": {
+                "url": "https://u.y.qq.com/cgi-bin/musicu.fcg",
+                "qrcModes": [
+                  0,
+                  1
+                ],
+                "responseCodes": {
+                  "req_0": 24001,
+                  "req_1": 24001
+                }
+              }
+            }
+          ]
+        },
+        "netease": {
+          "queries": [
+            {
+              "query": "ジグソーパズル 鏡音レン",
+              "url": "https://interfacepc.music.163.com/eapi/cloudsearch/pc",
+              "status": "ok",
+              "hits": [
+                {
+                  "id": "1335165664",
+                  "title": "ジグソーパズル（翻自 鏡音レン）",
+                  "artists": [
+                    "白藏蜜雨",
+                    "Shikako"
+                  ],
+                  "album": "ジグソーパズル",
+                  "durationSeconds": 207.651,
+                  "source_url": "https://music.163.com/song?id=1335165664"
+                },
+                {
+                  "id": "1334121071",
+                  "title": "ジグソーパズル（翻自 鏡音レン）",
+                  "artists": [
+                    "久崎HisaSaki"
+                  ],
+                  "album": "拼图游戏（ジグソーパズル）",
+                  "durationSeconds": 206.6,
+                  "source_url": "https://music.163.com/song?id=1334121071"
+                },
+                {
+                  "id": "1824721964",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ",
+                    "鏡音レン"
+                  ],
+                  "album": "初音ミク Project DIVA MEGA39’s 10th アニバーサリーコレクション",
+                  "durationSeconds": 208.2,
+                  "source_url": "https://music.163.com/song?id=1824721964"
+                }
+              ],
+              "responseSha256": "5046a0bc03e5d4bc6a1940dcfdca8b3e406d420b417fd5f1db809e2ddb1dee72"
+            },
+            {
+              "query": "ジグソーパズル まふまふ",
+              "url": "https://interfacepc.music.163.com/eapi/cloudsearch/pc",
+              "status": "ok",
+              "hits": [
+                {
+                  "id": "1394808981",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ"
+                  ],
+                  "album": "神楽色アーティファクト",
+                  "durationSeconds": 204.827,
+                  "source_url": "https://music.163.com/song?id=1394808981"
+                }
+              ],
+              "responseSha256": "ef59339704e4a78c92afd22aab651141a5540e25fdda0690ac50acac74764ecc"
+            },
+            {
+              "query": "ジグソーパズル プロセカ",
+              "url": "https://interfacepc.music.163.com/eapi/cloudsearch/pc",
+              "status": "empty",
+              "hits": [],
+              "responseSha256": "511754df096bad594988bac74d8ae76b2b6aef5823cbf1666e47dbc9880c0e62"
+            },
+            {
+              "query": "Jigsaw Puzzle Kagamine Len",
+              "url": "https://interfacepc.music.163.com/eapi/cloudsearch/pc",
+              "status": "ok",
+              "hits": [
+                {
+                  "id": "1857873562",
+                  "title": "Jigsaw Puzzle",
+                  "artists": [
+                    "Some Baby Music"
+                  ],
+                  "album": "Some Baby Music",
+                  "durationSeconds": 137.775,
+                  "source_url": "https://music.163.com/song?id=1857873562"
+                },
+                {
+                  "id": "1876363000",
+                  "title": "Jigsaw Puzzle",
+                  "artists": [
+                    "Amazing Spa Music",
+                    "Spa",
+                    "Kiddie Bopper Kids"
+                  ],
+                  "album": "Kids Music: Celebration and Fun",
+                  "durationSeconds": 138.311,
+                  "source_url": "https://music.163.com/song?id=1876363000"
+                },
+                {
+                  "id": "1887364431",
+                  "title": "Jigsaw Puzzle",
+                  "artists": [
+                    "The Rolling Stones"
+                  ],
+                  "album": "Beggars Banquet",
+                  "durationSeconds": 377.24,
+                  "source_url": "https://music.163.com/song?id=1887364431"
+                },
+                {
+                  "id": "1325937950",
+                  "title": "Jigsaw Puzzle (50th Anniversary Edition)",
+                  "artists": [
+                    "The Rolling Stones"
+                  ],
+                  "album": "Beggars Banquet (50th Anniversary Edition)",
+                  "durationSeconds": 366.399,
+                  "source_url": "https://music.163.com/song?id=1325937950"
+                },
+                {
+                  "id": "1913403927",
+                  "title": "Jigsaw Puzzle (Vocaloid Metal Remix)",
+                  "artists": [
+                    "wasi",
+                    "巡音ルカ"
+                  ],
+                  "album": "Jigsaw Puzzle (Metal Remix)",
+                  "durationSeconds": 223.5,
+                  "source_url": "https://music.163.com/song?id=1913403927"
+                },
+                {
+                  "id": "1409357287",
+                  "title": "Jigsaw Puzzle",
+                  "artists": [
+                    "MacDonald"
+                  ],
+                  "album": "Old Macdonald",
+                  "durationSeconds": 137.822,
+                  "source_url": "https://music.163.com/song?id=1409357287"
+                },
+                {
+                  "id": "17560083",
+                  "title": "Jigsaw Puzzle",
+                  "artists": [
+                    "Elvenking"
+                  ],
+                  "album": "Wyrd",
+                  "durationSeconds": 257.506,
+                  "source_url": "https://music.163.com/song?id=17560083"
+                },
+                {
+                  "id": "2709042990",
+                  "title": "Jigsaw Puzzle",
+                  "artists": [
+                    "NORIKIYO"
+                  ],
+                  "album": "Cookin' Selfish",
+                  "durationSeconds": 189.252,
+                  "source_url": "https://music.163.com/song?id=2709042990"
+                },
+                {
+                  "id": "2632228829",
+                  "title": "Jigsaw Puzzle",
+                  "artists": [
+                    "The Rolling Stones"
+                  ],
+                  "album": "A Collection of The Rolling Stones",
+                  "durationSeconds": 377.24,
+                  "source_url": "https://music.163.com/song?id=2632228829"
+                },
+                {
+                  "id": "2028695023",
+                  "title": "Jigsaw Puzzle",
+                  "artists": [
+                    "The Rolling Stones"
+                  ],
+                  "album": "Selection of Hits from The Rolling Stones",
+                  "durationSeconds": 377.24,
+                  "source_url": "https://music.163.com/song?id=2028695023"
+                },
+                {
+                  "id": "517965500",
+                  "title": "Jigsaw Puzzle (2010 Version)",
+                  "artists": [
+                    "Elvenking"
+                  ],
+                  "album": "Secrets of the Magick Grimoire",
+                  "durationSeconds": 260.911,
+                  "source_url": "https://music.163.com/song?id=517965500"
+                },
+                {
+                  "id": "1901540950",
+                  "title": "Jigsaw Puzzle",
+                  "artists": [
+                    "Baby Lullaby Academy"
+                  ],
+                  "album": "Kids Music: Celebration and Fun, Joyful kids sounds",
+                  "durationSeconds": 138.311,
+                  "source_url": "https://music.163.com/song?id=1901540950"
+                },
+                {
+                  "id": "504706487",
+                  "title": "Jigsaw Puzzle",
+                  "artists": [
+                    "Flesh for Lulu"
+                  ],
+                  "album": "The Polydor Years",
+                  "durationSeconds": 288.386,
+                  "source_url": "https://music.163.com/song?id=504706487"
+                },
+                {
+                  "id": "1487776521",
+                  "title": "Jigsaw Puzzle",
+                  "artists": [
+                    "The Little Red Rooster Blues Band"
+                  ],
+                  "album": "Broke Again",
+                  "durationSeconds": 248.826,
+                  "source_url": "https://music.163.com/song?id=1487776521"
+                },
+                {
+                  "id": "1418116901",
+                  "title": "Jigsaw Puzzle",
+                  "artists": [
+                    "Solo Sounds",
+                    "Charlie Giordano"
+                  ],
+                  "album": "Solo Piano: The Rolling Stones' Beggars Banquet",
+                  "durationSeconds": 272.585,
+                  "source_url": "https://music.163.com/song?id=1418116901"
+                }
+              ],
+              "responseSha256": "fa519172b252f419f4d1f882ba94b2ed0cde8b9fd405fd4d5d88c7dad166995a"
+            }
+          ],
+          "fetched": [
+            {
+              "id": "1824721964",
+              "title": "ジグソーパズル",
+              "artists": [
+                "まふまふ",
+                "鏡音レン"
+              ],
+              "album": "初音ミク Project DIVA MEGA39’s 10th アニバーサリーコレクション",
+              "durationSeconds": 208.2,
+              "source_url": "https://music.163.com/song?id=1824721964",
+              "fetched": true,
+              "format": "lrc",
+              "wordUnits": 0,
+              "yrcPayloadReturned": false,
+              "decision": "retained_translation",
+              "reason": "两次 YRC 参数返回均无逐字，保留现用桜与知世译文。",
+              "request": {
+                "url": "https://interfacepc.music.163.com/eapi/song/lyric/v1",
+                "attempts": [
+                  {
+                    "yv": -1,
+                    "responseCode": 200,
+                    "returnedLyricStringLengths": {
+                      "lrc": 1642,
+                      "klyric": 0,
+                      "tlyric": 1420,
+                      "romalrc": 2971
+                    },
+                    "responseSha256": "bf4fbeaa93a14e069eeb96368e97d0e14d9aedd67795d06cad80bd8d1bb469ad"
+                  },
+                  {
+                    "yv": 0,
+                    "responseCode": 200,
+                    "returnedLyricStringLengths": {
+                      "lrc": 1642,
+                      "klyric": 0,
+                      "tlyric": 1420,
+                      "romalrc": 2971
+                    },
+                    "responseSha256": "bf4fbeaa93a14e069eeb96368e97d0e14d9aedd67795d06cad80bd8d1bb469ad"
+                  }
+                ]
+              }
+            },
+            {
+              "id": "1394808981",
+              "title": "ジグソーパズル",
+              "artists": [
+                "まふまふ"
+              ],
+              "album": "神楽色アーティファクト",
+              "durationSeconds": 204.827,
+              "source_url": "https://music.163.com/song?id=1394808981",
+              "fetched": true,
+              "format": "lrc",
+              "wordUnits": 0,
+              "yrcPayloadReturned": false,
+              "decision": "rejected_recording_mismatch",
+              "reason": "原生逐字接口无正文，录音为まふまふ自唱。",
+              "request": {
+                "url": "https://interfacepc.music.163.com/eapi/song/lyric/v1",
+                "attempts": [
+                  {
+                    "yv": -1,
+                    "responseCode": 200,
+                    "returnedLyricStringLengths": {
+                      "lrc": 1523,
+                      "klyric": 0,
+                      "tlyric": 1177,
+                      "romalrc": 2731
+                    },
+                    "responseSha256": "79355f2473b9b5d1455583f82631477ba400fa0af32d4804cdbbfd6082661c99"
+                  },
+                  {
+                    "yv": 0,
+                    "responseCode": 200,
+                    "returnedLyricStringLengths": {
+                      "lrc": 1523,
+                      "klyric": 0,
+                      "tlyric": 1177,
+                      "romalrc": 2731
+                    },
+                    "responseSha256": "79355f2473b9b5d1455583f82631477ba400fa0af32d4804cdbbfd6082661c99"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "kugou": {
+          "queries": [
+            {
+              "query": "ジグソーパズル",
+              "url": "https://lyrics.kugou.com/search?keyword=%E3%82%B8%E3%82%B0%E3%82%BD%E3%83%BC%E3%83%91%E3%82%BA%E3%83%AB&duration=0",
+              "status": "empty",
+              "hits": [],
+              "responseSha256": "19a3a0fade08a7c104c8d4234f83cc0fef3cec38c2cdf3507ca88d512d0bb0ff"
+            },
+            {
+              "query": "ジグソーパズル",
+              "url": "https://lyrics.kugou.com/search?keyword=%E3%82%B8%E3%82%B0%E3%82%BD%E3%83%BC%E3%83%91%E3%82%BA%E3%83%AB&duration=209472",
+              "status": "empty",
+              "hits": [],
+              "responseSha256": "297a07c15a980a190b1c170a6d79c1c4f4f681f6287f2f36353247f4d7f04d88"
+            },
+            {
+              "query": "ジグソーパズル まふまふ",
+              "url": "https://lyrics.kugou.com/search?keyword=%E3%82%B8%E3%82%B0%E3%82%BD%E3%83%BC%E3%83%91%E3%82%BA%E3%83%AB+%E3%81%BE%E3%81%B5%E3%81%BE%E3%81%B5&duration=0",
+              "status": "ok",
+              "hits": [
+                {
+                  "id": "144296641",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ"
+                  ],
+                  "source_url": "https://lyrics.kugou.com/search?keyword=%E3%82%B8%E3%82%B0%E3%82%BD%E3%83%BC%E3%83%91%E3%82%BA%E3%83%AB+%E3%81%BE%E3%81%B5%E3%81%BE%E3%81%B5&man=yes&client=pc&duration=0&ver=1",
+                  "durationSeconds": 204.0
+                },
+                {
+                  "id": "116549978",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ"
+                  ],
+                  "source_url": "https://lyrics.kugou.com/search?keyword=%E3%82%B8%E3%82%B0%E3%82%BD%E3%83%BC%E3%83%91%E3%82%BA%E3%83%AB+%E3%81%BE%E3%81%B5%E3%81%BE%E3%81%B5&man=yes&client=pc&duration=0&ver=1",
+                  "durationSeconds": 204.0
+                },
+                {
+                  "id": "112273248",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ"
+                  ],
+                  "source_url": "https://lyrics.kugou.com/search?keyword=%E3%82%B8%E3%82%B0%E3%82%BD%E3%83%BC%E3%83%91%E3%82%BA%E3%83%AB+%E3%81%BE%E3%81%B5%E3%81%BE%E3%81%B5&man=yes&client=pc&duration=0&ver=1",
+                  "durationSeconds": 204.0
+                },
+                {
+                  "id": "112273170",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ"
+                  ],
+                  "source_url": "https://lyrics.kugou.com/search?keyword=%E3%82%B8%E3%82%B0%E3%82%BD%E3%83%BC%E3%83%91%E3%82%BA%E3%83%AB+%E3%81%BE%E3%81%B5%E3%81%BE%E3%81%B5&man=yes&client=pc&duration=0&ver=1",
+                  "durationSeconds": 204.0
+                },
+                {
+                  "id": "49676177",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ"
+                  ],
+                  "source_url": "https://lyrics.kugou.com/search?keyword=%E3%82%B8%E3%82%B0%E3%82%BD%E3%83%BC%E3%83%91%E3%82%BA%E3%83%AB+%E3%81%BE%E3%81%B5%E3%81%BE%E3%81%B5&man=yes&client=pc&duration=0&ver=1",
+                  "durationSeconds": 207.768
+                },
+                {
+                  "id": "40446977",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ"
+                  ],
+                  "source_url": "https://lyrics.kugou.com/search?keyword=%E3%82%B8%E3%82%B0%E3%82%BD%E3%83%BC%E3%83%91%E3%82%BA%E3%83%AB+%E3%81%BE%E3%81%B5%E3%81%BE%E3%81%B5&man=yes&client=pc&duration=0&ver=1",
+                  "durationSeconds": 209.472
+                }
+              ],
+              "responseSha256": "12531d7709a1a2eac1180690c4262ae388019d6749fec5fa122645efc3656e36"
+            },
+            {
+              "query": "Jigsaw Puzzle Mafumafu",
+              "url": "https://lyrics.kugou.com/search?keyword=Jigsaw+Puzzle+Mafumafu&duration=0",
+              "status": "empty",
+              "hits": [],
+              "responseSha256": "b3e75b62d4ca1149c0d5fc7fe21a5ca5e1f1fa25fbaf4f85ff9dad2ca3bf6443"
+            },
+            {
+              "query": "ジグソーパズル まふまふ",
+              "url": "https://krcs.kugou.com/search?ver=1&client=mobi&man=yes&keyword=%E3%82%B8%E3%82%B0%E3%82%BD%E3%83%BC%E3%83%91%E3%82%BA%E3%83%AB+%E3%81%BE%E3%81%B5%E3%81%BE%E3%81%B5&duration=0",
+              "status": "ok",
+              "hits": [
+                {
+                  "id": "144296641",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ"
+                  ]
+                },
+                {
+                  "id": "116549978",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ"
+                  ]
+                },
+                {
+                  "id": "112273248",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ"
+                  ]
+                },
+                {
+                  "id": "112273170",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ"
+                  ]
+                },
+                {
+                  "id": "49676177",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ"
+                  ]
+                },
+                {
+                  "id": "40446977",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ"
+                  ]
+                }
+              ],
+              "apiCode": 200,
+              "message": null,
+              "responseSha256": "8e918e9042386fe539b80ef103f947d6e7f91cb73e358157a94efbe892ba5641"
+            },
+            {
+              "query": "ジグソーパズル まふまふ",
+              "url": "https://complexsearch.kugou.com/v2/search/song?keyword=%E3%82%B8%E3%82%B0%E3%82%BD%E3%83%BC%E3%83%91%E3%82%BA%E3%83%AB+%E3%81%BE%E3%81%B5%E3%81%BE%E3%81%B5&page=1&pagesize=10&platform=WebFilter",
+              "status": "interface_failure",
+              "hits": [],
+              "apiCode": 20006,
+              "message": "err signature",
+              "responseSha256": "a269a1aaad8272c751d5fecd9f7300341fdb3b999e5842460b28eedc7d45c522"
+            },
+            {
+              "query": "ジグソーパズル 鏡音レン",
+              "url": "https://krcs.kugou.com/search?ver=1&client=mobi&man=yes&keyword=%E3%82%B8%E3%82%B0%E3%82%BD%E3%83%BC%E3%83%91%E3%82%BA%E3%83%AB+%E9%8F%A1%E9%9F%B3%E3%83%AC%E3%83%B3&duration=0",
+              "status": "empty",
+              "hits": [],
+              "apiCode": 200,
+              "message": null,
+              "responseSha256": "32bf0b881dc340778670d30d5137d79c84b0f7eb9852f0b938bfdc176ed6786b"
+            },
+            {
+              "query": "ジグソーパズル 鏡音レン",
+              "url": "https://complexsearch.kugou.com/v2/search/song?keyword=%E3%82%B8%E3%82%B0%E3%82%BD%E3%83%BC%E3%83%91%E3%82%BA%E3%83%AB+%E9%8F%A1%E9%9F%B3%E3%83%AC%E3%83%B3&page=1&pagesize=10&platform=WebFilter",
+              "status": "interface_failure",
+              "hits": [],
+              "apiCode": 20006,
+              "message": "err signature",
+              "responseSha256": "ab3d004e6824096f0bfeb5a3fc9e3e564e673a62d0021590464f97a11ac25f0b"
+            },
+            {
+              "query": "ジグソーパズル",
+              "url": "https://krcs.kugou.com/search?ver=1&client=mobi&man=yes&keyword=%E3%82%B8%E3%82%B0%E3%82%BD%E3%83%BC%E3%83%91%E3%82%BA%E3%83%AB&duration=0",
+              "status": "empty",
+              "hits": [],
+              "apiCode": 200,
+              "message": null,
+              "responseSha256": "aac14e0722be7b8b148689b138a18f20b8474ca7e8953266498f8b38685db5e8"
+            },
+            {
+              "query": "ジグソーパズル",
+              "url": "https://complexsearch.kugou.com/v2/search/song?keyword=%E3%82%B8%E3%82%B0%E3%82%BD%E3%83%BC%E3%83%91%E3%82%BA%E3%83%AB&page=1&pagesize=10&platform=WebFilter",
+              "status": "interface_failure",
+              "hits": [],
+              "apiCode": 20006,
+              "message": "err signature",
+              "responseSha256": "69600ecfb76a4e34cf7bff90cd2b2ecd849e203ddccbdbc44764cd81ce04b9fe"
+            },
+            {
+              "query": "Jigsaw Puzzle Mafumafu",
+              "url": "https://krcs.kugou.com/search?ver=1&client=mobi&man=yes&keyword=Jigsaw+Puzzle+Mafumafu&duration=0",
+              "status": "empty",
+              "hits": [],
+              "apiCode": 200,
+              "message": null,
+              "responseSha256": "db62b13e00aad6187201eb5232059589e0c246c8aa2a441476d8b545242473b1"
+            },
+            {
+              "query": "Jigsaw Puzzle Mafumafu",
+              "url": "https://complexsearch.kugou.com/v2/search/song?keyword=Jigsaw+Puzzle+Mafumafu&page=1&pagesize=10&platform=WebFilter",
+              "status": "interface_failure",
+              "hits": [],
+              "apiCode": 20006,
+              "message": "err signature",
+              "responseSha256": "26565ff5b5763c1847ae16427990b8b38ac24c253b57a23d33cfd02961a0ba1b"
+            },
+            {
+              "query": "ジグソーパズル",
+              "url": "https://mobiles.kugou.com/api/v3/search/song?keyword=%E3%82%B8%E3%82%B0%E3%82%BD%E3%83%BC%E3%83%91%E3%82%BA%E3%83%AB&showtype=14&pagesize=30&tag_aggr=1&plat=0&sver=5&correct=1&api_ver=1&version=9108&page=1",
+              "status": "ok",
+              "returnedTracks": 30,
+              "hits": [
+                {
+                  "id": "2056379a3bbf739b18ea185f20d7517b",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ、鏡音レン"
+                  ],
+                  "album": "初音ミク Project DIVA MEGA39’s 10th アニバーサリーコレクション",
+                  "durationSeconds": 208,
+                  "source_url": "https://www.kugou.com/song/#hash=2056379a3bbf739b18ea185f20d7517b"
+                },
+                {
+                  "id": "5e695732d49d4e038b51a5b4d6431000",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "安藤祐輝"
+                  ],
+                  "album": "12色",
+                  "durationSeconds": 275,
+                  "source_url": "https://www.kugou.com/song/#hash=5e695732d49d4e038b51a5b4d6431000"
+                },
+                {
+                  "id": "91634549fbab8bc2396cd18bd936860d",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ"
+                  ],
+                  "album": "神楽色アーティファクト",
+                  "durationSeconds": 204,
+                  "source_url": "https://www.kugou.com/song/#hash=91634549fbab8bc2396cd18bd936860d"
+                },
+                {
+                  "id": "cf884901eb82e4375d5e2eaaa17225bc",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "五轮真弓"
+                  ],
+                  "album": "ジグソーパズル",
+                  "durationSeconds": 242,
+                  "source_url": "https://www.kugou.com/song/#hash=cf884901eb82e4375d5e2eaaa17225bc"
+                },
+                {
+                  "id": "7c2c90dd66c78cc882743c211f0a7e71",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "wacci"
+                  ],
+                  "album": "ジグソーパズル",
+                  "durationSeconds": 246,
+                  "source_url": "https://www.kugou.com/song/#hash=7c2c90dd66c78cc882743c211f0a7e71"
+                },
+                {
+                  "id": "ce654a4ff250cc919be176d53ade5772",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "Haruki Kuriyama"
+                  ],
+                  "album": "ジグソーパズル",
+                  "durationSeconds": 266,
+                  "source_url": "https://www.kugou.com/song/#hash=ce654a4ff250cc919be176d53ade5772"
+                },
+                {
+                  "id": "41adfad1b188146905e734212e29411a",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "美菜呼"
+                  ],
+                  "album": "Cocktail / 美菜呼",
+                  "durationSeconds": 292,
+                  "source_url": "https://www.kugou.com/song/#hash=41adfad1b188146905e734212e29411a"
+                },
+                {
+                  "id": "5c8f5e03f6c1634f786dc4c64d91ef3d",
+                  "title": "ジグソーパズル (feat. 初音ミク)",
+                  "artists": [
+                    "松本仁亜、初音ミク"
+                  ],
+                  "album": "残響",
+                  "durationSeconds": 157,
+                  "source_url": "https://www.kugou.com/song/#hash=5c8f5e03f6c1634f786dc4c64d91ef3d"
+                },
+                {
+                  "id": "727de6eea867a1eda90c13dd225668c6",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "ZIGZVG"
+                  ],
+                  "album": "WITH SHADOW",
+                  "durationSeconds": 243,
+                  "source_url": "https://www.kugou.com/song/#hash=727de6eea867a1eda90c13dd225668c6"
+                },
+                {
+                  "id": "3179706e432d5574e6043ec86ee87c86",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "東耕大"
+                  ],
+                  "album": "One",
+                  "durationSeconds": 297,
+                  "source_url": "https://www.kugou.com/song/#hash=3179706e432d5574e6043ec86ee87c86"
+                },
+                {
+                  "id": "1a1dc7099d176ec096104c54d152a5ad",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "月島美涼"
+                  ],
+                  "album": "ジグソーパズル",
+                  "durationSeconds": 161,
+                  "source_url": "https://www.kugou.com/song/#hash=1a1dc7099d176ec096104c54d152a5ad"
+                },
+                {
+                  "id": "1fb9a220bda80c8f778cab56cfab0fdf",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "白原東京"
+                  ],
+                  "album": "ジグソーパズル",
+                  "durationSeconds": 236,
+                  "source_url": "https://www.kugou.com/song/#hash=1fb9a220bda80c8f778cab56cfab0fdf"
+                },
+                {
+                  "id": "cf056d7ce887bc4ff3862eb4d71b8ab3",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "五條 吏"
+                  ],
+                  "album": "せかんど",
+                  "durationSeconds": 239,
+                  "source_url": "https://www.kugou.com/song/#hash=cf056d7ce887bc4ff3862eb4d71b8ab3"
+                },
+                {
+                  "id": "4e1a8725dc283cfeb6c6c45b75be0c80",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "日本ACG"
+                  ],
+                  "album": "ショコラ ~maid cafe \"curio\"~ オリジナルボーカルアルバム",
+                  "durationSeconds": 223,
+                  "source_url": "https://www.kugou.com/song/#hash=4e1a8725dc283cfeb6c6c45b75be0c80"
+                },
+                {
+                  "id": "84cf16e3fc1a66703c3a51bd367ad9ea",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "Red Clover"
+                  ],
+                  "album": "ジグソーパズル",
+                  "durationSeconds": 259,
+                  "source_url": "https://www.kugou.com/song/#hash=84cf16e3fc1a66703c3a51bd367ad9ea"
+                },
+                {
+                  "id": "815459cbcbb2c3e474d6e19374ccf538",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "８９-ハチキュウ-"
+                  ],
+                  "album": "ジグソーパズル",
+                  "durationSeconds": 207,
+                  "source_url": "https://www.kugou.com/song/#hash=815459cbcbb2c3e474d6e19374ccf538"
+                },
+                {
+                  "id": "84cec941386e5c800ac2de746b395337",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "ねいとん"
+                  ],
+                  "album": "ジグソーパズル",
+                  "durationSeconds": 219,
+                  "source_url": "https://www.kugou.com/song/#hash=84cec941386e5c800ac2de746b395337"
+                },
+                {
+                  "id": "839d195670b4f3bd1c504ef80f556630",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "Naoki"
+                  ],
+                  "album": "ジグソーパズル",
+                  "durationSeconds": 254,
+                  "source_url": "https://www.kugou.com/song/#hash=839d195670b4f3bd1c504ef80f556630"
+                },
+                {
+                  "id": "664da3742cef0da8ab243ce6dc21aabf",
+                  "title": "ジグソーパズル (Explicit)",
+                  "artists": [
+                    "playork"
+                  ],
+                  "album": "Jumble Store (Explicit)",
+                  "durationSeconds": 351,
+                  "source_url": "https://www.kugou.com/song/#hash=664da3742cef0da8ab243ce6dc21aabf"
+                },
+                {
+                  "id": "8aa15c36f7c5f1abaf36664bb3778d1c",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "スターダスト☆レビュー"
+                  ],
+                  "album": "還暦少年",
+                  "durationSeconds": 230,
+                  "source_url": "https://www.kugou.com/song/#hash=8aa15c36f7c5f1abaf36664bb3778d1c"
+                },
+                {
+                  "id": "fc40f57efe31dd54a99034205a767458",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "mcプシャリバチョーデー"
+                  ],
+                  "album": "ジグソーパズル",
+                  "durationSeconds": 144,
+                  "source_url": "https://www.kugou.com/song/#hash=fc40f57efe31dd54a99034205a767458"
+                },
+                {
+                  "id": "2c6511962e21b609030ffd13b4fa0940",
+                  "title": "ジグソーパズル (かふねpiano session)",
+                  "artists": [
+                    "ポップ・ヴィランズ"
+                  ],
+                  "album": "カレンダー",
+                  "durationSeconds": 278,
+                  "source_url": "https://www.kugou.com/song/#hash=2c6511962e21b609030ffd13b4fa0940"
+                }
+              ],
+              "responseSha256": "ae3aa798444cc8e87f93c3c9994378dae62390fe6c936723b5c73ab4e75e76da"
+            },
+            {
+              "query": "ジグソーパズル 鏡音レン",
+              "url": "https://mobiles.kugou.com/api/v3/search/song?keyword=%E3%82%B8%E3%82%B0%E3%82%BD%E3%83%BC%E3%83%91%E3%82%BA%E3%83%AB+%E9%8F%A1%E9%9F%B3%E3%83%AC%E3%83%B3&showtype=14&pagesize=30&tag_aggr=1&plat=0&sver=5&correct=1&api_ver=1&version=9108&page=1",
+              "status": "ok",
+              "returnedTracks": 30,
+              "hits": [
+                {
+                  "id": "2056379a3bbf739b18ea185f20d7517b",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ、鏡音レン"
+                  ],
+                  "album": "初音ミク Project DIVA MEGA39’s 10th アニバーサリーコレクション",
+                  "durationSeconds": 208,
+                  "source_url": "https://www.kugou.com/song/#hash=2056379a3bbf739b18ea185f20d7517b"
+                }
+              ],
+              "responseSha256": "78c1f7eae497e6eb654975693391df25a6ba64f49833cb7ca67fa6235896d745"
+            },
+            {
+              "query": "ジグソーパズル まふまふ",
+              "url": "https://mobiles.kugou.com/api/v3/search/song?keyword=%E3%82%B8%E3%82%B0%E3%82%BD%E3%83%BC%E3%83%91%E3%82%BA%E3%83%AB+%E3%81%BE%E3%81%B5%E3%81%BE%E3%81%B5&showtype=14&pagesize=30&tag_aggr=1&plat=0&sver=5&correct=1&api_ver=1&version=9108&page=1",
+              "status": "ok",
+              "returnedTracks": 30,
+              "hits": [
+                {
+                  "id": "91634549fbab8bc2396cd18bd936860d",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ"
+                  ],
+                  "album": "神楽色アーティファクト",
+                  "durationSeconds": 204,
+                  "source_url": "https://www.kugou.com/song/#hash=91634549fbab8bc2396cd18bd936860d"
+                },
+                {
+                  "id": "2056379a3bbf739b18ea185f20d7517b",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ、鏡音レン"
+                  ],
+                  "album": "初音ミク Project DIVA MEGA39’s 10th アニバーサリーコレクション",
+                  "durationSeconds": 208,
+                  "source_url": "https://www.kugou.com/song/#hash=2056379a3bbf739b18ea185f20d7517b"
+                }
+              ],
+              "responseSha256": "ed9fdf7abbf5a8610dd97c639e78036c1344842f9350a906e7888bc6eefe1c74"
+            },
+            {
+              "query": "录音哈希 2056379a3bbf739b18ea185f20d7517b",
+              "url": "https://lyrics.kugou.com/search?keyword=%E3%81%BE%E3%81%B5%E3%81%BE%E3%81%B5+-+%E3%82%B8%E3%82%B0%E3%82%BD%E3%83%BC%E3%83%91%E3%82%BA%E3%83%AB&man=yes&client=pc&duration=208200&ver=1&hash=2056379a3bbf739b18ea185f20d7517b",
+              "status": "ok",
+              "hits": [
+                {
+                  "id": "301359758",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ、鏡音レン"
+                  ],
+                  "durationSeconds": 208.0
+                },
+                {
+                  "id": "51276565",
+                  "title": "ジグソーパズル / まふまふ feat. 鏡音レン",
+                  "artists": [
+                    "Mafumafu_Channel"
+                  ],
+                  "durationSeconds": 209.554
+                },
+                {
+                  "id": "301358685",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ、鏡音レン"
+                  ],
+                  "durationSeconds": 208.0
+                },
+                {
+                  "id": "51553142",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ、初音ミク"
+                  ],
+                  "durationSeconds": 209.554
+                }
+              ],
+              "responseSha256": "5419a561f55a797b4022a8f04cde65eb7e09b57313e01fcf861b4491a56d2886"
+            },
+            {
+              "query": "录音哈希 2056379a3bbf739b18ea185f20d7517b",
+              "url": "https://krcs.kugou.com/search?keyword=%E3%81%BE%E3%81%B5%E3%81%BE%E3%81%B5+-+%E3%82%B8%E3%82%B0%E3%82%BD%E3%83%BC%E3%83%91%E3%82%BA%E3%83%AB&man=yes&client=mobi&duration=208200&ver=1&hash=2056379a3bbf739b18ea185f20d7517b",
+              "status": "ok",
+              "hits": [
+                {
+                  "id": "301359758",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ、鏡音レン"
+                  ],
+                  "durationSeconds": 208.0
+                },
+                {
+                  "id": "51276565",
+                  "title": "ジグソーパズル / まふまふ feat. 鏡音レン",
+                  "artists": [
+                    "Mafumafu_Channel"
+                  ],
+                  "durationSeconds": 209.554
+                },
+                {
+                  "id": "301358685",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ、鏡音レン"
+                  ],
+                  "durationSeconds": 208.0
+                },
+                {
+                  "id": "51553142",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ、初音ミク"
+                  ],
+                  "durationSeconds": 209.554
+                }
+              ],
+              "responseSha256": "fe9efadefc70fd94d769c60289c3b9951c2d93adab79e6fa6d323a6fa82c0c32"
+            },
+            {
+              "query": "录音哈希 2056379a3bbf739b18ea185f20d7517b",
+              "url": "https://lyrics.kugou.com/search?keyword=%E3%82%B8%E3%82%B0%E3%82%BD%E3%83%BC%E3%83%91%E3%82%BA%E3%83%AB+%E3%81%BE%E3%81%B5%E3%81%BE%E3%81%B5&man=yes&client=pc&duration=208200&ver=1&hash=2056379a3bbf739b18ea185f20d7517b",
+              "status": "ok",
+              "hits": [
+                {
+                  "id": "301359758",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ、鏡音レン"
+                  ],
+                  "durationSeconds": 208.0
+                },
+                {
+                  "id": "51276565",
+                  "title": "ジグソーパズル / まふまふ feat. 鏡音レン",
+                  "artists": [
+                    "Mafumafu_Channel"
+                  ],
+                  "durationSeconds": 209.554
+                },
+                {
+                  "id": "301358685",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ、鏡音レン"
+                  ],
+                  "durationSeconds": 208.0
+                },
+                {
+                  "id": "51553142",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ、初音ミク"
+                  ],
+                  "durationSeconds": 209.554
+                }
+              ],
+              "responseSha256": "c59fa64558684026de8185495c7f5e01c75880c10ad8bf23c628eb03c80669bd"
+            },
+            {
+              "query": "录音哈希 2056379a3bbf739b18ea185f20d7517b",
+              "url": "https://krcs.kugou.com/search?keyword=%E3%82%B8%E3%82%B0%E3%82%BD%E3%83%BC%E3%83%91%E3%82%BA%E3%83%AB+%E3%81%BE%E3%81%B5%E3%81%BE%E3%81%B5&man=yes&client=mobi&duration=208200&ver=1&hash=2056379a3bbf739b18ea185f20d7517b",
+              "status": "ok",
+              "hits": [
+                {
+                  "id": "301359758",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ、鏡音レン"
+                  ],
+                  "durationSeconds": 208.0
+                },
+                {
+                  "id": "51276565",
+                  "title": "ジグソーパズル / まふまふ feat. 鏡音レン",
+                  "artists": [
+                    "Mafumafu_Channel"
+                  ],
+                  "durationSeconds": 209.554
+                },
+                {
+                  "id": "301358685",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ、鏡音レン"
+                  ],
+                  "durationSeconds": 208.0
+                },
+                {
+                  "id": "51553142",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ、初音ミク"
+                  ],
+                  "durationSeconds": 209.554
+                }
+              ],
+              "responseSha256": "6db806cf00ec73156d1adf3371c7bc0c8fffe7113baaaa5dae26f55a5fa6c1ec"
+            },
+            {
+              "query": "录音哈希 2056379a3bbf739b18ea185f20d7517b",
+              "url": "https://lyrics.kugou.com/search?keyword=%E3%82%B8%E3%82%B0%E3%82%BD%E3%83%BC%E3%83%91%E3%82%BA%E3%83%AB+%E9%8F%A1%E9%9F%B3%E3%83%AC%E3%83%B3&man=yes&client=pc&duration=208200&ver=1&hash=2056379a3bbf739b18ea185f20d7517b",
+              "status": "ok",
+              "hits": [
+                {
+                  "id": "301359758",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ、鏡音レン"
+                  ],
+                  "durationSeconds": 208.0
+                },
+                {
+                  "id": "51276565",
+                  "title": "ジグソーパズル / まふまふ feat. 鏡音レン",
+                  "artists": [
+                    "Mafumafu_Channel"
+                  ],
+                  "durationSeconds": 209.554
+                },
+                {
+                  "id": "301358685",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ、鏡音レン"
+                  ],
+                  "durationSeconds": 208.0
+                },
+                {
+                  "id": "51553142",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ、初音ミク"
+                  ],
+                  "durationSeconds": 209.554
+                }
+              ],
+              "responseSha256": "910403355e8c8efa100e36bedfc8f94a9f4237b9674b60892eb93d71e2e77df0"
+            },
+            {
+              "query": "录音哈希 2056379a3bbf739b18ea185f20d7517b",
+              "url": "https://krcs.kugou.com/search?keyword=%E3%82%B8%E3%82%B0%E3%82%BD%E3%83%BC%E3%83%91%E3%82%BA%E3%83%AB+%E9%8F%A1%E9%9F%B3%E3%83%AC%E3%83%B3&man=yes&client=mobi&duration=208200&ver=1&hash=2056379a3bbf739b18ea185f20d7517b",
+              "status": "ok",
+              "hits": [
+                {
+                  "id": "301359758",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ、鏡音レン"
+                  ],
+                  "durationSeconds": 208.0
+                },
+                {
+                  "id": "51276565",
+                  "title": "ジグソーパズル / まふまふ feat. 鏡音レン",
+                  "artists": [
+                    "Mafumafu_Channel"
+                  ],
+                  "durationSeconds": 209.554
+                },
+                {
+                  "id": "301358685",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ、鏡音レン"
+                  ],
+                  "durationSeconds": 208.0
+                },
+                {
+                  "id": "51553142",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ、初音ミク"
+                  ],
+                  "durationSeconds": 209.554
+                }
+              ],
+              "responseSha256": "b9aa9751f566eae83a9d290316a62ffef7cbf783e57f9acd8c556071258f4e59"
+            },
+            {
+              "query": "录音哈希 2056379a3bbf739b18ea185f20d7517b",
+              "url": "https://lyrics.kugou.com/search?keyword=%E3%82%B8%E3%82%B0%E3%82%BD%E3%83%BC%E3%83%91%E3%82%BA%E3%83%AB&man=yes&client=pc&duration=208000&ver=1&hash=2056379a3bbf739b18ea185f20d7517b",
+              "status": "ok",
+              "hits": [
+                {
+                  "id": "301359758",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ、鏡音レン"
+                  ],
+                  "durationSeconds": 208.0
+                },
+                {
+                  "id": "51276565",
+                  "title": "ジグソーパズル / まふまふ feat. 鏡音レン",
+                  "artists": [
+                    "Mafumafu_Channel"
+                  ],
+                  "durationSeconds": 209.554
+                },
+                {
+                  "id": "301358685",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ、鏡音レン"
+                  ],
+                  "durationSeconds": 208.0
+                },
+                {
+                  "id": "51553142",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ、初音ミク"
+                  ],
+                  "durationSeconds": 209.554
+                }
+              ],
+              "responseSha256": "9bc3005e527a50b86fecc951500c8c460dc3833d7a9b64f28392b80f17c39856"
+            },
+            {
+              "query": "录音哈希 2056379a3bbf739b18ea185f20d7517b",
+              "url": "https://krcs.kugou.com/search?keyword=%E3%82%B8%E3%82%B0%E3%82%BD%E3%83%BC%E3%83%91%E3%82%BA%E3%83%AB&man=yes&client=mobi&duration=208000&ver=1&hash=2056379a3bbf739b18ea185f20d7517b",
+              "status": "ok",
+              "hits": [
+                {
+                  "id": "301359758",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ、鏡音レン"
+                  ],
+                  "durationSeconds": 208.0
+                },
+                {
+                  "id": "51276565",
+                  "title": "ジグソーパズル / まふまふ feat. 鏡音レン",
+                  "artists": [
+                    "Mafumafu_Channel"
+                  ],
+                  "durationSeconds": 209.554
+                },
+                {
+                  "id": "301358685",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ、鏡音レン"
+                  ],
+                  "durationSeconds": 208.0
+                },
+                {
+                  "id": "51553142",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ、初音ミク"
+                  ],
+                  "durationSeconds": 209.554
+                }
+              ],
+              "responseSha256": "340e056a40762b0d66217204038d57ab20e877a8ab034e38983cf6652ee0dba5"
+            },
+            {
+              "query": "录音哈希 91634549fbab8bc2396cd18bd936860d",
+              "url": "https://lyrics.kugou.com/search?keyword=%E3%81%BE%E3%81%B5%E3%81%BE%E3%81%B5+-+%E3%82%B8%E3%82%B0%E3%82%BD%E3%83%BC%E3%83%91%E3%82%BA%E3%83%AB&man=yes&client=pc&duration=204827&ver=1&hash=91634549fbab8bc2396cd18bd936860d",
+              "status": "ok",
+              "hits": [
+                {
+                  "id": "112273170",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ"
+                  ],
+                  "durationSeconds": 204.0
+                },
+                {
+                  "id": "144296641",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ"
+                  ],
+                  "durationSeconds": 204.0
+                },
+                {
+                  "id": "116549978",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ"
+                  ],
+                  "durationSeconds": 204.0
+                },
+                {
+                  "id": "112273248",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ"
+                  ],
+                  "durationSeconds": 204.0
+                },
+                {
+                  "id": "40446977",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ"
+                  ],
+                  "durationSeconds": 209.472
+                }
+              ],
+              "responseSha256": "075e63a9f851148534cf676cee6a8f37dbe2b1720b818cf601db0a46446e79c6"
+            },
+            {
+              "query": "录音哈希 91634549fbab8bc2396cd18bd936860d",
+              "url": "https://krcs.kugou.com/search?keyword=%E3%81%BE%E3%81%B5%E3%81%BE%E3%81%B5+-+%E3%82%B8%E3%82%B0%E3%82%BD%E3%83%BC%E3%83%91%E3%82%BA%E3%83%AB&man=yes&client=mobi&duration=204827&ver=1&hash=91634549fbab8bc2396cd18bd936860d",
+              "status": "ok",
+              "hits": [
+                {
+                  "id": "112273170",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ"
+                  ],
+                  "durationSeconds": 204.0
+                },
+                {
+                  "id": "144296641",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ"
+                  ],
+                  "durationSeconds": 204.0
+                },
+                {
+                  "id": "116549978",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ"
+                  ],
+                  "durationSeconds": 204.0
+                },
+                {
+                  "id": "112273248",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ"
+                  ],
+                  "durationSeconds": 204.0
+                },
+                {
+                  "id": "40446977",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "まふまふ"
+                  ],
+                  "durationSeconds": 209.472
+                }
+              ],
+              "responseSha256": "b9372f62c5d1b950eed862a473611fbe9dbaffd3fcb735df76ac553b7daf7753"
+            }
+          ],
+          "fetched": [
+            {
+              "id": "301358685",
+              "title": "ジグソーパズル",
+              "artists": [
+                "まふまふ、鏡音レン"
+              ],
+              "source_url": "https://lyrics.kugou.com/download?id=301358685",
+              "fetched": true,
+              "format": "krc",
+              "wordUnits": 664,
+              "lyricRows": 76,
+              "durationSeconds": 208.0,
+              "decodedSha256": "ce9161e9585677f51a137c580b7b496117a01e2ea8ed33517d70c06a878b3d60",
+              "timedRowsSha256": "5d2e2d053918a675efd04962e7bacd6ff89c03b8ebd942aad8a3d8da51f7ecfb",
+              "responseSha256": "6a4349efc7adee41a4d897ed424a3c141efd5c4432611688ed78f352f0238d22",
+              "recordingRelationship": "同一镜音连录音，游戏版按已核验的剪辑映射",
+              "krcHeader": {
+                "ar": "uni_紙精",
+                "ti": "【鏡音レン】拼圖遊戲【まふまふ】",
+                "by": "末梦安紤",
+                "hash": "741b115b0683cf24f0feae6aafffc6be",
+                "total": "209554",
+                "offset": "0"
+              },
+              "lrcAlsoReturned": true,
+              "decision": "duplicate_payload",
+              "adoptedWordUnits": 0,
+              "reason": "与 301359758 的 KRC 解码正文和时间完全相同，沿用同一候选的核验结果。",
+              "mappingEvidence": "reports/evidence/0796-2026-11-21-krc-alignment.json"
+            },
+            {
+              "id": "301359758",
+              "title": "ジグソーパズル",
+              "artists": [
+                "まふまふ、鏡音レン"
+              ],
+              "source_url": "https://lyrics.kugou.com/download?id=301359758",
+              "fetched": true,
+              "format": "krc",
+              "wordUnits": 664,
+              "lyricRows": 76,
+              "durationSeconds": 208.0,
+              "decodedSha256": "3de260d8d706d5c5b99625b35fe5d9905f9883a151f8d0740a7dbc795c97cc00",
+              "timedRowsSha256": "5d2e2d053918a675efd04962e7bacd6ff89c03b8ebd942aad8a3d8da51f7ecfb",
+              "responseSha256": "90dfd696478edea04b76501475a48b4a9cda44a09b8ccd62763ff9cf4142ac50",
+              "recordingRelationship": "同一镜音连录音，游戏版按已核验的剪辑映射",
+              "krcHeader": {
+                "ar": "uni_紙精",
+                "ti": "【鏡音レン】拼圖遊戲【まふまふ】",
+                "by": "末梦安紤",
+                "hash": "741b115b0683cf24f0feae6aafffc6be",
+                "total": "209554",
+                "offset": "0"
+              },
+              "lrcAlsoReturned": true,
+              "decision": "adopted_partial",
+              "adoptedWordUnits": 104,
+              "reason": "仅采用 10 行已核对原生时间，完整映射和未采用行见证据。",
+              "mappingEvidence": "reports/evidence/0796-2026-11-21-krc-alignment.json"
+            },
+            {
+              "id": "51276565",
+              "title": "ジグソーパズル / まふまふ feat. 鏡音レン",
+              "artists": [
+                "Mafumafu_Channel"
+              ],
+              "source_url": "https://lyrics.kugou.com/download?id=51276565",
+              "fetched": true,
+              "format": "krc",
+              "wordUnits": 664,
+              "lyricRows": 76,
+              "durationSeconds": 209.554,
+              "decodedSha256": "49de273b15bde51428e23a24dc3c3d5373094a79e01afa9581d590141516ee7e",
+              "timedRowsSha256": "5d2e2d053918a675efd04962e7bacd6ff89c03b8ebd942aad8a3d8da51f7ecfb",
+              "responseSha256": "dc6ecf5492d1b82630f84bdaed0af5e7227500eb5343755449d72b4ab571041a",
+              "recordingRelationship": "同一镜音连录音，游戏版按已核验的剪辑映射",
+              "krcHeader": {
+                "ar": "uni_紙精",
+                "ti": "【鏡音レン】拼圖遊戲【まふまふ】",
+                "by": "末梦安紤",
+                "hash": "741b115b0683cf24f0feae6aafffc6be",
+                "total": "209554",
+                "offset": "0"
+              },
+              "lrcAlsoReturned": true,
+              "decision": "duplicate_payload",
+              "adoptedWordUnits": 0,
+              "reason": "与 301359758 的 KRC 解码正文和时间完全相同，沿用同一候选的核验结果。",
+              "mappingEvidence": "reports/evidence/0796-2026-11-21-krc-alignment.json"
+            },
+            {
+              "id": "51553142",
+              "title": "ジグソーパズル",
+              "artists": [
+                "まふまふ、初音ミク"
+              ],
+              "source_url": "https://lyrics.kugou.com/download?id=51553142",
+              "fetched": true,
+              "format": "krc",
+              "wordUnits": 664,
+              "lyricRows": 76,
+              "durationSeconds": 209.554,
+              "decodedSha256": "eb19db7492f4adf5a688599a73653cb38f82f1426cd8bf88e3744f75c25d140f",
+              "timedRowsSha256": "5d2e2d053918a675efd04962e7bacd6ff89c03b8ebd942aad8a3d8da51f7ecfb",
+              "responseSha256": "104db6e5ed4019fb11c6ed8c78eb885ccfcfa0d1840497d8727d074473ba6ea2",
+              "recordingRelationship": "同一镜音连录音，游戏版按已核验的剪辑映射",
+              "krcHeader": {
+                "ar": "uni_紙精",
+                "ti": "【鏡音レン】拼圖遊戲【まふまふ】",
+                "by": "末梦安紤",
+                "hash": "741b115b0683cf24f0feae6aafffc6be",
+                "total": "209554",
+                "offset": "0"
+              },
+              "lrcAlsoReturned": true,
+              "decision": "duplicate_payload",
+              "adoptedWordUnits": 0,
+              "reason": "与 301359758 的 KRC 解码正文和时间完全相同，沿用同一候选的核验结果。",
+              "mappingEvidence": "reports/evidence/0796-2026-11-21-krc-alignment.json"
+            },
+            {
+              "id": "112273170",
+              "title": "ジグソーパズル",
+              "artists": [
+                "まふまふ"
+              ],
+              "source_url": "https://lyrics.kugou.com/download?id=112273170",
+              "fetched": true,
+              "format": "krc",
+              "wordUnits": 679,
+              "lyricRows": 81,
+              "decision": "rejected_recording_bounds",
+              "reason": "KRC 已返回且可解码，有正文单元。但若干时间超过该候选声明的 204 秒录音范围，整条轴未通过边界校验。",
+              "parseError": "KRC line outside its recording",
+              "sourceAudioLookup": null,
+              "decodedSha256": "350a26998be5d84f5dd84bdb007cb0a67f8ab0cb0267d3c1799237f8ec59902c",
+              "responseSha256": "df80cea9a30d14657a4761ee466d2fddbfc857029698ca16494a202bccca287c",
+              "krcHeader": {
+                "ar": "まふまふ",
+                "ti": "ジグソーパズル",
+                "by": "",
+                "hash": "91634549fbab8bc2396cd18bd936860d",
+                "total": "204000",
+                "offset": "0"
+              }
+            },
+            {
+              "id": "112273248",
+              "title": "ジグソーパズル",
+              "artists": [
+                "まふまふ"
+              ],
+              "source_url": "https://lyrics.kugou.com/download?id=112273248",
+              "fetched": true,
+              "format": "krc",
+              "wordUnits": 679,
+              "lyricRows": 81,
+              "decision": "rejected_recording_bounds",
+              "reason": "KRC 已返回且可解码，有正文单元。但若干时间超过该候选声明的 204 秒录音范围，整条轴未通过边界校验。",
+              "parseError": "KRC line outside its recording",
+              "sourceAudioLookup": null,
+              "decodedSha256": "f0d327cf438f76b088f18e13e86ce3c0d1dbf291c6372d193baec5755132b775",
+              "responseSha256": "b4da30112420d70ce54de0d5977520a630ebc5e42d6252bccf910e11978bccf7",
+              "krcHeader": {
+                "ti": "ジグソーパズル",
+                "by": "krc转qrc工具",
+                "offset": "0"
+              }
+            },
+            {
+              "id": "116549978",
+              "title": "ジグソーパズル",
+              "artists": [
+                "まふまふ"
+              ],
+              "source_url": "https://lyrics.kugou.com/download?id=116549978",
+              "fetched": true,
+              "format": "krc",
+              "wordUnits": 679,
+              "lyricRows": 81,
+              "decision": "rejected_recording_bounds",
+              "reason": "KRC 已返回且可解码，有正文单元。但若干时间超过该候选声明的 204 秒录音范围，整条轴未通过边界校验。",
+              "parseError": "KRC line outside its recording",
+              "sourceAudioLookup": null,
+              "decodedSha256": "f0d327cf438f76b088f18e13e86ce3c0d1dbf291c6372d193baec5755132b775",
+              "responseSha256": "f41d6287619b851441a6ecf85ef13c9475336604a0128603c5f42f9cd0173d7f",
+              "krcHeader": {
+                "ti": "ジグソーパズル",
+                "by": "krc转qrc工具",
+                "offset": "0"
+              }
+            },
+            {
+              "id": "144296641",
+              "title": "ジグソーパズル",
+              "artists": [
+                "mafumafu (まふまふ)"
+              ],
+              "source_url": "https://lyrics.kugou.com/download?id=144296641",
+              "fetched": true,
+              "format": "krc",
+              "wordUnits": 664,
+              "lyricRows": 69,
+              "decision": "rejected_recording_mismatch",
+              "reason": "与 QQ 127340100 的まふまふ自唱版原生轴一致。",
+              "parseError": null,
+              "sourceAudioLookup": null,
+              "decodedSha256": "266cc63dbd13f4f60a13a0ab03deb63650f9dd5aa9000ea946f1038388273e97",
+              "responseSha256": "b65f989bd3b8c0ca2724a8a71e0929f692ca9359263c4776288ab2447621ae57",
+              "krcHeader": {
+                "ar": "mafumafu (まふまふ)",
+                "ti": "ジグソーパズル",
+                "by": "",
+                "offset": "0"
+              }
+            },
+            {
+              "id": "40446977",
+              "title": "ジグソーパズル",
+              "artists": [
+                "まふまふ"
+              ],
+              "source_url": "https://lyrics.kugou.com/download?id=40446977",
+              "fetched": true,
+              "format": "krc",
+              "wordUnits": 666,
+              "lyricRows": 63,
+              "decision": "line_end_reference_only",
+              "reason": "旧缓存仅作尾音旁证。KRC 头部哈希当前跳到まふまふ自唱版的目录哈希，接口无可用参考音频，当前逐字采用另一个已验证的镜音连来源。",
+              "parseError": null,
+              "sourceAudioLookup": {
+                "resolvedHash": "91634549FBAB8BC2396CD18BD936860D",
+                "downloadAvailable": false,
+                "responseSha256": "12c96768411618dfcab5150b6bca86e78eea7b5423ac4070527654d7f1377362"
+              },
+              "decodedSha256": "166ecd7b94e57ce3facde7c99a21146d95eaf8de17f6688f48cd50f77299a7dd",
+              "responseSha256": "ccf6c576886291dcc3dd8f504ba021f5cda2916f14c8e3cdc0ca07dc9809c676",
+              "krcHeader": {
+                "ar": "まふまふ",
+                "ti": "ジグソーパズル",
+                "by": "文行者",
+                "hash": "82fb540e061ddb3c26358f3b6f29f494",
+                "total": "209472",
+                "offset": "0"
+              }
+            },
+            {
+              "id": "49676177",
+              "title": "ジグソーパズル",
+              "artists": [
+                "みるくん"
+              ],
+              "source_url": "https://lyrics.kugou.com/download?id=49676177",
+              "fetched": true,
+              "format": "krc",
+              "wordUnits": 600,
+              "lyricRows": 79,
+              "decision": "rejected_recording_mismatch",
+              "reason": "KRC 头部明确标记歌手为みるくん，属于翻唱。",
+              "parseError": null,
+              "sourceAudioLookup": null,
+              "decodedSha256": "c5f07bbfc66e5fade901b5655b8a561520602470c16aa51e1590346f9ce5b12f",
+              "responseSha256": "add580e8edb5513b2077ad131b3a82efdd82bd29acac9f07596e84070caecf4a",
+              "krcHeader": {
+                "ar": "みるくん",
+                "ti": "拼图游戏",
+                "by": "声桥回潇",
+                "hash": "cb7fc57e7687b034def50f73cde983b2",
+                "total": "207768",
+                "offset": "0"
+              }
+            }
+          ]
+        },
+        "lrclib": {
+          "queries": [
+            {
+              "query": "ジグソーパズル",
+              "url": "https://lrclib.net/api/search?track_name=%E3%82%B8%E3%82%B0%E3%82%BD%E3%83%BC%E3%83%91%E3%82%BA%E3%83%AB",
+              "status": "ok",
+              "hits": [
+                {
+                  "id": "4157590",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "Mafumafu"
+                  ],
+                  "source_url": "https://lrclib.net/api/get/4157590",
+                  "durationSeconds": 205.0
+                },
+                {
+                  "id": "29520833",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "Hilcrhyme"
+                  ],
+                  "source_url": "https://lrclib.net/api/get/29520833",
+                  "durationSeconds": 245.0
+                },
+                {
+                  "id": "16179494",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "mafumafu"
+                  ],
+                  "source_url": "https://lrclib.net/api/get/16179494",
+                  "durationSeconds": 209.443991
+                },
+                {
+                  "id": "36932987",
+                  "title": "ジグソーパズル",
+                  "artists": [
+                    "Hilcrhyme"
+                  ],
+                  "source_url": "https://lrclib.net/api/get/36932987",
+                  "durationSeconds": 243.0
+                },
+                {
+                  "id": "16509554",
+                  "title": "Jigsaw puzzle ジグソーパズル",
+                  "artists": [
+                    "Mafumafu"
+                  ],
+                  "source_url": "https://lrclib.net/api/get/16509554",
+                  "durationSeconds": 208.2
+                },
+                {
+                  "id": "36334171",
+                  "title": "Jigsaw puzzle ジグソーパズル",
+                  "artists": [
+                    "Mafumafu"
+                  ],
+                  "source_url": "https://lrclib.net/api/get/36334171",
+                  "durationSeconds": 208.0
+                }
+              ],
+              "responseSha256": "5b1aa8693cf1d61a515819b51a2f796e4eea923caa79cbf0594b45aa90e31d58"
+            },
+            {
+              "query": "Jigsaw puzzle",
+              "url": "https://lrclib.net/api/search?track_name=Jigsaw+puzzle",
+              "status": "ok",
+              "hits": [
+                {
+                  "id": "7117331",
+                  "title": "Jigsaw Puzzle",
+                  "artists": [
+                    "The Rolling Stones"
+                  ],
+                  "source_url": "https://lrclib.net/api/get/7117331",
+                  "durationSeconds": 365.0
+                },
+                {
+                  "id": "3987870",
+                  "title": "Jigsaw Puzzle",
+                  "artists": [
+                    "The Rolling Stones"
+                  ],
+                  "source_url": "https://lrclib.net/api/get/3987870",
+                  "durationSeconds": 365.0
+                },
+                {
+                  "id": "2294185",
+                  "title": "Jigsaw Puzzle",
+                  "artists": [
+                    "Elvenking"
+                  ],
+                  "source_url": "https://lrclib.net/api/get/2294185",
+                  "durationSeconds": 258.0
+                },
+                {
+                  "id": "6825009",
+                  "title": "Jigsaw Puzzle",
+                  "artists": [
+                    "The Rolling Stones"
+                  ],
+                  "source_url": "https://lrclib.net/api/get/6825009",
+                  "durationSeconds": 365.0
+                },
+                {
+                  "id": "6407004",
+                  "title": "Jigsaw Puzzle",
+                  "artists": [
+                    "The Rolling Stones"
+                  ],
+                  "source_url": "https://lrclib.net/api/get/6407004",
+                  "durationSeconds": 365.0
+                },
+                {
+                  "id": "609020",
+                  "title": "Jigsaw Puzzle",
+                  "artists": [
+                    "The Rolling Stones"
+                  ],
+                  "source_url": "https://lrclib.net/api/get/609020",
+                  "durationSeconds": 365.0
+                },
+                {
+                  "id": "942362",
+                  "title": "Jigsaw Puzzle",
+                  "artists": [
+                    "Mafumafu"
+                  ],
+                  "source_url": "https://lrclib.net/api/get/942362",
+                  "durationSeconds": 205.0
+                },
+                {
+                  "id": "30605490",
+                  "title": "Jigsaw Puzzle",
+                  "artists": [
+                    "The Rolling Stones"
+                  ],
+                  "source_url": "https://lrclib.net/api/get/30605490",
+                  "durationSeconds": 355.0
+                },
+                {
+                  "id": "30705880",
+                  "title": "Jigsaw Puzzle",
+                  "artists": [
+                    "Mafumafu feat. Kagamine Len V4X (Power)"
+                  ],
+                  "source_url": "https://lrclib.net/api/get/30705880",
+                  "durationSeconds": 208.0
+                },
+                {
+                  "id": "30476881",
+                  "title": "Jigsaw Puzzle",
+                  "artists": [
+                    "The Rolling Stones"
+                  ],
+                  "source_url": "https://lrclib.net/api/get/30476881",
+                  "durationSeconds": 366.0
+                },
+                {
+                  "id": "30779825",
+                  "title": "Jigsaw Puzzle",
+                  "artists": [
+                    "The Rolling Stones"
+                  ],
+                  "source_url": "https://lrclib.net/api/get/30779825",
+                  "durationSeconds": 366.0
+                },
+                {
+                  "id": "29370469",
+                  "title": "Jigsaw Puzzle",
+                  "artists": [
+                    "The Rolling Stones"
+                  ],
+                  "source_url": "https://lrclib.net/api/get/29370469",
+                  "durationSeconds": 367.0
+                },
+                {
+                  "id": "29525456",
+                  "title": "Jigsaw Puzzle",
+                  "artists": [
+                    "The Rolling Stones"
+                  ],
+                  "source_url": "https://lrclib.net/api/get/29525456",
+                  "durationSeconds": 366.0
+                },
+                {
+                  "id": "33323774",
+                  "title": "Jigsaw Puzzle",
+                  "artists": [
+                    "The Rolling Stones"
+                  ],
+                  "source_url": "https://lrclib.net/api/get/33323774",
+                  "durationSeconds": 369.0
+                },
+                {
+                  "id": "32789064",
+                  "title": "Jigsaw Puzzle",
+                  "artists": [
+                    "Rolling Stones, The"
+                  ],
+                  "source_url": "https://lrclib.net/api/get/32789064",
+                  "durationSeconds": 377.0
+                },
+                {
+                  "id": "32297220",
+                  "title": "Jigsaw Puzzle",
+                  "artists": [
+                    "The Rolling Stones"
+                  ],
+                  "source_url": "https://lrclib.net/api/get/32297220",
+                  "durationSeconds": 396.0
+                },
+                {
+                  "id": "31309968",
+                  "title": "Jigsaw Puzzle",
+                  "artists": [
+                    "of Montreal"
+                  ],
+                  "source_url": "https://lrclib.net/api/get/31309968",
+                  "durationSeconds": 181.0
+                },
+                {
+                  "id": "19560042",
+                  "title": "Jigsaw Puzzle",
+                  "artists": [
+                    "Elvenking"
+                  ],
+                  "source_url": "https://lrclib.net/api/get/19560042",
+                  "durationSeconds": 306.0
+                },
+                {
+                  "id": "19719540",
+                  "title": "Jigsaw Puzzle",
+                  "artists": [
+                    "The Rolling Stones"
+                  ],
+                  "source_url": "https://lrclib.net/api/get/19719540",
+                  "durationSeconds": 361.48565
+                },
+                {
+                  "id": "18182916",
+                  "title": "Jigsaw Puzzle",
+                  "artists": [
+                    "Rolling Stones"
+                  ],
+                  "source_url": "https://lrclib.net/api/get/18182916",
+                  "durationSeconds": 366.053888
+                }
+              ],
+              "responseSha256": "a9cd10fc112ca4beab875cc4e641ef1cb597a1ba4ff1614c3e917dc7b9263434"
+            }
+          ],
+          "fetched": [
+            {
+              "id": "16179494",
+              "title": "ジグソーパズル",
+              "artists": [
+                "mafumafu"
+              ],
+              "source_url": "https://lrclib.net/api/get/16179494",
+              "durationSeconds": 209.443991,
+              "album": "ジグソーパズル",
+              "fetched": true,
+              "format": "lrc",
+              "wordUnits": 0,
+              "decision": "not_adopted",
+              "reason": "公开条目有逐句 LRC，当前轴以原作者 MV 和核实过的原生 KRC 为准。",
+              "lyricRows": 54,
+              "responseSha256": "7e4134a150ea71586dd725450bf2954a63aac5c6615dccdeb697cad834231323"
+            },
+            {
+              "id": "16509554",
+              "title": "Jigsaw puzzle ジグソーパズル",
+              "artists": [
+                "Mafumafu"
+              ],
+              "source_url": "https://lrclib.net/api/get/16509554",
+              "durationSeconds": 208.2,
+              "album": "初音ミク Project DIVA MEGA39’s 10th アニバーサリーコレクション",
+              "fetched": true,
+              "format": "lrc",
+              "wordUnits": 0,
+              "decision": "not_adopted",
+              "reason": "公开条目有逐句 LRC，当前轴以原作者 MV 和核实过的原生 KRC 为准。",
+              "lyricRows": 54,
+              "responseSha256": "6cf5b288135b3cd278e9951281157c336d53d5b5fb7ff0c060a1bd0bb2fb3314"
+            },
+            {
+              "id": "30705880",
+              "title": "Jigsaw Puzzle",
+              "artists": [
+                "Mafumafu feat. Kagamine Len V4X (Power)"
+              ],
+              "source_url": "https://lrclib.net/api/get/30705880",
+              "durationSeconds": 208.0,
+              "album": "Hatsune Miku Project DIVA MEGA39's 10th Anniversary Collection",
+              "fetched": true,
+              "format": "lrc",
+              "wordUnits": 0,
+              "decision": "no_native_word_timing",
+              "reason": "曲目明确标记镜音连，实际取得逐句 LRC，lyricsfile 无词块。",
+              "lyricRows": 54,
+              "responseSha256": "18c578fa9175d5b81a7a39c3f132c61ab8881e624eb697ef8792729f658e9e00"
+            },
+            {
+              "id": "36334171",
+              "title": "Jigsaw puzzle ジグソーパズル",
+              "artists": [
+                "Mafumafu"
+              ],
+              "source_url": "https://lrclib.net/api/get/36334171",
+              "durationSeconds": 208.0,
+              "album": "Vocaloid",
+              "fetched": true,
+              "format": "lrc",
+              "wordUnits": 0,
+              "decision": "not_adopted",
+              "reason": "公开条目有逐句 LRC，当前轴以原作者 MV 和核实过的原生 KRC 为准。",
+              "lyricRows": 54,
+              "responseSha256": "bd2bebd7e40b7ae8f666b008ba681ec4a09a922d2a3641394bc3747cc00eff78"
+            },
+            {
+              "id": "4157590",
+              "title": "ジグソーパズル",
+              "artists": [
+                "Mafumafu"
+              ],
+              "source_url": "https://lrclib.net/api/get/4157590",
+              "durationSeconds": 205.0,
+              "album": "神楽色アーティファクト",
+              "fetched": true,
+              "format": "lrc",
+              "wordUnits": 0,
+              "decision": "rejected_recording_mismatch",
+              "reason": "まふまふ自唱版专辑。",
+              "lyricRows": 54,
+              "responseSha256": "46fd50bdd0ca105fe0e76912072fe945e92df90345fa1c13376afdc77be42c37"
+            },
+            {
+              "id": "942362",
+              "title": "Jigsaw Puzzle",
+              "artists": [
+                "Mafumafu"
+              ],
+              "source_url": "https://lrclib.net/api/get/942362",
+              "durationSeconds": 205.0,
+              "album": "Kagurairo Artifact",
+              "fetched": true,
+              "format": "lrclib_lyricsfile",
+              "wordUnits": 94,
+              "decision": "rejected_recording_mismatch",
+              "reason": "有原生歌词单元，专辑为《神楽色アーティファクト》まふまふ自唱。",
+              "lyricRows": 54,
+              "responseSha256": "18e73a7e62bce0ec27e52d2ad0810ab362d0b8c17339013f4aca34927c1db7b9"
+            }
+          ]
+        },
+        "kuwo": {
+          "queries": [
+            {
+              "query": "ジグソーパズル まふまふ",
+              "url": "https://www.kuwo.cn/api/www/search/searchMusicBykeyWord?key=%E3%82%B8%E3%82%B0%E3%82%BD%E3%83%BC%E3%83%91%E3%82%BA%E3%83%AB+%E3%81%BE%E3%81%B5%E3%81%BE%E3%81%B5&pn=1&rn=15&httpsStatus=1",
+              "status": "interface_failure",
+              "hits": [],
+              "apiCode": null,
+              "message": "The request is illegal!",
+              "responseSha256": "c0391d2502b61753a1befbd6c633e4982c31f1d6cf27c8f625b72a75bda30665"
+            },
+            {
+              "query": "ジグソーパズル 鏡音レン",
+              "url": "https://www.kuwo.cn/api/www/search/searchMusicBykeyWord?key=%E3%82%B8%E3%82%B0%E3%82%BD%E3%83%BC%E3%83%91%E3%82%BA%E3%83%AB+%E9%8F%A1%E9%9F%B3%E3%83%AC%E3%83%B3&pn=1&rn=15&httpsStatus=1",
+              "status": "interface_failure",
+              "hits": [],
+              "apiCode": null,
+              "message": "The request is illegal!",
+              "responseSha256": "f2380fe878bbb259b0035c6ff901382bb172da0e2fe1a23b41410dc11590f144"
+            },
+            {
+              "query": "ジグソーパズル",
+              "url": "https://www.kuwo.cn/api/www/search/searchMusicBykeyWord?key=%E3%82%B8%E3%82%B0%E3%82%BD%E3%83%BC%E3%83%91%E3%82%BA%E3%83%AB&pn=1&rn=15&httpsStatus=1",
+              "status": "interface_failure",
+              "hits": [],
+              "apiCode": null,
+              "message": "The request is illegal!",
+              "responseSha256": "f594c5343aa7f488160b47f44d3336c89556b75032c6215363726d539760b04d"
+            },
+            {
+              "query": "Jigsaw Puzzle Mafumafu",
+              "url": "https://www.kuwo.cn/api/www/search/searchMusicBykeyWord?key=Jigsaw+Puzzle+Mafumafu&pn=1&rn=15&httpsStatus=1",
+              "status": "interface_failure",
+              "hits": [],
+              "apiCode": null,
+              "message": "The request is illegal!",
+              "responseSha256": "1b122256a4cb4348e9f00555bdc5f515f36c7da79474713c8a5a8fdde981702f"
+            }
+          ],
+          "fetched": []
+        },
+        "moesekai": {
+          "queries": [
+            {
+              "query": "796 / ジグソーパズル",
+              "url": "https://translation.exmeaning.com/files/translation/lyrics/index.json",
+              "status": "empty",
+              "hits": [],
+              "httpStatus": 200,
+              "indexEntries": 738,
+              "responseSha256": "bdacbe47e0007dd609ed15562f2d48940c0af8cd1d97c4f492129fea0a0bab3a"
+            },
+            {
+              "query": "music_796.json",
+              "url": "https://translation.exmeaning.com/files/translation/lyrics/music_796.json",
+              "status": "empty",
+              "hits": [],
+              "httpStatus": 404,
+              "revisionQueryStatus": 404,
+              "responseSha256": "b16e15764b8bc06c5c3f9f19bc8b99fa48e7894aa5a6ccdad65da49bbf564793"
+            },
+            {
+              "query": "MoeSekai 歌词页 796",
+              "url": "https://pjsk.moe/zh-cn/lyrics/796/",
+              "status": "ok",
+              "hits": [
+                {
+                  "id": "796",
+                  "title": "ジグソーパズル",
+                  "source_url": "https://pjsk.moe/zh-cn/lyrics/796/"
+                }
+              ],
+              "httpStatus": 200
+            }
+          ],
+          "fetched": [
+            {
+              "id": "796",
+              "title": "ジグソーパズル",
+              "artists": [
+                "鏡音レン"
+              ],
+              "source_url": "https://pjsk.moe/zh-cn/lyrics/796/",
+              "fetched": true,
+              "format": "HTML",
+              "wordUnits": 0,
+              "decision": "translation_not_found",
+              "reason": "歌曲页存在，HTML 只有加载中的歌词占位。公开歌词索引及正文 API 未取得翻译，yokohama 的原项目快照也无 796 正文。",
+              "responseSha256": "516a7806f9fd9bbe5c516b90358d69fa562e9743a3d1faae4294e19c937427e3",
+              "remoteSnapshot": "yokohama:/data/watagashi/moesekai-lyrics@4b774d1"
+            }
+          ]
+        },
+        "lyricdown": {
+          "queries": [
+            {
+              "query": "Jigsaw Puzzle Mafumafu 鏡音レン",
+              "url": "https://www.lyricdown.com/lrc/mafumafu-jigsaw-puzzle-20298373",
+              "status": "ok",
+              "hits": [
+                {
+                  "id": "20298373",
+                  "title": "Jigsaw Puzzle",
+                  "artists": [
+                    "Mafumafu"
+                  ],
+                  "source_url": "https://www.lyricdown.com/lrc/mafumafu-jigsaw-puzzle-20298373"
+                }
+              ]
+            }
+          ],
+          "fetched": [
+            {
+              "id": "20298373",
+              "title": "Jigsaw Puzzle",
+              "artists": [
+                "Mafumafu"
+              ],
+              "source_url": "https://www.lyricdown.com/lrc/mafumafu-jigsaw-puzzle-20298373",
+              "fetched": true,
+              "format": "lrc",
+              "wordUnits": 0,
+              "decision": "not_adopted",
+              "reason": "实际页面提供逐句 LRC，未取得逐字。",
+              "responseSha256": "01a65646ff3845f0e8e2c01522462668b572ba6148f03030d2adc90632bcb0a3"
+            }
+          ]
+        }
+      },
+      "kugouAudioChecks": [
+        {
+          "query": "镜音连专辑录音",
+          "url": "https://m.kugou.com/app/i/getSongInfo.php?cmd=playInfo&hash=2056379a3bbf739b18ea185f20d7517b",
+          "id": "56784423",
+          "albumId": "42353413",
+          "audioHash": "2056379a3bbf739b18ea185f20d7517b",
+          "title": "ジグソーパズル",
+          "artists": [
+            "まふまふ",
+            "鏡音レン"
+          ],
+          "fetched": true,
+          "format": "MP3",
+          "wordUnits": 0,
+          "usedAsLyricClock": false,
+          "responseSha256": "e31313d8c0d609116c1e6ebff50c082988da83d3849b1627a98ce6a5056a09cd",
+          "evidence": "reports/evidence/0796-2026-11-21-krc-alignment.json"
+        },
+        {
+          "query": "KRC 头部录音",
+          "url": "https://m.kugou.com/app/i/getSongInfo.php?cmd=playInfo&hash=741b115b0683cf24f0feae6aafffc6be",
+          "id": "56784423",
+          "albumId": "42353413",
+          "audioHash": "741b115b0683cf24f0feae6aafffc6be",
+          "title": "ジグソーパズル",
+          "artists": [
+            "まふまふ",
+            "鏡音レン"
+          ],
+          "fetched": true,
+          "format": "MP3",
+          "wordUnits": 0,
+          "usedAsLyricClock": true,
+          "responseSha256": "bfe941871330e1c95fc5f34a9bd143ce702a526a62792dde314ddabd2cd82c42",
+          "evidence": "reports/evidence/0796-2026-11-21-krc-alignment.json"
+        }
+      ],
+      "alignmentEvidence": "reports/evidence/0796-2026-11-21-krc-alignment.json",
+      "nextStep": "已补 10 行原生 KRC。其余 27 行仍可补查经核对的镜音连逐字，MoeSekai 译文待有公开正文后复查。"
+    }
+  ]
+}

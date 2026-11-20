@@ -1,0 +1,2415 @@
+{
+  "date": "2026-11-21",
+  "musicId": 796,
+  "searchEvidence": "reports/word-timing-search-2026-11-21-0796.json",
+  "previousGameMappingEvidence": "reports/evidence/new-songs-2026-11-19-alignment.json",
+  "candidateGroup": {
+    "usedRecordId": "301359758",
+    "sourceAudioHash": "741b115b0683cf24f0feae6aafffc6be",
+    "sourceAudioSha256": "687bb13bf09c5aa26b65461fbadcfee89c3fd836c5dafe177e74a069c85416a7",
+    "catalogAudioHash": "2056379a3bbf739b18ea185f20d7517b",
+    "catalogAudioSha256": "122dc327b5f47c8255304f1e807b2cfd20ee86153f7e0c6cf0fbeb4a58490c1d",
+    "identicalTimedRowsIds": [
+      "301358685",
+      "51276565",
+      "51553142"
+    ]
+  },
+  "waveform": {
+    "sampleRate": 6000,
+    "windowSeconds": 4,
+    "columns": [
+      "kugouSeconds",
+      "youtubeMVSeconds",
+      "kugouMinusYouTubeSeconds",
+      "correlation"
+    ],
+    "source": {
+      "videoSeconds": 209.386,
+      "providerSeconds": 209.51466666666667,
+      "rows": [
+        [
+          6,
+          5.914667,
+          0.085333,
+          0.99042
+        ],
+        [
+          10,
+          9.914667,
+          0.085333,
+          0.98874
+        ],
+        [
+          14,
+          13.914667,
+          0.085333,
+          0.99023
+        ],
+        [
+          18,
+          17.914667,
+          0.085333,
+          0.98993
+        ],
+        [
+          22,
+          21.914667,
+          0.085333,
+          0.98974
+        ],
+        [
+          26,
+          25.914667,
+          0.085333,
+          0.9919
+        ],
+        [
+          30,
+          29.914667,
+          0.085333,
+          0.99689
+        ],
+        [
+          34,
+          33.914667,
+          0.085333,
+          0.99749
+        ],
+        [
+          38,
+          37.914667,
+          0.085333,
+          0.99515
+        ],
+        [
+          42,
+          41.914667,
+          0.085333,
+          0.99389
+        ],
+        [
+          46,
+          45.914667,
+          0.085333,
+          0.99274
+        ],
+        [
+          50,
+          49.914667,
+          0.085333,
+          0.99274
+        ],
+        [
+          54,
+          53.914667,
+          0.085333,
+          0.99187
+        ],
+        [
+          58,
+          57.914667,
+          0.085333,
+          0.99348
+        ],
+        [
+          62,
+          61.914667,
+          0.085333,
+          0.99109
+        ],
+        [
+          66,
+          65.914667,
+          0.085333,
+          0.99007
+        ],
+        [
+          70,
+          69.914667,
+          0.085333,
+          0.99095
+        ],
+        [
+          74,
+          73.914667,
+          0.085333,
+          0.99095
+        ],
+        [
+          78,
+          77.914667,
+          0.085333,
+          0.99085
+        ],
+        [
+          82,
+          81.914667,
+          0.085333,
+          0.99426
+        ],
+        [
+          86,
+          85.914667,
+          0.085333,
+          0.99203
+        ],
+        [
+          90,
+          89.914667,
+          0.085333,
+          0.9901
+        ],
+        [
+          94,
+          93.914667,
+          0.085333,
+          0.98913
+        ],
+        [
+          98,
+          97.914667,
+          0.085333,
+          0.99095
+        ],
+        [
+          102,
+          101.914667,
+          0.085333,
+          0.99684
+        ],
+        [
+          106,
+          105.914667,
+          0.085333,
+          0.9971
+        ],
+        [
+          110,
+          109.914667,
+          0.085333,
+          0.9945
+        ],
+        [
+          114,
+          113.914667,
+          0.085333,
+          0.99395
+        ],
+        [
+          118,
+          117.914667,
+          0.085333,
+          0.99393
+        ],
+        [
+          122,
+          121.914667,
+          0.085333,
+          0.99103
+        ],
+        [
+          126,
+          125.914667,
+          0.085333,
+          0.98997
+        ],
+        [
+          130,
+          129.914667,
+          0.085333,
+          0.98994
+        ],
+        [
+          134,
+          133.914667,
+          0.085333,
+          0.99272
+        ],
+        [
+          138,
+          137.914667,
+          0.085333,
+          0.99217
+        ],
+        [
+          142,
+          141.914667,
+          0.085333,
+          0.99416
+        ],
+        [
+          146,
+          145.914667,
+          0.085333,
+          0.99429
+        ],
+        [
+          150,
+          149.914667,
+          0.085333,
+          0.99364
+        ],
+        [
+          154,
+          153.914667,
+          0.085333,
+          0.99204
+        ],
+        [
+          158,
+          157.914667,
+          0.085333,
+          0.9908
+        ],
+        [
+          162,
+          161.914667,
+          0.085333,
+          0.99056
+        ],
+        [
+          166,
+          165.914667,
+          0.085333,
+          0.99038
+        ],
+        [
+          170,
+          169.914667,
+          0.085333,
+          0.99074
+        ],
+        [
+          174,
+          173.914667,
+          0.085333,
+          0.99084
+        ],
+        [
+          178,
+          177.914667,
+          0.085333,
+          0.99201
+        ],
+        [
+          182,
+          181.914667,
+          0.085333,
+          0.99075
+        ],
+        [
+          186,
+          185.914667,
+          0.085333,
+          0.99245
+        ],
+        [
+          190,
+          189.914667,
+          0.085333,
+          0.99183
+        ],
+        [
+          194,
+          193.914667,
+          0.085333,
+          0.99091
+        ],
+        [
+          198,
+          197.914667,
+          0.085333,
+          0.99284
+        ],
+        [
+          202,
+          201.914667,
+          0.085333,
+          0.99722
+        ]
+      ]
+    },
+    "catalogAlbum": {
+      "videoSeconds": 209.386,
+      "providerSeconds": 208.2,
+      "rows": [
+        [
+          6,
+          18.179833,
+          -12.179833,
+          0.906
+        ],
+        [
+          10,
+          11.017,
+          -1.017,
+          0.87325
+        ],
+        [
+          14,
+          15.017,
+          -1.017,
+          0.87809
+        ],
+        [
+          18,
+          91.575167,
+          -73.575167,
+          0.87995
+        ],
+        [
+          22,
+          95.575167,
+          -73.575167,
+          0.92226
+        ],
+        [
+          26,
+          27.017,
+          -1.017,
+          0.95017
+        ],
+        [
+          30,
+          31.017,
+          -1.017,
+          0.97874
+        ],
+        [
+          34,
+          35.017,
+          -1.017,
+          0.97994
+        ],
+        [
+          38,
+          39.017,
+          -1.017,
+          0.95211
+        ],
+        [
+          42,
+          43.017,
+          -1.017,
+          0.9449
+        ],
+        [
+          46,
+          47.017,
+          -1.017,
+          0.93542
+        ],
+        [
+          50,
+          51.017,
+          -1.017,
+          0.9123
+        ],
+        [
+          54,
+          55.017,
+          -1.017,
+          0.91585
+        ],
+        [
+          58,
+          59.017,
+          -1.017,
+          0.91475
+        ],
+        [
+          62,
+          63.017,
+          -1.017,
+          0.90697
+        ],
+        [
+          66,
+          67.017,
+          -1.017,
+          0.90014
+        ],
+        [
+          70,
+          71.017,
+          -1.017,
+          0.90145
+        ],
+        [
+          74,
+          75.017,
+          -1.017,
+          0.90428
+        ],
+        [
+          78,
+          79.017,
+          -1.017,
+          0.8985
+        ],
+        [
+          82,
+          83.017,
+          -1.017,
+          0.91992
+        ],
+        [
+          86,
+          87.017,
+          -1.017,
+          0.8945
+        ],
+        [
+          90,
+          91.017,
+          -1.017,
+          0.87736
+        ],
+        [
+          94,
+          95.017,
+          -1.017,
+          0.87918
+        ],
+        [
+          98,
+          99.017,
+          -1.017,
+          0.92594
+        ],
+        [
+          102,
+          103.017,
+          -1.017,
+          0.98874
+        ],
+        [
+          106,
+          107.017,
+          -1.017,
+          0.98372
+        ],
+        [
+          110,
+          111.017,
+          -1.017,
+          0.94802
+        ],
+        [
+          114,
+          115.017,
+          -1.017,
+          0.94742
+        ],
+        [
+          118,
+          119.017,
+          -1.017,
+          0.94099
+        ],
+        [
+          122,
+          123.017,
+          -1.017,
+          0.89796
+        ],
+        [
+          126,
+          127.017,
+          -1.017,
+          0.90846
+        ],
+        [
+          130,
+          131.017,
+          -1.017,
+          0.9077
+        ],
+        [
+          134,
+          135.017,
+          -1.017,
+          0.91909
+        ],
+        [
+          138,
+          139.017,
+          -1.017,
+          0.92018
+        ],
+        [
+          142,
+          143.017,
+          -1.017,
+          0.93267
+        ],
+        [
+          146,
+          147.017,
+          -1.017,
+          0.90512
+        ],
+        [
+          150,
+          151.017,
+          -1.017,
+          0.90805
+        ],
+        [
+          154,
+          155.017,
+          -1.017,
+          0.91609
+        ],
+        [
+          158,
+          159.017,
+          -1.017,
+          0.90846
+        ],
+        [
+          162,
+          163.017,
+          -1.017,
+          0.90288
+        ],
+        [
+          166,
+          167.017,
+          -1.017,
+          0.90512
+        ],
+        [
+          170,
+          171.017,
+          -1.017,
+          0.90716
+        ],
+        [
+          174,
+          175.017,
+          -1.017,
+          0.90472
+        ],
+        [
+          178,
+          179.017,
+          -1.017,
+          0.8893
+        ],
+        [
+          182,
+          183.017,
+          -1.017,
+          0.88619
+        ],
+        [
+          186,
+          187.017,
+          -1.017,
+          0.90171
+        ],
+        [
+          190,
+          191.017,
+          -1.017,
+          0.88002
+        ],
+        [
+          194,
+          195.017,
+          -1.017,
+          0.88604
+        ],
+        [
+          198,
+          199.017,
+          -1.017,
+          0.89141
+        ],
+        [
+          202,
+          203.017,
+          -1.017,
+          0.84468
+        ]
+      ]
+    }
+  },
+  "mapping": {
+    "sourceAudioMinusMVSeconds": 0.085333,
+    "gameCutsSeconds": [
+      0,
+      33.055,
+      72.065,
+      105.625,
+      131.015
+    ],
+    "gameMinusSourceSeconds": [
+      -6.118666,
+      -17.281499,
+      -73.095416,
+      -78.676833
+    ]
+  },
+  "checks": "按句核对 KRC 的完整正文与实际剪辑，匹配记录保留源文件零基行号与词块下标。采用行整体波形相关度均高于 0.975，既有字幕句首差小于 0.4 秒，句尾差小于 0.25 秒。重复叠唱、剪辑边界和末字拖音保留逐句。",
+  "nativeUnitColumns": [
+    "sourceRow",
+    "sourceUnit",
+    "sourceStartMs",
+    "sourceEndMs"
+  ],
+  "adoptedRows": [
+    0,
+    1,
+    5,
+    6,
+    8,
+    9,
+    10,
+    32,
+    33,
+    34
+  ],
+  "publishedWordUnits": 104,
+  "rows": [
+    {
+      "row": 0,
+      "captionGameInterval": [
+        21.927,
+        24.687
+      ],
+      "gameSegment": 1,
+      "candidateMatches": [
+        {
+          "start": 22.016,
+          "end": 24.747,
+          "corr": 0.9941,
+          "corr10th": 0.9899,
+          "startDelta": 0.089,
+          "endDelta": 0.06,
+          "firstNativeUnit": [
+            0,
+            0
+          ],
+          "lastNativeUnit": [
+            0,
+            12
+          ]
+        }
+      ],
+      "decision": "adopted",
+      "gameInterval": [
+        22.016,
+        24.747
+      ],
+      "nativeUnits": [
+        [
+          0,
+          0,
+          28135,
+          28288
+        ],
+        [
+          0,
+          1,
+          28288,
+          28468
+        ],
+        [
+          0,
+          2,
+          28468,
+          28642
+        ],
+        [
+          0,
+          3,
+          28642,
+          28806
+        ],
+        [
+          0,
+          4,
+          28806,
+          28983
+        ],
+        [
+          0,
+          5,
+          28983,
+          29385
+        ],
+        [
+          0,
+          6,
+          29385,
+          29619
+        ],
+        [
+          0,
+          7,
+          29619,
+          29831
+        ],
+        [
+          0,
+          8,
+          29831,
+          30001
+        ],
+        [
+          0,
+          9,
+          30001,
+          30184
+        ],
+        [
+          0,
+          10,
+          30184,
+          30337
+        ],
+        [
+          0,
+          11,
+          30337,
+          30527
+        ],
+        [
+          0,
+          12,
+          30527,
+          30866
+        ]
+      ]
+    },
+    {
+      "row": 1,
+      "captionGameInterval": [
+        24.687,
+        27.527
+      ],
+      "gameSegment": 1,
+      "candidateMatches": [
+        {
+          "start": 24.947,
+          "end": 27.494,
+          "corr": 0.9967,
+          "corr10th": 0.9948,
+          "startDelta": 0.26,
+          "endDelta": -0.033,
+          "firstNativeUnit": [
+            1,
+            0
+          ],
+          "lastNativeUnit": [
+            1,
+            10
+          ]
+        }
+      ],
+      "decision": "adopted",
+      "gameInterval": [
+        24.947,
+        27.494
+      ],
+      "nativeUnits": [
+        [
+          1,
+          0,
+          31066,
+          31215
+        ],
+        [
+          1,
+          1,
+          31215,
+          31403
+        ],
+        [
+          1,
+          2,
+          31403,
+          31758
+        ],
+        [
+          1,
+          3,
+          31758,
+          32402
+        ],
+        [
+          1,
+          4,
+          32402,
+          32600
+        ],
+        [
+          1,
+          5,
+          32600,
+          32768
+        ],
+        [
+          1,
+          6,
+          32768,
+          32946
+        ],
+        [
+          1,
+          7,
+          32946,
+          33112
+        ],
+        [
+          1,
+          8,
+          33112,
+          33290
+        ],
+        [
+          1,
+          9,
+          33290,
+          33493
+        ],
+        [
+          1,
+          10,
+          33493,
+          33613
+        ]
+      ]
+    },
+    {
+      "row": 2,
+      "captionGameInterval": [
+        27.527,
+        31.527
+      ],
+      "gameSegment": 1,
+      "candidateMatches": [],
+      "decision": "retained_line_timing",
+      "reason": "原生词块的正文缺字或字面与现有歌词不同，无法完整对应。"
+    },
+    {
+      "row": 3,
+      "captionGameInterval": [
+        31.527,
+        33.055
+      ],
+      "gameSegment": 1,
+      "candidateMatches": [
+        {
+          "start": 32.156,
+          "end": 33.113,
+          "corr": 0.9422,
+          "corr10th": 0.9918,
+          "startDelta": 0.629,
+          "endDelta": 0.058,
+          "firstNativeUnit": [
+            3,
+            0
+          ],
+          "lastNativeUnit": [
+            3,
+            5
+          ]
+        }
+      ],
+      "decision": "retained_line_timing",
+      "reason": "音节起止与既有句轴差异较大，或词块延伸到相邻歌词，保留逐句。"
+    },
+    {
+      "row": 4,
+      "captionGameInterval": [
+        33.055,
+        33.944
+      ],
+      "gameSegment": 2,
+      "candidateMatches": [
+        {
+          "start": 33.005,
+          "end": 34.127,
+          "corr": 0.964,
+          "corr10th": 0.9191,
+          "startDelta": -0.05,
+          "endDelta": 0.183,
+          "firstNativeUnit": [
+            8,
+            4
+          ],
+          "lastNativeUnit": [
+            8,
+            9
+          ]
+        }
+      ],
+      "decision": "retained_line_timing",
+      "reason": "源逐字区间横跨当前游戏剪辑，保留已核对的逐句。"
+    },
+    {
+      "row": 5,
+      "captionGameInterval": [
+        34.444,
+        35.404
+      ],
+      "gameSegment": 2,
+      "candidateMatches": [
+        {
+          "start": 34.452,
+          "end": 35.483,
+          "corr": 0.9837,
+          "corr10th": 0.9822,
+          "startDelta": 0.008,
+          "endDelta": 0.079,
+          "firstNativeUnit": [
+            10,
+            0
+          ],
+          "lastNativeUnit": [
+            10,
+            5
+          ]
+        }
+      ],
+      "decision": "adopted",
+      "gameInterval": [
+        34.452,
+        35.483
+      ],
+      "nativeUnits": [
+        [
+          10,
+          0,
+          51733,
+          51889
+        ],
+        [
+          10,
+          1,
+          51889,
+          52066
+        ],
+        [
+          10,
+          2,
+          52066,
+          52303
+        ],
+        [
+          10,
+          3,
+          52303,
+          52504
+        ],
+        [
+          10,
+          4,
+          52504,
+          52681
+        ],
+        [
+          10,
+          5,
+          52681,
+          52764
+        ]
+      ]
+    },
+    {
+      "row": 6,
+      "captionGameInterval": [
+        35.904,
+        38.524
+      ],
+      "gameSegment": 2,
+      "candidateMatches": [
+        {
+          "start": 35.732,
+          "end": 38.402,
+          "corr": 0.9833,
+          "corr10th": 0.9805,
+          "startDelta": -0.172,
+          "endDelta": -0.122,
+          "firstNativeUnit": [
+            12,
+            0
+          ],
+          "lastNativeUnit": [
+            12,
+            14
+          ]
+        }
+      ],
+      "decision": "adopted",
+      "gameInterval": [
+        35.732,
+        38.402
+      ],
+      "nativeUnits": [
+        [
+          12,
+          0,
+          53013,
+          53186
+        ],
+        [
+          12,
+          1,
+          53186,
+          53364
+        ],
+        [
+          12,
+          2,
+          53364,
+          53516
+        ],
+        [
+          12,
+          3,
+          53516,
+          53694
+        ],
+        [
+          12,
+          4,
+          53694,
+          54012
+        ],
+        [
+          12,
+          5,
+          54012,
+          54202
+        ],
+        [
+          12,
+          6,
+          54202,
+          54381
+        ],
+        [
+          12,
+          7,
+          54381,
+          54545
+        ],
+        [
+          12,
+          8,
+          54545,
+          54721
+        ],
+        [
+          12,
+          9,
+          54721,
+          54932
+        ],
+        [
+          12,
+          10,
+          54932,
+          55038
+        ],
+        [
+          12,
+          11,
+          55038,
+          55217
+        ],
+        [
+          12,
+          12,
+          55217,
+          55383
+        ],
+        [
+          12,
+          13,
+          55383,
+          55632
+        ],
+        [
+          12,
+          14,
+          55632,
+          55683
+        ]
+      ]
+    },
+    {
+      "row": 7,
+      "captionGameInterval": [
+        38.524,
+        41.524
+      ],
+      "gameSegment": 2,
+      "candidateMatches": [],
+      "decision": "retained_line_timing",
+      "reason": "原生词块的正文缺字或字面与现有歌词不同，无法完整对应。"
+    },
+    {
+      "row": 8,
+      "captionGameInterval": [
+        41.524,
+        44.104
+      ],
+      "gameSegment": 2,
+      "candidateMatches": [
+        {
+          "start": 41.827,
+          "end": 44.265,
+          "corr": 0.985,
+          "corr10th": 0.9737,
+          "startDelta": 0.303,
+          "endDelta": 0.161,
+          "firstNativeUnit": [
+            16,
+            0
+          ],
+          "lastNativeUnit": [
+            16,
+            8
+          ]
+        }
+      ],
+      "decision": "adopted",
+      "gameInterval": [
+        41.827,
+        44.265
+      ],
+      "nativeUnits": [
+        [
+          16,
+          0,
+          59108,
+          59267
+        ],
+        [
+          16,
+          1,
+          59267,
+          59438
+        ],
+        [
+          16,
+          2,
+          59438,
+          59635
+        ],
+        [
+          16,
+          3,
+          59635,
+          59831
+        ],
+        [
+          16,
+          4,
+          59831,
+          60004
+        ],
+        [
+          16,
+          5,
+          60004,
+          60228
+        ],
+        [
+          16,
+          6,
+          60228,
+          60665
+        ],
+        [
+          16,
+          7,
+          60665,
+          60884
+        ],
+        [
+          16,
+          8,
+          60884,
+          61546
+        ]
+      ]
+    },
+    {
+      "row": 9,
+      "captionGameInterval": [
+        44.104,
+        48.454
+      ],
+      "gameSegment": 2,
+      "candidateMatches": [
+        {
+          "start": 44.465,
+          "end": 48.68,
+          "corr": 0.9825,
+          "corr10th": 0.9767,
+          "startDelta": 0.361,
+          "endDelta": 0.226,
+          "firstNativeUnit": [
+            17,
+            0
+          ],
+          "lastNativeUnit": [
+            18,
+            7
+          ]
+        }
+      ],
+      "decision": "adopted",
+      "gameInterval": [
+        44.465,
+        48.68
+      ],
+      "nativeUnits": [
+        [
+          17,
+          0,
+          61746,
+          62072
+        ],
+        [
+          17,
+          1,
+          62072,
+          62430
+        ],
+        [
+          17,
+          2,
+          62430,
+          62599
+        ],
+        [
+          17,
+          3,
+          62599,
+          62763
+        ],
+        [
+          17,
+          4,
+          62763,
+          62980
+        ],
+        [
+          17,
+          5,
+          62980,
+          63152
+        ],
+        [
+          17,
+          6,
+          63152,
+          63450
+        ],
+        [
+          17,
+          7,
+          63450,
+          63801
+        ],
+        [
+          17,
+          8,
+          63801,
+          63924
+        ],
+        [
+          18,
+          0,
+          64124,
+          64278
+        ],
+        [
+          18,
+          1,
+          64278,
+          64442
+        ],
+        [
+          18,
+          2,
+          64442,
+          64778
+        ],
+        [
+          18,
+          3,
+          64778,
+          65118
+        ],
+        [
+          18,
+          4,
+          65118,
+          65318
+        ],
+        [
+          18,
+          5,
+          65318,
+          65496
+        ],
+        [
+          18,
+          6,
+          65496,
+          65744
+        ],
+        [
+          18,
+          7,
+          65744,
+          65961
+        ]
+      ]
+    },
+    {
+      "row": 10,
+      "captionGameInterval": [
+        48.514,
+        52.204
+      ],
+      "gameSegment": 2,
+      "candidateMatches": [
+        {
+          "start": 48.88,
+          "end": 52.184,
+          "corr": 0.9798,
+          "corr10th": 0.9763,
+          "startDelta": 0.366,
+          "endDelta": -0.02,
+          "firstNativeUnit": [
+            19,
+            0
+          ],
+          "lastNativeUnit": [
+            20,
+            7
+          ]
+        }
+      ],
+      "decision": "adopted",
+      "gameInterval": [
+        48.88,
+        52.184
+      ],
+      "nativeUnits": [
+        [
+          19,
+          0,
+          66161,
+          66339
+        ],
+        [
+          19,
+          1,
+          66339,
+          66513
+        ],
+        [
+          19,
+          2,
+          66513,
+          66668
+        ],
+        [
+          19,
+          3,
+          66668,
+          66928
+        ],
+        [
+          19,
+          4,
+          66928,
+          67154
+        ],
+        [
+          20,
+          0,
+          67354,
+          67610
+        ],
+        [
+          20,
+          1,
+          67610,
+          67869
+        ],
+        [
+          20,
+          2,
+          67869,
+          68080
+        ],
+        [
+          20,
+          3,
+          68080,
+          68280
+        ],
+        [
+          20,
+          4,
+          68280,
+          68459
+        ],
+        [
+          20,
+          5,
+          68459,
+          68629
+        ],
+        [
+          20,
+          6,
+          68629,
+          68929
+        ],
+        [
+          20,
+          7,
+          68929,
+          69465
+        ]
+      ]
+    },
+    {
+      "row": 11,
+      "captionGameInterval": [
+        52.244,
+        52.864
+      ],
+      "gameSegment": 2,
+      "candidateMatches": [
+        {
+          "start": 52.384,
+          "end": 53.214,
+          "corr": 0.9807,
+          "corr10th": 0.9767,
+          "startDelta": 0.14,
+          "endDelta": 0.35,
+          "firstNativeUnit": [
+            21,
+            0
+          ],
+          "lastNativeUnit": [
+            21,
+            3
+          ]
+        }
+      ],
+      "decision": "retained_line_timing",
+      "reason": "快速重复叠唱分词起止与独立字幕差异较大或匹配歧义，整组保留逐句。"
+    },
+    {
+      "row": 12,
+      "captionGameInterval": [
+        52.924,
+        53.544
+      ],
+      "gameSegment": 2,
+      "candidateMatches": [
+        {
+          "start": 52.384,
+          "end": 53.214,
+          "corr": 0.9807,
+          "corr10th": 0.9767,
+          "startDelta": -0.54,
+          "endDelta": -0.33,
+          "firstNativeUnit": [
+            21,
+            0
+          ],
+          "lastNativeUnit": [
+            21,
+            3
+          ]
+        },
+        {
+          "start": 53.214,
+          "end": 53.567,
+          "corr": 0.9847,
+          "corr10th": 0.9879,
+          "startDelta": 0.29,
+          "endDelta": 0.023,
+          "firstNativeUnit": [
+            21,
+            4
+          ],
+          "lastNativeUnit": [
+            21,
+            7
+          ]
+        },
+        {
+          "start": 53.567,
+          "end": 54.164,
+          "corr": 0.9817,
+          "corr10th": 0.9801,
+          "startDelta": 0.643,
+          "endDelta": 0.62,
+          "firstNativeUnit": [
+            21,
+            8
+          ],
+          "lastNativeUnit": [
+            21,
+            11
+          ]
+        }
+      ],
+      "decision": "retained_line_timing",
+      "reason": "快速重复叠唱分词起止与独立字幕差异较大或匹配歧义，整组保留逐句。"
+    },
+    {
+      "row": 13,
+      "captionGameInterval": [
+        53.604,
+        54.224
+      ],
+      "gameSegment": 2,
+      "candidateMatches": [
+        {
+          "start": 53.214,
+          "end": 53.567,
+          "corr": 0.9847,
+          "corr10th": 0.9879,
+          "startDelta": -0.39,
+          "endDelta": -0.657,
+          "firstNativeUnit": [
+            21,
+            4
+          ],
+          "lastNativeUnit": [
+            21,
+            7
+          ]
+        },
+        {
+          "start": 53.567,
+          "end": 54.164,
+          "corr": 0.9817,
+          "corr10th": 0.9801,
+          "startDelta": -0.037,
+          "endDelta": -0.06,
+          "firstNativeUnit": [
+            21,
+            8
+          ],
+          "lastNativeUnit": [
+            21,
+            11
+          ]
+        }
+      ],
+      "decision": "retained_line_timing",
+      "reason": "快速重复叠唱分词起止与独立字幕差异较大或匹配歧义，整组保留逐句。"
+    },
+    {
+      "row": 14,
+      "captionGameInterval": [
+        54.304,
+        55.344
+      ],
+      "gameSegment": 2,
+      "candidateMatches": [
+        {
+          "start": 53.567,
+          "end": 54.164,
+          "corr": 0.9817,
+          "corr10th": 0.9801,
+          "startDelta": -0.737,
+          "endDelta": -1.18,
+          "firstNativeUnit": [
+            21,
+            8
+          ],
+          "lastNativeUnit": [
+            21,
+            11
+          ]
+        },
+        {
+          "start": 54.364,
+          "end": 55.452,
+          "corr": 0.9832,
+          "corr10th": 0.9801,
+          "startDelta": 0.06,
+          "endDelta": 0.108,
+          "firstNativeUnit": [
+            22,
+            0
+          ],
+          "lastNativeUnit": [
+            22,
+            3
+          ]
+        }
+      ],
+      "decision": "retained_line_timing",
+      "reason": "快速重复叠唱分词起止与独立字幕差异较大或匹配歧义，整组保留逐句。"
+    },
+    {
+      "row": 15,
+      "captionGameInterval": [
+        55.424,
+        59.764
+      ],
+      "gameSegment": 2,
+      "candidateMatches": [
+        {
+          "start": 55.652,
+          "end": 60.167,
+          "corr": 0.9812,
+          "corr10th": 0.9767,
+          "startDelta": 0.228,
+          "endDelta": 0.403,
+          "firstNativeUnit": [
+            23,
+            0
+          ],
+          "lastNativeUnit": [
+            24,
+            7
+          ]
+        }
+      ],
+      "decision": "retained_line_timing",
+      "reason": "音节起止与既有句轴差异较大，或词块延伸到相邻歌词，保留逐句。"
+    },
+    {
+      "row": 16,
+      "captionGameInterval": [
+        59.764,
+        63.324
+      ],
+      "gameSegment": 2,
+      "candidateMatches": [
+        {
+          "start": 60.167,
+          "end": 63.502,
+          "corr": 0.9807,
+          "corr10th": 0.9776,
+          "startDelta": 0.403,
+          "endDelta": 0.178,
+          "firstNativeUnit": [
+            24,
+            8
+          ],
+          "lastNativeUnit": [
+            25,
+            9
+          ]
+        }
+      ],
+      "decision": "retained_line_timing",
+      "reason": "音节起止与既有句轴差异较大，或词块延伸到相邻歌词，保留逐句。"
+    },
+    {
+      "row": 17,
+      "captionGameInterval": [
+        63.324,
+        66.164
+      ],
+      "gameSegment": 2,
+      "candidateMatches": [],
+      "decision": "retained_line_timing",
+      "reason": "原生词块的正文缺字或字面与现有歌词不同，无法完整对应。"
+    },
+    {
+      "row": 18,
+      "captionGameInterval": [
+        66.164,
+        69.944
+      ],
+      "gameSegment": 2,
+      "candidateMatches": [
+        {
+          "start": 66.332,
+          "end": 68.132,
+          "corr": 0.9859,
+          "corr10th": 0.9826,
+          "startDelta": 0.168,
+          "endDelta": -1.812,
+          "firstNativeUnit": [
+            28,
+            0
+          ],
+          "lastNativeUnit": [
+            28,
+            3
+          ]
+        }
+      ],
+      "decision": "retained_line_timing",
+      "reason": "末字持续音的收尾与独立字幕区间差异超过 1 秒，保留逐句。"
+    },
+    {
+      "row": 19,
+      "captionGameInterval": [
+        72.065,
+        76.59
+      ],
+      "gameSegment": 3,
+      "candidateMatches": [
+        {
+          "start": 72.328,
+          "end": 76.708,
+          "corr": 0.7971,
+          "corr10th": 0.7388,
+          "startDelta": 0.263,
+          "endDelta": 0.118,
+          "firstNativeUnit": [
+            57,
+            0
+          ],
+          "lastNativeUnit": [
+            58,
+            7
+          ]
+        }
+      ],
+      "decision": "retained_line_timing",
+      "reason": "游戏后段混音增益不同，共用录音已确认。该行的局部校验或边界一致性未达到本次逐字采用门槛。"
+    },
+    {
+      "row": 20,
+      "captionGameInterval": [
+        76.59,
+        81.79
+      ],
+      "gameSegment": 3,
+      "candidateMatches": [
+        {
+          "start": 76.908,
+          "end": 82.116,
+          "corr": 0.7876,
+          "corr10th": 0.7094,
+          "startDelta": 0.318,
+          "endDelta": 0.326,
+          "firstNativeUnit": [
+            59,
+            0
+          ],
+          "lastNativeUnit": [
+            61,
+            8
+          ]
+        }
+      ],
+      "decision": "retained_line_timing",
+      "reason": "游戏后段混音增益不同，共用录音已确认。该行的局部校验或边界一致性未达到本次逐字采用门槛。"
+    },
+    {
+      "row": 21,
+      "captionGameInterval": [
+        81.79,
+        83.05
+      ],
+      "gameSegment": 3,
+      "candidateMatches": [
+        {
+          "start": 82.116,
+          "end": 83.369,
+          "corr": 0.9094,
+          "corr10th": 0.8037,
+          "startDelta": 0.326,
+          "endDelta": 0.319,
+          "firstNativeUnit": [
+            61,
+            9
+          ],
+          "lastNativeUnit": [
+            61,
+            11
+          ]
+        }
+      ],
+      "decision": "retained_line_timing",
+      "reason": "游戏后段混音增益不同，共用录音已确认。该行的局部校验或边界一致性未达到本次逐字采用门槛。"
+    },
+    {
+      "row": 22,
+      "captionGameInterval": [
+        83.05,
+        87.6
+      ],
+      "gameSegment": 3,
+      "candidateMatches": [
+        {
+          "start": 83.569,
+          "end": 87.782,
+          "corr": 0.8116,
+          "corr10th": 0.7629,
+          "startDelta": 0.519,
+          "endDelta": 0.182,
+          "firstNativeUnit": [
+            62,
+            0
+          ],
+          "lastNativeUnit": [
+            63,
+            7
+          ]
+        }
+      ],
+      "decision": "retained_line_timing",
+      "reason": "音节起止与既有句轴差异较大，或词块延伸到相邻歌词，保留逐句。"
+    },
+    {
+      "row": 23,
+      "captionGameInterval": [
+        87.6,
+        91.19
+      ],
+      "gameSegment": 3,
+      "candidateMatches": [
+        {
+          "start": 87.982,
+          "end": 91.276,
+          "corr": 0.7863,
+          "corr10th": 0.7513,
+          "startDelta": 0.382,
+          "endDelta": 0.086,
+          "firstNativeUnit": [
+            64,
+            0
+          ],
+          "lastNativeUnit": [
+            65,
+            7
+          ]
+        }
+      ],
+      "decision": "retained_line_timing",
+      "reason": "音节起止与既有句轴差异较大，或词块延伸到相邻歌词，保留逐句。"
+    },
+    {
+      "row": 24,
+      "captionGameInterval": [
+        91.19,
+        91.93
+      ],
+      "gameSegment": 3,
+      "candidateMatches": [
+        {
+          "start": 91.476,
+          "end": 92.174,
+          "corr": 0.7844,
+          "corr10th": 0.7393,
+          "startDelta": 0.286,
+          "endDelta": 0.244,
+          "firstNativeUnit": [
+            66,
+            0
+          ],
+          "lastNativeUnit": [
+            66,
+            3
+          ]
+        }
+      ],
+      "decision": "retained_line_timing",
+      "reason": "快速重复叠唱分词起止与独立字幕差异较大或匹配歧义，整组保留逐句。"
+    },
+    {
+      "row": 25,
+      "captionGameInterval": [
+        91.99,
+        92.57
+      ],
+      "gameSegment": 3,
+      "candidateMatches": [
+        {
+          "start": 91.476,
+          "end": 92.174,
+          "corr": 0.7844,
+          "corr10th": 0.7393,
+          "startDelta": -0.514,
+          "endDelta": -0.396,
+          "firstNativeUnit": [
+            66,
+            0
+          ],
+          "lastNativeUnit": [
+            66,
+            3
+          ]
+        },
+        {
+          "start": 92.174,
+          "end": 92.92,
+          "corr": 0.8254,
+          "corr10th": 0.8182,
+          "startDelta": 0.184,
+          "endDelta": 0.35,
+          "firstNativeUnit": [
+            66,
+            4
+          ],
+          "lastNativeUnit": [
+            66,
+            7
+          ]
+        }
+      ],
+      "decision": "retained_line_timing",
+      "reason": "快速重复叠唱分词起止与独立字幕差异较大或匹配歧义，整组保留逐句。"
+    },
+    {
+      "row": 26,
+      "captionGameInterval": [
+        92.67,
+        93.35
+      ],
+      "gameSegment": 3,
+      "candidateMatches": [
+        {
+          "start": 92.174,
+          "end": 92.92,
+          "corr": 0.8254,
+          "corr10th": 0.8182,
+          "startDelta": -0.496,
+          "endDelta": -0.43,
+          "firstNativeUnit": [
+            66,
+            4
+          ],
+          "lastNativeUnit": [
+            66,
+            7
+          ]
+        },
+        {
+          "start": 92.92,
+          "end": 93.489,
+          "corr": 0.7827,
+          "corr10th": 0.7455,
+          "startDelta": 0.25,
+          "endDelta": 0.139,
+          "firstNativeUnit": [
+            66,
+            8
+          ],
+          "lastNativeUnit": [
+            66,
+            11
+          ]
+        }
+      ],
+      "decision": "retained_line_timing",
+      "reason": "快速重复叠唱分词起止与独立字幕差异较大或匹配歧义，整组保留逐句。"
+    },
+    {
+      "row": 27,
+      "captionGameInterval": [
+        93.41,
+        94.21
+      ],
+      "gameSegment": 3,
+      "candidateMatches": [
+        {
+          "start": 92.92,
+          "end": 93.489,
+          "corr": 0.7827,
+          "corr10th": 0.7455,
+          "startDelta": -0.49,
+          "endDelta": -0.721,
+          "firstNativeUnit": [
+            66,
+            8
+          ],
+          "lastNativeUnit": [
+            66,
+            11
+          ]
+        },
+        {
+          "start": 93.573,
+          "end": 94.447,
+          "corr": 0.7964,
+          "corr10th": 0.7835,
+          "startDelta": 0.163,
+          "endDelta": 0.237,
+          "firstNativeUnit": [
+            67,
+            0
+          ],
+          "lastNativeUnit": [
+            67,
+            3
+          ]
+        }
+      ],
+      "decision": "retained_line_timing",
+      "reason": "快速重复叠唱分词起止与独立字幕差异较大或匹配歧义，整组保留逐句。"
+    },
+    {
+      "row": 28,
+      "captionGameInterval": [
+        94.39,
+        98.57
+      ],
+      "gameSegment": 3,
+      "candidateMatches": [
+        {
+          "start": 94.647,
+          "end": 99.164,
+          "corr": 0.7965,
+          "corr10th": 0.7298,
+          "startDelta": 0.257,
+          "endDelta": 0.594,
+          "firstNativeUnit": [
+            68,
+            0
+          ],
+          "lastNativeUnit": [
+            69,
+            7
+          ]
+        }
+      ],
+      "decision": "retained_line_timing",
+      "reason": "音节起止与既有句轴差异较大，或词块延伸到相邻歌词，保留逐句。"
+    },
+    {
+      "row": 29,
+      "captionGameInterval": [
+        98.57,
+        102.29
+      ],
+      "gameSegment": 3,
+      "candidateMatches": [
+        {
+          "start": 99.164,
+          "end": 102.464,
+          "corr": 0.7917,
+          "corr10th": 0.7499,
+          "startDelta": 0.594,
+          "endDelta": 0.174,
+          "firstNativeUnit": [
+            69,
+            8
+          ],
+          "lastNativeUnit": [
+            70,
+            9
+          ]
+        }
+      ],
+      "decision": "retained_line_timing",
+      "reason": "音节起止与既有句轴差异较大，或词块延伸到相邻歌词，保留逐句。"
+    },
+    {
+      "row": 30,
+      "captionGameInterval": [
+        102.29,
+        105.19
+      ],
+      "gameSegment": 3,
+      "candidateMatches": [],
+      "decision": "retained_line_timing",
+      "reason": "原生词块的正文缺字或字面与现有歌词不同，无法完整对应。"
+    },
+    {
+      "row": 31,
+      "captionGameInterval": [
+        105.19,
+        108.48
+      ],
+      "gameSegment": 3,
+      "candidateMatches": [
+        {
+          "start": 105.481,
+          "end": 106.92,
+          "corr": 0.5022,
+          "corr10th": 0.3955,
+          "startDelta": 0.291,
+          "endDelta": -1.56,
+          "firstNativeUnit": [
+            73,
+            0
+          ],
+          "lastNativeUnit": [
+            73,
+            3
+          ]
+        }
+      ],
+      "decision": "retained_line_timing",
+      "reason": "源逐字区间横跨当前游戏剪辑，保留已核对的逐句。"
+    },
+    {
+      "row": 32,
+      "captionGameInterval": [
+        110.929,
+        113.888
+      ],
+      "gameSegment": 4,
+      "candidateMatches": [
+        {
+          "start": 111.22,
+          "end": 113.766,
+          "corr": 0.9792,
+          "corr10th": 0.9763,
+          "startDelta": 0.291,
+          "endDelta": -0.122,
+          "firstNativeUnit": [
+            75,
+            0
+          ],
+          "lastNativeUnit": [
+            75,
+            6
+          ]
+        }
+      ],
+      "decision": "adopted",
+      "gameInterval": [
+        111.22,
+        113.766
+      ],
+      "nativeUnits": [
+        [
+          75,
+          0,
+          189897,
+          190075
+        ],
+        [
+          75,
+          1,
+          190075,
+          190535
+        ],
+        [
+          75,
+          2,
+          190535,
+          190724
+        ],
+        [
+          75,
+          3,
+          190724,
+          191210
+        ],
+        [
+          75,
+          4,
+          191210,
+          191408
+        ],
+        [
+          75,
+          5,
+          191408,
+          192124
+        ],
+        [
+          75,
+          6,
+          192124,
+          192443
+        ]
+      ]
+    },
+    {
+      "row": 33,
+      "captionGameInterval": [
+        113.888,
+        116.349
+      ],
+      "gameSegment": 4,
+      "candidateMatches": [
+        {
+          "start": 113.966,
+          "end": 116.533,
+          "corr": 0.9792,
+          "corr10th": 0.9744,
+          "startDelta": 0.078,
+          "endDelta": 0.184,
+          "firstNativeUnit": [
+            76,
+            0
+          ],
+          "lastNativeUnit": [
+            76,
+            6
+          ]
+        }
+      ],
+      "decision": "adopted",
+      "gameInterval": [
+        113.966,
+        116.533
+      ],
+      "nativeUnits": [
+        [
+          76,
+          0,
+          192643,
+          192825
+        ],
+        [
+          76,
+          1,
+          192825,
+          193258
+        ],
+        [
+          76,
+          2,
+          193258,
+          193442
+        ],
+        [
+          76,
+          3,
+          193442,
+          194011
+        ],
+        [
+          76,
+          4,
+          194011,
+          194202
+        ],
+        [
+          76,
+          5,
+          194202,
+          194943
+        ],
+        [
+          76,
+          6,
+          194943,
+          195210
+        ]
+      ]
+    },
+    {
+      "row": 34,
+      "captionGameInterval": [
+        116.349,
+        119.189
+      ],
+      "gameSegment": 4,
+      "candidateMatches": [
+        {
+          "start": 116.733,
+          "end": 119.128,
+          "corr": 0.9781,
+          "corr10th": 0.9747,
+          "startDelta": 0.384,
+          "endDelta": -0.061,
+          "firstNativeUnit": [
+            77,
+            0
+          ],
+          "lastNativeUnit": [
+            77,
+            5
+          ]
+        }
+      ],
+      "decision": "adopted",
+      "gameInterval": [
+        116.733,
+        119.128
+      ],
+      "nativeUnits": [
+        [
+          77,
+          0,
+          195410,
+          195626
+        ],
+        [
+          77,
+          1,
+          195626,
+          196108
+        ],
+        [
+          77,
+          2,
+          196108,
+          196323
+        ],
+        [
+          77,
+          3,
+          196323,
+          196940
+        ],
+        [
+          77,
+          4,
+          196940,
+          197686
+        ],
+        [
+          77,
+          5,
+          197686,
+          197805
+        ]
+      ]
+    },
+    {
+      "row": 35,
+      "captionGameInterval": [
+        119.189,
+        121.948
+      ],
+      "gameSegment": 4,
+      "candidateMatches": [],
+      "decision": "retained_line_timing",
+      "reason": "原生词块的正文缺字或字面与现有歌词不同，无法完整对应。"
+    },
+    {
+      "row": 36,
+      "captionGameInterval": [
+        121.948,
+        126.749
+      ],
+      "gameSegment": 4,
+      "candidateMatches": [
+        {
+          "start": 122.155,
+          "end": 123.661,
+          "corr": 0.982,
+          "corr10th": 0.9783,
+          "startDelta": 0.207,
+          "endDelta": -3.088,
+          "firstNativeUnit": [
+            80,
+            0
+          ],
+          "lastNativeUnit": [
+            80,
+            3
+          ]
+        }
+      ],
+      "decision": "retained_line_timing",
+      "reason": "末字持续音的收尾与独立字幕区间差异超过 1 秒，保留逐句。"
+    }
+  ]
+}
