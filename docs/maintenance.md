@@ -6,7 +6,7 @@
 
 1. 更新对应成品文件，保留参考版本、音频起点和来源信息。
 2. 逐字单元只能使用实际保存的时间，核对 UTF-16 文字范围和发生位置；不能因为一句歌词相同，就误套另一遍副歌的时间。
-3. 保留原项目分唱及来源署名，必要时同步更新 `sources.json`。作词、作曲由播放器从游戏 master 读取，歌词 `credits` 仅维护译者等来源署名。
+3. 保留原项目分唱及来源署名，必要时同步更新 `sources.json`。作词、作曲由播放器从游戏 master 读取，歌词 `credits` 仅维护译者等来源署名。作词、作曲和编曲字段均省略。
 4. LRC 歌曲的译文要逐行对应：`translationLrc` 的每一行使用所翻译原文行的时间标签，同一时间标签只有一行；一句译文跨几行原文时按原文行拆开，拆不开的整句放在第一行。`game.lrc`、`game.zh-CN.lrc` 与 `lyrics.json` 的 `lrc`、`translationLrc` 必须完全一致。
 5. 更新 `catalog.json` 的统计，重新生成覆盖报告。
 6. 更新罗马音：`uv run --no-project --with Janome==0.5.0 python scripts/add-romaji.py`（文字或注音改动后需要重跑；内容不变的文件不会被改写）。
