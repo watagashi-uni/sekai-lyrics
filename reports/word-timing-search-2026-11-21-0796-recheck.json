@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-21",
+  "scope": "按要求逐行复核首轮 27 行，复用已保存的公开酷狗 KRC 与源录音。",
+  "songs": [
+    {
+      "musicId": 796,
+      "title": "ジグソーパズル",
+      "wordTimingSearch": false,
+      "previousSearchEvidence": "reports/word-timing-search-2026-11-21-0796.json",
+      "earlierSearchEvidence": "reports/word-timing-search-2026-11-19-0777-0796.json",
+      "alignmentEvidence": "reports/evidence/0796-2026-11-21-krc-recheck.json",
+      "providers": {
+        "kugou": {
+          "queries": [],
+          "fetched": [],
+          "reviewedSavedRecords": [
+            {
+              "id": "301359758",
+              "title": "ジグソーパズル",
+              "artists": [
+                "まふまふ",
+                "鏡音レン"
+              ],
+              "source_url": "https://www.kugou.com/song/#hash=741b115b0683cf24f0feae6aafffc6be",
+              "format": "krc",
+              "fetchedInPreviousBatch": true,
+              "decision": "extended_partial_use",
+              "verifiedAddedWordTimedLines": 19,
+              "verifiedAddedUnits": 199,
+              "currentWordTimedLines": 29,
+              "currentWordUnits": 303,
+              "reason": "补齐分离人声和剪辑支持的段落。原生词块缺字、误跨重复、长音过短或跨剪辑的 8 行仍保留逐句。",
+              "evidence": "reports/evidence/0796-2026-11-21-krc-recheck.json"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
